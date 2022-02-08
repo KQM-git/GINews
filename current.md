@@ -142,7 +142,7 @@ To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepa
 
 You can check your game data at the click of a button, ranging from leveling, to collection, to Spiral Abyss data.
 
-View Location: 
+View Location:
 
 [HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
@@ -150,7 +150,7 @@ View Location:
 
 Use Daily Check-In to obtain in-game rewards. You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-View Location: 
+View Location:
 
 [HoYoLAB > Tools > Genshin Impact > Check-in](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
@@ -158,7 +158,7 @@ View Location:
 
 You can find target resources on the map and plan your route at any time.
 
-View Location: 
+View Location:
 
 [HoYoLAB > Tools > Genshin Impact > Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?utm_source=ingame&utm_medium=notice&utm_campaign=pc&bbs_presentation_style=no_header&lang=zh-cn&bbs_theme=light&bbs_theme_device=0#/map/2)
 
@@ -166,7 +166,7 @@ View Location:
 
 You can check the amount of Primogems and Mora that you have obtained monthly since you began playing the game in the Traveler's Diary, along with details about where or how you obtained them.
 
-View Location: 
+View Location:
 
 [HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://webstatic-sea.mihoyo.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
@@ -174,11 +174,11 @@ View Location:
 
 You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, and weapons.
 
-View Location: 
+View Location:
 
 [HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://webstatic-sea.mihoyo.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
-Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below: 
+Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
 [>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
@@ -228,7 +228,7 @@ The Alternate Outfits for the characters "Dandelion Knight" Jean (Anemo), "Glidi
 
 〓Eligibility〓
 
-Available to all Travelers after 18:00 (UTC+8)  on January 27, 2022 
+Available to all Travelers after 18:00 (UTC+8)  on January 27, 2022
 
 〓Distribution Method〓
 
@@ -402,8 +402,6 @@ February 13 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Sanctifying Uncti
 
 During the event, complete all the conditions for "The Moon's Comely Brow" to obtain Ningguang's outfit "Orchid's Evening Gown." Complete four themed challenge quests to obtain Affluence Talismans, Immaculate Talismans, and Conquest Talismans. You can exchange them at "Prosperous Partnerships" to obtain a 4-star Liyue character of your choice or they can be exchanged at the Event Shop for rewards such as Crown of Insight, Fireworks, or the event-exclusive Lantern Rite Furnishing Blueprints.
 
- 
-
 ▌Event Duration
 
 **Event Details** | **Event Details** | **Start Time** | **End Time**
@@ -457,9 +455,7 @@ Archon Quest Interlude Chapter: Act I - "The Crane Returns on the Wind"
 
 Permanently available after the Version 2.4 update
 
- 
-
-◆ Quest Unlock Criteria: 
+◆ Quest Unlock Criteria:
 
 Complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
 
@@ -474,8 +470,6 @@ Hangout Event: Yun Jin - Act I "A Song That Knows Grace"
 ◆ Hangout Events: Series V Start Time:
 
 Permanently available after the Version 2.4 update
-
- 
 
 ◆ Hangout Events: Series V Unlock Criteria:
 
@@ -537,7 +531,7 @@ New Recipes
 
 New Achievement categories such as "The Light of Day," and additions to the "Wonders of the World" and "Memories of the Heart" categories.
 
-New Namecards: 
+New Namecards:
 
 ○ "Travel Notes: Flowing Hues": Reward obtained via the BP system
 
@@ -607,7 +601,7 @@ Blooming Moon
 
 When the active character hits opponents with attacks that are considered Normal Attack DMG, there is a 50% chance of unleashing a shockwave at the hit opponent's position, dealing AoE True DMG. One shockwave can be released in this way every 0.3s.
 
-Phase III: 
+Phase III:
 
 Awakening Moon
 
@@ -751,19 +745,13 @@ Text-related fixes and optimizations in English include:
 
 During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
 
- 
-
 **〓Event Duration〓**
 
 2022/01/25 04:00:00 (server) – 2022/02/09 03:59:59 (server)
 
- 
-
 **〓Eligibility〓**
 
 Adventure Rank 5 or above
-
- 
 
 **〓Event Details〓**
 
@@ -786,8 +774,6 @@ Adventure Rank 5 or above
 During the event, log in to the game to receive Fragile Resin, Intertwined Fate, and other rewards!
 
 Each email can be collected until the end of the event.
-
- 
 
 **〓Event Duration〓**
 
@@ -816,8 +802,6 @@ February 13 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Sanctifying Uncti
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/12/16/1f2b7811cc4451233eb363119aa9a19c_8473075376599935140.jpg)
 
 During the event, complete all the conditions for "The Moon's Comely Brow" to obtain Ningguang's outfit "Orchid's Evening Gown." Complete four themed challenge quests to obtain Affluence Talismans, Immaculate Talismans, and Conquest Talismans. You can exchange them at "Prosperous Partnerships" to obtain a 4-star Liyue character of your choice, or they can be exchanged at the Event Shop for rewards such as Crown of Insight, Fireworks, or the event-exclusive Lantern Rite Furnishing Blueprints.
-
- 
 
 **〓Event Duration〓**
 
@@ -900,8 +884,6 @@ Complete the Archon Quest "Chapter I: Act III - A New Star Approaches" and Archo
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
- 
-
 **〓Event Wish Details〓**
 
 **Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
@@ -918,8 +900,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 ※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
- 
-
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
@@ -931,8 +911,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/12/16/e26a5b270d135897f19271f72e901595_2062783719377441195.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
- 
 
 **〓Event Wish Details〓**
 
@@ -950,8 +928,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 ※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
- 
-
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
@@ -963,8 +939,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/12/16/aac5bf11ae063f964c0ad541a08303a3_6568625657274828555.jpg)
 
 Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
- 
 
 **〓Event Wish Details〓**
 
@@ -984,8 +958,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
- 
-
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
@@ -994,15 +966,11 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ## Eight Locales Over Mountains and Seas
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/12/16/e2351044bb5ea1a884028788f75fe62c_5592543449124884281.jpg)
 
-During the event, you can accept a commission from Ioroi and accompany the tanuki Kichiboushi on a journey to Mondstadt and Liyue to obtain an event-exclusive Furnishing, Primogems, Hero's Wit, Talent Level-Up Materials, Weapon Ascension Materials, and other rewards. 
-
- 
+During the event, you can accept a commission from Ioroi and accompany the tanuki Kichiboushi on a journey to Mondstadt and Liyue to obtain an event-exclusive Furnishing, Primogems, Hero's Wit, Talent Level-Up Materials, Weapon Ascension Materials, and other rewards.
 
 **〓Event Duration〓**
 
 2022/02/04 10:00:00 (server) – 2022/02/14 03:59:59 (server)
-
- 
 
 **〓Eligibility〓**
 
@@ -1030,13 +998,9 @@ And the "Tanuki-Bayashi in the Forest" sub-quest of the World Quest "Sacred Saku
 
 Keqing's outfit "Opulent Splendor" is available at a limited-time discount in the Shop!
 
- 
-
 **〓Discount Period〓**
 
 After the Version 2.4 update – 2022/02/14 03:59:59 (server)
-
- 
 
 **〓Outfit Details〓**
 
@@ -1056,19 +1020,13 @@ After the Version 2.4 update – 2022/02/14 03:59:59 (server)
 
 Travelers can earn rich rewards in "Oceansong" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon ! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Flowing Hues" and Furnishing Blueprint "Mountain of Festive Gifts."
 
- 
-
 **〓Event Duration〓**
 
 After the Version 2.4 update – 2022/02/14 03:59:59 (server)
 
- 
-
 **〓Eligibility〓**
 
 Adventure Rank 20 or above
-
- 
 
 **〓Event Details〓**
 
@@ -1099,8 +1057,6 @@ After reaching the corresponding Adventure Rank and completing the prerequisite 
 〓Quest Start Time〓
 
 Permanently available after the Version 2.4 update
-
- 
 
 ◆ Quest Unlock Criteria
 
@@ -1150,43 +1106,29 @@ Dear Travelers, the official Top-Up Center is now available on the Genshin Impac
 
 [https://www.hoyolab.com/genshin/](https://www.hoyolab.com/genshin/)
 
- 
-
 〓Discord〓
 
 [https://discord.gg/genshinimpact](https://discord.gg/genshinimpact)
-
- 
 
 〓Facebook〓
 
 [https://www.facebook.com/Genshinimpact/](https://www.facebook.com/Genshinimpact/)
 
- 
-
 〓Twitter〓
 
 [https://twitter.com/GenshinImpact](https://twitter.com/GenshinImpact)
-
- 
 
 〓YouTube〓
 
 [http://www.youtube.com/c/GenshinImpact ](http://www.youtube.com/c/GenshinImpact )
 
- 
-
 〓Official Reddit〓
 
 [https://www.reddit.com/r/Genshin_Impact](https://www.reddit.com/r/Genshin_Impact)
 
- 
-
 〓Official Site〓
 
 [https://genshin.mihoyo.com/](https://genshin.mihoyo.com/)
-
- 
 
 〓Customer Service〓
 
@@ -1204,8 +1146,6 @@ To ensure a fair and healthy Genshin Impact gaming environment and offer Travele
 
 miHoYo (herein referred to as "we") will respond to any such activity by taking measures including but not limited to removal of inappropriately obtained rewards, suspension of accounts, and permanent banning of accounts, with the precise measures to be decided based on the seriousness and number of violations.
 
- 
-
 2) The sale, purchase, or transfer of accounts by any means is strictly forbidden.
 
 We urge Travelers to protect their personal property and information, ignore any requests for account sharing or trading, and refrain from purchasing accounts on other platforms. Likewise, Travelers are forbidden from sharing or selling their own account.
@@ -1214,14 +1154,10 @@ In accordance with miHoYo's Terms of Service, we will not be responsible for any
 
 [miHoYo's Terms of Service](https://genshin.mihoyo.com/en/company/terms)
 
- 
-
 3) Top-up via non-official channels and third parties is strictly forbidden.
 
 We will respond to any such activity by taking measures including but not limited to removal of inappropriately obtained rewards, suspension of accounts, and permanent banning of accounts, with the precise measures to be decided based on the seriousness and number of violations.
 
 We are committed to guaranteeing the fair gameplay of Genshin Impact and to safeguarding Travelers' in-game assets. As we endeavor to constantly improve Genshin Impact, we wholeheartedly hope that Travelers join us in creating and maintaining a fair and harmonious gaming environment.
-
- 
 
 miHoYo reserves the right to final interpretation of these rules.
