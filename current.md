@@ -1,17 +1,3 @@
-# Regarding the Mail Issue: "Flowing Lights and Colors" - Lantern Rite Gifts 
-## Regarding the Mail Issue: "Flowing Lights and Colors" - Lantern Rite Gifts 
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/09/8e60989f6665a150a0e7020459098b25_3249292891924602008.jpg)
-
-Dear Traveler
-
-Due to a configuration issue with the in-game mail, some Travelers received two copies of the mail "Flowing Lights and Colors" - Lantern Rite Gifts (1/5).
-
-Between 2022/02/09 03:00:00 (global) and the end of V2.4, all Travelers will receive a total of two copies of the mail "Flowing Lights and Colors" - Lantern Rite Gifts (1/5). Travelers who have already received two copies will not be able to claim further rewards. We will not withdraw any rewards already issued.
-
-We sincerely apologize for the inconvenience.
-
------
-
 # Version 2.4 New Content Overview
 ## Version 2.4 New Content Overview
 
@@ -25,6 +11,20 @@ We sincerely apologize for the inconvenience.
 ![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/04/eee9cafdf51522b8b61a069467434c23_7189842605335224152.jpg)
 
 ![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/04/a805a418660450aa467f37f19faba3dd_5703176735693882204.jpg)
+
+-----
+
+# Regarding the Mail Issue: "Flowing Lights and Colors" - Lantern Rite Gifts 
+## Regarding the Mail Issue: "Flowing Lights and Colors" - Lantern Rite Gifts 
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/09/8e60989f6665a150a0e7020459098b25_3249292891924602008.jpg)
+
+Dear Traveler
+
+Due to a configuration issue with the in-game mail, some Travelers received two copies of the mail "Flowing Lights and Colors" - Lantern Rite Gifts (1/5).
+
+Between 2022/02/09 03:00:00 (global) and the end of V2.4, all Travelers will receive a total of two copies of the mail "Flowing Lights and Colors" - Lantern Rite Gifts (1/5). Travelers who have already received two copies will not be able to claim further rewards. We will not withdraw any rewards already issued.
+
+We sincerely apologize for the inconvenience.
 
 -----
 
