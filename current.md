@@ -14,20 +14,6 @@
 
 -----
 
-# Regarding the Mail Issue: "Flowing Lights and Colors" - Lantern Rite Gifts 
-## Regarding the Mail Issue: "Flowing Lights and Colors" - Lantern Rite Gifts 
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/09/8e60989f6665a150a0e7020459098b25_3249292891924602008.jpg)
-
-Dear Traveler
-
-Due to a configuration issue with the in-game mail, some Travelers received two copies of the mail "Flowing Lights and Colors" - Lantern Rite Gifts (1/5).
-
-Between 2022/02/09 03:00:00 (global) and the end of V2.4, all Travelers will receive a total of two copies of the mail "Flowing Lights and Colors" - Lantern Rite Gifts (1/5). Travelers who have already received two copies will not be able to claim further rewards. We will not withdraw any rewards already issued.
-
-We sincerely apologize for the inconvenience.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
