@@ -14,6 +14,20 @@
 
 -----
 
+# "When the Sakura Bloom" Preview Page Now Online
+## Version 2.5 New Character: "Astute Amusement" Yae Miko
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/07/bb2f0cfa0ec6a21e205ea94161a0ae3f_4104248930938249267.jpg)
+
+[Check Out the New Content Here](https://webstatic-sea.mihoyo.com/ys/event/e20210601blue_post/index.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen#/ )
+
+"When the Sakura Bloom" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.5. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.5.
+
+This preview page will be continuously updated with version content during Version 2.5. Stay tuned, Travelers!
+
+-----
+
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
