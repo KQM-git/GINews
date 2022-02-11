@@ -232,20 +232,6 @@ Some of the above tools must be used in the HoYoLAB App. More specific details a
 
 -----
 
-# Version 2.4 Preview Page Now Online
-## Constant Updates for Version 2.4 Preview Page!
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/b7ac920435d91269771a89c881c56786_7410245739337260216.jpg)
-
-[Check Out the New Content in V2.4 Here](https://webstatic-sea.mihoyo.com/ys/event/e20210601blue_post/index.html?gamewebview=1&page_sn=f7247cf0ab2c416b&mode=fullscreen#/)
-
-Version 2.4 "Fleeting Colors in Flight" Preview Page Now Online
-
-This preview page contains all kinds of official information and event details related to Version 2.4. We hope to help Travelers better understand the new characters, gameplay, events, various optimizations, and other content in Version 2.4.
-
-This preview page will be continuously updated with version content during Version 2.4. Stay tuned, Travelers!
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
