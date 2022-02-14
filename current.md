@@ -212,17 +212,13 @@ After the Version 2.5 update, the red dot of some announcements will only appear
 
 -----
 
-# Pre-Installation Function Coming Soon
-## Pre-Installation Function Coming Soon
+# Pre-Installation Function Now Available
+## Pre-Installation Function Now Available
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
 
 Dear Travelers,
 
-To bring Travelers a better gaming experience, the developers will soon make a pre-installation function available on PC and mobile platforms.
-
-**Pre-Installation Function Available From:**
-
-2022/02/14 11:00:00 (global) (Before the Version 2.5 update)
+The pre-installation function is now available on both PC and mobile platforms.
 
 Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
 
@@ -254,7 +250,7 @@ PC:
 
 After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
 
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_2466523061981554192.png)
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
 
