@@ -426,6 +426,160 @@ Some of the above tools must be used in the HoYoLAB App. More specific details a
 
 -----
 
+# Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
+## Event Wish - Everbloom Violet
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/242b9a3b24ae4a592436315e85364112_1062466915184001366.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters ** **(4-Star)**
+--- | --- | ---
+After the Version 2.5 update – 2022/03/08 17:59:00 (server) | "Astute Amusement"  Yae Miko (Electro) | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "Kätzlein Cocktail"  Diona (Cryo)
+^ | ^ | "Protector From Afar"  Thoma (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Astute Amusement" Yae Miko (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Kätzlein Cocktail" Diona (Cryo), and "Protector From Afar" Thoma (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Kagura's Verity (Catalyst) and Primordial Jade Cutter (Sword)!
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/a5b1f9a03b2b494bb0795cb58c830351_9147888442814929665.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 2.5 update – 2022/03/08 17:59:00 (server) | Kagura's Verity (Catalyst)   Primordial Jade Cutter (Sword) | Wavebreaker's Fin (Polearm)
+^ | ^ | Sacrificial Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During the event, the event-exclusive 5-star weapons Kagura's Verity (Catalyst) and Primordial Jade Cutter (Sword) will receive a huge drop-rate boost!
+
+● During the event, the event-exclusive 4-star weapon Wavebreaker's Fin (Polearm) as well as the 4-star weapons Sacrificial Sword (Sword), Rainslasher (Claymore), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Kagura's Verity (Catalyst) or Primordial Jade Cutter (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※  For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Imperatrix Umbrosa Chapter: Act II" Story Quest Overview
+## Imperatrix Umbrosa Chapter: Act II
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/68a8434a813f34494f020899c7ebb7a9_8193264389675686348.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 2.5 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+And complete Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act I - Reflections of Mortality"
+
+-----
+
+# "Divina Vulpes Chapter" Story Quest Overview
+## Divina Vulpes Chapter
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/f201767d9bbf7bdd79cb814f6086562c_3722825766194407016.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Yae Miko's Story Quest "Divina Vulpes Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 2.5 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+And complete Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
+
+-----
+
+# "Into the Shadows" Event Details
+## Into the Shadows
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/bdbc88ad4e3a9ff97bb4383769aa4d3e_4099373127763636704.jpg)
+
+Travelers can earn rich rewards in "Into the Shadows" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Awakening" and Furnishing Blueprint "Gold-Inscribed Evil-Cleansing Banner."
+
+**〓Event Duration〓**
+
+After the Version 2.5 update – 2022/03/28 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/03/28 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 12 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/08179b1285ad26d45ca207fc4219ebda_8380022842360065068.jpg)
+
+Round 12 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 2.5 update – 2022/03/02 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 2.5 update – 2022/03/02 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
