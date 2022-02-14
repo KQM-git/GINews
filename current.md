@@ -258,7 +258,7 @@ Using the pre-installation function can speed up the update progress of the laun
 
 # "When the Sakura Bloom" Preview Page Now Online
 ## Version 2.5 New Character: "Astute Amusement" Yae Miko
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/07/bb2f0cfa0ec6a21e205ea94161a0ae3f_4104248930938249267.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/0b9a3ce1698eb92e96fc34759a8e0258_2525593748464336284.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.mihoyo.com/ys/event/e20210601blue_post/index.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen#/ )
 
