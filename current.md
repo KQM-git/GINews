@@ -426,6 +426,42 @@ Some of the above tools must be used in the HoYoLAB App. More specific details a
 
 -----
 
+# "Three Realms Gateway Offering" Event: Take part and obtain the event-exclusive weapon, Oathsworn Eye (Catalyst)
+## Three Realms Gateway Offering
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/a1a6c169f7751d9689798be339fe6824_7835598491648550064.jpg)
+
+During the event, you can explore the darkness-covered Enkanomiya, using Light Realm Sigils to upgrade your Bokuso Box. Upgrade your Bokuso Box to a certain level to obtain Oathsworn Eye (Catalyst) and its refinement materials, and rewards such as Crown of Insight. Complete the Event exploration quests to obtain Primogems, Weapon Ascension Materials, and more.<p style="white-space: pre-wrap; min-height: 1.5em; line-height: 2;">
+
+**〓Event Duration〓**
+
+2022/02/17 10:00:00 (server) until the end of Version 2.5
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+Complete the Archon Quest "Chapter II: Act II - Stillness, the Sublimation of Shadow"
+
+And complete the World Quest "Erebos' Secret"
+
+**〓Event Details〓**
+
+● During the event, you can explore the darkness-covered Enkanomiya. There are different Corrosion Intensities in different areas of the region. When the Bokuso Box's Corrosion Resistance is lower than an area's Corrosion Intensity, your party will be exposed to Corrosion — which will accumulate over time and drain the energy of your Bokuso Box. Choose the "Recuperate" option at the statue to clear the accumulated Corrosion.
+
+● Travelers can obtain Light Realm Sigils by opening chests, unlocking Teleport Waypoints, completing exploration objectives, and playing through the "Sentou Trial." Offer the Light Realm Sigils at the statue to upgrade the Bokuso Box and strengthen its Corrosion Resistance. After upgrading the Bokuso Box to a certain level, you will obtain Oathsworn Eye (Catalyst) and its refinement materials, Crown of Insight, Hero's Wit, and other rewards.
+
+● When completing event exploration objectives through exploration or offerings, you can also obtain rewards such as Primogems, Weapon Ascension Materials, and Mora. You can view all exploration objectives and current completion status in the event details page.
+
+● "The Call of Ice and Thunder" challenge will unlock upon completing the quest "Three Realms Gateway Offering: Aftermath." The challenge has three difficulty levels: Normal, Hard, and Extreme. Lower difficulties will be automatically cleared upon completing the challenge at a higher difficulty. Complete the challenge at corresponding difficulties to obtain rewards such as Primogems, Hero's Wit, and Mora.
+
+● After completing the quest "Three Realms Gateway Offering: Aftermath," you can accept the quest "The Bunkoku Enigma." Complete the quest to obtain rewards such as Primogems, Hero's Wit, and Mora. After the end of Version 2.5, you will no longer be able to complete the World Quest "The Bunkoku Enigma." Please complete the quest to claim the rewards in time.
+
+● After the end of Version 2.5, you will no longer be able to travel to the Three Realms Gateway Offering area to open chests and obtain challenge rewards. Please explore the area and claim the rewards in time.
+
+● After the end of Version 2.5, the gadget "Bokuso Box" will disappear from your Inventory.
+
+-----
+
 # Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
 ## Event Wish - Everbloom Violet
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/242b9a3b24ae4a592436315e85364112_1062466915184001366.jpg)
