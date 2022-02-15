@@ -360,20 +360,6 @@ Fixes an issue under certain circumstances whereby some of the Common Chests in 
 
 -----
 
-# The Version 2.5 "When the Sakura Bloom" Preview Page Is Here!
-## Genshin Impact Version 2.5 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/29/344e5d203199686060cffc7ff27812c5_7073284225615718058.jpg)
-
-Dear Traveler,
-
-The Version 2.5 "When the Sakura Bloom" Preview page is here!
-
-[>>Go to V2.5 "When the Sakura Bloom" Preview Page<<](https://webstatic-sea.mihoyo.com/ys/event/e20220207-previ/index.html?game_biz=hk4e_global&mhy_presentation_style=fullscreen&mhy_landscape=true&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=b87dd66e68c14c22&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # HoYoLAB Community - Genshin Impact Exclusive Tools Overview
 ## Genshin Impact Exclusive Tools Overview
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
