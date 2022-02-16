@@ -396,6 +396,22 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby the voice line for Yae Miko's Profile > Voice-Over "More About Yae Miko: IV" cannot be played. This issue will be fixed in a future version.
+
+After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
+
+-----
+
 # "When the Sakura Bloom" Preview Page Now Online
 ## Version 2.5 New Character: "Astute Amusement" Yae Miko
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/0b9a3ce1698eb92e96fc34759a8e0258_2525593748464336284.jpg)
