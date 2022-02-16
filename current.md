@@ -416,7 +416,7 @@ After updating the official driver released by Razer on January 20, some Travele
 ## Version 2.5 New Character: "Astute Amusement" Yae Miko
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/15/67e493522adaab7452dc50baddf956e1_6643201981017025522.jpg)
 
-[Check Out the New Content Here](https://webstatic-sea.mihoyo.com/ys/event/e20210601blue_post/index.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen#/ )
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
 
 "When the Sakura Bloom" preview page is now available!
 
