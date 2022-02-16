@@ -702,7 +702,15 @@ We thank all Travelers for your invaluable feedback!
 
 Dear Travelers, the official Top-Up Center is now available on the Genshin Impact website. Interested Travelers can check it out by following the link below to the website.
 
-[Go to Website](https://genshin.mihoyo.com/en)
+[Go to Website](https://genshin.hoyoverse.com/en)
+
+From the homepage, simply select the "Top Up" button at the top of the page to access the Top Up Center.
+
+Before making any payments, please check that the UID you are topping up matches your account. (You can check your UID in-game by opening the Paimon Menu.) When topping up a UID, any purchases will be automatically applied to the corresponding game account.
+
+Travelers are advised that there may be a delay between topping up and receiving the items in-game.
+
+If you have any questions about topping up, please send us an email at genshin_payment@hoyoverse.com
 
 -----
 
