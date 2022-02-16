@@ -426,55 +426,23 @@ This preview page will be continuously updated with version content during Versi
 
 -----
 
-# HoYoLAB Community - Genshin Impact Exclusive Tools Overview
-## Genshin Impact Exclusive Tools Overview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
-To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepared exclusive travel tools for Travelers. They are as follows:
+Dear Travelers,
 
-1. Battle Chronicle
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-You can check your game data at the click of a button, ranging from leveling, to collection, to Spiral Abyss data.
+[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
-View Location:
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-[HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-2. Daily Check-In
+〓Event Duration〓
 
-Use Daily Check-In to obtain in-game rewards. You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Check-in](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-3. Teyvat Interactive Map
-
-You can find target resources on the map and plan your route at any time.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?utm_source=ingame&utm_medium=notice&utm_campaign=pc&bbs_presentation_style=no_header&lang=zh-cn&bbs_theme=light&bbs_theme_device=0#/map/2)
-
-4. Traveler's Diary
-
-You can check the amount of Primogems and Mora that you have obtained monthly since you began playing the game in the Traveler's Diary, along with details about where or how you obtained them.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://webstatic-sea.mihoyo.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-5. Enhancement Progression Calculator
-
-You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, and weapons.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://webstatic-sea.mihoyo.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
-
-[>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+Permanent
 
 -----
 
@@ -668,23 +636,55 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+# HoYoLAB Community - Genshin Impact Exclusive Tools Overview
+## Genshin Impact Exclusive Tools Overview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
 
-Dear Travelers,
+To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepared exclusive travel tools for Travelers. They are as follows:
 
-The HoYoLAB Community "Daily Check-In" feature is now available!
+1. Battle Chronicle
 
-[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+You can check your game data at the click of a button, ranging from leveling, to collection, to Spiral Abyss data.
 
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+View Location:
 
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
+[HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
-〓Event Duration〓
+2. Daily Check-In
 
-Permanent
+Use Daily Check-In to obtain in-game rewards. You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Check-in](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+3. Teyvat Interactive Map
+
+You can find target resources on the map and plan your route at any time.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?utm_source=ingame&utm_medium=notice&utm_campaign=pc&bbs_presentation_style=no_header&lang=zh-cn&bbs_theme=light&bbs_theme_device=0#/map/2)
+
+4. Traveler's Diary
+
+You can check the amount of Primogems and Mora that you have obtained monthly since you began playing the game in the Traveler's Diary, along with details about where or how you obtained them.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://webstatic-sea.mihoyo.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+5. Enhancement Progression Calculator
+
+You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, and weapons.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://webstatic-sea.mihoyo.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
+
+[>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
 -----
 
