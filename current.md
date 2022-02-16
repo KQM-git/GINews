@@ -760,7 +760,7 @@ If you have any questions about topping up, please send us an email at genshin_p
 
 〓Official Site〓
 
-[https://genshin.mihoyo.com/](https://genshin.mihoyo.com/)
+[https://genshin.hoyoverse.com/](https://genshin.hoyoverse.com/en/)
 
 〓Customer Service〓
 
