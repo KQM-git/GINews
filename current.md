@@ -412,6 +412,12 @@ There is an issue whereby the voice line for Yae Miko's Profile > Voice-Over "Mo
 
 After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
 
+〓Update Content 2022/02/17 15:00:00 (global)〓
+
+Starting on 2022/2/17, we will update the game resources on PC via the launcher through grayscale release in 7 days.
+
+Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
+
 〓Update Content 2022/02/16 20:00:00 (global)〓
 
 Fixes an issue whereby when playing the game on mobile, the companions and some of the Furnishings in the Serenitea Pot could not be selected or moved if the settings for "Graphics > Visual Effects" is set to "Lowest" or "Low."
