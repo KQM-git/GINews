@@ -432,7 +432,7 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 # "When the Sakura Bloom" Preview Page Now Online
 ## Version 2.5 New Character: "Astute Amusement" Yae Miko
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/15/67e493522adaab7452dc50baddf956e1_6643201981017025522.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/5aa1eca1dec1d6f8244c99486457bc77_4242042820020262690.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
 
