@@ -682,36 +682,6 @@ Adventure Rank 20 or above
 
 -----
 
-# "Adventurer's Booster Bundles" - Round 12 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/08179b1285ad26d45ca207fc4219ebda_8380022842360065068.jpg)
-
-Round 12 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 2.5 update – 2022/03/02 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 2.5 update – 2022/03/02 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # HoYoLAB Community - Genshin Impact Exclusive Tools Overview
 ## Genshin Impact Exclusive Tools Overview
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
