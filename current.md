@@ -604,6 +604,90 @@ And complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
 
 -----
 
+# Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
+## Event Wish - Reign of Serenity
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/ee890e70f1dbcf0b8ea8c40eabbd28e8_7965923484003279191.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/03/08 18:00:00 (server) – 2022/03/29 14:59:59 (server) | "Plane of Euthymia" Raiden Shogun (Electro) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Blazing Riff" Xinyan (Pyro), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
+## Event Wish - Drifting Luminescence
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/126191a041188f1d19eda5563a1cb7cc_8321583623104571075.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters ** **(4-Star)**
+--- | --- | ---
+2022/03/08 18:00:00 (server) – 2022/03/29 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Blazing Riff" Xinyan (Pyro), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and Everlasting Moonglow (Catalyst)!
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/564b8beeacaa1bb54c0d13a40efffaf4_1765854410187271956.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/03/08 18:00:00 (server) – 2022/03/29 14:59:59 (server) | Engulfing Lightning (Polearm)   Everlasting Moonglow (Catalyst) | Akuoumaru (Claymore)
+^ | ^ | Mouun's Moon (Bow)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+
+● During the event, the event-exclusive 5-star weapons Engulfing Lightning (Polearm) and Everlasting Moonglow (Catalyst) will receive a huge drop-rate boost!
+
+● During the event, the event-exclusive 4-star weapons Akuoumaru (Claymore) and Mouun's Moon (Bow), as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), and Sacrificial Fragments (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Engulfing Lightning (Polearm) or Everlasting Moonglow (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
 ## Event Wish - Everbloom Violet
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/242b9a3b24ae4a592436315e85364112_1062466915184001366.jpg)
