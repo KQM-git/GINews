@@ -532,22 +532,6 @@ Permanent
 
 -----
 
-# Version 2.5 "When the Sakura Bloom" New Content Overview
-## Version 2.5 New Content Overview
-
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/2ecd4345c7c41c3919d0e0057795eded_8325168592891224366.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/c58f2044ee7e2b43e26c3d534c3a33a8_8336507325915151360.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/7cd677d0ad096a96762c6934132ffbcf_4396308630560556219.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/17a02d8b468a1edaf0b04142bbed69c1_7836320703225348076.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/14/4ffd3218c9b4fa7b93d121cfddd5d915_375508041282385335.jpg)
-
------
-
 # "Three Realms Gateway Offering" Event: Take part and obtain the event-exclusive weapon, Oathsworn Eye (Catalyst)
 ## Three Realms Gateway Offering
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/a1a6c169f7751d9689798be339fe6824_7835598491648550064.jpg)
