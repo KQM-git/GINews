@@ -584,6 +584,44 @@ And complete the World Quest "Erebos' Secret"
 
 -----
 
+# "Of Drink A-Dreaming" Event: Mix drinks to obtain namecard
+## Of Drink A-Dreaming
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/6abde43c41c33d163d2c00e83056ba67_6345872762322292729.jpg)
+
+During the event, Travelers are recruited by Luka to experience the life of a bartender, unlock all drink recipes to obtain the namecard style "Celebration: Binge Vessel." Complete all the Tavern Tales to obtain an event-exclusive Furnishing, and participate in the bartender challenge to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Weapon Ascension Materials.
+
+**〓Event Duration〓**
+
+Event Gameplay Period：2022/03/10 10:00:00 (server) – 2022/03/21 03:59:59 (server)
+
+"Of Drink A-Dreaming: Afterword" Quest: 2022/03/21 04:00:00 (server) – 2022/03/24 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+Complete the Archon Quest Interlude Chapter: Act I - "The Crane Returns on the Wind"
+
+And complete Eula's Story Quest "Aphros Delos Chapter: Act I - The Spindrift Shall Never Return to the Sea"
+
+*During the event, the Adventure Rank required to unlock "Aphros Delos Chapter: Act I - The Spindrift Shall Never Return to the Sea" will be adjusted to 28, and the Story Quest will not require a Story Key to unlock.
+
+**〓Event Details〓**
+
+● During the event, Travelers need to talk to Luka to enter the Angel's Share tavern and participate in the event.
+
+● Each of the first 3 days of the event will feature familiar faces visiting the Angel's Share tavern to order their favored drinks. Mix them the corresponding drink to obtain rewards.
+
+● On the fourth day of the event, if the Traveler has completed all the "Tavern Tales," the "Bartender Challenge" and new mix recipes will unlock.
+
+● Reach the corresponding score requirements in the "Bartender Challenge" to obtain corresponding rewards. There are no restrictions when trying to make a new mix, and Travelers can freely prepare drinks to unlock drink recipes.
+
+● After the event gameplay is over, Travelers who already completed all "Tavern Tales" can go to Luka to accept the "Of Drink A-Dreaming: Afterword" quest. Complete the quest to obtain corresponding rewards.
+
+※ The "Of Drink A-Dreaming" event cannot be completed in Co-Op Mode.
+
+-----
+
 # "Divine Ingenuity" Event: Design Your Own Domain Challenge
 ## Divine Ingenuity
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/58f89da28337ce8655041a90e4393283_1069665147924074503.jpg)
