@@ -390,7 +390,7 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-In Indonesian version, there is a mistranslation in the Night of Swirling Stars' recipe in the Of Drink A-Dreaming event, and in the Japanese version, there are mistranslations in parts of customer's requests in the Bartender Challenge. Our technical team is currently working to fix these issues. Please follow next notices for more information.
+There are localization errors in Indonesian, German, Portuguese, Korean, and Japanese in the "Of Drink A-Dreaming" event. Our developers are currently working to fix this issue. Please stay tuned for further updates.
 
 After reading Notices, the red notification dot may still be displayed. Travelers who encounter this situation can exit from the Paimon Menu and close the game before logging back in to temporarily resolve the issue.
 
