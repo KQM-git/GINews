@@ -570,6 +570,38 @@ And complete the World Quest "Erebos' Secret"
 
 -----
 
+# "Hyakunin Ikki" Event: A team-switching combat challenge awaits
+## Hyakunin Ikki
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/885de6222367f000faebf3fce230b0f2_864698572268314877.jpg)
+
+During the event, take part in the free-for-all fighting tournament "Hyakunin Ikki" and show off your elegant combat skills by defeating opponents in tag teams of two characters. By reaching the target scores, Travelers can obtain rewards such as Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+**〓Event Duration〓**
+
+2022/03/18 10:00:00 (server) – 2022/03/28 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the Archon Quest "Ritou Escape Plan"
+
+**〓Event Details〓**
+
+● There are a total of six challenges in "Hyakunin Ikki," and a new challenge will be unlocked each day for the first six days of the event.
+
+● During these challenges, you can use either the trial characters or your own characters to form 6 tag teams to do the challenge. Each tag team can have up to two characters and two "Secret Arts." You can switch teams in battle, and doing so will cycle through teams in order of when they were formed.
+
+● Secret Arts can provide buffs to the team on the field. They are split into Transmission Arts that change based on the challenge you are taking on, and Normal Secret Arts, which can be used in any challenge.
+
+● Within the time limit, switch between tag teams and defeat opponents to score points. Reach a specified high score in each challenge stage to obtain Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+● Cannot start the challenge while in Co-Op Mode.
+
+※ Elemental Resonances will not take effect during Hyakunin Ikki challenges, nor will you be able to use food or other items.
+
+-----
+
 # "Of Drink A-Dreaming" Event: Mix drinks to obtain namecard
 ## Of Drink A-Dreaming
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/6abde43c41c33d163d2c00e83056ba67_6345872762322292729.jpg)
