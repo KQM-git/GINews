@@ -502,7 +502,7 @@ HoYoLAB - Genshin Impact Video Submission Event-Exclusive Avatar Frame (30 days)
 
 # "When the Sakura Bloom" Preview Page Now Online
 ## "When the Sakura Bloom" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/09/3192a43d7e6592aba6fab2ff37881fcc_4261187433500677358.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/2042253eb43ded5da30d9b5b8af31f9a_8199752005425944037.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
 
