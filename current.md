@@ -458,6 +458,20 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 -----
 
+# The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
+## Genshin Impact Version 2.6 Preview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
+
+Dear Traveler,
+
+The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
+
+[>>Go to V2.6 "Zephyr of the Violet Garden" Preview Page<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220319-previ-fd5q/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=490082c6f9e84c05&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # Prize Giveaway: The "Divine Ingenuity" Video Submission Event Is Here!
 ## Prize Giveaway: The "Divine Ingenuity" Video Submission Event Is Here!
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/0b128c6a3bb0792835e843d457193368_3542801782275315981.jpg)
@@ -603,6 +617,26 @@ And complete the Archon Quest "Ritou Escape Plan"
 ● Cannot start the challenge while in Co-Op Mode.
 
 ※ Elemental Resonances will not take effect during Hyakunin Ikki challenges, nor will you be able to use food or other items.
+
+-----
+
+# "Overflowing Mastery" Event: Double drops with Talent Level-Up Materials
+## Overflowing Mastery
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/c9b02763a29fe8f44b1b15bba97dbe64_7503174959027407158.jpg)
+
+During the event, Travelers who successfully challenge Talent Level-Up Material Domains and who consume Original Resin to obtain rewards will receive double the output.
+
+**〓Event Duration〓**
+
+2022/03/21 04:00:00 (server) – 2022/03/28 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, Travelers who successfully challenge the Talent Level-Up Material Domains "Forsaken Rift," "Taishan Mansion," and "Violet Court" and consume Original Resin to obtain rewards will receive double the output. A total of three opportunities to gain double drops will be available each day!
 
 -----
 
