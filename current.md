@@ -678,40 +678,6 @@ And complete Eula's Story Quest "Aphros Delos Chapter: Act I - The Spindrift Sha
 
 -----
 
-# "Divine Ingenuity" Event: Design Your Own Domain Challenge
-## Divine Ingenuity
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/58f89da28337ce8655041a90e4393283_1069665147924074503.jpg)
-
-During the event, help the Adventurers' Guild to investigate a strange Domain. Complete the required tasks to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, Mystic Enhancement Ore, and Mora.
-
-**〓Event Duration〓**
-
-2022/03/02 10:00:00 (server) – 2022/03/21 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-And complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
-
-**〓Preset Domains〓**
-
-● The Adventurer's Guild has created five Preset Domains from the imaginations of its adventurers. From the first day of the event, a new Preset Domain will unlock each day. You must complete the previous Preset Domain challenge to unlock the next Domain.
-
-● While challenging these Preset Domains, you must reach the destination within a time limit and collect as many Adventure Coins as you can along the way. Complete the Preset Domain challenge and collect the required number of Adventure Coins to obtain rewards such as  Primogems, Hero's Wit, Sanctifying Unction, Talent Level-Up Materials, Mystic Enhancement Ore, and Mora.
-
-〓Custom Domains〓
-
-● During the event, complete the World Quest "Divine Ingenuity" to unlock "Custom Domains." The Custom Domains function allows you to play Domains that have been published by other Travelers, and you can also use Imagined Objects to create your own Domain.
-
-● You can publish Domains that you have designed for all to see, and after publishing, the Domains can be challenged by other Travelers. However, you will have to complete any such Domain once yourself first.
-
-● In a "Custom Domain," complete the specific design, publishing, and exploration tasks to obtain rewards such as Primogems, Hero's Wit, and Mora.
-
-※ Please take note that event records, including Custom Domain data, will not be saved when "Divine Ingenuity" ends.
-
------
-
 # Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
 ## Event Wish - Reign of Serenity
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/ee890e70f1dbcf0b8ea8c40eabbd28e8_7965923484003279191.jpg)
