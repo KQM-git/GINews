@@ -458,6 +458,20 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 -----
 
+# "When the Sakura Bloom" Preview Page Now Online
+## "When the Sakura Bloom" Preview Page Now Online
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/2042253eb43ded5da30d9b5b8af31f9a_8199752005425944037.jpg)
+
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
+
+"When the Sakura Bloom" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.5. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.5.
+
+This preview page will be continuously updated with version content during Version 2.5. Stay tuned, Travelers!
+
+-----
+
 # The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
 ## Genshin Impact Version 2.6 Preview
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
@@ -515,20 +529,6 @@ Random Themed Mouse Mat ×1
 Participation Prize
 
 HoYoLAB - Genshin Impact Video Submission Event-Exclusive Avatar Frame (30 days)
-
------
-
-# "When the Sakura Bloom" Preview Page Now Online
-## "When the Sakura Bloom" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/2042253eb43ded5da30d9b5b8af31f9a_8199752005425944037.jpg)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
-
-"When the Sakura Bloom" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.5. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.5.
-
-This preview page will be continuously updated with version content during Version 2.5. Stay tuned, Travelers!
 
 -----
 
