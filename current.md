@@ -484,52 +484,6 @@ The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
 
 -----
 
-# Prize Giveaway: The "Divine Ingenuity" Video Submission Event Is Here!
-## Prize Giveaway: The "Divine Ingenuity" Video Submission Event Is Here!
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/0b128c6a3bb0792835e843d457193368_3542801782275315981.jpg)
-
-The "Divine Ingenuity" event has begun! Travelers, come show your skills and share your wonderful moments in the event~
-
-[>>Click to Take Part in Event<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220303ugc_sea/index.html?game_biz=hk4e_global&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-Submission Period: 2022/03/03 – 2022/03/21 23:59:59 (global)
-
-Results and Winners List Announcement: The list of winners will be updated in HoYoLAB's "Divine Ingenuity" event post on 2022/04/12.
-
-〓Event Description〓
-
-During the event, Travelers can participate in the "Divine Ingenuity" Video Submission Event by displaying their own Custom Domains, or browse other players' Custom Domains and participate in the discussion to win Primogems and merchandise rewards.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-〓How to Participate〓
-
-Participate in the "Divine Ingenuity" Video Submission Event on HoYoLAB by recording an original video of yourself challenging any Custom Domain.
-
-Enter the HoYoLAB "Divine Ingenuity" Video Submission event post, and click the "Post Video" button on the event page to upload your work.
-
-〓Event Rewards〓
-
-Ingenious (5 Winners)
-
-Primogems ×1,500 + Spooky Kooky Dress Up-Themed Random Character Pen Holder and Badge Set ×1 + Random Themed Mouse Mat ×1
-
-Inspiring (10 Winners)
-
-Primogems ×800 + Random Themed Mouse Mat ×1
-
-Innovative (20 Winners)
-
-Random Themed Mouse Mat ×1
-
-Participation Prize
-
-HoYoLAB - Genshin Impact Video Submission Event-Exclusive Avatar Frame (30 days)
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
