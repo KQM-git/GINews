@@ -1,3 +1,17 @@
+# Response to Top-Up Issues
+## Response to Top-Up Issues
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/09/17/8e60989f6665a150a0e7020459098b25_7386972399134915593.jpg)
+
+Dear Travelers,
+
+Due to an issue with Apple services, some Travelers have experienced difficulties topping-up.
+
+Related services have been restored.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # "When the Sakura Bloom" Version 2.5 Update Details
 ## Version 2.5 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/10/8844f7617b224205bd569369f8cc9fef_1185005236081723861.jpg)
