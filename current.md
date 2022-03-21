@@ -458,13 +458,11 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 -----
 
-# "When the Sakura Bloom" Preview Page Now Online
-## "When the Sakura Bloom" Preview Page Now Online
+# "Genshin Impact" Preview Page Now Online
+## "Genshin Impact" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/b229f3665cfa0397c0ced2885eebea4f_6914321245345755302.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
-
-"When the Sakura Bloom" preview page is now available!
 
 This preview page contains all kinds of official information and event details related to Version 2.5. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.5.
 
