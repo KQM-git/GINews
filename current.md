@@ -1,25 +1,3 @@
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
-
-Dear Travelers,
-
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
-
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
-
-〓Enter Feedback〓
-
-[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
-
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
-
-〓Duration〓
-
-Permanently Available
-
------
-
 # "When the Sakura Bloom" Version 2.5 Update Details
 ## Version 2.5 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/10/8844f7617b224205bd569369f8cc9fef_1185005236081723861.jpg)
@@ -477,6 +455,28 @@ Travelers are requested to launch the game through the launcher to ensure that t
 〓Update Content 2022/02/16 20:00:00 (global)〓
 
 Fixes an issue whereby when playing the game on mobile, the companions and some of the Furnishings in the Serenitea Pot could not be selected or moved if the settings for "Graphics > Visual Effects" is set to "Lowest" or "Low."
+
+-----
+
+# Details of the Feedback on Special Categories Function
+## Feedback on Special Categories
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+
+Dear Travelers,
+
+To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+
+At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+
+〓Enter Feedback〓
+
+[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+
+Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+
+〓Duration〓
+
+Permanently Available
 
 -----
 
