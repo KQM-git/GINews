@@ -458,6 +458,20 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 -----
 
+# The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
+## Genshin Impact Version 2.6 Preview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
+
+Dear Traveler,
+
+The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
+
+[>>Go to V2.6 "Zephyr of the Violet Garden" Preview Page<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220319-previ-fd5q/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=490082c6f9e84c05&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # Details of the Feedback on Special Categories Function
 ## Feedback on Special Categories
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
@@ -489,20 +503,6 @@ Permanently Available
 This preview page contains all kinds of official information and event details related to Version 2.5. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.5.
 
 This preview page will be continuously updated with version content during Version 2.5. Stay tuned, Travelers!
-
------
-
-# The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
-## Genshin Impact Version 2.6 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
-
-Dear Traveler,
-
-The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
-
-[>>Go to V2.6 "Zephyr of the Violet Garden" Preview Page<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220319-previ-fd5q/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=490082c6f9e84c05&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
