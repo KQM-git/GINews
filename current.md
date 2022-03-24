@@ -458,6 +458,20 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 -----
 
+# "Zephyr of the Violet Garden" Preview Page Now Online
+## Version 2.6 New Character: "Pillar of Fortitude" Kamisato Ayato
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/18/36c4e6ef066afb99d1662c53c7635ef4_327257185590171954.jpg)
+
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
+
+"Zephyr of the Violet Garden" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
+
+This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
+
+-----
+
 # The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
 ## Genshin Impact Version 2.6 Preview
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
@@ -491,18 +505,6 @@ Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Sp
 〓Duration〓
 
 Permanently Available
-
------
-
-# "Genshin Impact" Preview Page Now Online
-## "Genshin Impact" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/22/a046ba91b927d0990438d00d638e6e0f_3346642252158370335.jpg)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=d4a30f5deded490c&mode=fullscreen)
-
-This preview page contains all kinds of official information and event details related to Version 2.5. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.5.
-
-This preview page will be continuously updated with version content during Version 2.5. Stay tuned, Travelers!
 
 -----
 
