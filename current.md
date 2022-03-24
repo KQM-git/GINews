@@ -528,6 +528,58 @@ Permanent
 
 -----
 
+# HoYoLAB Community - Genshin Impact Exclusive Tools Overview
+## Genshin Impact Exclusive Tools Overview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
+
+To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepared exclusive travel tools for Travelers. They are as follows:
+
+1. Battle Chronicle
+
+You can check your game data at the click of a button, ranging from leveling, to collection, to Spiral Abyss data.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+2. Daily Check-In
+
+Use Daily Check-In to obtain in-game rewards. You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Check-in](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+3. Teyvat Interactive Map
+
+You can find target resources on the map and plan your route at any time.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?utm_source=ingame&utm_medium=notice&utm_campaign=pc&bbs_presentation_style=no_header&lang=zh-cn&bbs_theme=light&bbs_theme_device=0#/map/2)
+
+4. Traveler's Diary
+
+You can check the amount of Primogems and Mora that you have obtained monthly since you began playing the game in the Traveler's Diary, along with details about where or how you obtained them.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://webstatic-sea.mihoyo.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+5. Enhancement Progression Calculator
+
+You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, and weapons.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://webstatic-sea.mihoyo.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
+
+[>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+-----
+
 # "Three Realms Gateway Offering" Event: Take part and obtain the event-exclusive weapon, Oathsworn Eye (Catalyst)
 ## Three Realms Gateway Offering
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/a1a6c169f7751d9689798be339fe6824_7835598491648550064.jpg)
@@ -721,58 +773,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/03/28 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# HoYoLAB Community - Genshin Impact Exclusive Tools Overview
-## Genshin Impact Exclusive Tools Overview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
-
-To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepared exclusive travel tools for Travelers. They are as follows:
-
-1. Battle Chronicle
-
-You can check your game data at the click of a button, ranging from leveling, to collection, to Spiral Abyss data.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-2. Daily Check-In
-
-Use Daily Check-In to obtain in-game rewards. You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Check-in](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-3. Teyvat Interactive Map
-
-You can find target resources on the map and plan your route at any time.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?utm_source=ingame&utm_medium=notice&utm_campaign=pc&bbs_presentation_style=no_header&lang=zh-cn&bbs_theme=light&bbs_theme_device=0#/map/2)
-
-4. Traveler's Diary
-
-You can check the amount of Primogems and Mora that you have obtained monthly since you began playing the game in the Traveler's Diary, along with details about where or how you obtained them.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://webstatic-sea.mihoyo.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-5. Enhancement Progression Calculator
-
-You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, and weapons.
-
-View Location:
-
-[HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://webstatic-sea.mihoyo.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
-Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
-
-[>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
 
 -----
 
