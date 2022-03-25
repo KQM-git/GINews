@@ -124,6 +124,76 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 -----
 
+# "Zephyr of the Violet Garden" Preview Page Now Online
+## Version 2.6 New Character: "Pillar of Fortitude" Kamisato Ayato
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/18/36c4e6ef066afb99d1662c53c7635ef4_327257185590171954.jpg)
+
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
+
+"Zephyr of the Violet Garden" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
+
+This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
+
+-----
+
+# Details of the Feedback on Special Categories Function
+## Feedback on Special Categories
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+
+Dear Travelers,
+
+To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+
+At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+
+〓Enter Feedback〓
+
+[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+
+Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+
+〓Duration〓
+
+Permanently Available
+
+-----
+
+# The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
+## Genshin Impact Version 2.6 Preview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
+
+Dear Traveler,
+
+The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
+
+[>>Go to V2.6 "Zephyr of the Violet Garden" Preview Page<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220319-previ-fd5q/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=490082c6f9e84c05&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "When the Sakura Bloom" Version 2.5 Update Details
 ## Version 2.5 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/10/8844f7617b224205bd569369f8cc9fef_1185005236081723861.jpg)
@@ -503,76 +573,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# "Zephyr of the Violet Garden" Preview Page Now Online
-## Version 2.6 New Character: "Pillar of Fortitude" Kamisato Ayato
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/18/36c4e6ef066afb99d1662c53c7635ef4_327257185590171954.jpg)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
-
-"Zephyr of the Violet Garden" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
-
-This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
-
------
-
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
-
-Dear Travelers,
-
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
-
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
-
-〓Enter Feedback〓
-
-[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
-
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
-
-〓Duration〓
-
-Permanently Available
-
------
-
-# The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
-## Genshin Impact Version 2.6 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
-
-Dear Traveler,
-
-The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
-
-[>>Go to V2.6 "Zephyr of the Violet Garden" Preview Page<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220319-previ-fd5q/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=490082c6f9e84c05&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
