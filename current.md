@@ -46,6 +46,84 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There are localization errors in Indonesian, German, Portuguese, Korean, and Japanese in the "Of Drink A-Dreaming" event. Our developers are currently working to fix this issue. Please stay tuned for further updates.
+
+After reading Notices, the red notification dot may still be displayed. Travelers who encounter this situation can exit from the Paimon Menu and close the game before logging back in to temporarily resolve the issue.
+
+When carrying out the objective "Go to where the tea master is" in the Story Quest "Cleansing Light," there is a chance whereby the quest is unable to progress after reaching the destination point. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix.
+
+There is an issue whereby the voice line for Yae Miko's Profile > Voice-Over "More About Yae Miko: IV" cannot be played. This issue will be fixed in a future version.
+
+After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
+
+〓Update Content 2022/03/17 16:10:00 (global)〓
+
+Fixes localization errors in Indonesian, German, Portuguese, Korean, and Japanese in the "Of Drink A-Dreaming" event.
+
+〓Update Content 2022/03/07 15:10:00 (global)〓
+
+Fixes an issue with some localization text errors in subsequent events.
+
+〓Update Content 2022/03/03 19:00:00 (global)〓
+
+Fixes an issue on PS5™ and PS4™ whereby an error would be reported when claiming rewards for Preset Domains of the "Divine Ingenuity" event using child accounts on PlayStation™Network that are restricted by Parental Controls.
+
+Travelers affected by this issue can restart the game to collect the rewards normally.
+
+〓Update Content 2022/03/03 16:20:00 (global)〓
+
+Updated resources related to subsequent events.
+
+〓Update Content 2022/02/24 16:15:00 (global)〓
+
+Optimizes an issue whereby there was a small probability that the frame rate would drop abnormally for some PC users.
+
+Fixes an issue under certain circumstances during the "Three Realms Gateway Offering" event whereby the mechanism in the Evernight Temple area would not activate correctly if the monsters were defeated prematurely.
+
+Fixes an issue in the Daily Commission "Adventurer Exam: The Art of Adventure" whereby the quest could not be continued if the Traveler was disconnected while gathering quest items.
+
+Fixes a translation error in English, German, French, Spanish, Indonesian, Japanese, Portuguese, Russian, Thai, and Vietnamese during a line of dialogue in the Story Quest "Radiant Sakura". At the same time, in order to avoid misunderstanding caused by the inconsistency between the voice-over and the changed text, the corresponding English and Japanese audio files have been removed temporarily.
+
+The erroneous portion of the original text reads: "I know what you mean. Perhaps Makoto got a higher power involved in all of this. But whatever the explanation, her solution is what saved us all."
+
+The revised text reads: "I know what you mean. Perhaps a higher power really was involved in all of this. But whatever the explanation, her solution is what saved us all."
+
+〓Update Content 2022/02/18 12:05:00 (global)〓
+
+Fixes an issue whereby the furnishing model of "A Mask" does not match its icon when placed in the Serenitea Pot. This fix adjusts the furnishing model to match its icon.
+
+Fixes an issue whereby the quest objective "Assemble the Tower of the Void" in the event "Three Realms Gateway Offering" may be impossible to complete.
+
+Fixes an issue whereby there is a small chance that the dark fog in the "Three Realms Gateway Offering" area could not be dispelled after using the gadget "Bokuso Box."
+
+Travelers affected by this issue can restart the game to continue playing normally.
+
+〓Update Content 2022/02/17 16:10:00 (global)〓
+
+Fixes an issue under certain circumstances whereby the Raiden Shogun's skill was abnormal when carrying out the Story Quest "Radiant Sakura."
+
+〓Update Content 2022/02/17 15:00:00 (global)〓
+
+Starting on 2022/2/17, we will update the game resources on PC via the launcher through grayscale release in 7 days.
+
+Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
+
+〓Update Content 2022/02/16 20:00:00 (global)〓
+
+Fixes an issue whereby when playing the game on mobile, the companions and some of the Furnishings in the Serenitea Pot could not be selected or moved if the settings for "Graphics > Visual Effects" is set to "Lowest" or "Low."
+
+-----
+
 # "When the Sakura Bloom" Version 2.5 Update Details
 ## Version 2.5 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/10/8844f7617b224205bd569369f8cc9fef_1185005236081723861.jpg)
@@ -425,84 +503,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There are localization errors in Indonesian, German, Portuguese, Korean, and Japanese in the "Of Drink A-Dreaming" event. Our developers are currently working to fix this issue. Please stay tuned for further updates.
-
-After reading Notices, the red notification dot may still be displayed. Travelers who encounter this situation can exit from the Paimon Menu and close the game before logging back in to temporarily resolve the issue.
-
-When carrying out the objective "Go to where the tea master is" in the Story Quest "Cleansing Light," there is a chance whereby the quest is unable to progress after reaching the destination point. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix.
-
-There is an issue whereby the voice line for Yae Miko's Profile > Voice-Over "More About Yae Miko: IV" cannot be played. This issue will be fixed in a future version.
-
-After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
-
-〓Update Content 2022/03/17 16:10:00 (global)〓
-
-Fixes localization errors in Indonesian, German, Portuguese, Korean, and Japanese in the "Of Drink A-Dreaming" event.
-
-〓Update Content 2022/03/07 15:10:00 (global)〓
-
-Fixes an issue with some localization text errors in subsequent events.
-
-〓Update Content 2022/03/03 19:00:00 (global)〓
-
-Fixes an issue on PS5™ and PS4™ whereby an error would be reported when claiming rewards for Preset Domains of the "Divine Ingenuity" event using child accounts on PlayStation™Network that are restricted by Parental Controls.
-
-Travelers affected by this issue can restart the game to collect the rewards normally.
-
-〓Update Content 2022/03/03 16:20:00 (global)〓
-
-Updated resources related to subsequent events.
-
-〓Update Content 2022/02/24 16:15:00 (global)〓
-
-Optimizes an issue whereby there was a small probability that the frame rate would drop abnormally for some PC users.
-
-Fixes an issue under certain circumstances during the "Three Realms Gateway Offering" event whereby the mechanism in the Evernight Temple area would not activate correctly if the monsters were defeated prematurely.
-
-Fixes an issue in the Daily Commission "Adventurer Exam: The Art of Adventure" whereby the quest could not be continued if the Traveler was disconnected while gathering quest items.
-
-Fixes a translation error in English, German, French, Spanish, Indonesian, Japanese, Portuguese, Russian, Thai, and Vietnamese during a line of dialogue in the Story Quest "Radiant Sakura". At the same time, in order to avoid misunderstanding caused by the inconsistency between the voice-over and the changed text, the corresponding English and Japanese audio files have been removed temporarily.
-
-The erroneous portion of the original text reads: "I know what you mean. Perhaps Makoto got a higher power involved in all of this. But whatever the explanation, her solution is what saved us all."
-
-The revised text reads: "I know what you mean. Perhaps a higher power really was involved in all of this. But whatever the explanation, her solution is what saved us all."
-
-〓Update Content 2022/02/18 12:05:00 (global)〓
-
-Fixes an issue whereby the furnishing model of "A Mask" does not match its icon when placed in the Serenitea Pot. This fix adjusts the furnishing model to match its icon.
-
-Fixes an issue whereby the quest objective "Assemble the Tower of the Void" in the event "Three Realms Gateway Offering" may be impossible to complete.
-
-Fixes an issue whereby there is a small chance that the dark fog in the "Three Realms Gateway Offering" area could not be dispelled after using the gadget "Bokuso Box."
-
-Travelers affected by this issue can restart the game to continue playing normally.
-
-〓Update Content 2022/02/17 16:10:00 (global)〓
-
-Fixes an issue under certain circumstances whereby the Raiden Shogun's skill was abnormal when carrying out the Story Quest "Radiant Sakura."
-
-〓Update Content 2022/02/17 15:00:00 (global)〓
-
-Starting on 2022/2/17, we will update the game resources on PC via the launcher through grayscale release in 7 days.
-
-Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
-
-〓Update Content 2022/02/16 20:00:00 (global)〓
-
-Fixes an issue whereby when playing the game on mobile, the companions and some of the Furnishings in the Serenitea Pot could not be selected or moved if the settings for "Graphics > Visual Effects" is set to "Lowest" or "Low."
 
 -----
 
