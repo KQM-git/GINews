@@ -650,58 +650,6 @@ And complete the World Quest "Erebos' Secret"
 
 -----
 
-# "Hyakunin Ikki" Event: A team-switching combat challenge awaits
-## Hyakunin Ikki
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/885de6222367f000faebf3fce230b0f2_864698572268314877.jpg)
-
-During the event, take part in the free-for-all fighting tournament "Hyakunin Ikki" and show off your elegant combat skills by defeating opponents in tag teams of two characters. By reaching the target scores, Travelers can obtain rewards such as Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-**〓Event Duration〓**
-
-2022/03/18 10:00:00 (server) – 2022/03/28 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "Ritou Escape Plan"
-
-**〓Event Details〓**
-
-● There are a total of six challenges in "Hyakunin Ikki," and a new challenge will be unlocked each day for the first six days of the event.
-
-● During these challenges, you can use either the trial characters or your own characters to form 6 tag teams to do the challenge. Each tag team can have up to two characters and two "Secret Arts." You can switch teams in battle, and doing so will cycle through teams in order of when they were formed.
-
-● Secret Arts can provide buffs to the team on the field. They are split into Transmission Arts that change based on the challenge you are taking on, and Normal Secret Arts, which can be used in any challenge.
-
-● Within the time limit, switch between tag teams and defeat opponents to score points. Reach a specified high score in each challenge stage to obtain Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-● Cannot start the challenge while in Co-Op Mode.
-
-※ Elemental Resonances will not take effect during Hyakunin Ikki challenges, nor will you be able to use food or other items.
-
------
-
-# "Overflowing Mastery" Event: Double drops with Talent Level-Up Materials
-## Overflowing Mastery
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/c9b02763a29fe8f44b1b15bba97dbe64_7503174959027407158.jpg)
-
-During the event, Travelers who successfully challenge Talent Level-Up Material Domains and who consume Original Resin to obtain rewards will receive double the output.
-
-**〓Event Duration〓**
-
-2022/03/21 04:00:00 (server) – 2022/03/28 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, Travelers who successfully challenge the Talent Level-Up Material Domains "Forsaken Rift," "Taishan Mansion," and "Violet Court" and consume Original Resin to obtain rewards will receive double the output. A total of three opportunities to gain double drops will be available each day!
-
------
-
 # Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
 ## Event Wish - Reign of Serenity
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/ee890e70f1dbcf0b8ea8c40eabbd28e8_7965923484003279191.jpg)
@@ -783,30 +731,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# "Into the Shadows" Event Details
-## Into the Shadows
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/bdbc88ad4e3a9ff97bb4383769aa4d3e_4099373127763636704.jpg)
-
-Travelers can earn rich rewards in "Into the Shadows" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Awakening" and Furnishing Blueprint "Gold-Inscribed Evil-Cleansing Banner."
-
-**〓Event Duration〓**
-
-After the Version 2.5 update – 2022/03/28 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/03/28 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
