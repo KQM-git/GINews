@@ -196,20 +196,6 @@ Permanently Available
 
 -----
 
-# The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
-## Genshin Impact Version 2.6 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/17/c0e5e782ca8adf251d0d83369063bc83_7085595725176177738.jpg)
-
-Dear Traveler,
-
-The Version 2.6 "Zephyr of the Violet Garden" Preview page is here!
-
-[>>Go to V2.6 "Zephyr of the Violet Garden" Preview Page<<](https://webstatic-sea.hoyoverse.com/ys/event/e20220319-previ-fd5q/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=ewarmapi&authkey_ver=1&act_id=490082c6f9e84c05&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
