@@ -1,3 +1,173 @@
+# "Cypressus Custos Chapter" Story Quest Overview
+## Cypressus Custos Chapter
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/bc50fe4bbe5bd71f68bad007e35be468_2551339113952158486.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Kamisato Ayato's Story Quest "Cypressus Custos Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 2.6 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+Complete Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act I - Reflections of Mortality" and the World Quest "Chisato's Letter"
+
+-----
+
+# Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!
+## Event Wish - Azure Excursion
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1eac4b6a5111abe4d1726842a7191c2d_8876412572327152062.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 2.6 update — 2022/04/19 17:59:00 (server) | "Pillar of Fortitude" Kamisato Ayato (Hydro) | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Stage Lucida" Yun Jin (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Pillar of Fortitude" Kamisato Ayato (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Harmless Sweetie" Sucrose (Anemo), "Exquisite Delicacy" Xiangling (Pyro), and "Stage Lucida" Yun Jin (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Ballad in Goblets" - Boosted Drop Rate for "Windborne Bard" Venti (Anemo)!
+## Event Wish - Ballad in Goblets
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/726d45d9eb3d7018a5d3afa60b872c19_2008345759034649260.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 2.6 update — 2022/04/19 17:59:00 (server) | "Windborne Bard" Venti (Anemo) | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Stage Lucida" Yun Jin (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Windborne Bard" Venti (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Harmless Sweetie" Sucrose (Anemo), "Exquisite Delicacy" Xiangling (Pyro), and "Stage Lucida" Yun Jin (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Haran Geppaku Futsu (Sword) and Elegy for the End (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/ac329d1e062999de205dccb8829d9da2_7852888059219390326.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 2.6 update — 2022/04/19 17:59:00 (server) | Haran Geppaku Futsu (Sword)   Elegy for the End (Bow) | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event, the event-exclusive 5-star weapons Haran Geppaku Futsu (Sword) and Elegy for the End (Bow) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), The Widsith (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Haran Geppaku Futsu (Sword) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Luxuriant Vibrance" Event Details
+## Luxuriant Vibrance
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
+
+Travelers can earn rich rewards in "Luxuriant Vibrance" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Irodori" and Furnishing Blueprint "Tanuki Hugs Photo Board."
+
+**〓Event Duration〓**
+
+After the Version 2.6 update – 2022/05/09 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 13 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/33d0a10f090c9d5a81f4584f3aaf2620_7661585857263951628.jpg)
+
+Round 13 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one
+
+3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Special Supply Bundle〓**
+
+Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
+
+Bundle Contents: Hero's Wit ×12, Mora ×10,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
 # Pre-Installation Function Now Available
 ## Pre-Installation Function Now Available
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
