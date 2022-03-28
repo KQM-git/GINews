@@ -549,7 +549,7 @@ Fixes an issue whereby when playing the game on mobile, the companions and some 
 
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/18/36c4e6ef066afb99d1662c53c7635ef4_327257185590171954.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/3a157c4d9e85ceb1a0742551ee70e1f5_828107403796157989.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
 
