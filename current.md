@@ -1,3 +1,470 @@
+# Version 2.6 "Zephyr of the Violet Garden" New Content Overview
+## Version 2.6 New Content Overview
+
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/7b0489a5da385b4e726a9644b8fb4886_6729934789794579348.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/1bb8db3d062c5cf36de48804ffd5d28f_809803676977017307.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/46cbb8a742362687ddd4ac9725cc7ba6_4942248627680139927.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/486c596ce8057fb2ce60774bc1766674_5870707552009336830.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/72300bd738f4173957234d30196c19b7_3502192705471259544.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/cf62a97277ad388ac81f9a975f932ba0_5611415283246945403.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/a98433845fffd5e89d5d2fd79222722b_3210162077156176956.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/102a3bdb5d6651fbb48dc0d9f9efd2f7_2446709528332821456.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/5fca86d5de251fd4de0ab709f19ea6ae_3029600325348739031.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/f45dee37b0ee16439b3791ad8db6e9df_7188471672743418923.jpg)
+
+-----
+
+# "Zephyr of the Violet Garden" Version 2.6 Update Details
+## Version 2.6 Update Details
+
+
+Dear Travelers,
+
+Below are the details of the Version 2.6 update "Zephyr of the Violet Garden" and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Eligibility〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/03/30 06:00:00 (global).
+
+Please claim before the end of Version 2.6.
+
+Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above before 2022/03/30 06:00:00 (global).
+
+Please claim the compensation mail before 2022/04/02 06:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins 2022/03/30 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Area - "The Chasm"
+
+◇ After the Version 2.6 update, a new area, The Chasm, will be available in Liyue.
+
+Reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches" and the World Quest "Surreptitious Seven-Star Seal Sundering" to unlock the underground mines.
+
+II. New Character
+
+5-Star Character "Pillar of Fortitude" Kamisato Ayato (Hydro)
+
+◇ Vision: Hydro
+
+◇ Weapon: Sword
+
+◇ The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.
+
+Kamisato Ayato's Elemental Skill "Kamisato Art: Kyouka" creates flash-step movements, leaving behind a watery illusion at his original location, and he then enters the Takimeguri Kanka state. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG. In the Takimeguri Kanka state, Ayato will use his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted to AoE Hydro DMG. This cannot be overridden.
+
+His Elemental Burst "Kamisato Art: Suiyuu"  unveils a garden of purity that silences the cacophony within. While this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing Hydro DMG and increasing the Normal Attack DMG of characters within.
+
+III. New Domain
+
+The Lost Valley
+
+The ancient ritual grounds were buried beneath the earth amidst a cataclysm that tore heaven and earth asunder before being uplifted by the descent of an alien object, and finally unveiled by a destructive battle that resulted from a betrayal. Nonetheless, those who once frequented this place are no more.
+
+◇ Unlock Criteria:
+
+• Reach Adventure Rank 22 or above
+
+• Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+• And fulfill certain criteria
+
+◆ Challenge the Domain to obtain artifacts in the "Vermillion Hereafter" and "Echoes of an Offering" sets.
+
+Located at The Chasm.
+
+IV. New Equipment
+
+1. New Weapon
+
+Haran Geppaku Futsu (5-Star Sword)
+
+◇ A famed work by the Futsu line of smiths. The name "Haran" comes from the manner in which it resembles the violent, roiling waves.
+
+◆ Obtain All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by a certain amount for 8s.
+
+2. New Artifact Sets
+
+Vermillion Hereafter (4-Star and 5-Star)
+
+◇ 2-Piece Set: Increased ATK.
+
+◇ 4-Piece Set: After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by a certain percentage for 16s. When the character's HP decreases, their ATK will further increase by a certain percentage. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.
+
+Echoes of an Offering (4-Star and 5-Star)
+
+◇ 2-Piece Set: Increased ATK.
+
+◇ 4-Piece Set:When Normal Attacks hit opponents, there is a certain chance that it will trigger Valley Rite, which will increase Normal Attack DMG by a certain percentage of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by a certain percentage. This trigger can occur once every 0.2s.
+
+V. New Events
+
+"Hues of the Violet Garden" event: Take part to invite "Juvenile Galant" Xingqiu (Hydro)
+
+During the event, you will receive quests to help organize the Irodori Festival. As the festival progresses, four gameplay modes will be unlocked in sequence: "The Moon and Stars Inscribe," "Theater Mechanicus," "Clash of Lone Blades," and "The Floral Courtyard." Participate and complete the corresponding criteria to obtain event-exclusive Furnishings, exclusive recipes, Primogems, Crown of Insight, Talent Level-Up Materials, and more. Complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro).
+
+▌Event Duration
+
+**Event Details** |  **Event Details** |  **Start Time**  |  **End Time** 
+--- | --- | --- | ---
+ Gameplay Duration  |  True Tales of the Violet Garden: Act I |  2022/04/07 10:00:00 (server) |  2022/04/25 03:59:59 (server)
+^ |  True Tales of the Violet Garden: Act II |  2022/04/09 04:00:00 (server) | ^
+^ |  True Tales of the Violet Garden: Act III |  2022/04/11 04:00:00 (server) | ^
+^ |  True Tales of the Violet Garden: Act IV |  2022/04/13 04:00:00 (server) | ^
+
+▌Eligibility
+
+Reach Adventure Rank 30 or above
+
+Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
+
+*Complete Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I - "The Firmiana Leaf Falls," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - "Transient Dreams," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I - "Warriors' Dreams Like Spring Grass Renewing" first to best enjoy the event.
+
+If you have not completed Kamisato Ayato, Raiden Shogun, and Sangonomiya Kokomi's Story Quests, you can enter the event through "Quick Start."
+
+VI. New Main Story
+
+1. New Archon Quest
+
+Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+
+After the Version 2.6 update, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will be permanently available.
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 30 or above
+
+• And complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+2. New Story Quest
+
+Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I - The Firmiana Leaf Falls"
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 40 or above
+
+• Complete the Story Quest: "Imperatrix Umbrosa Chapter: Act I - Reflections of Mortality"
+
+• Complete the World Quest "Chisato's Letter"
+
+3. New World Quests
+
+◆ New World Quests: "The Chasm Delvers" Quest Chain, "Stolen, by the Rightful Owner," "Undetected Infiltration," "A Cliff-Side Hero's Past," "The Millennial Mountains," "Says He Who Seeks Stone," "Dimming Mushroom's Call for Help," "A Company Vanishing Into the Deep," "Valor's Afterglow" Quest Chain, "Lost in a Foreign Land" Quest Chain, "Mycological Investigation in The Chasm," "Hydrological Investigation in The Chasm," "Paleontological Investigation in The Chasm," "The Chasm's Bounty," "The Missing Miner," and more.
+
+VII. New Enemies
+
+Ruin Serpent
+
+◇ An ancient, bizarrely-shaped autonomous machine.
+
+It will create Oozing Concretions in battle and will attempt to draw power from them under certain circumstances, which will allow it to unleash devastating attacks. Use the Blooming Light from your Lumenstone Adjuvant to destroy the Oozing Concretions feeding power to the Ruin Serpent to knock it out of this state and cause the energy cores on its body to cease functioning.
+
+Located at The Chasm
+
+Black Serpent Knight: Windcutter
+
+◇ A guard of some standing in the court.
+
+When their attacks hit a character defended by shields, they will obtain buffs at the cost of its HP.
+
+Floating Hydro Fungus
+
+◇ A spore organism of some intelligence. It possesses extreme adaptability.
+
+Development Items dropped by "Floating Hydro Fungus" will also be added to "Shop > Paimon's Bargains" in future Versions.
+
+VIII. Other Additions
+
+New Recipes:
+
+○ Kamisato Ayato's specialty: "Quiet Elegance"
+
+○ Inazuman Food Stall: Katsu Sandwich
+
+○ Obtain "Rainbow Aster" from the "Hues of the Violet Garden" event
+
+New Achievement categories such as "Challenger: Series V," and "Chasmlighter" and new Achievements added to the "Wonders of the World" category.
+
+New Namecards:
+
+"Kamisato Ayato: Ripple": Reward for reaching Friendship Lv. 10 with Kamisato Ayato
+
+"Lumens: Stone of Light:" Reward for enhancing the Lumenstone Adjuvant to Lv. 10
+
+"Achievement: Thunderclap:" Reward for completing all achievements under "Challenger: Series V"
+
+"Achievement: Chasm:" Reward for completing all achievements under "Chasmlighter"
+
+"Travel Notes: Irodori": Reward obtained via the BP system
+
+New Furnishing: Leisure Device: Maximum Motivation
+
+Tubby created this furniture combination with great care out of a Practice Plaque and multiple Practice Stakes. The Practice Stakes can be placed anywhere within a limited area and will persist once placed. You can initiate the Practice Challenge at any time. If you can destroy all the wooden stakes in 2s, the challenge will be considered a success. Interact with the Practice Plaque to check your records.
+
+The "Adjust Brightness" function has been added to Settings > Graphics.
+
+"Radiant Spincrystals" have been added to Mondstadt, Liyue, and Inazuma. After obtaining them, you can unlock the corresponding Realm Music using "Euphonium Unbound."
+
+The Teapot Traveling Salesman has added some "Radiant Spincrystals" which can be purchased after obtaining and completing the corresponding World Quests in Inazuma.
+
+After completing Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," Ritou will add a shop where you can purchase "Sango Pearls," "Unagi Meat," and 2-Star "Lucky Dog" Artifacts.
+
+New Living Beings: Lucklight Fly (Capturable), and Bluethunder Weasel (Capturable)
+
+New Harvestable Resource: Starshroom
+
+The redirect link to the "Adventurer Handbook: Bosses" screen has been added under the "Sources" for certain Development Items.
+
+The Development Items dropped by "Floating Hydro Fungus" will also include a redirect link to the "Adventurer Handbook" in future versions.
+
+Adds a shortcut for opening the Party Setup Screen on mobile platforms: on the main interface, tap and hold the avatar of any character to quickly access the Party Setup Screen.
+
+Adds some prompts for loading screens.
+
+New Loot Drops from "Abyss Heralds," and "Abyss Lectors": "Gloomy Statuette," "Dark Statuette," and "Deathly Statuette."
+
+Spiral Abyss
+
+Floor 11 Ley Line Disorders changed to:
+
+• All characters in the party gain a 75% Anemo DMG Bonus.
+
+Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 2.6, the three Lunar Phases will be as follows:
+
+Phase I:
+
+Sheet-Ice Moon
+
+After a character's Normal Attack hits an opponent, this opponent will be afflicted with a Mark of Ending. After 10s, this Mark of Ending will be removed, dealing True DMG to this opponent. When a character's Normal Attack hits an opponent with a Mark of Ending, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
+
+Phase II:
+
+Snap-Rain Moon
+
+After a character's Normal Attacks hit opponents, the DMG dealt by this character's Normal Attacks will increase by 12% for 5s. This effect can stack up to 5 times. Each stack is calculated independently. This effect can be triggered once every 0.1s.
+
+Phase III:
+
+Iris Moon
+
+After a character's Normal Attack deals DMG to an opponent, the Physical/Elemental RES of this opponent will decrease by 6% for 5s, matching the type of DMG dealt. This can stack up to 7 times. RES decreases of different types can co-exist, and their stacks and timers will be independent of each other.
+
+〓Adjustments & Optimizations〓
+
+● Enemies
+
+Lowers the DMG done by "Geovishap Hatchlings" when their tail sweep skill hits a character continuously.
+
+Optimizes the appearance of the "Primo Geovishap" in the "Living Beings" section of the Archive.
+
+● System
+
+Optimizes the Ornamental Fish icon.
+
+Optimizes UI presentation and text of content that has yet to be unlocked in Hangout Events.
+
+When below Adventure Rank 30, the "Tutorials" icon will be permanently displayed on the main interface.
+
+Adds "Recently Unlocked" to "Tutorials." Five newly unlocked tutorials will be stored for easy access.
+
+"Tutorials" will record the position where you last have read. If there is no unread tutorial, the last read tutorial will be selected.
+
+Adjusts the position of the Tutorials button in "Living Beings."
+
+Optimizes the sorting logic for Weapon Enhancement Materials and Artifact Enhancement Materials: these two materials are still placed at the bottom of their respective categories, but their internal sorting will be affected when sorting by quality.
+
+● Audio
+
+Optimizes the volume of music in the Serenitea Pot.
+
+Optimizes the Japanese, Korean, and English voice-over for certain characters and quests.
+
+Adds Alternate Outfits voice lines for the characters Jean, Amber, Rosaria, and Mona; Travelers can change the outfits in "Character > Outfit" to play the relevant voice lines.
+
+● Other
+
+The text of the "Exit Download" button in the login screen has been changed to "Stop Download," and the text description of the related function was optimized.
+
+For animation cutscenes from Version 2.6 and earlier, Jean, Amber, Rosaria, and Mona's appearances have been adjusted to the Alternate Outfits.
+
+Optimizes the effects of the cutscene animation in the Archon Quest "A Long Shot."
+
+Optimizes some display animation details of the character Kaeya in the Character > Weapon interface.
+
+Batch optimizes the logic related to the enemy homing function for 15 characters and 4 large-sized enemies: Golden Wolflord, Stormterror, Ruin Serpent, (new enemy in Version 2.6), and Bathysmal Vishap Herd.
+
+After the Spiral Abyss resets on April 1, the "Gladiator's Finale" and "Wanderer's Troupe" Artifact set rewards in "Domain Reliquary: Tier I," and "Domain Reliquary: Tier II" for Floors 9-12 will be replaced with "Vermillion Hereafter" and "Echoes of an Offering."
+
+Optimizes the sensitivity of the controller in the Hangout Events interface.
+
+Optimizes the display of certain messages on the interface when using a controller: hides messages that are not part of the current operation interface.
+
+When using a controller, you can quickly activate certain functions of the shortcut wheel by pressing key combinations.
+
+Adjusts the height of the central stage disc in some Domains.
+
+Adjusts the text description of Achievement category "Liyue: The Harbor of Stone and Contracts." Progress in exploring Liyue's The Chasm area will be counted separately in the "Chasmlighter" Achievement category.
+
+〓Bug Fixes〓
+
+● Quests
+
+Fixes an issue with NPC Atsuko where her location indication could be incorrect during some quest instructions.
+
+Fixes an issue of missing text in some dialogues of Chongyun's Hangout Event "Signs of Evil."
+
+Fixes an issue with Xiao whereby he appeared incorrectly in a mirror in the domain of the Story Quest "A Centuries-Long Dream."
+
+Fixes an issue whereby the quest could not be carried out after reaching the destination when the objective of the Story Quest "Cleansing Light" was "Go to where the tea master is."
+
+Fixes an issue whereby the NPC display was abnormally small in the Story Quest "Radiant Sakura."
+
+● Domains
+
+Fixes an issue with the Domain "Confront Stormterror" whereby the wind currents would be abnormally attacked by some characters' skills.
+
+● Co-Op
+
+Fixes an issue in Co-Op Mode whereby when multiple Qiqis are in the party at the same time, if one Traveler's Qiqi restores HP through Elemental Burst, there is a chance that the healing amount will be calculated based on the ATK of another Traveler's Qiqi.
+
+Fixes an issue whereby the weapon effects of weapons Lithic Spear, Lithic Blade, Akuoumaru, Wavebreaker's Fin, and Mouun's Moon were not refreshed in time after the host exited Co-Op Mode.
+
+Fixes an issue in Co-Op Mode whereby the character models of teammates in the water would not be displayed after the ice surface melted when party members and the host were standing on the ice surface.
+
+● Characters
+
+Fixes an issue with Sangonomiya Kokomi whereby immediately switching characters after she casts her Elemental Skill, then switching back to Kokomi would result in the skill effects playing abnormally.
+
+Fixes an issue whereby the fox tail effect of Yae Miko might not appear normally when Yae Miko uses her Elemental Burst immediately after the Raiden Shogun uses her Elemental Burst.
+
+Fixes an issue with the character Yae Miko whereby her Sesshou Sakura ability would attack opponents at random. Sesshou Sakura will now prioritize attacks on the nearest opponents within range after the fix.
+
+Fixes an issue whereby when a character triggers a conversation and automatically switches characters while sprinting, and Stamina would be abnormally consumed during that conversation.
+
+Fixes an issue with the character Eula whereby the number of times DMG dealt by Lightfall Sword from her Elemental Burst was abnormal when the frame rate was low.
+
+Fixes an issue with the character Bennett whereby his Passive Talent "Fearnaught" would have an abnormal duration under certain circumstances.
+
+Fixes an issue whereby when characters teleport to another location, there is a probability of abnormally alerting nearby creatures.
+
+Fixes an issue whereby some characters would be obstructed when diving into water, and there is a probability of them remaining suspended in that diving state.
+
+● Equipment
+
+Fixes an issue whereby after reconnecting to the server, the weapon "Deathmatch" would have abnormal effects.
+
+Fixes an issue whereby under certain circumstances, when triggering some Weapon or Artifact effects while sprinting, there is a probability that their effects will not apply normally.
+
+● Enemies
+
+Fixes an issue whereby the actual attack position of Magatsu Mitake Narukami no Mikoto's skill (a clasping attack with giant hands) does not match the special effect's position.
+
+Fixes an issue whereby enemy drops have the probability to rise abnormally after falling.
+
+Fixes an issue whereby the weapon of "Crackling Axe Mitachurl" could not be interacted with and that the Electro element effects were not consumed normally after triggering the Electro-Charged reaction.
+
+Fixes an issue whereby the material display of Hydro Slimes, Large Hydro Slimes, Water Droplets created by the Hydro Hypostasis, and the Perpetual Mechanical Array behaved abnormally when they were Frozen.
+
+Fixes an issue whereby the Corrosion effect caused by the enemies Rifthound, Rifthound Whelps, and the Golden Wolflord had a small probability of remaining abnormally after clearing the Domain.
+
+Fixes an issue in Co-Op Mode in which the boss "Bathysmal Vishap Herd" had a probability of disappearing.
+
+Fixes an issue whereby since Version 2.0, characters have a small probability of not being able to lock on to large-sized enemies in the open world (this issue does not occur in Domains).
+
+Fixes an issue whereby some of the skill effects of the enemy "Ruin Grader" might remain abnormally after being defeated.
+
+● System
+
+Fixes an issue whereby the Elemental Burst icons of off-field characters would be displayed abnormally under certain circumstances.
+
+Fixes an issue whereby when the key binding for Jump is changed on the PC, the prompt to escape the Frozen state is still displayed as the space bar.
+
+● Audio
+
+Fixes an issue whereby the voice line for Yae Miko's Profile > Voice-Over "More About Yae Miko: IV" could not be played.
+
+Fixes an issue whereby some of Sayu and Yun Jin's Japanese voice-overs could not be played.
+
+Fixes an issue with the boss Magatsu Mitake Narukami no Mikoto whereby some of her Korean voice-over lines were abnormal.
+
+Fixes an issue whereby some enemies or environment sound effects are missing or abnormal.
+
+● Other
+
+Fixes an issue whereby the Parametric Transformer gadget cannot be charged when exposed to elemental attacks on burning grass.
+
+Fixes an issue whereby some Radiant Spincrystals contain incorrect song descriptions.
+
+Fixes an issue whereby under certain circumstances, the NRE (Menu 30) gadget has a probability of abnormally displaying food that it no longer contained.
+
+Fixes an issue whereby when driving a Waverider for a long time, there is a probability of abnormal display of camera height.
+
+Fixes an issue under certain circumstances whereby there will be two NPCs Chef Mao in Liyue Harbor at the same time.
+
+Fixes an issue whereby some of the skill effects of the enemy "Anemo Samachurl" in the first half of the Spiral Abyss might remain when entering the second half.
+
+Fixes an issue whereby birds flying had a chance of abnormally colliding with models in the environment.
+
+Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indonesian, German, Thai, French, Spanish, Portuguese, Russian, Korean, Vietnamese, and Japanese and optimizes some text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.) Text-related fixes and optimizations in English include:
+
+◆ Optimized instances of the "Gilded Brigade" to "Eremite."
+
+◆ Optimized instances of "Sacred Call of Seven" to "Genius Invokation TCG."
+
+◆ Optimized instances of "Kyoushin" to "Futsu."
+
+◆ Optimized instances of "Doume" to "Hyakume."
+
+◆ Optimized instances of a character's name from "Lyudochka Schneitzevna" to "Lyudochka Snezhevna."
+
+◆ Optimized instances of a character's name from "Efim Schneitzevich" to "Efim Snezhevich."
+
+◆ Optimized Kamisato Ayaka and Venti's descriptions.
+
+◆ Optimized the display of Leyline Overflow results.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # Serenitea Pot Placement Function Maintenance Details
 ## Serenitea Pot Placement Function Maintenance Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/6f51ba7219b3479aa7738e0deda6c575_1377822300298183589.jpg)
@@ -29,6 +496,22 @@ Compensation must be claimed before the end of Version 2.6.
 Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
 
 Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance of Version 2.6 is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
 
 -----
 
@@ -331,42 +814,6 @@ View Location:
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
 [>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
------
-
-# "Three Realms Gateway Offering" Event: Take part and obtain the event-exclusive weapon, Oathsworn Eye (Catalyst)
-## Three Realms Gateway Offering
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/25/a1a6c169f7751d9689798be339fe6824_7835598491648550064.jpg)
-
-During the event, you can explore the darkness-covered Enkanomiya, using Light Realm Sigils to upgrade your Bokuso Box. Upgrade your Bokuso Box to a certain level to obtain Oathsworn Eye (Catalyst) and its refinement materials, and rewards such as Crown of Insight. Complete the Event exploration quests to obtain Primogems, Weapon Ascension Materials, and more.<p style="white-space: pre-wrap; min-height: 1.5em; line-height: 2;">
-
-**〓Event Duration〓**
-
-2022/02/17 10:00:00 (server) until the end of Version 2.5
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-Complete the Archon Quest "Chapter II: Act II - Stillness, the Sublimation of Shadow"
-
-And complete the World Quest "Erebos' Secret"
-
-**〓Event Details〓**
-
-● During the event, you can explore the darkness-covered Enkanomiya. There are different Corrosion Intensities in different areas of the region. When the Bokuso Box's Corrosion Resistance is lower than an area's Corrosion Intensity, your party will be exposed to Corrosion — which will accumulate over time and drain the energy of your Bokuso Box. Choose the "Recuperate" option at the statue to clear the accumulated Corrosion.
-
-● Travelers can obtain Light Realm Sigils by opening chests, unlocking Teleport Waypoints, completing exploration objectives, and playing through the "Sentou Trial." Offer the Light Realm Sigils at the statue to upgrade the Bokuso Box and strengthen its Corrosion Resistance. After upgrading the Bokuso Box to a certain level, you will obtain Oathsworn Eye (Catalyst) and its refinement materials, Crown of Insight, Hero's Wit, and other rewards.
-
-● When completing event exploration objectives through exploration or offerings, you can also obtain rewards such as Primogems, Weapon Ascension Materials, and Mora. You can view all exploration objectives and current completion status in the event details page.
-
-● "The Call of Ice and Thunder" challenge will unlock upon completing the quest "Three Realms Gateway Offering: Aftermath." The challenge has three difficulty levels: Normal, Hard, and Extreme. Lower difficulties will be automatically cleared upon completing the challenge at a higher difficulty. Complete the challenge at corresponding difficulties to obtain rewards such as Primogems, Hero's Wit, and Mora.
-
-● After completing the quest "Three Realms Gateway Offering: Aftermath," you can accept the quest "The Bunkoku Enigma." Complete the quest to obtain rewards such as Primogems, Hero's Wit, and Mora. After the end of Version 2.5, you will no longer be able to complete the World Quest "The Bunkoku Enigma." Please complete the quest to claim the rewards in time.
-
-● After the end of Version 2.5, you will no longer be able to travel to the Three Realms Gateway Offering area to open chests and obtain challenge rewards. Please explore the area and claim the rewards in time.
-
-● After the end of Version 2.5, the gadget "Bokuso Box" will disappear from your Inventory.
 
 -----
 
