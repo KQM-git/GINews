@@ -1,3 +1,105 @@
+# Serenitea Pot Placement Function Maintenance Details
+## Serenitea Pot Placement Function Maintenance Details
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/6f51ba7219b3479aa7738e0deda6c575_1377822300298183589.jpg)
+
+Dear Travelers,
+
+After the Version 2.6 update, we will carry out maintenance on the placement function of the Serenitea Pot. The placement function will not be available during the maintenance period.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+We will notify Travelers via in-game notice and community channels once the maintenance is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
+
+〓Maintenance Duration〓
+
+From 2022/03/30 06:00:00 (global) (Starting from Genshin Impact's Version 2.6 update)
+
+〓Maintenance Compensation〓
+
+Primogems ×300
+
+Realm Currency ×5000
+
+〓Eligibility〓
+
+Travelers who reached Adventure Rank 5 and above before 2022/03/30 06:00:00 (global).
+
+Compensation must be claimed before the end of Version 2.6.
+
+Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance of Version 2.6 is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# Pre-Installation Function Now Available
+## Pre-Installation Function Now Available
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
+
+Dear Travelers,
+
+The pre-installation function is now available on both PC and mobile platforms.
+
+Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
+
+When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
+
+Travelers on mobile platforms will be unable to play the game while pre-installing game resources. It's recommended that Travelers complete any Domains or other challenges they wish to finish first before beginning the pre-installation process.
+
+Travelers on PC can still play the game while pre-installing game resources. Pre-installation will take up a certain amount of your network's bandwidth, so it's best to make sure you have a good network connection before beginning pre-installation.
+
+After pre-installation is complete, Travelers can update the game and experience new version content faster.
+
+**〓How to Update〓**
+
+Mobile (iOS & Android)
+
+Method 1: Travelers may begin pre-installing update resources by going to the Paimon Menu > Settings > Other > Pre-Install Resource Package.
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/26/68a9fceeba35ae753c1af63b6e643985_6581160582160153510.jpg)
+
+Method 2: Travelers may also begin pre-installing update resources by tapping the "Pre-Install Resource Package" icon in the bottom-left corner of the login screen.
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/26/713ee4fb32a360d87ca3307282ce51c1_3349484738719370436.jpg)
+
+When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
+
+Using the pre-installation function will reduce the time that the game spends updating resources on the first time you enter a new version, even if you did not fully complete pre-installation.
+
+PC:
+
+After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
+
+Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
+
+Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+Permanently available after the Version 2.6 update
+
+〓Quest Unlock Criteria〓
+
+• Adventure Rank 30 or above
+
+• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # "Cypressus Custos Chapter" Story Quest Overview
 ## Cypressus Custos Chapter
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/bc50fe4bbe5bd71f68bad007e35be468_2551339113952158486.jpg)
@@ -165,50 +267,6 @@ Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# Pre-Installation Function Now Available
-## Pre-Installation Function Now Available
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
-
-Dear Travelers,
-
-The pre-installation function is now available on both PC and mobile platforms.
-
-Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
-
-When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
-
-Travelers on mobile platforms will be unable to play the game while pre-installing game resources. It's recommended that Travelers complete any Domains or other challenges they wish to finish first before beginning the pre-installation process.
-
-Travelers on PC can still play the game while pre-installing game resources. Pre-installation will take up a certain amount of your network's bandwidth, so it's best to make sure you have a good network connection before beginning pre-installation.
-
-After pre-installation is complete, Travelers can update the game and experience new version content faster.
-
-**〓How to Update〓**
-
-Mobile (iOS & Android)
-
-Method 1: Travelers may begin pre-installing update resources by going to the Paimon Menu > Settings > Other > Pre-Install Resource Package.
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/26/68a9fceeba35ae753c1af63b6e643985_6581160582160153510.jpg)
-
-Method 2: Travelers may also begin pre-installing update resources by tapping the "Pre-Install Resource Package" icon in the bottom-left corner of the login screen.
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/26/713ee4fb32a360d87ca3307282ce51c1_3349484738719370436.jpg)
-
-When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
-
-Using the pre-installation function will reduce the time that the game spends updating resources on the first time you enter a new version, even if you did not fully complete pre-installation.
-
-PC:
-
-After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
-
-Using the pre-installation function can speed up the update progress of the launcher during version updates.
 
 -----
 
@@ -1070,90 +1128,6 @@ And complete the World Quest "Erebos' Secret"
 ● After the end of Version 2.5, you will no longer be able to travel to the Three Realms Gateway Offering area to open chests and obtain challenge rewards. Please explore the area and claim the rewards in time.
 
 ● After the end of Version 2.5, the gadget "Bokuso Box" will disappear from your Inventory.
-
------
-
-# Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
-## Event Wish - Reign of Serenity
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/ee890e70f1dbcf0b8ea8c40eabbd28e8_7965923484003279191.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/03/08 18:00:00 (server) – 2022/03/29 14:59:59 (server) | "Plane of Euthymia" Raiden Shogun (Electro) | "Trial by Fire" Bennett (Pyro)
-^ | ^ | "Blazing Riff" Xinyan (Pyro)
-^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Blazing Riff" Xinyan (Pyro), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
-## Event Wish - Drifting Luminescence
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/126191a041188f1d19eda5563a1cb7cc_8321583623104571075.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters ** **(4-Star)**
---- | --- | ---
-2022/03/08 18:00:00 (server) – 2022/03/29 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Trial by Fire" Bennett (Pyro)
-^ | ^ | "Blazing Riff" Xinyan (Pyro)
-^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Blazing Riff" Xinyan (Pyro), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and Everlasting Moonglow (Catalyst)!
-## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/564b8beeacaa1bb54c0d13a40efffaf4_1765854410187271956.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/03/08 18:00:00 (server) – 2022/03/29 14:59:59 (server) | Engulfing Lightning (Polearm)   Everlasting Moonglow (Catalyst) | Akuoumaru (Claymore)
-^ | ^ | Mouun's Moon (Bow)
-^ | ^ | Lion's Roar (Sword)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-
-● During the event, the event-exclusive 5-star weapons Engulfing Lightning (Polearm) and Everlasting Moonglow (Catalyst) will receive a huge drop-rate boost!
-
-● During the event, the event-exclusive 4-star weapons Akuoumaru (Claymore) and Mouun's Moon (Bow), as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), and Sacrificial Fragments (Catalyst) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Engulfing Lightning (Polearm) or Everlasting Moonglow (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
