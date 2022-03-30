@@ -465,6 +465,38 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 
 -----
 
+# "Outside the Canvas, Inside the Lens" Event: A Photographic Journey in Search of Inspiration
+## Outside the Canvas, Inside the Lens
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/0572900488d21ef9dbaecaaa38f28afa_7806690405003578394.jpg)
+
+During the event, use the Kamera to help Inazuman illustrator Asagiri find inspirations for her creations. Record various pictures in the Photo Notes to obtain Primogems, Hero's Wit, Mora and other rewards.
+
+**〓Event Duration〓**
+
+2022/04/01 10:00:00 (server) – 2022/04/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
+
+**〓Event Details〓**
+
+● The "Outside the Canvas, Inside the Lens" event has 14
+
+photo-taking spots in total. Two new photo-taking spots will be added each day for the first seven days of the event.
+
+● You must equip the Kamera and "Prepare to Photograph" at the designated photo-taking spot.
+
+● Each photo-taking spot has specified Photo-Taking Targets and a specified Photo-Taking Range. You must take the picture according to the photo-taking requirements within the specified Photo-Taking Range.
+
+● If you are out of the specified Photo-Taking Range while taking a photo, you will leave the photo-taking state and must "Prepare to Photograph" again.
+
+※ Recorded photos will not be stored in Photo Notes. You can save your favorite photos in your current personal devices.
+
+-----
+
 # Serenitea Pot Placement Function Maintenance Details
 ## Serenitea Pot Placement Function Maintenance Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/6f51ba7219b3479aa7738e0deda6c575_1377822300298183589.jpg)
