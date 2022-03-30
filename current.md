@@ -497,40 +497,6 @@ photo-taking spots in total. Two new photo-taking spots will be added each day f
 
 -----
 
-# Serenitea Pot Placement Function Maintenance Details
-## Serenitea Pot Placement Function Maintenance Details
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/6f51ba7219b3479aa7738e0deda6c575_1377822300298183589.jpg)
-
-Dear Travelers,
-
-After the Version 2.6 update, we will carry out maintenance on the placement function of the Serenitea Pot. The placement function will not be available during the maintenance period.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
-We will notify Travelers via in-game notice and community channels once the maintenance is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
-
-〓Maintenance Duration〓
-
-From 2022/03/30 06:00:00 (global) (Starting from Genshin Impact's Version 2.6 update)
-
-〓Maintenance Compensation〓
-
-Primogems ×300
-
-Realm Currency ×5000
-
-〓Eligibility〓
-
-Travelers who reached Adventure Rank 5 and above before 2022/03/30 06:00:00 (global).
-
-Compensation must be claimed before the end of Version 2.6.
-
-Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
-
-Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance of Version 2.6 is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
------
-
 # New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
 ## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
@@ -846,6 +812,40 @@ View Location:
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
 [>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+-----
+
+# Serenitea Pot Placement Function Maintenance Details
+## Serenitea Pot Placement Function Maintenance Details
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/29/6f51ba7219b3479aa7738e0deda6c575_1377822300298183589.jpg)
+
+Dear Travelers,
+
+After the Version 2.6 update, we will carry out maintenance on the placement function of the Serenitea Pot. The placement function will not be available during the maintenance period.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+We will notify Travelers via in-game notice and community channels once the maintenance is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
+
+〓Maintenance Duration〓
+
+From 2022/03/30 06:00:00 (global) (Starting from Genshin Impact's Version 2.6 update)
+
+〓Maintenance Compensation〓
+
+Primogems ×300
+
+Realm Currency ×5000
+
+〓Eligibility〓
+
+Travelers who reached Adventure Rank 5 and above before 2022/03/30 06:00:00 (global).
+
+Compensation must be claimed before the end of Version 2.6.
+
+Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance of Version 2.6 is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
 
 -----
 
