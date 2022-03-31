@@ -499,30 +499,6 @@ photo-taking spots in total. Two new photo-taking spots will be added each day f
 
 -----
 
-# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
-
-Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-Permanently available after the Version 2.6 update
-
-〓Quest Unlock Criteria〓
-
-• Adventure Rank 30 or above
-
-• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -822,6 +798,30 @@ View Location:
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
 [>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
+
+Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+Permanently available after the Version 2.6 update
+
+〓Quest Unlock Criteria〓
+
+• Adventure Rank 30 or above
+
+• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
