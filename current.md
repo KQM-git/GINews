@@ -713,7 +713,7 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 80 Gen
 
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/3a157c4d9e85ceb1a0742551ee70e1f5_828107403796157989.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/31/b2f4528c91317f3b06b2d41cf41972c0_7859350146084626087.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
 
