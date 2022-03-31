@@ -523,6 +523,20 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
+# "Zephyr of the Violet Garden" Preview Page Now Online
+## "Zephyr of the Violet Garden" Preview Page Now Online
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/31/b2f4528c91317f3b06b2d41cf41972c0_7859350146084626087.jpg)
+
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
+
+"Zephyr of the Violet Garden" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
+
+This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
+
+-----
+
 # "Cypressus Custos Chapter" Story Quest Overview
 ## Cypressus Custos Chapter
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/bc50fe4bbe5bd71f68bad007e35be468_2551339113952158486.jpg)
@@ -690,20 +704,6 @@ Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# "Zephyr of the Violet Garden" Preview Page Now Online
-## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/31/b2f4528c91317f3b06b2d41cf41972c0_7859350146084626087.jpg)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
-
-"Zephyr of the Violet Garden" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
-
-This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
 
 -----
 
