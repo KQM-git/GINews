@@ -1,20 +1,28 @@
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+# Version 2.6 "Zephyr of the Violet Garden" New Content Overview
+## Version 2.6 New Content Overview
 
-Dear Travelers,
 
-The HoYoLAB Community "Daily Check-In" feature is now available!
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/3012cc22983158e59d9b41f4d2a16421_7731392572533688519.jpg)
 
-[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/cebf9c25dad20344cf05a523acc7ed29_7958598917997490920.jpg)
 
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/8cdf2de896881e75a7269afc6e64b800_9099926003583993509.jpg)
 
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/7c8faafea3cfa77d290a11740d2c35bd_1982017991583295474.jpg)
 
-〓Event Duration〓
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/f95323c8ff8847c1f517b7c632b6ac00_3093139664504125424.jpg)
 
-Permanent
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/abffbcc49ce0bc5aecaea98f54643fb1_8504968311897815254.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/1f2c6ea1c7c673c921fe9b1d688c6165_7380336702831717131.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/ce40d7efcbcea35f78c3768c6cf1f8e9_6296163045861924855.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/9986b269f485dac43593a15ac8324eaa_2144811232635385965.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/08705869bae8a933629c48af902904ef_2178870096662369569.jpg)
+
+![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/3fa47655260cd42678ae5bdc6b4e5bd2_4033262453950619581.jpg)
 
 -----
 
@@ -82,34 +90,6 @@ If you have not completed Kamisato Ayato, Raiden Shogun, and Sangonomiya Kokomi'
 ● After completing the various "Legends of the Kasen" quest phases, you can receive the "Irodori Anecdotes" of the corresponding phases.
 
 ● During the event, complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro). Can only be exchanged for once.
-
------
-
-# Version 2.6 "Zephyr of the Violet Garden" New Content Overview
-## Version 2.6 New Content Overview
-
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/3012cc22983158e59d9b41f4d2a16421_7731392572533688519.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/cebf9c25dad20344cf05a523acc7ed29_7958598917997490920.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/8cdf2de896881e75a7269afc6e64b800_9099926003583993509.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/7c8faafea3cfa77d290a11740d2c35bd_1982017991583295474.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/f95323c8ff8847c1f517b7c632b6ac00_3093139664504125424.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/abffbcc49ce0bc5aecaea98f54643fb1_8504968311897815254.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/1f2c6ea1c7c673c921fe9b1d688c6165_7380336702831717131.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/ce40d7efcbcea35f78c3768c6cf1f8e9_6296163045861924855.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/9986b269f485dac43593a15ac8324eaa_2144811232635385965.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/08705869bae8a933629c48af902904ef_2178870096662369569.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/3fa47655260cd42678ae5bdc6b4e5bd2_4033262453950619581.jpg)
 
 -----
 
@@ -554,38 +534,6 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 
 -----
 
-# "Outside the Canvas, Inside the Lens" Event: A Photographic Journey in Search of Inspiration
-## Outside the Canvas, Inside the Lens
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/0572900488d21ef9dbaecaaa38f28afa_7806690405003578394.jpg)
-
-During the event, use the Kamera to help Inazuman illustrator Asagiri find inspirations for her creations. Record various pictures in the Photo Notes to obtain Primogems, Hero's Wit, Mora and other rewards.
-
-**〓Event Duration〓**
-
-2022/04/01 10:00:00 (server) – 2022/04/11 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
-
-**〓Event Details〓**
-
-● The "Outside the Canvas, Inside the Lens" event has 14
-
-photo-taking spots in total. Two new photo-taking spots will be added each day for the first seven days of the event.
-
-● You must equip the Kamera and "Prepare to Photograph" at the designated photo-taking spot.
-
-● Each photo-taking spot has specified Photo-Taking Targets and a specified Photo-Taking Range. You must take the picture according to the photo-taking requirements within the specified Photo-Taking Range.
-
-● If you are out of the specified Photo-Taking Range while taking a photo, you will leave the photo-taking state and must "Prepare to Photograph" again.
-
-※ Recorded photos will not be stored in Photo Notes. You can save your favorite photos in your current personal devices.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -630,6 +578,38 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
+# "Outside the Canvas, Inside the Lens" Event: A Photographic Journey in Search of Inspiration
+## Outside the Canvas, Inside the Lens
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/0572900488d21ef9dbaecaaa38f28afa_7806690405003578394.jpg)
+
+During the event, use the Kamera to help Inazuman illustrator Asagiri find inspirations for her creations. Record various pictures in the Photo Notes to obtain Primogems, Hero's Wit, Mora and other rewards.
+
+**〓Event Duration〓**
+
+2022/04/01 10:00:00 (server) – 2022/04/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
+
+**〓Event Details〓**
+
+● The "Outside the Canvas, Inside the Lens" event has 14
+
+photo-taking spots in total. Two new photo-taking spots will be added each day for the first seven days of the event.
+
+● You must equip the Kamera and "Prepare to Photograph" at the designated photo-taking spot.
+
+● Each photo-taking spot has specified Photo-Taking Targets and a specified Photo-Taking Range. You must take the picture according to the photo-taking requirements within the specified Photo-Taking Range.
+
+● If you are out of the specified Photo-Taking Range while taking a photo, you will leave the photo-taking state and must "Prepare to Photograph" again.
+
+※ Recorded photos will not be stored in Photo Notes. You can save your favorite photos in your current personal devices.
+
+-----
+
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/31/b2f4528c91317f3b06b2d41cf41972c0_7859350146084626087.jpg)
@@ -641,6 +621,28 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
 
 This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
+
+-----
+
+# Details of the Feedback on Special Categories Function
+## Feedback on Special Categories
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+
+Dear Travelers,
+
+To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+
+At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+
+〓Enter Feedback〓
+
+[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+
+Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+
+〓Duration〓
+
+Permanently Available
 
 -----
 
@@ -814,25 +816,23 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 80 Gen
 
 -----
 
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
 Dear Travelers,
 
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
-〓Enter Feedback〓
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+〓Event Duration〓
 
-〓Duration〓
-
-Permanently Available
+Permanent
 
 -----
 
