@@ -534,36 +534,6 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 
 -----
 
-# "Serenitea Pot" Placement Function Maintenance Compensation 
-## "Serenitea Pot" Placement Function Maintenance Compensation 
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/03/4aa5b4ae37daaeea6d90bf68d58c8a4c_6084986912972468210.jpg)
-
-Dear Travelers,
-
-The placement function of the Serenitea Pot is still under maintenance. The placement function will not be available during the maintenance period.
-
-Starting from 2022/04/04, we will issue a compensation of Realm Currency ×5,000 every week during the maintenance period.
-
-We will notify Travelers via in-game notice and community channels once the maintenance on the placement function of the Serenitea Pot is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
-〓Maintenance Compensation〓
-
-A compensation of Realm Currency ×5,000 will be issued every week during the maintenance period.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 5 or above by 2022/04/04 11:00:00 (server)
-
-Compensation must be claimed before the end of Version 2.6.
-
-Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
-
-Starting from 2022/04/04, we will issue compensation to all Travelers via in-game mail every Monday at 11:00 (Server Time). The first compensation will be issued on 2022/04/04 11:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -849,6 +819,36 @@ Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# "Serenitea Pot" Placement Function Maintenance Compensation 
+## "Serenitea Pot" Placement Function Maintenance Compensation 
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/03/4aa5b4ae37daaeea6d90bf68d58c8a4c_6084986912972468210.jpg)
+
+Dear Travelers,
+
+The placement function of the Serenitea Pot is still under maintenance. The placement function will not be available during the maintenance period.
+
+Starting from 2022/04/04, we will issue a compensation of Realm Currency ×5,000 every week during the maintenance period.
+
+We will notify Travelers via in-game notice and community channels once the maintenance on the placement function of the Serenitea Pot is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+〓Maintenance Compensation〓
+
+A compensation of Realm Currency ×5,000 will be issued every week during the maintenance period.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 5 or above by 2022/04/04 11:00:00 (server)
+
+Compensation must be claimed before the end of Version 2.6.
+
+Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
+
+Starting from 2022/04/04, we will issue compensation to all Travelers via in-game mail every Monday at 11:00 (Server Time). The first compensation will be issued on 2022/04/04 11:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
 
 -----
 
