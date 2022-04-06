@@ -562,6 +562,24 @@ When using an iOS or Android device to play the game, after some characters cast
 
 After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
 
+〓Update Content 2022/04/06 16:00:00 (global)〓
+
+Rolls back the change to the character Yae Miko, whereby her Sesshou Sakura ability prioritizes attacks on the nearest opponent within range. After the rollback, Sesshou Sakura will randomly attack an enemy within range.
+
+This update will take effect after restarting the game.
+
+▌Compensation Details
+
+Primogems ×100
+
+▌Eligibility
+
+Travelers who reach Adventure Rank 5 or above by 2022/04/06 16:00:00 (global).
+
+Please log in and claim your compensation before 2022/04/09 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the rollback takes effect. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
 〓Update Content 2022/04/02 16:10:00 (global)〓
 
 Fixes an issue whereby some Teleport Waypoints in the area were not displayed properly on the map when the fog in Tsurumi Island had not been completely removed.
