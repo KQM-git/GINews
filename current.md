@@ -648,7 +648,7 @@ photo-taking spots in total. Two new photo-taking spots will be added each day f
 
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/31/b2f4528c91317f3b06b2d41cf41972c0_7859350146084626087.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/06/7bb7d1d8265f6b55dc5766de79a1f926_7417451605777688900.jpg)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
 
