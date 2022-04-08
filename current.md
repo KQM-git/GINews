@@ -562,6 +562,32 @@ When using an iOS or Android device to play the game, after some characters cast
 
 After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
 
+〓Update Content 2022/04/07 16:30:00 (global)〓
+
+Fixes an issue under certain circumstances whereby clicking "Go to Quest" in the "Chasmic Serpent" Events Overview Page would not locate the corresponding World Quest.
+
+Fixes an issue under certain circumstances whereby after the "Surreptitious Seven-Star Seal Sundering" World Quest is completed, the "Go to Quest" button is still displayed on the "Chasmic Serpent" Event Overview Page.
+
+Fixes an issue under certain circumstances whereby the World Quests "A Quiet Day in Liyue Harbor," "Necessary Procedures," and the Commission Quest "So-Called Work" could not be completed when the NPC "Nervous An" is occupied.
+
+Fixes an issue on iOS devices whereby The Chasm: Underground Mines region has a small probability of being overexposed.
+
+Fixes an issue whereby the animation effects were abnormally absent when unlocking the map of the Enkanomiya region.
+
+Fixes an issue in Traditional Chinese whereby a part of text is missing in the World Quest "The Heavenly Stone's Debris."
+
+Fixes an issue in Traditional Chinese whereby there are errors in parts of the text of the Quest Item "Zhiqiong's Letter."
+
+Fixes an issue in Korean whereby there is a localization error concerning the description of Kamisato Ayato's Elemental Burst in his character introduction for his Test Run event.
+
+Fixes an issue in Korean whereby there are missing pieces of text in parts of the Quest Item "Nikolay's Letter," the Book "A Legend of Sword (IV)," the stories of the Artifacts "Calabash of Awakening" and "Soulscent Bloom," and the story of the weapon "Haran Geppaku Futsu."
+
+Fixes an issue in Spanish whereby there are missing pieces of text in parts of the story of the weapon "Haran Geppaku Futsu."
+
+Fixes an issue in Vietnamese whereby there are missing pieces of text in parts of the Book "Toki Alley Tales (II)" and the story of the weapon "Thundering Pulse."
+
+Fixes an issue in Indonesian, Portuguese, Russian, and Vietnamese whereby there are errors in the text of the Archon Quest "Memories of Inteyvat."
+
 〓Update Content 2022/04/06 16:00:00 (global)〓
 
 Rolls back the change to the character Yae Miko, whereby her Sesshou Sakura ability prioritizes attacks on the nearest opponent within range. After the rollback, Sesshou Sakura will randomly attack an enemy within range.
