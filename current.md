@@ -632,6 +632,26 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
+# Genshin Impact's Second Inazuma OST Album "Islands of the Lost and Forgotten" Now Available
+## Second Inazuma OST Album Now Available
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/12/90d5859ac1203d5c62a73e8a533fc0ed_8537096757365891425.jpg)
+
+Dear Travelers,
+
+Genshin Impact's second Inazuma OST album "Islands of the Lost and Forgotten" is now available, featuring 60 remarkable tracks produced by the HOYO-MiX team, each one an original composition tailor-made for Inazuma in Genshin Impact.
+
+Travelers can go to the following platforms to listen to "Islands of the Lost and Forgotten."
+
+Apple Music:
+
+[Click here to listen to "Islands of the Lost and Forgotten"](https://music.apple.com/us/album/1618475874)
+
+Spotify:
+
+[Click here to listen to "Islands of the Lost and Forgotten"](http://open.spotify.com/album/2rdPLD1XUQ6iN1KeQ0wrzu)
+
+-----
+
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/06/7bb7d1d8265f6b55dc5766de79a1f926_7417451605777688900.jpg)
