@@ -26,73 +26,6 @@
 
 -----
 
-# "Hues of the Violet Garden" Event: Take Part to Invite "Juvenile Galant" Xingqiu (Hydro)
-## Hues of the Violet Garden
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/fbd2acdb7583796b5d0f2f95eea40504_9108113058069287511.jpg)
-
-During the event, you will receive quests to help organize the Irodori Festival. As the festival progresses, four gameplay modes will be unlocked in sequence: "The Moon and Stars Inscribe," "Theater Mechanicus," "Clash of Lone Blades," and "The Floral Courtyard." Participate and complete the corresponding criteria to obtain event-exclusive Furnishings, exclusive recipes, Primogems, Crown of Insight, Talent Level-Up Materials, and more. Complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro).
-
-**〓Event Duration〓**
-
-**Event Details** | **Event Details** | **Start Time** | **End Time**
---- | --- | --- | ---
-Gameplay Duration | True Tales of the Violet Garden: Act I | 2022/04/07 10:00:00 (server) | 2022/04/25 03:59:59 (server)
-^ | True Tales of the Violet Garden: Act II | 2022/04/09 04:00:00 (server) | ^
-^ | True Tales of the Violet Garden: Act III | 2022/04/11 04:00:00 (server) | ^
-^ | True Tales of the Violet Garden: Act IV | 2022/04/13 04:00:00 (server) | ^
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
-
-*Complete Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I - The Firmiana Leaf Falls," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I - Warriors' Dreams Like Spring Grass Renewing" first to best enjoy the event.
-
-If you have not completed Kamisato Ayato, Raiden Shogun, and Sangonomiya Kokomi's Story Quests, you can enter the event through "Quick Start."
-
-**〓The Moon and Stars Inscribe〓**
-
-● During the event, you can start The Moon and Stars Inscribe gameplay after completing the "True Tales of the Violet Garden: Act I" quest in the "Legends of the Kasen."
-
-● According to the poets Lenne and Ootomo, you can take pictures in specific regions after receiving daily themes to obtain inspiration.
-
-● After collecting a certain number of inspirational materials, you can complete the theme creation and obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
-
-**〓Theater Mechanicus: Stage of Brilliance〓**
-
-● During the event, you can start the Theater Mechanicus gameplay after completing the "True Tales of the Violet Garden: Act II" quest in the "Legends of the Kasen."
-
-● Travelers can participate in the Theater Mechanicus challenge at Komakata's location. Before entering the stage, you can configure the "Wondrous Sticks" in this stage.
-
-● According to the "Stage Features" of different stages, select Wondrous Sticks strategically and build mechanisms to defeat enemies and get the corresponding score.
-
-● When the corresponding score is met, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
-
-**〓Clash of Lone Blades〓**
-
-● During the event, you can start the Clash of Lone Blades gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
-
-● Talk to the designated martial artists to start the challenge. During the match, the Traveler will not be able to use Elemental Skills and Elemental Bursts, and will gain an all-new Parry mechanic.
-
-● Get the timing right and use Parry well to win your opponent. After reaching the corresponding conditions, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
-
-**〓The Floral Courtyard〓**
-
-● During the event, you can start The Floral Courtyard gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
-
-● Once you have obtained the floral theme from Fushizome, you can try to construct a specific "floral courtyard" according to the hints of the floral theme.
-
-● When the requirements of the floral themes are met, you can obtain event-exclusive Furnishings, Primogems, Talent Level-Up Materials, and more.
-
-**〓Event Details〓**
-
-● After completing the various "Legends of the Kasen" quest phases, you can receive the "Irodori Anecdotes" of the corresponding phases.
-
-● During the event, complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro). Can only be exchanged for once.
-
------
-
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
@@ -531,6 +464,73 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Hues of the Violet Garden" Event: Take Part to Invite "Juvenile Galant" Xingqiu (Hydro)
+## Hues of the Violet Garden
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/fbd2acdb7583796b5d0f2f95eea40504_9108113058069287511.jpg)
+
+During the event, you will receive quests to help organize the Irodori Festival. As the festival progresses, four gameplay modes will be unlocked in sequence: "The Moon and Stars Inscribe," "Theater Mechanicus," "Clash of Lone Blades," and "The Floral Courtyard." Participate and complete the corresponding criteria to obtain event-exclusive Furnishings, exclusive recipes, Primogems, Crown of Insight, Talent Level-Up Materials, and more. Complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro).
+
+**〓Event Duration〓**
+
+**Event Details** | **Event Details** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | True Tales of the Violet Garden: Act I | 2022/04/07 10:00:00 (server) | 2022/04/25 03:59:59 (server)
+^ | True Tales of the Violet Garden: Act II | 2022/04/09 04:00:00 (server) | ^
+^ | True Tales of the Violet Garden: Act III | 2022/04/11 04:00:00 (server) | ^
+^ | True Tales of the Violet Garden: Act IV | 2022/04/13 04:00:00 (server) | ^
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
+
+*Complete Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I - The Firmiana Leaf Falls," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I - Warriors' Dreams Like Spring Grass Renewing" first to best enjoy the event.
+
+If you have not completed Kamisato Ayato, Raiden Shogun, and Sangonomiya Kokomi's Story Quests, you can enter the event through "Quick Start."
+
+**〓The Moon and Stars Inscribe〓**
+
+● During the event, you can start The Moon and Stars Inscribe gameplay after completing the "True Tales of the Violet Garden: Act I" quest in the "Legends of the Kasen."
+
+● According to the poets Lenne and Ootomo, you can take pictures in specific regions after receiving daily themes to obtain inspiration.
+
+● After collecting a certain number of inspirational materials, you can complete the theme creation and obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
+
+**〓Theater Mechanicus: Stage of Brilliance〓**
+
+● During the event, you can start the Theater Mechanicus gameplay after completing the "True Tales of the Violet Garden: Act II" quest in the "Legends of the Kasen."
+
+● Travelers can participate in the Theater Mechanicus challenge at Komakata's location. Before entering the stage, you can configure the "Wondrous Sticks" in this stage.
+
+● According to the "Stage Features" of different stages, select Wondrous Sticks strategically and build mechanisms to defeat enemies and get the corresponding score.
+
+● When the corresponding score is met, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
+
+**〓Clash of Lone Blades〓**
+
+● During the event, you can start the Clash of Lone Blades gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
+
+● Talk to the designated martial artists to start the challenge. During the match, the Traveler will not be able to use Elemental Skills and Elemental Bursts, and will gain an all-new Parry mechanic.
+
+● Get the timing right and use Parry well to win your opponent. After reaching the corresponding conditions, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
+
+**〓The Floral Courtyard〓**
+
+● During the event, you can start The Floral Courtyard gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
+
+● Once you have obtained the floral theme from Fushizome, you can try to construct a specific "floral courtyard" according to the hints of the floral theme.
+
+● When the requirements of the floral themes are met, you can obtain event-exclusive Furnishings, Primogems, Talent Level-Up Materials, and more.
+
+**〓Event Details〓**
+
+● After completing the various "Legends of the Kasen" quest phases, you can receive the "Irodori Anecdotes" of the corresponding phases.
+
+● During the event, complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro). Can only be exchanged for once.
 
 -----
 
