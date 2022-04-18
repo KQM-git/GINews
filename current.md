@@ -562,34 +562,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
-## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -695,6 +667,34 @@ Fixes an issue under specific circumstances whereby the objective "Look for clue
 Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
 
 Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
