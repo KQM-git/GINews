@@ -97,34 +97,6 @@ And complete the part of the Archon Quest "Rite of Parting" in "Chapter I: Act I
 
 -----
 
-# Version 2.6 "Zephyr of the Violet Garden" New Content Overview
-## Version 2.6 New Content Overview
-
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/3012cc22983158e59d9b41f4d2a16421_7731392572533688519.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/cebf9c25dad20344cf05a523acc7ed29_7958598917997490920.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/8cdf2de896881e75a7269afc6e64b800_9099926003583993509.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/7c8faafea3cfa77d290a11740d2c35bd_1982017991583295474.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/f95323c8ff8847c1f517b7c632b6ac00_3093139664504125424.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/abffbcc49ce0bc5aecaea98f54643fb1_8504968311897815254.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/1f2c6ea1c7c673c921fe9b1d688c6165_7380336702831717131.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/ce40d7efcbcea35f78c3768c6cf1f8e9_6296163045861924855.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/9986b269f485dac43593a15ac8324eaa_2144811232635385965.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/08705869bae8a933629c48af902904ef_2178870096662369569.jpg)
-
-![img](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/3fa47655260cd42678ae5bdc6b4e5bd2_4033262453950619581.jpg)
-
------
-
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
