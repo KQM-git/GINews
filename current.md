@@ -724,7 +724,7 @@ Spotify:
 
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/13/59f8a5cbe3d548625733da532233bf6c_5841338465023585473.png)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/20/bac41644ed05d1a7c34dcaacac44d85a_1072292555713199269.png)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
 
