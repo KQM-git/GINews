@@ -1,102 +1,3 @@
-# "Hues of the Violet Garden" Event: Take Part to Invite "Juvenile Galant" Xingqiu (Hydro)
-## Hues of the Violet Garden
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/fbd2acdb7583796b5d0f2f95eea40504_9108113058069287511.jpg)
-
-During the event, you will receive quests to help organize the Irodori Festival. As the festival progresses, four gameplay modes will be unlocked in sequence: "The Moon and Stars Inscribe," "Theater Mechanicus," "Clash of Lone Blades," and "The Floral Courtyard." Participate and complete the corresponding criteria to obtain event-exclusive Furnishings, exclusive recipes, Primogems, Crown of Insight, Talent Level-Up Materials, and more. Complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro).
-
-**〓Event Duration〓**
-
-**Event Details** | **Event Details** | **Start Time** | **End Time**
---- | --- | --- | ---
-Gameplay Duration | True Tales of the Violet Garden: Act I | 2022/04/07 10:00:00 (server) | 2022/04/25 03:59:59 (server)
-^ | True Tales of the Violet Garden: Act II | 2022/04/09 04:00:00 (server) | ^
-^ | True Tales of the Violet Garden: Act III | 2022/04/11 04:00:00 (server) | ^
-^ | True Tales of the Violet Garden: Act IV | 2022/04/13 04:00:00 (server) | ^
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
-
-*Complete Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I - The Firmiana Leaf Falls," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I - Warriors' Dreams Like Spring Grass Renewing" first to best enjoy the event.
-
-If you have not completed Kamisato Ayato, Raiden Shogun, and Sangonomiya Kokomi's Story Quests, you can enter the event through "Quick Start."
-
-**〓The Moon and Stars Inscribe〓**
-
-● During the event, you can start The Moon and Stars Inscribe gameplay after completing the "True Tales of the Violet Garden: Act I" quest in the "Legends of the Kasen."
-
-● According to the poets Lenne and Ootomo, you can take pictures in specific regions after receiving daily themes to obtain inspiration.
-
-● After collecting a certain number of inspirational materials, you can complete the theme creation and obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
-
-**〓Theater Mechanicus: Stage of Brilliance〓**
-
-● During the event, you can start the Theater Mechanicus gameplay after completing the "True Tales of the Violet Garden: Act II" quest in the "Legends of the Kasen."
-
-● Travelers can participate in the Theater Mechanicus challenge at Komakata's location. Before entering the stage, you can configure the "Wondrous Sticks" in this stage.
-
-● According to the "Stage Features" of different stages, select Wondrous Sticks strategically and build mechanisms to defeat enemies and get the corresponding score.
-
-● When the corresponding score is met, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
-
-**〓Clash of Lone Blades〓**
-
-● During the event, you can start the Clash of Lone Blades gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
-
-● Talk to the designated martial artists to start the challenge. During the match, the Traveler will not be able to use Elemental Skills and Elemental Bursts, and will gain an all-new Parry mechanic.
-
-● Get the timing right and use Parry well to win your opponent. After reaching the corresponding conditions, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
-
-**〓The Floral Courtyard〓**
-
-● During the event, you can start The Floral Courtyard gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
-
-● Once you have obtained the floral theme from Fushizome, you can try to construct a specific "floral courtyard" according to the hints of the floral theme.
-
-● When the requirements of the floral themes are met, you can obtain event-exclusive Furnishings, Primogems, Talent Level-Up Materials, and more.
-
-**〓Event Details〓**
-
-● After completing the various "Legends of the Kasen" quest phases, you can receive the "Irodori Anecdotes" of the corresponding phases.
-
-● During the event, complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro). Can only be exchanged for once.
-
------
-
-# "Vibro-Crystal Research" Event: Vibro-Crystals Connection Challenge
-## Vibro-Crystal Research
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/14/f5f50c1685256d8ab13eeb24b03a92c4_8967847474970931494.jpg)
-
-During the event, help the Fontaine researcher who has come to Liyue to study the harmonic motion between gems known as Vibro-Crystals. Complete the challenge to obtain rewards such as Primogems, Hero's Wit, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-**〓Event Duration〓**
-
-2022/04/21 10:00:00 (server) – 2022/05/05 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-And complete the part of the Archon Quest "Rite of Parting" in "Chapter I: Act III - A New Star Approaches"
-
-**〓Event Details〓**
-
-● During the first 6 days of the event, one new challenge will be unlocked each day. During this challenge, you can use characters provided by the event or your own to form into two groups and complete the first and second halves of each combat trial.
-
-● Each group in each stage can configure their own Vibro-Crystal setup to obtain different combat buffs. The Vibro-Crystals are divided into two types: Transmitter Crystals and Receiver Crystals. Transmitter Crystals govern the triggers for the buff effects, while Receiver Crystals will trigger the buffs once the conditions are met. After connecting Transmitter and Receiver Crystals, when the trigger conditions of the corresponding Transmitter Crystal is reached in the challenge, the buff effect of the corresponding Receiver Crystal can be obtained. Only the character that triggered the "Transmitter Crystal" will receive the buff effects.
-
-● When multiple "Transmitter Crystals" are connected to the same "Receiver Crystal," the same effect triggered by using different conditions in the challenge will be stacked, and the effect will be slightly enhanced after stacking. Only the character that triggered the "Transmitter Crystal" will receive the stacked buff effects.
-
-● The goal of the challenge is to defeat as many opponents as possible within the time limit to score points. When the challenge ends, you will receive medals based on this score and you will also obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-● Cannot start the challenge while in Co-Op Mode.
-
-※ Elemental Resonances will not take effect in the "Vibro-Crystal Research" challenges, nor will you be able to use food or other items.
-
------
-
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
@@ -538,31 +439,102 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 
 -----
 
-# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
-## Event Wish - The Heron's Court
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+# "Hues of the Violet Garden" Event: Take Part to Invite "Juvenile Galant" Xingqiu (Hydro)
+## Hues of the Violet Garden
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/fbd2acdb7583796b5d0f2f95eea40504_9108113058069287511.jpg)
 
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+During the event, you will receive quests to help organize the Irodori Festival. As the festival progresses, four gameplay modes will be unlocked in sequence: "The Moon and Stars Inscribe," "Theater Mechanicus," "Clash of Lone Blades," and "The Floral Courtyard." Participate and complete the corresponding criteria to obtain event-exclusive Furnishings, exclusive recipes, Primogems, Crown of Insight, Talent Level-Up Materials, and more. Complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro).
 
-**〓Event Wish Details〓**
+**〓Event Duration〓**
 
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Mujina Ninja" Sayu (Anemo)
+**Event Details** | **Event Details** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | True Tales of the Violet Garden: Act I | 2022/04/07 10:00:00 (server) | 2022/04/25 03:59:59 (server)
+^ | True Tales of the Violet Garden: Act II | 2022/04/09 04:00:00 (server) | ^
+^ | True Tales of the Violet Garden: Act III | 2022/04/11 04:00:00 (server) | ^
+^ | True Tales of the Violet Garden: Act IV | 2022/04/13 04:00:00 (server) | ^
 
-● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+**〓Eligibility〓**
 
-● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+Adventure Rank 30 or above
 
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+And complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
 
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+*Complete Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I - The Firmiana Leaf Falls," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I - Warriors' Dreams Like Spring Grass Renewing" first to best enjoy the event.
 
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+If you have not completed Kamisato Ayato, Raiden Shogun, and Sangonomiya Kokomi's Story Quests, you can enter the event through "Quick Start."
 
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+**〓The Moon and Stars Inscribe〓**
+
+● During the event, you can start The Moon and Stars Inscribe gameplay after completing the "True Tales of the Violet Garden: Act I" quest in the "Legends of the Kasen."
+
+● According to the poets Lenne and Ootomo, you can take pictures in specific regions after receiving daily themes to obtain inspiration.
+
+● After collecting a certain number of inspirational materials, you can complete the theme creation and obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
+
+**〓Theater Mechanicus: Stage of Brilliance〓**
+
+● During the event, you can start the Theater Mechanicus gameplay after completing the "True Tales of the Violet Garden: Act II" quest in the "Legends of the Kasen."
+
+● Travelers can participate in the Theater Mechanicus challenge at Komakata's location. Before entering the stage, you can configure the "Wondrous Sticks" in this stage.
+
+● According to the "Stage Features" of different stages, select Wondrous Sticks strategically and build mechanisms to defeat enemies and get the corresponding score.
+
+● When the corresponding score is met, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
+
+**〓Clash of Lone Blades〓**
+
+● During the event, you can start the Clash of Lone Blades gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
+
+● Talk to the designated martial artists to start the challenge. During the match, the Traveler will not be able to use Elemental Skills and Elemental Bursts, and will gain an all-new Parry mechanic.
+
+● Get the timing right and use Parry well to win your opponent. After reaching the corresponding conditions, you can obtain Primogems, Talent Level-Up Materials, Hero's Wit, and more.
+
+**〓The Floral Courtyard〓**
+
+● During the event, you can start The Floral Courtyard gameplay after completing the "True Tales of the Violet Garden: Act III" quest in the "Legends of the Kasen."
+
+● Once you have obtained the floral theme from Fushizome, you can try to construct a specific "floral courtyard" according to the hints of the floral theme.
+
+● When the requirements of the floral themes are met, you can obtain event-exclusive Furnishings, Primogems, Talent Level-Up Materials, and more.
+
+**〓Event Details〓**
+
+● After completing the various "Legends of the Kasen" quest phases, you can receive the "Irodori Anecdotes" of the corresponding phases.
+
+● During the event, complete all the criteria in "Friendship in Writing" to invite "Juvenile Galant" Xingqiu (Hydro). Can only be exchanged for once.
+
+-----
+
+# "Vibro-Crystal Research" Event: Vibro-Crystals Connection Challenge
+## Vibro-Crystal Research
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/14/f5f50c1685256d8ab13eeb24b03a92c4_8967847474970931494.jpg)
+
+During the event, help the Fontaine researcher who has come to Liyue to study the harmonic motion between gems known as Vibro-Crystals. Complete the challenge to obtain rewards such as Primogems, Hero's Wit, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+**〓Event Duration〓**
+
+2022/04/21 10:00:00 (server) – 2022/05/05 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+And complete the part of the Archon Quest "Rite of Parting" in "Chapter I: Act III - A New Star Approaches"
+
+**〓Event Details〓**
+
+● During the first 6 days of the event, one new challenge will be unlocked each day. During this challenge, you can use characters provided by the event or your own to form into two groups and complete the first and second halves of each combat trial.
+
+● Each group in each stage can configure their own Vibro-Crystal setup to obtain different combat buffs. The Vibro-Crystals are divided into two types: Transmitter Crystals and Receiver Crystals. Transmitter Crystals govern the triggers for the buff effects, while Receiver Crystals will trigger the buffs once the conditions are met. After connecting Transmitter and Receiver Crystals, when the trigger conditions of the corresponding Transmitter Crystal is reached in the challenge, the buff effect of the corresponding Receiver Crystal can be obtained. Only the character that triggered the "Transmitter Crystal" will receive the buff effects.
+
+● When multiple "Transmitter Crystals" are connected to the same "Receiver Crystal," the same effect triggered by using different conditions in the challenge will be stacked, and the effect will be slightly enhanced after stacking. Only the character that triggered the "Transmitter Crystal" will receive the stacked buff effects.
+
+● The goal of the challenge is to defeat as many opponents as possible within the time limit to score points. When the challenge ends, you will receive medals based on this score and you will also obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+● Cannot start the challenge while in Co-Op Mode.
+
+※ Elemental Resonances will not take effect in the "Vibro-Crystal Research" challenges, nor will you be able to use food or other items.
 
 -----
 
@@ -675,6 +647,34 @@ Fixes an issue under specific circumstances whereby the objective "Look for clue
 Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
 
 Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
+
+-----
+
+# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
+## Event Wish - The Heron's Court
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
