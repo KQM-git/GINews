@@ -650,6 +650,36 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
+# Web Event "Journey With a Gentle Breeze" Now Online: Take part to obtain Primogems and accompany Klee on an adventure in Inazuma!
+## Web Event "Journey With a Gentle Breeze" Now Online: Take part to obtain Primogems and other rewards
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/14/e376d45eca65ce3c42875ebfada046ca_2048692745125163856.jpg)
+
+The limited-time web event "Journey with a Gentle Breeze" is now available. Ride the breeze and accompany Klee on an adventure in Inazuma!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220415travel-tq8y/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220422travel&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/04/22 – 2022/04/28 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, Travelers can obtain the event item Brilliant Leaf by completing missions such as logging into Genshin Impact daily, completing Daily Commissions, consuming Original Resin, etc. Klee and Albedo can take trips up to 2 times every day. Brilliant Leaves can be used to purchase accompanying items for their trips. After a period of time, Klee and Albedo will return to the yard with Inspirational Paintings. Unlock Inspiration Albums to get rewards such as Primogems.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓Event Rewards〓
+
+Unlock Inspiration Albums, claim rewards from animal guests, and share for the first time to get Primogems ×120, Hero's Wit ×10, Mystic Enhancement Ore ×8, and Mora ×54,000.
+
+-----
+
 # Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
 ## Event Wish - The Heron's Court
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
