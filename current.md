@@ -641,34 +641,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
-## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/20/bac41644ed05d1a7c34dcaacac44d85a_1072292555713199269.png)
@@ -705,6 +677,34 @@ Permanently Available
 
 -----
 
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # "Luxuriant Vibrance" Event Details
 ## Luxuriant Vibrance
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
@@ -726,46 +726,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# "Adventurer's Booster Bundles" - Round 13 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/33d0a10f090c9d5a81f4584f3aaf2620_7661585857263951628.jpg)
-
-Round 13 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one
-
-3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-**〓Adventurer's Special Supply Bundle〓**
-
-Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
-
-Bundle Contents: Hero's Wit ×12, Mora ×10,000
-
-Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
@@ -892,6 +852,46 @@ Permanently available after the Version 2.6 update
 • Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 13 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/33d0a10f090c9d5a81f4584f3aaf2620_7661585857263951628.jpg)
+
+Round 13 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one
+
+3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Special Supply Bundle〓**
+
+Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
+
+Bundle Contents: Hero's Wit ×12, Mora ×10,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
