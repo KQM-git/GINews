@@ -613,6 +613,26 @@ Unlock Inspiration Albums, claim rewards from animal guests, and share for the f
 
 -----
 
+# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
+## Ley Line Overflow
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
+
+Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
+
+**〓Event Duration〓**
+
+2022/04/28 04:00:00 (server) - 2022/05/05 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
+
+-----
+
 # Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
 ## Event Wish - The Heron's Court
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
