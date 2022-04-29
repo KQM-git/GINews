@@ -1,3 +1,17 @@
+# Notice of Delay for the Version 2.7 Update
+## Notice of Delay for the Version 2.7 Update
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/28/88c8d0255574d995a66db5f950b34311_8777862690749538863.jpg)
+
+Dear Travelers,
+
+Due to project progress, the Version 2.7 update will be postponed.
+
+For detailed information on the date of the new update, content adjustment plan, and compensation, please stay tuned for upcoming announcements. We will provide the corresponding information to Travelers as soon as possible.
+
+We sincerely apologize for the inconvenience caused. Thank you for your support and understanding along this journey.
+
+-----
+
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
