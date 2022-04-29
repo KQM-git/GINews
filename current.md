@@ -617,34 +617,6 @@ Revitalize a Blossom of Wealth or a Blossom of Revelation
 
 -----
 
-# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
-## Event Wish - The Heron's Court
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Mujina Ninja" Sayu (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/20/bac41644ed05d1a7c34dcaacac44d85a_1072292555713199269.png)
@@ -681,6 +653,34 @@ Permanently Available
 
 -----
 
+# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
+## Event Wish - The Heron's Court
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) — 2022/05/10 14:59:59 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
 ## Event Wish - Epitome Invocation
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
@@ -706,30 +706,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# "Luxuriant Vibrance" Event Details
-## Luxuriant Vibrance
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
-
-Travelers can earn rich rewards in "Luxuriant Vibrance" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Irodori" and Furnishing Blueprint "Tanuki Hugs Photo Board."
-
-**〓Event Duration〓**
-
-After the Version 2.6 update – 2022/05/09 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
@@ -856,6 +832,30 @@ Permanently available after the Version 2.6 update
 • Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Luxuriant Vibrance" Event Details
+## Luxuriant Vibrance
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
+
+Travelers can earn rich rewards in "Luxuriant Vibrance" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Irodori" and Furnishing Blueprint "Tanuki Hugs Photo Board."
+
+**〓Event Duration〓**
+
+After the Version 2.6 update – 2022/05/09 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
