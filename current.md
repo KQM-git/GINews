@@ -565,38 +565,6 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
-# "Vibro-Crystal Research" Event: Vibro-Crystals Connection Challenge
-## Vibro-Crystal Research
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/14/f5f50c1685256d8ab13eeb24b03a92c4_8967847474970931494.jpg)
-
-During the event, help the Fontaine researcher who has come to Liyue to study the harmonic motion between gems known as Vibro-Crystals. Complete the challenge to obtain rewards such as Primogems, Hero's Wit, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-**〓Event Duration〓**
-
-2022/04/21 10:00:00 (server) – 2022/05/05 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-And complete the part of the Archon Quest "Rite of Parting" in "Chapter I: Act III - A New Star Approaches"
-
-**〓Event Details〓**
-
-● During the first 6 days of the event, one new challenge will be unlocked each day. During this challenge, you can use characters provided by the event or your own to form into two groups and complete the first and second halves of each combat trial.
-
-● Each group in each stage can configure their own Vibro-Crystal setup to obtain different combat buffs. The Vibro-Crystals are divided into two types: Transmitter Crystals and Receiver Crystals. Transmitter Crystals govern the triggers for the buff effects, while Receiver Crystals will trigger the buffs once the conditions are met. After connecting Transmitter and Receiver Crystals, when the trigger conditions of the corresponding Transmitter Crystal is reached in the challenge, the buff effect of the corresponding Receiver Crystal can be obtained. Only the character that triggered the "Transmitter Crystal" will receive the buff effects.
-
-● When multiple "Transmitter Crystals" are connected to the same "Receiver Crystal," the same effect triggered by using different conditions in the challenge will be stacked, and the effect will be slightly enhanced after stacking. Only the character that triggered the "Transmitter Crystal" will receive the stacked buff effects.
-
-● The goal of the challenge is to defeat as many opponents as possible within the time limit to score points. When the challenge ends, you will receive medals based on this score and you will also obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-● Cannot start the challenge while in Co-Op Mode.
-
-※ Elemental Resonances will not take effect in the "Vibro-Crystal Research" challenges, nor will you be able to use food or other items.
-
------
-
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/20/bac41644ed05d1a7c34dcaacac44d85a_1072292555713199269.png)
@@ -630,26 +598,6 @@ Adventure Rank 12 or above
 ● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may also differ for each player according to their game progress. Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
 
 ※ Travelers can submit materials to Liben only once per day. Please mind the daily refresh time of the rewards, as any unused chances to open Boxes o' Marvels will be lost.
-
------
-
-# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
-## Ley Line Overflow
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
-
-Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
-
-**〓Event Duration〓**
-
-2022/04/28 04:00:00 (server) - 2022/05/05 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
 
 -----
 
