@@ -1,23 +1,3 @@
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # Notice of Delay for the Version 2.7 Update
 ## Notice of Delay for the Version 2.7 Update
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/28/88c8d0255574d995a66db5f950b34311_8777862690749538863.jpg)
@@ -617,6 +597,20 @@ And complete the part of the Archon Quest "Rite of Parting" in "Chapter I: Act I
 
 -----
 
+# "Zephyr of the Violet Garden" Preview Page Now Online
+## "Zephyr of the Violet Garden" Preview Page Now Online
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/20/bac41644ed05d1a7c34dcaacac44d85a_1072292555713199269.png)
+
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
+
+"Zephyr of the Violet Garden" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
+
+This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
+
+-----
+
 # "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems!
 ## Marvelous Merchandise
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/04/7b928f530c5fd8f641bbc3ef4a871fdd_3562556151946303792.jpg)
@@ -656,20 +650,6 @@ Revitalize a Blossom of Wealth or a Blossom of Revelation
 **〓Event Details〓**
 
 ● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
-
------
-
-# "Zephyr of the Violet Garden" Preview Page Now Online
-## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/20/bac41644ed05d1a7c34dcaacac44d85a_1072292555713199269.png)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
-
-"Zephyr of the Violet Garden" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
-
-This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
 
 -----
 
@@ -751,6 +731,26 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "Serenitea Pot" Placement Function Maintenance Compensation 
 ## "Serenitea Pot" Placement Function Maintenance Compensation 
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/03/4aa5b4ae37daaeea6d90bf68d58c8a4c_6084986912972468210.jpg)
@@ -778,6 +778,118 @@ Compensation must be claimed before the end of Version 2.6.
 Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
 
 Starting from 2022/04/04, we will issue compensation to all Travelers via in-game mail every Monday at 11:00 (Server Time). The first compensation will be issued on 2022/04/04 11:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
+
+Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+Permanently available after the Version 2.6 update
+
+〓Quest Unlock Criteria〓
+
+• Adventure Rank 30 or above
+
+• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Luxuriant Vibrance" Event Details
+## Luxuriant Vibrance
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
+
+Travelers can earn rich rewards in "Luxuriant Vibrance" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Irodori" and Furnishing Blueprint "Tanuki Hugs Photo Board."
+
+**〓Event Duration〓**
+
+After the Version 2.6 update – 2022/05/09 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# Genshin Impact Player Preferences Survey
+## Complete The Survey and Get a Reward
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
+
+Dear Travelers,
+
+A new journey has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, our developers have prepared a survey. Travelers who complete the survey will receive 50 Primogems~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click to fill out the survey](https://webstatic-sea.mihoyo.com/common/event/survey-user-v2/index.html?auth_appid=survey_ngd6oezjngd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=2993&format=1&sign_type=2&authkey_ver=1)
+
+Or go to the Paimon Menu > Mail > "Genshin Impact Player Preferences Survey" > Survey Link to access the survey.
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 13 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/33d0a10f090c9d5a81f4584f3aaf2620_7661585857263951628.jpg)
+
+Round 13 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one
+
+3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Special Supply Bundle〓**
+
+Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
+
+Bundle Contents: Hero's Wit ×12, Mora ×10,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
@@ -830,118 +942,6 @@ View Location:
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
 [>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pc)
-
------
-
-# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
-
-Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-Permanently available after the Version 2.6 update
-
-〓Quest Unlock Criteria〓
-
-• Adventure Rank 30 or above
-
-• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# "Luxuriant Vibrance" Event Details
-## Luxuriant Vibrance
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
-
-Travelers can earn rich rewards in "Luxuriant Vibrance" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Irodori" and Furnishing Blueprint "Tanuki Hugs Photo Board."
-
-**〓Event Duration〓**
-
-After the Version 2.6 update – 2022/05/09 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# "Adventurer's Booster Bundles" - Round 13 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/33d0a10f090c9d5a81f4584f3aaf2620_7661585857263951628.jpg)
-
-Round 13 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one
-
-3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-**〓Adventurer's Special Supply Bundle〓**
-
-Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
-
-Bundle Contents: Hero's Wit ×12, Mora ×10,000
-
-Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# Genshin Impact Player Preferences Survey
-## Complete The Survey and Get a Reward
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
-
-Dear Travelers,
-
-A new journey has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, our developers have prepared a survey. Travelers who complete the survey will receive 50 Primogems~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click to fill out the survey](https://webstatic-sea.mihoyo.com/common/event/survey-user-v2/index.html?auth_appid=survey_ngd6oezjngd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=2993&format=1&sign_type=2&authkey_ver=1)
-
-Or go to the Paimon Menu > Mail > "Genshin Impact Player Preferences Survey" > Survey Link to access the survey.
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
