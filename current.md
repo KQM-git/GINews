@@ -1,17 +1,3 @@
-# Notice of Delay for the Version 2.7 Update
-## Notice of Delay for the Version 2.7 Update
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/28/88c8d0255574d995a66db5f950b34311_8777862690749538863.jpg)
-
-Dear Travelers,
-
-Due to project progress, the Version 2.7 update will be postponed.
-
-For detailed information on the date of the new update, content adjustment plan, and compensation, please stay tuned for upcoming announcements. We will provide the corresponding information to Travelers as soon as possible.
-
-We sincerely apologize for the inconvenience caused. Thank you for your support and understanding along this journey.
-
------
-
 # "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems!
 ## Marvelous Merchandise
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/04/7b928f530c5fd8f641bbc3ef4a871fdd_3562556151946303792.jpg)
@@ -591,6 +577,20 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
+# "Zephyr of the Violet Garden" Preview Page Now Online
+## "Zephyr of the Violet Garden" Preview Page Now Online
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/e36e581c999b2eaa3b16a995b0fef824_9069895055802160742.jpg)
+
+[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
+
+"Zephyr of the Violet Garden" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
+
+This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
+
+-----
+
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
 ## Event Wish - Epitome Invocation
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
@@ -618,20 +618,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 ※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
-
------
-
-# "Zephyr of the Violet Garden" Preview Page Now Online
-## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/e36e581c999b2eaa3b16a995b0fef824_9069895055802160742.jpg)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
-
-"Zephyr of the Violet Garden" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
-
-This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
 
 -----
 
@@ -734,6 +720,20 @@ Compensation must be claimed before the end of Version 2.6.
 Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
 
 Starting from 2022/04/04, we will issue compensation to all Travelers via in-game mail every Monday at 11:00 (Server Time). The first compensation will be issued on 2022/04/04 11:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# Notice of Delay for the Version 2.7 Update
+## Notice of Delay for the Version 2.7 Update
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/28/88c8d0255574d995a66db5f950b34311_8777862690749538863.jpg)
+
+Dear Travelers,
+
+Due to project progress, the Version 2.7 update will be postponed.
+
+For detailed information on the date of the new update, content adjustment plan, and compensation, please stay tuned for upcoming announcements. We will provide the corresponding information to Travelers as soon as possible.
+
+We sincerely apologize for the inconvenience caused. Thank you for your support and understanding along this journey.
 
 -----
 
