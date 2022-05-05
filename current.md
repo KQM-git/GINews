@@ -501,6 +501,10 @@ When using an iOS or Android device to play the game, after some characters cast
 
 After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
 
+〓Update Content 2022/05/05 18:10:00 (global)〓
+
+Optimizes the text displayed for the remaining Event Wish duration on the Wish interface.
+
 〓Update Content 2022/04/21 16:10:00 (global)〓
 
 Fixes an issue under certain circumstances whereby enemies would not perform attacks and some enemies could not be defeated. Travelers affected by the issue can restart the game to continue playing normally after the fix.
