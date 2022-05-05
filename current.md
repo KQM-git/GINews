@@ -1,3 +1,31 @@
+# Delay for the Version 2.7 Update Compensation Notice
+## Delay for the Version 2.7 Update Compensation Notice
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
+
+Dear Travelers,
+
+Due to project progress, the Version 2.7 update will be postponed.
+
+From 2022/05/11 to the Version 2.7 update, we will issue compensation to Travelers every week.
+
+Regarding the detailed information on the time of the Version 2.7 update, we will make announcements as soon as it has been confirmed. Please stay tuned for further notices. We sincerely apologize for any inconvenience caused, Travelers.
+
+〓Compensation〓
+
+A compensation of Primogem x400, Fragile Resin x1, Hero's Wit x7, Mystic Enhancement Ore x16, and Mora x 120,000 will be issued every week.
+
+If the period between the 2.7 Version update and the previous weekly compensation for delayed update is less than a week, the final weekly compensation will be adjusted accordingly.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 5 or above by 2022/05/11 04:00:00 (server)
+
+Compensation must be claimed before the end of Version 2.6.
+
+Starting from 2022/05/11, we will issue compensation to all Travelers via in-game mail every Wednesday at 04:00 (Server Time). The first compensation will be issued on 2022/05/11 04:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
 # "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems!
 ## Marvelous Merchandise
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/04/7b928f530c5fd8f641bbc3ef4a871fdd_3562556151946303792.jpg)
