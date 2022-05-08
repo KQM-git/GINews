@@ -789,30 +789,6 @@ Permanently available after the Version 2.6 update
 
 -----
 
-# "Luxuriant Vibrance" Event Details
-## Luxuriant Vibrance
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/932787fe4d1a0e2eb693c09fa915d544_285098001756024087.jpg)
-
-Travelers can earn rich rewards in "Luxuriant Vibrance" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Irodori" and Furnishing Blueprint "Tanuki Hugs Photo Board."
-
-**〓Event Duration〓**
-
-After the Version 2.6 update – 2022/05/09 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/05/09 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # Genshin Impact Player Preferences Survey
 ## Complete The Survey and Get a Reward
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
