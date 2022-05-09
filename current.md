@@ -751,20 +751,6 @@ Starting from 2022/04/04, we will issue compensation to all Travelers via in-gam
 
 -----
 
-# Notice of Delay for the Version 2.7 Update
-## Notice of Delay for the Version 2.7 Update
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/28/88c8d0255574d995a66db5f950b34311_8777862690749538863.jpg)
-
-Dear Travelers,
-
-Due to project progress, the Version 2.7 update will be postponed.
-
-For detailed information on the date of the new update, content adjustment plan, and compensation, please stay tuned for upcoming announcements. We will provide the corresponding information to Travelers as soon as possible.
-
-We sincerely apologize for the inconvenience caused. Thank you for your support and understanding along this journey.
-
------
-
 # New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
 ## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
@@ -810,46 +796,6 @@ Or go to the Paimon Menu > Mail > "Genshin Impact Player Preferences Survey" > S
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# "Adventurer's Booster Bundles" - Round 13 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/33d0a10f090c9d5a81f4584f3aaf2620_7661585857263951628.jpg)
-
-Round 13 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one
-
-3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 2.6 update – 2022/04/13 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-**〓Adventurer's Special Supply Bundle〓**
-
-Duration:  2022/04/25 00:00:00 (server) – 2022/05/09 23:59:59 (server)
-
-Bundle Contents: Hero's Wit ×12, Mora ×10,000
-
-Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
