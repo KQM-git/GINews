@@ -1,17 +1,3 @@
-# Facebook Mobile Login Issue Summary
-## Notice: Known Issues
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/09/21/fe7e72baa8e4ac5e237f027a819b212e_6331541958101348206.jpg)
-
-Dear Travelers,
-
-Due to an issue with Facebook account services, some Travelers who play on mobile devices have been unable to log into the game normally. We recommend that Travelers using affected accounts log in via Facebook and link their account to other login methods (e.g. email) via the link below. After linking, you will be able to log in to the game in more ways.
-
-[https://account.hoyoverse.com](https://account.hoyoverse.com)
-
-Our developers are working hard to fix this problem as we speak. We sincerely apologize for the inconvenience caused and we thank you for your patience and understanding.
-
------
-
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
