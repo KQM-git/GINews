@@ -1,21 +1,3 @@
-# Notice: Known Issues
-## Notice: Known Issues
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/09/21/fe7e72baa8e4ac5e237f027a819b212e_6331541958101348206.jpg)
-
-Dear Travelers,
-
-Due to an issue with Facebook services, some Travelers have been unable to log into the game normally.
-
-We recommend that those of you who are logging in via these methods link these accounts to your HoYoverse Account. You will be able to log in with greater ease once you have done so.
-
-[https://account.hoyoverse.com](https://account.hoyoverse.com)
-
-Our developers are working hard to fix this problem as we speak.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
------
-
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
