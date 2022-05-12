@@ -439,28 +439,6 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 
 -----
 
-# "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems!
-## Marvelous Merchandise
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/01/04/7b928f530c5fd8f641bbc3ef4a871fdd_3562556151946303792.jpg)
-
-During the event, Travelers can look around Mondstadt for Liben the merchant. Give him the materials he requires to open Boxes o' Marvels, which contain Primogems and other rewards.After exchanging for Boxes o' Marvels five times, a Mega Box O' Marvels will be unlocked, which provides Travelers with additional rewards that include Primogems, Hero's Wit, Mystic Enhancement Ore, and Mora.
-
-**〓Event Duration〓**
-
-2022/05/06 10:00:00 (server) - 2022/05/13 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 12 or above
-
-**〓Event Details〓**
-
-● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may also differ for each player according to their game progress. Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
-
-※ Travelers can submit materials to Liben only once per day. Please mind the daily refresh time of the rewards, as any unused chances to open Boxes o' Marvels will be lost.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
