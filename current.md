@@ -487,6 +487,16 @@ When using an iOS or Android device to play the game, after some characters cast
 
 After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
 
+〓Update Content 2022/05/12 16:00:00 (global)〓
+
+The lineup of opponents in the Spiral Abyss for the second half of May 2022 (to be refreshed on May 16) will not be adjusted.
+
+Blessing of the Abyssal Moon for this period:
+
+Sheet-Ice Moon
+
+After a character's Normal Attack hits an opponent, this opponent will be afflicted with a Mark of Ending. After 10s, this Mark of Ending will be removed, dealing True DMG to this opponent. When a character's Normal Attack hits an opponent with a Mark of Ending, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
+
 〓Update Content 2022/05/05 18:10:00 (global)〓
 
 Optimizes the text displayed for the remaining Event Wish duration on the Wish interface.
