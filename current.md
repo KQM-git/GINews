@@ -597,7 +597,7 @@ Reach Adventure Rank 28 or above and complete the quest "Idle Teapot Talk" to co
 
 # "Zephyr of the Violet Garden" Preview Page Now Online
 ## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/e36e581c999b2eaa3b16a995b0fef824_9069895055802160742.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/13/87b1826283b5f7f64f1d7604802b80a3_8154981535094643760.png)
 
 [Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
 
