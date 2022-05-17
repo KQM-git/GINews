@@ -833,7 +833,7 @@ You can check your game data at the click of a button, ranging from leveling, to
 
 View Location:
 
-[HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+[HoYoLAB > Tools > Genshin Impact > Battle Chronicle](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
 2. Daily Check-In
 
@@ -841,7 +841,7 @@ Use Daily Check-In to obtain in-game rewards. You will receive 100 Primogems and
 
 View Location:
 
-[HoYoLAB > Tools > Genshin Impact > Check-in](https://webstatic-sea.mihoyo.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+[HoYoLAB > Tools > Genshin Impact > Check-in](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
 3. Teyvat Interactive Map
 
@@ -857,7 +857,7 @@ You can check the amount of Primogems and Mora that you have obtained monthly si
 
 View Location:
 
-[HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://webstatic-sea.mihoyo.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+[HoYoLAB > Tools > Genshin Impact > Traveler's Diary](https://act.hoyolab.com/ys/event/e20210923journal/index.html?mhy_presentation_style=fullscreen&mhy_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
 5. Enhancement Progression Calculator
 
@@ -865,7 +865,7 @@ You can use the Enhancement Progression Calculator to calculate the resources re
 
 View Location:
 
-[HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://webstatic-sea.mihoyo.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pc)
+[HoYoLAB > Tools > Genshin Impact > Enhancement Progression Calculator](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
