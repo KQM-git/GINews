@@ -613,36 +613,6 @@ This preview page will be continuously updated with version content during Versi
 
 -----
 
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
-## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) until the end of Version 2.6 | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
-※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
-
------
-
 # Delay for the Version 2.7 Update Compensation Notice
 ## Delay for the Version 2.7 Update Compensation Notice
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
@@ -671,29 +641,29 @@ Starting from 2022/05/11, we will issue compensation to all Travelers via in-gam
 
 -----
 
-# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
-## Event Wish - The Heron's Court
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
 
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
 **〓Event Wish Details〓**
 
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
 --- | --- | ---
-2022/04/19 18:00:00 (server) until the end of Version 2.6 | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Mujina Ninja" Sayu (Anemo)
+2022/04/19 18:00:00 (server) until the end of Version 2.6 | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
 
-● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
 
-● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
 
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
 
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
@@ -794,6 +764,36 @@ Permanently available after the Version 2.6 update
 • Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
+## Event Wish - The Heron's Court
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) until the end of Version 2.6 | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
 
 -----
 
