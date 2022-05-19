@@ -1,3 +1,21 @@
+# Version 2.7 Update Notice
+## Version 2.7 Update Notice
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/19/8976863d4190c7d36eeb002d96e2e222_436082052037735933.jpg)
+
+Dear Travelers,
+
+Version 2.7 update maintenance is expected to start at 2022/05/31 06:00:00 (global) and is expected to be completed within 5 hours. Meanwhile, the duration of Version 2.7 is expected to be 6 weeks, and Version 2.8 is expected to be updated on 2022/07/13.
+
+We sincerely apologize for the inconvenience caused by this delay.
+
+The current Character Event Wish, Weapon Event Wish and "Test Run" event will end on 2022/05/31 05:59:59 (global). The countdown time display on the Wish screen and Events Overview page will also be adjusted. There are no changes to the end times of other in-game events.
+
+Maintenance for the Placement Function in the Serenitea Pot will also end after the Version 2.7 update maintenance is complete. Travelers can then resume using this Placement Function.
+
+Once again, we apologize for the delay in this update. Thank you for your continued support and understanding.
+
+-----
+
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
