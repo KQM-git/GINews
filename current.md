@@ -631,6 +631,26 @@ This preview page will be continuously updated with version content during Versi
 
 -----
 
+# "Overflowing Mastery" Event: Double drops with Talent Level-Up Materials
+## Overflowing Mastery
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/c9b02763a29fe8f44b1b15bba97dbe64_7503174959027407158.jpg)
+
+During the event, Travelers who successfully challenge Talent Level-Up Material Domains and who consume Original Resin to obtain rewards will receive double the output.
+
+**〓Event Duration〓**
+
+2022/05/22 04:00:00 (server) - 2022/05/29 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, Travelers who successfully challenge the Talent Level-Up Material Domains "Forsaken Rift," "Taishan Mansion," and "Violet Court" and consume Original Resin to obtain rewards will receive double the output. A total of three opportunities to gain double drops will be available each day!
+
+-----
+
 # Delay for the Version 2.7 Update Compensation Notice
 ## Delay for the Version 2.7 Update Compensation Notice
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
