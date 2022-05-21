@@ -16,20 +16,6 @@ Once again, we apologize for the delay in this update. Thank you for your contin
 
 -----
 
-# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-## Genshin Impact Version 2.7 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
-
-Dear Traveler,
-
-The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-
-[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Zephyr of the Violet Garden" Version 2.6 Update Details
 ## Version 2.6 Update Details
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/30/af96813ef90362329c6c950a78bd2524_1778972037337326650.jpg)
@@ -628,6 +614,20 @@ Fixes an issue under specific circumstances whereby the objective "Look for clue
 Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
 
 Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
+
+-----
+
+# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
+## Genshin Impact Version 2.7 Preview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
+
+Dear Traveler,
+
+The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
+
+[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
