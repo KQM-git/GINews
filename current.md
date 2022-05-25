@@ -1,21 +1,3 @@
-# Version 2.7 Update Notice
-## Version 2.7 Update Notice
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/19/8976863d4190c7d36eeb002d96e2e222_436082052037735933.jpg)
-
-Dear Travelers,
-
-Version 2.7 update maintenance is expected to start at 2022/05/31 06:00:00 (global) and is expected to be completed within 5 hours. Meanwhile, the duration of Version 2.7 is expected to be 6 weeks, and Version 2.8 is expected to be updated on 2022/07/13.
-
-We sincerely apologize for the inconvenience caused by this delay.
-
-The current Character Event Wish, Weapon Event Wish and "Test Run" event will end on 2022/05/31 05:59:59 (global). The countdown time display on the Wish screen and Events Overview page will also be adjusted. There are no changes to the end times of other in-game events.
-
-Maintenance for the Placement Function in the Serenitea Pot will also end after the Version 2.7 update maintenance is complete. Travelers can then resume using this Placement Function.
-
-Once again, we apologize for the delay in this update. Thank you for your continued support and understanding.
-
------
-
 # Pre-Installation Function Coming Soon
 ## Pre-Installation Function Coming Soon
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
@@ -65,6 +47,440 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://uploadstatic-sea.mihoyo.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_2466523061981554192.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue in the current version whereby the Electro-Charged reaction mechanism is abnormal. This is a new issue that surfaced after the Version 2.4 update.
+
+The development team has detected the cause of this issue and it will be fixed in the Version 2.7 update.
+
+After the issue is fixed, the Electro-Charged reaction mechanism is expected to function as it did before the Version 2.4 update.
+
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
+
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
+
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
+
+〓Update Content 2022/05/14 20:55:00 (global)〓
+
+Fixes an issue that occurs when using a controller, whereby in the event "Spices From the West," when offering a dish to a character whose Friendship level is already at the maximum, or when the number of opportunities to obtain Companionship EXP by offering dishes has already been used up, the Cancel button on the confirmation screen that appears when offering the dish does not work.
+
+〓Update Content 2022/05/12 16:00:00 (global)〓
+
+The lineup of opponents in the Spiral Abyss for the second half of May 2022 (to be refreshed on May 16) will not be adjusted.
+
+Blessing of the Abyssal Moon for this period:
+
+Sheet-Ice Moon
+
+After a character's Normal Attack hits an opponent, this opponent will be afflicted with a Mark of Ending. After 10s, this Mark of Ending will be removed, dealing True DMG to this opponent. When a character's Normal Attack hits an opponent with a Mark of Ending, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
+
+〓Update Content 2022/05/05 18:10:00 (global)〓
+
+Optimizes the text displayed for the remaining Event Wish duration on the Wish interface.
+
+〓Update Content 2022/04/21 16:10:00 (global)〓
+
+Fixes an issue under certain circumstances whereby enemies would not perform attacks and some enemies could not be defeated. Travelers affected by the issue can restart the game to continue playing normally after the fix.
+
+〓Update Content 2022/04/14 16:30:00 (global)〓
+
+Updated resources related to subsequent events.
+
+Fixes an issue when playing the game on some iOS devices whereby after a character triggers the Spiral Abyss' "Blessing of the Abyssal Moon: Sheet-Ice Moon" effect, there is a probability that the game screen would display abnormally.
+
+Optimizes the instructions related to the objective "Go to the designated location to investigate" in the Archon Quest "In the Depths, an Unexpected Reunion."
+
+Fixes an issue whereby there are some environments in World Quests where the models would collide abnormally. For example, the models of some NPCs, opponents, and objects would sink into the ground, and some attacks from the "Kamuijima Cannon" would fail, etc.
+
+〓Update Content 2022/04/11 15:40:00 (global)〓
+
+Fixes an issue whereby the event item could not be obtained after completing the World Quest "The Floral Courtyard: Part I" in Co-Op Mode.
+
+We will address accounts affected by the above quest issue and implement a fix within 24 hours.
+
+〓Update Content 2022/04/08 16:30:00 (global)〓
+
+Fixes an issue under certain circumstances whereby clicking "Go to Quest" in the "Chasmic Serpent" Events Overview Page would not locate the corresponding World Quest.
+
+Fixes an issue under certain circumstances whereby after the "Surreptitious Seven-Star Seal Sundering" World Quest is completed, the "Go to Quest" button is still displayed on the "Chasmic Serpent" Event Overview Page.
+
+Fixes an issue under certain circumstances whereby the World Quests "A Quiet Day in Liyue Harbor," "Necessary Procedures," and the Commission Quest "So-Called Work" could not be completed when the NPC "Nervous An" is occupied.
+
+Fixes an issue on iOS devices whereby The Chasm: Underground Mines region has a small probability of being overexposed.
+
+Fixes an issue whereby the animation effects were abnormally absent when unlocking the map of the Enkanomiya region.
+
+Fixes an issue in Traditional Chinese whereby a part of text is missing in the World Quest "The Heavenly Stone's Debris."
+
+Fixes an issue in Traditional Chinese whereby there are errors in parts of the text of the Quest Item "Zhiqiong's Letter."
+
+Fixes an issue in Korean whereby there is a localization error concerning the description of Kamisato Ayato's Elemental Burst in his character introduction for his Test Run event.
+
+Fixes an issue in Korean whereby there are missing pieces of text in parts of the Quest Item "Nikolay's Letter," the Book "A Legend of Sword (IV)," the stories of the Artifacts "Calabash of Awakening" and "Soulscent Bloom," and the story of the weapon "Haran Geppaku Futsu."
+
+Fixes an issue in Spanish whereby there are missing pieces of text in parts of the story of the weapon "Haran Geppaku Futsu."
+
+Fixes an issue in Vietnamese whereby there are missing pieces of text in parts of the Book "Toki Alley Tales (II)" and the story of the weapon "Thundering Pulse."
+
+Fixes an issue in Indonesian, Portuguese, Russian, and Vietnamese whereby there are errors in the text of the Archon Quest "Memories of Inteyvat."
+
+〓Update Content 2022/04/06 16:00:00 (global)〓
+
+Rolls back the change to the character Yae Miko, whereby her Sesshou Sakura ability prioritizes attacks on the nearest opponent within range. After the rollback, Sesshou Sakura will randomly attack an enemy within range.
+
+This update will take effect after restarting the game.
+
+▌Compensation Details
+
+Primogems ×100
+
+▌Eligibility
+
+Travelers who reach Adventure Rank 5 or above by 2022/04/06 16:00:00 (global).
+
+Please log in and claim your compensation before 2022/04/09 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the rollback takes effect. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Content 2022/04/02 16:10:00 (global)〓
+
+Fixes an issue whereby some Teleport Waypoints in the area were not displayed properly on the map when the fog in Tsurumi Island had not been completely removed.
+
+〓Update Content 2022/04/02 14:00:00 (global)〓
+
+Starting on 2022/04/02, we will update the game resources on PC via the launcher through grayscale release in 7 days.
+
+Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
+
+〓Update Content 2022/04/01 16:10:00 (global)〓
+
+Fixes an issue under specific circumstances whereby the objective "Look for clues near the dark fog" in the World Quest "Perils in the Dark" cannot be completed.Travelers who encountered this issue can head to the quest trigger location and exit the game via the Paimon Menu, and then log back into the game so you can continue to progress in the quest.
+
+〓Update Content 2022/03/31 12:00:00 (global)〓
+
+Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
+
+Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
+
+-----
+
+# "Hidden Dreams in the Depths" Preview Page Now Online
+## Version 2.7 New Character: "Valley Orchid" Yelan
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/11/28a91850a21d27a00d10d6ee89cb426d_6198932730262380044.jpg)
+
+[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
+
+The "Hidden Dreams in the Depths" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
+
+This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
+
+-----
+
+# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
+## Genshin Impact Version 2.7 Preview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
+
+Dear Traveler,
+
+The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
+
+[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
+# "Spices From the West" Event: Creation of Special Seasonings
+## Spices From the West
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/11/2490794c7fe998bf1da80df4fd234118_8122479077999153195.jpg)
+
+During the event, help Nazafarin conduct her research by making seasonings according to the recipes provided to obtain rewards such as Primogems, Hero's Wit, Weapon Ascension Materials, and Mora.
+
+**〓Event Duration〓**
+
+2022/05/14 10:00:00 (server) - 2022/06/07 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Reach Adventure Rank 20 or above to create seasonings
+
+Reach Adventure Rank 28 or above and complete the quest "Idle Teapot Talk" to cook the corresponding dishes and invite characters to taste-test
+
+**〓Event Details〓**
+
+● A new seasoning recipe will unlock on each of the first 7 days of the event. Follow the recipes to create "Fragrant Seasonings" and obtain corresponding rewards.
+
+● Add the Fragrant Seasonings to Delicious dishes to obtain Fragrant dishes. You can invite characters to taste-test the Fragrant Dishes in your Serenitea Pot to increase their Companionship EXP and also hear their responses, which will vary based on the character's personal preferences. There is a limit on the number of times you can get Companionship EXP during the event.
+
+● Reach Adventure Rank 28 and complete the "A Teapot to Call Home" quest to unlock the Serenitea Pot. You can accept the "Idle Teapot Talk" quest from Tubby in the Serenitea Pot. After completing the quest and obtaining "Realm Dispatch," you can cook the food and invite characters to sample it.
+
+● If the maintenance of Serenitea Pot Placement Function has ended during the event, Travelers can invite companions who are resting to stay in Serenitea Pot and invite characters to try out food.
+
+※ After 2022/06/07 03:59:59 (server), "Fragrant Seasonings" and "Fragrant Dishes" will be removed from your Inventory.
+
+-----
+
+# Delay for the Version 2.7 Update Compensation Notice
+## Delay for the Version 2.7 Update Compensation Notice
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
+
+Dear Travelers,
+
+Due to project progress, the Version 2.7 update will be postponed.
+
+From 2022/05/11 to the Version 2.7 update, we will issue compensation to Travelers every week.
+
+Regarding the detailed information on the time of the Version 2.7 update, we will make announcements as soon as it has been confirmed. Please stay tuned for further notices. We sincerely apologize for any inconvenience caused, Travelers.
+
+〓Compensation〓
+
+A compensation of Primogem x400, Fragile Resin x1, Hero's Wit x7, Mystic Enhancement Ore x16, and Mora x 120,000 will be issued every week.
+
+If the period between the 2.7 Version update and the previous weekly compensation for delayed update is less than a week, the final weekly compensation will be adjusted accordingly.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 5 or above by 2022/05/11 04:00:00 (server)
+
+Compensation must be claimed before the end of Version 2.6.
+
+Starting from 2022/05/11, we will issue compensation to all Travelers via in-game mail every Wednesday at 04:00 (Server Time). The first compensation will be issued on 2022/05/11 04:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# Version 2.7 Update Notice
+## Version 2.7 Update Notice
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/19/8976863d4190c7d36eeb002d96e2e222_436082052037735933.jpg)
+
+Dear Travelers,
+
+Version 2.7 update maintenance is expected to start at 2022/05/31 06:00:00 (global) and is expected to be completed within 5 hours. Meanwhile, the duration of Version 2.7 is expected to be 6 weeks, and Version 2.8 is expected to be updated on 2022/07/13.
+
+We sincerely apologize for the inconvenience caused by this delay.
+
+The current Character Event Wish, Weapon Event Wish and "Test Run" event will end on 2022/05/31 05:59:59 (global). The countdown time display on the Wish screen and Events Overview page will also be adjusted. There are no changes to the end times of other in-game events.
+
+Maintenance for the Placement Function in the Serenitea Pot will also end after the Version 2.7 update maintenance is complete. Travelers can then resume using this Placement Function.
+
+Once again, we apologize for the delay in this update. Thank you for your continued support and understanding.
+
+-----
+
+# Details of the Feedback on Special Categories Function
+## Feedback on Special Categories
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+
+Dear Travelers,
+
+To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+
+At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+
+〓Enter Feedback〓
+
+[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+
+Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+
+〓Duration〓
+
+Permanently Available
+
+-----
+
+# "Overflowing Mastery" Event: Double drops with Talent Level-Up Materials
+## Overflowing Mastery
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/c9b02763a29fe8f44b1b15bba97dbe64_7503174959027407158.jpg)
+
+During the event, Travelers who successfully challenge Talent Level-Up Material Domains and who consume Original Resin to obtain rewards will receive double the output.
+
+**〓Event Duration〓**
+
+2022/05/22 04:00:00 (server) - 2022/05/29 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, Travelers who successfully challenge the Talent Level-Up Material Domains "Forsaken Rift," "Taishan Mansion," and "Violet Court" and consume Original Resin to obtain rewards will receive double the output. A total of three opportunities to gain double drops will be available each day!
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) until the end of Version 2.6 | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
+# "Serenitea Pot" Placement Function Maintenance Compensation 
+## "Serenitea Pot" Placement Function Maintenance Compensation 
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/03/4aa5b4ae37daaeea6d90bf68d58c8a4c_6084986912972468210.jpg)
+
+Dear Travelers,
+
+The placement function of the Serenitea Pot is still under maintenance. The placement function will not be available during the maintenance period.
+
+Starting from 2022/04/04, we will issue a compensation of Realm Currency ×5,000 every week during the maintenance period.
+
+We will notify Travelers via in-game notice and community channels once the maintenance on the placement function of the Serenitea Pot is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+〓Maintenance Compensation〓
+
+A compensation of Realm Currency ×5,000 will be issued every week during the maintenance period.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 5 or above by 2022/04/04 11:00:00 (server)
+
+Compensation must be claimed before the end of Version 2.6.
+
+Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
+
+Starting from 2022/04/04, we will issue compensation to all Travelers via in-game mail every Monday at 11:00 (Server Time). The first compensation will be issued on 2022/04/04 11:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
+
+Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+Permanently available after the Version 2.6 update
+
+〓Quest Unlock Criteria〓
+
+• Adventure Rank 30 or above
+
+• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
+## Event Wish - The Heron's Court
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/04/19 18:00:00 (server) until the end of Version 2.6 | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
+
+-----
+
+# Genshin Impact Player Preferences Survey
+## Complete The Survey and Get a Reward
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
+
+Dear Travelers,
+
+A new journey has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, our developers have prepared a survey. Travelers who complete the survey will receive 50 Primogems~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click to fill out the survey](https://webstatic-sea.mihoyo.com/common/event/survey-user-v2/index.html?auth_appid=survey_ngd6oezjngd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=2993&format=1&sign_type=2&authkey_ver=1)
+
+Or go to the Paimon Menu > Mail > "Genshin Impact Player Preferences Survey" > Survey Link to access the survey.
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
@@ -506,422 +922,6 @@ Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indone
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue in the current version whereby the Electro-Charged reaction mechanism is abnormal. This is a new issue that surfaced after the Version 2.4 update.
-
-The development team has detected the cause of this issue and it will be fixed in the Version 2.7 update.
-
-After the issue is fixed, the Electro-Charged reaction mechanism is expected to function as it did before the Version 2.4 update.
-
-Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
-
-The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
-
-*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
-
-When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
-
-〓Update Content 2022/05/14 20:55:00 (global)〓
-
-Fixes an issue that occurs when using a controller, whereby in the event "Spices From the West," when offering a dish to a character whose Friendship level is already at the maximum, or when the number of opportunities to obtain Companionship EXP by offering dishes has already been used up, the Cancel button on the confirmation screen that appears when offering the dish does not work.
-
-〓Update Content 2022/05/12 16:00:00 (global)〓
-
-The lineup of opponents in the Spiral Abyss for the second half of May 2022 (to be refreshed on May 16) will not be adjusted.
-
-Blessing of the Abyssal Moon for this period:
-
-Sheet-Ice Moon
-
-After a character's Normal Attack hits an opponent, this opponent will be afflicted with a Mark of Ending. After 10s, this Mark of Ending will be removed, dealing True DMG to this opponent. When a character's Normal Attack hits an opponent with a Mark of Ending, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
-
-〓Update Content 2022/05/05 18:10:00 (global)〓
-
-Optimizes the text displayed for the remaining Event Wish duration on the Wish interface.
-
-〓Update Content 2022/04/21 16:10:00 (global)〓
-
-Fixes an issue under certain circumstances whereby enemies would not perform attacks and some enemies could not be defeated. Travelers affected by the issue can restart the game to continue playing normally after the fix.
-
-〓Update Content 2022/04/14 16:30:00 (global)〓
-
-Updated resources related to subsequent events.
-
-Fixes an issue when playing the game on some iOS devices whereby after a character triggers the Spiral Abyss' "Blessing of the Abyssal Moon: Sheet-Ice Moon" effect, there is a probability that the game screen would display abnormally.
-
-Optimizes the instructions related to the objective "Go to the designated location to investigate" in the Archon Quest "In the Depths, an Unexpected Reunion."
-
-Fixes an issue whereby there are some environments in World Quests where the models would collide abnormally. For example, the models of some NPCs, opponents, and objects would sink into the ground, and some attacks from the "Kamuijima Cannon" would fail, etc.
-
-〓Update Content 2022/04/11 15:40:00 (global)〓
-
-Fixes an issue whereby the event item could not be obtained after completing the World Quest "The Floral Courtyard: Part I" in Co-Op Mode.
-
-We will address accounts affected by the above quest issue and implement a fix within 24 hours.
-
-〓Update Content 2022/04/08 16:30:00 (global)〓
-
-Fixes an issue under certain circumstances whereby clicking "Go to Quest" in the "Chasmic Serpent" Events Overview Page would not locate the corresponding World Quest.
-
-Fixes an issue under certain circumstances whereby after the "Surreptitious Seven-Star Seal Sundering" World Quest is completed, the "Go to Quest" button is still displayed on the "Chasmic Serpent" Event Overview Page.
-
-Fixes an issue under certain circumstances whereby the World Quests "A Quiet Day in Liyue Harbor," "Necessary Procedures," and the Commission Quest "So-Called Work" could not be completed when the NPC "Nervous An" is occupied.
-
-Fixes an issue on iOS devices whereby The Chasm: Underground Mines region has a small probability of being overexposed.
-
-Fixes an issue whereby the animation effects were abnormally absent when unlocking the map of the Enkanomiya region.
-
-Fixes an issue in Traditional Chinese whereby a part of text is missing in the World Quest "The Heavenly Stone's Debris."
-
-Fixes an issue in Traditional Chinese whereby there are errors in parts of the text of the Quest Item "Zhiqiong's Letter."
-
-Fixes an issue in Korean whereby there is a localization error concerning the description of Kamisato Ayato's Elemental Burst in his character introduction for his Test Run event.
-
-Fixes an issue in Korean whereby there are missing pieces of text in parts of the Quest Item "Nikolay's Letter," the Book "A Legend of Sword (IV)," the stories of the Artifacts "Calabash of Awakening" and "Soulscent Bloom," and the story of the weapon "Haran Geppaku Futsu."
-
-Fixes an issue in Spanish whereby there are missing pieces of text in parts of the story of the weapon "Haran Geppaku Futsu."
-
-Fixes an issue in Vietnamese whereby there are missing pieces of text in parts of the Book "Toki Alley Tales (II)" and the story of the weapon "Thundering Pulse."
-
-Fixes an issue in Indonesian, Portuguese, Russian, and Vietnamese whereby there are errors in the text of the Archon Quest "Memories of Inteyvat."
-
-〓Update Content 2022/04/06 16:00:00 (global)〓
-
-Rolls back the change to the character Yae Miko, whereby her Sesshou Sakura ability prioritizes attacks on the nearest opponent within range. After the rollback, Sesshou Sakura will randomly attack an enemy within range.
-
-This update will take effect after restarting the game.
-
-▌Compensation Details
-
-Primogems ×100
-
-▌Eligibility
-
-Travelers who reach Adventure Rank 5 or above by 2022/04/06 16:00:00 (global).
-
-Please log in and claim your compensation before 2022/04/09 16:00:00 (global).
-
-Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the rollback takes effect. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-〓Update Content 2022/04/02 16:10:00 (global)〓
-
-Fixes an issue whereby some Teleport Waypoints in the area were not displayed properly on the map when the fog in Tsurumi Island had not been completely removed.
-
-〓Update Content 2022/04/02 14:00:00 (global)〓
-
-Starting on 2022/04/02, we will update the game resources on PC via the launcher through grayscale release in 7 days.
-
-Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
-
-〓Update Content 2022/04/01 16:10:00 (global)〓
-
-Fixes an issue under specific circumstances whereby the objective "Look for clues near the dark fog" in the World Quest "Perils in the Dark" cannot be completed.Travelers who encountered this issue can head to the quest trigger location and exit the game via the Paimon Menu, and then log back into the game so you can continue to progress in the quest.
-
-〓Update Content 2022/03/31 12:00:00 (global)〓
-
-Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
-
-Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
-
------
-
-# "Hidden Dreams in the Depths" Preview Page Now Online
-## Version 2.7 New Character: "Valley Orchid" Yelan
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/11/28a91850a21d27a00d10d6ee89cb426d_6198932730262380044.jpg)
-
-[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
-
-The "Hidden Dreams in the Depths" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
-
-This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
-
------
-
-# "Spices From the West" Event: Creation of Special Seasonings
-## Spices From the West
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/11/2490794c7fe998bf1da80df4fd234118_8122479077999153195.jpg)
-
-During the event, help Nazafarin conduct her research by making seasonings according to the recipes provided to obtain rewards such as Primogems, Hero's Wit, Weapon Ascension Materials, and Mora.
-
-**〓Event Duration〓**
-
-2022/05/14 10:00:00 (server) - 2022/06/07 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Reach Adventure Rank 20 or above to create seasonings
-
-Reach Adventure Rank 28 or above and complete the quest "Idle Teapot Talk" to cook the corresponding dishes and invite characters to taste-test
-
-**〓Event Details〓**
-
-● A new seasoning recipe will unlock on each of the first 7 days of the event. Follow the recipes to create "Fragrant Seasonings" and obtain corresponding rewards.
-
-● Add the Fragrant Seasonings to Delicious dishes to obtain Fragrant dishes. You can invite characters to taste-test the Fragrant Dishes in your Serenitea Pot to increase their Companionship EXP and also hear their responses, which will vary based on the character's personal preferences. There is a limit on the number of times you can get Companionship EXP during the event.
-
-● Reach Adventure Rank 28 and complete the "A Teapot to Call Home" quest to unlock the Serenitea Pot. You can accept the "Idle Teapot Talk" quest from Tubby in the Serenitea Pot. After completing the quest and obtaining "Realm Dispatch," you can cook the food and invite characters to sample it.
-
-● If the maintenance of Serenitea Pot Placement Function has ended during the event, Travelers can invite companions who are resting to stay in Serenitea Pot and invite characters to try out food.
-
-※ After 2022/06/07 03:59:59 (server), "Fragrant Seasonings" and "Fragrant Dishes" will be removed from your Inventory.
-
------
-
-# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-## Genshin Impact Version 2.7 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
-
-Dear Traveler,
-
-The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-
-[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
-# "Overflowing Mastery" Event: Double drops with Talent Level-Up Materials
-## Overflowing Mastery
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/18/c9b02763a29fe8f44b1b15bba97dbe64_7503174959027407158.jpg)
-
-During the event, Travelers who successfully challenge Talent Level-Up Material Domains and who consume Original Resin to obtain rewards will receive double the output.
-
-**〓Event Duration〓**
-
-2022/05/22 04:00:00 (server) - 2022/05/29 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, Travelers who successfully challenge the Talent Level-Up Material Domains "Forsaken Rift," "Taishan Mansion," and "Violet Court" and consume Original Resin to obtain rewards will receive double the output. A total of three opportunities to gain double drops will be available each day!
-
------
-
-# Delay for the Version 2.7 Update Compensation Notice
-## Delay for the Version 2.7 Update Compensation Notice
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
-
-Dear Travelers,
-
-Due to project progress, the Version 2.7 update will be postponed.
-
-From 2022/05/11 to the Version 2.7 update, we will issue compensation to Travelers every week.
-
-Regarding the detailed information on the time of the Version 2.7 update, we will make announcements as soon as it has been confirmed. Please stay tuned for further notices. We sincerely apologize for any inconvenience caused, Travelers.
-
-〓Compensation〓
-
-A compensation of Primogem x400, Fragile Resin x1, Hero's Wit x7, Mystic Enhancement Ore x16, and Mora x 120,000 will be issued every week.
-
-If the period between the 2.7 Version update and the previous weekly compensation for delayed update is less than a week, the final weekly compensation will be adjusted accordingly.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 5 or above by 2022/05/11 04:00:00 (server)
-
-Compensation must be claimed before the end of Version 2.6.
-
-Starting from 2022/05/11, we will issue compensation to all Travelers via in-game mail every Wednesday at 04:00 (Server Time). The first compensation will be issued on 2022/05/11 04:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
-## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) until the end of Version 2.6 | Mistsplitter Reforged (Sword)   The Unforged (Claymore) | Favonius Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Mistsplitter Reforged (Sword) and The Unforged (Claymore) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Mistsplitter Reforged (Sword) or The Unforged (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
-※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
-
------
-
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
-
-Dear Travelers,
-
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
-
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
-
-〓Enter Feedback〓
-
-[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
-
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
-
-〓Duration〓
-
-Permanently Available
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# "Serenitea Pot" Placement Function Maintenance Compensation 
-## "Serenitea Pot" Placement Function Maintenance Compensation 
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/03/4aa5b4ae37daaeea6d90bf68d58c8a4c_6084986912972468210.jpg)
-
-Dear Travelers,
-
-The placement function of the Serenitea Pot is still under maintenance. The placement function will not be available during the maintenance period.
-
-Starting from 2022/04/04, we will issue a compensation of Realm Currency ×5,000 every week during the maintenance period.
-
-We will notify Travelers via in-game notice and community channels once the maintenance on the placement function of the Serenitea Pot is complete. Please stay tuned to our official channels for the latest announcements regarding this issue.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
-〓Maintenance Compensation〓
-
-A compensation of Realm Currency ×5,000 will be issued every week during the maintenance period.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 5 or above by 2022/04/04 11:00:00 (server)
-
-Compensation must be claimed before the end of Version 2.6.
-
-Travelers who have not unlocked the Serenitea Pot can also receive the Realm Currency as compensation. Realm Currency will be shown after unlocking the Serenitea Pot.
-
-Starting from 2022/04/04, we will issue compensation to all Travelers via in-game mail every Monday at 11:00 (Server Time). The first compensation will be issued on 2022/04/04 11:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
------
-
-# New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-## New Story Unlocked - Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/28/7472fa53121dbf7e26ee960c58e9ac33_3073619257088285189.jpg)
-
-Divine calamity descended upon the ancient realm, and within the deep darkness, a sorrowful reunion awaits. We can no longer discern the roaring words of the guardians, —until the requiem resounds in the Abyss.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-Permanently available after the Version 2.6 update
-
-〓Quest Unlock Criteria〓
-
-• Adventure Rank 30 or above
-
-• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
-## Event Wish - The Heron's Court
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/04/19 18:00:00 (server) until the end of Version 2.6 | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Wolf Boy" Razor (Electro)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Mujina Ninja" Sayu (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Wolf Boy" Razor (Electro), "Thorny Benevolence" Rosaria (Cryo), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
-※The countdown that appears on the interface of event wishes and the Test Run event is not the definitive end date. Please refer to future announcements for the version update time.
-
------
-
-# Genshin Impact Player Preferences Survey
-## Complete The Survey and Get a Reward
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
-
-Dear Travelers,
-
-A new journey has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, our developers have prepared a survey. Travelers who complete the survey will receive 50 Primogems~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click to fill out the survey](https://webstatic-sea.mihoyo.com/common/event/survey-user-v2/index.html?auth_appid=survey_ngd6oezjngd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=2993&format=1&sign_type=2&authkey_ver=1)
-
-Or go to the Paimon Menu > Mail > "Genshin Impact Player Preferences Survey" > Survey Link to access the survey.
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
