@@ -639,6 +639,20 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 -----
 
+# "Hidden Dreams in the Depths" Preview Page Now Online
+## Version 2.7 New Character: "Valley Orchid" Yelan
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/11/28a91850a21d27a00d10d6ee89cb426d_6198932730262380044.jpg)
+
+[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
+
+The "Hidden Dreams in the Depths" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
+
+This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
+
+-----
+
 # "Spices From the West" Event: Creation of Special Seasonings
 ## Spices From the West
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/11/2490794c7fe998bf1da80df4fd234118_8122479077999153195.jpg)
@@ -680,20 +694,6 @@ The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
 [>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
 ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
-# "Zephyr of the Violet Garden" Preview Page Now Online
-## "Zephyr of the Violet Garden" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/13/87b1826283b5f7f64f1d7604802b80a3_8154981535094643760.png)
-
-[Check Out the New Content Here](https://webstatic-sea.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=494fb89914d6406b&mode=fullscreen)
-
-"Zephyr of the Violet Garden" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.6. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.6.
-
-This preview page will be continuously updated with version content during Version 2.6. Stay tuned, Travelers!
 
 -----
 
