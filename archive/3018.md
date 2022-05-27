@@ -220,7 +220,7 @@ When the characters Jean, Amber, Rosaria, and Mona are obtained, they will be we
 
 In the "Test Run" events, the appearances of the characters Jean, Amber, Rosaria, and Mona will be adjusted to the Alternate Outfits.
 
-Adjusts bitrate for cutscenes of previous Versions on mobile to 25,000 kbps to streamline client size.
+Adjusts bitrate for cutscenes of previous Versions on mobile to 2,500 kbps to streamline client size.
 
 Support for the Chroma feature on Razer devices is temporarily disabled due to game crashes. This feature will be restored as soon as the issue is resolved.
 
