@@ -80,11 +80,11 @@ During the event, go to The Chasm and investigate the mysteries of the depths. C
 --- | --- | --- | ---
 Gameplay 
 
-Duration | Event Phase I | Unlocks after the Version 2.7 update | 2022/06/13 03:59:59 (server) 
+Duration | Event Phase I | Unlocks after the Version 2.7 update | 2022/06/20 03:59:59 (server) 
 ^ | Event Phase II | 2022/06/01 04:00:00 (server) | ^
 ^ | Event Phase III | 2022/06/02 04:00:00 (server) | ^
 ^ | Event Phase IV | 2022/06/03 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2022/05/31 10:00:00 (server) | 2022/06/19 03:59:59 (server)
+Event Shop Duration | Event Shop Duration | Unlocks after the Version 2.7 update | 2022/06/27 03:59:59 (server)
 
 〓Eligibility〓
 
