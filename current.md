@@ -424,20 +424,6 @@ This preview page will be continuously updated with version content during Versi
 
 -----
 
-# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-## Genshin Impact Version 2.7 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
-
-Dear Traveler,
-
-The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-
-[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Spices From the West" Event: Creation of Special Seasonings
 ## Spices From the West
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/11/2490794c7fe998bf1da80df4fd234118_8122479077999153195.jpg)
@@ -465,6 +451,20 @@ Reach Adventure Rank 28 or above and complete the quest "Idle Teapot Talk" to co
 ● If the maintenance of Serenitea Pot Placement Function has ended during the event, Travelers can invite companions who are resting to stay in Serenitea Pot and invite characters to try out food.
 
 ※ After 2022/06/07 03:59:59 (server), "Fragrant Seasonings" and "Fragrant Dishes" will be removed from your Inventory.
+
+-----
+
+# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
+## Genshin Impact Version 2.7 Preview
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
+
+Dear Traveler,
+
+The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
+
+[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
