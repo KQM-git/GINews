@@ -447,8 +447,8 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 -----
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
-## Version 2.7 New Character: "Valley Orchid" Yelan
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/11/28a91850a21d27a00d10d6ee89cb426d_6198932730262380044.jpg)
+## "Hidden Dreams in the Depths" Preview Page Now Online
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/28/812fd519af1c031f0bcd5978da2023be_7071767938964871515.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
