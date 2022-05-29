@@ -670,20 +670,6 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 -----
 
-# The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-## Genshin Impact Version 2.7 Preview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/20/29d62246a12da4ca1d4ae738bf4edad9_1725041069660599446.jpg)
-
-Dear Traveler,
-
-The Version 2.7 "Hidden Dreams in the Depths" Preview page is here!
-
-[>>Go to V2.7 "Hidden Dreams in the Depths" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220430-previ-xozn/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220430warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Gorge Sunset" Event Details
 ## Gorge Sunset
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/ddd90bc2a3254c76e8bfbf9b3f0c3230_2932936784555571391.jpg)
