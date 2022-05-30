@@ -448,7 +448,7 @@ Fixes an issue under certain circumstances whereby when playing the game on iOS 
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/28/812fd519af1c031f0bcd5978da2023be_7071767938964871515.jpg)
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_7587145205335740895.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
