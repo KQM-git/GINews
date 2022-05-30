@@ -1,6 +1,6 @@
 # "Hidden Dreams in the Depths" Version 2.7 Update Details
 ## Version 2.7 Update Details
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_4048844503981650260.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_4048844503981650260.jpg)
 
 Dear Travelers,
 
@@ -400,7 +400,7 @@ Text-related fixes and optimizations in English include:
 
 # New Story Unlocked - Archon Quest Interlude Chapter: Act II "Perilous Trail"
 ## New Story Unlocked - Archon Quest Interlude Chapter: Act II
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
 
 The Chasm, which had been sealed off for a long time, is now gradually reopening. The once-abandoned place now sees visitors again.
 
@@ -436,7 +436,7 @@ During the event, reach Adventure Rank 28 and complete the Archon Quest "A New S
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_7587145205335740895.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_7587145205335740895.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
@@ -450,7 +450,7 @@ This preview page will be continuously updated with version content during Versi
 
 # "Perilous Trail" Event: Take part and obtain the event-exclusive weapon, Fading Twilight (Bow)
 ## Perilous Trail
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/bccfe598ce0c64587223fa6ab2bf24df_5952760226628132988.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/bccfe598ce0c64587223fa6ab2bf24df_5952760226628132988.jpg)
 
 During the event, you need to go to The Chasm, investigate the mysteries of the depths, and complete various challenges in the event to obtain rewards like Primogems, Crown of Insight, Weapon Ascension Materials, Talent Level-Up Materials, Mystic Enhancement Ore, Hero's Wit, and Mora. Complete specific "Realms of Guile and War" to obtain the event-exclusive weapon "Fading Twilight" (Bow) and its Refinement Material.
 
@@ -490,7 +490,7 @@ event-exclusive weapon Fading Twilight (Bow) and its refinement material, Moonli
 
 # "Spices From the West" Event: Creation of Special Seasonings
 ## Spices From the West
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/04/11/2490794c7fe998bf1da80df4fd234118_8122479077999153195.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/04/11/2490794c7fe998bf1da80df4fd234118_8122479077999153195.jpg)
 
 During the event, help Nazafarin conduct her research by making seasonings according to the recipes provided to obtain rewards such as Primogems, Hero's Wit, Weapon Ascension Materials, and Mora.
 
@@ -520,7 +520,7 @@ Reach Adventure Rank 28 or above and complete the quest "Idle Teapot Talk" to co
 
 # Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!
 ## Event Wish - Discerner of Enigmas
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/8b986bca2c84ec70d1982ee3ffd2af50_5827766174470498381.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/8b986bca2c84ec70d1982ee3ffd2af50_5827766174470498381.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -548,7 +548,7 @@ After the Version 2.7 update  –  2022/06/21 17:59:00 (server) | "Valley Orchid
 
 # Event Wish "Invitation to Mundane Life" - Boosted Drop Rate for "Vigilant Yaksha" Xiao (Anemo)!
 ## Event Wish - Invitation to Mundane Life
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/11a53e952847a294dc27bba1e285c2ef_1737654768069416939.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/11a53e952847a294dc27bba1e285c2ef_1737654768069416939.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -576,7 +576,7 @@ After the Version 2.7 update  –  2022/06/21 17:59:00 (server) | "Vigilant Yaks
 
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Aqua Simulacra (Bow) and Primordial Jade Winged-Spear (Polearm)!
 ## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/8cc292287ba6acd0b9b5b0b4cc68cc61_2660642825281834889.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/8cc292287ba6acd0b9b5b0b4cc68cc61_2660642825281834889.jpg)
 
 Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
@@ -604,7 +604,7 @@ After the Version 2.7 update  –  2022/06/21 17:59:00 (server) | Aqua Simulacra
 
 # "Umbrabilis Orchis Chapter" Story Quest Overview
 ## Umbrabilis Orchis Chapter
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/9a701515fe17afa4bfe773710b703c38_1828797889078733862.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/9a701515fe17afa4bfe773710b703c38_1828797889078733862.jpg)
 
 Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Yelan's Story Quest "Umbrabilis Orchis Chapter."
 
@@ -628,7 +628,7 @@ And complete Ganyu's Story Quest "Sinae Unicornis Chapter: Act I - Sea of Clouds
 
 # "Adventurer's Booster Bundles" - Round 14 Available for a Limited Time
 ## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/321f33bbe22479d6918e3ce463bced18_697514042509407631.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/321f33bbe22479d6918e3ce463bced18_697514042509407631.jpg)
 
 Round 14 of Adventurer's Booster Bundles are available for a limited time in the Shop!
 
@@ -660,7 +660,7 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 # "Gorge Sunset" Event Details
 ## Gorge Sunset
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/23/ddd90bc2a3254c76e8bfbf9b3f0c3230_2932936784555571391.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/ddd90bc2a3254c76e8bfbf9b3f0c3230_2932936784555571391.jpg)
 
 Travelers can earn rich rewards in "Gorge Sunset" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Divine Will" and Furnishing Blueprint "Stoneworks Crane: Mountain Mover."
 
@@ -684,7 +684,7 @@ Adventure Rank 20 or above
 
 # Details of the Feedback on Special Categories Function
 ## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
 
 Dear Travelers,
 
@@ -706,7 +706,7 @@ Permanently Available
 
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Mistsplitter Reforged (Sword) and The Unforged (Claymore)！
 ## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/03/21/1b2cd6a179a813ae804a22975f200a6a_5468416168654015772.jpg)
 
 Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
@@ -736,7 +736,7 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
 Dear Travelers,
 
@@ -756,7 +756,7 @@ Permanent
 
 # Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
 ## Event Wish - The Heron's Court
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/03/21/f1b6ac2493a6a744c9ebf9833f6da1a6_8436687490562999277.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -786,7 +786,7 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 # Genshin Impact Player Preferences Survey
 ## Complete The Survey and Get a Reward
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
 
 Dear Travelers,
 
@@ -810,7 +810,7 @@ We thank all Travelers for your invaluable feedback!
 
 # HoYoLAB Community - Genshin Impact Exclusive Tools Overview
 ## Genshin Impact Exclusive Tools Overview
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
 
 To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepared exclusive travel tools for Travelers. They are as follows:
 
@@ -880,7 +880,7 @@ If you have any questions about topping up, please send us an email at genshin_p
 
 # Genshin Impact Traveler Community
 ## Genshin Impact Traveler Community
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/09/22/cdd9728d92166c341cc4a8fdfa786056_4263317197346022378.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/09/22/cdd9728d92166c341cc4a8fdfa786056_4263317197346022378.jpg)
 
 〓Official Forums〓
 
@@ -918,7 +918,7 @@ genshin_cs@mihoyo.com
 
 # Genshin Impact - Fair Use Statement
 ## Fair Use Statement
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/09/17/a200f1d4c84be88961455023b264a0bb_3936625726356517613.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/09/17/a200f1d4c84be88961455023b264a0bb_3936625726356517613.jpg)
 
 To ensure a fair and healthy Genshin Impact gaming environment and offer Travelers a great gaming experience, we would like to remind everyone that the following rules apply to all Travelers at all times:
 
