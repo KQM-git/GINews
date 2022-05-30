@@ -316,136 +316,6 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
-# Version Details - What's New 
-## Update Summary
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue in the current version whereby the Electro-Charged reaction mechanism is abnormal. This is a new issue that surfaced after the Version 2.4 update.
-
-The development team has detected the cause of this issue and it will be fixed in the Version 2.7 update.
-
-After the issue is fixed, the Electro-Charged reaction mechanism is expected to function as it did before the Version 2.4 update.
-
-Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
-
-The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
-
-*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
-
-When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
-
-〓Update Content 2022/05/14 20:55:00 (global)〓
-
-Fixes an issue that occurs when using a controller, whereby in the event "Spices From the West," when offering a dish to a character whose Friendship level is already at the maximum, or when the number of opportunities to obtain Companionship EXP by offering dishes has already been used up, the Cancel button on the confirmation screen that appears when offering the dish does not work.
-
-〓Update Content 2022/05/12 16:00:00 (global)〓
-
-The lineup of opponents in the Spiral Abyss for the second half of May 2022 (to be refreshed on May 16) will not be adjusted.
-
-Blessing of the Abyssal Moon for this period:
-
-Sheet-Ice Moon
-
-After a character's Normal Attack hits an opponent, this opponent will be afflicted with a Mark of Ending. After 10s, this Mark of Ending will be removed, dealing True DMG to this opponent. When a character's Normal Attack hits an opponent with a Mark of Ending, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
-
-〓Update Content 2022/05/05 18:10:00 (global)〓
-
-Optimizes the text displayed for the remaining Event Wish duration on the Wish interface.
-
-〓Update Content 2022/04/21 16:10:00 (global)〓
-
-Fixes an issue under certain circumstances whereby enemies would not perform attacks and some enemies could not be defeated. Travelers affected by the issue can restart the game to continue playing normally after the fix.
-
-〓Update Content 2022/04/14 16:30:00 (global)〓
-
-Updated resources related to subsequent events.
-
-Fixes an issue when playing the game on some iOS devices whereby after a character triggers the Spiral Abyss' "Blessing of the Abyssal Moon: Sheet-Ice Moon" effect, there is a probability that the game screen would display abnormally.
-
-Optimizes the instructions related to the objective "Go to the designated location to investigate" in the Archon Quest "In the Depths, an Unexpected Reunion."
-
-Fixes an issue whereby there are some environments in World Quests where the models would collide abnormally. For example, the models of some NPCs, opponents, and objects would sink into the ground, and some attacks from the "Kamuijima Cannon" would fail, etc.
-
-〓Update Content 2022/04/11 15:40:00 (global)〓
-
-Fixes an issue whereby the event item could not be obtained after completing the World Quest "The Floral Courtyard: Part I" in Co-Op Mode.
-
-We will address accounts affected by the above quest issue and implement a fix within 24 hours.
-
-〓Update Content 2022/04/08 16:30:00 (global)〓
-
-Fixes an issue under certain circumstances whereby clicking "Go to Quest" in the "Chasmic Serpent" Events Overview Page would not locate the corresponding World Quest.
-
-Fixes an issue under certain circumstances whereby after the "Surreptitious Seven-Star Seal Sundering" World Quest is completed, the "Go to Quest" button is still displayed on the "Chasmic Serpent" Event Overview Page.
-
-Fixes an issue under certain circumstances whereby the World Quests "A Quiet Day in Liyue Harbor," "Necessary Procedures," and the Commission Quest "So-Called Work" could not be completed when the NPC "Nervous An" is occupied.
-
-Fixes an issue on iOS devices whereby The Chasm: Underground Mines region has a small probability of being overexposed.
-
-Fixes an issue whereby the animation effects were abnormally absent when unlocking the map of the Enkanomiya region.
-
-Fixes an issue in Traditional Chinese whereby a part of text is missing in the World Quest "The Heavenly Stone's Debris."
-
-Fixes an issue in Traditional Chinese whereby there are errors in parts of the text of the Quest Item "Zhiqiong's Letter."
-
-Fixes an issue in Korean whereby there is a localization error concerning the description of Kamisato Ayato's Elemental Burst in his character introduction for his Test Run event.
-
-Fixes an issue in Korean whereby there are missing pieces of text in parts of the Quest Item "Nikolay's Letter," the Book "A Legend of Sword (IV)," the stories of the Artifacts "Calabash of Awakening" and "Soulscent Bloom," and the story of the weapon "Haran Geppaku Futsu."
-
-Fixes an issue in Spanish whereby there are missing pieces of text in parts of the story of the weapon "Haran Geppaku Futsu."
-
-Fixes an issue in Vietnamese whereby there are missing pieces of text in parts of the Book "Toki Alley Tales (II)" and the story of the weapon "Thundering Pulse."
-
-Fixes an issue in Indonesian, Portuguese, Russian, and Vietnamese whereby there are errors in the text of the Archon Quest "Memories of Inteyvat."
-
-〓Update Content 2022/04/06 16:00:00 (global)〓
-
-Rolls back the change to the character Yae Miko, whereby her Sesshou Sakura ability prioritizes attacks on the nearest opponent within range. After the rollback, Sesshou Sakura will randomly attack an enemy within range.
-
-This update will take effect after restarting the game.
-
-▌Compensation Details
-
-Primogems ×100
-
-▌Eligibility
-
-Travelers who reach Adventure Rank 5 or above by 2022/04/06 16:00:00 (global).
-
-Please log in and claim your compensation before 2022/04/09 16:00:00 (global).
-
-Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the rollback takes effect. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-〓Update Content 2022/04/02 16:10:00 (global)〓
-
-Fixes an issue whereby some Teleport Waypoints in the area were not displayed properly on the map when the fog in Tsurumi Island had not been completely removed.
-
-〓Update Content 2022/04/02 14:00:00 (global)〓
-
-Starting on 2022/04/02, we will update the game resources on PC via the launcher through grayscale release in 7 days.
-
-Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
-
-〓Update Content 2022/04/01 16:10:00 (global)〓
-
-Fixes an issue under specific circumstances whereby the objective "Look for clues near the dark fog" in the World Quest "Perils in the Dark" cannot be completed.Travelers who encountered this issue can head to the quest trigger location and exit the game via the Paimon Menu, and then log back into the game so you can continue to progress in the quest.
-
-〓Update Content 2022/03/31 12:00:00 (global)〓
-
-Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
-
-Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
-
------
-
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_7587145205335740895.jpg)
@@ -457,6 +327,34 @@ The "Hidden Dreams in the Depths" preview page is now available!
 This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
 
 This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
+
+-----
+
+# Delay for the Version 2.7 Update Compensation Notice
+## Delay for the Version 2.7 Update Compensation Notice
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
+
+Dear Travelers,
+
+Due to project progress, the Version 2.7 update will be postponed.
+
+From 2022/05/11 to the Version 2.7 update, we will issue compensation to Travelers every week.
+
+Regarding the detailed information on the time of the Version 2.7 update, we will make announcements as soon as it has been confirmed. Please stay tuned for further notices. We sincerely apologize for any inconvenience caused, Travelers.
+
+〓Compensation〓
+
+A compensation of Primogem x400, Fragile Resin x1, Hero's Wit x7, Mystic Enhancement Ore x16, and Mora x 120,000 will be issued every week.
+
+If the period between the 2.7 Version update and the previous weekly compensation for delayed update is less than a week, the final weekly compensation will be adjusted accordingly.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 5 or above by 2022/05/11 04:00:00 (server)
+
+Compensation must be claimed before the end of Version 2.6.
+
+Starting from 2022/05/11, we will issue compensation to all Travelers via in-game mail every Wednesday at 04:00 (Server Time). The first compensation will be issued on 2022/05/11 04:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
 
 -----
 
@@ -694,31 +592,133 @@ Adventure Rank 20 or above
 
 -----
 
-# Delay for the Version 2.7 Update Compensation Notice
-## Delay for the Version 2.7 Update Compensation Notice
-![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/05/4aa5b4ae37daaeea6d90bf68d58c8a4c_7162511719236901135.jpg)
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
 
-Dear Travelers,
+Dear Travelers:
 
-Due to project progress, the Version 2.7 update will be postponed.
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-From 2022/05/11 to the Version 2.7 update, we will issue compensation to Travelers every week.
+〓Known Issues〓
 
-Regarding the detailed information on the time of the Version 2.7 update, we will make announcements as soon as it has been confirmed. Please stay tuned for further notices. We sincerely apologize for any inconvenience caused, Travelers.
+There is an issue in the current version whereby the Electro-Charged reaction mechanism is abnormal. This is a new issue that surfaced after the Version 2.4 update.
 
-〓Compensation〓
+The development team has detected the cause of this issue and it will be fixed in the Version 2.7 update.
 
-A compensation of Primogem x400, Fragile Resin x1, Hero's Wit x7, Mystic Enhancement Ore x16, and Mora x 120,000 will be issued every week.
+After the issue is fixed, the Electro-Charged reaction mechanism is expected to function as it did before the Version 2.4 update.
 
-If the period between the 2.7 Version update and the previous weekly compensation for delayed update is less than a week, the final weekly compensation will be adjusted accordingly.
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
 
-〓Eligibility〓
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
 
-Travelers who have reached Adventure Rank 5 or above by 2022/05/11 04:00:00 (server)
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
 
-Compensation must be claimed before the end of Version 2.6.
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
 
-Starting from 2022/05/11, we will issue compensation to all Travelers via in-game mail every Wednesday at 04:00 (Server Time). The first compensation will be issued on 2022/05/11 04:00:00 (server). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+After updating the official driver released by Razer on January 20, some Travelers using Razer devices on PC may experience a crash error when logging in to the game. Travelers who encounter this problem can try to uninstall the Razer driver first and restart the computer as a temporary fix. If the issue persists, please contact us via the email Genshin_cs@hoyoverse.com.
+
+〓Update Content 2022/05/14 20:55:00 (global)〓
+
+Fixes an issue that occurs when using a controller, whereby in the event "Spices From the West," when offering a dish to a character whose Friendship level is already at the maximum, or when the number of opportunities to obtain Companionship EXP by offering dishes has already been used up, the Cancel button on the confirmation screen that appears when offering the dish does not work.
+
+〓Update Content 2022/05/12 16:00:00 (global)〓
+
+The lineup of opponents in the Spiral Abyss for the second half of May 2022 (to be refreshed on May 16) will not be adjusted.
+
+Blessing of the Abyssal Moon for this period:
+
+Sheet-Ice Moon
+
+After a character's Normal Attack hits an opponent, this opponent will be afflicted with a Mark of Ending. After 10s, this Mark of Ending will be removed, dealing True DMG to this opponent. When a character's Normal Attack hits an opponent with a Mark of Ending, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
+
+〓Update Content 2022/05/05 18:10:00 (global)〓
+
+Optimizes the text displayed for the remaining Event Wish duration on the Wish interface.
+
+〓Update Content 2022/04/21 16:10:00 (global)〓
+
+Fixes an issue under certain circumstances whereby enemies would not perform attacks and some enemies could not be defeated. Travelers affected by the issue can restart the game to continue playing normally after the fix.
+
+〓Update Content 2022/04/14 16:30:00 (global)〓
+
+Updated resources related to subsequent events.
+
+Fixes an issue when playing the game on some iOS devices whereby after a character triggers the Spiral Abyss' "Blessing of the Abyssal Moon: Sheet-Ice Moon" effect, there is a probability that the game screen would display abnormally.
+
+Optimizes the instructions related to the objective "Go to the designated location to investigate" in the Archon Quest "In the Depths, an Unexpected Reunion."
+
+Fixes an issue whereby there are some environments in World Quests where the models would collide abnormally. For example, the models of some NPCs, opponents, and objects would sink into the ground, and some attacks from the "Kamuijima Cannon" would fail, etc.
+
+〓Update Content 2022/04/11 15:40:00 (global)〓
+
+Fixes an issue whereby the event item could not be obtained after completing the World Quest "The Floral Courtyard: Part I" in Co-Op Mode.
+
+We will address accounts affected by the above quest issue and implement a fix within 24 hours.
+
+〓Update Content 2022/04/08 16:30:00 (global)〓
+
+Fixes an issue under certain circumstances whereby clicking "Go to Quest" in the "Chasmic Serpent" Events Overview Page would not locate the corresponding World Quest.
+
+Fixes an issue under certain circumstances whereby after the "Surreptitious Seven-Star Seal Sundering" World Quest is completed, the "Go to Quest" button is still displayed on the "Chasmic Serpent" Event Overview Page.
+
+Fixes an issue under certain circumstances whereby the World Quests "A Quiet Day in Liyue Harbor," "Necessary Procedures," and the Commission Quest "So-Called Work" could not be completed when the NPC "Nervous An" is occupied.
+
+Fixes an issue on iOS devices whereby The Chasm: Underground Mines region has a small probability of being overexposed.
+
+Fixes an issue whereby the animation effects were abnormally absent when unlocking the map of the Enkanomiya region.
+
+Fixes an issue in Traditional Chinese whereby a part of text is missing in the World Quest "The Heavenly Stone's Debris."
+
+Fixes an issue in Traditional Chinese whereby there are errors in parts of the text of the Quest Item "Zhiqiong's Letter."
+
+Fixes an issue in Korean whereby there is a localization error concerning the description of Kamisato Ayato's Elemental Burst in his character introduction for his Test Run event.
+
+Fixes an issue in Korean whereby there are missing pieces of text in parts of the Quest Item "Nikolay's Letter," the Book "A Legend of Sword (IV)," the stories of the Artifacts "Calabash of Awakening" and "Soulscent Bloom," and the story of the weapon "Haran Geppaku Futsu."
+
+Fixes an issue in Spanish whereby there are missing pieces of text in parts of the story of the weapon "Haran Geppaku Futsu."
+
+Fixes an issue in Vietnamese whereby there are missing pieces of text in parts of the Book "Toki Alley Tales (II)" and the story of the weapon "Thundering Pulse."
+
+Fixes an issue in Indonesian, Portuguese, Russian, and Vietnamese whereby there are errors in the text of the Archon Quest "Memories of Inteyvat."
+
+〓Update Content 2022/04/06 16:00:00 (global)〓
+
+Rolls back the change to the character Yae Miko, whereby her Sesshou Sakura ability prioritizes attacks on the nearest opponent within range. After the rollback, Sesshou Sakura will randomly attack an enemy within range.
+
+This update will take effect after restarting the game.
+
+▌Compensation Details
+
+Primogems ×100
+
+▌Eligibility
+
+Travelers who reach Adventure Rank 5 or above by 2022/04/06 16:00:00 (global).
+
+Please log in and claim your compensation before 2022/04/09 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the rollback takes effect. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Content 2022/04/02 16:10:00 (global)〓
+
+Fixes an issue whereby some Teleport Waypoints in the area were not displayed properly on the map when the fog in Tsurumi Island had not been completely removed.
+
+〓Update Content 2022/04/02 14:00:00 (global)〓
+
+Starting on 2022/04/02, we will update the game resources on PC via the launcher through grayscale release in 7 days.
+
+Travelers are requested to launch the game through the launcher to ensure that they receive timely updates.
+
+〓Update Content 2022/04/01 16:10:00 (global)〓
+
+Fixes an issue under specific circumstances whereby the objective "Look for clues near the dark fog" in the World Quest "Perils in the Dark" cannot be completed.Travelers who encountered this issue can head to the quest trigger location and exit the game via the Paimon Menu, and then log back into the game so you can continue to progress in the quest.
+
+〓Update Content 2022/03/31 12:00:00 (global)〓
+
+Fixes an issue under certain circumstances whereby there is a probability that the background music of some areas cannot be played when playing on iOS devices. Travelers who experience this issue can exit the game via the Paimon Menu, then log back in to resolve the problem.
+
+Fixes an issue under certain circumstances whereby when playing the game on iOS devices, disabling "Motion Blur" in "Settings > Graphics" did not take effect properly.
 
 -----
 
