@@ -1,3 +1,403 @@
+# "Hidden Dreams in the Depths" Version 2.7 Update Details
+## Version 2.7 Update Details
+![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_4048844503981650260.jpg)
+
+Dear Travelers,
+
+Below are the details of the Version 2.7 update "Hidden Dreams in the Depths" and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+Dispatch Expedition Adjustment Compensation: Mora ×5,000, Lotus Head ×12, Matsutake ×12
+
+〓Scope of Compensation〓
+
+Dispatch Expedition Adjustment Compensation and Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/05/31 06:00:00 (global).
+
+Please claim before the end of Version 2.7.
+
+Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above before 2022/05/31 06:00:00 (global).
+
+Please claim the compensation mail before 2022/06/03 06:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Adjustment of End Date for the Claiming of Serenitea Pot Placement Function Maintenance Compensation〓
+
+The deadline for claiming the compensation of the Serenitea Pot Placement Function Maintenance (Realm Currency ×5,000) issued on 2022/05/30 11:00:00 (server) has been extended to 2022/06/02 11:00:00 (server). The remaining compensation for the Serenitea Pot Placement Function Maintenance will not be available after the Version 2.7 update maintenance.
+
+〓Update Schedule〓
+
+Update maintenance begins 2022/05/31 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Characters
+
+5-Star Character "Valley Orchid" Yelan (Hydro)
+
+◇ Vision: Hydro
+
+◇ Weapon: Bow
+
+◇ Yelan's Elemental Skill "Lingering Lifeline" fires off a Lifeline that pulls her in rapidly, entangling and marking opponents along its path. When her rapid movement ends, the Lifeline will explode, dealing Hydro DMG to the marked opponents based on Yelan's Max HP. Additionally, each opponent marked by the Lifeline when it explodes grants Yelan a chance to obtain Breakthrough. This will cause her next Charged Aimed Shot to have a decreased charge time, and once charged, she can fire a "Breakthrough Barb" that will deal AoE Hydro DMG based on Yelan's Max HP.
+
+Her Elemental Burst "Depth-Clarion Dice" deals AoE Hydro DMG once and creates an "Exquisite Throw," which aids her in battle. This follows the character around and will initiate a coordinated attack under the following circumstances, dealing Hydro DMG based on Yelan's Max HP. This can occur once every second when your active character uses a Normal Attack and will occur each time Yelan's Lifeline explodes and hits opponents.
+
+◇ A mysterious person who claims to work for the Ministry of Civil Affairs, but is a "non-entity" on the Ministry of Civil Affairs' list.
+
+4-Star Character "Mender of Tribulations" Kuki Shinobu (Electro)
+
+◇ Vision: Electro
+
+◇ Weapon: Sword
+
+◇ Kuki Shinobu's Elemental Skill "Sanctifying Ring" creates a Grass Ring of Sanctification at the cost of part of her HP, dealing Electro DMG to nearby opponents. Grass Ring of Sanctification follows the current active character around. It deals Electro DMG to nearby opponents periodically and restores HP for the active character(s) within the ring's AoE based on Kuki Shinobu's Max HP. The HP consumption from using this skill can only bring her to 20% HP.
+
+Her Elemental Burst "Gyoei Narukami Kariyama Rite" stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous Electro DMG to opponents within its AoE based on Shinobu's Max HP. If Shinobu's HP is less than or equal to 50% when this skill is used, the field will last longer.
+
+◇ The capable and reliable deputy leader of the "Arataki Gang" - Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.
+
+II. New Equipment
+
+Aqua Simulacra (Bow)
+
+Increases HP. When there are opponents near the character equipping this weapon, the DMG the character deals is increased. This effect will still be detected when the character is off-field.
+
+◇ This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.
+
+Fading Twilight (Bow)
+
+This weapon will come with 1 of 3 buffs. Each of the 3 buffs will increase the DMG dealt by the character by different percentages. When the character hits an opponent, the buff will change to the next effect type. This can be triggered once every 7s, and can be triggered even if the character is off-field.
+
+◇A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.
+
+III. New Events
+
+During the event, go to The Chasm and investigate the mysteries of the depths. Complete various challenges in the event to obtain rewards like Primogems, Crown of Insight, Weapon Ascension Materials, Talent Level-Up Materials, Mystic Enhancement Ore, Hero's Wit, and Mora. Complete specific "Realms of Guile and War" to obtain the event-exclusive weapon "Fading Twilight" (Bow) and its Refinement Material.
+
+〓Event Duration〓
+
+**Event Details** | **Event Details** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay 
+
+Duration | Event Phase I | Unlocks after the Version 2.7 update | 2022/06/20 03:59:59 (server) 
+^ | Event Phase II | 2022/06/01 04:00:00 (server) | ^
+^ | Event Phase III | 2022/06/02 04:00:00 (server) | ^
+^ | Event Phase IV | 2022/06/03 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | Unlocks after the Version 2.7 update | 2022/06/27 03:59:59 (server)
+
+〓Eligibility〓
+
+Reach Adventure Rank 28 or above
+
+Complete the Archon Quest "A New Star Approaches" and World Quest "Wherefore Did the Spiritstone Descend?"
+
+Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.
+
+*If you have not completed Arataki Itto's Story Quest, Raiden Shogun's Story Quest, and World Quest "A Teapot to Call Home: Part I," you can enter the event through "Quick Start" in the event page.
+
+IV. New Main Story
+
+1. New Archon Quest
+
+Archon Quest Interlude Chapter: Act II - "Perilous Trail"
+
+Archon Quest Interlude Chapter: Act II - "Perilous Trail" will be permanently available after the Version 2.7 update
+
+◆ Quest Unlock Criteria
+
+• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
+
+• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
+
+• Complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
+
+• Complete the World Quests "Wherefore Did the Spiritstone Descend?" and "A Teapot to Call Home: Part I"
+
+During the "Perilous Trail" event, reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches," World Quest "Wherefore Did the Spiritstone Descend?" and you can use "Quick Start" to begin the Interlude Chapter. (Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest, "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.)
+
+2. New Story Quest
+
+Yelan's Story Quest "Umbrabilis Orchis Chapter: Act I - Calculated Gambit"
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 40 or above
+
+• Complete Ganyu's Story Quest "Sinae Unicornis Chapter: Act I - Sea of Clouds, Sea of People"
+
+• Complete Archon Quest Interlude Chapter: Act II - "Perilous Trail"
+
+3. New Hangout Event
+
+Hangout Event: Kuki Shinobu - Act I "The Gang's Daily Deeds"
+
+◆ After the Version 2.7 update, Hangout Event: Kuki Shinobu - Act I "The Gang's Daily Deeds" will be permanently available
+
+◆ Event Unlock Criteria:
+
+• Reach Adventure Rank 40 or above
+
+• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
+
+And Archon Quest Interlude Chapter: Act II - "Perilous Trail"
+
+4. New World Quests
+
+"On the Stage, Behind the Stage," "The Tales Behind the Fan," and more.
+
+V. Other Additions
+
+New Recipes:
+
+○ Yelan's specialty: "Dew-Dipped Shrimp"
+
+○ Kuki Shinobu's specialty: "Omurice Waltz"
+
+New Achievements added to the "Wonders of the World" and "Memories of the Heart" categories
+
+New Namecards:
+
+"Yelan: Throw": Reward for reaching Friendship Lv. 10 with Yelan
+
+"Kuki Shinobu: Net": Reward for reaching Friendship Lv. 10 with Kuki Shinobu
+
+"Travel Notes: Divine Will": Reward obtained via the BP system
+
+New Furnishing: Leisure Device: Confused Confuzzlement
+
+A furnishing combination made with great care by Tubby, this set comprises a Seeker's Board and many Confuzzled Tubbers. After interacting with the Seeker's Board, you can begin a treasure hunt or view hunt records. The Confuzzled Tubbers can be freely placed within a set space, where they will continuously remain. You can combine these placements with pre-existing furnishings within the Serenitea Pot to hide the Tubbers, after which you will have to search for these Tubbers within a time limit.
+
+After hearing about Mondstadt's traditional game, Windtrace, from the Traveler, Tubby also resolved to create a game based around hide-and-seek, thus creating this particular furnishing combination. However, such a game that only involved Tubby, the Traveler, and Paimon would have too few people and thus lack a certain fun factor. As such, Tubby created many "Confuzzled Tubber" toys to play the role of other participants. Tubby even suggested that the Traveler could use adeptal energies to create playing fields and invite friends to come and experience the fun together.
+
+Added "Challenge Features" descriptions to Domains of Blessing, Forgery, and Mastery with a high Recommended Party Level.
+
+The gadget "Floral Zither" can now be purchased from the NPC Granny Shan in Liyue Harbor.
+
+Added Sets 7–14 of Genshin Impact "Paimon's Paintings" chat emojis.
+
+Added Character level-up guides: Travelers can check Characters' Talent recommendations and Artifact Main Attribute references.
+
+Spiral Abyss
+
+Floor 11 Ley Line Disorder changed to:
+
+• DMG dealt by claymore-wielding characters increased by 75%.
+
+Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 2.7, the three Lunar Phases will be as follows:
+
+Phase I:
+
+Closing Moon
+
+After the active character uses an Elemental Skill, >Normal Attack DMG is increased by 16% for 8s. Max 3 stacks. Stacks are counted independently.
+
+Phase II:
+
+Matched Moon
+
+After a character's Elemental Skill hits an opponent, that opponent's Physical and All Elemental RES will be decreased by 12% for 8s. Max 3 stacks. Stacks are counted independently.
+
+Phase III:
+
+Steelsunder Moon
+
+After the active character uses an Elemental Skill, that character's next Normal Attack that hits an opponent will unleash a shockwave at that opponent's position, dealing DMG. This effect can occur once every 1.2s.
+
+〓Adjustments & Optimizations〓
+
+● Quests
+
+Reduces the difficulty of Daily Commission "The Thundering Wilds" in Narukami Island by replacing some of the opponents.
+
+Reduces the difficulty of Daily Commission "For The Harbingers!" in Narukami Island by weakening the lineup of opponents.
+
+Reduces the difficulty of Daily Commission "Full Speed Ahead" in Yashiori Island by replacing some of the opponents and removing barriers along the way.
+
+Reduces the difficulty of Daily Commission "A Crackling Crisis" in Yashiori Island by weakening the lineup of opponents and extending the challenge time.
+
+Reduces the difficulty of Daily Commission "A Gentleman Strikes in Broad Daylight" in Yashiori Island and Seirai Island by extending the time that patrolling opponents pause at the stationing points.
+
+Reduces the difficulty of Daily Commission "Dangerous Haul" in Narukami Island, Yashiori Island, and Seirai Island by reducing the Movement SPD of the Slime Balloon and cutting down the number of opponents along the way.
+
+● System
+
+Optimizes "Weekly Missions" in Battle Pass: for "Weekly Missions" completed in the week of a version update, the progress of that week's "Weekly Missions" will be carried over to the updated version's BP. This is effective from the Version 2.8 update.
+
+In "Dispatched Expeditions", the rewards of exploring Dihua Marsh, Liyue is adjusted to "Horsetail" and "Snapdragon," while the rewards of exploring Guili Plains, Liyue is adjusted to "Mora." After the version update, we will issue Travelers Mora ×5,000, Lotus Head ×12, Matsutake ×12 as compensation.
+
+Optimizes the sorting rules of the Character Selection page: for characters at the same level, ascended characters will be placed in front of the rest.
+
+Optimizes the display of information: when prompts appear on the center of the screen, the info list on the left, such as quests and challenges, will turn translucent.
+
+Optimizes the UI style of item sources in the Inventory: when an item source is unavailable, it will appear as white text on a dark background.
+
+Optimizes the control experience of the controller in "Settings": as long as the left tab is not switched, re-enter the option list on the right and the list will remember the position previously selected.
+
+Optimizes the description list of characters' Talents when cooking, crafting, forging, dispatching, and furnishing creating: the height of the list is self-adaptive.
+
+Optimizes the indicative effect of Oculi detectors on the World Map: visual effects are added to the marked scope.
+
+Optimizes the presentation of dialogue window in Co-Op Mode: Party Chat is set by default after entering Co-Op Mode and opening the chat list.
+
+● Characters
+
+Optimizes the animation performance of some characters after being launched.
+
+● Audio
+
+Optimizes the sound effects of some objects.
+
+Adjusts the Japanese voice-over for some Story Quests and certain bosses.
+
+Optimizes and adjusts the Korean voice-over for some characters and NPCs.
+
+Optimizes the mechanism when idle voice-over is interrupted by the character's Elemental Skill.
+
+● Other
+
+Reduces combat difficulty for some opponents at World Level 3–6 (including "Oceanid," "Geo Hypostasis," "Cryo Hypostasis," "Maguu Kenki," "Thunder Manifestation," "Golden Wolflord," "Stormterror," and "Azhdaha").
+
+When the characters Jean, Amber, Rosaria, and Mona are obtained, they will be wearing their Alternate Outfits by default.
+
+In the "Test Run" events, the appearances of the characters Jean, Amber, Rosaria, and Mona will be adjusted to the Alternate Outfits.
+
+Adjusts bitrate for cutscenes of previous Versions on mobile to 2,500 kbps to streamline client size.
+
+Support for the Chroma feature on Razer devices is temporarily disabled due to game crashes. This feature will be restored as soon as the issue is resolved.
+
+〓Bug Fixes〓
+
+● Quests
+
+Fixes an issue whereby the speakers of certain dialogues were displayed incorrectly in the World Quest "Valor's Afterglow."
+
+Fixes an issue with the Daily Commission "Felonious Floaters" whereby the models of opponents might sink into the ground.
+
+Fixes an issue with the NPC Atsuko whereby her behavior and dialogues would be incorrect under some circumstances.
+
+Fixes the refresh errors of Explosive Barrels and Boom Blossoms in Daily Commission "Impregnable Defense" in Yashiori Island.
+
+Fixes the erroneous visual effect of the destination spot in Daily Commissions "Voltage Charge" and "Full Speed Ahead" in certain areas in Inazuma.
+
+Fixes an issue under certain circumstances whereby the quest objective "Go to Uyuu Restaurant to finish the light novel" in the Story Quest "Mysterious Urban Legend" could not be completed.
+
+● Enemies
+
+Fixes an issue in Domains whereby Rifthounds and Rifthound Whelps might move outside the barrier.
+
+Fixes an issue whereby the opponent "Fatui Skirmisher - Anemoboxer Vanguard" might keep charging at the character when using support skills.
+
+Fixes an issue whereby launched opponents would continue to fall even after the game is paused.
+
+Fixes an issue whereby after some characters attack, opponents might not enter combat normally.
+
+● Co-Op
+
+Fixes an issue with Co-Op Mode, whereby after the host exited Co-Op Mode when it was raining, the current character and opponents would not be affected by the Hydro element caused by the rain.
+
+● Character
+
+Fixes an issue whereby after Arataki Itto uses his Elemental Burst in some Domains, the dust effects would remain on the camera.
+
+Fixes an issue whereby when Yae Miko attacks, the position of her weapon would have a small probability of being abnormal.
+
+Fixes an issue under certain circumstances whereby when bow-wielding characters move in Aimed Shot Mode, the bowstring would be shaking abnormally.
+
+Fixes an issue with Kujou Sara whereby when switching to another interface from Characters > Weapons, the weapon's disappearance would not coincide with her movement.
+
+Fixes an issue under certain circumstances whereby characters' enhanced jumping ability would linger abnormally.
+
+● System
+
+Fixes an issue when taking photos whereby the character would look in an abnormal direction under specific circumstances.
+
+Fixes an issue whereby certain mappings around the Mt. Tianheng area appeared to be abnormal.
+
+Fixes an issue in Co-Op Mode whereby character movements on the "Character > Artifacts" page might be abnormal.
+
+Fixes an issue whereby the Enhance page would display abnormally if one tapped Enhance on the Artifacts page while removing or switching to another artifact.
+
+● Audio
+
+Fixes an issue whereby the sound effects of certain interfaces and some opponents' skills were missing.
+
+Fixes an issue with the Japanese voice-over in some Story Quests whereby certain lines were missing.
+
+● Gameplay
+
+Fixes an issue in certain languages whereby option texts in Hangout Events were sometimes not displayed in full.
+
+Fixes an issue under certain circumstances whereby Lumenspar indication is abnormally displayed on the map when using the Lumenstone Adjuvant to search for it.
+
+Fixes the issue whereby the friends list of some accounts for PlayStation™Network did not display correctly after changing the linking status.
+
+● Other
+
+Fixes an issue whereby the rarity of the recipe "Rainbow Aster" was labeled wrongly.
+
+Fixes an issue whereby the Electro-Charged reaction mechanism functioned abnormally after the Version 2.4 update. After the fix, the Electro-Charged reaction mechanism is expected to function as it did before the Version 2.4 update.
+
+Fixes an issue whereby using a "Portable Waypoint" placed on top of an NPC to teleport would cause the character to be teleported to an abnormal location.
+
+Fixes an issue whereby Geo Constructs can be abnormally created on top of the gadget "Launch Tube."
+
+Fixes an issue whereby certain scenery in The Chasm region appeared abnormally.
+
+Fixes an issue whereby the three lamp posts in The Chasm region might display abnormally.
+
+Fixes an issue whereby the secret messages in The Chasm region might not display normally.
+
+Fixes an issue whereby a certain destructible wall in The Chasm region could not be destroyed under specific circumstances.
+
+Fixes an issue whereby caged Golden Finches would fall abnormally in The Chasm: The Underground Mines.
+
+Fixes an issue whereby the achievement "Ouroboros" might be completed incorrectly even though the completion requirements have not been met.
+
+Fixes an issue under certain circumstances whereby characters do not take fall DMG after falling from great heights.
+
+Fixes an issue under certain graphic settings whereby the Kamuijima Cannon's attacks might not take effect.
+
+Fixes an issue whereby the model of Weasel (Wildlife) would display abnormally.
+
+Fixes textual errors in Simplified Chinese, Traditional Chinese, English, Indonesian, German, Thai, French, Spanish, Portuguese, Russian, Korean, Vietnamese, and Japanese and optimizes some text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+Text-related fixes and optimizations in English include:
+
+◆ Optimized instances of a character's name from "Kazari" to "Hanachirusato."
+
+◆ Optimized instances of an item name from "Sacred Devata Mushrooms" to "Rukkhashava Mushrooms."
+
+◆ Optimized some lines in the quests and World Quests.
+
+◆ Optimized the capitalization of some characters' Constellation and Skill names.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # New Story Unlocked - Archon Quest Interlude Chapter: Act II "Perilous Trail"
 ## New Story Unlocked - Archon Quest Interlude Chapter: Act II
 ![Banner](https://uploadstatic-sea.mihoyo.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
