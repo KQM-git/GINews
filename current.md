@@ -410,42 +410,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# New Story Unlocked - Archon Quest Interlude Chapter: Act II "Perilous Trail"
-## New Story Unlocked - Archon Quest Interlude Chapter: Act II
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
-
-The Chasm, which had been sealed off for a long time, is now gradually reopening. The once-abandoned place now sees visitors again.
-
-However, there seem to be other secrets hidden beneath this mysterious area that has existed since ancient times.
-
-For various reasons, people come here in search of answers, as they venture step by step, deep into The Chasm...
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act II - "Perilous Trail" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-Permanently available after the Version 2.7 update
-
-〓Quest Unlock Criteria〓
-
-• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
-
-• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
-
-• Complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
-
-• Complete the World Quests "Wherefore Did the Spiritstone Descend?" and "A Teapot to Call Home: Part I"
-
-*During the "Perilous Trail" event, Archon Quest Interlude Chapter: Act II will unlock with the event phases of "Perilous Trail." A new phase will be unlocked each day in the first 3 days of the event. Reach the corresponding Adventure Rank and complete the prerequisite quests to enjoy the story of the Archon Quest Interlude Chapter: Act II "Perilous Trail" in the event.
-
-During the event, reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches," World Quest "Wherefore Did the Spiritstone Descend?" and you can use "Quick Start" to begin the Interlude Chapter. (Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest, "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.)
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -763,6 +727,42 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/07/11 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# New Story Unlocked - Archon Quest Interlude Chapter: Act II "Perilous Trail"
+## New Story Unlocked - Archon Quest Interlude Chapter: Act II
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
+
+The Chasm, which had been sealed off for a long time, is now gradually reopening. The once-abandoned place now sees visitors again.
+
+However, there seem to be other secrets hidden beneath this mysterious area that has existed since ancient times.
+
+For various reasons, people come here in search of answers, as they venture step by step, deep into The Chasm...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act II - "Perilous Trail" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+Permanently available after the Version 2.7 update
+
+〓Quest Unlock Criteria〓
+
+• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
+
+• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
+
+• Complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
+
+• Complete the World Quests "Wherefore Did the Spiritstone Descend?" and "A Teapot to Call Home: Part I"
+
+*During the "Perilous Trail" event, Archon Quest Interlude Chapter: Act II will unlock with the event phases of "Perilous Trail." A new phase will be unlocked each day in the first 3 days of the event. Reach the corresponding Adventure Rank and complete the prerequisite quests to enjoy the story of the Archon Quest Interlude Chapter: Act II "Perilous Trail" in the event.
+
+During the event, reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches," World Quest "Wherefore Did the Spiritstone Descend?" and you can use "Quick Start" to begin the Interlude Chapter. (Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest, "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.)
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
