@@ -1,6 +1,18 @@
+# Version 2.7 "Hidden Dreams in the Depths" New Content Overview
+## Version 2.7 New Content Overview
+
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/b0dfcba4efb9141f15c8deb646924d6b_1634033662169064300.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/1e3ce48cecbbf91990a6e0ca076f64ae_2221334310185104766.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/3e7725bd8ca79c56da834d45d378609c_2158042238236604501.jpg)
+
+-----
+
 # "Hidden Dreams in the Depths" Version 2.7 Update Details
 ## Version 2.7 Update Details
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_4048844503981650260.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/31/5a1200fe04b60feb87c95701ac883c4a_6004928826916346460.jpg)
 
 Dear Travelers,
 
@@ -150,7 +162,7 @@ Yelan's Story Quest "Umbrabilis Orchis Chapter: Act I - Calculated Gambit"
 
 Hangout Event: Kuki Shinobu - Act I "The Gang's Daily Deeds"
 
-◆ After the Version 2.7 update, Hangout Event: Kuki Shinobu - Act I "The Gang's Daily Deeds" will be permanently available
+◆ Permanently available after 2022/06/21 18:00:00 (server)
 
 ◆ Event Unlock Criteria:
 
@@ -431,6 +443,72 @@ Permanently available after the Version 2.7 update
 During the event, reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches," World Quest "Wherefore Did the Spiritstone Descend?" and you can use "Quick Start" to begin the Interlude Chapter. (Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest, "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.)
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
+
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
+
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓Update Content 2022/05/31 20:18:00 (global)〓
+
+Fixes an issue whereby during the "Perilous Trail" event, the Adventure Rank requirement of the Archon Quest "Perilous Trail" was incorrectly configured as AR 40 and above. After this fix, the Adventure Rank required to start the quest will be AR 28 and above.
+
+▌Issue Fix Compensation
+
+● Compensation
+
+Primogems ×60
+
+● Eligibility
+
+Travelers who have logged into the game after the Version 2.7 update and before the problem was fixed, with an Adventure Rank of AR 28–39 (inclusive of AR 28 and AR 39).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim the mail before 2022/06/07 23:59:59 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+Fixes an issue whereby the graphics quality of the game on iPad Air (4th generation) devices did not match the settings after the Version 2.7 update. Travelers can reset the desired graphics quality in Settings > Graphics as needed.
+
+-----
+
+# Battle Chronicle Tool Update - New Parametric Transformer Cooldown Notification and Other Functions
+## Battle Chronicle: Tool Update
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/26/2a3c7f6183caba912099f25c671f0ba5_4669695647759928124.jpg)
+
+[Check It Out Here](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
+
+Hello, Travelers~
+
+We've upgraded several modules of the Battle Chronicle such as "Real-Time Notes," "Character Overview," "Perilous Trail," and "Spiral Abyss." Come and have a look~
+
+1. Added "Real-Time Notes > Parametric Transformer Cooldown" Notification function
+
+During the Cooldown process of the Parametric Transformer, you can enable the "Notification" function in Real-Time Notes. When the Cooldown ends, HoYoLAB will notify you at the first moment.
+
+*You must authorize HoYoLAB to send you notifications to use this function, which can only be used during the Parametric Transformer Cooldown. The notification is only valid for this Cooldown.
+
+2. Added "Share > Save Image" function
+
+The "Share > Save Image" function has been added on the homepage, character details page, and character overview page, making it easy for Travelers to share their own Battle Chronicle.
+
+3. Added the Battle Chronicle for the limited-time event "Perilous Trail"
+
+4. Optimized the UI layout for "Spiral Abyss" on mobile devices
+
+And that's all for the update description of this Battle Chronicle! You can check it out for yourself by going to Tools > Battle Chronicle on HoYoLAB~
 
 -----
 
