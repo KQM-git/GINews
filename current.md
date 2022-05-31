@@ -464,6 +464,12 @@ The developers have detected the initial cause of this issue. As the fix involve
 
 When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
 
+〓Update Content 2022/06/01 02:00:00 (global)〓
+
+Fixes an issue whereby the "Events Overview" and "Mail" pages would display abnormally or freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
+
+Travelers affected by these issues can restart the game to continue playing normally.
+
 〓Update Content 2022/05/31 20:18:00 (global)〓
 
 Fixes an issue whereby during the "Perilous Trail" event, the Adventure Rank requirement of the Archon Quest "Perilous Trail" was incorrectly configured as AR 40 and above. After this fix, the Adventure Rank required to start the quest will be AR 28 and above.
