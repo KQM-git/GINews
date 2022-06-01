@@ -430,6 +430,8 @@ When using an iOS or Android device to play the game, after some characters cast
 
 There is an issue whereby after the Version 2.7 update, the special effects of Childe's Talent "Riptide Burst" would display abnormally (actual combat effects are not affected). This issue will be fixed in the update on June 9. After the fix, the effect performance will be the same as before the Version 2.7 update.
 
+There is an issue whereby after the Version 2.7 update, the Wolf Within special effects of Razor's idle animation and Elemental Burst would display abnormally (actual combat effects are not affected). This issue will be fixed in the update on June 9. After the fix, the effect performance will be the same as before the Version 2.7 update.
+
 〓Update Content 2022/06/01 14:40:00 (global)〓
 
 Fixes an issue with the Archon Quest "Danger All Around" whereby Travelers may not be able to control their characters if they reconnect to the server during a conversation when carrying out the quest objective "Examine the mysterious door in front of you."
