@@ -454,7 +454,11 @@ There is an issue whereby after the Version 2.7 update, the Wolf Within special 
 
 There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
 
-When there are emails in some languages (such as Thai) in the Mailbox, even if the number of the emails have not reached the limit, the message "Some mail is not displayed" may appear on the mail opening interface, and some emails in the Gift Mail Box will not be displayed normally. Travelers who encounter this problem do not need to delete their in-game mail; other than Gift Mail Box, other mail functions can still be used normally. We will fix the abnormal prompt issue in subsequent updates and the abnormal display issue of the Gift Mail Box will be fixed in a subsequent version update.
+〓Update Content 2022/06/03 16:10:00 (global)〓
+
+Fixes an issue with the Story Quest "Candidature Analysis" whereby there is a small chance that some Places of Interest disappeared when carrying out the quest objective "Investigate the abandoned camp," causing the quest objective to be unable to be completed.
+
+Fixes an issue whereby when there are emails in some languages (such as Thai) in the Mailbox, even if the number of the emails have not reached the limit, the message "Some mail is not displayed" may appear on the mail opening interface, and some emails in the Gift Mail Box will not be displayed normally. Travelers who encounter this problem do not need to delete their in-game mail; other than Gift Mail Box, other mail functions can still be used normally.
 
 〓Update Content 2022/06/03 10:35:00 (global)〓
 
