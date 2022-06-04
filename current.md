@@ -410,26 +410,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -535,6 +515,64 @@ The "Hidden Dreams in the Depths" preview page is now available!
 This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
 
 This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
+
+-----
+
+# New Story Unlocked - Archon Quest Interlude Chapter: Act II "Perilous Trail"
+## New Story Unlocked - Archon Quest Interlude Chapter: Act II
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
+
+The Chasm, which had been sealed off for a long time, is now gradually reopening. The once-abandoned place now sees visitors again.
+
+However, there seem to be other secrets hidden beneath this mysterious area that has existed since ancient times.
+
+For various reasons, people come here in search of answers, as they venture step by step, deep into The Chasm...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act II - "Perilous Trail" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+Permanently available after the Version 2.7 update
+
+〓Quest Unlock Criteria〓
+
+• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
+
+• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
+
+• Complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
+
+• Complete the World Quests "Wherefore Did the Spiritstone Descend?" and "A Teapot to Call Home: Part I"
+
+*During the "Perilous Trail" event, Archon Quest Interlude Chapter: Act II will unlock with the event phases of "Perilous Trail." A new phase will be unlocked each day in the first 3 days of the event. Reach the corresponding Adventure Rank and complete the prerequisite quests to enjoy the story of the Archon Quest Interlude Chapter: Act II "Perilous Trail" in the event.
+
+During the event, reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches," World Quest "Wherefore Did the Spiritstone Descend?" and you can use "Quick Start" to begin the Interlude Chapter. (Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest, "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.)
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Details of the Feedback on Special Categories Function
+## Feedback on Special Categories
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+
+Dear Travelers,
+
+To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+
+At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+
+〓Enter Feedback〓
+
+[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+
+Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+
+〓Duration〓
+
+Permanently Available
 
 -----
 
@@ -772,61 +810,23 @@ Adventure Rank 20 or above
 
 -----
 
-# New Story Unlocked - Archon Quest Interlude Chapter: Act II "Perilous Trail"
-## New Story Unlocked - Archon Quest Interlude Chapter: Act II
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/27/6c49a95239cae0b1e1c97d60f092fc03_9150716062506233464.jpg)
-
-The Chasm, which had been sealed off for a long time, is now gradually reopening. The once-abandoned place now sees visitors again.
-
-However, there seem to be other secrets hidden beneath this mysterious area that has existed since ancient times.
-
-For various reasons, people come here in search of answers, as they venture step by step, deep into The Chasm...
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act II - "Perilous Trail" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-Permanently available after the Version 2.7 update
-
-〓Quest Unlock Criteria〓
-
-• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
-
-• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
-
-• Complete the Archon Quest "Chapter I: Act III - A New Star Approaches"
-
-• Complete the World Quests "Wherefore Did the Spiritstone Descend?" and "A Teapot to Call Home: Part I"
-
-*During the "Perilous Trail" event, Archon Quest Interlude Chapter: Act II will unlock with the event phases of "Perilous Trail." A new phase will be unlocked each day in the first 3 days of the event. Reach the corresponding Adventure Rank and complete the prerequisite quests to enjoy the story of the Archon Quest Interlude Chapter: Act II "Perilous Trail" in the event.
-
-During the event, reach Adventure Rank 28 and complete the Archon Quest "A New Star Approaches," World Quest "Wherefore Did the Spiritstone Descend?" and you can use "Quick Start" to begin the Interlude Chapter. (Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest, "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.)
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
 Dear Travelers,
 
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
-〓Enter Feedback〓
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+〓Event Duration〓
 
-〓Duration〓
-
-Permanently Available
+Permanent
 
 -----
 
