@@ -434,6 +434,8 @@ There is an issue whereby after the Version 2.7 update, the Wolf Within special 
 
 There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
 
+After Yelan uses her Elemental Burst, the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata. This issue will be fixed after the update on June 9th.
+
 〓Update Content 2022/06/03 16:10:00 (global)〓
 
 Fixes an issue with the Story Quest "Candidature Analysis" whereby there is a small chance that some Places of Interest disappeared when carrying out the quest objective "Investigate the abandoned camp," causing the quest objective to be unable to be completed.
