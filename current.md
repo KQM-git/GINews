@@ -430,6 +430,10 @@ When using an iOS or Android device to play the game, after some characters cast
 
 There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
 
+〓Update Content 2022/06/09 16:30:00 (global)〓
+
+Fixes an issue whereby some interfaces were displayed abnormally.
+
 〓Update Content 2022/06/09 11:45:00 (global)〓
 
 Fixed an issue whereby the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata after Yelan releases her Elemental Burst.
