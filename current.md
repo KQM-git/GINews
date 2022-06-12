@@ -534,7 +534,7 @@ And that's all for the update description of this Battle Chronicle! You can chec
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/77bc105307b82d038aa3195b792bf453_7587145205335740895.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/12/9eafc29d91647bffaf90970090c39c4d_6987795601798738306.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
