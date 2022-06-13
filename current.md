@@ -504,6 +504,54 @@ Fixes an issue whereby the graphics quality of the game on iPad Air (4th generat
 
 -----
 
+# Prize Giveaway: The Limited-Time Video Submission Event "Drumalong" Has Begun! Participate to Get In-Game Rewards!
+## Prize Giveaway: The "Drumalong" video submission event is here!
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/08/3df2eb8f278dd4c8f83f431e6071dba2_754881876567259032.jpg)
+
+Hello, Travelers~ Did you receive the mysterious invitation letter from the Arataki Gang? The event "The Almighty Arataki Great and Glorious Drumalong Festival" has now begun!
+
+Participate in HoYoLAB's "Drumalong" video submission event, upload your musical performance challenge, and interact with other Travelers!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220613ugc_sea-5544/index.html?game_biz=hk4e_global&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+Submission Period: 2022/06/13 - 2022/07/04 23:59:59 (global)
+
+Results and Winners List Announcement: The list of winners will be updated in HoYoLAB's "Drumalong" event post on July 26, 2022.
+
+〓Event Description〓
+
+During the event, Travelers can upload your own musical performance challenge videos to participate in the "Drumalong" video submission challenge to win Primogems, merchandise rewards, and more!
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓How to Participate〓
+
+Participate in the "Drumalong" event via its video submission event post on HoYoLAB and record an original video of your musical performance.
+
+Go to HoYoLAB "Drumalong" video submission page, click "Publish Video" in the page to upload your work.
+
+〓Event Rewards〓
+
+Participation Rewards: Travelers who successfully participate in the event will receive Mora ×40,000, Hero's Wit ×2, Mystic Enhancement Ore ×2, and HoYoLAB "Drumalong" event-exclusive avatar frame (30 days)
+
+(Participation Rewards and Primogem rewards for the video submission will be delivered in 7 days after the release of the Winners' List. Travelers can go to My Information > Information Management > Genshin Impact in HoYoLAB to fill in your Genshin Impact UID. If winning Travelers have not filled in their UID after the results are announced, they will be deemed to have forfeited their in-game rewards.)
+
+Crimson Strings and Jade Bells (5 Winners)
+
+Primogems ×1,500 + Random Themed Mouse Mat + Random Character Impression Series Woven Bracelet + Random Character Emojis Hangable
+
+Spirited Song (10 Winners)
+
+Primogems ×800 + Random Themed Mouse Mat ×1
+
+Barrage of Drumbeats (20 Winners)
+
+Random Themed Mouse Mat ×1
+
+-----
+
 # Battle Chronicle Tool Update - New Parametric Transformer Cooldown Notification and Other Functions
 ## Battle Chronicle: Tool Update
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/26/2a3c7f6183caba912099f25c671f0ba5_4669695647759928124.jpg)
