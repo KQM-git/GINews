@@ -552,34 +552,6 @@ Random Themed Mouse Mat ×1
 
 -----
 
-# Battle Chronicle Tool Update - New Parametric Transformer Cooldown Notification and Other Functions
-## Battle Chronicle: Tool Update
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/26/2a3c7f6183caba912099f25c671f0ba5_4669695647759928124.jpg)
-
-[Check It Out Here](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
-
-Hello, Travelers~
-
-We've upgraded several modules of the Battle Chronicle such as "Real-Time Notes," "Character Overview," "Perilous Trail," and "Spiral Abyss." Come and have a look~
-
-1. Added "Real-Time Notes > Parametric Transformer Cooldown" Notification function
-
-During the Cooldown process of the Parametric Transformer, you can enable the "Notification" function in Real-Time Notes. When the Cooldown ends, HoYoLAB will notify you at the first moment.
-
-*You must authorize HoYoLAB to send you notifications to use this function, which can only be used during the Parametric Transformer Cooldown. The notification is only valid for this Cooldown.
-
-2. Added "Share > Save Image" function
-
-The "Share > Save Image" function has been added on the homepage, character details page, and character overview page, making it easy for Travelers to share their own Battle Chronicle.
-
-3. Added the Battle Chronicle for the limited-time event "Perilous Trail"
-
-4. Optimized the UI layout for "Spiral Abyss" on mobile devices
-
-And that's all for the update description of this Battle Chronicle! You can check it out for yourself by going to Tools > Battle Chronicle on HoYoLAB~
-
------
-
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/12/9eafc29d91647bffaf90970090c39c4d_6987795601798738306.jpg)
