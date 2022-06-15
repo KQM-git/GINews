@@ -804,38 +804,6 @@ And complete Ganyu's Story Quest "Sinae Unicornis Chapter: Act I - Sea of Clouds
 
 -----
 
-# "Adventurer's Booster Bundles" - Round 14 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/321f33bbe22479d6918e3ce463bced18_697514042509407631.jpg)
-
-Round 14 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 2.7 update – 2022/06/15 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one
-
-3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 2.7 update – 2022/06/15 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # "Gorge Sunset" Event Details
 ## Gorge Sunset
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/ddd90bc2a3254c76e8bfbf9b3f0c3230_2932936784555571391.jpg)
