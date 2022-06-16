@@ -696,6 +696,68 @@ Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - 
 
 -----
 
+# Event Wish "Oni's Royale" - Boosted Drop Rate for "Hanamizaka Heroics" Arataki Itto (Geo)!
+## Event Wish - Oni's Royale
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/43a9de79022c352b2cad871a215a59a5_3651823470742690787.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters ** **(4-Star)**
+--- | --- | ---
+2022/06/21 18:00:00 (server) - 2022/07/12 14:59:59 (server) | "Hanamizaka Heroics" Arataki Itto (Geo) | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Frozen Ardor" Chongyun (Cryo)
+^ | ^ | "Canine Warrior" Gorou (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Hanamizaka Heroics" Arataki Itto (Geo) will receive a huge
+
+drop-rate boost!
+
+● During this event wish, the 4-star characters "Mender of Tribulations" Kuki Shinobu (Electro), "Frozen Ardor" Chongyun (Cryo), and "Canine Warrior" Gorou (Geo) will receive a huge
+
+drop-rate boost!
+
+● After this event wish ends, the 4-star character "Mender of Tribulations" Kuki Shinobu (Electro) will be available in the standard wish "Wanderlust Invocation" in Version 2.8.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Redhorn Stonethresher (Claymore) and Memory of Dust (Catalyst)!
+## Event Wish - Epitome Invocation
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/cde7fd423a5611c7f54f8e48f993a70a_4718186959025260659.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/06/21 18:00:00 (server) - 2022/07/12 14:59:59 (server) | Redhorn Stonethresher (Claymore)   Memory of Dust (Catalyst) | Lithic Blade (Claymore)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Redhorn Stonethresher (Claymore) and Memory of Dust (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapon Lithic Blade (Claymore) as well as 4-star weapons Lion's Roar (Sword), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards the promotional 5-star weapon, Redhorn Stonethresher (Claymore) or Memory of Dust (Catalyst). For more information on Epitomized Path, go to the Wish page and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!
 ## Event Wish - Discerner of Enigmas
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/8b986bca2c84ec70d1982ee3ffd2af50_5827766174470498381.jpg)
@@ -777,6 +839,30 @@ After the Version 2.7 update  –  2022/06/21 17:59:00 (server) | Aqua Simulacra
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Hangout Events: Series VI" - Story Quest Overview
+## Hangout Events: Series VI
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/48013910c44cb9ac8d9c72f01a8b85d2_3090878103082002197.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Kuki Shinobu's Hangout Event.
+
+The Hangout Events feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight Daily Commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after 2022/06/21 18:00:00 (server)
+
+**〓Series VI Unlock Criteria〓**
+
+Hangout Event: Kuki Shinobu – Act I:
+
+Adventure Rank 40 or above
+
+Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul"
+
+And complete Archon Quest "Interlude Chapter: Act II - Perilous Trail"
 
 -----
 
