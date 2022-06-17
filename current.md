@@ -512,6 +512,20 @@ Fixes an issue whereby the graphics quality of the game on iPad Air (4th generat
 
 -----
 
+# "Hidden Dreams in the Depths" Preview Page Now Online
+## "Hidden Dreams in the Depths" Preview Page Now Online
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/17/ebe2fb6326ad0841cd8aec46a589d6d7_4075297732482728054.jpg)
+
+[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
+
+The "Hidden Dreams in the Depths" preview page is now available!
+
+This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
+
+This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
+
+-----
+
 # Prize Giveaway: The Limited-Time Video Submission Event "Drumalong" Has Begun! Participate to Get In-Game Rewards!
 ## Prize Giveaway: The "Drumalong" video submission event is here!
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/08/3df2eb8f278dd4c8f83f431e6071dba2_754881876567259032.jpg)
@@ -557,20 +571,6 @@ Primogems ×800 + Random Themed Mouse Mat ×1
 Barrage of Drumbeats (20 Winners)
 
 Random Themed Mouse Mat ×1
-
------
-
-# "Hidden Dreams in the Depths" Preview Page Now Online
-## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/17/ebe2fb6326ad0841cd8aec46a589d6d7_4075297732482728054.jpg)
-
-[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
-
-The "Hidden Dreams in the Depths" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
-
-This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
 
 -----
 
