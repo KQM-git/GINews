@@ -562,7 +562,7 @@ Random Themed Mouse Mat ×1
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/12/9eafc29d91647bffaf90970090c39c4d_6987795601798738306.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/17/ebe2fb6326ad0841cd8aec46a589d6d7_4075297732482728054.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
