@@ -672,6 +672,36 @@ event-exclusive weapon Fading Twilight (Bow) and its refinement material, Moonli
 
 -----
 
+# "A Muddy Bizarre Adventure" Event: Mines Cleanup Challenge
+## A Muddy Bizarre Adventure
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/3fb533e0ee759ab04cb62c893645accc_681027832110162051.jpg)
+
+During the event, go forth into The Chasm and clean up the mines while helping a researcher from Sumeru settle an ongoing crisis in which dark mud is spewing forth from its depths. Complete the designated tasks to obtain Primogems, Hero's Wit, Talent Level-Up Materials, Mystic Enhancement Ore, and other rewards.
+
+**〓Event Duration〓**
+
+2022/06/22 10:00:00 (server) - 2022/07/04 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+Complete the "Surreptitious Seven-Star Seal Sundering" World Quest to unlock the Underground Mines of The Chasm.
+
+Obtain the Lumenstone Adjuvant in the World Quest "Chasm Spelunkers" and upgrade it to Level 2.
+
+**〓Event Details〓**
+
+● From the first day of the event, the corresponding quests will be unlocked every day. The newly unlocked quest cannot be picked up until the previous day's quest has been completed.
+
+● During the cleanup, the dangerous dark mud that continues to ooze out will buff nearby monsters, increasing their ATK and DEF greatly. When these monsters are in areas covered by the dark mud, their abilities will be further increased.
+
+● Monsters will constantly interfere with your cleanup work and the surrounding area will flood over with dark mud. Equip the Lumenstone Adjuvant and use the Blooming Light to clear the dark mud and weaken the monsters to further the cleaning process.
+
+● As you continue to clean, the difficulty of cleaning dark mud will gradually increase. Travelers can search for more Lumenspar in The Chasm: Underground Mines, and strengthen the Lumenstone Adjuvant to a higher level.
+
+-----
+
 # "The Almighty Arataki Great and Glorious Drumalong Festival" Event: Take Part to Obtain Arataki's Great and Glorious Drum
 ## The Almighty Arataki Great and Glorious Drumalong Festival
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/d98818d667e4a0890447c561eb1a9f05_1293554319239893956.jpg)
