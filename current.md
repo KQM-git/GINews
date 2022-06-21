@@ -514,7 +514,7 @@ Fixes an issue whereby the graphics quality of the game on iPad Air (4th generat
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/17/ebe2fb6326ad0841cd8aec46a589d6d7_4075297732482728054.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/21/8a1c018e7736c9bfe0f6c49c5346a1eb_6332321916572891396.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
