@@ -1,15 +1,3 @@
-# Version 2.7 "Hidden Dreams in the Depths" New Content Overview
-## Version 2.7 New Content Overview
-
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/b0dfcba4efb9141f15c8deb646924d6b_1634033662169064300.jpg)
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/1e3ce48cecbbf91990a6e0ca076f64ae_2221334310185104766.jpg)
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/30/3e7725bd8ca79c56da834d45d378609c_2158042238236604501.jpg)
-
------
-
 # "Hidden Dreams in the Depths" Version 2.7 Update Details
 ## Version 2.7 Update Details
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/31/5a1200fe04b60feb87c95701ac883c4a_6004928826916346460.jpg)
