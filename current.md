@@ -500,6 +500,24 @@ Fixes an issue whereby the graphics quality of the game on iPad Air (4th generat
 
 -----
 
+# Genshin Impact's The Chasm OST Album "Millelith's Watch" Now Available
+## The Chasm OST Now Available
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/20/b23233fc775ae1ed30322df125592087_6246828873240646457.jpg)
+
+Dear Travelers, Genshin Impact's The Chasm OST album "Millelith's Watch" is now available, featuring 40 spectacular tracks composed by the HOYO-MiX team, each one an original composition for The Chasm.
+
+Travelers can go to the following platforms to listen to "Millelith's Watch."
+
+Apple Music:
+
+[Click here to listen to "Millelith's Watch"](https://music.apple.com/us/album/1630111317)
+
+Spotify:
+
+[Click here to listen to "Millelith's Watch"](http://open.spotify.com/album/26mat5fAFSQnto8pFSQHbb)
+
+-----
+
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/21/8a1c018e7736c9bfe0f6c49c5346a1eb_6332321916572891396.jpg)
