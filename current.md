@@ -420,6 +420,14 @@ There is an issue whereby the quest item "Archaic Stone" from the Story Quest "N
 
 When playing in Japanese, German, English, Indonesian, Portuguese, and Vietnamese, there is an issue whereby some subtitles were missing in the  cutscene animations of individual quests. This issue will be fixed in a later version update. Please stay tuned for future notices.
 
+〓Update Content 2022/06/23 16:05:00 (global)〓
+
+Fixes an issue with the "Events Overview" interface whereby there is a probability that the red notification dot was still indicated after the event "Perilous Trail" has ended.
+
+Fixes an issue with the Story Quest "Gang Bylaws" whereby there is a small probability that this quest might not appear in the Quest Menu when carrying out the quest objective "Track Mamoru and the others down."
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
 〓Update Content 2022/06/16 16:10:00 (global)〓
 
 Updates resources related to subsequent events.
