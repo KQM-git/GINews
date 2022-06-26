@@ -646,46 +646,6 @@ Permanently Available
 
 -----
 
-# "Perilous Trail" Event: Take part and obtain the event-exclusive weapon, Fading Twilight (Bow)
-## Perilous Trail
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/bccfe598ce0c64587223fa6ab2bf24df_5952760226628132988.jpg)
-
-During the event, you need to go to The Chasm, investigate the mysteries of the depths, and complete various challenges in the event to obtain rewards like Primogems, Crown of Insight, Weapon Ascension Materials, Talent Level-Up Materials, Mystic Enhancement Ore, Hero's Wit, and Mora. Complete specific "Realms of Guile and War" to obtain the event-exclusive weapon "Fading Twilight" (Bow) and its Refinement Material.
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Gameplay Duration Start Time | Perilous Trail Event Phase I | After the Version 2.7 update  | 2022/06/20 03:59:59 (server)
-^ | Perilous Trail Event Phase II | 2022/06/01 04:00:00 (server) | ^
-^ | Perilous Trail Event Phase III | 2022/06/02 04:00:00 (server) | ^
-^ | Perilous Trail Event Phase IV | 2022/06/03 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | After the Version 2.7 update  | 2022/06/27 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-Complete the Archon Quest "Chapter I: Act III - A New Star Approaches" and the World Quest "Wherefore Did the Spiritstone Descend?"
-
-Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," and World Quest "A Teapot to Call Home: Part I" to enhance your experience.
-
-*If you have not completed Arataki Itto's Story Quest, Raiden Shogun's Story Quest, and World Quest "A Teapot to Call Home: Part I," you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● During the event, Archon Quest Interlude Chapter: Act II will unlock with the event phases of "Perilous Trail." A new phase will be unlocked each day in the first 3 days of the event. Reach the corresponding Adventure Rank and complete the prerequisite quests to enjoy the story of the Archon Quest Interlude Chapter: Act II "Perilous Trail" in the event.
-
-● Interact with a mysterious wooden board in a specific place to visit the Realms of Guile and War and take part in the combat challenge. In the "Perilous Trail" event, Travelers can challenge 4 "Realms of Guile and War," of which the 4th will only unlock once the previous 3 have been completed.
-
-● Each Realm of Guile and War has 3 challenge difficulties. Completing higher difficulties will not only allow you to collect the corresponding rewards, but rewards at lower difficulties as well.
-
-● Complete challenges in the Realms of Guile and War to claim
-
-event-exclusive weapon Fading Twilight (Bow) and its refinement material, Moonlit Cragstone, Primogems, Weapon Ascension Materials, Mora, and other rewards. Moonlit Cragstone can be exchanged in the Event Shop for rewards such as the event-exclusive Weapon Refinement Material, Crown of Insight, Weapon Ascension Materials, Talent Level-Up Materials, Mystic Enhancement Ore, Hero's Wit, etc.
-
------
-
 # "A Muddy Bizarre Adventure" Event: Mines Cleanup Challenge
 ## A Muddy Bizarre Adventure
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/3fb533e0ee759ab04cb62c893645accc_681027832110162051.jpg)
