@@ -646,6 +646,36 @@ Permanently Available
 
 -----
 
+# "Core of the Apparatus" Event: Make Robot Furnishings
+## Core of the Apparatus
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/20cb154c6001f75a464ac314c92605a8_3376091702538901473.jpg)
+
+During the event, help Bertrand, a Fontaine mechanical toymaker in Inazuma, gather materials and build test products to obtain redemption vouchers. Use redemption vouchers to exchange for robotic furnishings. Complete the designated challenges to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mora, and other rewards.
+
+**〓Event Duration〓**
+
+2022/06/29 10:00:00 (server) - 2022/07/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
+
+Complete the World Quest "Chisato's Letter"
+
+**〓Event Details〓**
+
+● During the event, equip the gadget "Material Collector" to complete the three processes, namely "Source Material Collection," "Elemental Charge," and "Core Activation." When you have collected the required amount of materials, the Material Collector's progress will increase. After the progress reaches 100%, you will enter the next process.
+
+● Complete the above three processes to make robotic furnishings. The design and movement of the robot are related to the above three processes. There is a certain probability of creating a random model or a special robotic furnishing that can do all movements. You can view the processes necessary to create the robotic furnishings of different designs and movements in the archive guide page.
+
+● Complete making robotic furnishings of different designs and movements to obtain corresponding redemption vouchers. Use redemption vouchers to exchange with Bertrand to obtain robotic furnishings of corresponding designs and movements.
+
+● During the event, complete the designated challenge quests to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mora, and other rewards.
+
+-----
+
 # "A Muddy Bizarre Adventure" Event: Mines Cleanup Challenge
 ## A Muddy Bizarre Adventure
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/3fb533e0ee759ab04cb62c893645accc_681027832110162051.jpg)
