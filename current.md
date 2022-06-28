@@ -528,7 +528,7 @@ Spotify:
 
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/21/8a1c018e7736c9bfe0f6c49c5346a1eb_6332321916572891396.jpg)
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/28/4bb53d3f5fceea5416b25e8d419ae2c2_2190641161672091328.jpg)
 
 [Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
 
