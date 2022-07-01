@@ -1,3 +1,23 @@
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "Hidden Dreams in the Depths" Version 2.7 Update Details
 ## Version 2.7 Update Details
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/31/5a1200fe04b60feb87c95701ac883c4a_6004928826916346460.jpg)
@@ -825,26 +845,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/07/11 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
