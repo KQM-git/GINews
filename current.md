@@ -648,6 +648,26 @@ Permanently Available
 
 -----
 
+# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
+## Ley Line Overflow
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
+
+Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
+
+**〓Event Duration〓**
+
+2022/07/04 04:00:00 (server) - 2022/07/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
+
+-----
+
 # "Core of the Apparatus" Event: Make Robot Furnishings
 ## Core of the Apparatus
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/20cb154c6001f75a464ac314c92605a8_3376091702538901473.jpg)
