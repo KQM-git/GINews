@@ -108,6 +108,36 @@ Fixes an issue whereby the graphics quality of the game on iPad Air (4th generat
 
 -----
 
+# Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards. Time to take on an adventure in The Chasm with Slimes!
+## Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/20/f29be664464d2762d97c27315cab69f2_923235982077301679.jpg)
+
+The limited-time web event "Bouncing Blobby Slimes" is now available. Recharge your batteries and take on an adventure in The Chasm with Slimes!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220517-jump-eola/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e202206114jump&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/07/04 – 2022/07/10 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, Travelers can log in to Genshin Impact daily, complete Daily Commissions, and consume Original Resin to obtain Stamina for the Bouncing Adventure and claim the event item Blob Coin. You may use Blob Coins to exchange for Primogems and other event rewards.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓Event Rewards〓
+
+Exchange for all the rewards in Blob Store to obtain Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, and Mora ×50,000.
+
+-----
+
 # "Hidden Dreams in the Depths" Version 2.7 Update Details
 ## Version 2.7 Update Details
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/31/5a1200fe04b60feb87c95701ac883c4a_6004928826916346460.jpg)
