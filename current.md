@@ -46,146 +46,6 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
-# Version Details - What's New 
-## Update Summary
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
-
-The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
-
-*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
-
-When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
-
-When playing in Japanese, German, English, Indonesian, Portuguese, and Vietnamese, there is an issue whereby some subtitles were missing in the  cutscene animations of individual quests. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-〓Update Content 2022/06/23 16:05:00 (global)〓
-
-Fixes an issue with the "Events Overview" interface whereby there is a probability that the red notification dot was still indicated after the event "Perilous Trail" has ended.
-
-Fixes an issue with the Story Quest "Gang Bylaws" whereby there is a small probability that this quest might not appear in the Quest Menu when carrying out the quest objective "Track Mamoru and the others down."
-
-Travelers affected by the issues mentioned above can restart the game to continue playing normally.
-
-〓Update Content 2022/06/16 16:10:00 (global)〓
-
-Updates resources related to subsequent events.
-
-Fixes an issue on PC in the "City of Hidden Runes" of the Archon Quest "Danger All Around" whereby Travelers using the French input method were unable to use the keyboard to operate the Lightshapers to illuminate and activate the large symbols. Travelers who encounter this issue can log out through the Paimon Menu and close the client before logging back in, reverting to the French input method, and clicking "Restore Defaults" in Settings > Controls.
-
-〓Update Content 2022/06/09 16:30:00 (global)〓
-
-Fixes an issue whereby some interfaces were displayed abnormally.
-
-〓Update Content 2022/06/09 11:45:00 (global)〓
-
-Fixed an issue whereby the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata after Yelan releases her Elemental Burst.
-
-▌Issue Fix Compensation
-
-●Compensation
-
-Primogem x100
-
-●Eligibility
-
-Travelers that have reached Adventure Rank 5 or above before 2022/06/09 16:00:00 (global).
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim your compensation before 2022/06/12 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
-
-Fixes an issue whereby after the Version 2.7 update, the special effects of Childe's Talent "Riptide Burst" would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
-
-Fixes an issue whereby after the Version 2.7 update, the Wolf Within special effects of Razor's idle animation and Elemental Burst would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
-
-Replaces the incorrect "Realms of Guile and War" Domain gameplay tutorial image in the "Perilous Trail" event.
-
-Fixes an issue whereby some environments are not displayed properly after teleporting from certain parts of the "Enkanomiya" area to "The Chasm: The Underground Mines."
-
-Fixes an issue in Japanese whereby the name of The Serpent's Cave in "The Chasm: The Underground Mines" was displayed abnormally.
-
-Fixes an issue whereby there is a localization error in Korean for the cutscene animation in the Archon Quest "At Tunnel's End, Light."
-
-〓Update Content 2022/06/03 16:10:00 (global)〓
-
-Fixes an issue with the Story Quest "Candidature Analysis" whereby there is a small chance that some Places of Interest disappeared when carrying out the quest objective "Investigate the abandoned camp," causing the quest objective to be unable to be completed.
-
-Fixes an issue whereby when there are emails in some languages (such as Thai) in the Mailbox, even if the number of the emails have not reached the limit, the message "Some mail is not displayed" may appear on the mail opening interface. The issue whereby some emails in the Gift Mail Box are not displayed normally will be fixed in a subsequent version update. Travelers who encounter this problem do not need to delete their in-game mail; other than Gift Mail Box, other mail functions can still be used normally.
-
-〓Update Content 2022/06/03 10:35:00 (global)〓
-
-Fixes an issue whereby the "Abyssal Moon Spire - Summary" and "Challenge Summary" pages in the game would freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
-
-〓Update Content 2022/06/01 14:40:00 (global)〓
-
-Fixes an issue with the Archon Quest "Danger All Around" whereby Travelers may not be able to control their characters if they reconnect to the server during a conversation when carrying out the quest objective "Examine the mysterious door in front of you."
-
-Travelers who encounter this issue can enter the Domain again to continue the quest.
-
-〓Update Content 2022/06/01 02:00:00 (global)〓
-
-Fixes an issue whereby the "Events Overview" and "Mail" pages would display abnormally or freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
-
-Travelers affected by these issues can restart the game to continue playing normally.
-
-〓Update Content 2022/05/31 20:18:00 (global)〓
-
-Fixes an issue whereby during the "Perilous Trail" event, the Adventure Rank requirement of the Archon Quest "Perilous Trail" was incorrectly configured as AR 40 and above. After this fix, the Adventure Rank required to start the quest will be AR 28 and above.
-
-▌Issue Fix Compensation
-
-● Compensation
-
-Primogems ×60
-
-● Eligibility
-
-Travelers who have logged into the game after the Version 2.7 update and before the problem was fixed, with an Adventure Rank of AR 28–39 (inclusive of AR 28 and AR 39).
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim the mail before 2022/06/07 23:59:59 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-Fixes an issue whereby the graphics quality of the game on iPad Air (4th generation) devices did not match the settings after the Version 2.7 update. Travelers can reset the desired graphics quality in Settings > Graphics as needed.
-
------
-
-# Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards. Time to take on an adventure in The Chasm with Slimes!
-## Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/20/f29be664464d2762d97c27315cab69f2_923235982077301679.jpg)
-
-The limited-time web event "Bouncing Blobby Slimes" is now available. Recharge your batteries and take on an adventure in The Chasm with Slimes!
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220517-jump-eola/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e202206114jump&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2022/07/04 – 2022/07/10 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, Travelers can log in to Genshin Impact daily, complete Daily Commissions, and consume Original Resin to obtain Stamina for the Bouncing Adventure and claim the event item Blob Coin. You may use Blob Coins to exchange for Primogems and other event rewards.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-〓Event Rewards〓
-
-Exchange for all the rewards in Blob Store to obtain Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, and Mora ×50,000.
-
------
-
 # "Hidden Dreams in the Depths" Version 2.7 Update Details
 ## Version 2.7 Update Details
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/31/5a1200fe04b60feb87c95701ac883c4a_6004928826916346460.jpg)
@@ -583,6 +443,146 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
+
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
+
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
+
+When playing in Japanese, German, English, Indonesian, Portuguese, and Vietnamese, there is an issue whereby some subtitles were missing in the  cutscene animations of individual quests. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓Update Content 2022/06/23 16:05:00 (global)〓
+
+Fixes an issue with the "Events Overview" interface whereby there is a probability that the red notification dot was still indicated after the event "Perilous Trail" has ended.
+
+Fixes an issue with the Story Quest "Gang Bylaws" whereby there is a small probability that this quest might not appear in the Quest Menu when carrying out the quest objective "Track Mamoru and the others down."
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+〓Update Content 2022/06/16 16:10:00 (global)〓
+
+Updates resources related to subsequent events.
+
+Fixes an issue on PC in the "City of Hidden Runes" of the Archon Quest "Danger All Around" whereby Travelers using the French input method were unable to use the keyboard to operate the Lightshapers to illuminate and activate the large symbols. Travelers who encounter this issue can log out through the Paimon Menu and close the client before logging back in, reverting to the French input method, and clicking "Restore Defaults" in Settings > Controls.
+
+〓Update Content 2022/06/09 16:30:00 (global)〓
+
+Fixes an issue whereby some interfaces were displayed abnormally.
+
+〓Update Content 2022/06/09 11:45:00 (global)〓
+
+Fixed an issue whereby the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata after Yelan releases her Elemental Burst.
+
+▌Issue Fix Compensation
+
+●Compensation
+
+Primogem x100
+
+●Eligibility
+
+Travelers that have reached Adventure Rank 5 or above before 2022/06/09 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim your compensation before 2022/06/12 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+
+Fixes an issue whereby after the Version 2.7 update, the special effects of Childe's Talent "Riptide Burst" would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
+
+Fixes an issue whereby after the Version 2.7 update, the Wolf Within special effects of Razor's idle animation and Elemental Burst would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
+
+Replaces the incorrect "Realms of Guile and War" Domain gameplay tutorial image in the "Perilous Trail" event.
+
+Fixes an issue whereby some environments are not displayed properly after teleporting from certain parts of the "Enkanomiya" area to "The Chasm: The Underground Mines."
+
+Fixes an issue in Japanese whereby the name of The Serpent's Cave in "The Chasm: The Underground Mines" was displayed abnormally.
+
+Fixes an issue whereby there is a localization error in Korean for the cutscene animation in the Archon Quest "At Tunnel's End, Light."
+
+〓Update Content 2022/06/03 16:10:00 (global)〓
+
+Fixes an issue with the Story Quest "Candidature Analysis" whereby there is a small chance that some Places of Interest disappeared when carrying out the quest objective "Investigate the abandoned camp," causing the quest objective to be unable to be completed.
+
+Fixes an issue whereby when there are emails in some languages (such as Thai) in the Mailbox, even if the number of the emails have not reached the limit, the message "Some mail is not displayed" may appear on the mail opening interface. The issue whereby some emails in the Gift Mail Box are not displayed normally will be fixed in a subsequent version update. Travelers who encounter this problem do not need to delete their in-game mail; other than Gift Mail Box, other mail functions can still be used normally.
+
+〓Update Content 2022/06/03 10:35:00 (global)〓
+
+Fixes an issue whereby the "Abyssal Moon Spire - Summary" and "Challenge Summary" pages in the game would freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
+
+〓Update Content 2022/06/01 14:40:00 (global)〓
+
+Fixes an issue with the Archon Quest "Danger All Around" whereby Travelers may not be able to control their characters if they reconnect to the server during a conversation when carrying out the quest objective "Examine the mysterious door in front of you."
+
+Travelers who encounter this issue can enter the Domain again to continue the quest.
+
+〓Update Content 2022/06/01 02:00:00 (global)〓
+
+Fixes an issue whereby the "Events Overview" and "Mail" pages would display abnormally or freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
+
+Travelers affected by these issues can restart the game to continue playing normally.
+
+〓Update Content 2022/05/31 20:18:00 (global)〓
+
+Fixes an issue whereby during the "Perilous Trail" event, the Adventure Rank requirement of the Archon Quest "Perilous Trail" was incorrectly configured as AR 40 and above. After this fix, the Adventure Rank required to start the quest will be AR 28 and above.
+
+▌Issue Fix Compensation
+
+● Compensation
+
+Primogems ×60
+
+● Eligibility
+
+Travelers who have logged into the game after the Version 2.7 update and before the problem was fixed, with an Adventure Rank of AR 28–39 (inclusive of AR 28 and AR 39).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim the mail before 2022/06/07 23:59:59 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+Fixes an issue whereby the graphics quality of the game on iPad Air (4th generation) devices did not match the settings after the Version 2.7 update. Travelers can reset the desired graphics quality in Settings > Graphics as needed.
+
+-----
+
+# Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards. Time to take on an adventure in The Chasm with Slimes!
+## Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/20/f29be664464d2762d97c27315cab69f2_923235982077301679.jpg)
+
+The limited-time web event "Bouncing Blobby Slimes" is now available. Recharge your batteries and take on an adventure in The Chasm with Slimes!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220517-jump-eola/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e202206114jump&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/07/04 – 2022/07/10 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, Travelers can log in to Genshin Impact daily, complete Daily Commissions, and consume Original Resin to obtain Stamina for the Bouncing Adventure and claim the event item Blob Coin. You may use Blob Coins to exchange for Primogems and other event rewards.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓Event Rewards〓
+
+Exchange for all the rewards in Blob Store to obtain Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, and Mora ×50,000.
 
 -----
 
