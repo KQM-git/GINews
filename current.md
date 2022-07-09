@@ -556,6 +556,22 @@ Fixes an issue whereby the graphics quality of the game on iPad Air (4th generat
 
 -----
 
+# "Summer Fantasia" Preview Page Now Online
+## Constant Updates for Version 2.8 Preview Page!
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/05/35ddaf43119593550633a7f4784438b5_6976449024688891574.jpg)
+
+[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/index.html?gamewebview=1&page_sn=c82261e0fe0f432d&mode=fullscreen&game_biz=hk4e_global&sign_type=2&auth_appid=bluepost&authkey_ver=1#/update)
+
+The "Summer Fantasia" preview page is now available.
+
+This preview page contains all kinds of official information and event details related to Version 2.8. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.8.
+
+After the Version 2.8 update, open the Paimon Menu and click the "Version Highlights" button to enter this preview page.
+
+This preview page will be continuously updated with version content during Version 2.8. Stay tuned, Travelers!
+
+-----
+
 # Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards. Time to take on an adventure in The Chasm with Slimes!
 ## Bouncing Blobby Slimes: Take part to obtain Primogems and other rewards
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/20/f29be664464d2762d97c27315cab69f2_923235982077301679.jpg)
