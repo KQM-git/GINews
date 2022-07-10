@@ -664,56 +664,6 @@ Permanently Available
 
 -----
 
-# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
-## Ley Line Overflow
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
-
-Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
-
-**〓Event Duration〓**
-
-2022/07/04 04:00:00 (server) - 2022/07/11 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
-
------
-
-# "Core of the Apparatus" Event: Make Robot Furnishings
-## Core of the Apparatus
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/20cb154c6001f75a464ac314c92605a8_3376091702538901473.jpg)
-
-During the event, help Bertrand, a Fontaine mechanical toymaker in Inazuma, gather materials and build test products to obtain redemption vouchers. Use redemption vouchers to exchange for robotic furnishings. Complete the designated challenges to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mora, and other rewards.
-
-**〓Event Duration〓**
-
-2022/06/29 10:00:00 (server) - 2022/07/11 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I - The Immovable God and the Eternal Euthymia"
-
-Complete the World Quest "Chisato's Letter"
-
-**〓Event Details〓**
-
-● During the event, equip the gadget "Material Collector" to complete the three processes, namely "Source Material Collection," "Elemental Charge," and "Core Activation." When you have collected the required amount of materials, the Material Collector's progress will increase. After the progress reaches 100%, you will enter the next process.
-
-● Complete the above three processes to make robotic furnishings. The design and movement of the robot are related to the above three processes. There is a certain probability of creating a random model or a special robotic furnishing that can do all movements. You can view the processes necessary to create the robotic furnishings of different designs and movements in the archive guide page.
-
-● Complete making robotic furnishings of different designs and movements to obtain corresponding redemption vouchers. Use redemption vouchers to exchange with Bertrand to obtain robotic furnishings of corresponding designs and movements.
-
-● During the event, complete the designated challenge quests to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Mora, and other rewards.
-
------
-
 # Event Wish "Oni's Royale" - Boosted Drop Rate for "Hanamizaka Heroics" Arataki Itto (Geo)!
 ## Event Wish - Oni's Royale
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/43a9de79022c352b2cad871a215a59a5_3651823470742690787.jpg)
@@ -797,30 +747,6 @@ Adventure Rank 40 or above
 Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul"
 
 And complete Archon Quest "Interlude Chapter: Act II - Perilous Trail"
-
------
-
-# "Gorge Sunset" Event Details
-## Gorge Sunset
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/05/23/ddd90bc2a3254c76e8bfbf9b3f0c3230_2932936784555571391.jpg)
-
-Travelers can earn rich rewards in "Gorge Sunset" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Divine Will" and Furnishing Blueprint "Stoneworks Crane: Mountain Mover."
-
-**〓Event Duration〓**
-
-After the Version 2.7 update – 2022/07/11 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/07/11 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
