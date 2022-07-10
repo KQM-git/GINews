@@ -602,20 +602,6 @@ Exchange for all the rewards in Blob Store to obtain Primogems ×120, Mystic Enh
 
 -----
 
-# The Version 2.8 "Summer Fantasia" Preview page is here!
-## Genshin Impact Version 2.8 Preview
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/01/aedc184449ba888ec49d32e8d969736d_8388621624366449344.jpg)
-
-Dear Traveler,
-
-The Version 2.8 "Summer Fantasia" Preview page is here!
-
-[>>Go to V2.8 "Summer Fantasia" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220703prev-wiz6/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220703warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Hidden Dreams in the Depths" Preview Page Now Online
 ## "Hidden Dreams in the Depths" Preview Page Now Online
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/28/4bb53d3f5fceea5416b25e8d419ae2c2_2190641161672091328.jpg)
