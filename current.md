@@ -1,3 +1,230 @@
+# "Summer Fantasia" Version 2.8 Update Notice
+## Version 2.8 Update Notice
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/05/819fbf89f7c031438f2514a4fe525788_5002567821487039228.jpg)
+
+Dear Traveler,
+
+Our developers will soon begin performing update maintenance. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please take note of the update time and schedule your game time accordingly
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+This Version Update Notice presents the overview of Version 2.8: limited-time area, new character, new equipment, new events, new outfits, new stories, and more. The Optimizations section will detail the optimization and adjustment of enemies, system, and audio, etc.
+
+〓Update Schedule〓
+
+Update maintenance begins 2022/07/13 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/07/13 06:00:00 (global)
+
+Please claim before the end of Version 2.8.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Details〓
+
+I. Limited-Time Area: Golden Apple Archipelago (This area is only available during Version 2.8)
+
+Golden Apple Archipelago
+
+◆ Area Unlock Criteria:
+
+• Reach Adventure Rank 32 or above
+
+• Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
+
+• Complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
+
+◆ During the event, the Adventure Rank required to accept Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars" will be adjusted to 32.
+
+◆ The Golden Apple Archipelago will no longer be accessible after the end of Version 2.8. You will also no longer be able to open treasure chests, gather materials, or earn quest rewards on the islands, so grab the opportunity to explore away!
+
+II. New Character
+
+4-Star Character "Analytical Harmony" Shikanoin Heizou
+
+◇ Vision: Anemo
+
+◇ Weapon: Catalyst
+
+◇ A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.
+
+III. New Equipment
+
+Cursed Blade (4-Star Sword)
+
+*Take part in the Version 2.8 quest storyline to learn more about this weapon.
+
+IV. New Events
+
+"Summertime Odyssey" Event: Take part to invite "Prinzessin der Verurteilung!" Fischl (Electro)
+
+During the event, complete the specified tasks in "Surfpiercer" and "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore. Complete the "Phantom Realms" challenges to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
+
+▌Event Duration
+
+**Event Details** | **Event Details** | **Start Time**  | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Surfpiercer | 2022/07/15 10:00:00 (server) | End of Version 2.8
+^ | Phantom Realm: Misty Hills, Foggy Vales | 2022/07/16 04:00:00 (server) | ^
+^ | Phantom Realm: The Islands' Stirring Strings | 2022/07/17 04:00:00 (server) | ^
+^ | Phantom Realm: Immernachtreich Keep | 2022/07/18 04:00:00 (server) | ^
+^ | Phantom Realm: Temple of the Star Latitudes | 2022/07/19 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2022/07/16 04:00:00 (server) | ^
+
+▌Eligibility
+
+Reach Adventure Rank 32 or above
+
+Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
+
+And complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
+
+During this time, the Adventure Rank required to accept Mona's Story Quest will be adjusted to Adventure Rank 32. Complete Mona's Story Quest to enhance your experience.
+
+※ If you have not completed Mona's Story Quest, you can enter the event through "Quick Start" in the event page.
+
+V. New Outfits
+
+Diluc - Red Dead of Night
+
+◇ One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever.
+
+Fischl - Ein Immernachtstraum
+
+◇ A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her.
+
+VI. New Main Story
+
+1. New Story Quest
+
+Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
+
+2. New Hangout Event
+
+Hangout Event: Shikanoin Heizou - Act I "Trap 'Em by Storm"
+
+3. New World Quests
+
+◆ New limited-time World Quests: "The Treasure of the Four Skerries," "Thus Was the Work Done in Vain," "Treasure Voyage," "The Final Treasure," "Drama Phantasmagoria: Tale of the Sword-Wielding Princess!," "Bake-Danuki Wanderlust," "The Misplaced Photo," "The Discarded Insignia," and "A Misplaced Conch."
+
+◆ New World Quest: "Film Notes."
+
+VII. Other Additions
+
+New Recipe: The Only Truth
+
+New Achievements added to the "Memories of the Heart" categories
+
+New Namecards: "Shikanoin Heizou: Temari" and "Travel Notes: Azure Main"
+
+Adds the "Adventurer Handbook - Guide" page to the Adventurer Handbook: it shows the recommended priority quests to be completed.
+
+Adds the "Adventurer Handbook - Embattle" page to the Adventurer Handbook: ascend characters of various elements (except the "Traveler") and complete the Elemental Trials in the Temple of the Lion to receive the corresponding rewards.
+
+Adds tutorials related to the use of Fragile Resin for beginners.
+
+Adds some prompts for loading screens.
+
+Spiral Abyss
+
+Floor 11 Ley Line Disorders changed to:
+
+• All party members receive a 75% Pyro DMG Bonus.
+
+Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 2.8, the three Lunar Phases will be as follows：
+
+Phase I:
+
+Valiant Moon
+
+When a character takes the field, they will gain 1 Fortitude stack every 2s. This will increase their ATK by 20%. Max 3 stacks. When characters with 3 Fortitude stacks hit opponents with Charged Attacks, a shockwave will be unleashed at the opponents' position, dealing True DMG. A shockwave can be unleashed in this manner once every 2s. When the character leaves the field, all their Fortitude stacks will be cleared.
+
+Phase II:
+
+Windswept Moon
+
+When a character triggers Swirl on an opponent, that opponent's DEF is decreased by 12% for 10s. Max 3 stacks. Each stack's duration is counted independently.
+
+Phase III:
+
+Shivered Moon
+
+After the active character's Normal, Charged, or Plunging Attacks hit opponents, that character's Normal, Charged, and Plunging Attack DMG is increased by 12% for 8s. This effect can be triggered once every 0.1s. Max 4 stacks. Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.
+
+*The effects of some Chinese voice-over lines in the Version 2.8 update may be affected by the recording conditions. We seek your kind understanding on this matter.
+
+〓Adjustments & Optimizations〓
+
+● Enemies
+
+Reduces the ATK of Nobushi: Jintouban, Nobushi: Kikouban, Nobushi: Hitsukeban, Kairagi: Fiery Might, Kairagi: Dancing Thunder, and Specters in Worlds with a World Level of 3–6.
+
+Optimizes the performance of Rifthounds after being hit.
+
+Adjusts the performance of Specters after being hit and launched.
+
+Reduces Specters' HP and resistance to interruption, and increases the HP Percentage to fill up the Fury meter of Specters.
+
+Adjusts part of the Specters' behavior logic: it can be affected by the pull effect when it is not in the "expanded" state.
+
+● System
+
+When picking up an item drop, the icon of the drop will also show the number of its stacks if its stack is greater than 1.
+
+Optimizes the attribute filtering of Artifacts, giving priority to displaying Artifacts whose primary attribute is the filtered attribute.
+
+Adds "Traveler" Character Level-Up prompts to the character screen.
+
+● Audio
+
+Adds Receiving a Gift voice-over lines for some characters in "Character > Profile."
+
+Optimizes the sound effects for certain character attacks.
+
+Optimizes the volume performance of some cutscene animations.
+
+Optimizes the Japanese, English, and Korean voice-over for certain characters, quests, and NPCs.
+
+Adjusts the Korean voice-over of Venti to be consistent with the subtitles.
+
+● Other
+
+During the same period of Event Wishes, when you enter the Wish interface again, the page will retain the Wish interface selected when you exited last time.
+
+Changes the "Guide" page to "Version Highlights" in the Paimon Menu.
+
+Fixes an issue whereby buttons may conflict in the "Character Selection" interface when using a controller: in the "Character Selection" interface, the Claim Friendship Rewards button will be hidden and the corresponding function of the L3 button will be to carry out filtering.
+
+When using a controller, the Purchase button and purchase function of items that are not available for purchase or redemption in the Event Shop will be disabled.
+
+*For details on other bug fixes, please see the Version Update Details notice to be posted at 2022/07/13 07:00:00 (global).
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # Pre-Installation Function Coming Soon
 ## Pre-Installation Function Coming Soon
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
