@@ -1,3 +1,47 @@
+# Pre-Installation Function Now Available
+## Pre-Installation Function Now Available
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
+
+Dear Travelers,
+
+The pre-installation function is now available on both PC and mobile platforms.
+
+Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
+
+When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
+
+Travelers on mobile platforms will be unable to play the game while pre-installing game resources. It's recommended that Travelers complete any Domains or other challenges they wish to finish first before beginning the pre-installation process.
+
+Travelers on PC can still play the game while pre-installing game resources. Pre-installation will take up a certain amount of your network's bandwidth, so it's best to make sure you have a good network connection before beginning pre-installation.
+
+After pre-installation is complete, Travelers can update the game and experience new version content faster.
+
+**〓How to Update〓**
+
+Mobile (iOS & Android)
+
+Method 1: Travelers may begin pre-installing update resources by going to the Paimon Menu > Settings > Other > Pre-Install Resource Package.
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/68a9fceeba35ae753c1af63b6e643985_6581160582160153510.jpg)
+
+Method 2: Travelers may also begin pre-installing update resources by tapping the "Pre-Install Resource Package" icon in the bottom-left corner of the login screen.
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/713ee4fb32a360d87ca3307282ce51c1_3349484738719370436.jpg)
+
+When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
+
+Using the pre-installation function will reduce the time that the game spends updating resources on the first time you enter a new version, even if you did not fully complete pre-installation.
+
+PC:
+
+After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
+
+Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
 # "Acer Palmatum Chapter" Story Quest Overview
 ## Acer Palmatum Chapter
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/7bdb979aac9528c6632c73ea8d92d180_7754801340457402982.jpg)
@@ -228,50 +272,6 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 120 Ge
 
 -----
 
-# Pre-Installation Function Now Available
-## Pre-Installation Function Now Available
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
-
-Dear Travelers,
-
-The pre-installation function is now available on both PC and mobile platforms.
-
-Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
-
-When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
-
-Travelers on mobile platforms will be unable to play the game while pre-installing game resources. It's recommended that Travelers complete any Domains or other challenges they wish to finish first before beginning the pre-installation process.
-
-Travelers on PC can still play the game while pre-installing game resources. Pre-installation will take up a certain amount of your network's bandwidth, so it's best to make sure you have a good network connection before beginning pre-installation.
-
-After pre-installation is complete, Travelers can update the game and experience new version content faster.
-
-**〓How to Update〓**
-
-Mobile (iOS & Android)
-
-Method 1: Travelers may begin pre-installing update resources by going to the Paimon Menu > Settings > Other > Pre-Install Resource Package.
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/68a9fceeba35ae753c1af63b6e643985_6581160582160153510.jpg)
-
-Method 2: Travelers may also begin pre-installing update resources by tapping the "Pre-Install Resource Package" icon in the bottom-left corner of the login screen.
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/713ee4fb32a360d87ca3307282ce51c1_3349484738719370436.jpg)
-
-When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
-
-Using the pre-installation function will reduce the time that the game spends updating resources on the first time you enter a new version, even if you did not fully complete pre-installation.
-
-PC:
-
-After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
-
-Using the pre-installation function can speed up the update progress of the launcher during version updates.
-
------
-
 # "Summer Fantasia" Version 2.8 Update Notice
 ## Version 2.8 Update Notice
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/05/819fbf89f7c031438f2514a4fe525788_5002567821487039228.jpg)
@@ -496,6 +496,116 @@ When using a controller, the Purchase button and purchase function of items that
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
+
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
+
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
+
+When playing in Japanese, German, English, Indonesian, Portuguese, and Vietnamese, there is an issue whereby some subtitles were missing in the  cutscene animations of individual quests. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓Update Content 2022/06/23 16:05:00 (global)〓
+
+Fixes an issue with the "Events Overview" interface whereby there is a probability that the red notification dot was still indicated after the event "Perilous Trail" has ended.
+
+Fixes an issue with the Story Quest "Gang Bylaws" whereby there is a small probability that this quest might not appear in the Quest Menu when carrying out the quest objective "Track Mamoru and the others down."
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+〓Update Content 2022/06/16 16:10:00 (global)〓
+
+Updates resources related to subsequent events.
+
+Fixes an issue on PC in the "City of Hidden Runes" of the Archon Quest "Danger All Around" whereby Travelers using the French input method were unable to use the keyboard to operate the Lightshapers to illuminate and activate the large symbols. Travelers who encounter this issue can log out through the Paimon Menu and close the client before logging back in, reverting to the French input method, and clicking "Restore Defaults" in Settings > Controls.
+
+〓Update Content 2022/06/09 16:30:00 (global)〓
+
+Fixes an issue whereby some interfaces were displayed abnormally.
+
+〓Update Content 2022/06/09 11:45:00 (global)〓
+
+Fixed an issue whereby the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata after Yelan releases her Elemental Burst.
+
+▌Issue Fix Compensation
+
+●Compensation
+
+Primogem x100
+
+●Eligibility
+
+Travelers that have reached Adventure Rank 5 or above before 2022/06/09 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim your compensation before 2022/06/12 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+
+Fixes an issue whereby after the Version 2.7 update, the special effects of Childe's Talent "Riptide Burst" would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
+
+Fixes an issue whereby after the Version 2.7 update, the Wolf Within special effects of Razor's idle animation and Elemental Burst would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
+
+Replaces the incorrect "Realms of Guile and War" Domain gameplay tutorial image in the "Perilous Trail" event.
+
+Fixes an issue whereby some environments are not displayed properly after teleporting from certain parts of the "Enkanomiya" area to "The Chasm: The Underground Mines."
+
+Fixes an issue in Japanese whereby the name of The Serpent's Cave in "The Chasm: The Underground Mines" was displayed abnormally.
+
+Fixes an issue whereby there is a localization error in Korean for the cutscene animation in the Archon Quest "At Tunnel's End, Light."
+
+〓Update Content 2022/06/03 16:10:00 (global)〓
+
+Fixes an issue with the Story Quest "Candidature Analysis" whereby there is a small chance that some Places of Interest disappeared when carrying out the quest objective "Investigate the abandoned camp," causing the quest objective to be unable to be completed.
+
+Fixes an issue whereby when there are emails in some languages (such as Thai) in the Mailbox, even if the number of the emails have not reached the limit, the message "Some mail is not displayed" may appear on the mail opening interface. The issue whereby some emails in the Gift Mail Box are not displayed normally will be fixed in a subsequent version update. Travelers who encounter this problem do not need to delete their in-game mail; other than Gift Mail Box, other mail functions can still be used normally.
+
+〓Update Content 2022/06/03 10:35:00 (global)〓
+
+Fixes an issue whereby the "Abyssal Moon Spire - Summary" and "Challenge Summary" pages in the game would freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
+
+〓Update Content 2022/06/01 14:40:00 (global)〓
+
+Fixes an issue with the Archon Quest "Danger All Around" whereby Travelers may not be able to control their characters if they reconnect to the server during a conversation when carrying out the quest objective "Examine the mysterious door in front of you."
+
+Travelers who encounter this issue can enter the Domain again to continue the quest.
+
+〓Update Content 2022/06/01 02:00:00 (global)〓
+
+Fixes an issue whereby the "Events Overview" and "Mail" pages would display abnormally or freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
+
+Travelers affected by these issues can restart the game to continue playing normally.
+
+〓Update Content 2022/05/31 20:18:00 (global)〓
+
+Fixes an issue whereby during the "Perilous Trail" event, the Adventure Rank requirement of the Archon Quest "Perilous Trail" was incorrectly configured as AR 40 and above. After this fix, the Adventure Rank required to start the quest will be AR 28 and above.
+
+▌Issue Fix Compensation
+
+● Compensation
+
+Primogems ×60
+
+● Eligibility
+
+Travelers who have logged into the game after the Version 2.7 update and before the problem was fixed, with an Adventure Rank of AR 28–39 (inclusive of AR 28 and AR 39).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim the mail before 2022/06/07 23:59:59 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+Fixes an issue whereby the graphics quality of the game on iPad Air (4th generation) devices did not match the settings after the Version 2.7 update. Travelers can reset the desired graphics quality in Settings > Graphics as needed.
 
 -----
 
@@ -896,116 +1006,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
-
-The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
-
-*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
-
-When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-There is an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." The disappearance of this item will not affect the progress and completion of any relevant quest, and Travelers can continue the quest as normal. This issue will be fixed in the Version 2.8 update and the missing item will be restored after the fix.
-
-When playing in Japanese, German, English, Indonesian, Portuguese, and Vietnamese, there is an issue whereby some subtitles were missing in the  cutscene animations of individual quests. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-〓Update Content 2022/06/23 16:05:00 (global)〓
-
-Fixes an issue with the "Events Overview" interface whereby there is a probability that the red notification dot was still indicated after the event "Perilous Trail" has ended.
-
-Fixes an issue with the Story Quest "Gang Bylaws" whereby there is a small probability that this quest might not appear in the Quest Menu when carrying out the quest objective "Track Mamoru and the others down."
-
-Travelers affected by the issues mentioned above can restart the game to continue playing normally.
-
-〓Update Content 2022/06/16 16:10:00 (global)〓
-
-Updates resources related to subsequent events.
-
-Fixes an issue on PC in the "City of Hidden Runes" of the Archon Quest "Danger All Around" whereby Travelers using the French input method were unable to use the keyboard to operate the Lightshapers to illuminate and activate the large symbols. Travelers who encounter this issue can log out through the Paimon Menu and close the client before logging back in, reverting to the French input method, and clicking "Restore Defaults" in Settings > Controls.
-
-〓Update Content 2022/06/09 16:30:00 (global)〓
-
-Fixes an issue whereby some interfaces were displayed abnormally.
-
-〓Update Content 2022/06/09 11:45:00 (global)〓
-
-Fixed an issue whereby the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata after Yelan releases her Elemental Burst.
-
-▌Issue Fix Compensation
-
-●Compensation
-
-Primogem x100
-
-●Eligibility
-
-Travelers that have reached Adventure Rank 5 or above before 2022/06/09 16:00:00 (global).
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim your compensation before 2022/06/12 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
-
-Fixes an issue whereby after the Version 2.7 update, the special effects of Childe's Talent "Riptide Burst" would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
-
-Fixes an issue whereby after the Version 2.7 update, the Wolf Within special effects of Razor's idle animation and Elemental Burst would display abnormally (actual combat effects are not affected). After the fix, the effect performance will be the same as before the Version 2.7 update.
-
-Replaces the incorrect "Realms of Guile and War" Domain gameplay tutorial image in the "Perilous Trail" event.
-
-Fixes an issue whereby some environments are not displayed properly after teleporting from certain parts of the "Enkanomiya" area to "The Chasm: The Underground Mines."
-
-Fixes an issue in Japanese whereby the name of The Serpent's Cave in "The Chasm: The Underground Mines" was displayed abnormally.
-
-Fixes an issue whereby there is a localization error in Korean for the cutscene animation in the Archon Quest "At Tunnel's End, Light."
-
-〓Update Content 2022/06/03 16:10:00 (global)〓
-
-Fixes an issue with the Story Quest "Candidature Analysis" whereby there is a small chance that some Places of Interest disappeared when carrying out the quest objective "Investigate the abandoned camp," causing the quest objective to be unable to be completed.
-
-Fixes an issue whereby when there are emails in some languages (such as Thai) in the Mailbox, even if the number of the emails have not reached the limit, the message "Some mail is not displayed" may appear on the mail opening interface. The issue whereby some emails in the Gift Mail Box are not displayed normally will be fixed in a subsequent version update. Travelers who encounter this problem do not need to delete their in-game mail; other than Gift Mail Box, other mail functions can still be used normally.
-
-〓Update Content 2022/06/03 10:35:00 (global)〓
-
-Fixes an issue whereby the "Abyssal Moon Spire - Summary" and "Challenge Summary" pages in the game would freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
-
-〓Update Content 2022/06/01 14:40:00 (global)〓
-
-Fixes an issue with the Archon Quest "Danger All Around" whereby Travelers may not be able to control their characters if they reconnect to the server during a conversation when carrying out the quest objective "Examine the mysterious door in front of you."
-
-Travelers who encounter this issue can enter the Domain again to continue the quest.
-
-〓Update Content 2022/06/01 02:00:00 (global)〓
-
-Fixes an issue whereby the "Events Overview" and "Mail" pages would display abnormally or freeze when playing on a PC with the system regional format set to Arabic, or on a PS5™ or PS4™ console with the system language set to Arabic.
-
-Travelers affected by these issues can restart the game to continue playing normally.
-
-〓Update Content 2022/05/31 20:18:00 (global)〓
-
-Fixes an issue whereby during the "Perilous Trail" event, the Adventure Rank requirement of the Archon Quest "Perilous Trail" was incorrectly configured as AR 40 and above. After this fix, the Adventure Rank required to start the quest will be AR 28 and above.
-
-▌Issue Fix Compensation
-
-● Compensation
-
-Primogems ×60
-
-● Eligibility
-
-Travelers who have logged into the game after the Version 2.7 update and before the problem was fixed, with an Adventure Rank of AR 28–39 (inclusive of AR 28 and AR 39).
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please log in and claim the mail before 2022/06/07 23:59:59 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-Fixes an issue whereby the graphics quality of the game on iPad Air (4th generation) devices did not match the settings after the Version 2.7 update. Travelers can reset the desired graphics quality in Settings > Graphics as needed.
 
 -----
 
