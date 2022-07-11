@@ -1,3 +1,47 @@
+# Pre-Installation Function Now Available
+## Pre-Installation Function Now Available
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
+
+Dear Travelers,
+
+The pre-installation function is now available on both PC and mobile platforms.
+
+Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
+
+When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
+
+Travelers on mobile platforms will be unable to play the game while pre-installing game resources. It's recommended that Travelers complete any Domains or other challenges they wish to finish first before beginning the pre-installation process.
+
+Travelers on PC can still play the game while pre-installing game resources. Pre-installation will take up a certain amount of your network's bandwidth, so it's best to make sure you have a good network connection before beginning pre-installation.
+
+After pre-installation is complete, Travelers can update the game and experience new version content faster.
+
+**〓How to Update〓**
+
+Mobile (iOS & Android)
+
+Method 1: Travelers may begin pre-installing update resources by going to the Paimon Menu > Settings > Other > Pre-Install Resource Package.
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/68a9fceeba35ae753c1af63b6e643985_6581160582160153510.jpg)
+
+Method 2: Travelers may also begin pre-installing update resources by tapping the "Pre-Install Resource Package" icon in the bottom-left corner of the login screen.
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/713ee4fb32a360d87ca3307282ce51c1_3349484738719370436.jpg)
+
+When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
+
+Using the pre-installation function will reduce the time that the game spends updating resources on the first time you enter a new version, even if you did not fully complete pre-installation.
+
+PC:
+
+After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
+
+Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
 # "Summer Fantasia" Version 2.8 Update Notice
 ## Version 2.8 Update Notice
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/05/819fbf89f7c031438f2514a4fe525788_5002567821487039228.jpg)
@@ -222,54 +266,6 @@ When using a controller, the Purchase button and purchase function of items that
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Pre-Installation Function Coming Soon
-## Pre-Installation Function Coming Soon
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
-
-Dear Travelers,
-
-To bring Travelers a better gaming experience, the developers will soon make a pre-installation function available on PC and mobile platforms.
-
-**Pre-Installation Function Available From:**
-
-2022/07/11 11:00:00 (global) (Before the Version 2.8 update)
-
-Pre-installation on mobile devices will download some of the new resources in advance, which will speed up download progress at login after the update and save time.
-
-When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
-
-Travelers on mobile platforms will be unable to play the game while pre-installing game resources. It's recommended that Travelers complete any Domains or other challenges they wish to finish first before beginning the pre-installation process.
-
-Travelers on PC can still play the game while pre-installing game resources. Pre-installation will take up a certain amount of your network's bandwidth, so it's best to make sure you have a good network connection before beginning pre-installation.
-
-After pre-installation is complete, Travelers can update the game and experience new version content faster.
-
-**〓How to Update〓**
-
-Mobile (iOS & Android)
-
-Method 1: Travelers may begin pre-installing update resources by going to the Paimon Menu > Settings > Other > Pre-Install Resource Package.
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/68a9fceeba35ae753c1af63b6e643985_6581160582160153510.jpg)
-
-Method 2: Travelers may also begin pre-installing update resources by tapping the "Pre-Install Resource Package" icon in the bottom-left corner of the login screen.
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/01/26/713ee4fb32a360d87ca3307282ce51c1_3349484738719370436.jpg)
-
-When the version update is released, Travelers on iOS devices must enter the App Store and tap "Update." Android users may open the game and follow the directions on-screen (or open Google Play and tap "Update").
-
-Using the pre-installation function will reduce the time that the game spends updating resources on the first time you enter a new version, even if you did not fully complete pre-installation.
-
-PC:
-
-After the pre-installation function is available, you must first update the Genshin Impact Launcher. After updating the launcher, a "Game Pre-Installation" button will appear to the left of the "Launch" button. Click "Game Pre-Installation" to download the latest game resources.
-
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_2466523061981554192.png)
-
-Using the pre-installation function can speed up the update progress of the launcher during version updates.
 
 -----
 
