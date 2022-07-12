@@ -2,23 +2,23 @@
 ## Version 2.8 New Content Overview
 
 
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
 
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
 
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
 
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
 
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
 
-![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
 
 -----
 
 # "Summer Fantasia" Version 2.8 Update Details
 ## Version 2.8 Update Details
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
 
 Dear Travelers,
 
@@ -371,7 +371,7 @@ Text-related fixes and optimizations in English include:
 
 # "Acer Palmatum Chapter" Story Quest Overview
 ## Acer Palmatum Chapter
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/7bdb979aac9528c6632c73ea8d92d180_7754801340457402982.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/7bdb979aac9528c6632c73ea8d92d180_7754801340457402982.jpg)
 
 Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Kaedehara Kazuha's Story Quest "Acer Palmatum Chapter."
 
@@ -393,7 +393,7 @@ And complete Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act I - R
 
 # Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!
 ## Event Wish - Leaves in the Wind
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/6a8aacd1a7af648d7e7a1184d11af2ec_4249352151594928936.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/6a8aacd1a7af648d7e7a1184d11af2ec_4249352151594928936.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -423,7 +423,7 @@ After the Version 2.8 update  – 2022/08/02 17:59:00 (server) | "Scarlet Leaves
 
 # Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!
 ## Event Wish - Sparkling Steps
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/1667dc1eb265d1638839ad3d0c52dbc8_914684396580567959.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/1667dc1eb265d1638839ad3d0c52dbc8_914684396580567959.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -453,7 +453,7 @@ After the Version 2.8 update  – 2022/08/02 17:59:00 (server) | "Fleeing Sunlig
 
 # Event Wish "Epitome Invocation" - Boosted Drop Rates for Freedom-Sworn (Sword) and Lost Prayer to the Sacred Winds (Catalyst)!
 ## Event Wish - Epitome Invocation
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/f40ad36d2e2b3f75375940183f404e23_2670773197920841861.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/f40ad36d2e2b3f75375940183f404e23_2670773197920841861.jpg)
 
 Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
@@ -481,7 +481,7 @@ After the Version 2.8 update  – 2022/08/02 17:59:00 (server) | Freedom-Sworn (
 
 # "Hangout Events: Series VII" - Story Quest Overview
 ## Hangout Events: Series VII
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/e8e952260b0fa356dd379b5ffaae3db7_8456755440969901583.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/e8e952260b0fa356dd379b5ffaae3db7_8456755440969901583.jpg)
 
 Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use Story Keys to unlock the Hangout Event for Shikanoin Heizou .
 
@@ -507,7 +507,7 @@ And complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise
 
 # Diluc's Outfit "Red Dead of Night" Available at a Limited-Time Discount
 ## Red Dead of Night
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/8f10a3ac8f63692ada06cc850525cbb0_6827997846697708624.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8f10a3ac8f63692ada06cc850525cbb0_6827997846697708624.jpg)
 
 Diluc's outfit "Red Dead of Night" is available at a limited-time discount in the Shop!
 
@@ -533,7 +533,7 @@ limited-time discount ends. The outfit can only be purchased once.
 
 # "Azure Main" Event Details
 ## Azure Main
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/0112d5a067621306f08451f14f99b2ee_176180079987267626.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/0112d5a067621306f08451f14f99b2ee_176180079987267626.jpg)
 
 Travelers can earn rich rewards in "Azure Main" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Azure Main" and Furnishing Blueprint "Cosmos Within."
 
@@ -557,7 +557,7 @@ Adventure Rank 20 or above
 
 # "Adventurer's Booster Bundles" - Round 15 Available for a Limited Time
 ## Adventurer's Booster Bundles
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/6c0450c72542147f9a4ebcbc6f22abeb_2988464307872703969.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/6c0450c72542147f9a4ebcbc6f22abeb_2988464307872703969.jpg)
 
 Round 15 of Adventurer's Booster Bundles are available for a limited time in the Shop!
 
@@ -601,7 +601,7 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 120 Ge
 
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
 Dear Travelers,
 
@@ -621,7 +621,7 @@ Permanent
 
 # Details of the Feedback on Special Categories Function
 ## Feedback on Special Categories
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
 
 Dear Travelers,
 
@@ -643,7 +643,7 @@ Permanently Available
 
 # Genshin Impact Player Preferences Survey
 ## Complete The Survey and Get a Reward
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/07/12/f8c479b1eaf9c19328c56264ca38affe_2451070233204437262.jpg)
 
 Dear Travelers,
 
@@ -667,7 +667,7 @@ We thank all Travelers for your invaluable feedback!
 
 # HoYoLAB Community - Genshin Impact Exclusive Tools Overview
 ## Genshin Impact Exclusive Tools Overview
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/24/58a24f84436437ca8c13d3b203cdcf27_9157550902187712916.jpg)
 
 To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepared exclusive travel tools for Travelers. They are as follows:
 
@@ -737,7 +737,7 @@ If you have any questions about topping up, please send us an email at genshin_p
 
 # Genshin Impact Traveler Community
 ## Genshin Impact Traveler Community
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/09/22/cdd9728d92166c341cc4a8fdfa786056_4263317197346022378.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/09/22/cdd9728d92166c341cc4a8fdfa786056_4263317197346022378.jpg)
 
 〓Official Forums〓
 
@@ -775,7 +775,7 @@ genshin_cs@mihoyo.com
 
 # Genshin Impact - Fair Use Statement
 ## Fair Use Statement
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2020/09/17/a200f1d4c84be88961455023b264a0bb_3936625726356517613.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/09/17/a200f1d4c84be88961455023b264a0bb_3936625726356517613.jpg)
 
 To ensure a fair and healthy Genshin Impact gaming environment and offer Travelers a great gaming experience, we would like to remind everyone that the following rules apply to all Travelers at all times:
 
