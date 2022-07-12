@@ -1009,36 +1009,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Summer Fantasia" Preview Page Now Online
-## Constant Updates for Version 2.8 Preview Page!
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/05/35ddaf43119593550633a7f4784438b5_6976449024688891574.jpg)
-
-[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/index.html?gamewebview=1&page_sn=c82261e0fe0f432d&mode=fullscreen&game_biz=hk4e_global&sign_type=2&auth_appid=bluepost&authkey_ver=1#/update)
-
-The "Summer Fantasia" preview page is now available.
-
-This preview page contains all kinds of official information and event details related to Version 2.8. We hope to help Travelers better understand the new character, events, various optimizations, and other content in Version 2.8.
-
-After the Version 2.8 update, open the Paimon Menu and click the "Version Highlights" button to enter this preview page.
-
-This preview page will be continuously updated with version content during Version 2.8. Stay tuned, Travelers!
-
------
-
-# "Hidden Dreams in the Depths" Preview Page Now Online
-## "Hidden Dreams in the Depths" Preview Page Now Online
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/28/4bb53d3f5fceea5416b25e8d419ae2c2_2190641161672091328.jpg)
-
-[Check Out the New Content Here](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=371e3e01de9a42b4&mode=fullscreen)
-
-The "Hidden Dreams in the Depths" preview page is now available!
-
-This preview page contains all kinds of official information and event details related to Version 2.7. We hope to help Travelers better understand the new characters, events, various optimizations, and other content in Version 2.7.
-
-This preview page will be continuously updated with version content during Version 2.7. Stay tuned, Travelers!
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
