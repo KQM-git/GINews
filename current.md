@@ -1,3 +1,374 @@
+# Version 2.8 "Summer Fantasia" New Content Overview
+## Version 2.8 New Content Overview
+
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
+
+![img](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
+
+-----
+
+# "Summer Fantasia" Version 2.8 Update Details
+## Version 2.8 Update Details
+![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
+
+Dear Travelers,
+
+This issue of Update Details will introduce the game content of Version 2.8 in detail, including:
+
+Limited-Time Area: Golden Apple Archipelago
+
+New Character: Shikanoin Heizou
+
+New Equipment: Cursed Blade (Sword)
+
+New Event: Summertime Odyssey
+
+New Outfits: Diluc - "Red Dead of Night" and Fischl - "Ein Immernachtstraum"
+
+New Stories: Kaedehara Kazuha's Story Quest and Shikanoin Heizou's Hangout Event
+
+In the last part, we will share with you the adjustments and optimizations of the version, as well as the bug fixes.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/07/13 06:00:00 (global)
+
+Please claim before the end of Version 2.8.
+
+Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above before 2022/07/13 06:00:00 (global).
+
+Please claim the compensation mail before 2022/07/16 06:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins 2022/07/13 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. Limited-Time Area: Golden Apple Archipelago (This area is only available during Version 2.8)
+
+Golden Apple Archipelago
+
+◆ Area Unlock Criteria:
+
+• Reach Adventure Rank 32 or above
+
+• Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
+
+• Complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
+
+◆ During the event, the Adventure Rank required to accept Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars" will be adjusted to 32.
+
+◆ The Golden Apple Archipelago will no longer be accessible after the end of Version 2.8. You will also no longer be able to open treasure chests, gather materials, or earn quest rewards on the islands, so grab the opportunity to explore away!
+
+II. New Character
+
+4-Star Character "Analytical Harmony" Shikanoin Heizou
+
+◇ Vision: Anemo
+
+◇ Weapon: Catalyst
+
+◇ Hold Shikanoin Heizou's Elemental Skill "Heartstopper Strike" to charge energy and unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill duration ends, he will strike forward, dealing Anemo DMG. When you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Heartstopper Strike to be even stronger and have a larger AoE.
+
+After unleashing his Elemental Burst "Windmuster Kick," Shikanoin Heizou leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing AoE Anemo DMG. When Vacuum Slugger hits opponents affected by Hydro/Pyro/Cryo/Electro, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type. Vacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.
+
+◇ A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.
+
+III. New Equipment
+
+Cursed Blade (4-Star Sword)
+
+When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s.
+
+*Take part in the Version 2.8 quest storyline to learn more about this weapon.
+
+IV. New Events
+
+"Summertime Odyssey" Event: Take part to invite "Prinzessin der Verurteilung!" Fischl (Electro)
+
+During the event, complete the specified tasks in "Surfpiercer" and "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore. Complete the "Phantom Realms" challenges to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
+
+▌Event Duration
+
+**Event Details** | **Event Details** | **Start Time**  | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Surfpiercer | 2022/07/15 10:00:00 (server) | End of Version 2.8
+^ | Phantom Realm: Misty Hills, Foggy Vales | 2022/07/16 04:00:00 (server) | ^
+^ | Phantom Realm: The Islands' Stirring Strings | 2022/07/17 04:00:00 (server) | ^
+^ | Phantom Realm: Immernachtreich Keep | 2022/07/18 04:00:00 (server) | ^
+^ | Phantom Realm: Temple of the Star Latitudes | 2022/07/19 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2022/07/16 04:00:00 (server) | ^
+
+▌Eligibility
+
+Reach Adventure Rank 32 or above
+
+Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
+
+And complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
+
+During this time, the Adventure Rank required to accept Mona's Story Quest will be adjusted to Adventure Rank 32. Complete Mona's Story Quest to enhance your experience.
+
+※ If you have not completed Mona's Story Quest, you can enter the event through "Quick Start" in the event page.
+
+V. New Outfits
+
+Diluc - Red Dead of Night
+
+◇ One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever.
+
+◇ Diluc's outfit "Red Dead of Night" will also feature additional idle animations, combat special effects, combat voice lines, and chat voicelines.
+
+◆ After the Version 2.8 update – 2022/08/22 03:59:59 (server), during this period, Diluc's outfit "Red Dead of Night" will be available for purchase in the Character Outfit Shop at a limited-time discount. During the discount period, the price of the outfit is 1,980 Genesis Crystals. The price will revert to 2,480 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+Fischl - Ein Immernachtstraum
+
+◇ A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her.
+
+◆ During Version 2.8, Travelers can obtain Fischl's "Ein Immernachtstraum" for free through the "Resonating Visions" event.
+
+◆ After Version 2.8 is over, Travelers can buy the outfit in the Character Outfit Shop.
+
+VI. New Main Story
+
+1. New Story Quest
+
+Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
+
+◆ Quest Start Time
+
+Permanently available after the Version 2.8 update
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 40 or above
+
+• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act I - Reflections of Mortality"
+
+2. New Hangout Event
+
+Hangout Event: Shikanoin Heizou - Act I "Trap 'Em by Storm"
+
+◆ After the Version 2.8 update, Hangout Event: Shikanoin Heizou - Act I "Trap 'Em by Storm" will be permanently available.
+
+◆ Event Unlock Criteria:
+
+• Reach Adventure Rank 40 or above
+
+• Complete the Archon Quest "Chapter II: Act III - Omnipresence Over Mortals"
+
+• Complete Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II - Transient Dreams"
+
+• Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - Rise Up, Golden Soul"
+
+3. New World Quests
+
+◆ New limited-time World Quests: "The Treasure of the Four Skerries," "Thus Was the Work Done in Vain," "Treasure Voyage," "The Final Treasure," "Drama Phantasmagoria: Tale of the Sword-Wielding Princess!," "Bake-Danuki Wanderlust," "The Misplaced Photo," "The Discarded Insignia," and "A Misplaced Conch."
+
+◆ New World Quest: "Film Notes."
+
+VII. Other Additions
+
+New Recipe:
+
+○ Shikanoin Heizou's specialty: "The Only Truth"
+
+New Achievements added to the "Memories of the Heart" categories
+
+New Namecards:
+
+"Shikanoin Heizou: Temari": Reward for reaching Friendship Lv. 10 with Shikanoin Heizou
+
+"Travel Notes: Azure Main": Reward obtained via the BP system
+
+Adds the "Adventurer Handbook - Guide" page to the Adventurer Handbook: it shows the recommended priority quests to be completed.
+
+Adds the "Adventurer Handbook - Embattle" page to the Adventurer Handbook: ascend characters of various elements (except the "Traveler") and complete the Elemental Trials in the Temple of the Lion to receive the corresponding rewards.
+
+Adds tutorials related to the use of Fragile Resin for beginners.
+
+Adds some prompts for loading screens.
+
+Spiral Abyss
+
+Floor 11 Ley Line Disorders changed to:
+
+• All party members receive a 75% Pyro DMG Bonus.
+
+Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 2.8, the three Lunar Phases will be as follows：
+
+Phase I:
+
+Valiant Moon
+
+When a character takes the field, they will gain 1 Fortitude stack every 2s. This will increase their ATK by 20%. Max 3 stacks. When characters with 3 Fortitude stacks hit opponents with Charged Attacks, a shockwave will be unleashed at the opponents' position, dealing True DMG. A shockwave can be unleashed in this manner once every 2s. When the character leaves the field, all their Fortitude stacks will be cleared.
+
+Phase II:
+
+Windswept Moon
+
+When a character triggers Swirl on an opponent, that opponent's DEF is decreased by 12% for 10s. Max 3 stacks. Each stack's duration is counted independently.
+
+Phase III:
+
+Shivered Moon
+
+After the active character's Normal, Charged, or Plunging Attacks hit opponents, that character's Normal, Charged, and Plunging Attack DMG is increased by 12% for 8s. This effect can be triggered once every 0.1s. Max 4 stacks. Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.
+
+*The effects of some Chinese voice-over lines in the Version 2.8 update may be affected by the recording conditions. We seek your kind understanding on this matter.
+
+〓Adjustments & Optimizations〓
+
+● Enemies
+
+Reduces the ATK of Nobushi: Jintouban, Nobushi: Kikouban, Nobushi: Hitsukeban, Kairagi: Fiery Might, Kairagi: Dancing Thunder, and Specters in Worlds with a World Level of 3–6.
+
+Optimizes the performance of Rifthounds after being hit.
+
+Adjusts the performance of Specters after being hit and launched.
+
+Reduces Specters' HP and resistance to interruption, and increases the HP Percentage to fill up the Fury meter of Specters.
+
+Adjusts part of the Specters' behavior logic: it can be affected by the pull effect when it is not in the "expanded" state.
+
+● System
+
+When picking up an item drop, the icon of the drop will also show the number of its stacks if its stack is greater than 1.
+
+Optimizes the attribute filtering of Artifacts, giving priority to displaying Artifacts whose primary attribute is the filtered attribute.
+
+Adds "Traveler" Character Level-Up prompts to the character screen.
+
+● Audio
+
+Adds Receiving a Gift voice-over lines for some characters in "Character > Profile."
+
+Optimizes the sound effects for certain character attacks.
+
+Optimizes the volume performance of some cutscene animations.
+
+Optimizes the Japanese, English, and Korean voice-over for certain characters, quests, and NPCs.
+
+Adjusts the Korean voice-over of Venti to be consistent with the subtitles.
+
+● Other
+
+During the same period of Event Wishes, when you enter the Wish interface again, the page will retain the Wish interface selected when you exited last time.
+
+Changes the "Guide" page to "Version Highlights" in the Paimon Menu.
+
+Fixes an issue whereby buttons may conflict in the "Character Selection" interface when using a controller: in the "Character Selection" interface, the Claim Friendship Rewards button will be hidden and the corresponding function of the L3 button will be to carry out filtering.
+
+When using a controller, the Purchase button and purchase function of items that are not available for purchase or redemption in the Event Shop will be disabled.
+
+〓Bug Fixes〓
+
+● Quests
+
+Fixes an issue whereby there are errors in the text of some quest items in the Archon Quest "Perilous Trail."
+
+Fixes an issue whereby the quest item "Archaic Stone" from the Story Quest "No Mere Stone" would disappear abnormally after completing the World Quest "The Tales Behind the Fan." For Travelers who encountered this issue before the fix, the item will be automatically re-issued to the Inventory.
+
+● Enemies
+
+Fixes an issue with the boss "Magatsu Mitake Narukami no Mikoto" whereby the Baleful Vajras summoned would have a small probability of positioning themselves incorrectly.
+
+Fixes an issue whereby the character would have a small probability of not being able to target and aim correctly when attacking the claws of the boss "Stormterror".
+
+● Characters
+
+Fixes an issue with the characters Xiao and Gorou whereby clipping would occur on their movements on the Characters > Talents interface and optimizes the streamer ribbon effects on Gorou, Venti, and Kaedehara Kazuha's outfits on this same interface.
+
+Fixes an issue with Tartaglia whereby the Elemental Skill CD duration would be abnormal after performing certain actions if Tartaglia enters Melee Stance after using his Elemental Skill.
+
+Fixes an issue with Yelan's Whitesilk Mantle that caused clipping to occur in Aimed Shot at certain angles.
+
+● Equipment
+
+Fixes an issue with Lisa whereby when equipped with the "Echoes of an Offering" artifacts and activating the 4-Piece Set effects, her Normal Attacks would have a small probability of triggering an additional instance of Physical DMG.
+
+● Audio
+
+Fixes an issue whereby there is a chance that music may be missing in some cutscene animations.
+
+Fixes an issue of missing sound effects in some environment areas.
+
+● System
+
+Fixes an issue whereby the Attribute Reference interface could be opened abnormally in the Weapon Switching interface in controller mode.
+
+Fixes an issue whereby the Snow Weasel model would not display correctly in the Serenitea Pot's placement function.
+
+Fixes an issue whereby Aether would not have an expression during his idle animation on the character interface.
+
+Fixes an issue on the character interface whereby Sayu, Arataki Itto, Diona, and Yanfei's shadow would flicker abnormally during some of their idle animations.
+
+Fixes an issue whereby when there are emails in some languages (such as Thai) in the Mailbox, some emails in the Gift Mail Box are not displayed normally.
+
+Fixes an issue whereby after reading the tutorial entries, there is a small chance of not being able to claim Primogems. After the version update, the tutorial entries whose rewards could not be claimed will reappear with a red notification dot. Players will be able to re-read them and claim Primogems as normal.
+
+● Other
+
+Fixes an issue whereby before entering Co-Op Mode, if the host performed certain actions, enemies in the open world would abnormally remain in the state when the game was paused after a guest entered the world.
+
+Fixes an issue whereby some weapon effects had a small probability of disappearing after character teleportation.
+
+Fixes an issue whereby when the character undergoes the Shatter reaction, character switching or sprinting had a chance to abnormally trigger the Shatter special effects repeatedly.
+
+Fixes an issue whereby when playing in Japanese, German, English, Indonesian, Portuguese, and Vietnamese, some subtitles were missing in the cutscene animations of individual quests.
+
+Fixes some textual errors in 13 languages and optimizes text. "Note: Related in-game functions have not changed." (Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+Text-related fixes and optimizations in English include:
+
+◆ Optimized instances of a term from "Kavikavus Prize" to "Pir Kavikavus Prize."
+
+◆ Optimized instances of a term from "Academia" to "Akademiya."
+
+◆ Optimized some lines in the quests and World Quests.
+
+◆ Optimized Yae Miko's and Keqing's descriptions.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # "Acer Palmatum Chapter" Story Quest Overview
 ## Acer Palmatum Chapter
 ![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/30/7bdb979aac9528c6632c73ea8d92d180_7754801340457402982.jpg)
@@ -267,30 +638,6 @@ Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Sp
 〓Duration〓
 
 Permanently Available
-
------
-
-# "Hangout Events: Series VI" - Story Quest Overview
-## Hangout Events: Series VI
-![Banner](https://uploadstatic-sea.hoyoverse.com/announcement/2022/06/06/48013910c44cb9ac8d9c72f01a8b85d2_3090878103082002197.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Kuki Shinobu's Hangout Event.
-
-The Hangout Events feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight Daily Commissions completed.)
-
-**〓Quest Start Time〓**
-
-Permanently available after 2022/06/21 18:00:00 (server)
-
-**〓Series VI Unlock Criteria〓**
-
-Hangout Event: Kuki Shinobu – Act I:
-
-Adventure Rank 40 or above
-
-Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul"
-
-And complete Archon Quest "Interlude Chapter: Act II - Perilous Trail"
 
 -----
 
