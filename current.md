@@ -478,6 +478,38 @@ When using an iOS or Android device to play the game, after some characters cast
 
 -----
 
+# Battle Chronicle: Version 2.8 Update - Share Your Spiral Abyss Battle Chronicle With One Click!
+## Battle Chronicle: Tool Update
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_3214186468371261585.jpg)
+
+[>>View Battle Chronicle Here<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
+
+Hello, Travelers!
+
+The Genshin Impact Battle Chronicle has been updated! Travelers can check the latest information about their characters and weapons obtained in Genshin Impact Version 2.8~
+
+This update optimizes the display of Battle Chronicle for the Spiral Abyss and limited-time events, and also adds a new sharing function for the Spiral Abyss Battle Chronicle module. Here's a look at the specific content of the update.
+
+〓Update Details〓
+
+1. Share Your Spiral Abyss Battle Chronicle With One Click
+
+Optimizes the display of Spiral Abyss Battle Chronicle display and added a new sharing function. Travelers can choose to share the overall battle process review of the Spiral Abyss, or choose to share only single-level challenge records and corresponding party setups.
+
+2. Optimization of Event Review Display
+
+Optimizes record display of limited-time events. Now you can check your records in previous events with more convenience!
+
+3. Adds "HoYoWiki" and "Version 2.8 Version Topics Page" in Common Tools
+
+*The above functions are supported on the Web and App. Genshin Impact's Version 2.8 "Summertime Odyssey" event will also be launched soon. At that time, the corresponding event records query function will also be made available in "Genshin Impact Battle Chronicle." Travelers, do remember to take a look~
+
+〓How to Access Tool〓
+
+You can check it out for yourself by going to Tools > Battle Chronicle or Personal Homepage > Battle Chronicle on HoYoLAB~
+
+-----
+
 # "Acer Palmatum Chapter" Story Quest Overview
 ## Acer Palmatum Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/7bdb979aac9528c6632c73ea8d92d180_7754801340457402982.jpg)
