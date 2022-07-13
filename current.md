@@ -468,8 +468,6 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue whereby the avatar image of Diluc's outfit "Red Dead of Night" is displayed abnormally. This issue will be fixed in a later update. Please stay tuned for future notices.
 
-There is an issue whereby chat history that existed prior to the Version 2.8 update is not displayed after opening the chat interface, and the chat history of the relevant session is still displayed abnormally after sending a new conversation. This issue will be fixed in a later update. Please stay tuned for future notices.
-
 Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
 
 The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
@@ -477,6 +475,10 @@ The developers have detected the initial cause of this issue. As the fix involve
 *Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
 
 When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓Update Content 2022/07/13 19:15:00 (global)〓
+
+Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
 
 -----
 
