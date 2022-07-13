@@ -466,7 +466,7 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-After Yelan uses her Elemental Burst, the Raiden Shogun will experience problems gaining Resolve for Chakra Desiderata. This issue will be fixed after the update on June 9th.
+There is an issue whereby chat history that existed prior to the Version 2.8 update is not displayed after opening the chat interface, and the chat history of the relevant session is still displayed abnormally after sending a new conversation. This issue will be fixed in a later update. Please stay tuned for future notices.
 
 Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
 
