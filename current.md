@@ -1,3 +1,21 @@
+# Version 2.8 "Summer Fantasia" New Content Overview
+## Version 2.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
+
+-----
+
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
@@ -82,24 +100,6 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 ※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
 
 ※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# Version 2.8 "Summer Fantasia" New Content Overview
-## Version 2.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
 
 -----
 
