@@ -369,6 +369,36 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+On the Inventory and Character screens, some artifacts may not display properly, and it may not be possible to interact normally with these items. Please note that this is a display issue only and does not affect the artifacts' properties. Travelers who encounter this issue can resolve it for now by closing and restarting the game.
+
+There is an issue whereby in Photo Mode, the eye model of the character Shikanoin Heizou will be displayed abnormally when he is performing a certain idle animation. This issue will be fixed in a later update. Please stay tuned for future notices.
+
+There is an issue whereby the avatar image of Diluc's outfit "Red Dead of Night" is displayed abnormally. This issue will be fixed in a later update. Please stay tuned for future notices.
+
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
+
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
+
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓Update Content 2022/07/13 19:15:00 (global)〓
+
+Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
+
+-----
+
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
@@ -453,36 +483,6 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 ※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
 
 ※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-On the Inventory and Character screens, some artifacts may not display properly, and it may not be possible to interact normally with these items. Please note that this is a display issue only and does not affect the artifacts' properties. Travelers who encounter this issue can resolve it for now by closing and restarting the game.
-
-There is an issue whereby in Photo Mode, the eye model of the character Shikanoin Heizou will be displayed abnormally when he is performing a certain idle animation. This issue will be fixed in a later update. Please stay tuned for future notices.
-
-There is an issue whereby the avatar image of Diluc's outfit "Red Dead of Night" is displayed abnormally. This issue will be fixed in a later update. Please stay tuned for future notices.
-
-Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
-
-The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
-
-*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
-
-When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-〓Update Content 2022/07/13 19:15:00 (global)〓
-
-Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
 
 -----
 
