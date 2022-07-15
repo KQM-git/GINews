@@ -466,6 +466,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+On the Inventory and Character screens, some artifacts may not display properly, and it may not be possible to interact normally with these items. Please note that this is a display issue only and does not affect the artifacts' properties. Travelers who encounter this issue can resolve it for now by closing and restarting the game.
+
+There is an issue whereby in Photo Mode, the eye model of the character Shikanoin Heizou will be displayed abnormally when he is performing a certain idle animation. This issue will be fixed in a later update. Please stay tuned for future notices.
+
 There is an issue whereby the avatar image of Diluc's outfit "Red Dead of Night" is displayed abnormally. This issue will be fixed in a later update. Please stay tuned for future notices.
 
 Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
