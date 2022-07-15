@@ -490,7 +490,7 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 ## Teyvat Interactive Map: Version 2.8 Update
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/13/2e7f802770ee753297458b71c7ace673_6087174612151107621.jpg)
 
-[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?#/map/12?utm_source=ingame&utm_medium=notice)
+[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?utm_source=ingame&utm_medium=notice#/map/12)
 
 Hello, Travelers~
 
