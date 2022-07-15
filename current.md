@@ -16,93 +16,6 @@
 
 -----
 
-# "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
-## Summertime Odyssey
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
-
-During the event, complete the specified tasks in "Surfpiercer" and "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore. Complete the "Phantom Realms" challenges to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
-
-**〓Event Duration〓**
-
-**Event Details** |    **Event Details** | **Start Time** | **End Time**  
---- | --- | --- | ---
-Gameplay Duration Start Time   | Surfpiercer | 2022/07/15 10:00:00 (server) | End of Version 2.8
-^ | Misty Hills, Foggy Vales - Phantom Realms | 2022/07/16 04:00:00 (server) | ^
-^ | The Islands' Stirring Strings - Phantom Realms | 2022/07/17 04:00:00 (server) | ^
-^ | Immernachtreich Keep - Phantom Realms | 2022/07/18 04:00:00 (server) | ^
-^ | Temple of the Star Latitudes - Phantom Realms | 2022/07/19 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2022/07/16 04:00:00 (server) | ^
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
-
-And complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
-
-During this time, the Adventure Rank required to accept Mona's Story Quest will be adjusted to Adventure Rank 32. Complete Mona's Story Quest to enhance your experience.
-
-※ If you have not completed Mona's Story Quest, you can enter the event through "Quick Start" in the event page.
-
-**〓Surfpiercer〓**
-
-Unlock Criteria: Unlocks after completing the quest "Summertime Odyssey: I"
-
-● For the first three days of the event, a new Waverider challenge will unlock every day. Complete the specified challenge tasks to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
-
-** **
-
-**〓Phantom Realms〓**
-
-Unlock Criteria:
-
-Misty Hills, Foggy Vales - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: II"
-
-The Islands' Stirring Strings - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: III"
-
-Immernachtreich Keep - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: IV"
-
-Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: V"
-
-● During the event, complete the "Initial Exploration" challenge in "Phantom Realms" to unlock "Direct Strike" and carry out the challenges.
-
-● Complete the specified challenges in "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
-
-● Complete the specified challenges in "Phantom Realms" to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
-
-● When the Event Shop closes, any remaining Iridescent Flotsam in your possession will automatically disappear, and the relevant Event Shop page(s) will also close.
-
-● During the event, you will automatically accept the quest "Summertime Odyssey: VI" after completing the quest "Summertime Odyssey: V." Complete the quests to obtain rewards such as Primogems, Hero's Wit, and Mora. After the event has ended, you will no longer be able to participate in the "Summertime Odyssey" quest.
-
------
-
-# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
-## Resonating Visions
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
-
-During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
-
-**〓Event Duration〓**
-
-2022/07/15 10:00:00 (server) until the end of Version 2.8
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
-
-※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
-
-※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
 # "Summer Fantasia" Version 2.8 Update Details
 ## Version 2.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
@@ -456,6 +369,93 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
+## Summertime Odyssey
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
+
+During the event, complete the specified tasks in "Surfpiercer" and "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore. Complete the "Phantom Realms" challenges to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
+
+**〓Event Duration〓**
+
+**Event Details** |    **Event Details** | **Start Time** | **End Time**  
+--- | --- | --- | ---
+Gameplay Duration Start Time   | Surfpiercer | 2022/07/15 10:00:00 (server) | End of Version 2.8
+^ | Misty Hills, Foggy Vales - Phantom Realms | 2022/07/16 04:00:00 (server) | ^
+^ | The Islands' Stirring Strings - Phantom Realms | 2022/07/17 04:00:00 (server) | ^
+^ | Immernachtreich Keep - Phantom Realms | 2022/07/18 04:00:00 (server) | ^
+^ | Temple of the Star Latitudes - Phantom Realms | 2022/07/19 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2022/07/16 04:00:00 (server) | ^
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
+
+And complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
+
+During this time, the Adventure Rank required to accept Mona's Story Quest will be adjusted to Adventure Rank 32. Complete Mona's Story Quest to enhance your experience.
+
+※ If you have not completed Mona's Story Quest, you can enter the event through "Quick Start" in the event page.
+
+**〓Surfpiercer〓**
+
+Unlock Criteria: Unlocks after completing the quest "Summertime Odyssey: I"
+
+● For the first three days of the event, a new Waverider challenge will unlock every day. Complete the specified challenge tasks to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
+
+** **
+
+**〓Phantom Realms〓**
+
+Unlock Criteria:
+
+Misty Hills, Foggy Vales - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: II"
+
+The Islands' Stirring Strings - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: III"
+
+Immernachtreich Keep - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: IV"
+
+Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: V"
+
+● During the event, complete the "Initial Exploration" challenge in "Phantom Realms" to unlock "Direct Strike" and carry out the challenges.
+
+● Complete the specified challenges in "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
+
+● Complete the specified challenges in "Phantom Realms" to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
+
+● When the Event Shop closes, any remaining Iridescent Flotsam in your possession will automatically disappear, and the relevant Event Shop page(s) will also close.
+
+● During the event, you will automatically accept the quest "Summertime Odyssey: VI" after completing the quest "Summertime Odyssey: V." Complete the quests to obtain rewards such as Primogems, Hero's Wit, and Mora. After the event has ended, you will no longer be able to participate in the "Summertime Odyssey" quest.
+
+-----
+
+# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
+## Resonating Visions
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
+
+During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
+
+**〓Event Duration〓**
+
+2022/07/15 10:00:00 (server) until the end of Version 2.8
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
+
+※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
+
+※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -483,6 +483,30 @@ When using an iOS or Android device to play the game, after some characters cast
 〓Update Content 2022/07/13 19:15:00 (global)〓
 
 Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
+
+-----
+
+# Teyvat Interactive Map Update – Golden Apple Archipelago Map Now Available
+## Teyvat Interactive Map: Version 2.8 Update
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/13/2e7f802770ee753297458b71c7ace673_6087174612151107621.jpg)
+
+[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?#/map/12?utm_source=ingame&utm_medium=notice)
+
+Hello, Travelers~
+
+The Golden Apple Archipelago pins will be added to the Teyvat Interactive Map in version 2.8. Let's check them out!
+
+▌ Update Details
+
+- New map: version 2.8 event map Golden Apple Archipelago is available now!
+
+– Pins updated: Open-World Chests, Puzzle Pins, Phantasmal Conches, Local Specialties, enemies, etc. More functions are on their way as the in-game island gets fully unlocked
+
+* This function can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
+
+▌ How to Access Tool
+
+You can switch the map to the Golden Apple Archipelago by going to Tools > Teyvat Interactive Map
 
 -----
 
