@@ -512,31 +512,25 @@ You can switch the map to the Golden Apple Archipelago by going to Tools > Teyva
 
 -----
 
-# Battle Chronicle: Version 2.8 Update - Share Your Spiral Abyss Battle Chronicle With One Click!
+# Battle Chronicle: Event Update - Summertime Odyssey Data Now Available
 ## Battle Chronicle: Tool Update
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_3214186468371261585.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_5276328439616082527.jpg)
 
 [>>View Battle Chronicle Here<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
 
-Hello, Travelers!
+Hello, Travelers~
 
-The Genshin Impact Battle Chronicle has been updated! Travelers can check the latest information about their characters and weapons obtained in Genshin Impact Version 2.8~
+The "Summertime Odyssey" event is now available! After experiencing it in the game, Travelers can check their event records of "Summertime Odyssey" in the Events module of "Genshin Impact Battle Chronicle."
 
-This update optimizes the display of Battle Chronicle for the Spiral Abyss and limited-time events, and also adds a new sharing function for the Spiral Abyss Battle Chronicle module. Here's a look at the specific content of the update.
+*Scroll down to the bottom of "Genshin Impact Battle Chronicle" and select "Summertime Odyssey" in the Event Review to view.
 
 〓Update Details〓
 
-1. Share Your Spiral Abyss Battle Chronicle With One Click
+- After experiencing the "Summertime Odyssey" event in-game, Travelers will be able to view their data such as the number of Teleport Waypoints and Treasure Chests unlocked in Version 2.8 in their Battle Chronicle.
 
-Optimizes the display of Spiral Abyss Battle Chronicle display and added a new sharing function. Travelers can choose to share the overall battle process review of the Spiral Abyss, or choose to share only single-level challenge records and corresponding party setups.
+- In addition, click on the bubble to enter the corresponding event page to check various interesting records in the "Summertime Odyssey" event - the best challenge record obtained in Surfpiercer, the total number of times the special skills were used in Phantom Realms, and the memories shared by the Travelers and their companions...
 
-2. Optimization of Event Review Display
-
-Optimizes record display of limited-time events. Now you can check your records in previous events with more convenience!
-
-3. Adds "HoYoWiki" and "Version 2.8 Version Topics Page" in Common Tools
-
-*The above functions are supported on the Web and App. Genshin Impact's Version 2.8 "Summertime Odyssey" event will also be launched soon. At that time, the corresponding event records query function will also be made available in "Genshin Impact Battle Chronicle." Travelers, do remember to take a look~
+- The "Summertime Odyssey" Battle Chronicle supports viewing in both Web and App, and the Save Pictures function is supported in each event page. Go check your event records and share them with other Travelers~
 
 〓How to Access Tool〓
 
