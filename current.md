@@ -379,6 +379,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue with the character Shikanoin Heizou's Elemental Skill whereby when you hit opponents under the effect of 4 Declension stacks (i.e. the Conviction effect), the elemental effect produced might be abnormal. After the fix, the elemental effect produced by the Elemental Skill at 4 Declension stacks will be consistent with that of other Declension stacks. This issue will be fixed in a later update. Please stay tuned for future notices.
+
 There is an issue whereby in Photo Mode, the eye model of the character Shikanoin Heizou will be displayed abnormally when he is performing a certain idle animation. This issue will be fixed in a later update. Please stay tuned for future notices.
 
 There is an issue whereby the avatar image of Diluc's outfit "Red Dead of Night" is displayed abnormally. This issue will be fixed in a later update. Please stay tuned for future notices.
