@@ -393,6 +393,20 @@ The developers have detected the initial cause of this issue. As the fix involve
 
 When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
 
+〓Update Content 2022/07/18 16:10:00 (global)〓
+
+Fixes an issue with the Story Quest "Blazin' Trails" whereby the quest objective "Go to the brightly lit place" could not be completed.
+
+Fixes an issue whereby characters are blocked by the wall under specific circumstances and are thus unable to return to the appropriate location to continue the Story Quest "As the Courtyard in Spring Once Appeared."
+
+We will resolve the problem within 36 hours for all accounts that have been affected before the update. After the fix goes live, Travelers can log in again to continue the quest.
+
+Fixes an issue with the Story Quest "As the Courtyard in Spring Once Appeared" whereby when carrying out the objective "Continue onward through the shattered space," after picking up the Melodic Omamori when the server disconnected, the Melodic Omamori may unexpectedly disappear after reconnecting to the server.
+
+Fixes an issue under certain circumstances whereby when challenging the Domain "As the Courtyard in Spring Once Appeared: Part I," characters will enter subsequent rooms abnormally, and are blocked by the wall and thus unable to return to the appropriate quest location.
+
+Travelers who encountered this issue before the update can submit feedback through the in-game Paimon Menu and we will resolve the issue for you.
+
 〓Update Content 2022/07/16 22:50:00 (global)〓
 
 Fixes an issue whereby if you log out of the game and log in again after picking up the Melodic Omamori in the Domain "As the Courtyard in Spring Once Appeared: Part I," there is a probability that the Melodic Omamori will be missing.
