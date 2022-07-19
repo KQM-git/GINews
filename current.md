@@ -393,6 +393,10 @@ The developers have detected the initial cause of this issue. As the fix involve
 
 When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
 
+〓Update Content 2022/07/19 19:35:00 (global)〓
+
+Fixes an issue with the Story Quest "The Ancient Azure Stars" whereby if Travelers exit the Domain and enter again when carrying out the objective "Follow the strange star" under certain circumstances, the quest objective would disappear and Travelers are unable to follow the star into the pool. Travelers who encounter this issue can log out through the Paimon Menu and log back in to continue the quest normally.
+
 〓Update Content 2022/07/18 20:00:00 (global)〓
 
 Fixes an issue with the Story Quest "Immernachtreich Apokalypse" whereby when carrying out the objective "Save Leon," when Travelers operate the device to repair the path and the server gets disconnected, Leon would abnormally stop in place after reconnecting to the server. Travelers who encounter this issue can log out through the Paimon Menu and log back in to continue the quest normally.
