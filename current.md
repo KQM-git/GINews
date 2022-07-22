@@ -387,6 +387,14 @@ The developers have detected the initial cause of this issue. As the fix involve
 
 When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
 
+〓Update Content 2022/07/22 17:55:00 (global)〓
+
+Fixes an issue under certain circumstances whereby the Story Quest "The Ancient Azure Stars" cannot be completed, as players are unable to return to the quest location due to being blocked by barriers when carrying out the objective "Solve the astral puzzle."
+
+We will resolve the problem within 36 hours for all accounts that have been affected before the update. After the fix goes live, Travelers can log in again to continue the quest.
+
+Fixes an issue whereby there is a small chance that the connection between the stars would disappear abnormally if you move away from the stars in the Domain then approach them again when carrying out the Story Quest "The Ancient Azure Stars."
+
 〓Update Content 2022/07/21 11:20:00 (global)〓
 
 Fixes an issue with the character Shikanoin Heizou's Elemental Skill whereby when you hit opponents under the effect of 4 Declension stacks (i.e. the Conviction effect), the elemental effect produced might be abnormal. After the fix, the elemental effect produced by the Elemental Skill at 4 Declension stacks will be consistent with that of other Declension stacks.
