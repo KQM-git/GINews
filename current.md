@@ -459,6 +459,36 @@ Fixes an issue whereby the chat record of new conversations was not displayed fo
 
 -----
 
+# Web Event "Mesmerizing Dream at Sea" Now Online: Take part to obtain Primogems and help Paimon recall her dream!
+## Web Event "Mesmerizing Dream at Sea" Now Online: Take part to obtain Primogems and other rewards
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/05/4abee4b37452aafe66f69532fba90b2a_1203045233693536775.jpg)
+
+The limited-time web event "Mesmerizing Dream at Sea" is now available. It seems that Paimon had a strange dream, let's help her remember~
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220722dream-6bgs/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220722dream&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/07/22 - 2022/07/31 23:59:59 (server)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 32 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, you can log in to Genshin Impact every day and complete Daily Commissions and other missions to obtain Paimon's Inspirations. Using Paimon's Inspirations will help her recall memories from her dream. Retrieve her dream memories to obtain Primogems and other rewards.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓Event Rewards〓
+
+Complete all dream memories to obtain Primogems ×80, Hero's Wit ×6, Mystic Enhancement Ore ×8, Sanctifying Unction ×4, and Mora ×90,000.
+
+-----
+
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
