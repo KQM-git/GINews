@@ -584,6 +584,36 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 
 -----
 
+# "Hidden Strife" Event: Complete the Challenges and Win Primogems
+## Hidden Strife
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
+
+During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
+
+**〓Event Duration〓**
+
+2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 25 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
+
+〓Event Details〓
+
+● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
+
+● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
+
+● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
+
+●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
+
+-----
+
 # Teyvat Interactive Map Update – Golden Apple Archipelago Map Now Available
 ## Teyvat Interactive Map: Version 2.8 Update
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/13/2e7f802770ee753297458b71c7ace673_6087174612151107621.jpg)
