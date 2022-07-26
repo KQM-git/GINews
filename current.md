@@ -59,6 +59,62 @@ Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the ques
 
 -----
 
+# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
+## Resonating Visions
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
+
+During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
+
+**〓Event Duration〓**
+
+2022/07/15 10:00:00 (server) until the end of Version 2.8
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
+
+※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
+
+※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# "Hidden Strife" Event: Complete the Challenges and Win Primogems
+## Hidden Strife
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
+
+During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
+
+**〓Event Duration〓**
+
+2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 25 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
+
+〓Event Details〓
+
+● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
+
+● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
+
+● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
+
+●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
+
+-----
+
 # Version 2.8 "Summer Fantasia" New Content Overview
 ## Version 2.8 New Content Overview
 
@@ -555,62 +611,6 @@ During the event, you can log in to Genshin Impact every day and complete Daily 
 〓Event Rewards〓
 
 Complete all dream memories to obtain Primogems ×80, Hero's Wit ×6, Mystic Enhancement Ore ×8, Sanctifying Unction ×4, and Mora ×90,000.
-
------
-
-# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
-## Resonating Visions
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
-
-During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
-
-**〓Event Duration〓**
-
-2022/07/15 10:00:00 (server) until the end of Version 2.8
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
-
-※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
-
-※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# "Hidden Strife" Event: Complete the Challenges and Win Primogems
-## Hidden Strife
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
-
-During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
-
-**〓Event Duration〓**
-
-2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 25 or above
-
-Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
-
-〓Event Details〓
-
-● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
-
-● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
-
-● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
-
-●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
 
 -----
 
