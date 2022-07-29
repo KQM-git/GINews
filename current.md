@@ -85,6 +85,24 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 
 -----
 
+# Version 2.8 "Summer Fantasia" New Content Overview
+## Version 2.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
+
+-----
+
 # "Hidden Strife" Event: Complete the Challenges and Win Primogems
 ## Hidden Strife
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
@@ -112,24 +130,6 @@ And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi
 ● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
 
 ●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
-
------
-
-# Version 2.8 "Summer Fantasia" New Content Overview
-## Version 2.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
 
 -----
 
