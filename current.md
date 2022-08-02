@@ -1,23 +1,3 @@
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
@@ -79,6 +59,26 @@ Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the ques
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
 ## Resonating Visions
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
@@ -102,24 +102,6 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 ※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
 
 ※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# Version 2.8 "Summer Fantasia" New Content Overview
-## Version 2.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
 
 -----
 
@@ -150,6 +132,24 @@ And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi
 ● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
 
 ●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
+
+-----
+
+# Version 2.8 "Summer Fantasia" New Content Overview
+## Version 2.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/439a002b7f15545d5147cda31f7821e9_4386830592741199185.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/b5bfc546ef3150a8ccdfb1ad848273d2_6859403349210826901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/ff895209c88aba476112390e08b430c2_6859403349210826901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/c1dfaa022fce103f1be62d7397f30c63_4973881220568679930.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/1052b1c98488eb1bda9607a9d840d2b8_1529984798822540114.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/3d51ff93ac4ad10f2bf244b9a50e8f06_4665238105410268533.jpg)
 
 -----
 
