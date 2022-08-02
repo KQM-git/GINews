@@ -516,6 +516,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue with the "Hidden Strife" event whereby there is a chance that characters are unable to trigger the relevant counts for the criteria "Deal DMG to opponents when using Claymores 15 times" or "Deal DMG with Normal Attacks 20 times" under specific circumstances, resulting in the inability to obtain "Afterimaged Might." Travelers who experience this issue can exit the game via the Paimon Menu and log in again as a temporary fix.
+
 There is an issue under specific circumstances whereby the Treasure Chest will disappear abnormally if Travelers do not claim it in time after completing the World Quest "The Treasure of the Four Skerries." This issue will be fixed in a later update, please stay tuned to our announcements.
 
 There is an issue after the Version 2.8 update whereby some enemies (such as Geovishap Hatchling) have a small chance of displaying abnormal target tracking when casting their skills. This issue will be fixed in a later update, please stay tuned to our announcements.
