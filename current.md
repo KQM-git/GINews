@@ -59,112 +59,6 @@ Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the ques
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
-## Resonating Visions
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
-
-During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
-
-**〓Event Duration〓**
-
-2022/07/15 10:00:00 (server) until the end of Version 2.8
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
-
-※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
-
-※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# "Hidden Strife" Event: Complete the Challenges and Win Primogems
-## Hidden Strife
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
-
-During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
-
-**〓Event Duration〓**
-
-2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 25 or above
-
-Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
-
-〓Event Details〓
-
-● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
-
-● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
-
-● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
-
-●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
-
------
-
-# "Reminiscent Regimen" Event: Island Co-Op Challenges
-## Reminiscent Regimen
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/630a035f498e26c2baacf8af5d6d1045_2087226373636648063.jpg)
-
-During the event, head to the Golden Apple Archipelago and face the challenges within mirages. Complete designated challenges and accrue as many points as possible to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora.
-
-**〓Event Duration〓**
-
-2022/08/04 10:00:00 (server) – 2022/08/15 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● The "Reminiscent Regimen" challenge has three themes: Descent, Raid, and Convoy. Each theme has 2 challenges respectively and 6 levels in total. After the event begins, one challenge level will be unlocked each day. Travelers can participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
-
-● Each challenge theme also has unique challenge objectives. Complete them and obtain a specific amount of points to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora. Travelers can confirm the challenge objectives for each challenge on the Score Details page in Challenge Details.
-
-● The Descent challenge requires Travelers to start from a platform high in the sky and begin a descending assault. Defeat all opponents on various floating platforms and reach the sea surface within the time limit to complete the challenge.
-
-● The Raid challenge requires Travelers to navigate your Waverider to reach a certain sea region, board floating platforms, and defeat all opponents on them within a time limit to complete the challenge.
-
-● The Convoy challenge requires Travelers to protect a Driftstone Raft that will automatically move towards a destination. If the Raft reaches its destination within the time limit without being destroyed, the challenge is a success.
-
------
-
 # "Summer Fantasia" Version 2.8 Update Details
 ## Version 2.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
@@ -518,6 +412,62 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
+## Resonating Visions
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
+
+During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
+
+**〓Event Duration〓**
+
+2022/07/15 10:00:00 (server) until the end of Version 2.8
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
+
+※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
+
+※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# "Hidden Strife" Event: Complete the Challenges and Win Primogems
+## Hidden Strife
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
+
+During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
+
+**〓Event Duration〓**
+
+2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 25 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
+
+〓Event Details〓
+
+● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
+
+● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
+
+● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
+
+●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
+
+-----
+
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -628,6 +578,36 @@ Fixes an issue whereby the chat record of new conversations was not displayed fo
 
 -----
 
+# "Reminiscent Regimen" Event: Island Co-Op Challenges
+## Reminiscent Regimen
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/630a035f498e26c2baacf8af5d6d1045_2087226373636648063.jpg)
+
+During the event, head to the Golden Apple Archipelago and face the challenges within mirages. Complete designated challenges and accrue as many points as possible to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora.
+
+**〓Event Duration〓**
+
+2022/08/04 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● The "Reminiscent Regimen" challenge has three themes: Descent, Raid, and Convoy. Each theme has 2 challenges respectively and 6 levels in total. After the event begins, one challenge level will be unlocked each day. Travelers can participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
+
+● Each challenge theme also has unique challenge objectives. Complete them and obtain a specific amount of points to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora. Travelers can confirm the challenge objectives for each challenge on the Score Details page in Challenge Details.
+
+● The Descent challenge requires Travelers to start from a platform high in the sky and begin a descending assault. Defeat all opponents on various floating platforms and reach the sea surface within the time limit to complete the challenge.
+
+● The Raid challenge requires Travelers to navigate your Waverider to reach a certain sea region, board floating platforms, and defeat all opponents on them within a time limit to complete the challenge.
+
+● The Convoy challenge requires Travelers to protect a Driftstone Raft that will automatically move towards a destination. If the Raft reaches its destination within the time limit without being destroyed, the challenge is a success.
+
+-----
+
 # Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
 ## Event Wish - Tapestry of Golden Flames
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/ed728fe4ed6b1b618289320855c8e3d5_4632740134026007100.jpg)
@@ -705,6 +685,32 @@ The Golden Apple Archipelago pins will be added to the Teyvat Interactive Map in
 ▌ How to Access Tool
 
 You can switch the map to the Golden Apple Archipelago by going to Tools > Teyvat Interactive Map
+
+-----
+
+# Battle Chronicle: Event Update - Summertime Odyssey Data Now Available
+## Battle Chronicle: Tool Update
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_5276328439616082527.jpg)
+
+[>>View Battle Chronicle Here<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
+
+Hello, Travelers~
+
+The "Summertime Odyssey" event is now available! After experiencing it in the game, Travelers can check their event records of "Summertime Odyssey" in the Events module of "Genshin Impact Battle Chronicle."
+
+*Scroll down to the bottom of "Genshin Impact Battle Chronicle" and select "Summertime Odyssey" in the Event Review to view.
+
+〓Update Details〓
+
+- After experiencing the "Summertime Odyssey" event in-game, Travelers will be able to view their data such as the number of Teleport Waypoints and Treasure Chests unlocked in Version 2.8 in their Battle Chronicle.
+
+- In addition, click on the bubble to enter the corresponding event page to check various interesting records in the "Summertime Odyssey" event - the best challenge record obtained in Surfpiercer, the total number of times the special skills were used in Phantom Realms, and the memories shared by the Travelers and their companions...
+
+- The "Summertime Odyssey" Battle Chronicle supports viewing in both Web and App, and the Save Pictures function is supported in each event page. Go check your event records and share them with other Travelers~
+
+〓How to Access Tool〓
+
+You can check it out for yourself by going to Tools > Battle Chronicle or Personal Homepage > Battle Chronicle on HoYoLAB~
 
 -----
 
@@ -802,29 +808,23 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 120 Ge
 
 -----
 
-# Battle Chronicle: Event Update - Summertime Odyssey Data Now Available
-## Battle Chronicle: Tool Update
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_5276328439616082527.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
-[>>View Battle Chronicle Here<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
+Dear Travelers,
 
-Hello, Travelers~
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-The "Summertime Odyssey" event is now available! After experiencing it in the game, Travelers can check their event records of "Summertime Odyssey" in the Events module of "Genshin Impact Battle Chronicle."
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
-*Scroll down to the bottom of "Genshin Impact Battle Chronicle" and select "Summertime Odyssey" in the Event Review to view.
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-〓Update Details〓
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-- After experiencing the "Summertime Odyssey" event in-game, Travelers will be able to view their data such as the number of Teleport Waypoints and Treasure Chests unlocked in Version 2.8 in their Battle Chronicle.
+〓Event Duration〓
 
-- In addition, click on the bubble to enter the corresponding event page to check various interesting records in the "Summertime Odyssey" event - the best challenge record obtained in Surfpiercer, the total number of times the special skills were used in Phantom Realms, and the memories shared by the Travelers and their companions...
-
-- The "Summertime Odyssey" Battle Chronicle supports viewing in both Web and App, and the Save Pictures function is supported in each event page. Go check your event records and share them with other Travelers~
-
-〓How to Access Tool〓
-
-You can check it out for yourself by going to Tools > Battle Chronicle or Personal Homepage > Battle Chronicle on HoYoLAB~
+Permanent
 
 -----
 
