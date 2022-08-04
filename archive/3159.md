@@ -1,4 +1,4 @@
-# Issue Fix Details
+# Quest and Domain Issue Fix Details
 ## Issue Fix Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/06/25/8e60989f6665a150a0e7020459098b25_9055589054387777697.jpg)
 
