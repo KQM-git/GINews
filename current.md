@@ -1,3 +1,19 @@
+# Issue Summary
+## Issue Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/09/21/fe7e72baa8e4ac5e237f027a819b212e_6331541958101348206.jpg)
+
+Dear Travelers,
+
+Due to a system error, some Travelers have encountered a quest issue.
+
+Our developers are working hard to fix this problem as we speak.
+
+We will promptly notify Travelers regarding the follow-up via notices once the issue has been fixed. Please stay tuned to our official channels for the latest information.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
