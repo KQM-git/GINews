@@ -988,37 +988,37 @@ If you have any questions about topping up, please send us an email at genshin_p
 ## Genshin Impact Traveler Community
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/09/22/cdd9728d92166c341cc4a8fdfa786056_4263317197346022378.jpg)
 
-〓Official Forums〓
+〓HoYoLAB - Official Community〓
 
-[https://www.hoyolab.com/genshin/](https://www.hoyolab.com/genshin/)
+Teyvat Adventure Assistant
 
-〓Discord〓
+Daily check-in rewards, interactive map, Wiki, quality guides... You'll find everything you need here!
 
-[https://discord.gg/genshinimpact](https://discord.gg/genshinimpact)
+[HoYoLAB Community](https://www.hoyolab.com/home?lang=en-us&utm_source=ingame&utm_medium=notice&utm_campaign=pcm&from_id=2)
 
-〓Facebook〓
-
-[https://www.facebook.com/Genshinimpact/](https://www.facebook.com/Genshinimpact/)
-
-〓Twitter〓
-
-[https://twitter.com/GenshinImpact](https://twitter.com/GenshinImpact)
-
-〓YouTube〓
-
-[http://www.youtube.com/c/GenshinImpact ](http://www.youtube.com/c/GenshinImpact )
-
-〓Official Reddit〓
-
-[https://www.reddit.com/r/Genshin_Impact](https://www.reddit.com/r/Genshin_Impact)
+[Click to Download the HoYoLAB App](https://app.adjust.com/wm812yf?engagement_type=fallback_click&fallback=https%3A%2F%2Fwww.hoyolab.com%2Fhome&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mihoyo.hoyolab&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1559483982)
 
 〓Official Site〓
 
-[https://genshin.hoyoverse.com/](https://genshin.hoyoverse.com/en/)
+[Official Site](https://genshin.hoyoverse.com/)
+
+〓Official Social Media〓
+
+[Official Discord](https://discord.gg/genshinimpact)
+
+[Official Facebook](https://www.facebook.com/Genshinimpact/)
+
+[Official Twitter](https://twitter.com/GenshinImpact)
+
+[Official YouTube](http://www.youtube.com/c/GenshinImpact)
+
+[Official Twitch](https://www.reddit.com/r/Genshin_Impact)
+
+[Official Reddit](https://www.reddit.com/r/Genshin_Impact)
 
 〓Customer Service〓
 
-genshin_cs@mihoyo.com
+genshin_cs@hoyoverse.com
 
 -----
 
