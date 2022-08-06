@@ -1,31 +1,3 @@
-# Quest and Domain Issue Fix Details
-## Issue Fix Details
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/06/25/8e60989f6665a150a0e7020459098b25_9055589054387777697.jpg)
-
-Dear Travelers,
-
-Due to a system error, some Travelers are experiencing an issue with abnormal quest dialogues or are unable to complete Domain objectives.
-
-This issue has now been fixed. Travelers affected by this issue can exit the game from the Paimon Menu and log in again to resolve the corresponding issue.
-
-In the update on 2022/08/04 16:10:00 (global), the issue of abnormal dialogues or not being able to complete Domain objectives is caused by the fix for the issue whereby "the Treasure Chest will disappear abnormally if Travelers do not claim it in time after completing the World Quest 'The Treasure of the Four Skerries.'" This fix has been rolled back.
-
-The issue whereby the Treasure Chest will disappear abnormally will be fixed in a later update, please stay tuned to our announcements.
-
-We sincerely apologize for the inconvenience caused, and will issue the corresponding compensation within 24 hours.
-
-〓Compensation Details〓
-
-Primogems ×120
-
-〓Scope of Compensation〓
-
-Travelers who reached Adventure Rank 5 and above before 2022/08/04 20:15:00 (global)
-
-Compensation will be issued to Travelers in the form of in-game mail. Please claim the mail compensation before 2022/08/07 20:15:00 (global). The mail is valid for 30 days, please remember to claim it in time.
-
------
-
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
