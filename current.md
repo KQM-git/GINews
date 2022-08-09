@@ -59,6 +59,32 @@ Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the ques
 
 -----
 
+# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
+## Resonating Visions
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
+
+During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
+
+**〓Event Duration〓**
+
+2022/07/15 10:00:00 (server) until the end of Version 2.8
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
+
+※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
+
+※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
 # "Summer Fantasia" Version 2.8 Update Details
 ## Version 2.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
@@ -412,32 +438,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
-## Resonating Visions
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
-
-During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
-
-**〓Event Duration〓**
-
-2022/07/15 10:00:00 (server) until the end of Version 2.8
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
-
-※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
-
-※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
 # "Hidden Strife" Event: Complete the Challenges and Win Primogems
 ## Hidden Strife
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
@@ -465,6 +465,36 @@ And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi
 ● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
 
 ●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
+
+-----
+
+# "Reminiscent Regimen" Event: Island Co-Op Challenges
+## Reminiscent Regimen
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/630a035f498e26c2baacf8af5d6d1045_2087226373636648063.jpg)
+
+During the event, head to the Golden Apple Archipelago and face the challenges within mirages. Complete designated challenges and accrue as many points as possible to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora.
+
+**〓Event Duration〓**
+
+2022/08/04 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● The "Reminiscent Regimen" challenge has three themes: Descent, Raid, and Convoy. Each theme has 2 challenges respectively and 6 levels in total. After the event begins, one challenge level will be unlocked each day. Travelers can participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
+
+● Each challenge theme also has unique challenge objectives. Complete them and obtain a specific amount of points to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora. Travelers can confirm the challenge objectives for each challenge on the Score Details page in Challenge Details.
+
+● The Descent challenge requires Travelers to start from a platform high in the sky and begin a descending assault. Defeat all opponents on various floating platforms and reach the sea surface within the time limit to complete the challenge.
+
+● The Raid challenge requires Travelers to navigate your Waverider to reach a certain sea region, board floating platforms, and defeat all opponents on them within a time limit to complete the challenge.
+
+● The Convoy challenge requires Travelers to protect a Driftstone Raft that will automatically move towards a destination. If the Raft reaches its destination within the time limit without being destroyed, the challenge is a success.
 
 -----
 
@@ -589,36 +619,6 @@ Fixes an issue whereby some Artifacts had a small probability of displaying abno
 〓Update Content 2022/07/13 19:15:00 (global)〓
 
 Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
-
------
-
-# "Reminiscent Regimen" Event: Island Co-Op Challenges
-## Reminiscent Regimen
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/630a035f498e26c2baacf8af5d6d1045_2087226373636648063.jpg)
-
-During the event, head to the Golden Apple Archipelago and face the challenges within mirages. Complete designated challenges and accrue as many points as possible to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora.
-
-**〓Event Duration〓**
-
-2022/08/04 10:00:00 (server) – 2022/08/15 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● The "Reminiscent Regimen" challenge has three themes: Descent, Raid, and Convoy. Each theme has 2 challenges respectively and 6 levels in total. After the event begins, one challenge level will be unlocked each day. Travelers can participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
-
-● Each challenge theme also has unique challenge objectives. Complete them and obtain a specific amount of points to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora. Travelers can confirm the challenge objectives for each challenge on the Score Details page in Challenge Details.
-
-● The Descent challenge requires Travelers to start from a platform high in the sky and begin a descending assault. Defeat all opponents on various floating platforms and reach the sea surface within the time limit to complete the challenge.
-
-● The Raid challenge requires Travelers to navigate your Waverider to reach a certain sea region, board floating platforms, and defeat all opponents on them within a time limit to complete the challenge.
-
-● The Convoy challenge requires Travelers to protect a Driftstone Raft that will automatically move towards a destination. If the Raft reaches its destination within the time limit without being destroyed, the challenge is a success.
 
 -----
 
