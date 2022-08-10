@@ -622,6 +622,34 @@ Fixes an issue whereby the chat record of new conversations was not displayed fo
 
 -----
 
+# "Evermotion Mechanical Painting" Event: Restore the Mechanical Painting and Obtain Primogems
+## Evermotion Mechanical Painting
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/5fc9ad7662824d36df50bbcaba8bf648_5036248113568846083.jpg)
+
+During the event, help Félix Yogue, a person from the Court of Fontaine, to resolve his problems. Restore the Mechanical Painting Parts and combine them into an Evermotion Mechanical Painting to obtain rewards such as Primogems, a Furnishing, Hero's Wit, Weapon Ascension Materials, and Mora.
+
+**〓Event Duration〓**
+
+2022/08/12 10:00:00 (server) – 2022/08/22 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 18 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● During the event, you can use Félix Yogue's special workbench to restore the Mechanical Painting Parts.
+
+● From the first day of the event, a new part that can be restored will unlock every day. A total of six parts need to be restored in sequence.
+
+● After restoring all six Mechanical Painting Parts, you must place the Parts at the right angles and specific locations to restore the Evermotion Mechanical Painting. After the restoration is complete, you can obtain rewards such as Primogems, a Furnishing, Hero's Wit, and Mora.
+
+※ If you exit the interface while the Mechanical Painting Parts restoration process or the piecing process of the Evermotion Mechanical Painting is ongoing, the restoration progress will not be saved.
+
+-----
+
 # Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
 ## Event Wish - Tapestry of Golden Flames
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/ed728fe4ed6b1b618289320855c8e3d5_4632740134026007100.jpg)
