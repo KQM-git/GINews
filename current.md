@@ -438,66 +438,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Hidden Strife" Event: Complete the Challenges and Win Primogems
-## Hidden Strife
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
-
-During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
-
-**〓Event Duration〓**
-
-2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 25 or above
-
-Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
-
-〓Event Details〓
-
-● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
-
-● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
-
-● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
-
-●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
-
------
-
-# "Reminiscent Regimen" Event: Island Co-Op Challenges
-## Reminiscent Regimen
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/630a035f498e26c2baacf8af5d6d1045_2087226373636648063.jpg)
-
-During the event, head to the Golden Apple Archipelago and face the challenges within mirages. Complete designated challenges and accrue as many points as possible to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora.
-
-**〓Event Duration〓**
-
-2022/08/04 10:00:00 (server) – 2022/08/15 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● The "Reminiscent Regimen" challenge has three themes: Descent, Raid, and Convoy. Each theme has 2 challenges respectively and 6 levels in total. After the event begins, one challenge level will be unlocked each day. Travelers can participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
-
-● Each challenge theme also has unique challenge objectives. Complete them and obtain a specific amount of points to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora. Travelers can confirm the challenge objectives for each challenge on the Score Details page in Challenge Details.
-
-● The Descent challenge requires Travelers to start from a platform high in the sky and begin a descending assault. Defeat all opponents on various floating platforms and reach the sea surface within the time limit to complete the challenge.
-
-● The Raid challenge requires Travelers to navigate your Waverider to reach a certain sea region, board floating platforms, and defeat all opponents on them within a time limit to complete the challenge.
-
-● The Convoy challenge requires Travelers to protect a Driftstone Raft that will automatically move towards a destination. If the Raft reaches its destination within the time limit without being destroyed, the challenge is a success.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -619,6 +559,66 @@ Fixes an issue whereby some Artifacts had a small probability of displaying abno
 〓Update Content 2022/07/13 19:15:00 (global)〓
 
 Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
+
+-----
+
+# "Hidden Strife" Event: Complete the Challenges and Win Primogems
+## Hidden Strife
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
+
+During the event, the Traveler and Paimon notice something from the past that might pose a threat after visiting Dawn Winery... Upon completing the challenges, you can obtain rewards such as Primogems, Hero's Wit, and Weapon Ascension Materials.
+
+**〓Event Duration〓**
+
+2022/07/27 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 25 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete Diluc's Story Quest "Noctua Chapter: Act I - Darknight Hero's Alibi"
+
+〓Event Details〓
+
+● From the first day of the event, a new challenge will unlock every day. A total of seven challenges will be unlocked.
+
+● Every challenge has two modes: "Vicious Battle" and "Dire Straits."
+
+● "Vicious Battle" Mode features three difficulty levels: Perilous, Quandary, and Desperate. All difficulties will be unlocked by default after the challenge begins. Completing it at a higher difficulty will automatically complete the lower difficulties.
+
+●  "Dire Straits" Mode only unlocks after completing "Desperate" Difficulty in "Vicious Battle" Mode.
+
+-----
+
+# "Reminiscent Regimen" Event: Island Co-Op Challenges
+## Reminiscent Regimen
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/630a035f498e26c2baacf8af5d6d1045_2087226373636648063.jpg)
+
+During the event, head to the Golden Apple Archipelago and face the challenges within mirages. Complete designated challenges and accrue as many points as possible to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora.
+
+**〓Event Duration〓**
+
+2022/08/04 10:00:00 (server) – 2022/08/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● The "Reminiscent Regimen" challenge has three themes: Descent, Raid, and Convoy. Each theme has 2 challenges respectively and 6 levels in total. After the event begins, one challenge level will be unlocked each day. Travelers can participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
+
+● Each challenge theme also has unique challenge objectives. Complete them and obtain a specific amount of points to obtain rewards such as Primogems, Hero's Wit, Talent Level-Up Materials, and Mora. Travelers can confirm the challenge objectives for each challenge on the Score Details page in Challenge Details.
+
+● The Descent challenge requires Travelers to start from a platform high in the sky and begin a descending assault. Defeat all opponents on various floating platforms and reach the sea surface within the time limit to complete the challenge.
+
+● The Raid challenge requires Travelers to navigate your Waverider to reach a certain sea region, board floating platforms, and defeat all opponents on them within a time limit to complete the challenge.
+
+● The Convoy challenge requires Travelers to protect a Driftstone Raft that will automatically move towards a destination. If the Raft reaches its destination within the time limit without being destroyed, the challenge is a success.
 
 -----
 
