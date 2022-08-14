@@ -562,6 +562,20 @@ Fixes an issue whereby the chat record of new conversations was not displayed fo
 
 -----
 
+# The Version 3.0 "The Morn a Thousand Roses Brings" Preview page is here!
+## Genshin Impact Version 3.0 Preview
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/11/8135498a21713f094628f6eb1817b344_10423619651354272.jpg)
+
+Dear Traveler,
+
+The Version 3.0 "The Morn a Thousand Roses Brings" Preview page is here!
+
+[>>Go to V3.0 "The Morn a Thousand Roses Brings" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220814prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220814warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # "Hidden Strife" Event: Complete the Challenges and Win Primogems
 ## Hidden Strife
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8a890c5db0510673bc0231b6b5af2c51_7468924108454703028.jpg)
