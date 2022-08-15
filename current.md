@@ -475,6 +475,26 @@ Fixes an issue whereby the chat record of new conversations was not displayed fo
 
 -----
 
+# Genshin Impact V2.0 Commemorative OST - "The Shimmering Voyage Vol. 2" Now Available
+## V2.0 Commemorative OST Out Now
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/14/7a32aa8f256b5a35fa85b1e2f3465ec9_6978666804355182264.jpg)
+
+Dear Travelers,
+
+Genshin Impact's Version 2.0 Commemorative OST album "The Shimmering Voyage Vol. 2" is now available! The album features 57 remarkable tracks composed by the HOYO-MiX team, each one an original composition from Genshin Impact.
+
+Travelers can go to the following platforms to listen to "The Shimmering Voyage Vol. 2."
+
+Apple Music:
+
+[Click here to listen to "The Shimmering Voyage Vol. 2"](https://music.apple.com/us/album/1639199039)
+
+Spotify:
+
+[Click here to listen to "The Shimmering Voyage Vol. 2"](http://open.spotify.com/album/7DRIifRCDdeXVzR5Jdxw2i)
+
+-----
+
 # "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
 ## Summertime Odyssey
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
