@@ -660,34 +660,6 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 
 -----
 
-# "Evermotion Mechanical Painting" Event: Restore the Mechanical Painting and Obtain Primogems
-## Evermotion Mechanical Painting
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/5fc9ad7662824d36df50bbcaba8bf648_5036248113568846083.jpg)
-
-During the event, help Félix Yogue, a person from the Court of Fontaine, to resolve his problems. Restore the Mechanical Painting Parts and combine them into an Evermotion Mechanical Painting to obtain rewards such as Primogems, a Furnishing, Hero's Wit, Weapon Ascension Materials, and Mora.
-
-**〓Event Duration〓**
-
-2022/08/12 10:00:00 (server) – 2022/08/22 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 18 or above
-
-Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● During the event, you can use Félix Yogue's special workbench to restore the Mechanical Painting Parts.
-
-● From the first day of the event, a new part that can be restored will unlock every day. A total of six parts need to be restored in sequence.
-
-● After restoring all six Mechanical Painting Parts, you must place the Parts at the right angles and specific locations to restore the Evermotion Mechanical Painting. After the restoration is complete, you can obtain rewards such as Primogems, a Furnishing, Hero's Wit, and Mora.
-
-※ If you exit the interface while the Mechanical Painting Parts restoration process or the piecing process of the Evermotion Mechanical Painting is ongoing, the restoration progress will not be saved.
-
------
-
 # Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
 ## Event Wish - Tapestry of Golden Flames
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/ed728fe4ed6b1b618289320855c8e3d5_4632740134026007100.jpg)
@@ -791,56 +763,6 @@ The "Summertime Odyssey" event is now available! After experiencing it in the ga
 〓How to Access Tool〓
 
 You can check it out for yourself by going to Tools > Battle Chronicle or Personal Homepage > Battle Chronicle on HoYoLAB~
-
------
-
-# Diluc's Outfit "Red Dead of Night" Available at a Limited-Time Discount
-## Red Dead of Night
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/8f10a3ac8f63692ada06cc850525cbb0_6827997846697708624.jpg)
-
-Diluc's outfit "Red Dead of Night" is available at a limited-time discount in the Shop!
-
-**〓Discount Period〓**
-
-After the Version 2.8 update – 2022/08/22 03:59:59 (server)
-
-**〓Outfit Details〓**
-
-● Diluc's outfit "Red Dead of Night" will be permanently available in the Shop after the Version 2.8 update.
-
-● Diluc's outfit "Red Dead of Night" will also feature additional idle animations, combat special effects, combat voice lines, and chat voicelines.
-
-● The price of the outfit after discount is 1,980 Genesis Crystals. The price will revert to 2,480 Genesis Crystals after the
-
-limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Diluc can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
-# "Azure Main" Event Details
-## Azure Main
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/0112d5a067621306f08451f14f99b2ee_176180079987267626.jpg)
-
-Travelers can earn rich rewards in "Azure Main" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Azure Main" and Furnishing Blueprint "Cosmos Within."
-
-**〓Event Duration〓**
-
-After the Version 2.8 update – 2022/08/22 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/08/22 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
