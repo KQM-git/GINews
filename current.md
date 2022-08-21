@@ -660,20 +660,6 @@ And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
 
 -----
 
-# The Version 3.0 "The Morn a Thousand Roses Brings" Preview page is here!
-## Genshin Impact Version 3.0 Preview
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/11/8135498a21713f094628f6eb1817b344_10423619651354272.jpg)
-
-Dear Traveler,
-
-The Version 3.0 "The Morn a Thousand Roses Brings" Preview page is here!
-
-[>>Go to V3.0 "The Morn a Thousand Roses Brings" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220814prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220814warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Evermotion Mechanical Painting" Event: Restore the Mechanical Painting and Obtain Primogems
 ## Evermotion Mechanical Painting
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/5fc9ad7662824d36df50bbcaba8bf648_5036248113568846083.jpg)
