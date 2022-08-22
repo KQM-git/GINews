@@ -450,6 +450,395 @@ Bundle Price: Now 50% off for a limited time! The price after the discount is 15
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue under specific circumstances whereby the Treasure Chest will disappear abnormally if Travelers do not claim it in time after completing the World Quest "The Treasure of the Four Skerries." We will send out rewards via in-game mail using centralized distribution every week for Travelers who encountered this issue during Version 2.8.
+
+*Note: The Treasure Chest rewards will only be re-issued once. Travelers who encounter this issue will receive the re-issued rewards within the next week.
+
+There is an issue with the "Hidden Strife" event whereby there is a chance that characters are unable to trigger the relevant counts for the criteria "Deal DMG to opponents when using Claymores 15 times" or "Deal DMG with Normal Attacks 20 times" under specific circumstances, resulting in the inability to obtain "Afterimaged Might." Travelers who experience this issue can exit the game via the Paimon Menu and log in again as a temporary fix.
+
+There is an issue after the Version 2.8 update whereby some enemies (such as Geovishap Hatchling) have a small chance of displaying abnormal target tracking when casting their skills. This issue will be fixed in a later update, please stay tuned to our announcements.
+
+Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
+
+The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
+
+*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
+
+When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓Update Content 2022/08/04 20:15:00 (global)〓
+
+In the update on 2022/08/04 16:10:00 (global), the fix for the issue whereby "the Treasure Chest will disappear abnormally if Travelers do not claim it in time after completing the World Quest 'The Treasure of the Four Skerries'" caused some Travelers to experience an issue with abnormal quest dialogues or are unable to complete Domain objectives. This fix has been rolled back. Travelers can exit the game from the Paimon Menu and log in again to carry out the quest or challenge Domains as normal.
+
+The issue whereby the Treasure Chest will disappear abnormally will be fixed in a later update. We sincerely apologize for the inconvenience caused.
+
+〓Update Content 2022/08/04 16:10:00 (global)〓
+
+Fixes an issue with the Domain "Blazin' Trails" whereby the icons indicating the limited duration of the quest items "Reverberating Key," and "Key" were displayed abnormally.
+
+Fixes an issue under specific circumstances whereby the Treasure Chest will disappear abnormally when carrying out the quest objective "Find the place where the treasure is buried" in the World Quest "The Treasure of the Four Skerries." Travelers who encounter this issue can first complete the World Quest "The Treasure of the Four Skerries" in full, then exit the game via the Paimon Menu, and go to where the chest spawns. Click "Investigate," and then climb the Cloudleisure Steps to collect the chest.
+
+〓Update Content 2022/07/28 16:20:00 (global)〓
+
+Fixes the issues under certain circumstances in the Domain "Blazin' Trails" whereby the Pyro Monument could not be unlocked even if the "Dream Form" has reached the destination, or the "Dream Form" did not appear normally. Travelers who encounter these issues can log out through the Paimon Menu and log in again to resolve them.
+
+Updated resources related to subsequent events.
+
+〓Update Content 2022/07/22 17:55:00 (global)〓
+
+Fixes an issue under certain circumstances whereby the Story Quest "The Ancient Azure Stars" cannot be completed, as players are unable to return to the quest location due to being blocked by barriers when carrying out the objective "Solve the astral puzzle."
+
+We will resolve the problem within 36 hours for all accounts that have been affected before the update. After the fix goes live, Travelers can log in again to continue the quest.
+
+Fixes an issue whereby there is a small chance that the connection between the stars would disappear abnormally if you move away from the stars in the Domain then approach them again when carrying out the Story Quest "The Ancient Azure Stars."
+
+〓Update Content 2022/07/21 11:20:00 (global)〓
+
+Fixes an issue with the character Shikanoin Heizou's Elemental Skill whereby when you hit opponents under the effect of 4 Declension stacks (i.e. the Conviction effect), the elemental effect produced might be abnormal. After the fix, the elemental effect produced by the Elemental Skill at 4 Declension stacks will be consistent with that of other Declension stacks.
+
+▌Issue Fix Compensation
+
+● Compensation Details
+
+Primogems ×100
+
+● Scope of Compensation
+
+Travelers who reached Adventure Rank 5 and above before 2022/07/21 11:00:00 (global)
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/07/24 11:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+
+Fixes an issue whereby the avatar images of Diluc's outfit "Red Dead of Night" and Fischl's outfit "Ein Immernachtstraum" are displayed abnormally.
+
+Fixes an issue whereby in Photo Mode, the eye model of the character Shikanoin Heizou will be displayed abnormally when he is performing a certain idle animation.
+
+Fixes an issue with the description text of "Central Camp Image" on "The Photographer's Words" interface in the "Resonating Visions" event in Simplified Chinese, Traditional Chinese, and Russian.
+
+Fixes an issue under certain conditions whereby a specific Treasure Chest could not be unlocked normally in the Domain "As the Courtyard in Spring Once Appeared: Part II."
+
+Fixes an issue under certain conditions whereby the Electro Seelie disappeared abnormally in the Domain "As the Courtyard in Spring Once Appeared."
+
+Fixes an issue whereby astral images will not be displayed when Graphics Quality is set to the lowest for one of the astral mechanisms on Minacious Isle.
+
+Fixes an issue under certain circumstances whereby the quest objective "Find the treasure clue on the island" in the World Quest "Treasure Clue: Twinning Isle" could not be completed.
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+〓Update Content 2022/07/19 19:35:00 (global)〓
+
+Fixes an issue with the Story Quest "The Ancient Azure Stars" whereby if Travelers exit the Domain and enter again when carrying out the objective "Follow the strange star" under certain circumstances, the quest objective would disappear and Travelers are unable to follow the star into the pool. Travelers who encounter this issue can log out through the Paimon Menu and log back in to continue the quest normally.
+
+〓Update Content 2022/07/18 20:00:00 (global)〓
+
+Fixes an issue with the Story Quest "Immernachtreich Apokalypse" whereby when carrying out the objective "Save Leon," when Travelers operate the device to repair the path and the server gets disconnected, Leon would abnormally stop in place after reconnecting to the server. Travelers who encounter this issue can log out through the Paimon Menu and log back in to continue the quest normally.
+
+〓Update Content 2022/07/18 16:10:00 (global)〓
+
+Fixes an issue with the Story Quest "Blazin' Trails" whereby the quest objective "Go to the brightly lit place" could not be completed.
+
+Fixes an issue whereby characters are blocked by the wall under specific circumstances and are thus unable to return to the appropriate location to continue the Story Quest "As the Courtyard in Spring Once Appeared."
+
+We will resolve the problem within 36 hours for all accounts that have been affected before the update. After the fix goes live, Travelers can log in again to continue the quest.
+
+Fixes an issue with the Story Quest "As the Courtyard in Spring Once Appeared" whereby when carrying out the objective "Continue onward through the shattered space," after picking up the Melodic Omamori when the server disconnected, the Melodic Omamori may unexpectedly disappear after reconnecting to the server.
+
+Fixes an issue under certain circumstances whereby when challenging the Domain "As the Courtyard in Spring Once Appeared: Part I," characters will enter subsequent rooms abnormally, and are blocked by the wall and thus unable to return to the appropriate quest location.
+
+Travelers who encountered this issue before the update can submit feedback through the in-game Paimon Menu and we will resolve the issue for you.
+
+〓Update Content 2022/07/16 22:50:00 (global)〓
+
+Fixes an issue whereby if you log out of the game and log in again after picking up the Melodic Omamori in the Domain "As the Courtyard in Spring Once Appeared: Part I," there is a probability that the Melodic Omamori will be missing.
+
+〓Update Content 2022/07/16 00:55:00 (global)〓
+
+Updates some of the resources for the "Resonating Visions" event.
+
+〓Update Content 2022/07/15 16:50:00 (global)〓
+
+Fixes an issue whereby some Artifacts had a small probability of displaying abnormally and cannot be interacted with in the Inventory, Character, and other interfaces (actual Artifact attributes are not affected).
+
+〓Update Content 2022/07/13 19:15:00 (global)〓
+
+Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
+
+-----
+
+# Web Event "A Journey Through Pages" Now Online: Take part to obtain Primogems and other rewards. A wonderful journey made out of pieces of paper. Come and check it out!
+## Web Event "A Journey Through Pages" Now Online: Take part to obtain Primogems and other rewards
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/08/0ff52a82e5dfca30bd800d847b163582_7214816198446702609.jpg)
+
+The "A Journey Through Pages" limited-time web event is now available. In the Mondstadt Athenaeum, sheets of paper are pieced together one by one to create an amazing journey. Come and explore now!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/20220817puzzle-qgrp/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220817puzzle&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/08/17 - 2022/08/23 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, you can log in to Genshin Impact every day and complete Daily Commissions, consume Original Resin, and other missions to obtain Activity Points. Accumulated Activity Points can earn you Encounter Pieces, which can be pieced together in the gameplay interface to continuously expand the map. Travelers can switch to Exploration mode to unlock various encounters on the map and interact with them. Accumulate unlocked Encounter Records to receive rewards such as Primogems.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓Event Rewards〓
+
+Unlock all Encounter Records and share the event for the first time to get Primogems ×120, Hero's Wit ×9, Mystic Enhancement Ore ×8, and Mora ×70,000 in total.
+
+-----
+
+# "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
+## Summertime Odyssey
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
+
+During the event, complete the specified tasks in "Surfpiercer" and "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore. Complete the "Phantom Realms" challenges to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
+
+**〓Event Duration〓**
+
+**Event Details** |    **Event Details** | **Start Time** | **End Time**  
+--- | --- | --- | ---
+Gameplay Duration Start Time   | Surfpiercer | 2022/07/15 10:00:00 (server) | End of Version 2.8
+^ | Misty Hills, Foggy Vales - Phantom Realms | 2022/07/16 04:00:00 (server) | ^
+^ | The Islands' Stirring Strings - Phantom Realms | 2022/07/17 04:00:00 (server) | ^
+^ | Immernachtreich Keep - Phantom Realms | 2022/07/18 04:00:00 (server) | ^
+^ | Temple of the Star Latitudes - Phantom Realms | 2022/07/19 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2022/07/16 04:00:00 (server) | ^
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
+
+And complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
+
+During this time, the Adventure Rank required to accept Mona's Story Quest will be adjusted to Adventure Rank 32. Complete Mona's Story Quest to enhance your experience.
+
+※ If you have not completed Mona's Story Quest, you can enter the event through "Quick Start" in the event page.
+
+**〓Surfpiercer〓**
+
+Unlock Criteria: Unlocks after completing the quest "Summertime Odyssey: I"
+
+● For the first three days of the event, a new Waverider challenge will unlock every day. Complete the specified challenge tasks to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
+
+** **
+
+**〓Phantom Realms〓**
+
+Unlock Criteria:
+
+Misty Hills, Foggy Vales - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: II"
+
+The Islands' Stirring Strings - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: III"
+
+Immernachtreich Keep - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: IV"
+
+Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: V"
+
+● During the event, complete the "Initial Exploration" challenge in "Phantom Realms" to unlock "Direct Strike" and carry out the challenges.
+
+● Complete the specified challenges in "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
+
+● Complete the specified challenges in "Phantom Realms" to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
+
+● When the Event Shop closes, any remaining Iridescent Flotsam in your possession will automatically disappear, and the relevant Event Shop page(s) will also close.
+
+● During the event, you will automatically accept the quest "Summertime Odyssey: VI" after completing the quest "Summertime Odyssey: V." Complete the quests to obtain rewards such as Primogems, Hero's Wit, and Mora. After the event has ended, you will no longer be able to participate in the "Summertime Odyssey" quest.
+
+-----
+
+# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
+## Resonating Visions
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
+
+During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
+
+**〓Event Duration〓**
+
+2022/07/15 10:00:00 (server) until the end of Version 2.8
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
+
+**〓Event Details〓**
+
+● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
+
+※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
+
+※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# Teyvat Interactive Map Update – Golden Apple Archipelago Map Now Available
+## Teyvat Interactive Map: Version 2.8 Update
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/13/2e7f802770ee753297458b71c7ace673_6087174612151107621.jpg)
+
+[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?utm_source=ingame&utm_medium=notice#/map/12)
+
+Hello, Travelers~
+
+The Golden Apple Archipelago pins will be added to the Teyvat Interactive Map in version 2.8. Let's check them out!
+
+▌ Update Details
+
+- New map: version 2.8 event map Golden Apple Archipelago is available now!
+
+– Pins updated: Open-World Chests, Puzzle Pins, Phantasmal Conches, Local Specialties, enemies, etc. More functions are on their way as the in-game island gets fully unlocked
+
+* This function can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
+
+▌ How to Access Tool
+
+You can switch the map to the Golden Apple Archipelago by going to Tools > Teyvat Interactive Map
+
+-----
+
+# Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
+## Event Wish - Tapestry of Golden Flames
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/ed728fe4ed6b1b618289320855c8e3d5_4632740134026007100.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/08/02 18:00:00 (server) — 2022/08/23 14:59:59 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Stage Lucida" Yun Jin (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Blazing Riff" Xinyan (Pyro), and "Stage Lucida" Yun Jin (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rates for Thundering Pulse (Bow) and Summit Shaper (Sword)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/928723aa2a8f8f46b3cde25a99825dac_8820390601396808107.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/08/02 18:00:00 (server) – 2022/08/23 14:59:59 (server) | Thundering Pulse (Bow)   Summit Shaper (Sword) | Wine and Song (Catalyst)
+^ | ^ | Alley Hunter (Bow)
+^ | ^ | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+
+● During the event, the event-exclusive 5-star weapons Thundering Pulse (Bow) and Summit Shaper (Sword) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Wine and Song (Catalyst) and Alley Hunter (Bow) as well as the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), and Dragon's Bane (Polearm) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Thundering Pulse (Bow) or Summit Shaper (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Battle Chronicle: Event Update - Summertime Odyssey Data Now Available
+## Battle Chronicle: Tool Update
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_5276328439616082527.jpg)
+
+[>>View Battle Chronicle Here<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
+
+Hello, Travelers~
+
+The "Summertime Odyssey" event is now available! After experiencing it in the game, Travelers can check their event records of "Summertime Odyssey" in the Events module of "Genshin Impact Battle Chronicle."
+
+*Scroll down to the bottom of "Genshin Impact Battle Chronicle" and select "Summertime Odyssey" in the Event Review to view.
+
+〓Update Details〓
+
+- After experiencing the "Summertime Odyssey" event in-game, Travelers will be able to view their data such as the number of Teleport Waypoints and Treasure Chests unlocked in Version 2.8 in their Battle Chronicle.
+
+- In addition, click on the bubble to enter the corresponding event page to check various interesting records in the "Summertime Odyssey" event - the best challenge record obtained in Surfpiercer, the total number of times the special skills were used in Phantom Realms, and the memories shared by the Travelers and their companions...
+
+- The "Summertime Odyssey" Battle Chronicle supports viewing in both Web and App, and the Save Pictures function is supported in each event page. Go check your event records and share them with other Travelers~
+
+〓How to Access Tool〓
+
+You can check it out for yourself by going to Tools > Battle Chronicle or Personal Homepage > Battle Chronicle on HoYoLAB~
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
+# Details of the Feedback on Special Categories Function
+## Feedback on Special Categories
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
+
+Dear Travelers,
+
+To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
+
+At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
+
+〓Enter Feedback〓
+
+[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
+
+Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+
+〓Duration〓
+
+Permanently Available
+
+-----
+
 # "Summer Fantasia" Version 2.8 Update Details
 ## Version 2.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/11/970303cd7ab3b4355532243486c97fff_853438168649553219.jpg)
@@ -800,395 +1189,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue under specific circumstances whereby the Treasure Chest will disappear abnormally if Travelers do not claim it in time after completing the World Quest "The Treasure of the Four Skerries." We will send out rewards via in-game mail using centralized distribution every week for Travelers who encountered this issue during Version 2.8.
-
-*Note: The Treasure Chest rewards will only be re-issued once. Travelers who encounter this issue will receive the re-issued rewards within the next week.
-
-There is an issue with the "Hidden Strife" event whereby there is a chance that characters are unable to trigger the relevant counts for the criteria "Deal DMG to opponents when using Claymores 15 times" or "Deal DMG with Normal Attacks 20 times" under specific circumstances, resulting in the inability to obtain "Afterimaged Might." Travelers who experience this issue can exit the game via the Paimon Menu and log in again as a temporary fix.
-
-There is an issue after the Version 2.8 update whereby some enemies (such as Geovishap Hatchling) have a small chance of displaying abnormal target tracking when casting their skills. This issue will be fixed in a later update, please stay tuned to our announcements.
-
-Continuous attacks have a very low probability of abnormally and significantly extending the duration of various effects on the character Kamisato Ayato (up to twice the duration), including but not limited to the "Takimeguri Kanka" state from his Elemental Skill, "Corrosion", and "Smoldering Flames" that are applied to the character.
-
-The developers have detected the initial cause of this issue. As the fix involves fundamental logic, this issue will be fixed in Version 3.0 after comprehensive testing.
-
-*Note: The fix will not affect the abnormal increase in duration caused by hit lag, or Plunging Attacks that can be performed from jumping on a flat surface due to hit lag.
-
-When using an iOS or Android device to play the game, after some characters cast their Elemental Bursts, there may be a problem with their weapons' color display. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-〓Update Content 2022/08/04 20:15:00 (global)〓
-
-In the update on 2022/08/04 16:10:00 (global), the fix for the issue whereby "the Treasure Chest will disappear abnormally if Travelers do not claim it in time after completing the World Quest 'The Treasure of the Four Skerries'" caused some Travelers to experience an issue with abnormal quest dialogues or are unable to complete Domain objectives. This fix has been rolled back. Travelers can exit the game from the Paimon Menu and log in again to carry out the quest or challenge Domains as normal.
-
-The issue whereby the Treasure Chest will disappear abnormally will be fixed in a later update. We sincerely apologize for the inconvenience caused.
-
-〓Update Content 2022/08/04 16:10:00 (global)〓
-
-Fixes an issue with the Domain "Blazin' Trails" whereby the icons indicating the limited duration of the quest items "Reverberating Key," and "Key" were displayed abnormally.
-
-Fixes an issue under specific circumstances whereby the Treasure Chest will disappear abnormally when carrying out the quest objective "Find the place where the treasure is buried" in the World Quest "The Treasure of the Four Skerries." Travelers who encounter this issue can first complete the World Quest "The Treasure of the Four Skerries" in full, then exit the game via the Paimon Menu, and go to where the chest spawns. Click "Investigate," and then climb the Cloudleisure Steps to collect the chest.
-
-〓Update Content 2022/07/28 16:20:00 (global)〓
-
-Fixes the issues under certain circumstances in the Domain "Blazin' Trails" whereby the Pyro Monument could not be unlocked even if the "Dream Form" has reached the destination, or the "Dream Form" did not appear normally. Travelers who encounter these issues can log out through the Paimon Menu and log in again to resolve them.
-
-Updated resources related to subsequent events.
-
-〓Update Content 2022/07/22 17:55:00 (global)〓
-
-Fixes an issue under certain circumstances whereby the Story Quest "The Ancient Azure Stars" cannot be completed, as players are unable to return to the quest location due to being blocked by barriers when carrying out the objective "Solve the astral puzzle."
-
-We will resolve the problem within 36 hours for all accounts that have been affected before the update. After the fix goes live, Travelers can log in again to continue the quest.
-
-Fixes an issue whereby there is a small chance that the connection between the stars would disappear abnormally if you move away from the stars in the Domain then approach them again when carrying out the Story Quest "The Ancient Azure Stars."
-
-〓Update Content 2022/07/21 11:20:00 (global)〓
-
-Fixes an issue with the character Shikanoin Heizou's Elemental Skill whereby when you hit opponents under the effect of 4 Declension stacks (i.e. the Conviction effect), the elemental effect produced might be abnormal. After the fix, the elemental effect produced by the Elemental Skill at 4 Declension stacks will be consistent with that of other Declension stacks.
-
-▌Issue Fix Compensation
-
-● Compensation Details
-
-Primogems ×100
-
-● Scope of Compensation
-
-Travelers who reached Adventure Rank 5 and above before 2022/07/21 11:00:00 (global)
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/07/24 11:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
-
-Fixes an issue whereby the avatar images of Diluc's outfit "Red Dead of Night" and Fischl's outfit "Ein Immernachtstraum" are displayed abnormally.
-
-Fixes an issue whereby in Photo Mode, the eye model of the character Shikanoin Heizou will be displayed abnormally when he is performing a certain idle animation.
-
-Fixes an issue with the description text of "Central Camp Image" on "The Photographer's Words" interface in the "Resonating Visions" event in Simplified Chinese, Traditional Chinese, and Russian.
-
-Fixes an issue under certain conditions whereby a specific Treasure Chest could not be unlocked normally in the Domain "As the Courtyard in Spring Once Appeared: Part II."
-
-Fixes an issue under certain conditions whereby the Electro Seelie disappeared abnormally in the Domain "As the Courtyard in Spring Once Appeared."
-
-Fixes an issue whereby astral images will not be displayed when Graphics Quality is set to the lowest for one of the astral mechanisms on Minacious Isle.
-
-Fixes an issue under certain circumstances whereby the quest objective "Find the treasure clue on the island" in the World Quest "Treasure Clue: Twinning Isle" could not be completed.
-
-Travelers affected by the issues mentioned above can restart the game to continue playing normally.
-
-〓Update Content 2022/07/19 19:35:00 (global)〓
-
-Fixes an issue with the Story Quest "The Ancient Azure Stars" whereby if Travelers exit the Domain and enter again when carrying out the objective "Follow the strange star" under certain circumstances, the quest objective would disappear and Travelers are unable to follow the star into the pool. Travelers who encounter this issue can log out through the Paimon Menu and log back in to continue the quest normally.
-
-〓Update Content 2022/07/18 20:00:00 (global)〓
-
-Fixes an issue with the Story Quest "Immernachtreich Apokalypse" whereby when carrying out the objective "Save Leon," when Travelers operate the device to repair the path and the server gets disconnected, Leon would abnormally stop in place after reconnecting to the server. Travelers who encounter this issue can log out through the Paimon Menu and log back in to continue the quest normally.
-
-〓Update Content 2022/07/18 16:10:00 (global)〓
-
-Fixes an issue with the Story Quest "Blazin' Trails" whereby the quest objective "Go to the brightly lit place" could not be completed.
-
-Fixes an issue whereby characters are blocked by the wall under specific circumstances and are thus unable to return to the appropriate location to continue the Story Quest "As the Courtyard in Spring Once Appeared."
-
-We will resolve the problem within 36 hours for all accounts that have been affected before the update. After the fix goes live, Travelers can log in again to continue the quest.
-
-Fixes an issue with the Story Quest "As the Courtyard in Spring Once Appeared" whereby when carrying out the objective "Continue onward through the shattered space," after picking up the Melodic Omamori when the server disconnected, the Melodic Omamori may unexpectedly disappear after reconnecting to the server.
-
-Fixes an issue under certain circumstances whereby when challenging the Domain "As the Courtyard in Spring Once Appeared: Part I," characters will enter subsequent rooms abnormally, and are blocked by the wall and thus unable to return to the appropriate quest location.
-
-Travelers who encountered this issue before the update can submit feedback through the in-game Paimon Menu and we will resolve the issue for you.
-
-〓Update Content 2022/07/16 22:50:00 (global)〓
-
-Fixes an issue whereby if you log out of the game and log in again after picking up the Melodic Omamori in the Domain "As the Courtyard in Spring Once Appeared: Part I," there is a probability that the Melodic Omamori will be missing.
-
-〓Update Content 2022/07/16 00:55:00 (global)〓
-
-Updates some of the resources for the "Resonating Visions" event.
-
-〓Update Content 2022/07/15 16:50:00 (global)〓
-
-Fixes an issue whereby some Artifacts had a small probability of displaying abnormally and cannot be interacted with in the Inventory, Character, and other interfaces (actual Artifact attributes are not affected).
-
-〓Update Content 2022/07/13 19:15:00 (global)〓
-
-Fixes an issue whereby the chat record of new conversations was not displayed for Travelers who had a chat session prior to the Version 2.8 update and sent a new conversation on the chat interface after the version update. The issue whereby chat history that existed prior to the Version 2.8 update is not displayed will be fixed in a subsequent update.
-
------
-
-# Web Event "A Journey Through Pages" Now Online: Take part to obtain Primogems and other rewards. A wonderful journey made out of pieces of paper. Come and check it out!
-## Web Event "A Journey Through Pages" Now Online: Take part to obtain Primogems and other rewards
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/08/0ff52a82e5dfca30bd800d847b163582_7214816198446702609.jpg)
-
-The "A Journey Through Pages" limited-time web event is now available. In the Mondstadt Athenaeum, sheets of paper are pieced together one by one to create an amazing journey. Come and explore now!
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/20220817puzzle-qgrp/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220817puzzle&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2022/08/17 - 2022/08/23 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, you can log in to Genshin Impact every day and complete Daily Commissions, consume Original Resin, and other missions to obtain Activity Points. Accumulated Activity Points can earn you Encounter Pieces, which can be pieced together in the gameplay interface to continuously expand the map. Travelers can switch to Exploration mode to unlock various encounters on the map and interact with them. Accumulate unlocked Encounter Records to receive rewards such as Primogems.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-〓Event Rewards〓
-
-Unlock all Encounter Records and share the event for the first time to get Primogems ×120, Hero's Wit ×9, Mystic Enhancement Ore ×8, and Mora ×70,000 in total.
-
------
-
-# "Summertime Odyssey" Event: Take Part to Invite "Prinzessin der Verurteilung!" Fischl (Electro)
-## Summertime Odyssey
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/67decf6ae03c27fdfd5480ea4d6c3284_7939889561751479026.jpg)
-
-During the event, complete the specified tasks in "Surfpiercer" and "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore. Complete the "Phantom Realms" challenges to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
-
-**〓Event Duration〓**
-
-**Event Details** |    **Event Details** | **Start Time** | **End Time**  
---- | --- | --- | ---
-Gameplay Duration Start Time   | Surfpiercer | 2022/07/15 10:00:00 (server) | End of Version 2.8
-^ | Misty Hills, Foggy Vales - Phantom Realms | 2022/07/16 04:00:00 (server) | ^
-^ | The Islands' Stirring Strings - Phantom Realms | 2022/07/17 04:00:00 (server) | ^
-^ | Immernachtreich Keep - Phantom Realms | 2022/07/18 04:00:00 (server) | ^
-^ | Temple of the Star Latitudes - Phantom Realms | 2022/07/19 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2022/07/16 04:00:00 (server) | ^
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the Archon Quest "Chapter II: Prologue - Autumn Winds, Scarlet Leaves"
-
-And complete Mona's Story Quest "Astrolabos Chapter: Act I - Beyond This World's Stars"
-
-During this time, the Adventure Rank required to accept Mona's Story Quest will be adjusted to Adventure Rank 32. Complete Mona's Story Quest to enhance your experience.
-
-※ If you have not completed Mona's Story Quest, you can enter the event through "Quick Start" in the event page.
-
-**〓Surfpiercer〓**
-
-Unlock Criteria: Unlocks after completing the quest "Summertime Odyssey: I"
-
-● For the first three days of the event, a new Waverider challenge will unlock every day. Complete the specified challenge tasks to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
-
-** **
-
-**〓Phantom Realms〓**
-
-Unlock Criteria:
-
-Misty Hills, Foggy Vales - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: II"
-
-The Islands' Stirring Strings - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: III"
-
-Immernachtreich Keep - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: IV"
-
-Temple of the Star Latitudes - Phantom Realms: Unlocks after completing the quest "Summertime Odyssey: V"
-
-● During the event, complete the "Initial Exploration" challenge in "Phantom Realms" to unlock "Direct Strike" and carry out the challenges.
-
-● Complete the specified challenges in "Phantom Realms" to obtain rewards such as Primogems, Hero's Wit, and Mystic Enhancement Ore.
-
-● Complete the specified challenges in "Phantom Realms" to obtain Iridescent Flotsam. Accumulate a specified number of Iridescent Flotsam to invite "Prinzessin der Verurteilung!" Fischl (Electro)! You can also use Iridescent Flotsam to exchange for rewards such as Crown of Insight, Character Level-Up Materials, and Talent Level-Up Materials from the Event Shop.
-
-● When the Event Shop closes, any remaining Iridescent Flotsam in your possession will automatically disappear, and the relevant Event Shop page(s) will also close.
-
-● During the event, you will automatically accept the quest "Summertime Odyssey: VI" after completing the quest "Summertime Odyssey: V." Complete the quests to obtain rewards such as Primogems, Hero's Wit, and Mora. After the event has ended, you will no longer be able to participate in the "Summertime Odyssey" quest.
-
------
-
-# "Resonating Visions" Event: Take Part to Obtain Fischl's Outfit, Ein Immernachtstraum
-## Resonating Visions
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/06/30/dece897170195cbd3fce5dfe90384317_4619160959520365340.jpg)
-
-During the event, collect the specified number of Phantasmal Conches to obtain rewards such as Fischl's outfit, "Ein Immernachtstraum" and Primogems.
-
-**〓Event Duration〓**
-
-2022/07/15 10:00:00 (server) until the end of Version 2.8
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-And reach Golden Apple Archipelago in the quest "Summertime Odyssey: I"
-
-**〓Event Details〓**
-
-● During the event, Travelers can explore the Golden Apple Archipelago and collect Phantasmal Conches. Phantasmal Conches are scattered throughout the islands and have recorded voices and images of the past within them.
-
-※ After the end of Version 2.8, you will no longer be able to head to the islands to obtain Phantasmal Conches. You will also no longer be able to open chests or earn quest rewards on the islands, so seize the opportunity to explore away and earn rewards!
-
-※ Fischl's outfit "Ein Immernachtstraum" will be available for purchase in the Character Outfit Shop after the end of Version 2.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
-## Event Wish - Tapestry of Golden Flames
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/ed728fe4ed6b1b618289320855c8e3d5_4632740134026007100.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/08/02 18:00:00 (server) — 2022/08/23 14:59:59 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Trial by Fire" Bennett (Pyro)
-^ | ^ | "Blazing Riff" Xinyan (Pyro)
-^ | ^ | "Stage Lucida" Yun Jin (Geo)
-
-● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Blazing Riff" Xinyan (Pyro), and "Stage Lucida" Yun Jin (Geo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rates for Thundering Pulse (Bow) and Summit Shaper (Sword)!
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/19/928723aa2a8f8f46b3cde25a99825dac_8820390601396808107.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/08/02 18:00:00 (server) – 2022/08/23 14:59:59 (server) | Thundering Pulse (Bow)   Summit Shaper (Sword) | Wine and Song (Catalyst)
-^ | ^ | Alley Hunter (Bow)
-^ | ^ | The Flute (Sword)
-^ | ^ | Sacrificial Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-
-● During the event, the event-exclusive 5-star weapons Thundering Pulse (Bow) and Summit Shaper (Sword) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapons Wine and Song (Catalyst) and Alley Hunter (Bow) as well as the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), and Dragon's Bane (Polearm) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Thundering Pulse (Bow) or Summit Shaper (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Teyvat Interactive Map Update – Golden Apple Archipelago Map Now Available
-## Teyvat Interactive Map: Version 2.8 Update
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/13/2e7f802770ee753297458b71c7ace673_6087174612151107621.jpg)
-
-[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?utm_source=ingame&utm_medium=notice#/map/12)
-
-Hello, Travelers~
-
-The Golden Apple Archipelago pins will be added to the Teyvat Interactive Map in version 2.8. Let's check them out!
-
-▌ Update Details
-
-- New map: version 2.8 event map Golden Apple Archipelago is available now!
-
-– Pins updated: Open-World Chests, Puzzle Pins, Phantasmal Conches, Local Specialties, enemies, etc. More functions are on their way as the in-game island gets fully unlocked
-
-* This function can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
-
-▌ How to Access Tool
-
-You can switch the map to the Golden Apple Archipelago by going to Tools > Teyvat Interactive Map
-
------
-
-# Battle Chronicle: Event Update - Summertime Odyssey Data Now Available
-## Battle Chronicle: Tool Update
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/07/12/2a3c7f6183caba912099f25c671f0ba5_5276328439616082527.jpg)
-
-[>>View Battle Chronicle Here<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice)
-
-Hello, Travelers~
-
-The "Summertime Odyssey" event is now available! After experiencing it in the game, Travelers can check their event records of "Summertime Odyssey" in the Events module of "Genshin Impact Battle Chronicle."
-
-*Scroll down to the bottom of "Genshin Impact Battle Chronicle" and select "Summertime Odyssey" in the Event Review to view.
-
-〓Update Details〓
-
-- After experiencing the "Summertime Odyssey" event in-game, Travelers will be able to view their data such as the number of Teleport Waypoints and Treasure Chests unlocked in Version 2.8 in their Battle Chronicle.
-
-- In addition, click on the bubble to enter the corresponding event page to check various interesting records in the "Summertime Odyssey" event - the best challenge record obtained in Surfpiercer, the total number of times the special skills were used in Phantom Realms, and the memories shared by the Travelers and their companions...
-
-- The "Summertime Odyssey" Battle Chronicle supports viewing in both Web and App, and the Save Pictures function is supported in each event page. Go check your event records and share them with other Travelers~
-
-〓How to Access Tool〓
-
-You can check it out for yourself by going to Tools > Battle Chronicle or Personal Homepage > Battle Chronicle on HoYoLAB~
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
-
-Dear Travelers,
-
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
-
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
-
-〓Enter Feedback〓
-
-[Click Here to Fill Out](https://webstatic-sea.mihoyo.com/ys/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait)
-
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
-
-〓Duration〓
-
-Permanently Available
 
 -----
 
