@@ -1,3 +1,35 @@
+# New Story Unlocked - Archon Quest Chapter III: Act I and Act II
+## Archon Quest Chapter III: Act I and Act II
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/8c8e645a30d51e1dc55d16a4e24fb51b_967379412172570350.png)
+
+"There was the Door to which I found no Key;There was the Veil through which I might not see:Some little talk awhile of Me and TheeThere was--and then no more of Thee and Me."
+
+"Each Morn a thousand Roses brings, you say:Yes, but where leaves the Rose of Yesterday?"
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark" and Act II "The Morn a Thousand Roses Brings" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.0 update, Archon Quests Chapter III: Act I "Through Mists of Smoke and Forests Dark" and Chapter III: Act II "The Morn a Thousand Roses Brings" will be permanently available.
+
+〓Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+
+〓Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # "The Morn a Thousand Roses Brings" Version 3.0 Update Maintenance Preview
 ## Version 3.0 Update Maintenance Preview
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/19/c941908b14dcaf160083796a10645f89_1296046275031532020.jpg)
@@ -199,6 +231,222 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://sdk.hoyoverse.com/upload/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
+## Graven Innocence
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
+
+During the event, complete the quest "The Unappreciated Carving" to invite the character "Sprout of Rebirth" Collei (Dendro). Help the staff in Acara Crafts find assistants and collect inspiration regarding toy-making to obtain Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, event-exclusive Furnishings, etc.
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Stage I | After the Version 3.0 update  | End of Version 3.0
+^ | Stage II | 2022/08/27 04:00:00 (server) | ^
+^ | Stage III | 2022/08/30 04:00:00 (server) | ^
+^ | Stage IV | 2022/09/02 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | After the Version 3.0 update  | ^
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
+
+※ Complete Archon Quest "The Trail of the God of Wisdom" to best enjoy the event.
+
+※ If you have not completed the Archon Quest "The Trail of the God of Wisdom" during the event, you can enter the event through "Quick Start" in the event page after completing the Archon Quest "Prologue: Act I - The Outlander Who Caught the Wind."
+
+**〓Event Details〓**
+
+● Complete the quest "The Unappreciated Carving" during the event to invite the character "Sprout of Rebirth" Collei (Dendro), and unlock events like "Meticulous Craftsmanship," "Roaming the Jungle," "Metamorphosis of Wood," etc.
+
+● "Roaming the Jungle" includes gameplay like Snapshots, Behemoth Observation, Grove Dash, and Braving the Elements. These gameplay modes will be unlocked over the course of the event.
+
+● In the Behemoth Observation of "Roaming the Jungle," the challenge quest can only be completed by challenging the Electro Regisvine and Jadeplume Terrorshroom in the wilds.
+
+● Complete various quests in "Roaming the Jungle" to get "Whimsical Drafts" and "Creative Notes," which can be used to exchange for Carving Components, Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials,etc.
+
+● Go to the showcase in "Metamorphosis of Wood" and use Carving Components to assemble an Aranara Woodcarving. Complete the quest to get corresponding rewards. There is a limit to the number of carvings that can be displayed, though this number will increase as the event progresses.
+
+● After the event gameplay period ends, Whimsical Drafts and Creative Notes will disappear. Please make sure to claim the rewards in time.
+
+-----
+
+# Event Wish "Viridescent Vigil" - Boosted Drop Rate for "Verdant Strider" Tighnari (Dendro)!
+## Event Wish - Viridescent Vigil
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/dc02dc986e9a121b9eff422f8c616d6f_3984939163439657127.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.0 update – 2022/09/09 17:59:00 (server) | "Verdant Strider" Tighnari (Dendro) | "Sprout of Rebirth" Collei (Dendro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+^ | ^ | "Prinzessin der Verurteilung!" Fischl (Electro)
+
+● During this event wish, the 5-star character "Verdant Strider" Tighnari (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the four-star characters "Sprout of Rebirth" Collei (Dendro), "Kätzlein Cocktail" Diona (Cryo), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 5-star character "Verdant Strider" Tighnari (Dendro)  and 4-star character "Sprout of Rebirth" Collei (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next version.
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Gentry of Hermitage" - Boosted Drop Rate for "Vago Mundo" Zhongli (Geo)!
+## Event Wish - Gentry of Hermitage
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/d0152115c94792e7af65b205b1eaab6e_9100454468442257809.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.0 update – 2022/09/09 17:59:00 (server) | "Vago Mundo" Zhongli (Geo) | "Sprout of Rebirth" Collei (Dendro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+^ | ^ | "Prinzessin der Verurteilung!" Fischl (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Vago Mundo" Zhongli (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the four-star characters "Sprout of Rebirth" Collei (Dendro), "Kätzlein Cocktail" Diona (Cryo), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Sprout of Rebirth" Collei (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Hunter's Path (Bow) and Vortex Vanquisher (Polearm)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/abd9c6d5c0602afcf0047ba3008f4885_2862656301042669250.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 3.0 update – 2022/09/09 17:59:00 (server) | Hunter's Path (Bow)   Vortex Vanquisher (Polearm) | Favonius Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Hunter's Path (Bow) and Vortex Vanquisher (Polearm) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Hunter's Path (Bow) or Vortex Vanquisher (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# "Vulpes Zerda Chapter" Story Quest Overview
+## Vulpes Zerda Chapter
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/acae1f4f494f14557183d3acca4ac695_7084267546990899321.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a "Story Key" to unlock Tighnari's Story Quest "Vulpes Zerda Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.0 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest "Chapter III: Act II - The Morn a Thousand Roses Brings: Denouement"
+
+-----
+
+# "Luxuriant Woodlands" Event Details
+## Luxuriant Woodlands
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/64fd46d0319539af6c6438d0e26571ba_8252572530478869164.jpg)
+
+Travelers can earn rich rewards in Battle Pass during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Woodlands" and Furnishing Blueprint "Deepwood Illumination."
+
+**〓Event Duration〓**
+
+After the Version 3.0 update – 2022/09/26 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● During the current BP event, the "BEP" required for each BP Level will be adjusted to 900 (originally 1,000).
+
+● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guidance of the Land of Geo" will be replaced with "Guidance of the Land of Verdure," and "Philosophies of the Land of Geo" will be replaced with "Philosophies of the Land of Verdure."
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/09/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 16 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/b13f7e3d1be4cb63ae63d4c02aba6468_5657279547006923516.jpg)
+
+Round 16 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.0 update – 2022/09/07 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.0 update – 2022/09/07 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Seasonal Special Bundle〓**
+
+Duration: 2022/09/09 00:00:00 (server) – 2022/09/23 23:59:59 (server)
+
+Bundle Contents: Exotic Share Bundle ×6, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after the discount is 150 Genesis Crystals. Can be purchased up to 5 times in total.
+
+※Exotic Share Bundle: Use to select one of the following to add to your Inventory — Agnidus Agate Fragment ×1, Varunada Lazurite Fragment ×1, Vayuda Turquoise Fragment ×1, Shivada Jade Fragment ×1, Prithiva Topaz Fragment ×1, Vajrada Amethyst Fragment ×1, Nagadus Emerald Fragment ×1.
 
 -----
 
@@ -706,26 +954,6 @@ During the event, you can log in to Genshin Impact every day and complete Daily 
 〓Event Rewards〓
 
 Unlock all Encounter Records and share the event for the first time to get Primogems ×120, Hero's Wit ×9, Mystic Enhancement Ore ×8, and Mora ×70,000 in total.
-
------
-
-# Genshin Impact V2.0 Commemorative OST - "The Shimmering Voyage Vol. 2" Now Available
-## V2.0 Commemorative OST Out Now
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/14/7a32aa8f256b5a35fa85b1e2f3465ec9_6978666804355182264.jpg)
-
-Dear Travelers,
-
-Genshin Impact's Version 2.0 Commemorative OST album "The Shimmering Voyage Vol. 2" is now available! The album features 57 remarkable tracks composed by the HOYO-MiX team, each one an original composition from Genshin Impact.
-
-Travelers can go to the following platforms to listen to "The Shimmering Voyage Vol. 2."
-
-Apple Music:
-
-[Click here to listen to "The Shimmering Voyage Vol. 2"](https://music.apple.com/us/album/1639199039)
-
-Spotify:
-
-[Click here to listen to "The Shimmering Voyage Vol. 2"](http://open.spotify.com/album/7DRIifRCDdeXVzR5Jdxw2i)
 
 -----
 
