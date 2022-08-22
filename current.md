@@ -1,35 +1,3 @@
-# New Story Unlocked - Archon Quest Chapter III: Act I and Act II
-## Archon Quest Chapter III: Act I and Act II
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/8c8e645a30d51e1dc55d16a4e24fb51b_967379412172570350.png)
-
-"There was the Door to which I found no Key;There was the Veil through which I might not see:Some little talk awhile of Me and TheeThere was--and then no more of Thee and Me."
-
-"Each Morn a thousand Roses brings, you say:Yes, but where leaves the Rose of Yesterday?"
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark" and Act II "The Morn a Thousand Roses Brings" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.0 update, Archon Quests Chapter III: Act I "Through Mists of Smoke and Forests Dark" and Chapter III: Act II "The Morn a Thousand Roses Brings" will be permanently available.
-
-〓Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
-
-〓Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # "The Morn a Thousand Roses Brings" Version 3.0 Update Maintenance Preview
 ## Version 3.0 Update Maintenance Preview
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/19/c941908b14dcaf160083796a10645f89_1296046275031532020.jpg)
@@ -185,6 +153,38 @@ Elemental Burst: Venti, Sucrose, Shikanoin Heizou, Traveler (Anemo).
 Weapon Effect: The Viridescent Hunt
 
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter III: Act I and Act II
+## Archon Quest Chapter III: Act I and Act II
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/8c8e645a30d51e1dc55d16a4e24fb51b_967379412172570350.png)
+
+"There was the Door to which I found no Key;There was the Veil through which I might not see:Some little talk awhile of Me and TheeThere was--and then no more of Thee and Me."
+
+"Each Morn a thousand Roses brings, you say:Yes, but where leaves the Rose of Yesterday?"
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark" and Act II "The Morn a Thousand Roses Brings" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the upper-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.0 update, Archon Quests Chapter III: Act I "Through Mists of Smoke and Forests Dark" and Chapter III: Act II "The Morn a Thousand Roses Brings" will be permanently available.
+
+〓Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter II: Act IV "Requiem of the Echoing Depths"
+
+〓Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
