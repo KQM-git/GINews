@@ -278,7 +278,7 @@ And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I
 
 # Event Wish "Viridescent Vigil" - Boosted Drop Rate for "Verdant Strider" Tighnari (Dendro)!
 ## Event Wish - Viridescent Vigil
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/dc02dc986e9a121b9eff422f8c616d6f_3984939163439657127.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/23/fefc31c34678bf62cf2973d13f97e0c1_684440893627588503.jpg)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
