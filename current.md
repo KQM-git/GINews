@@ -786,6 +786,24 @@ There is an issue whereby the Voice-Over Unlock Criteria for Collei's line "Abou
 
 Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
 
+〓Update Content 2022/09/01 16:15:00 (global)〓
+
+Fixes an issue under specific circumstances whereby the "Mastermind" state of Yelan's Lv. 6 Constellation had an abnormal duration.
+
+Fixes an issue under specific circumstances whereby the quest objective "Defeat a certain number of Spinocrocodiles" in the World Quest "Into the Woods" could not be completed even after you defeated the required number of Spinocrocodiles. This issue has been fixed. You can head to the stream southeast of Pardis Dhyai to look for the NPC Rana and continue to progress in the quest.
+
+Fixes an issue under specific circumstances whereby the quest objective "Clean up the pollution caused by The Withering" in the World Quest "Agnihotra Sutra: The Final Chapter" could not be completed if the pollution caused by the corresponding Withering Zone had been cleared beforehand.
+
+Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arakunti" in the World Quest "Slumbering Roots," the quest could not continue as the NPC Arakunti disappeared abnormally. Travelers who experience this issue can return to where the "branch" is and speak to the NPC Arakunti to continue to progress in the quest.
+
+Fixes an issue under specific circumstances whereby the quest objectives "Talk to Arama" or "Defeat Marana's Avatar" in the World Quest "For All Children Who Long for Life" could not be completed. Travelers who are unable to complete the objective "Talk to Arama" can head to where "Marana's Avatar" is located to continue the quest. Travelers who are unable to complete the objective "Defeat Marana's Avatar" can continue the quest by following the quest guide.
+
+Fixes an issue that caused the windows of some buildings in Liyue and the Serenitea Pot to not light up at night.
+
+Fixes an issue whereby the Vertical Camera Sensitivity and Vertical Camera Sensitivity (Aimed Shot Mode) settings had an abnormal effect.
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
 〓Update Content 2022/08/26 16:00:00 (global)〓
 
 Fixes an issue whereby after the Version 3.0 update, the Furnishing Blueprint quest reward "Pear Orchard Stage: Yun-Han Style" could not be obtained after completing the World Quest "On the Stage, Behind the Stage." We will send out the corresponding quest reward via in-game mail using centralized distribution within 36 hours for Travelers who have encountered this issue before the fix.
