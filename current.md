@@ -786,6 +786,10 @@ There is an issue whereby the Voice-Over Unlock Criteria for Collei's line "Abou
 
 Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
 
+〓Update Content 2022/09/03 12:00:00 (global)〓
+
+Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arama" in the World Quest "For All Children Who Long for Life," the quest could not continue as the Withering Zone could not be cleared. Travelers can continue the quest by following the quest guide after logging out via the Paimon Menu and logging in again.
+
 〓Update Content 2022/09/01 16:15:00 (global)〓
 
 Fixes an issue under specific circumstances whereby the "Mastermind" state of Yelan's Lv. 6 Constellation had an abnormal duration.
