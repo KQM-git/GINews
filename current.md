@@ -1,3 +1,31 @@
+# "Fayz Trials" Event: Weakness Capturing Challenge
+## Fayz Trials
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/c634df396a52a5ea4ed917f3eee84235_2197590775253326340.jpg)
+
+During the event, Travelers can use the Fayz Potion and enter Time Dilation mode to spot your opponent's Weaknesses. Help the Sumeru researcher complete his research to obtain rewards such as Primogems, Hero's Wit, Character Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+**〓Event Duration〓**
+
+2022/09/08 10:00:00 (server) – 2022/09/26 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● There are a total of 7 combat challenges and a new challenge will be unlocked each day for the first 7 days of the event.
+
+● During the combat challenge, Fayz Tinctures will be restored over time, and Travelers can also kill enemies to obtain more Fayz Tinctures. Use the Fayz Potion enter Time Dilation mode, you can use your Viewfinder to spot your opponent's Weaknesses. Combat will resume after the Time Dilation mode ends, while releasing a "Supersense Skill" to help Travelers complete the challenge faster.
+
+● Use your Supersense Skill wisely to defeat monsters to gain more points. After reaching the challenge target, you will obtain rewards such as Primogems, Hero's Wit, Character Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+● During the combat challenges, you may only use the specific trial characters provided, and Elemental Resonances will not be available to you.
+
+-----
+
 # Version 3.0 New Content Overview
 ## New Content Overview
 
