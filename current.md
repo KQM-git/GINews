@@ -956,6 +956,30 @@ Fixes an issue under certain circumstances whereby the page cannot be loaded whe
 
 -----
 
+# Event Survey Now Open
+## Survey Now Open
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/01/b5461392d9bae30136903c4c5ab1d0c0_450969744260867046.jpg)
+
+Dear Travelers,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2022/09/09 10:00:00 (global) - 2022/09/11 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_rgd6mqxbrgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=8074&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Event Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Event Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # Additional Limited Rewards for Genshin Impact's "Check-In" and V3.0 Update for Battle Chronicle, Teyvat Interactive Map, and HoYoWiki
 ## Genshin Impact Tools V3.0 Update
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/23/b9111c50cdaf041ac5256c09d2735a62_1485676268269012594.jpg)
