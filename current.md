@@ -26,6 +26,78 @@ And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedo
 
 -----
 
+# "Lost Riches" Event: Trade Treasure for "Mini Seelie"!
+## Lost Riches
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/35e1620bff01f9865929169dce0c7f15_3251243721737218423.jpg)
+
+During the event, partner with the "Treasure-Seeking Seelie" to seek out treasure that can be exchanged in the Event Shop for one of the commemorative event gadgets: "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma"! Rewards such as Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora can also be obtained!
+
+**〓Event Duration〓**
+
+Event Start Time: 2022/09/02 10:00:00 (server) – 2022/09/19 03:59:59 (server)
+
+Event Shop Duration: 2022/09/02 10:00:00 (server) – 2022/09/19 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● During the event, check the treasure map within Ulman's Treasure Book. Follow the map to reach the area where the treasure is buried. Ulman will mark out one new area in this book each day, for a total of 6 treasure areas.
+
+● Help the "Treasure-Seeking Seelie" absorb energy in various ways in the treasure area to help it restore vitality. For every 3 instances of elemental energy obtained, the "Treasure-Seeking Seelie" will indicate the whereabouts of the treasure once.
+
+● Dig in a treasure area to find the treasure chest and claim rewards and the "Ancient Iron Coins" within.
+
+● During the event, you can exchange "Ancient Iron Coins" for materials in the event shop. After the Event Shop closes, your remaining "Ancient Iron Coins" will disappear.
+
+※ Upon completing Area 6, the Event Shop will open for the redemption of "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma." During this event, Travelers may only exchange for one type, after which the remaining four will no longer be available. Each Mini Seelie can only be obtained once.
+
+-----
+
+# "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
+## Graven Innocence
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
+
+During the event, complete the quest "The Unappreciated Carving" to invite the character "Sprout of Rebirth" Collei (Dendro). Help the staff in Acara Crafts find assistants and collect inspiration regarding toy-making to obtain Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, event-exclusive Furnishings, etc.
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Stage I | After the Version 3.0 update  | End of Version 3.0
+^ | Stage II | 2022/08/27 04:00:00 (server) | ^
+^ | Stage III | 2022/08/30 04:00:00 (server) | ^
+^ | Stage IV | 2022/09/02 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | After the Version 3.0 update  | ^
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
+
+※ Complete Archon Quest "The Trail of the God of Wisdom" to best enjoy the event.
+
+※ If you have not completed the Archon Quest "The Trail of the God of Wisdom" during the event, you can enter the event through "Quick Start" in the event page after completing the Archon Quest "Prologue: Act I - The Outlander Who Caught the Wind."
+
+**〓Event Details〓**
+
+● Complete the quest "The Unappreciated Carving" during the event to invite the character "Sprout of Rebirth" Collei (Dendro), and unlock events like "Meticulous Craftsmanship," "Roaming the Jungle," "Metamorphosis of Wood," etc.
+
+● "Roaming the Jungle" includes gameplay like Snapshots, Behemoth Observation, Grove Dash, and Braving the Elements. These gameplay modes will be unlocked over the course of the event.
+
+● In the Behemoth Observation of "Roaming the Jungle," the challenge quest can only be completed by challenging the Electro Regisvine and Jadeplume Terrorshroom in the wilds.
+
+● Complete various quests in "Roaming the Jungle" to get "Whimsical Drafts" and "Creative Notes," which can be used to exchange for Carving Components, Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials,etc.
+
+● Go to the showcase in "Metamorphosis of Wood" and use Carving Components to assemble an Aranara Woodcarving. Complete the quest to get corresponding rewards. There is a limit to the number of carvings that can be displayed, though this number will increase as the event progresses.
+
+● After the event gameplay period ends, Whimsical Drafts and Creative Notes will disappear. Please make sure to claim the rewards in time.
+
+-----
+
 # Version 3.0 New Content Overview
 ## New Content Overview
 
@@ -758,36 +830,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Lost Riches" Event: Trade Treasure for "Mini Seelie"!
-## Lost Riches
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/35e1620bff01f9865929169dce0c7f15_3251243721737218423.jpg)
-
-During the event, partner with the "Treasure-Seeking Seelie" to seek out treasure that can be exchanged in the Event Shop for one of the commemorative event gadgets: "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma"! Rewards such as Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora can also be obtained!
-
-**〓Event Duration〓**
-
-Event Start Time: 2022/09/02 10:00:00 (server) – 2022/09/19 03:59:59 (server)
-
-Event Shop Duration: 2022/09/02 10:00:00 (server) – 2022/09/19 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● During the event, check the treasure map within Ulman's Treasure Book. Follow the map to reach the area where the treasure is buried. Ulman will mark out one new area in this book each day, for a total of 6 treasure areas.
-
-● Help the "Treasure-Seeking Seelie" absorb energy in various ways in the treasure area to help it restore vitality. For every 3 instances of elemental energy obtained, the "Treasure-Seeking Seelie" will indicate the whereabouts of the treasure once.
-
-● Dig in a treasure area to find the treasure chest and claim rewards and the "Ancient Iron Coins" within.
-
-● During the event, you can exchange "Ancient Iron Coins" for materials in the event shop. After the Event Shop closes, your remaining "Ancient Iron Coins" will disappear.
-
-※ Upon completing Area 6, the Event Shop will open for the redemption of "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma." During this event, Travelers may only exchange for one type, after which the remaining four will no longer be available. Each Mini Seelie can only be obtained once.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -895,48 +937,6 @@ HoYoWiki: New Entries
 You can check it out for yourself by going to HoYoLAB > Tools.
 
 *These updates can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
-
------
-
-# "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
-## Graven Innocence
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
-
-During the event, complete the quest "The Unappreciated Carving" to invite the character "Sprout of Rebirth" Collei (Dendro). Help the staff in Acara Crafts find assistants and collect inspiration regarding toy-making to obtain Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, event-exclusive Furnishings, etc.
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Gameplay Duration | Stage I | After the Version 3.0 update  | End of Version 3.0
-^ | Stage II | 2022/08/27 04:00:00 (server) | ^
-^ | Stage III | 2022/08/30 04:00:00 (server) | ^
-^ | Stage IV | 2022/09/02 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | After the Version 3.0 update  | ^
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
-
-※ Complete Archon Quest "The Trail of the God of Wisdom" to best enjoy the event.
-
-※ If you have not completed the Archon Quest "The Trail of the God of Wisdom" during the event, you can enter the event through "Quick Start" in the event page after completing the Archon Quest "Prologue: Act I - The Outlander Who Caught the Wind."
-
-**〓Event Details〓**
-
-● Complete the quest "The Unappreciated Carving" during the event to invite the character "Sprout of Rebirth" Collei (Dendro), and unlock events like "Meticulous Craftsmanship," "Roaming the Jungle," "Metamorphosis of Wood," etc.
-
-● "Roaming the Jungle" includes gameplay like Snapshots, Behemoth Observation, Grove Dash, and Braving the Elements. These gameplay modes will be unlocked over the course of the event.
-
-● In the Behemoth Observation of "Roaming the Jungle," the challenge quest can only be completed by challenging the Electro Regisvine and Jadeplume Terrorshroom in the wilds.
-
-● Complete various quests in "Roaming the Jungle" to get "Whimsical Drafts" and "Creative Notes," which can be used to exchange for Carving Components, Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials,etc.
-
-● Go to the showcase in "Metamorphosis of Wood" and use Carving Components to assemble an Aranara Woodcarving. Complete the quest to get corresponding rewards. There is a limit to the number of carvings that can be displayed, though this number will increase as the event progresses.
-
-● After the event gameplay period ends, Whimsical Drafts and Creative Notes will disappear. Please make sure to claim the rewards in time.
 
 -----
 
