@@ -98,6 +98,36 @@ And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I
 
 -----
 
+# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
+## Event Wish - Adrift in the Harbor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/f8cd12bdcf472eb1cb09be5f4964352c_9115017307205254299.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
 # Version 3.0 New Content Overview
 ## New Content Overview
 
@@ -830,6 +860,36 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
+## Event Wish - Drifting Luminescence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/0ed5dbbea84de04648bb7e8b201d5a17_4202538132996085051.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -937,6 +997,34 @@ HoYoWiki: New Entries
 You can check it out for yourself by going to HoYoLAB > Tools.
 
 *These updates can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Amos' Bow (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/3efac9d313e400cc99744764126d45fc_5786487830076473081.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | Everlasting Moonglow (Catalyst)   Amos' Bow (Bow) | Sacrificial Sword (Sword)
+^ | ^ |  Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapon Everlasting Moonglow (Catalyst) and the 5-star weapon Amos' Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Sacrificial Sword (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Everlasting Moonglow (Catalyst) or Amos' Bow (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapon will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
 
 -----
 
