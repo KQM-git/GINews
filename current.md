@@ -128,24 +128,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Version 3.0 New Content Overview
-## New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/765c70fecd24c798f785b7e09c3dda15_6720595612010769908.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/edc73e62c1024a43ee6d9683e79ddf43_1786256256897120492.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/d5ba843b2a848f26de040ae853cad735_7986116217608178041.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/72511585f81befe84f19c7764ae9ec00_4643939642934290692.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/7a066b92902afab6298069737fa3a4ef_8178136916121013095.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/86915ae64d29b6f9ef3e0adeeb0de7b7_1201260683467748632.jpg)
-
------
-
 # "The Morn a Thousand Roses Brings" Version 3.0 Update Details
 ## Version 3.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/09479f56305e2fc78f2b64f2e931f8d4_5558453443792854291.jpg)
