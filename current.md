@@ -882,6 +882,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+Presently, while challenging Fayz Trials on certain Android devices, some Travelers will encounter graphic glitches. For a temporary solution, Travelers can go to "Settings - Graphics" to adjust the "Rendering Resolution" to medium or lower settings. If the issue exists still, Travelers may submit feedback through "Paimon panel - Feedback."
+
 There is an issue under specific circumstances whereby players are unable to send messages in the dialogue window when playing on mobile devices. Travelers who encounter this issue can exit via the Paimon Menu and log back in to the game, or enter and exit an indoor environment (such as the Favonius Cathedral and the Knights of Favonius Headquarters) as a temporary fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
 
 There is an issue whereby effects gained based on a character's attribute were incorrectly increased (excluding when an effect confers one attribute as a certain percentage of another attribute). The affected effects include:
