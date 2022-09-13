@@ -1136,6 +1136,26 @@ Bundle Price: Now 50% off for a limited time! The price after the discount is 15
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # Game Survey
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
