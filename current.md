@@ -712,34 +712,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Tablet Analytics" Event: Remelting Device Challenge
-## Tablet Analytics
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/4d674846982a39a88bf8477013ea9885_4025794739807760878.jpg)
-
-During the event, assist Hajanad in her research and take advantage of "Remelting Effects" during combat. Complete the corresponding trials and quests to obtain rewards such as the Furnishing "Cauldron of Herbs," Primogems, and Talent Level-Up Materials.
-
-**〓Event Duration〓**
-
-Event Duration: 2022/09/15 10:00:00 (server) – 2022/09/26 03:59:59 (server)
-
-"Controllable Explosion" Quest Duration: 2022/09/21 04:00:00 (server) – 2022/09/26 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● From the first day of the event, a new challenge will unlock every 2 days. A total of 4 challenges will be unlocked.
-
-● During each challenge, you can use characters provided by the event or your own to complete 3 consecutive combat rounds.
-
-● Using the "Remelting Device" to trigger "Remelting Effects" can randomly activate one or more buffs for a short period of time, providing tremendous support during combat.
-
-※ Travelers need to complete the quest "Controllable Explosion" in order to obtain the Furnishing "Cauldron of Herbs."
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -811,6 +783,34 @@ Fixes an issue whereby there is a localization error in Japanese for Tighnari's 
 〓Update Content 2022/08/24 16:05:00 (global)〓
 
 Fixes an issue under certain circumstances whereby the page cannot be loaded when using an iOS device to open the history of "Beginner's Wish."
+
+-----
+
+# "Tablet Analytics" Event: Remelting Device Challenge
+## Tablet Analytics
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/4d674846982a39a88bf8477013ea9885_4025794739807760878.jpg)
+
+During the event, assist Hajanad in her research and take advantage of "Remelting Effects" during combat. Complete the corresponding trials and quests to obtain rewards such as the Furnishing "Cauldron of Herbs," Primogems, and Talent Level-Up Materials.
+
+**〓Event Duration〓**
+
+Event Duration: 2022/09/15 10:00:00 (server) – 2022/09/26 03:59:59 (server)
+
+"Controllable Explosion" Quest Duration: 2022/09/21 04:00:00 (server) – 2022/09/26 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● From the first day of the event, a new challenge will unlock every 2 days. A total of 4 challenges will be unlocked.
+
+● During each challenge, you can use characters provided by the event or your own to complete 3 consecutive combat rounds.
+
+● Using the "Remelting Device" to trigger "Remelting Effects" can randomly activate one or more buffs for a short period of time, providing tremendous support during combat.
+
+※ Travelers need to complete the quest "Controllable Explosion" in order to obtain the Furnishing "Cauldron of Herbs."
 
 -----
 
@@ -944,36 +944,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
-## Event Wish - Drifting Luminescence
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/0ed5dbbea84de04648bb7e8b201d5a17_4202538132996085051.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Treasure of Dream Garden" Dori (Electro)
-^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-
-● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
-
-● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
 # Event Survey Now Open
 ## Survey Now Open
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/01/b5461392d9bae30136903c4c5ab1d0c0_450969744260867046.jpg)
@@ -1046,6 +1016,36 @@ You can check it out for yourself by going to HoYoLAB > Tools.
 
 -----
 
+# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
+## Event Wish - Drifting Luminescence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/0ed5dbbea84de04648bb7e8b201d5a17_4202538132996085051.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Amos' Bow (Bow)!
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/3efac9d313e400cc99744764126d45fc_5786487830076473081.jpg)
@@ -1099,46 +1099,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/09/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# "Adventurer's Booster Bundles" - Round 16 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/b13f7e3d1be4cb63ae63d4c02aba6468_5657279547006923516.jpg)
-
-Round 16 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 3.0 update – 2022/09/07 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 3.0 update – 2022/09/07 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-**〓Adventurer's Seasonal Special Bundle〓**
-
-Duration: 2022/09/09 00:00:00 (server) – 2022/09/23 23:59:59 (server)
-
-Bundle Contents: Exotic Share Bundle ×6, Mora ×60,000
-
-Bundle Price: Now 50% off for a limited time! The price after the discount is 150 Genesis Crystals. Can be purchased up to 5 times in total.
-
-※Exotic Share Bundle: Use to select one of the following to add to your Inventory — Agnidus Agate Fragment ×1, Varunada Lazurite Fragment ×1, Vayuda Turquoise Fragment ×1, Shivada Jade Fragment ×1, Prithiva Topaz Fragment ×1, Vajrada Amethyst Fragment ×1, Nagadus Emerald Fragment ×1.
 
 -----
 
@@ -1289,6 +1249,46 @@ View Location:
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
 [>>Click to learn more details about the Tools<<](https://www.hoyolab.com/article/1680746?utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 16 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/b13f7e3d1be4cb63ae63d4c02aba6468_5657279547006923516.jpg)
+
+Round 16 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.0 update – 2022/09/07 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.0 update – 2022/09/07 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Seasonal Special Bundle〓**
+
+Duration: 2022/09/09 00:00:00 (server) – 2022/09/23 23:59:59 (server)
+
+Bundle Contents: Exotic Share Bundle ×6, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after the discount is 150 Genesis Crystals. Can be purchased up to 5 times in total.
+
+※Exotic Share Bundle: Use to select one of the following to add to your Inventory — Agnidus Agate Fragment ×1, Varunada Lazurite Fragment ×1, Vayuda Turquoise Fragment ×1, Shivada Jade Fragment ×1, Prithiva Topaz Fragment ×1, Vajrada Amethyst Fragment ×1, Nagadus Emerald Fragment ×1.
 
 -----
 
