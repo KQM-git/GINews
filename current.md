@@ -914,36 +914,6 @@ And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I
 
 -----
 
-# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
-## Event Wish - Adrift in the Harbor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/f8cd12bdcf472eb1cb09be5f4964352c_9115017307205254299.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
---- | --- | ---
-2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Treasure of Dream Garden" Dori (Electro)
-^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-
-● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
-
-● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
 # Event Survey Now Open
 ## Survey Now Open
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/01/b5461392d9bae30136903c4c5ab1d0c0_450969744260867046.jpg)
@@ -1016,6 +986,36 @@ You can check it out for yourself by going to HoYoLAB > Tools.
 
 -----
 
+# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
+## Event Wish - Adrift in the Harbor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/f8cd12bdcf472eb1cb09be5f4964352c_9115017307205254299.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
 ## Event Wish - Drifting Luminescence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/0ed5dbbea84de04648bb7e8b201d5a17_4202538132996085051.jpg)
@@ -1071,34 +1071,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapon will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# "Luxuriant Woodlands" Event Details
-## Luxuriant Woodlands
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/64fd46d0319539af6c6438d0e26571ba_8252572530478869164.jpg)
-
-Travelers can earn rich rewards in Battle Pass during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Woodlands" and Furnishing Blueprint "Deepwood Illumination."
-
-**〓Event Duration〓**
-
-After the Version 3.0 update – 2022/09/26 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● During the current BP event, the "BEP" required for each BP Level will be adjusted to 900 (originally 1,000).
-
-● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guidance of the Land of Geo" will be replaced with "Guidance of the Land of Verdure," and "Philosophies of the Land of Geo" will be replaced with "Philosophies of the Land of Verdure."
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/09/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
@@ -1197,6 +1169,34 @@ Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Sp
 〓Duration〓
 
 Permanently Available
+
+-----
+
+# "Luxuriant Woodlands" Event Details
+## Luxuriant Woodlands
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/64fd46d0319539af6c6438d0e26571ba_8252572530478869164.jpg)
+
+Travelers can earn rich rewards in Battle Pass during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Woodlands" and Furnishing Blueprint "Deepwood Illumination."
+
+**〓Event Duration〓**
+
+After the Version 3.0 update – 2022/09/26 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● During the current BP event, the "BEP" required for each BP Level will be adjusted to 900 (originally 1,000).
+
+● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guidance of the Land of Geo" will be replaced with "Guidance of the Land of Verdure," and "Philosophies of the Land of Geo" will be replaced with "Philosophies of the Land of Verdure."
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/09/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
