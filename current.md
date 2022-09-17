@@ -786,6 +786,20 @@ Fixes an issue under certain circumstances whereby the page cannot be loaded whe
 
 -----
 
+# The Version 3.1 "King Deshret and the Three Magi" Preview Page Is Here! 
+## Genshin Impact Version 3.1 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/e162a65281aec8963d36f3131bdd389b_8148169004376332938.png)
+
+Dear Traveler,
+
+The Version 3.1 "King Deshret and the Three Magi" Preview Page is here!
+
+[>>Click to Enter the Version 3.1 "King Deshret and the Three Magi" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220917prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220917warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※  Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # Genshin Impact - Initial Top-Up Bonus Reset
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
@@ -803,6 +817,26 @@ After the Version 3.1 update
 ● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
 
 ● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+-----
+
+# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
+
+Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
+
+**〓Event Duration〓**
+
+2022/09/20 04:00:00 (server) - 2022/09/27 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
 
 -----
 
