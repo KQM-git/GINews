@@ -722,6 +722,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+Presently, Dendro Cores produced by Bloom reactions would cause some characters' skill effects to be triggered incorrectly. We are diagnosing the issue and will fix the problem in future updates. Please stay tuned for future notices.
+
 There is an issue under certain circumstances whereby after the character Dori casts her Elemental Skill several times quickly within a short period of time, there is a chance that the number of Elemental Particles generated, and the effect of her Passive Talent "Compound Interest" may be abnormal. This issue will be fixed in the Version 3.1 update.
 
 Presently, while challenging Fayz Trials on certain Android devices, some Travelers will encounter graphic glitches, whereby characters and enemies cannot be seen clearly due to model anomalies. For a temporary solution, Travelers can go to "Settings > Graphics" to adjust the "Render Resolution" to medium or lower settings. If the issue exists still, Travelers may submit feedback through "Paimon Menu > Feedback."
