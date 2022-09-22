@@ -722,6 +722,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby the Icy Paws fired by Diona's Elemental Skill might not target Wildlife opponents normally. This issue has been fixed in Version 3.1 and the fix will take effect after the version update.
+
 Presently, Dendro Cores produced by Bloom reactions would cause some characters' skill effects to be triggered incorrectly. We are diagnosing the issue and will fix the problem in future updates. Please stay tuned for future notices.
 
 There is an issue under certain circumstances whereby after the character Dori casts her Elemental Skill several times quickly within a short period of time, there is a chance that the number of Elemental Particles generated, and the effect of her Passive Talent "Compound Interest" may be abnormal. This issue will be fixed in the Version 3.1 update.
