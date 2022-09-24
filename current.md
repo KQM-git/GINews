@@ -882,20 +882,6 @@ Spotify:
 
 -----
 
-# The Version 3.1 "King Deshret and the Three Magi" Preview Page Is Here! 
-## Genshin Impact Version 3.1 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/e162a65281aec8963d36f3131bdd389b_8148169004376332938.png)
-
-Dear Traveler,
-
-The Version 3.1 "King Deshret and the Three Magi" Preview Page is here!
-
-[>>Click to Enter the Version 3.1 "King Deshret and the Three Magi" Preview Page<<](https://act.hoyoverse.com/ys/event/e20220917prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220917warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※  Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # Genshin Impact - Initial Top-Up Bonus Reset
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
