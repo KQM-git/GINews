@@ -898,62 +898,6 @@ Revitalize a Blossom of Wealth or a Blossom of Revelation
 
 -----
 
-# "Tablet Analytics" Event: Remelting Device Challenge
-## Tablet Analytics
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/4d674846982a39a88bf8477013ea9885_4025794739807760878.jpg)
-
-During the event, assist Hajanad in her research and take advantage of "Remelting Effects" during combat. Complete the corresponding trials and quests to obtain rewards such as the Furnishing "Cauldron of Herbs," Primogems, and Talent Level-Up Materials.
-
-**〓Event Duration〓**
-
-Event Duration: 2022/09/15 10:00:00 (server) – 2022/09/26 03:59:59 (server)
-
-"Controllable Explosion" Quest Duration: 2022/09/21 04:00:00 (server) – 2022/09/26 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● From the first day of the event, a new challenge will unlock every 2 days. A total of 4 challenges will be unlocked.
-
-● During each challenge, you can use characters provided by the event or your own to complete 3 consecutive combat rounds.
-
-● Using the "Remelting Device" to trigger "Remelting Effects" can randomly activate one or more buffs for a short period of time, providing tremendous support during combat.
-
-※ Travelers need to complete the quest "Controllable Explosion" in order to obtain the Furnishing "Cauldron of Herbs."
-
------
-
-# "Fayz Trials" Event: Weakness Capturing Challenge
-## Fayz Trials
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/c634df396a52a5ea4ed917f3eee84235_2197590775253326340.jpg)
-
-During the event, Travelers can use the Fayz Potion and enter Time Dilation mode to spot your opponent's Weaknesses. Help the Sumeru researcher complete his research to obtain rewards such as Primogems, Hero's Wit, Character Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-**〓Event Duration〓**
-
-2022/09/08 10:00:00 (server) – 2022/09/26 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● There are a total of 7 combat challenges and a new challenge will be unlocked each day for the first 7 days of the event.
-
-● During the combat challenge, Fayz Tinctures will be restored over time, and Travelers can also kill enemies to obtain more Fayz Tinctures. Use the Fayz Potion enter Time Dilation mode, you can use your Viewfinder to spot your opponent's Weaknesses. Combat will resume after the Time Dilation mode ends, while releasing a "Supersense Skill" to help Travelers complete the challenge faster.
-
-● Use your Supersense Skill wisely to defeat monsters to gain more points. After reaching the challenge target, you will obtain rewards such as Primogems, Hero's Wit, Character Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
-
-● During the combat challenges, you may only use the specific trial characters provided, and Elemental Resonances will not be available to you.
-
------
-
 # "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
 ## Graven Innocence
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
@@ -1251,34 +1195,6 @@ Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Sp
 〓Duration〓
 
 Permanently Available
-
------
-
-# "Luxuriant Woodlands" Event Details
-## Luxuriant Woodlands
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/64fd46d0319539af6c6438d0e26571ba_8252572530478869164.jpg)
-
-Travelers can earn rich rewards in Battle Pass during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Woodlands" and Furnishing Blueprint "Deepwood Illumination."
-
-**〓Event Duration〓**
-
-After the Version 3.0 update – 2022/09/26 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● During the current BP event, the "BEP" required for each BP Level will be adjusted to 900 (originally 1,000).
-
-● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guidance of the Land of Geo" will be replaced with "Guidance of the Land of Verdure," and "Philosophies of the Land of Geo" will be replaced with "Philosophies of the Land of Verdure."
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/09/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
