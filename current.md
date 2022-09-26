@@ -184,6 +184,370 @@ After the Version 3.1 update
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby the Icy Paws fired by Diona's Elemental Skill might not target Wildlife opponents normally. This issue has been fixed in Version 3.1 and the fix will take effect after the version update.
+
+Presently, Dendro Cores produced by Bloom reactions would cause some characters' skill effects to be triggered incorrectly. We are diagnosing the issue and will fix the problem in future updates. Please stay tuned for future notices.
+
+There is an issue under certain circumstances whereby after the character Dori casts her Elemental Skill several times quickly within a short period of time, there is a chance that the number of Elemental Particles generated, and the effect of her Passive Talent "Compound Interest" may be abnormal. This issue will be fixed in the Version 3.1 update.
+
+Presently, while challenging Fayz Trials on certain Android devices, some Travelers will encounter graphic glitches, whereby characters and enemies cannot be seen clearly due to model anomalies. For a temporary solution, Travelers can go to "Settings > Graphics" to adjust the "Render Resolution" to medium or lower settings. If the issue exists still, Travelers may submit feedback through "Paimon Menu > Feedback."
+
+There is an issue under specific circumstances whereby players are unable to send messages in the dialogue window when playing on mobile devices. Travelers who encounter this issue can exit via the Paimon Menu and log back in to the game, or enter and exit an indoor environment (such as the Favonius Cathedral and the Knights of Favonius Headquarters) as a temporary fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+There is an issue whereby effects gained based on a character's attribute were incorrectly increased (excluding when an effect confers one attribute as a certain percentage of another attribute). The affected effects include:
+
+Effect of the Weapon "Hunter's Path"
+
+The Dendro Traveler's Passive Talent "Verdant Luxury"
+
+Tighnari's Passive Talent "Scholarly Blade"
+
+This issue will be fixed in the Version 3.1 update.
+
+There is an issue whereby the Voice-Over Unlock Criteria for Collei's line "About Fischl" in Profile > Voice-Over is abnormal. This issue will be fixed in the Version 3.1 update. The Unlock Criteria after the fix will be "Unlocks at Friendship Lv. 4."
+
+Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
+
+〓Update Content2022/09/15 16:10:00 (global)〓
+
+Fixes an issue under specific circumstances whereby characters could not move and abnormalities occurred in certain viewing angles of the characters.
+
+〓Update Content2022/09/08 16:30:00 (global)〓
+
+Updated resources related to subsequent events.
+
+〓Update Content 2022/09/03 12:00:00 (global)〓
+
+Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arama" in the World Quest "For All Children Who Long for Life," the quest could not continue as the Withering Zone could not be cleared. Travelers can continue the quest by following the quest guide after logging out via the Paimon Menu and logging in again.
+
+〓Update Content 2022/09/01 16:15:00 (global)〓
+
+Fixes an issue under specific circumstances whereby the "Mastermind" state of Yelan's Lv. 6 Constellation had an abnormal duration.
+
+Fixes an issue under specific circumstances whereby the quest objective "Defeat a certain number of Spinocrocodiles" in the World Quest "Into the Woods" could not be completed even after you defeated the required number of Spinocrocodiles. This issue has been fixed. You can head to the stream southeast of Pardis Dhyai to look for the NPC Rana and continue to progress in the quest.
+
+Fixes an issue under specific circumstances whereby the quest objective "Clean up the pollution caused by The Withering" in the World Quest "Agnihotra Sutra: The Final Chapter" could not be completed if the pollution caused by the corresponding Withering Zone had been cleared beforehand.
+
+Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arakunti" in the World Quest "Slumbering Roots," the quest could not continue as the NPC Arakunti disappeared abnormally. Travelers who experience this issue can return to where the "branch" is and speak to the NPC Arakunti to continue to progress in the quest.
+
+Fixes an issue under specific circumstances whereby the quest objectives "Talk to Arama" or "Defeat Marana's Avatar" in the World Quest "For All Children Who Long for Life" could not be completed. Travelers who are unable to complete the objective "Talk to Arama" can head to where "Marana's Avatar" is located to continue the quest. Travelers who are unable to complete the objective "Defeat Marana's Avatar" can continue the quest by following the quest guide.
+
+Fixes an issue that caused the windows of some buildings in Liyue and the Serenitea Pot to not light up at night.
+
+Fixes an issue whereby the Vertical Camera Sensitivity and Vertical Camera Sensitivity (Aimed Shot Mode) settings had an abnormal effect.
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+〓Update Content 2022/08/26 16:00:00 (global)〓
+
+Fixes an issue whereby after the Version 3.0 update, the Furnishing Blueprint quest reward "Pear Orchard Stage: Yun-Han Style" could not be obtained after completing the World Quest "On the Stage, Behind the Stage." We will send out the corresponding quest reward via in-game mail using centralized distribution within 36 hours for Travelers who have encountered this issue before the fix.
+
+Fixes an issue under specific circumstances whereby after completing the quest objective "Unlock the road ahead using the Rhythm of the Beastly Trail" of the World Quest "The Rhythm that Reveals the Beastly Trail," the road did not open properly.
+
+Fixes an issue whereby there is a localization error in Japanese for Tighnari's Passive Talent "Scholarly Blade."
+
+〓Update Content 2022/08/24 16:05:00 (global)〓
+
+Fixes an issue under certain circumstances whereby the page cannot be loaded when using an iOS device to open the history of "Beginner's Wish."
+
+-----
+
+# Genshin Impact Version Trailers OST Album "Footprints of the Traveler" Now Available
+## Version Trailer OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/aa0aab4c77fbaf3b706f92c00ca86cf1_8798898641671678863.jpg)
+
+Dear Travelers,
+
+Genshin Impact's version trailers OST album "Footprints of the Traveler" is out now! The album features splendid tracks composed by @HOYO-MiX, each one an original composition for the version trailers of Genshin Impact since Version 1.1.
+
+Travelers can go to the following platforms to listen to "Footprints of the Traveler."
+
+Apple Music:
+
+[Click here to listen to "Footprints of the Traveler"](https://music.apple.com/us/album/1641509495)
+
+Spotify:
+
+[Click here to listen to "Footprints of the Traveler"](http://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF)
+
+-----
+
+# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
+
+Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
+
+**〓Event Duration〓**
+
+2022/09/20 04:00:00 (server) - 2022/09/27 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
+
+-----
+
+# "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
+## Graven Innocence
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
+
+During the event, complete the quest "The Unappreciated Carving" to invite the character "Sprout of Rebirth" Collei (Dendro). Help the staff in Acara Crafts find assistants and collect inspiration regarding toy-making to obtain Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, event-exclusive Furnishings, etc.
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Stage I | After the Version 3.0 update  | End of Version 3.0
+^ | Stage II | 2022/08/27 04:00:00 (server) | ^
+^ | Stage III | 2022/08/30 04:00:00 (server) | ^
+^ | Stage IV | 2022/09/02 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | After the Version 3.0 update  | ^
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
+
+※ Complete Archon Quest "The Trail of the God of Wisdom" to best enjoy the event.
+
+※ If you have not completed the Archon Quest "The Trail of the God of Wisdom" during the event, you can enter the event through "Quick Start" in the event page after completing the Archon Quest "Prologue: Act I - The Outlander Who Caught the Wind."
+
+**〓Event Details〓**
+
+● Complete the quest "The Unappreciated Carving" during the event to invite the character "Sprout of Rebirth" Collei (Dendro), and unlock events like "Meticulous Craftsmanship," "Roaming the Jungle," "Metamorphosis of Wood," etc.
+
+● "Roaming the Jungle" includes gameplay like Snapshots, Behemoth Observation, Grove Dash, and Braving the Elements. These gameplay modes will be unlocked over the course of the event.
+
+● In the Behemoth Observation of "Roaming the Jungle," the challenge quest can only be completed by challenging the Electro Regisvine and Jadeplume Terrorshroom in the wilds.
+
+● Complete various quests in "Roaming the Jungle" to get "Whimsical Drafts" and "Creative Notes," which can be used to exchange for Carving Components, Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials,etc.
+
+● Go to the showcase in "Metamorphosis of Wood" and use Carving Components to assemble an Aranara Woodcarving. Complete the quest to get corresponding rewards. There is a limit to the number of carvings that can be displayed, though this number will increase as the event progresses.
+
+● After the event gameplay period ends, Whimsical Drafts and Creative Notes will disappear. Please make sure to claim the rewards in time.
+
+-----
+
+# Event Survey Now Open
+## Survey Now Open
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/01/b5461392d9bae30136903c4c5ab1d0c0_450969744260867046.jpg)
+
+Dear Travelers,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2022/09/09 10:00:00 (global) - 2022/09/11 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_rgd6mqxbrgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=8074&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Event Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Event Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
+# Additional Limited Rewards for Genshin Impact's "Check-In" and V3.0 Update for Battle Chronicle, Teyvat Interactive Map, and HoYoWiki
+## Genshin Impact Tools V3.0 Update
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/23/b9111c50cdaf041ac5256c09d2735a62_1485676268269012594.jpg)
+
+Hello, Travelers~
+
+Additional rewards for "Check-In" in the first seven days, new V3.0 content in Teyvat Interactive Map, Battle Chronicle, and HoYoWiki as well as related content are available, let's check them out together~
+
+▌ Update Details
+
+Check-In: Additional Limited Rewards
+
+Log in every day at "Check-In" from August 24, 2022 to August 30, 2022 (UTC+8) to get a total of Primogems ×30, Mora ×13,000 and other additional rewards!
+
+*Remember to enable system notifications to receive alerts in time~
+
+[>>Click to Check-In<<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
+
+Battle Chronicle: Tool Update
+
+- Fixes the bug whereby some users had no content when opening the Battle Chronicle.
+
+- Adds new Characters, Weapons, Artifacts, Domains, and other new content to Version 3.0.
+
+- World Exploration: New Sumeru Section
+
+[>>Click to Enter Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=102&gid=2&utm_source=ingame&utm_medium=notice)
+
+Teyvat Interactive Map: Tool Update
+
+- Adds Sumeru map and corresponding location pins.
+
+[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_source=ingame&utm_medium=notice#/map/2)
+
+HoYoWiki: New Entries
+
+- Adds entries of Characters, Weapons of the new version, monsters in Sumeru, and new Elemental Reaction tutorials.
+
+[>>Click to Enter HoYoWiki<<](https://wiki.hoyolab.com/m/genshin/aggregate/character?mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
+
+▌ How to Access Tool
+
+You can check it out for yourself by going to HoYoLAB > Tools.
+
+*These updates can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
+
+-----
+
+# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
+## Event Wish - Adrift in the Harbor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/f8cd12bdcf472eb1cb09be5f4964352c_9115017307205254299.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
+## Event Wish - Drifting Luminescence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/0ed5dbbea84de04648bb7e8b201d5a17_4202538132996085051.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Amos' Bow (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/3efac9d313e400cc99744764126d45fc_5786487830076473081.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | Everlasting Moonglow (Catalyst)   Amos' Bow (Bow) | Sacrificial Sword (Sword)
+^ | ^ |  Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapon Everlasting Moonglow (Catalyst) and the 5-star weapon Amos' Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Sacrificial Sword (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Everlasting Moonglow (Catalyst) or Amos' Bow (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapon will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
+# Game Survey
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6norzvgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=7715&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # "The Morn a Thousand Roses Brings" Version 3.0 Update Details
 ## Version 3.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/18/09479f56305e2fc78f2b64f2e931f8d4_5558453443792854291.jpg)
@@ -895,370 +1259,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby the Icy Paws fired by Diona's Elemental Skill might not target Wildlife opponents normally. This issue has been fixed in Version 3.1 and the fix will take effect after the version update.
-
-Presently, Dendro Cores produced by Bloom reactions would cause some characters' skill effects to be triggered incorrectly. We are diagnosing the issue and will fix the problem in future updates. Please stay tuned for future notices.
-
-There is an issue under certain circumstances whereby after the character Dori casts her Elemental Skill several times quickly within a short period of time, there is a chance that the number of Elemental Particles generated, and the effect of her Passive Talent "Compound Interest" may be abnormal. This issue will be fixed in the Version 3.1 update.
-
-Presently, while challenging Fayz Trials on certain Android devices, some Travelers will encounter graphic glitches, whereby characters and enemies cannot be seen clearly due to model anomalies. For a temporary solution, Travelers can go to "Settings > Graphics" to adjust the "Render Resolution" to medium or lower settings. If the issue exists still, Travelers may submit feedback through "Paimon Menu > Feedback."
-
-There is an issue under specific circumstances whereby players are unable to send messages in the dialogue window when playing on mobile devices. Travelers who encounter this issue can exit via the Paimon Menu and log back in to the game, or enter and exit an indoor environment (such as the Favonius Cathedral and the Knights of Favonius Headquarters) as a temporary fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
-
-There is an issue whereby effects gained based on a character's attribute were incorrectly increased (excluding when an effect confers one attribute as a certain percentage of another attribute). The affected effects include:
-
-Effect of the Weapon "Hunter's Path"
-
-The Dendro Traveler's Passive Talent "Verdant Luxury"
-
-Tighnari's Passive Talent "Scholarly Blade"
-
-This issue will be fixed in the Version 3.1 update.
-
-There is an issue whereby the Voice-Over Unlock Criteria for Collei's line "About Fischl" in Profile > Voice-Over is abnormal. This issue will be fixed in the Version 3.1 update. The Unlock Criteria after the fix will be "Unlocks at Friendship Lv. 4."
-
-Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
-
-〓Update Content2022/09/15 16:10:00 (global)〓
-
-Fixes an issue under specific circumstances whereby characters could not move and abnormalities occurred in certain viewing angles of the characters.
-
-〓Update Content2022/09/08 16:30:00 (global)〓
-
-Updated resources related to subsequent events.
-
-〓Update Content 2022/09/03 12:00:00 (global)〓
-
-Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arama" in the World Quest "For All Children Who Long for Life," the quest could not continue as the Withering Zone could not be cleared. Travelers can continue the quest by following the quest guide after logging out via the Paimon Menu and logging in again.
-
-〓Update Content 2022/09/01 16:15:00 (global)〓
-
-Fixes an issue under specific circumstances whereby the "Mastermind" state of Yelan's Lv. 6 Constellation had an abnormal duration.
-
-Fixes an issue under specific circumstances whereby the quest objective "Defeat a certain number of Spinocrocodiles" in the World Quest "Into the Woods" could not be completed even after you defeated the required number of Spinocrocodiles. This issue has been fixed. You can head to the stream southeast of Pardis Dhyai to look for the NPC Rana and continue to progress in the quest.
-
-Fixes an issue under specific circumstances whereby the quest objective "Clean up the pollution caused by The Withering" in the World Quest "Agnihotra Sutra: The Final Chapter" could not be completed if the pollution caused by the corresponding Withering Zone had been cleared beforehand.
-
-Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arakunti" in the World Quest "Slumbering Roots," the quest could not continue as the NPC Arakunti disappeared abnormally. Travelers who experience this issue can return to where the "branch" is and speak to the NPC Arakunti to continue to progress in the quest.
-
-Fixes an issue under specific circumstances whereby the quest objectives "Talk to Arama" or "Defeat Marana's Avatar" in the World Quest "For All Children Who Long for Life" could not be completed. Travelers who are unable to complete the objective "Talk to Arama" can head to where "Marana's Avatar" is located to continue the quest. Travelers who are unable to complete the objective "Defeat Marana's Avatar" can continue the quest by following the quest guide.
-
-Fixes an issue that caused the windows of some buildings in Liyue and the Serenitea Pot to not light up at night.
-
-Fixes an issue whereby the Vertical Camera Sensitivity and Vertical Camera Sensitivity (Aimed Shot Mode) settings had an abnormal effect.
-
-Travelers affected by the issues mentioned above can restart the game to continue playing normally.
-
-〓Update Content 2022/08/26 16:00:00 (global)〓
-
-Fixes an issue whereby after the Version 3.0 update, the Furnishing Blueprint quest reward "Pear Orchard Stage: Yun-Han Style" could not be obtained after completing the World Quest "On the Stage, Behind the Stage." We will send out the corresponding quest reward via in-game mail using centralized distribution within 36 hours for Travelers who have encountered this issue before the fix.
-
-Fixes an issue under specific circumstances whereby after completing the quest objective "Unlock the road ahead using the Rhythm of the Beastly Trail" of the World Quest "The Rhythm that Reveals the Beastly Trail," the road did not open properly.
-
-Fixes an issue whereby there is a localization error in Japanese for Tighnari's Passive Talent "Scholarly Blade."
-
-〓Update Content 2022/08/24 16:05:00 (global)〓
-
-Fixes an issue under certain circumstances whereby the page cannot be loaded when using an iOS device to open the history of "Beginner's Wish."
-
------
-
-# Genshin Impact Version Trailers OST Album "Footprints of the Traveler" Now Available
-## Version Trailer OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/aa0aab4c77fbaf3b706f92c00ca86cf1_8798898641671678863.jpg)
-
-Dear Travelers,
-
-Genshin Impact's version trailers OST album "Footprints of the Traveler" is out now! The album features splendid tracks composed by @HOYO-MiX, each one an original composition for the version trailers of Genshin Impact since Version 1.1.
-
-Travelers can go to the following platforms to listen to "Footprints of the Traveler."
-
-Apple Music:
-
-[Click here to listen to "Footprints of the Traveler"](https://music.apple.com/us/album/1641509495)
-
-Spotify:
-
-[Click here to listen to "Footprints of the Traveler"](http://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF)
-
------
-
-# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
-
-Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
-
-**〓Event Duration〓**
-
-2022/09/20 04:00:00 (server) - 2022/09/27 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
-
------
-
-# "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
-## Graven Innocence
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
-
-During the event, complete the quest "The Unappreciated Carving" to invite the character "Sprout of Rebirth" Collei (Dendro). Help the staff in Acara Crafts find assistants and collect inspiration regarding toy-making to obtain Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, event-exclusive Furnishings, etc.
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Gameplay Duration | Stage I | After the Version 3.0 update  | End of Version 3.0
-^ | Stage II | 2022/08/27 04:00:00 (server) | ^
-^ | Stage III | 2022/08/30 04:00:00 (server) | ^
-^ | Stage IV | 2022/09/02 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | After the Version 3.0 update  | ^
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
-
-※ Complete Archon Quest "The Trail of the God of Wisdom" to best enjoy the event.
-
-※ If you have not completed the Archon Quest "The Trail of the God of Wisdom" during the event, you can enter the event through "Quick Start" in the event page after completing the Archon Quest "Prologue: Act I - The Outlander Who Caught the Wind."
-
-**〓Event Details〓**
-
-● Complete the quest "The Unappreciated Carving" during the event to invite the character "Sprout of Rebirth" Collei (Dendro), and unlock events like "Meticulous Craftsmanship," "Roaming the Jungle," "Metamorphosis of Wood," etc.
-
-● "Roaming the Jungle" includes gameplay like Snapshots, Behemoth Observation, Grove Dash, and Braving the Elements. These gameplay modes will be unlocked over the course of the event.
-
-● In the Behemoth Observation of "Roaming the Jungle," the challenge quest can only be completed by challenging the Electro Regisvine and Jadeplume Terrorshroom in the wilds.
-
-● Complete various quests in "Roaming the Jungle" to get "Whimsical Drafts" and "Creative Notes," which can be used to exchange for Carving Components, Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials,etc.
-
-● Go to the showcase in "Metamorphosis of Wood" and use Carving Components to assemble an Aranara Woodcarving. Complete the quest to get corresponding rewards. There is a limit to the number of carvings that can be displayed, though this number will increase as the event progresses.
-
-● After the event gameplay period ends, Whimsical Drafts and Creative Notes will disappear. Please make sure to claim the rewards in time.
-
------
-
-# Event Survey Now Open
-## Survey Now Open
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/01/b5461392d9bae30136903c4c5ab1d0c0_450969744260867046.jpg)
-
-Dear Travelers,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2022/09/09 10:00:00 (global) - 2022/09/11 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_rgd6mqxbrgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=8074&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Event Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Event Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# Additional Limited Rewards for Genshin Impact's "Check-In" and V3.0 Update for Battle Chronicle, Teyvat Interactive Map, and HoYoWiki
-## Genshin Impact Tools V3.0 Update
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/23/b9111c50cdaf041ac5256c09d2735a62_1485676268269012594.jpg)
-
-Hello, Travelers~
-
-Additional rewards for "Check-In" in the first seven days, new V3.0 content in Teyvat Interactive Map, Battle Chronicle, and HoYoWiki as well as related content are available, let's check them out together~
-
-▌ Update Details
-
-Check-In: Additional Limited Rewards
-
-Log in every day at "Check-In" from August 24, 2022 to August 30, 2022 (UTC+8) to get a total of Primogems ×30, Mora ×13,000 and other additional rewards!
-
-*Remember to enable system notifications to receive alerts in time~
-
-[>>Click to Check-In<<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
-
-Battle Chronicle: Tool Update
-
-- Fixes the bug whereby some users had no content when opening the Battle Chronicle.
-
-- Adds new Characters, Weapons, Artifacts, Domains, and other new content to Version 3.0.
-
-- World Exploration: New Sumeru Section
-
-[>>Click to Enter Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=102&gid=2&utm_source=ingame&utm_medium=notice)
-
-Teyvat Interactive Map: Tool Update
-
-- Adds Sumeru map and corresponding location pins.
-
-[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_source=ingame&utm_medium=notice#/map/2)
-
-HoYoWiki: New Entries
-
-- Adds entries of Characters, Weapons of the new version, monsters in Sumeru, and new Elemental Reaction tutorials.
-
-[>>Click to Enter HoYoWiki<<](https://wiki.hoyolab.com/m/genshin/aggregate/character?mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
-
-▌ How to Access Tool
-
-You can check it out for yourself by going to HoYoLAB > Tools.
-
-*These updates can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
-
------
-
-# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
-## Event Wish - Adrift in the Harbor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/f8cd12bdcf472eb1cb09be5f4964352c_9115017307205254299.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
---- | --- | ---
-2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Treasure of Dream Garden" Dori (Electro)
-^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-
-● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
-
-● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!
-## Event Wish - Drifting Luminescence
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/0ed5dbbea84de04648bb7e8b201d5a17_4202538132996085051.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Treasure of Dream Garden" Dori (Electro)
-^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-
-● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
-
-● During the event, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Juvenile Galant" Xingqiu (Hydro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Treasure of Dream Garden" Dori (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Amos' Bow (Bow)!
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/08/24/3efac9d313e400cc99744764126d45fc_5786487830076473081.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/09/09 18:00:00 (server) – 2022/09/27 14:59:59 (server) | Everlasting Moonglow (Catalyst)   Amos' Bow (Bow) | Sacrificial Sword (Sword)
-^ | ^ |  Favonius Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During the event wish, the event-exclusive 5-star weapon Everlasting Moonglow (Catalyst) and the 5-star weapon Amos' Bow (Bow) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Sacrificial Sword (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Everlasting Moonglow (Catalyst) or Amos' Bow (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapon will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# Game Survey
-## Complete the Survey and Get Primogems
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
-
-Dear Travelers,
-
-A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6norzvgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=7715&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
