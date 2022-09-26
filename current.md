@@ -1,3 +1,30 @@
+# Of Travels and Treasures: A Thank-You Gift
+## Of Travels and Treasures
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
+
+During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
+
+Each email can be collected until the end of the event.
+
+**〓Event Duration〓**
+
+Version 3.1
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2**
+--- | --- | ---
+After the Version update | Primogems ×400 | Cloud Retainer's Damasked Device ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Fragile Resin ×2
+October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
+
+-----
+
 # Pre-Installation Function Now Available
 ## Pre-Installation Function Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
@@ -39,6 +66,34 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://sdk.hoyoverse.com/upload/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# "Path of Gleaming Jade" Daily Login Event
+## Path of Gleaming Jade
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
 
 -----
 
@@ -160,6 +215,60 @@ Adjusts the special effects display of the Ruin Drake's weaknesses when it is pa
 
 -----
 
+# New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
+## Archon Quest Chapter III: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
+
+"The world as it is, and all that is in it — it is but a dream, empty and full of lies."
+
+The Sabzeruz Festival samsara finally comes to an end.
+
+The path to saving the god lies within the desert stars.
+
+"I am the lord of the scarlet soil. My deeds are world-renowned, and even the strong kneel before me!"
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will be permanently available.
+
+〓Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement"
+
+〓Archon Quest Chapter III: Act IV "King Deshret and the Three Magi" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Curtain of Leaves" — Spiral Abyss Challenge
+## Curtain of Leaves
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
+
+Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
+
+※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
+
+**〓Event Duration〓**
+
+Permanently available after the Version 3.1 update
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+-----
+
 # Genshin Impact - Initial Top-Up Bonus Reset
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
@@ -177,6 +286,197 @@ After the Version 3.1 update
 ● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
 
 ● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+-----
+
+# "Of Ballads and Brews" Event: Take Part and Obtain the Event-Exclusive Weapon, Missive Windspear (Polearm)
+## Of Ballads and Brews
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/97737147f99a9e50c206676c7bf74f18_8584498527866730917.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2022/09/29 10:00:00 (server) – 2022/10/17 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/01/81caa531301641b8e2ba34b3e52aa773_319415544729169155.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 21 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete the Story Quest "Lupus Minor Chapter: Act I - The Meaning of Lupical"
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Phase Start Time | Act I | 2022/09/29 10:00:00 (server) | 2022/10/17 03:59:59 (server)
+^ | Act II | 2022/10/02 04:00:00 (server) | ^
+^ | Act III | 2022/10/05 04:00:00 (server) | ^
+Festive Fever Reward Collection Time | Festive Fever Reward Collection Time | 2022/09/29 10:00:00 (server) | 2022/10/24 03:59:59 (server)
+
+**〓Event Details〓**
+
+● During the event, the following four phases will unlock in sequence: Autumn Crisis, Highwind Trial, Charity and Creativity, and Fecund Blessings.
+
+● In the Autumn Crisis phase, Travelers need to help hunters deal with the invasion of Forest Boars, and help a researcher from Sumeru search for clues concerning the Snowboars and complete the respective challenges.
+
+● In the Highwind Trial phase, Travelers need to use the power of Sublime Anemograna to challenge mighty foes.
+
+● In the Charity and Creativity phase, Travelers need to help the Knights of Favonius organize a charity sale and earn as much revenue as possible.
+
+● In the Fecund Blessings phase, Travelers need to search for Fecund Hampers placed by citizens to obtain the gifts within. The Shop Components you can obtain from these gifts can even be used to decorate your stall in Charity and Creativity.
+
+● Complete these phases to gain Festive Fever and reach a certain amount of Festive Fever to obtain the event-exclusive weapon, Missive Windspear (Polearm) as well as its refinement materials.
+
+-----
+
+# Event Wish "Twilight Arbiter" - Boosted Drop Rate for "Judicator of Secrets" Cyno (Electro)!
+## Event Wish - Twilight Arbiter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/308494d401ffc07e7bafd405dddf2f13_1475933542100140846.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.1 update – 2022/10/14 17:59:00 (server) | "Judicator of Secrets" Cyno (Electro) | "Golden Vow" Candace (Hydro)
+^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Judicator of Secrets" Cyno (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Golden Vow" Candace (Hydro), "Mender of Tribulations" Kuki Shinobu (Electro), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Golden Vow" Candace (Hydro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Ballad in Goblets" - Boosted Drop Rate for "Windborne Bard" Venti (Anemo)!
+## Event Wish - Ballad in Goblets
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/11ad458890953e17e0a8f88e648d953d_4086995511341311132.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.1 update – 2022/10/14 17:59:00 (server) | "Windborne Bard" Venti (Anemo) | "Golden Vow" Candace (Hydro)
+^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Windborne Bard" Venti (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Golden Vow" Candace (Hydro), "Mender of Tribulations" Kuki Shinobu (Electro), and "Mujina Ninja" Sayu (Anemo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Golden Vow" Candace (Hydro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of the Scarlet Sands (Polearm) and Elegy for the End (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/182827dd92bef79b66e3d0b5a66e31ac_8212564882958354248.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 3.1 update – 2022/10/14 17:59:00 (server) | Staff of the Scarlet Sands (Polearm)   Elegy for the End (Bow) | Makhaira Aquamarine (Claymore)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Staff of the Scarlet Sands (Polearm) and Elegy for the End (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Makhaira Aquamarine (Claymore) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), Sacrificial Fragments (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost !
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Staff of the Scarlet Sands (Polearm) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Lupus Aureus Chapter" Story Quest Overview
+## Lupus Aureus Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/a84b12b9e9a613b67219bf7d71346620_4442219123312912174.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Cyno's Story Quest "Lupus Aureus Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.1 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+And complete the Archon Quest "Chapter III: Act IV - King Deshret and the Three Magi"
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 17 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/7f89c3e06705a157d174fce4ae312355_8664512932701356722.jpg)
+
+Round 17 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Special Supply Bundle〓**
+
+Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
+
+Bundle Contents: Hero's Wit ×12, Mora ×10,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
@@ -275,6 +575,32 @@ Apple Music:
 Spotify:
 
 [Click here to listen to "Footprints of the Traveler"](http://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF)
+
+-----
+
+# "Returning Winds" Event Details
+## Returning Winds
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/078c20124a56c4c3f01b38a9ada0ca3f_3528113406595426228.jpg)
+
+Travelers can earn rich rewards in "Returning Winds" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Returning Winds" and Furnishing Blueprint "Amidst the Fleeing Smoke."
+
+**〓Event Duration〓**
+
+After the 3.1 Version update – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● During this Battle Pass, the BEP required for each BP Level will be adjusted to 900 (BEP previously required was 1,000).
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/10/31 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
