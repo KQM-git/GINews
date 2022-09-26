@@ -604,26 +604,6 @@ Adventure Rank 20 or above
 
 -----
 
-# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/01/25/d76cdab75f5f952a213e564f6b0a5a51_8652571683649897709.jpg)
-
-Successfully complete Blossom of Wealth or Blossom of Revelation challenges during this event to obtain double the rewards.
-
-**〓Event Duration〓**
-
-2022/09/20 04:00:00 (server) - 2022/09/27 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the event, Travelers who successfully challenge a Blossom of Wealth or Blossom of Revelation and who consume Original Resin to obtain rewards will receive double the output. A total of 3 such bonuses will be available each day!
-
------
-
 # "Graven Innocence" Event: Take Part to Invite "Sprout of Rebirth" Collei (Dendro)
 ## Graven Innocence
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/10/2742e2b35632a14e78626549e5f82b82_4856881186948885443.jpg)
