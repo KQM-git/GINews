@@ -646,54 +646,6 @@ And complete "The Trail of the God of Wisdom" in Archon Quest Chapter III: Act I
 
 -----
 
-# Additional Limited Rewards for Genshin Impact's "Check-In" and V3.0 Update for Battle Chronicle, Teyvat Interactive Map, and HoYoWiki
-## Genshin Impact Tools V3.0 Update
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/23/b9111c50cdaf041ac5256c09d2735a62_1485676268269012594.jpg)
-
-Hello, Travelers~
-
-Additional rewards for "Check-In" in the first seven days, new V3.0 content in Teyvat Interactive Map, Battle Chronicle, and HoYoWiki as well as related content are available, let's check them out together~
-
-▌ Update Details
-
-Check-In: Additional Limited Rewards
-
-Log in every day at "Check-In" from August 24, 2022 to August 30, 2022 (UTC+8) to get a total of Primogems ×30, Mora ×13,000 and other additional rewards!
-
-*Remember to enable system notifications to receive alerts in time~
-
-[>>Click to Check-In<<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
-
-Battle Chronicle: Tool Update
-
-- Fixes the bug whereby some users had no content when opening the Battle Chronicle.
-
-- Adds new Characters, Weapons, Artifacts, Domains, and other new content to Version 3.0.
-
-- World Exploration: New Sumeru Section
-
-[>>Click to Enter Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=102&gid=2&utm_source=ingame&utm_medium=notice)
-
-Teyvat Interactive Map: Tool Update
-
-- Adds Sumeru map and corresponding location pins.
-
-[>>Click to Enter the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_source=ingame&utm_medium=notice#/map/2)
-
-HoYoWiki: New Entries
-
-- Adds entries of Characters, Weapons of the new version, monsters in Sumeru, and new Elemental Reaction tutorials.
-
-[>>Click to Enter HoYoWiki<<](https://wiki.hoyolab.com/m/genshin/aggregate/character?mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
-
-▌ How to Access Tool
-
-You can check it out for yourself by going to HoYoLAB > Tools.
-
-*These updates can be experienced on both Web and App platforms~ Go ahead and start your adventure now~
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
