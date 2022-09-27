@@ -480,26 +480,6 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 80 Gen
 
 -----
 
-# Genshin Impact Version Trailers OST Album "Footprints of the Traveler" Now Available
-## Version Trailer OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/aa0aab4c77fbaf3b706f92c00ca86cf1_8798898641671678863.jpg)
-
-Dear Travelers,
-
-Genshin Impact's version trailers OST album "Footprints of the Traveler" is out now! The album features splendid tracks composed by @HOYO-MiX, each one an original composition for the version trailers of Genshin Impact since Version 1.1.
-
-Travelers can go to the following platforms to listen to "Footprints of the Traveler."
-
-Apple Music:
-
-[Click here to listen to "Footprints of the Traveler"](https://music.apple.com/us/album/1641509495)
-
-Spotify:
-
-[Click here to listen to "Footprints of the Traveler"](http://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF)
-
------
-
 # "Returning Winds" Event Details
 ## Returning Winds
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/078c20124a56c4c3f01b38a9ada0ca3f_3528113406595426228.jpg)
