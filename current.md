@@ -480,84 +480,6 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 80 Gen
 
 -----
 
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby the Icy Paws fired by Diona's Elemental Skill might not target Wildlife opponents normally. This issue has been fixed in Version 3.1 and the fix will take effect after the version update.
-
-Presently, Dendro Cores produced by Bloom reactions would cause some characters' skill effects to be triggered incorrectly. We are diagnosing the issue and will fix the problem in future updates. Please stay tuned for future notices.
-
-There is an issue under certain circumstances whereby after the character Dori casts her Elemental Skill several times quickly within a short period of time, there is a chance that the number of Elemental Particles generated, and the effect of her Passive Talent "Compound Interest" may be abnormal. This issue will be fixed in the Version 3.1 update.
-
-Presently, while challenging Fayz Trials on certain Android devices, some Travelers will encounter graphic glitches, whereby characters and enemies cannot be seen clearly due to model anomalies. For a temporary solution, Travelers can go to "Settings > Graphics" to adjust the "Render Resolution" to medium or lower settings. If the issue exists still, Travelers may submit feedback through "Paimon Menu > Feedback."
-
-There is an issue under specific circumstances whereby players are unable to send messages in the dialogue window when playing on mobile devices. Travelers who encounter this issue can exit via the Paimon Menu and log back in to the game, or enter and exit an indoor environment (such as the Favonius Cathedral and the Knights of Favonius Headquarters) as a temporary fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
-
-There is an issue whereby effects gained based on a character's attribute were incorrectly increased (excluding when an effect confers one attribute as a certain percentage of another attribute). The affected effects include:
-
-Effect of the Weapon "Hunter's Path"
-
-The Dendro Traveler's Passive Talent "Verdant Luxury"
-
-Tighnari's Passive Talent "Scholarly Blade"
-
-This issue will be fixed in the Version 3.1 update.
-
-There is an issue whereby the Voice-Over Unlock Criteria for Collei's line "About Fischl" in Profile > Voice-Over is abnormal. This issue will be fixed in the Version 3.1 update. The Unlock Criteria after the fix will be "Unlocks at Friendship Lv. 4."
-
-Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
-
-〓Update Content2022/09/15 16:10:00 (global)〓
-
-Fixes an issue under specific circumstances whereby characters could not move and abnormalities occurred in certain viewing angles of the characters.
-
-〓Update Content2022/09/08 16:30:00 (global)〓
-
-Updated resources related to subsequent events.
-
-〓Update Content 2022/09/03 12:00:00 (global)〓
-
-Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arama" in the World Quest "For All Children Who Long for Life," the quest could not continue as the Withering Zone could not be cleared. Travelers can continue the quest by following the quest guide after logging out via the Paimon Menu and logging in again.
-
-〓Update Content 2022/09/01 16:15:00 (global)〓
-
-Fixes an issue under specific circumstances whereby the "Mastermind" state of Yelan's Lv. 6 Constellation had an abnormal duration.
-
-Fixes an issue under specific circumstances whereby the quest objective "Defeat a certain number of Spinocrocodiles" in the World Quest "Into the Woods" could not be completed even after you defeated the required number of Spinocrocodiles. This issue has been fixed. You can head to the stream southeast of Pardis Dhyai to look for the NPC Rana and continue to progress in the quest.
-
-Fixes an issue under specific circumstances whereby the quest objective "Clean up the pollution caused by The Withering" in the World Quest "Agnihotra Sutra: The Final Chapter" could not be completed if the pollution caused by the corresponding Withering Zone had been cleared beforehand.
-
-Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arakunti" in the World Quest "Slumbering Roots," the quest could not continue as the NPC Arakunti disappeared abnormally. Travelers who experience this issue can return to where the "branch" is and speak to the NPC Arakunti to continue to progress in the quest.
-
-Fixes an issue under specific circumstances whereby the quest objectives "Talk to Arama" or "Defeat Marana's Avatar" in the World Quest "For All Children Who Long for Life" could not be completed. Travelers who are unable to complete the objective "Talk to Arama" can head to where "Marana's Avatar" is located to continue the quest. Travelers who are unable to complete the objective "Defeat Marana's Avatar" can continue the quest by following the quest guide.
-
-Fixes an issue that caused the windows of some buildings in Liyue and the Serenitea Pot to not light up at night.
-
-Fixes an issue whereby the Vertical Camera Sensitivity and Vertical Camera Sensitivity (Aimed Shot Mode) settings had an abnormal effect.
-
-Travelers affected by the issues mentioned above can restart the game to continue playing normally.
-
-〓Update Content 2022/08/26 16:00:00 (global)〓
-
-Fixes an issue whereby after the Version 3.0 update, the Furnishing Blueprint quest reward "Pear Orchard Stage: Yun-Han Style" could not be obtained after completing the World Quest "On the Stage, Behind the Stage." We will send out the corresponding quest reward via in-game mail using centralized distribution within 36 hours for Travelers who have encountered this issue before the fix.
-
-Fixes an issue under specific circumstances whereby after completing the quest objective "Unlock the road ahead using the Rhythm of the Beastly Trail" of the World Quest "The Rhythm that Reveals the Beastly Trail," the road did not open properly.
-
-Fixes an issue whereby there is a localization error in Japanese for Tighnari's Passive Talent "Scholarly Blade."
-
-〓Update Content 2022/08/24 16:05:00 (global)〓
-
-Fixes an issue under certain circumstances whereby the page cannot be loaded when using an iOS device to open the history of "Beginner's Wish."
-
------
-
 # Genshin Impact Version Trailers OST Album "Footprints of the Traveler" Now Available
 ## Version Trailer OST Album Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/aa0aab4c77fbaf3b706f92c00ca86cf1_8798898641671678863.jpg)
@@ -1433,6 +1355,84 @@ After the Version 3.0 update, Archon Quests Chapter III: Act I "Through Mists of
 • Complete Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby the Icy Paws fired by Diona's Elemental Skill might not target Wildlife opponents normally. This issue has been fixed in Version 3.1 and the fix will take effect after the version update.
+
+Presently, Dendro Cores produced by Bloom reactions would cause some characters' skill effects to be triggered incorrectly. We are diagnosing the issue and will fix the problem in future updates. Please stay tuned for future notices.
+
+There is an issue under certain circumstances whereby after the character Dori casts her Elemental Skill several times quickly within a short period of time, there is a chance that the number of Elemental Particles generated, and the effect of her Passive Talent "Compound Interest" may be abnormal. This issue will be fixed in the Version 3.1 update.
+
+Presently, while challenging Fayz Trials on certain Android devices, some Travelers will encounter graphic glitches, whereby characters and enemies cannot be seen clearly due to model anomalies. For a temporary solution, Travelers can go to "Settings > Graphics" to adjust the "Render Resolution" to medium or lower settings. If the issue exists still, Travelers may submit feedback through "Paimon Menu > Feedback."
+
+There is an issue under specific circumstances whereby players are unable to send messages in the dialogue window when playing on mobile devices. Travelers who encounter this issue can exit via the Paimon Menu and log back in to the game, or enter and exit an indoor environment (such as the Favonius Cathedral and the Knights of Favonius Headquarters) as a temporary fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+There is an issue whereby effects gained based on a character's attribute were incorrectly increased (excluding when an effect confers one attribute as a certain percentage of another attribute). The affected effects include:
+
+Effect of the Weapon "Hunter's Path"
+
+The Dendro Traveler's Passive Talent "Verdant Luxury"
+
+Tighnari's Passive Talent "Scholarly Blade"
+
+This issue will be fixed in the Version 3.1 update.
+
+There is an issue whereby the Voice-Over Unlock Criteria for Collei's line "About Fischl" in Profile > Voice-Over is abnormal. This issue will be fixed in the Version 3.1 update. The Unlock Criteria after the fix will be "Unlocks at Friendship Lv. 4."
+
+Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
+
+〓Update Content2022/09/15 16:10:00 (global)〓
+
+Fixes an issue under specific circumstances whereby characters could not move and abnormalities occurred in certain viewing angles of the characters.
+
+〓Update Content2022/09/08 16:30:00 (global)〓
+
+Updated resources related to subsequent events.
+
+〓Update Content 2022/09/03 12:00:00 (global)〓
+
+Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arama" in the World Quest "For All Children Who Long for Life," the quest could not continue as the Withering Zone could not be cleared. Travelers can continue the quest by following the quest guide after logging out via the Paimon Menu and logging in again.
+
+〓Update Content 2022/09/01 16:15:00 (global)〓
+
+Fixes an issue under specific circumstances whereby the "Mastermind" state of Yelan's Lv. 6 Constellation had an abnormal duration.
+
+Fixes an issue under specific circumstances whereby the quest objective "Defeat a certain number of Spinocrocodiles" in the World Quest "Into the Woods" could not be completed even after you defeated the required number of Spinocrocodiles. This issue has been fixed. You can head to the stream southeast of Pardis Dhyai to look for the NPC Rana and continue to progress in the quest.
+
+Fixes an issue under specific circumstances whereby the quest objective "Clean up the pollution caused by The Withering" in the World Quest "Agnihotra Sutra: The Final Chapter" could not be completed if the pollution caused by the corresponding Withering Zone had been cleared beforehand.
+
+Fixes an issue under specific circumstances whereby when carrying out the quest objective "Talk to Arakunti" in the World Quest "Slumbering Roots," the quest could not continue as the NPC Arakunti disappeared abnormally. Travelers who experience this issue can return to where the "branch" is and speak to the NPC Arakunti to continue to progress in the quest.
+
+Fixes an issue under specific circumstances whereby the quest objectives "Talk to Arama" or "Defeat Marana's Avatar" in the World Quest "For All Children Who Long for Life" could not be completed. Travelers who are unable to complete the objective "Talk to Arama" can head to where "Marana's Avatar" is located to continue the quest. Travelers who are unable to complete the objective "Defeat Marana's Avatar" can continue the quest by following the quest guide.
+
+Fixes an issue that caused the windows of some buildings in Liyue and the Serenitea Pot to not light up at night.
+
+Fixes an issue whereby the Vertical Camera Sensitivity and Vertical Camera Sensitivity (Aimed Shot Mode) settings had an abnormal effect.
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+〓Update Content 2022/08/26 16:00:00 (global)〓
+
+Fixes an issue whereby after the Version 3.0 update, the Furnishing Blueprint quest reward "Pear Orchard Stage: Yun-Han Style" could not be obtained after completing the World Quest "On the Stage, Behind the Stage." We will send out the corresponding quest reward via in-game mail using centralized distribution within 36 hours for Travelers who have encountered this issue before the fix.
+
+Fixes an issue under specific circumstances whereby after completing the quest objective "Unlock the road ahead using the Rhythm of the Beastly Trail" of the World Quest "The Rhythm that Reveals the Beastly Trail," the road did not open properly.
+
+Fixes an issue whereby there is a localization error in Japanese for Tighnari's Passive Talent "Scholarly Blade."
+
+〓Update Content 2022/08/24 16:05:00 (global)〓
+
+Fixes an issue under certain circumstances whereby the page cannot be loaded when using an iOS device to open the history of "Beginner's Wish."
 
 -----
 
