@@ -611,6 +611,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby when the character Cyno is under the "Pactsworn Pathclearer" state, after unleashing his Elemental Burst again, there is a small probability that the Elemental Burst would not take effect properly. This issue will be fixed in a later update, please stay tuned for future notices.
+
 Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
 
 -----
