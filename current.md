@@ -601,6 +601,48 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
+
+-----
+
+# "Path of Gleaming Jade" Daily Login Event
+## Path of Gleaming Jade
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
 # New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
 ## Archon Quest Chapter III: Act III and Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
@@ -634,34 +676,6 @@ After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptine
 • Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# "Path of Gleaming Jade" Daily Login Event
-## Path of Gleaming Jade
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
 
 -----
 
@@ -891,20 +905,6 @@ Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
 
 -----
 
