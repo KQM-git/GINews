@@ -894,6 +894,20 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 80 Gen
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
+
+-----
+
 # "Returning Winds" Event Details
 ## Returning Winds
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/078c20124a56c4c3f01b38a9ada0ca3f_3528113406595426228.jpg)
