@@ -615,34 +615,6 @@ Currently, there is an issue of abnormal color display in some features (such as
 
 -----
 
-# "Path of Gleaming Jade" Daily Login Event
-## Path of Gleaming Jade
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
 # New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
 ## Archon Quest Chapter III: Act III and Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
@@ -676,6 +648,34 @@ After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptine
 • Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Path of Gleaming Jade" Daily Login Event
+## Path of Gleaming Jade
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
 
 -----
 
