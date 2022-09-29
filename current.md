@@ -611,6 +611,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue in Co-Op Mode whereby when multiple Cyno characters cast their Elemental Burst, the display of Endseer's special effect might be displayed abnormally (the actual effects of the skill work as intended in-game). This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue whereby there is a brief period of abnormal brightness changes in the game when some characters enter Aiming Mode or after casting their Elemental Burst. This issue will be fixed in a later update, please stay tuned for future notices.
+
 Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
 
 〓Update Content 2022/09/29 16:05:00 (global)〓
