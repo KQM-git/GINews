@@ -25,6 +25,34 @@ October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
 
 -----
 
+# "Path of Gleaming Jade" Daily Login Event
+## Path of Gleaming Jade
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
 # Version 3.1 "King Deshret and the Three Magi" New Content Overview
 ## New Content Overview
 
@@ -679,31 +707,21 @@ After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptine
 
 -----
 
-# "Path of Gleaming Jade" Daily Login Event
-## Path of Gleaming Jade
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+# "Curtain of Leaves" — Spiral Abyss Challenge
+## Curtain of Leaves
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
 
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
+
+※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
 
 **〓Event Duration〓**
 
-2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+Permanently available after the Version 3.1 update
 
 **〓Eligibility〓**
 
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
+Adventure Rank 20 or above
 
 -----
 
@@ -760,24 +778,6 @@ Go to HoYoLAB > Genshin Impact Interest Group > Check-in, and check in daily to 
 From September 28 to October 7 (UTC+8), go to the "Check-In Rewards" page and reach a certain number of daily check-ins to win additional Primogems and Mora. You may even win the Blessing of the Welkin Moon!
 
 You will receive Primogems ×100 and Mora ×10,000 for your first check-in!
-
------
-
-# "Curtain of Leaves" — Spiral Abyss Challenge
-## Curtain of Leaves
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
-
-Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
-
-※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
-**〓Event Duration〓**
-
-Permanently available after the Version 3.1 update
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
 
 -----
 
