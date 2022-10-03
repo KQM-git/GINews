@@ -711,22 +711,6 @@ After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptine
 
 -----
 
-# GENSHIN CONCERT 2022
-## GENSHIN CONCERT 2022
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/29/6938b698cde79abfa9a2e95b70b8d15b_3517568741323686705.jpg)
-
-Dear Travelers,
-
-GENSHIN CONCERT 2022 "Melodies of an Endless Journey" is now available!
-
-This concert is presented by Genshin Impact and HOYO-MiX in collaboration with various musicians. Travelers, please click on the link and go on this wonderful musical journey with us.
-
-[Click on the link to watch the concert](https://www.youtube.com/c/GenshinImpact)
-
-Travelers, please search "Genshin Impact" on YouTube to watch the GENSHIN CONCERT 2022 and enjoy this wonderful musical journey with us.
-
------
-
 # "Curtain of Leaves" — Spiral Abyss Challenge
 ## Curtain of Leaves
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
