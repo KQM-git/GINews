@@ -25,34 +25,6 @@ October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
 
 -----
 
-# "Path of Gleaming Jade" Daily Login Event
-## Path of Gleaming Jade
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
 # Version 3.1 "King Deshret and the Three Magi" New Content Overview
 ## New Content Overview
 
@@ -626,6 +598,34 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Path of Gleaming Jade" Daily Login Event
+## Path of Gleaming Jade
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
 
 -----
 
