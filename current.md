@@ -25,6 +25,34 @@ October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
 
 -----
 
+# "Path of Gleaming Jade" Daily Login Event
+## Path of Gleaming Jade
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
 # Version 3.1 "King Deshret and the Three Magi" New Content Overview
 ## New Content Overview
 
@@ -601,31 +629,23 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Path of Gleaming Jade" Daily Login Event
-## Path of Gleaming Jade
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
+# Genshin Impact - Initial Top-Up Bonus Reset
+## Initial Top-Up Reset
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
 
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
 
-**〓Event Duration〓**
+**〓Reset Time〓**
 
-2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
+After the Version 3.1 update
 
-**〓Eligibility〓**
+*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
 
-Adventure Rank 5 or above
+**〓Reset Details〓**
 
-**〓Event Details〓**
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
 
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
 
 -----
 
@@ -675,42 +695,6 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
-# New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
-## Archon Quest Chapter III: Act III and Act IV
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
-
-"The world as it is, and all that is in it — it is but a dream, empty and full of lies."
-
-The Sabzeruz Festival samsara finally comes to an end.
-
-The path to saving the god lies within the desert stars.
-
-"I am the lord of the scarlet soil. My deeds are world-renowned, and even the strong kneel before me!"
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will be permanently available.
-
-〓Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement"
-
-〓Archon Quest Chapter III: Act IV "King Deshret and the Three Magi" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # "Curtain of Leaves" — Spiral Abyss Challenge
 ## Curtain of Leaves
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
@@ -726,84 +710,6 @@ Permanently available after the Version 3.1 update
 **〓Eligibility〓**
 
 Adventure Rank 20 or above
-
------
-
-# Web Event "Canvas of Starlight Memories" Now Online: A Journey Together Through the World - Take Part to Obtain Primogems and Other In-Game Rewards
-## Web Event "Canvas of Starlight Memories" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/22/97d1515252699e89fb0eb7d66088e687_4062054422838235741.png)
-
-Time moves on like a spinning wheel, and it appears that another year has passed since your journey with Paimon began. Use your brush to paint together with Paimon, and preserve precious memories from your trip in this moment.
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220928review_data/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220928anniversary&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2022/09/28 - 2022/10/12 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-*The data from the Canvas of Starlight Memories event will be collected up to 2022/09/25 00:00:00 (global) (there may be a margin of error of about 30 minutes) and is valid only for Travelers who are Adventure Rank 10 or above before the cut-off time.
-
-〓Event Description〓
-
-Travelers can click on different chapters on the event page to watch their own travel memories.
-
-When you finish viewing these memories during the event, click on the chests in the different chapters to get viewing gifts.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-〓Event Rewards〓
-
-Watch travel memories and take part in the sharing event to obtain a total of Primogems ×180, Mystic Enhancement Ore ×10, Mora ×40,000, Cecilia ×3, Qingxin ×3, Sakura Bloom ×3, and Sumeru Rose ×3.
-
-〓Notes〓
-
-The nickname and profile picture in the "Canvas of Starlight Memories" web event match the nickname and profile picture in the your game. If you change your nickname or avatar in the game, there will be a certain delay for the change to be reflected on the page. Please be patient.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# Genshin Impact - Initial Top-Up Bonus Reset
-## Initial Top-Up Reset
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
-
-After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 3.1 update
-
-*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
 
 -----
 
@@ -879,6 +785,100 @@ Festive Fever Reward Collection Time | Festive Fever Reward Collection Time | 20
 ● In the Fecund Blessings phase, Travelers need to search for Fecund Hampers placed by citizens to obtain the gifts within. The Shop Components you can obtain from these gifts can even be used to decorate your stall in Charity and Creativity.
 
 ● Complete these phases to gain Festive Fever and reach a certain amount of Festive Fever to obtain the event-exclusive weapon, Missive Windspear (Polearm) as well as its refinement materials.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
+## Archon Quest Chapter III: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
+
+"The world as it is, and all that is in it — it is but a dream, empty and full of lies."
+
+The Sabzeruz Festival samsara finally comes to an end.
+
+The path to saving the god lies within the desert stars.
+
+"I am the lord of the scarlet soil. My deeds are world-renowned, and even the strong kneel before me!"
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will be permanently available.
+
+〓Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement"
+
+〓Archon Quest Chapter III: Act IV "King Deshret and the Three Magi" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Web Event "Canvas of Starlight Memories" Now Online: A Journey Together Through the World - Take Part to Obtain Primogems and Other In-Game Rewards
+## Web Event "Canvas of Starlight Memories" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/22/97d1515252699e89fb0eb7d66088e687_4062054422838235741.png)
+
+Time moves on like a spinning wheel, and it appears that another year has passed since your journey with Paimon began. Use your brush to paint together with Paimon, and preserve precious memories from your trip in this moment.
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220928review_data/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220928anniversary&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/09/28 - 2022/10/12 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+*The data from the Canvas of Starlight Memories event will be collected up to 2022/09/25 00:00:00 (global) (there may be a margin of error of about 30 minutes) and is valid only for Travelers who are Adventure Rank 10 or above before the cut-off time.
+
+〓Event Description〓
+
+Travelers can click on different chapters on the event page to watch their own travel memories.
+
+When you finish viewing these memories during the event, click on the chests in the different chapters to get viewing gifts.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+〓Event Rewards〓
+
+Watch travel memories and take part in the sharing event to obtain a total of Primogems ×180, Mystic Enhancement Ore ×10, Mora ×40,000, Cecilia ×3, Qingxin ×3, Sakura Bloom ×3, and Sumeru Rose ×3.
+
+〓Notes〓
+
+The nickname and profile picture in the "Canvas of Starlight Memories" web event match the nickname and profile picture in the your game. If you change your nickname or avatar in the game, there will be a certain delay for the change to be reflected on the page. Please be patient.
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
