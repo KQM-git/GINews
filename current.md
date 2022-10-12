@@ -852,44 +852,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Web Event "Canvas of Starlight Memories" Now Online: A Journey Together Through the World - Take Part to Obtain Primogems and Other In-Game Rewards
-## Web Event "Canvas of Starlight Memories" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/22/97d1515252699e89fb0eb7d66088e687_4062054422838235741.png)
-
-Time moves on like a spinning wheel, and it appears that another year has passed since your journey with Paimon began. Use your brush to paint together with Paimon, and preserve precious memories from your trip in this moment.
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20220928review_data/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20220928anniversary&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2022/09/28 - 2022/10/12 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-*The data from the Canvas of Starlight Memories event will be collected up to 2022/09/25 00:00:00 (global) (there may be a margin of error of about 30 minutes) and is valid only for Travelers who are Adventure Rank 10 or above before the cut-off time.
-
-〓Event Description〓
-
-Travelers can click on different chapters on the event page to watch their own travel memories.
-
-When you finish viewing these memories during the event, click on the chests in the different chapters to get viewing gifts.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-〓Event Rewards〓
-
-Watch travel memories and take part in the sharing event to obtain a total of Primogems ×180, Mystic Enhancement Ore ×10, Mora ×40,000, Cecilia ×3, Qingxin ×3, Sakura Bloom ×3, and Sumeru Rose ×3.
-
-〓Notes〓
-
-The nickname and profile picture in the "Canvas of Starlight Memories" web event match the nickname and profile picture in the your game. If you change your nickname or avatar in the game, there will be a certain delay for the change to be reflected on the page. Please be patient.
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
@@ -1091,44 +1053,6 @@ Permanently available after the Version 3.1 update
 Adventure Rank 40 or above
 
 And complete the Archon Quest "Chapter III: Act IV - King Deshret and the Three Magi"
-
------
-
-# "Adventurer's Booster Bundles" - Round 17 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/7f89c3e06705a157d174fce4ae312355_8664512932701356722.jpg)
-
-Round 17 of Adventurer's Booster Bundles are available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-**〓Adventurer's Special Supply Bundle〓**
-
-Duration: After the Version 3.1 update – 2022/10/12 23:59:59 (server)
-
-Bundle Contents: Hero's Wit ×12, Mora ×10,000
-
-Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
