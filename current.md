@@ -1,3 +1,19 @@
+# Version 3.1 "King Deshret and the Three Magi" New Content Overview
+## New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/a84cf46104438a307ce1dc1784d9c16b_1387942436118032678.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/59003e0196be3a591e6edf3672c94a3c_917410635034923730.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/eabf8e0a6f0c2b0fe0eb012b3ad8f9f0_1296243581076018553.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/e54d3fd779909ffa685e5f85f9b6b585_7551966476517725227.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/cc702954dbf2eff5f7f27a748f3a98b8_5698092528623069871.jpg)
+
+-----
+
 # Of Travels and Treasures: A Thank-You Gift
 ## Of Travels and Treasures
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
@@ -50,22 +66,6 @@ Adventure Rank 5 or above
 5 | Intertwined Fate ×2
 6 | Hero's Wit ×8
 7 | Intertwined Fate ×5
-
------
-
-# Version 3.1 "King Deshret and the Three Magi" New Content Overview
-## New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/a84cf46104438a307ce1dc1784d9c16b_1387942436118032678.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/59003e0196be3a591e6edf3672c94a3c_917410635034923730.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/eabf8e0a6f0c2b0fe0eb012b3ad8f9f0_1296243581076018553.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/e54d3fd779909ffa685e5f85f9b6b585_7551966476517725227.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/cc702954dbf2eff5f7f27a748f3a98b8_5698092528623069871.jpg)
 
 -----
 
@@ -629,26 +629,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# Genshin Impact - Initial Top-Up Bonus Reset
-## Initial Top-Up Reset
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
-
-After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 3.1 update
-
-*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -698,6 +678,26 @@ Primogems ×100
 Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
 
 Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+
+-----
+
+# Genshin Impact - Initial Top-Up Bonus Reset
+## Initial Top-Up Reset
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
+
+After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 3.1 update
+
+*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
 
 -----
 
