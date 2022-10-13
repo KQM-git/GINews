@@ -794,42 +794,6 @@ Festive Fever Reward Collection Time | Festive Fever Reward Collection Time | 20
 
 -----
 
-# New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
-## Archon Quest Chapter III: Act III and Act IV
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
-
-"The world as it is, and all that is in it — it is but a dream, empty and full of lies."
-
-The Sabzeruz Festival samsara finally comes to an end.
-
-The path to saving the god lies within the desert stars.
-
-"I am the lord of the scarlet soil. My deeds are world-renowned, and even the strong kneel before me!"
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will be permanently available.
-
-〓Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement"
-
-〓Archon Quest Chapter III: Act IV "King Deshret and the Three Magi" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # Event Wish "Twirling Lotus" - Boosted Drop Rate for "Dance of Lotuslight" Nilou (Hydro)!
 ## Event Wish - Twirling Lotus
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/de0e37af9754660b92024deb20a1137f_4029261149140627953.jpg)
@@ -1109,6 +1073,42 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter III: Act III and Act IV
+## Archon Quest Chapter III: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/23/318d18771b4d76497b7a624b7761acec_3194954344048449400.png)
+
+"The world as it is, and all that is in it — it is but a dream, empty and full of lies."
+
+The Sabzeruz Festival samsara finally comes to an end.
+
+The path to saving the god lies within the desert stars.
+
+"I am the lord of the scarlet soil. My deeds are world-renowned, and even the strong kneel before me!"
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.1 update, Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" and Act IV "King Deshret and the Three Magi" will be permanently available.
+
+〓Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement"
+
+〓Archon Quest Chapter III: Act IV "King Deshret and the Three Magi" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act III "Dreams, Emptiness, Deception"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
