@@ -665,6 +665,12 @@ There is an issue whereby there is a brief period of abnormal brightness changes
 
 Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
 
+〓Update Content 2022/10/13 16:25:00 (global)〓
+
+Fixes an error in Russian whereby the text for the Dendro Traveler's Passive Talent "Surgent Manifestation" is displayed abnormally.
+
+Updates resources related to subsequent events.
+
 〓Update Content 2022/09/30 20:50:00 (global)〓
 
 Fixes an issue under certain circumstances whereby there is a small probability that the Everlight Cell and Neverlight Cell at one location of the Khaj-Nisut in Land of Lower Setekh would be abnormal, resulting in a failure to open the corresponding door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
