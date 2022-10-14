@@ -1,19 +1,3 @@
-# Version 3.1 "King Deshret and the Three Magi" New Content Overview
-## New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/a84cf46104438a307ce1dc1784d9c16b_1387942436118032678.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/59003e0196be3a591e6edf3672c94a3c_917410635034923730.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/eabf8e0a6f0c2b0fe0eb012b3ad8f9f0_1296243581076018553.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/e54d3fd779909ffa685e5f85f9b6b585_7551966476517725227.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/22/cc702954dbf2eff5f7f27a748f3a98b8_5698092528623069871.jpg)
-
------
-
 # Of Travels and Treasures: A Thank-You Gift
 ## Of Travels and Treasures
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
