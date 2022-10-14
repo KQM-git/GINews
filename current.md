@@ -53,6 +53,26 @@ Adventure Rank 5 or above
 
 -----
 
+# Genshin Impact - Initial Top-Up Bonus Reset
+## Initial Top-Up Reset
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
+
+After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 3.1 update
+
+*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+-----
+
 # "King Deshret and the Three Magi" Version 3.1 Update Details
 ## Version 3.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/27/a999f1db7611ac515bd35a3d8e35726a_1022476119289989126.png)
@@ -686,26 +706,6 @@ Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey
 Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# Genshin Impact - Initial Top-Up Bonus Reset
-## Initial Top-Up Reset
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
-
-After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 3.1 update
-
-*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
 
 -----
 
