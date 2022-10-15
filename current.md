@@ -727,6 +727,34 @@ Adventure Rank 20 or above
 
 -----
 
+# "Wind Chaser" Event: Galezone Domain Challenges
+## Wind Chaser
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/b15b3330138b86e38829752faa982127_4995780511214085446.jpg)
+
+**〓Event Duration〓**
+
+2022/10/17 10:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/01/8d3f1fa665db949f057724cc1eb3fdf7_2480736374830169957.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● From the first day of the event, a new Galezone challenge will unlock every day. A total of five challenges will be unlocked.
+
+● While challenging Galezone stages, you must reach the destination within the time limit and obtain as many Windcoins and complete as many Windgrasper Challenges as possible along the way.
+
+● You can invite at most one other player to help you challenge these stages when in Co-Op Mode. Both Travelers can interact with the various strange mechanisms in the Galezone and share the progress of Windcoins collection and Windgrasper Challenges progress.
+
+● You can achieve the challenge objectives in Co-Op Mode and receive the target rewards. In this state, both Travelers have to reach the destination in order to successfully pass the challenge.
+
+-----
+
 # "Hyakunin Ikki" Event: A Team-Switching Combat Challenge Awaits
 ## Hyakunin Ikki
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/bdaed88b27a3a0084092542d030b89d2_8572730288755100078.jpg)
