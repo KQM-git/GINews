@@ -73,6 +73,24 @@ After the Version 3.1 update
 
 -----
 
+# "Curtain of Leaves" — Spiral Abyss Challenge
+## Curtain of Leaves
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
+
+Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
+
+※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
+
+**〓Event Duration〓**
+
+Permanently available after the Version 3.1 update
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+-----
+
 # "King Deshret and the Three Magi" Version 3.1 Update Details
 ## Version 3.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/27/a999f1db7611ac515bd35a3d8e35726a_1022476119289989126.png)
@@ -684,24 +702,6 @@ Primogems ×100
 Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
 
 Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
-
------
-
-# "Curtain of Leaves" — Spiral Abyss Challenge
-## Curtain of Leaves
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
-
-Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
-
-※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
-**〓Event Duration〓**
-
-Permanently available after the Version 3.1 update
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
 
 -----
 
