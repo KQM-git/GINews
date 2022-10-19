@@ -661,6 +661,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby there is a small probability that Nilou's Elemental Burst is unable to hit enemies under certain circumstances. This issue will be fixed in a later update, please stay tuned for future notices.
+
 There is an issue whereby when Nilou leaves the field after swiftly casting her Elemental Skill in a short period of time and entering the Lunar Prayer state, the Lunar Prayer status cannot be removed normally. This issue will be fixed in a later update, please stay tuned for future notices.
 
 There is an issue in Co-Op Mode whereby when multiple Cyno characters cast their Elemental Burst, the display of Endseer's special effect might be displayed abnormally (the actual effects of the skill work as intended in-game). This issue will be fixed in a later update, please stay tuned for future notices.
