@@ -705,6 +705,38 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
+# "Star-Seeker's Sojourn" Event: Search for the Mysterious "Future Stars"
+## Star-Seeker's Sojourn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/7dd6b9b2026e0b56fded93b8c6454a44_374291016171200686.jpg)
+
+**〓Event Duration〓**
+
+2022/10/21 10:00:00 (server) – 2022/10/31 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/09/01/94dcb994361e967099c86ee02aad58fe_8927300445700215707.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
+
+※ If you have not completed the Archon Quest "Through Mists of Smoke and Forests Dark" during the event, you can enter the event through "Quick Start" in the event page after reaching Adventure Rank 30 or above.
+
+**〓Event Details〓**
+
+● During the event, Travelers must first accept an exploration commission from the girl Banu and obtain the event gadget "Banu's Wisdom." After equipping "Banu's Wisdom," Travelers can use it in the designated area to find "Future Stars."
+
+● For the first six days after the event begins, a new challenge will unlock every day. Successfully pass the challenges and find the "Future Stars" to claim rewards.
+
+● On the seventh day of the event, Travelers will need to have collected all six "Future Stars" to summon the "Great Future Star" with Banu. Complete the final challenge to help Banu fulfill her wish and claim the commission rewards.
+
+● After the event gameplay period ends, the gadget "Banu's Wisdom" and "Future Stars" will disappear.
+
+-----
+
 # "Wind Chaser" Event: Galezone Domain Challenges
 ## Wind Chaser
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/b15b3330138b86e38829752faa982127_4995780511214085446.jpg)
