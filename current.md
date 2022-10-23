@@ -558,33 +558,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# Of Travels and Treasures: A Thank-You Gift
-## Of Travels and Treasures
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
-
-During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
-
-Each email can be collected until the end of the event.
-
-**〓Event Duration〓**
-
-Version 3.1
-
-**〓Eligibility〓**
-
-Adventure Rank 2 or above
-
-**〓Event Details〓**
-
-**Login Date** | **Reward 1** | **Reward 2**
---- | --- | ---
-After the Version update | Primogems ×400 | Cloud Retainer's Damasked Device ×1
-September 29 | Primogems ×400 | Fragile Resin ×2
-September 30 | Primogems ×400 | Fragile Resin ×2
-October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -638,6 +611,33 @@ Primogems ×100
 Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
 
 Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+
+-----
+
+# Of Travels and Treasures: A Thank-You Gift
+## Of Travels and Treasures
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
+
+During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
+
+Each email can be collected until the end of the event.
+
+**〓Event Duration〓**
+
+Version 3.1
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2**
+--- | --- | ---
+After the Version update | Primogems ×400 | Cloud Retainer's Damasked Device ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Fragile Resin ×2
+October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
 
 -----
 
