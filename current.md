@@ -662,30 +662,6 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
-# Version Satisfaction Survey Now Open
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_8686249460550772906.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2022/10/28 10:00:00 (global) - 2022/10/30 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6mssjvgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=9125&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page Is Here! 
 ## Genshin Impact Version 3.2 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/21/07c4f0e8de222b93150ccc70b5ac4afd_527337193185275374.png)
