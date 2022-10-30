@@ -703,34 +703,6 @@ October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
 
 -----
 
-# "Path of Gleaming Jade" Daily Login Event
-## Path of Gleaming Jade
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/463579293fd9c3c4892f067143faa4bf_8367968662497264813.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2022/10/14 04:00:00 (server) – 2022/10/31 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
 # Genshin Impact - Initial Top-Up Bonus Reset
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
@@ -766,66 +738,6 @@ Permanently available after the Version 3.1 update
 **〓Eligibility〓**
 
 Adventure Rank 20 or above
-
------
-
-# "Star-Seeker's Sojourn" Event: Search for the Mysterious "Future Stars"
-## Star-Seeker's Sojourn
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/7dd6b9b2026e0b56fded93b8c6454a44_374291016171200686.jpg)
-
-**〓Event Duration〓**
-
-2022/10/21 10:00:00 (server) – 2022/10/31 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/01/94dcb994361e967099c86ee02aad58fe_8927300445700215707.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete Archon Quest Chapter III: Act I "Through Mists of Smoke and Forests Dark"
-
-※ If you have not completed the Archon Quest "Through Mists of Smoke and Forests Dark" during the event, you can enter the event through "Quick Start" in the event page after reaching Adventure Rank 30 or above.
-
-**〓Event Details〓**
-
-● During the event, Travelers must first accept an exploration commission from the girl Banu and obtain the event gadget "Banu's Wisdom." After equipping "Banu's Wisdom," Travelers can use it in the designated area to find "Future Stars."
-
-● For the first six days after the event begins, a new challenge will unlock every day. Successfully pass the challenges and find the "Future Stars" to claim rewards.
-
-● On the seventh day of the event, Travelers will need to have collected all six "Future Stars" to summon the "Great Future Star" with Banu. Complete the final challenge to help Banu fulfill her wish and claim the commission rewards.
-
-● After the event gameplay period ends, the gadget "Banu's Wisdom" and "Future Stars" will disappear.
-
------
-
-# "Wind Chaser" Event: Galezone Domain Challenges
-## Wind Chaser
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/b15b3330138b86e38829752faa982127_4995780511214085446.jpg)
-
-**〓Event Duration〓**
-
-2022/10/17 10:00:00 (server) – 2022/10/31 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/09/01/8d3f1fa665db949f057724cc1eb3fdf7_2480736374830169957.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● From the first day of the event, a new Galezone challenge will unlock every day. A total of five challenges will be unlocked.
-
-● While challenging Galezone stages, you must reach the destination within the time limit and obtain as many Windcoins and complete as many Windgrasper Challenges as possible along the way.
-
-● You can invite at most one other player to help you challenge these stages when in Co-Op Mode. Both Travelers can interact with the various strange mechanisms in the Galezone and share the progress of Windcoins collection and Windgrasper Challenges progress.
-
-● You can achieve the challenge objectives in Co-Op Mode and receive the target rewards. In this state, both Travelers have to reach the destination in order to successfully pass the challenge.
 
 -----
 
@@ -950,32 +862,6 @@ Permanently available after 2022/10/14 18:00:00 (server)
 Adventure Rank 40 or above
 
 And complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement."
-
------
-
-# "Returning Winds" Event Details
-## Returning Winds
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/078c20124a56c4c3f01b38a9ada0ca3f_3528113406595426228.jpg)
-
-Travelers can earn rich rewards in "Returning Winds" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Returning Winds" and Furnishing Blueprint "Amidst the Fleeing Smoke."
-
-**〓Event Duration〓**
-
-After the 3.1 Version update – 2022/10/31 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● During this Battle Pass, the BEP required for each BP Level will be adjusted to 900 (BEP previously required was 1,000).
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/10/31 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
