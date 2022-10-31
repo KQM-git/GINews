@@ -382,20 +382,6 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
-# The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page Is Here! 
-## Genshin Impact Version 3.2 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/21/07c4f0e8de222b93150ccc70b5ac4afd_527337193185275374.png)
-
-Dear Travelers,
-
-The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page is here!
-
-[>>Click to Enter the Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page<<](https://act.hoyoverse.com/ys/event/e20221024prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221021warm&authkey_ver=1)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # Of Travels and Treasures: A Thank-You Gift
 ## Of Travels and Treasures
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
