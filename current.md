@@ -136,6 +136,289 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small probability that Nilou's Elemental Burst is unable to hit enemies under certain circumstances. This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue whereby when Nilou leaves the field after swiftly casting her Elemental Skill in a short period of time and entering the Lunar Prayer state, the Lunar Prayer status cannot be removed normally. This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue in Co-Op Mode whereby when multiple Cyno characters cast their Elemental Burst, the display of Endseer's special effect might be displayed abnormally (the actual effects of the skill work as intended in-game). This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue whereby there is a brief period of abnormal brightness changes in the game when some characters enter Aiming Mode or after casting their Elemental Burst. This issue will be fixed in a later update, please stay tuned for future notices.
+
+Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
+
+〓Update Content 2022/10/13 16:25:00 (global)〓
+
+Fixes an error in Russian whereby the text for the Dendro Traveler's Passive Talent "Surgent Manifestation" is displayed abnormally.
+
+Updates resources related to subsequent events.
+
+〓Update Content 2022/09/30 20:50:00 (global)〓
+
+Fixes an issue under certain circumstances whereby there is a small probability that the Everlight Cell and Neverlight Cell at one location of the Khaj-Nisut in Land of Lower Setekh would be abnormal, resulting in a failure to open the corresponding door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
+
+〓Update Content 2022/09/30 14:25:00 (global)〓
+
+Fixes an issue under certain conditions whereby Travelers could not open the corresponding treasure chest after arriving at the location indicated by the 13th landscape painting in the Mysterious Clipboard of the gadget "Aranyaka." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve it.
+
+Fixes an issue whereby when carrying out the quest objective "Pass the three trials" in the World Quest "Golden Slumber: Dreams Beneath the Searing Sand," the quest could not continue as the Neverlight Cells would have a small probability of being abnormal, resulting in a failure to open the door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
+
+Fixes an issue with a treasure chest near Dar al-Shifa in the Land of Lower Setekh area whereby after defeating the nearby enemy, if the player does not open the chest before the end of the day, they will be unable to unlock the chest the following day.
+
+〓Update Content 2022/09/29 16:05:00 (global)〓
+
+Fixes an issue whereby when the character Cyno is under the "Pactsworn Pathclearer" state, after unleashing his Elemental Burst again, there is a small probability that the Elemental Burst would not take effect properly.
+
+▌Issue Fix Compensation
+
+● Compensation Details
+
+Primogems ×100
+
+● Scope of Compensation
+
+Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+
+-----
+
+# The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page Is Here! 
+## Genshin Impact Version 3.2 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/21/07c4f0e8de222b93150ccc70b5ac4afd_527337193185275374.png)
+
+Dear Travelers,
+
+The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page is here!
+
+[>>Click to Enter the Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page<<](https://act.hoyoverse.com/ys/event/e20221024prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221021warm&authkey_ver=1)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
+# Of Travels and Treasures: A Thank-You Gift
+## Of Travels and Treasures
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
+
+During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
+
+Each email can be collected until the end of the event.
+
+**〓Event Duration〓**
+
+Version 3.1
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2**
+--- | --- | ---
+After the Version update | Primogems ×400 | Cloud Retainer's Damasked Device ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Fragile Resin ×2
+October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
+
+-----
+
+# Genshin Impact - Initial Top-Up Bonus Reset
+## Initial Top-Up Reset
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
+
+After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 3.1 update
+
+*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+-----
+
+# "Curtain of Leaves" — Spiral Abyss Challenge
+## Curtain of Leaves
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
+
+Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
+
+※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
+
+**〓Event Duration〓**
+
+Permanently available after the Version 3.1 update
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
+# Event Wish "Twirling Lotus" - Boosted Drop Rate for "Dance of Lotuslight" Nilou (Hydro)!
+## Event Wish - Twirling Lotus
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/de0e37af9754660b92024deb20a1137f_4029261149140627953.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
+--- | --- | ---
+2022/10/14 18:00:00 (server) – 2022/11/01 14:59:59 (server) | "Dance of Lotuslight" Nilou (Hydro) | "Uncrowned Lord of the Ocean" Beidou (Electro)
+^ | ^ | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Dance of Lotuslight" Nilou (Hydro) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Uncrowned Lord of the Ocean" Beidou (Electro), "Shining Idol" Barbara (Hydro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Secretum Secretorum" - Boosted Drop Rate for "Kreideprinz" Albedo (Geo)!
+## Event Wish - Secretum Secretorum
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/0ea9869ba8d46d71d5d349fbdc20add8_1723996294263120352.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
+--- | --- | ---
+2022/10/14 18:00:00 (server) – 2022/11/01 14:59:59 (server) | "Kreideprinz" Albedo (Geo) | "Uncrowned Lord of the Ocean" Beidou (Electro)
+^ | ^ | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Kreideprinz" Albedo (Geo) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Uncrowned Lord of the Ocean" Beidou (Electro), "Shining Idol" Barbara (Hydro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Key of Khaj-Nisut (Sword) and Primordial Jade Cutter (Sword)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/a061fe08b3d48791a609d37e698704d3_2643650533089295445.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2022/10/14 18:00:00 (server) – 2022/11/01 14:59:59 (server) | Key of Khaj-Nisut (Sword)   Primordial Jade Cutter (Sword) | Xiphos' Moonlight (Sword)
+^ | ^ | Wandering Evenstar (Catalyst)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Key of Khaj-Nisut (Sword) and Primordial Jade Cutter (Sword) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Xiphos' Moonlight (Sword) and Wandering Evenstar (Catalyst) as well as the 4-star weapons Rainslasher (Claymore), Dragon's Bane (Polearm), and Sacrificial Bow (Bow) will receive a huge drop-rate boost !
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Key of Khaj-Nisut (Sword) or Primordial Jade Cutter (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Lotos Somno Chapter" Story Quest Overview
+## Lotos Somno Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/1fd52cb70bda81a17d2ca1447b4a42d6_6911838189150720485.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Nilou's Story Quest "Lotos Somno Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after 2022/10/14 18:00:00 (server)
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+And complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement."
+
+-----
+
+# Game Survey
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6norzvgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=7715&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # "King Deshret and the Three Magi" Version 3.1 Update Details
 ## Version 3.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/27/a999f1db7611ac515bd35a3d8e35726a_1022476119289989126.png)
@@ -693,289 +976,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby there is a small probability that Nilou's Elemental Burst is unable to hit enemies under certain circumstances. This issue will be fixed in a later update, please stay tuned for future notices.
-
-There is an issue whereby when Nilou leaves the field after swiftly casting her Elemental Skill in a short period of time and entering the Lunar Prayer state, the Lunar Prayer status cannot be removed normally. This issue will be fixed in a later update, please stay tuned for future notices.
-
-There is an issue in Co-Op Mode whereby when multiple Cyno characters cast their Elemental Burst, the display of Endseer's special effect might be displayed abnormally (the actual effects of the skill work as intended in-game). This issue will be fixed in a later update, please stay tuned for future notices.
-
-There is an issue whereby there is a brief period of abnormal brightness changes in the game when some characters enter Aiming Mode or after casting their Elemental Burst. This issue will be fixed in a later update, please stay tuned for future notices.
-
-Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
-
-〓Update Content 2022/10/13 16:25:00 (global)〓
-
-Fixes an error in Russian whereby the text for the Dendro Traveler's Passive Talent "Surgent Manifestation" is displayed abnormally.
-
-Updates resources related to subsequent events.
-
-〓Update Content 2022/09/30 20:50:00 (global)〓
-
-Fixes an issue under certain circumstances whereby there is a small probability that the Everlight Cell and Neverlight Cell at one location of the Khaj-Nisut in Land of Lower Setekh would be abnormal, resulting in a failure to open the corresponding door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
-
-〓Update Content 2022/09/30 14:25:00 (global)〓
-
-Fixes an issue under certain conditions whereby Travelers could not open the corresponding treasure chest after arriving at the location indicated by the 13th landscape painting in the Mysterious Clipboard of the gadget "Aranyaka." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve it.
-
-Fixes an issue whereby when carrying out the quest objective "Pass the three trials" in the World Quest "Golden Slumber: Dreams Beneath the Searing Sand," the quest could not continue as the Neverlight Cells would have a small probability of being abnormal, resulting in a failure to open the door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
-
-Fixes an issue with a treasure chest near Dar al-Shifa in the Land of Lower Setekh area whereby after defeating the nearby enemy, if the player does not open the chest before the end of the day, they will be unable to unlock the chest the following day.
-
-〓Update Content 2022/09/29 16:05:00 (global)〓
-
-Fixes an issue whereby when the character Cyno is under the "Pactsworn Pathclearer" state, after unleashing his Elemental Burst again, there is a small probability that the Elemental Burst would not take effect properly.
-
-▌Issue Fix Compensation
-
-● Compensation Details
-
-Primogems ×100
-
-● Scope of Compensation
-
-Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
-
------
-
-# The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page Is Here! 
-## Genshin Impact Version 3.2 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/21/07c4f0e8de222b93150ccc70b5ac4afd_527337193185275374.png)
-
-Dear Travelers,
-
-The Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page is here!
-
-[>>Click to Enter the Version 3.2 "Akasha Pulses, the Kalpa Flame Rises" Preview Page<<](https://act.hoyoverse.com/ys/event/e20221024prev/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221021warm&authkey_ver=1)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
-# Of Travels and Treasures: A Thank-You Gift
-## Of Travels and Treasures
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
-
-During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
-
-Each email can be collected until the end of the event.
-
-**〓Event Duration〓**
-
-Version 3.1
-
-**〓Eligibility〓**
-
-Adventure Rank 2 or above
-
-**〓Event Details〓**
-
-**Login Date** | **Reward 1** | **Reward 2**
---- | --- | ---
-After the Version update | Primogems ×400 | Cloud Retainer's Damasked Device ×1
-September 29 | Primogems ×400 | Fragile Resin ×2
-September 30 | Primogems ×400 | Fragile Resin ×2
-October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
-
------
-
-# Genshin Impact - Initial Top-Up Bonus Reset
-## Initial Top-Up Reset
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
-
-After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 3.1 update
-
-*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
------
-
-# "Curtain of Leaves" — Spiral Abyss Challenge
-## Curtain of Leaves
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
-
-Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
-
-※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
-**〓Event Duration〓**
-
-Permanently available after the Version 3.1 update
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
------
-
-# Event Wish "Twirling Lotus" - Boosted Drop Rate for "Dance of Lotuslight" Nilou (Hydro)!
-## Event Wish - Twirling Lotus
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/de0e37af9754660b92024deb20a1137f_4029261149140627953.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
---- | --- | ---
-2022/10/14 18:00:00 (server) – 2022/11/01 14:59:59 (server) | "Dance of Lotuslight" Nilou (Hydro) | "Uncrowned Lord of the Ocean" Beidou (Electro)
-^ | ^ | "Shining Idol" Barbara (Hydro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Dance of Lotuslight" Nilou (Hydro) will receive a huge drop-rate boost!
-
-● During the event, the 4-star characters "Uncrowned Lord of the Ocean" Beidou (Electro), "Shining Idol" Barbara (Hydro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# Event Wish "Secretum Secretorum" - Boosted Drop Rate for "Kreideprinz" Albedo (Geo)!
-## Event Wish - Secretum Secretorum
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/0ea9869ba8d46d71d5d349fbdc20add8_1723996294263120352.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character** **(5-Star)** | **Featured Characters** **(4-Star)**
---- | --- | ---
-2022/10/14 18:00:00 (server) – 2022/11/01 14:59:59 (server) | "Kreideprinz" Albedo (Geo) | "Uncrowned Lord of the Ocean" Beidou (Electro)
-^ | ^ | "Shining Idol" Barbara (Hydro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Kreideprinz" Albedo (Geo) will receive a huge drop-rate boost!
-
-● During the event, the 4-star characters "Uncrowned Lord of the Ocean" Beidou (Electro), "Shining Idol" Barbara (Hydro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Key of Khaj-Nisut (Sword) and Primordial Jade Cutter (Sword)!
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/a061fe08b3d48791a609d37e698704d3_2643650533089295445.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/10/14 18:00:00 (server) – 2022/11/01 14:59:59 (server) | Key of Khaj-Nisut (Sword)   Primordial Jade Cutter (Sword) | Xiphos' Moonlight (Sword)
-^ | ^ | Wandering Evenstar (Catalyst)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Sacrificial Bow (Bow)
-
-● During the event wish, the event-exclusive 5-star weapons Key of Khaj-Nisut (Sword) and Primordial Jade Cutter (Sword) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapons Xiphos' Moonlight (Sword) and Wandering Evenstar (Catalyst) as well as the 4-star weapons Rainslasher (Claymore), Dragon's Bane (Polearm), and Sacrificial Bow (Bow) will receive a huge drop-rate boost !
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Key of Khaj-Nisut (Sword) or Primordial Jade Cutter (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# "Lotos Somno Chapter" Story Quest Overview
-## Lotos Somno Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/26/1fd52cb70bda81a17d2ca1447b4a42d6_6911838189150720485.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Nilou's Story Quest "Lotos Somno Chapter."
-
-The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
-
-**〓Quest Start Time〓**
-
-Permanently available after 2022/10/14 18:00:00 (server)
-
-**〓Quest Unlock Criteria〓**
-
-Adventure Rank 40 or above
-
-And complete Archon Quest Chapter III: Act II "The Morn a Thousand Roses Brings: Denouement."
-
------
-
-# Game Survey
-## Complete the Survey and Get Primogems
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
-
-Dear Travelers,
-
-A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6norzvgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=7715&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
