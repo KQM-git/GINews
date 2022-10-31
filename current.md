@@ -1,3 +1,93 @@
+# "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Maintenance Preview
+## Version 3.2 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/c941908b14dcaf160083796a10645f89_3291822818272083026.jpg)
+
+Dear Travelers,
+
+Our developers will soon begin performing update maintenance. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please take note of the update time and schedule your game time accordingly.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+〓Update Schedule〓
+
+Update maintenance begins on 2022/11/02 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems for every hour the servers are down)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/11/02 06:00:00 (global).
+
+Please claim before the end of Version 3.2.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including bug fixes and other compensation details, please see the Version Update Details notice to be posted at 2022/11/02 07:00:00 (global).
+
+〓Update Content Overview〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/27/37f5ee0037d847638f05439caaec7e05_200019403975004126.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/27/996fa85d10f4e156dcefd3e56870aeb2_4765683076106619321.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/27/7b7408b41ad18576fe93b63966513df4_8325238063240302052.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/27/78e905ef819332f8bb8554783f0fb590_850354650781326225.jpg)
+
+〓Adjustments & Optimizations〓
+
+● Enemies
+
+Reduces the damage inflicted when the boss "Pyro Hypostasis" is in a Burning state and unleashes blazing punches or serpentine fireballs to hit the character continuously.
+
+● System
+
+Optimizes the Anti-Aliasing function on PC, PS4, and PS5.
+
+After optimizing the Anti-Aliasing function, it will be possible to choose between "None" or "FSR 2" in Settings > Graphics on PC.
+
+● Audio
+
+Optimizes the sound performance of knocking down opponents and critical hits.
+
+Optimizes the sound effects of some items and objects.
+
+Optimizes the Japanese, Korean, and English voice-over for certain characters, NPCs, and quests.
+
+Optimizes the Korean and English voice-over related to certain items.
+
+Decreases the volume of Yae Miko's footstep sound effects when walking, running, and sprinting.
+
+● Other
+
+Rana, Jeht, Jebrael, and Habachi are now correctly affected by elemental effects.
+
+Updates the materials that can be added to the Parametric Transformer: added some harvestable items and some items dropped by enemies.
+
+Adjusts the ore types at certain locations in the Sumeru area: some Magical Crystal Ore will be adjusted to Crystal Ore.
+
+Adjusts the visual effects display of Dendro Elemental Reactions to reduce the load on system performance (including Dendro Infusion, Bloom, Hyperbloom, Burgeon, Quicken, Aggravate, and Spread).
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # Pre-Installation Function Coming Soon
 ## Pre-Installation Function Coming Soon
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
