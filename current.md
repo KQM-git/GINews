@@ -88,6 +88,30 @@ Adjusts the visual effects display of Dendro Elemental Reactions to reduce the l
 
 -----
 
+# New Story Unlocked - Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+## New Story Unlocked - Archon Quest Chapter III: Act V
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/39d440abe00768b384db6a1b97357f07_1114544602248742421.png)
+
+"Rukkhadevata formed the bones and flowing blood, and Kusanali the innards and beating heart. Thrice holy and sacred their goodness and grace, worthy of worship, of praise, of laud, of record. In those days, Akasha ran not, the ashes of calamity had settled, and the past had become history."
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.2 update, Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will be permanently available.
+
+〓Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act IV "King Deshret and the Three Magi"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # Pre-Installation Function Now Available
 ## Pre-Installation Function Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/02/26/90e4c2152f1c4ab7409c2d474f867e8e_4752326209098996257.jpg)
@@ -129,6 +153,176 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://sdk.hoyoverse.com/upload/announcement/2021/11/15/3aedbcbd2b930621f9ccf9b30ded7c1f_3403275470040386358.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!
+## Event Wish - The Moongrass' Enlightenment
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/72745c7f2fd0b50c317e72f23f1a2bc2_4238478550448852368.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.2 update – 2022/11/18 17:59:00 (server) | "Physic of Purity" Nahida (Dendro) | "Wolf Boy" Razor (Electro)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Physic of Purity" Nahida (Dendro) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Wolf Boy" Razor (Electro), "Chivalric Blossom" Noelle (Geo), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
+## Event Wish - Tapestry of Golden Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/27d37843bff4850ab81311fe1e76c46b_7044189663156038042.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.2 update – 2022/11/18 17:59:00 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Wolf Boy" Razor (Electro)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
+
+● During the event, the 4-star characters "Wolf Boy" Razor (Electro), "Chivalric Blossom" Noelle (Geo), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for A Thousand Floating Dreams (Catalyst) and Thundering Pulse (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/6d7ec82f36985fc3d257248058206e97_4633228955798633601.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 3.2 update – 2022/11/18 17:59:00 (server) | A Thousand Floating Dreams (Catalyst)   Thundering Pulse (Bow) | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons A Thousand Floating Dreams (Catalyst) and Thundering Pulse (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as A Thousand Floating Dreams (Catalyst) or Thundering Pulse (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# "Sapientia Oromasdis Chapter" Story Quest Overview
+## Sapientia Oromasdis Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/0d8b91a5ee419523f6aba419fb1e37ec_7642587385854123965.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Nahida's Story Quest "Sapientia Oromasdis Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.2 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+And complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 18 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/51c16bbc961c82726cbd4699cc5042ce_2461703670922962955.jpg)
+
+Round 18 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.2 update – 2022/11/16 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.2 update – 2022/11/16 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Tempering Bundle〓**
+
+Duration: 2022/11/23 00:00:00 (server) – 2022/12/06 23:59:59 (server)
+
+Bundle Contents: Eminent Share Bundle ×10, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 120 Genesis Crystals. Can be purchased up to five times in total.
+
+※ Eminent Share Bundle: After usage, you can select any one 3-star Weapon Ascension Material from all the options available in the current Version.
+
+-----
+
+# "A Previous Life" Event Details
+## A Previous Life
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/00f1f89a1b83b4fbe17d9a65b4cd1875_6179708727423500204.jpg)
+
+Travelers can earn rich rewards in "A Previous Life" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Fungus Land" and Furnishing Blueprint "Brightwood 'Concord' Bed."
+
+**〓Event Duration〓**
+
+After the 3.2 Version update – 2022/12/05 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● During this Battle Pass, the BEP required for each BP Level will be adjusted to 900 (BEP previously required was 1,000).
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/12/05 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
