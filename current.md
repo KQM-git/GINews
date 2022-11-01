@@ -326,59 +326,23 @@ Adventure Rank 20 or above
 
 -----
 
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
 
-Dear Travelers:
+Dear Travelers,
 
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-〓Known Issues〓
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
 
-There is an issue whereby there is a small probability that Nilou's Elemental Burst is unable to hit enemies under certain circumstances. This issue will be fixed in a later update, please stay tuned for future notices.
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-There is an issue whereby when Nilou leaves the field after swiftly casting her Elemental Skill in a short period of time and entering the Lunar Prayer state, the Lunar Prayer status cannot be removed normally. This issue will be fixed in a later update, please stay tuned for future notices.
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-There is an issue in Co-Op Mode whereby when multiple Cyno characters cast their Elemental Burst, the display of Endseer's special effect might be displayed abnormally (the actual effects of the skill work as intended in-game). This issue will be fixed in a later update, please stay tuned for future notices.
+〓Event Duration〓
 
-There is an issue whereby there is a brief period of abnormal brightness changes in the game when some characters enter Aiming Mode or after casting their Elemental Burst. This issue will be fixed in a later update, please stay tuned for future notices.
-
-Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
-
-〓Update Content 2022/10/13 16:25:00 (global)〓
-
-Fixes an error in Russian whereby the text for the Dendro Traveler's Passive Talent "Surgent Manifestation" is displayed abnormally.
-
-Updates resources related to subsequent events.
-
-〓Update Content 2022/09/30 20:50:00 (global)〓
-
-Fixes an issue under certain circumstances whereby there is a small probability that the Everlight Cell and Neverlight Cell at one location of the Khaj-Nisut in Land of Lower Setekh would be abnormal, resulting in a failure to open the corresponding door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
-
-〓Update Content 2022/09/30 14:25:00 (global)〓
-
-Fixes an issue under certain conditions whereby Travelers could not open the corresponding treasure chest after arriving at the location indicated by the 13th landscape painting in the Mysterious Clipboard of the gadget "Aranyaka." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve it.
-
-Fixes an issue whereby when carrying out the quest objective "Pass the three trials" in the World Quest "Golden Slumber: Dreams Beneath the Searing Sand," the quest could not continue as the Neverlight Cells would have a small probability of being abnormal, resulting in a failure to open the door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
-
-Fixes an issue with a treasure chest near Dar al-Shifa in the Land of Lower Setekh area whereby after defeating the nearby enemy, if the player does not open the chest before the end of the day, they will be unable to unlock the chest the following day.
-
-〓Update Content 2022/09/29 16:05:00 (global)〓
-
-Fixes an issue whereby when the character Cyno is under the "Pactsworn Pathclearer" state, after unleashing his Elemental Burst again, there is a small probability that the Elemental Burst would not take effect properly.
-
-▌Issue Fix Compensation
-
-● Compensation Details
-
-Primogems ×100
-
-● Scope of Compensation
-
-Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
+Permanent
 
 -----
 
@@ -444,26 +408,6 @@ Permanently available after the Version 3.1 update
 **〓Eligibility〓**
 
 Adventure Rank 20 or above
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=pcm)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
@@ -1152,6 +1096,62 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small probability that Nilou's Elemental Burst is unable to hit enemies under certain circumstances. This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue whereby when Nilou leaves the field after swiftly casting her Elemental Skill in a short period of time and entering the Lunar Prayer state, the Lunar Prayer status cannot be removed normally. This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue in Co-Op Mode whereby when multiple Cyno characters cast their Elemental Burst, the display of Endseer's special effect might be displayed abnormally (the actual effects of the skill work as intended in-game). This issue will be fixed in a later update, please stay tuned for future notices.
+
+There is an issue whereby there is a brief period of abnormal brightness changes in the game when some characters enter Aiming Mode or after casting their Elemental Burst. This issue will be fixed in a later update, please stay tuned for future notices.
+
+Currently, there is an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering." This issue will be fixed in a future version.
+
+〓Update Content 2022/10/13 16:25:00 (global)〓
+
+Fixes an error in Russian whereby the text for the Dendro Traveler's Passive Talent "Surgent Manifestation" is displayed abnormally.
+
+Updates resources related to subsequent events.
+
+〓Update Content 2022/09/30 20:50:00 (global)〓
+
+Fixes an issue under certain circumstances whereby there is a small probability that the Everlight Cell and Neverlight Cell at one location of the Khaj-Nisut in Land of Lower Setekh would be abnormal, resulting in a failure to open the corresponding door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
+
+〓Update Content 2022/09/30 14:25:00 (global)〓
+
+Fixes an issue under certain conditions whereby Travelers could not open the corresponding treasure chest after arriving at the location indicated by the 13th landscape painting in the Mysterious Clipboard of the gadget "Aranyaka." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve it.
+
+Fixes an issue whereby when carrying out the quest objective "Pass the three trials" in the World Quest "Golden Slumber: Dreams Beneath the Searing Sand," the quest could not continue as the Neverlight Cells would have a small probability of being abnormal, resulting in a failure to open the door. Travelers who encounter this issue can continue to solve the puzzle mechanism after logging in again.
+
+Fixes an issue with a treasure chest near Dar al-Shifa in the Land of Lower Setekh area whereby after defeating the nearby enemy, if the player does not open the chest before the end of the day, they will be unable to unlock the chest the following day.
+
+〓Update Content 2022/09/29 16:05:00 (global)〓
+
+Fixes an issue whereby when the character Cyno is under the "Pactsworn Pathclearer" state, after unleashing his Elemental Burst again, there is a small probability that the Elemental Burst would not take effect properly.
+
+▌Issue Fix Compensation
+
+● Compensation Details
+
+Primogems ×100
+
+● Scope of Compensation
+
+Travelers who have reached Adventure Rank 5 or above before 2022/09/29 16:00:00 (global)
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2022/10/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
 
 -----
 
