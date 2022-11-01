@@ -212,53 +212,6 @@ Permanent
 
 -----
 
-# Of Travels and Treasures: A Thank-You Gift
-## Of Travels and Treasures
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/2b9c8bf29403704aa7dd1129004fab67_8481432773684150501.jpg)
-
-During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
-
-Each email can be collected until the end of the event.
-
-**〓Event Duration〓**
-
-Version 3.1
-
-**〓Eligibility〓**
-
-Adventure Rank 2 or above
-
-**〓Event Details〓**
-
-**Login Date** | **Reward 1** | **Reward 2**
---- | --- | ---
-After the Version update | Primogems ×400 | Cloud Retainer's Damasked Device ×1
-September 29 | Primogems ×400 | Fragile Resin ×2
-September 30 | Primogems ×400 | Fragile Resin ×2
-October 1 | Primogems ×400 | Jumpy Dumpty Party Popper ×1
-
------
-
-# Genshin Impact - Initial Top-Up Bonus Reset
-## Initial Top-Up Reset
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2021/08/19/8d45d67cfdc6ffb60abe7ce238bdac27_6697513491353530131.jpg)
-
-After the Genshin Impact Version 3.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 3.1 update
-
-*Version 3.1 Update Time: 2022/09/28 06:00:00 (global)
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
------
-
 # "Curtain of Leaves" — Spiral Abyss Challenge
 ## Curtain of Leaves
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
