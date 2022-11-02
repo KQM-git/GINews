@@ -598,24 +598,6 @@ Permanent
 
 -----
 
-# "Curtain of Leaves" — Spiral Abyss Challenge
-## Curtain of Leaves
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/09/15/c85e7d6b35041f8ddcab0c4e8c8ee501_3995186140103985352.jpg)
-
-Clear Spiral Abyss 4-3 to invite the character "Sprout of Rebirth" Collei (Dendro)!
-
-※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
-**〓Event Duration〓**
-
-Permanently available after the Version 3.1 update
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
------
-
 # Game Survey
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
