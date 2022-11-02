@@ -384,6 +384,24 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Update Content 2022/11/02 21:30:00 (global)〓
+
+Fixes an issue whereby when playing on PC, PS4™, and PS5™, the Artifacts icon would appear blurry on the "Characters > Artifacts" interface.
+
+Fixes an issue whereby, under certain circumstances, when carrying out the objective "Talk to Candace" in the Archon Quest "Through the Predawn Night," there is a small probability that the quest icon would be abnormally located in Liyue.
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+-----
+
 # New Story Unlocked - Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
 ## New Story Unlocked - Archon Quest Chapter III: Act V
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/39d440abe00768b384db6a1b97357f07_1114544602248742421.png)
