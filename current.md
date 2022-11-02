@@ -1,3 +1,375 @@
+# "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
+## Version 3.2 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
+
+Dear Travelers,
+
+Below are the details of the Version 3.2 update "Akasha Pulses, the Kalpa Flame Rises."
+
+New Characters: Nahida and Layla
+
+New System: "Replication"
+
+New Equipment: A Thousand Floating Dreams
+
+New Main Stories: Archon Quest Chapter III: Act V and Nahida's Story Quest
+
+New Enemies: New Boss, Dendro Hypostasis
+
+More details can be found in the following text.
+
+At the end of the article, Travelers will be introduced to the content adjustments and optimizations in Version 3.2 as well as the issues fixed.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems for every hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/11/02 06:00:00 (global).
+
+Please claim before the end of Version 3.2.
+
+Issue Fix Compensation: All Travelers who have reached Adventure Rank 5 or above by 2022/11/02 06:00:00 (global).
+
+Please claim the compensation mail before 2022/11/05 06:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins on 2022/11/02 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Characters
+
+5-Star Character "Physic of Purity" Nahida (Dendro)
+
+◇ Gnosis: Dendro
+
+◇ Weapon: Catalyst
+
+◇ A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.
+
+◆ Elemental Skill "All Schemes to Know"
+
+◆ When tapped, Nahida sends forth karmic bonds of wood and tree from her side, dealing AoE Dendro DMG and marking opponents hit with the Seed of Skandha. When held, she enters Aiming Mode, which will allow you to select a limited number of opponents within a limited area. When Aiming Mode ends, this skill deals Dendro DMG to these opponents and marks them with the Seed of Skandha. Opponents who have been marked by the Seed of Skandha will be linked to one another up till a certain distance. After you trigger Elemental Reactions on opponents who are marked or when they take DMG from Dendro Cores (including Burgeon and Hyperbloom DMG), Nahida will unleash Tri-Karma Purification on this opponent and all connected opponents, dealing Dendro DMG based on her ATK and Elemental Mastery.
+
+◆ Elemental Burst "Illusory Heart"
+
+◆ Materializes the Court of Dreams and brings forth the Shrine of Maya. The Shrine provides different effects depending on the Elemental Types of characters in the party, as follows:
+
+• Pyro: While Nahida remains within the Shrine of Maya, the DMG dealt by Tri-Karma Purification from "All Schemes to Know" is increased.
+
+• Electro: While Nahida remains within the Shrine of Maya, the interval between each Tri-Karma Purification from "All Schemes to Know" is decreased.
+
+• Hydro: The Shrine of Maya's duration is increased.
+
+If there are at least 2 party members of the aforementioned Elemental Types present when the field is deployed, the aforementioned effects will be increased further. Even if Nahida is not on the field, these bonuses will still take effect so long as party members are within the Shrine of Maya.
+
+4-Star Character "Fantastical Evening Star" Layla (Cryo)
+
+◇ Vision: Cryo
+
+◇ Weapon: Sword
+
+◇ A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.
+
+◆ Elemental Skill "Nights of Formal Focus"
+
+◆ Puts forth a shield known as the Curtain of Slumber, dealing AoE Cryo DMG. The Curtain of Slumber's DMG Absorption is based on Layla's Max HP and absorbs Cryo DMG with 250% effectiveness. While the Curtain of Slumber is active, it will create 1 Night Star that will be attached to it every 1.5s. When a character protected by this shield uses an Elemental Skill, 2 Night Stars will be created. Night Stars can be created once every 0.3s in this way. A maximum of 4 Night Stars can be accumulated at any one time. Once 4 Night Stars have been accumulated and there are opponents nearby, these Night Stars will transform into homing Shooting Stars that will be fired off in sequence, dealing Cryo DMG to any opponents hit. If the Curtain of Slumber's duration ends or it is destroyed, the Night Stars will disappear. If they are already being fired off as Shooting Stars, these Shooting Stars will last until this wave of shots ends. New Night Stars cannot be created until the previous wave of Shooting Stars has been fired completely.
+
+◆ Elemental Burst "Dream of the Star-Stream Shaker"
+
+◆ Unleashes a Celestial Dreamsphere that constantly fires Starlight Slugs at opponents within its AoE, dealing Cryo DMG. When a Starlight Slug hits, it will generate 1 Night Star for nearby Curtains of Slumber. Each Curtain of Slumber can gain 1 Night Star this way every 0.5s.
+
+II. New System
+
+New Serenitea Pot System: "Replication"
+
+In the Serenitea Pot, Travelers can generate Replicas to record the Furnishings arrangement of the corresponding area in your realm via the Replication System. Each Replica has a corresponding Replica ID. By using a shared Replica ID, other Travelers can replicate the arrangement of the corresponding Furnishings in their own Realm. If the Replica ID used contains indoor Furnishings, you can reproduce the arrangement of these Furnishings in the same mansion.
+
+Note: To use the Replica ID, you need to unlock the corresponding Realm Layout area and have the required Furnishings. The owner of the Replica ID can choose to enable or disable the Replica sharing function at any time.
+
+If your friend enables sharing of their Replica, you can go to their Serenitea Pot and generate a Replica to record their Realm.
+
+◇ Unlock Criteria:
+
+• Unlock the Serenitea Pot System and complete the World Quest "A Teapot to Call Home: Part II" to unlock the Replication System
+
+III. New Equipment
+
+A Thousand Floating Dreams (5-Star Catalyst)
+
+Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not.
+
+• If their Elemental Types are the same, increase Elemental Mastery by 32.
+
+• If not, increase the equipping character's DMG Bonus from their Elemental Type by 10%.
+
+Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 40. Multiple such effects from multiple such weapons can stack.
+
+◆ During the event wish "Epitome Invocation," the event-exclusive 5-star weapon A Thousand Floating Dreams (Catalyst) will receive a huge drop-rate boost!
+
+IV. New Main Story
+
+1. New Archon Quest
+
+Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act IV "King Deshret and the Three Magi"
+
+◇ After the Version 3.2 update, Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will be permanently available.
+
+2. New Story Quest
+
+Nahida's Story Quest "Sapientia Oromasdis Chapter: Act I - Lingering Warmth"
+
+Permanently available after the Version 3.2 update
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+3. New World Quest
+
+◆ New World Quest: "Next Time, On King of Invokations..."
+
+V. New Enemies
+
+New Boss
+
+This boss' attacks will create Energy Blocks. Pick these blocks up to recharge the Neo Akasha Terminal. Once it has energy, the Neo Akasha Terminal can be put to various uses.
+
+Dendro Hypostasis
+
+◇ A hypostasis that uses an inert shell to defend itself. It now displays abnormalities due to having been corrupted by some unknown influence.
+
+When it is in danger, it will release Restorative Piths that have the properties of Tri-Lakshana Creatures. Use Dendro to revive these Piths and induce a Normal State in them to continuously cleanse the Dendro Hypostasis, and use Electro to trigger their Activated state and speed up the cleansing process.
+
+Located at Land of Lower Setekh
+
+VI. Other Additions
+
+New Recipes:
+
+○ Sumeru's Puspa Café: Rose Custard
+
+○ Nahida's specialty: "Halvamazd"
+
+○ Layla's specialty: "Extravagant Slumber"
+
+New Achievements added to the "Wonders of the World" category.
+
+New Namecards:
+
+"Nahida: Crescent": Reward for reaching Friendship Lv. 10 with Nahida
+
+"Layla: Daydream": Reward for reaching Friendship Lv. 10 with Layla
+
+"Travel Notes: Fungus Land": Reward obtained via the BP system
+
+Adds some prompts for loading screens.
+
+New Item: Nature's True Fruit
+
+Purchased from Tubby the teapot spirit via the Realm Depot after completing the Archon Quest "Secret of the Scorching Desert"
+
+New Serenitea Pot Realm Layout: "Sublime Spicewood"
+
+Unlocked after using the item "Nature's True Fruit"
+
+On the Celestia Server, testing of the "Past Quest Resource Management" function has begun: Travelers can delete the audio and video resources corresponding to the completed Archon Quests and Story Quests on mobile, thus reducing the size of the game. The deleted audio resources can be re-downloaded after deletion.
+
+Travelers can do so in the "Settings > Resources > Quest Resources" interface. This feature has been tested on other servers in previous versions.
+
+Spiral Abyss
+
+Floor 11 Ley Line Disorders changed to:
+
+• All party members have their Elemental Mastery increased by 200.
+
+Updated the monster lineup on Floor 11 of the Spiral Abyss.
+
+Updated the monster lineup on Floor 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 3.2, the two Lunar Phases will be as follows:
+
+Phase I:
+
+Hailing Moon
+
+When characters deal DMG to an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. Each Elemental DMG Type (including Physical DMG) can unleash a shockwave this way every 8s.
+
+Phase II:
+
+Lush Moon
+
+When characters trigger Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon on an opponent, all party members will gain 10% Dendro DMG Bonus for 10s. This bonus can be triggered once every 5s. Max 4 stacks. Once 4 stacks have been gained, when characters deal Dendro DMG to an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. A shockwave can be unleashed in this way once every 5s.
+
+※ The above Spiral Abyss update will take effect from November 16 at 04:00 (Server Time).
+
+〓Adjustments & Optimizations〓
+
+● Enemies
+
+Reduces the damage inflicted when the boss "Pyro Hypostasis" is in a Burning state and unleashes blazing punches or serpentine fireballs to hit the character continuously.
+
+● System
+
+Optimizes the Anti-Aliasing function on PC, PS4, and PS5.
+
+After optimizing the Anti-Aliasing function, it will be possible to choose between "None" or "FSR 2" in Settings > Graphics on PC.
+
+● Audio
+
+Optimizes the sound performance of knocking down opponents and critical hits.
+
+Optimizes the sound effects of some items and objects.
+
+Optimizes the Japanese, Korean, and English voice-over for certain characters, NPCs, and quests.
+
+Optimizes the Korean and English voice-over related to certain items.
+
+Decreases the volume of Yae Miko's footstep sound effects when walking, running, and sprinting.
+
+● Other
+
+Rana, Jeht, Jebrael, and Habachi are now correctly affected by elemental effects.
+
+Updates the materials that can be added to the Parametric Transformer: added some harvestable items and some items dropped by enemies.
+
+Adjusts the ore types at certain locations in the Sumeru area: some Magical Crystal Ore will be adjusted to Crystal Ore.
+
+Adjusts the visual effects display of Dendro Elemental Reactions to reduce the load on system performance (including Dendro Infusion, Bloom, Hyperbloom, Burgeon, Quicken, Aggravate, and Spread).
+
+〓Bug Fixes〓
+
+● Quests
+
+Fixes the issue of not being able to accept the follow-up quest "The Gourmet Supremos: Cleanup" from the World Quest "Gourmet Supremos: Within Our Duties" normally (After completing the quest, you can obtain the Recipes "Fish with Cream Sauce," "Potato Boat," and "Tandoori Roast Chicken").
+
+Fixes an issue with the World Quest "Equivalent Exchange Once More" whereby the number of quest items required to be submitted in the text did not correspond with the actual quantity submitted.
+
+Fixes an issue whereby some characters can abnormally enter certain areas in the "Mysterious Ruins" Domain of the Archon Quest "Secret of the Scorching Desert."
+
+● Enemies
+
+Fixes an issue whereby the range of some skills of the enemy Eremite Daythunder was too large.
+
+Fixes an issue whereby when the enemies Hydro Slime and Large Hydro Slime applied the Wet status to the surrounding area, the area of effect was abnormally high.
+
+Fixes an issue whereby the boss Aeonblight Drake has a small probability of abnormally leaving combat under certain circumstances.
+
+Fixes an issue whereby the Elemental Burst animation of some characters (e.g. Raiden Shogun) have a small probability of displaying abnormally when fighting the bosses Aeonblight Drake and Jadeplume Terrorshroom.
+
+● Characters
+
+Fixes an issue whereby some characters would stop swimming or float in the air abnormally under certain circumstances.
+
+Fixes an issue whereby the special effects and some effects of Rain Swords generated by Xingqiu's Elemental Skill were abnormally missing when Xingqiu triggered his Elemental Skill after the Rain Swords generated by his Elemental Burst disappeared.
+
+Fixes an issue in Co-Op Mode whereby when Diona unleashes her Elemental Skill, if Diona leaves the field while Icy Paws is flying, the effect "Creates a shield for other nearby characters on the field" from her Lv.2 Constellation will not apply normally.
+
+Fixes an issue with Sangonomiya Kokomi whereby when she casts her Elemental Burst, there is a probability that she could fall into water abnormally when standing on the surface of the water and using Four-Leaf Sigils.
+
+Fixes an issue whereby when Nilou leaves the field after swiftly casting her Elemental Skill in a short period of time and entering the Lunar Prayer state, the Lunar Prayer status cannot be removed normally.
+
+Fixes an issue with Nilou whereby there is a small probability that her Elemental Burst is unable to hit enemies in certain situations.
+
+Fixes an issue under certain circumstances whereby after Nilou casts her Elemental Burst, her weapon effects would not display correctly.
+
+Fixes an issue whereby when Cyno casts his Elemental Burst, if the Elemental Skill that was cast in the "Endseer" state is interrupted, when casting the next Elemental Skill, the "Judication" effect will trigger abnormally even if Cyno is not in the "Endseer" state.
+
+● System
+
+Fixes an issue in Japanese whereby the description of the namecard "Nilou: Lotus Dance" was incorrect.
+
+Fixes an issue whereby the length of some in-game icons would display abnormally on some iOS devices.
+
+Fixes an issue on iOS devices whereby players could not use the controller to scroll up and down on data about character attributes in the Character Ascension interface.
+
+Fixes an issue in Co-Op Mode whereby when multiple Cynos unleashed their Elemental Burst, there is a probability that the indication effect of Endseer could display abnormally (the actual effects of the skill work as intended in-game).
+
+Fixes an issue whereby Scarabs had to be at very close range before it can be detected by the effect "can display nearby resources unique to Sumeru on the mini-map."
+
+Fixes an issue whereby the actual effect does not match the text description for the Spiral Abyss' Benediction of the Abyss "Character DMG within 8s of sprint +20%. Can occur only once every 15s." The original actual effect is "Character ATK within 8s of sprint +20%."
+
+After the fix, its effects and description are: "Character DMG within 8s of sprint +20%. Each character can only do this once every 15s."
+
+● Audio
+
+Fixes an issue whereby Chongyun's "When It Snows" voice line could not be triggered when he is at Dragonspine.
+
+Fixes an issue whereby some of Candace's Japanese voice-overs could not be played properly in the Character > Voice-Over interface.
+
+Fixes an issue of incorrect background music in some areas of the Sumeru area.
+
+Fixes an issue with the boss "Childe" whereby when he switches combat phases, his voice line would be interrupted abnormally.
+
+Fixes an issue whereby abnormal switching of ambient sound effects and background music occurred in some areas.
+
+● Other
+
+Fixes an issue whereby under certain circumstances, there is a small probability that characters might float abnormally when climbing.
+
+Fixes an issue whereby brief abnormal brightness changes would occur when some characters entered Aiming Mode or cast their Elemental Bursts.
+
+Fixes an issue whereby some environment models were displayed abnormally.
+
+Fixes an issue with abnormal collision size in some environments.
+
+Fixes incorrect descriptions of some Fishing Points in The Chasm: Underground Mines.
+
+Fixes an issue of abnormal color display in some features (such as meteorites summoned by the Geo Traveler's Elemental Skill, Paimon's cloak, Elemental Sight, etc.) in areas affected by "The Withering."
+
+Fixes an issue under certain circumstances whereby the NPC Aranakula could follow the character abnormally.
+
+Fixes an issue under certain circumstances whereby after some characters exited the Spiral Abyss interface, the in-game camera angle would not be correct.
+
+Fixes some textual errors in 13 languages and optimizes text. "Note: Related in-game functions have not changed." (Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+Text-related fixes and optimizations in English include:
+
+◆ Optimized some lines in Hu Tao's story in her Profile.
+
+◆ Optimized some lines in Nilou's story in her Profile.
+
+◆ Optimized some lines in Qiqi's story in her Profile.
+
+◆ Optimized Cyno's character story.
+
+◆ Optimized some lines in the quests and World Quests.
+
+◆ Optimized instances of an item name from "Coconut Charcoal Cake" to "Charcoal-Baked Ajilenakh Cake." ◆ Optimized instances of an item name from "Redcrest" to "Henna Berry."
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # New Story Unlocked - Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
 ## New Story Unlocked - Archon Quest Chapter III: Act V
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/39d440abe00768b384db6a1b97357f07_1114544602248742421.png)
