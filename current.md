@@ -396,6 +396,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 In order to accommodate the configuration needs of different Travelers, we will restore the PC version's SMAA Anti-Aliasing option in a later update. After the update, the Anti-Aliasing options of the PC version will be adjusted to: "None," "FSR 2," and "SMAA." Please stay tuned for future notices.
 
+〓Update Content 2022/11/04 16:05:00 (global)〓
+
+Fixes a text error in Russian for the quest objective "Go to the Sanctuary of Surasthana" in Archon Quest "A Toast to Victory."
+
+Fixes an issue whereby under certain circumstances, there is a small probability that the Restorative Piths released by the Dendro Hypostasis boss would not appear.
+
 〓Update Content 2022/11/02 21:30:00 (global)〓
 
 Fixes an issue whereby when playing on PC, PS4™, and PS5™, the Artifacts icon would appear blurry on the "Characters > Artifacts" interface.
