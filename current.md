@@ -394,6 +394,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices.
+
 Currently, Travelers who have accomplished the Achievement "Justice Falling" will fail to accomplish the Achievement "Active Camouflage." This issue will be fixed in a later update. Please stay tuned for future notices.
 
 In order to accommodate the configuration needs of different Travelers, we will restore the PC version's SMAA Anti-Aliasing option in a later update. After the update, the Anti-Aliasing options of the PC version will be adjusted to: "None," "FSR 2," and "SMAA." Please stay tuned for future notices.
