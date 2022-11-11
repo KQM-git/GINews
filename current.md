@@ -384,51 +384,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Fabulous Fungus Frenzy" Event: Take Part to Invite "Treasure of Dream Garden" Dori (Electro)
-## Fabulous Fungus Frenzy
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/8b644af425bb806db4e3d57929126a8a_6339417102831251630.jpg)
-
-**〓Event Gameplay Duration〓**
-
-2022/11/10 10:00:00 (server) – 2022/11/28 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/10/12/80e3b135d56ce5fa96faa42f4bd494c4_3225443073377685134.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete Archon Quest Chapter I: Act III "A New Star Approaches"
-
-※ Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" and Yae Miko's Story Quest "Divina Vulpes Chapter: Act I - The Great Narukami Offering" to best enjoy the event.
-
-※ If you have not completed Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" and Yae Miko's Story Quest during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Phase Start Time | Phase I | 2022/11/10 10:00:00 (server) | 2022/11/28 03:59:59 (server)
-^ | Phase II | 2022/11/11 04:00:00 (server) | ^
-^ | Phase III | 2022/11/12 04:00:00 (server) | ^
-^ | Phase IV | 2022/11/13 04:00:00 (server) | ^
-^ | Phase V | 2022/11/14 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2022/11/10 10:00:00 (server) | 2022/12/05 03:59:59 (server)
-
-**〓Event Details〓**
-
-● During the event, three types of gameplay will unlock in sequence: Fungus Capture, Coruscating Potential, and Special Training.
-
-● Complete various quests in the three gameplay modes to get "Mushroom Currency" and "Fungus Medal," which can be used to exchange for rewards such as Nilotpala Cup Tournament Stage, Wisdom Orb, Crown of Insight, Character Level Up Materials, and Talent Level-Up Materials.
-
-● Complete the quest "The Strongest Opponent! The Biggest Crisis!" and use a certain amount of Mushroom Currency and Fungus Medals to invite "Treasure of Dream Garden" Dori (Electro).
-
-● After the event gameplay period ends, Mushroom Currency and Fungus Medals will disappear. Please make sure to claim the rewards in time.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -472,6 +427,51 @@ Fixes an issue whereby when playing on PC, PS4™, and PS5™, the Artifacts ico
 Fixes an issue whereby, under certain circumstances, when carrying out the objective "Talk to Candace" in the Archon Quest "Through the Predawn Night," there is a small probability that the quest icon would be abnormally located in Liyue.
 
 Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+-----
+
+# "Fabulous Fungus Frenzy" Event: Take Part to Invite "Treasure of Dream Garden" Dori (Electro)
+## Fabulous Fungus Frenzy
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/8b644af425bb806db4e3d57929126a8a_6339417102831251630.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2022/11/10 10:00:00 (server) – 2022/11/28 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/12/80e3b135d56ce5fa96faa42f4bd494c4_3225443073377685134.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+※ Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" and Yae Miko's Story Quest "Divina Vulpes Chapter: Act I - The Great Narukami Offering" to best enjoy the event.
+
+※ If you have not completed Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" and Yae Miko's Story Quest during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Phase Start Time | Phase I | 2022/11/10 10:00:00 (server) | 2022/11/28 03:59:59 (server)
+^ | Phase II | 2022/11/11 04:00:00 (server) | ^
+^ | Phase III | 2022/11/12 04:00:00 (server) | ^
+^ | Phase IV | 2022/11/13 04:00:00 (server) | ^
+^ | Phase V | 2022/11/14 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2022/11/10 10:00:00 (server) | 2022/12/05 03:59:59 (server)
+
+**〓Event Details〓**
+
+● During the event, three types of gameplay will unlock in sequence: Fungus Capture, Coruscating Potential, and Special Training.
+
+● Complete various quests in the three gameplay modes to get "Mushroom Currency" and "Fungus Medal," which can be used to exchange for rewards such as Nilotpala Cup Tournament Stage, Wisdom Orb, Crown of Insight, Character Level Up Materials, and Talent Level-Up Materials.
+
+● Complete the quest "The Strongest Opponent! The Biggest Crisis!" and use a certain amount of Mushroom Currency and Fungus Medals to invite "Treasure of Dream Garden" Dori (Electro).
+
+● After the event gameplay period ends, Mushroom Currency and Fungus Medals will disappear. Please make sure to claim the rewards in time.
 
 -----
 
