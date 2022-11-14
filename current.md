@@ -384,6 +384,42 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# "Outside the Canvas, Inside the Lens: Greenery Chapter" Event - A Photographic Journey in Search of Inspiration
+## Outside the Canvas, Inside the Lens: Greenery Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/27fc29223ecfb9c24996ed7e0224059a_4199528656959240612.jpg)
+
+**〓Event Duration〓**
+
+2022/11/16 10:00:00 (server) – 2022/12/05 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/12/8f9b947c030c8652730b61b09090ced2_8592940544446452072.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+Complete the Archon Quest "Ritou Escape Plan" and the World Quest "Snapshots"
+
+※ Complete Yoimiya's Story Quest "Carassius Auratus Chapter: Act I - Dreamlike Timelessness" and Tartaglia's Story Quest "Monoceros Caeli Chapter: Act I - Mighty Cyclops' Adventure! for a better experience.
+
+※ If you have not completed Yoimiya and Tartaglia's Story Quests during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Details〓**
+
+● You must equip the Kamera and "Prepare to Photograph" at the designated photo-taking spot.
+
+● Before taking a photo, Travelers can adjust the Kamera position at the "Kamera Preset" stage and select their favorite Kamera Settings. They can also adjust the Kamera position and continue to adjust the composition according to their preferences on the basis of the Kamera Preset.
+
+● Each photo-taking spot has specified Photo-Taking Targets and a specified Photo-Taking Range. You must take the picture according to the photo-taking requirements within the specified Photo-Taking Range.
+
+● If you are out of the specified Photo-Taking Range while taking a photo, you will leave the photo-taking state and must "Prepare to Photograph" again.
+
+※ Recorded photos will not be stored in Photo Notes. You can save your favorite photos in your current personal devices by clicking on the larger image to save it.
+
+-----
+
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
