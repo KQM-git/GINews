@@ -565,36 +565,6 @@ After the Version 3.2 update, Archon Quest Chapter III: Act V "Akasha Pulses, th
 
 -----
 
-# Genshin Impact Battle Chronicle: Mobile Widget Feature Now Available
-## Genshin Impact Battle Chronicle: Mobile Widget Feature Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/07/5d7b16677690fe9798179cded1f1195f_7278403848846914463.jpg)
-
-Hello, Travelers~
-
-The "Genshin Impact Battle Chronicle" has been updated! With this update, the "Mobile Widget" feature has been added.
-
-By adding the mobile widget, you can check the remaining Original Resin and quickly access Genshin Impact tools on your mobile devices at any time.
-
-How to Add the Widget
-
-1. iOS Devices
-
-(1) Press and hold the blank area of the screen and tap the "+" icon in the top-left corner.
-
-(2) Search for "HoYoLAB" and add the Genshin Impact Battle Chronicle mobile widget.
-
-2. Android Devices
-
-(1) Press and hold the blank area of the screen and tap the "Widgets" at the bottom.
-
-(2) Search for "HoYoLAB" and add the Genshin Impact Battle Chronicle mobile widget.
-
-*The HoYoLAB App must be updated to Version 2.21 to use the Widgets feature.
-
-[>> Click Here to See Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=108&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=widget)
-
------
-
 # Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!
 ## Event Wish - The Moongrass' Enlightenment
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/19/72745c7f2fd0b50c317e72f23f1a2bc2_4238478550448852368.jpg)
