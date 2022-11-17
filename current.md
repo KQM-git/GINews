@@ -607,6 +607,26 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
+# Genshin Impact Lineup Simulator Now Available!
+## Genshin Impact Lineup Simulator Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/17/dd02fc918a97fc850c07e0ebd1435eb0_3738782339373221588.jpg)
+
+Hello, Travelers~
+
+The new HoYoLAB Genshin Impact tool "Lineup Simulator" is officially launched!
+
+What is the Lineup Simulator?
+
+In "Lineup Simulator," Travelers can share their party composition, weapons, and artifacts used. They can also filter and view the lineups shared by other Travelers based on their desired scenarios (Spiral Abyss, Domain challenges, etc.).
+
+How do I access the Lineup Simulator?
+
+In the HoYoLAB App, click Interest Group > Genshin Impact > Lineup Simulator, or click on the link below:
+
+[>>> Click to Access Lineup Simulator <<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Kagura's Verity (Catalyst) and Polar Star (Bow)!
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/e001506684341289149b28694b311a11_5860552031883520141.png)
