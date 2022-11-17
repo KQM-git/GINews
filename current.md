@@ -607,30 +607,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# New Story Unlocked - Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
-## New Story Unlocked - Archon Quest Chapter III: Act V
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/39d440abe00768b384db6a1b97357f07_1114544602248742421.png)
-
-"Rukkhadevata formed the bones and flowing blood, and Kusanali the innards and beating heart. Thrice holy and sacred their goodness and grace, worthy of worship, of praise, of laud, of record. In those days, Akasha ran not, the ashes of calamity had settled, and the past had become history."
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.2 update, Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will be permanently available.
-
-〓Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act IV "King Deshret and the Three Magi"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # Event Wish "Epitome Invocation" - Boosted Drop Rate for Kagura's Verity (Catalyst) and Polar Star (Bow)!
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/e001506684341289149b28694b311a11_5860552031883520141.png)
@@ -826,6 +802,30 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2022/12/05 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+## New Story Unlocked - Archon Quest Chapter III: Act V
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/39d440abe00768b384db6a1b97357f07_1114544602248742421.png)
+
+"Rukkhadevata formed the bones and flowing blood, and Kusanali the innards and beating heart. Thrice holy and sacred their goodness and grace, worthy of worship, of praise, of laud, of record. In those days, Akasha ran not, the ashes of calamity had settled, and the past had become history."
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.2 update, Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" will be permanently available.
+
+〓Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act IV "King Deshret and the Three Magi"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
