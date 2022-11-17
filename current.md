@@ -539,6 +539,12 @@ There is an issue whereby when Cyno casts his Elemental Burst, the effects on hi
 
 There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices.
 
+〓Update Content 2022/11/17 16:10:00 (global)〓
+
+Fixes an issue whereby under certain circumstances, the Fungus skill would become unusable after the character equips "Wind-Blessed Harpastum" in "Coordinated Assault," "Zone Defense," and Nilotpala Cup Beast Tamers Tournament."
+
+Updates resources related to subsequent events.
+
 〓Update Content 2022/11/10 16:20:00 (global)〓
 
 Fixes an issue whereby after teleporting to the "Formation Estate" Domain entrance in Inazuma, some characters could sink into the ground abnormally.
