@@ -563,30 +563,6 @@ Travelers affected by the issues mentioned above can restart the game to continu
 
 -----
 
-# Events Survey Now Open
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2022/11/18 10:00:00 (global) - 2022/11/20 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_zgd6nsrbzgd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=9416&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!
 ## Event Wish - Farewell of Snezhnaya
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/d5ef349475c1ddd262be5f396e206994_6822606593638329173.jpg)
