@@ -451,36 +451,6 @@ Event Shop Duration | Event Shop Duration | 2022/11/10 10:00:00 (server) | 2022/
 
 -----
 
-# "Adventurer's Trials" Event: Fun Trial Challenges
-## Adventurer's Trials
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/21/479f9a47d340e93ba90d31a5b21fb320_8378901298766071247.jpg)
-
-**〓Event Duration〓**
-
-2022/11/04 10:00:00 (server) – 2022/11/21 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/10/12/c9ad1ec2d005fe780a2ac51c79375ae3_9026091879504299899.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● From the first day of the event, a new challenge stage will unlock every day. A total of five challenges will be unlocked. The first four challenge stages are Sequential Trials, while the fifth one is a Fortuitous Trial.
-
-● Each Sequential Trial requires you to pass three trial challenges with a fixed sequence and content in one go.
-
-● The three trial challenges for Fortuitous Trials will be randomly generated after you enter the Domain.
-
-● For each trial challenge, you are required to complete the challenge within the time limit with the specific trial character(s).
-
-● Travelers can take on the challenges in Single Player Mode, or participate by forming a custom Co-Op party or select Co-Op Mode to begin matching.
-
------
-
 # Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
 ## Event Wish - Everbloom Violet
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/3a73e2e3443e36dafa613b1059953739_3445283633805370301.jpg)
