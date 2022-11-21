@@ -398,6 +398,58 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby when Cyno casts his Elemental Burst, the effects on his face would be abnormal. This issue will be fixed in a later update. Please stay tuned for future notices.
+
+There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices.
+
+〓Update Content 2022/11/17 16:10:00 (global)〓
+
+Fixes an issue whereby under certain circumstances, the Fungus skill would become unusable after the character equips "Wind-Blessed Harpastum" in "Coordinated Assault," "Zone Defense," and Nilotpala Cup Beast Tamers Tournament."
+
+Updates resources related to subsequent events.
+
+〓Update Content 2022/11/10 16:20:00 (global)〓
+
+Fixes an issue whereby after teleporting to the "Formation Estate" Domain entrance in Inazuma, some characters could sink into the ground abnormally.
+
+Fixes an issue whereby the Cooldown duration of the food item "Rose Custard" was abnormal after usage.
+
+Fixes an issue whereby the "Events Overview" interface of some devices were displayed abnormally.
+
+Restored the Anti-Aliasing function option for the PC version. After the update, the Anti-Aliasing options for the PC version are now: "None," "FSR 2," and "SMAA."
+
+Fixes an issue whereby Travelers who have accomplished the Achievement "Geronimo!" will fail to accomplish the Achievement "Active Camouflage."
+
+Travelers can log out via the Paimon Menu then log in again, and fulfill the corresponding conditions again to obtain the Achievement.
+
+Fixes an issue whereby when entering combat with the enemy Ruin Hunter on the ground, the Ruin Hunter would immediately rise into the air abnormally.
+
+〓Update Content 2022/11/04 16:05:00 (global)〓
+
+Fixes a text error in Russian for the quest objective "Go to the Sanctuary of Surasthana" in Archon Quest "A Toast to Victory."
+
+Fixes an issue whereby under certain circumstances, there is a small probability that the Restorative Piths released by the Dendro Hypostasis boss would not appear.
+
+〓Update Content 2022/11/02 21:30:00 (global)〓
+
+Fixes an issue whereby when playing on PC, PS4™, and PS5™, the Artifacts icon would appear blurry on the "Characters > Artifacts" interface.
+
+Fixes an issue whereby, under certain circumstances, when carrying out the objective "Talk to Candace" in the Archon Quest "Through the Predawn Night," there is a small probability that the quest icon would be abnormally located in Liyue.
+
+Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+-----
+
 # "Outside the Canvas, Inside the Lens: Greenery Chapter" Event - A Photographic Journey in Search of Inspiration
 ## Outside the Canvas, Inside the Lens: Greenery Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/27fc29223ecfb9c24996ed7e0224059a_4199528656959240612.jpg)
@@ -506,58 +558,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby when Cyno casts his Elemental Burst, the effects on his face would be abnormal. This issue will be fixed in a later update. Please stay tuned for future notices.
-
-There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices.
-
-〓Update Content 2022/11/17 16:10:00 (global)〓
-
-Fixes an issue whereby under certain circumstances, the Fungus skill would become unusable after the character equips "Wind-Blessed Harpastum" in "Coordinated Assault," "Zone Defense," and Nilotpala Cup Beast Tamers Tournament."
-
-Updates resources related to subsequent events.
-
-〓Update Content 2022/11/10 16:20:00 (global)〓
-
-Fixes an issue whereby after teleporting to the "Formation Estate" Domain entrance in Inazuma, some characters could sink into the ground abnormally.
-
-Fixes an issue whereby the Cooldown duration of the food item "Rose Custard" was abnormal after usage.
-
-Fixes an issue whereby the "Events Overview" interface of some devices were displayed abnormally.
-
-Restored the Anti-Aliasing function option for the PC version. After the update, the Anti-Aliasing options for the PC version are now: "None," "FSR 2," and "SMAA."
-
-Fixes an issue whereby Travelers who have accomplished the Achievement "Geronimo!" will fail to accomplish the Achievement "Active Camouflage."
-
-Travelers can log out via the Paimon Menu then log in again, and fulfill the corresponding conditions again to obtain the Achievement.
-
-Fixes an issue whereby when entering combat with the enemy Ruin Hunter on the ground, the Ruin Hunter would immediately rise into the air abnormally.
-
-〓Update Content 2022/11/04 16:05:00 (global)〓
-
-Fixes a text error in Russian for the quest objective "Go to the Sanctuary of Surasthana" in Archon Quest "A Toast to Victory."
-
-Fixes an issue whereby under certain circumstances, there is a small probability that the Restorative Piths released by the Dendro Hypostasis boss would not appear.
-
-〓Update Content 2022/11/02 21:30:00 (global)〓
-
-Fixes an issue whereby when playing on PC, PS4™, and PS5™, the Artifacts icon would appear blurry on the "Characters > Artifacts" interface.
-
-Fixes an issue whereby, under certain circumstances, when carrying out the objective "Talk to Candace" in the Archon Quest "Through the Predawn Night," there is a small probability that the quest icon would be abnormally located in Liyue.
-
-Travelers affected by the issues mentioned above can restart the game to continue playing normally.
 
 -----
 
