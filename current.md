@@ -1,3 +1,31 @@
+# "Hypostatic Symphony: Dissonant Verse" Event - Win Primogems on First Clear of Standard Scoring
+## Hypostatic Symphony: Dissonant Verse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/dedcb051595a2e42189bf183d3418d57_7856469661014600826.jpg)
+
+**〓Event Duration〓**
+
+2022/11/24 10:00:00 (server) – 2022/12/05 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/13/f1baff9fff5d332d807e9df3a6a8ef3a_1666632602318989209.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● There are a total of four stages in "Hypostatic Symphony: Dissonant Verse." After the event begins, a new stage will be unlocked every 2 days.
+
+● Each stage will have two modes, "Standard Scoring" and "Intense Scoring." Complete the former to unlock the latter.
+
+● During Intense Scoring, you can choose your challenge difficulty level freely and directly challenge the Hypostases. Complete a challenge on Fearless difficulty to unlock Extreme Difficulty.
+
+● During Hypostatic Symphony: Dissonant Verse, you can use Dissonance to defeat opponents even faster.
+
+-----
+
 # "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
 ## Version 3.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
