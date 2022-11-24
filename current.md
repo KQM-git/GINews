@@ -408,11 +408,15 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is an issue whereby there is a localization error in Russian for Layla's Elemental Skill "Nights of Formal Focus." This issue will be fixed in a later update. Please stay tuned for future notices.
-
 There is an issue whereby when Cyno casts his Elemental Burst, the effects on his face would be abnormal. This issue will be fixed in a later update. Please stay tuned for future notices.
 
 There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices.
+
+〓Update Content 2022/11/24 16:05:00 (global)〓
+
+Fixes an issue whereby there is a localization error in Russian for Layla's Elemental Skill "Nights of Formal Focus."
+
+Fixes an issue whereby there is a localization error in Spanish for Dori's Elemental Skill "Alcazarzaray's Exactitude."
 
 〓Update Content 2022/11/17 16:10:00 (global)〓
 
