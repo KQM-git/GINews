@@ -1,31 +1,3 @@
-# "Hypostatic Symphony: Dissonant Verse" Event - Win Primogems on First Clear of Standard Scoring
-## Hypostatic Symphony: Dissonant Verse
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/dedcb051595a2e42189bf183d3418d57_7856469661014600826.jpg)
-
-**〓Event Duration〓**
-
-2022/11/24 10:00:00 (server) – 2022/12/05 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/10/13/f1baff9fff5d332d807e9df3a6a8ef3a_1666632602318989209.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● There are a total of four stages in "Hypostatic Symphony: Dissonant Verse." After the event begins, a new stage will be unlocked every 2 days.
-
-● Each stage will have two modes, "Standard Scoring" and "Intense Scoring." Complete the former to unlock the latter.
-
-● During Intense Scoring, you can choose your challenge difficulty level freely and directly challenge the Hypostases. Complete a challenge on Fearless difficulty to unlock Extreme Difficulty.
-
-● During Hypostatic Symphony: Dissonant Verse, you can use Dissonance to defeat opponents even faster.
-
------
-
 # "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
 ## Version 3.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
@@ -456,6 +428,62 @@ Travelers affected by the issues mentioned above can restart the game to continu
 
 -----
 
+# "Hypostatic Symphony: Dissonant Verse" Event - Win Primogems on First Clear of Standard Scoring
+## Hypostatic Symphony: Dissonant Verse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/dedcb051595a2e42189bf183d3418d57_7856469661014600826.jpg)
+
+**〓Event Duration〓**
+
+2022/11/24 10:00:00 (server) – 2022/12/05 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/13/f1baff9fff5d332d807e9df3a6a8ef3a_1666632602318989209.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● There are a total of four stages in "Hypostatic Symphony: Dissonant Verse." After the event begins, a new stage will be unlocked every 2 days.
+
+● Each stage will have two modes, "Standard Scoring" and "Intense Scoring." Complete the former to unlock the latter.
+
+● During Intense Scoring, you can choose your challenge difficulty level freely and directly challenge the Hypostases. Complete a challenge on Fearless difficulty to unlock Extreme Difficulty.
+
+● During Hypostatic Symphony: Dissonant Verse, you can use Dissonance to defeat opponents even faster.
+
+-----
+
+# Web Event "Carefree Dreamland" Now Online: Take part to obtain Primogems and other rewards!
+## Web Event "Carefree Dreamland" Now Online. Take part to obtain Primogems and other rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/24/3b6dd956f86b44c993002e0c8e61d01e_805690946187613503.jpg)
+
+The "Carefree Dreamland" limited-time web event is available. Build an Aranara village and take part in cooking training together!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20221125aranara/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221125aranara&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/11/25 - 2022/12/4 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, Travelers can log in to Genshin Impact daily, complete Daily Commissions, and consume Original Resin to obtain building materials, which can be used to make cooking facilities. These facilities will attract Aranara over to carry out cooking training, which will reward you with Primogems. Carefree Coins, the event currency rewarded by the cooking facilities, can be used to redeem for various environment decorations and Aranara outfits. Mix and match these outfits to complete special events, and you can obtain additional rewards such as building materials, Mystic Enhancement Ore, Hero's Wit, and other rewards.
+
+〓Event Rewards〓
+
+Build all the cooking facilities and achieve all the Perfect Endings of the Special Events to obtain Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, and Mora ×50,000.
+
+-----
+
 # Serenitea Pot Replica Display Platform Is Now Online!
 ## Serenitea Pot Replica Display Platform Now Online
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/e69cc3ecd4c909031dfe68be57cc4c54_5969835201608026661.jpg)
@@ -628,34 +656,6 @@ How do I access the Lineup Simulator?
 In the HoYoLAB App, click Interest Group > Genshin Impact > Lineup Simulator, or click on the link below:
 
 [>>> Click to Access Lineup Simulator <<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
-
------
-
-# Web Event "Carefree Dreamland" Now Online: Take part to obtain Primogems and other rewards!
-## Web Event "Carefree Dreamland" Now Online. Take part to obtain Primogems and other rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/24/3b6dd956f86b44c993002e0c8e61d01e_805690946187613503.jpg)
-
-The "Carefree Dreamland" limited-time web event is available. Build an Aranara village and take part in cooking training together!
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20221125aranara/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221125aranara&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2022/11/25 - 2022/12/4 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, Travelers can log in to Genshin Impact daily, complete Daily Commissions, and consume Original Resin to obtain building materials, which can be used to make cooking facilities. These facilities will attract Aranara over to carry out cooking training, which will reward you with Primogems. Carefree Coins, the event currency rewarded by the cooking facilities, can be used to redeem for various environment decorations and Aranara outfits. Mix and match these outfits to complete special events, and you can obtain additional rewards such as building materials, Mystic Enhancement Ore, Hero's Wit, and other rewards.
-
-〓Event Rewards〓
-
-Build all the cooking facilities and achieve all the Perfect Endings of the Special Events to obtain Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, and Mora ×50,000.
 
 -----
 
