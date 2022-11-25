@@ -456,6 +456,20 @@ Travelers affected by the issues mentioned above can restart the game to continu
 
 -----
 
+# Serenitea Pot Replica Display Platform Is Now Online!
+## Serenitea Pot Replica Display Platform Now Online
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/e69cc3ecd4c909031dfe68be57cc4c54_5969835201608026661.jpg)
+
+Dear Traveler,
+
+The Serenitea Pot Replica Display Platform is now online! You can display your own Serenitea Pot Replica on the Serenitea Pot Display Platform or browse other Travelers' Serenitea Pot Replicas.
+
+Click "Post Replica" in the Display Platform to edit the Serenitea Pot Replica that you wish to upload, and after editing, you can click "Post" to share your elaborately constructed Serenitea Pot Replica with other Travelers! For more information, please click "Rules" in the Display Platform.
+
+[>> Click to View<<](https://act.hoyolab.com/ys/event/e20221121ugc-sea/index.html?game_biz=hk4e_global&utm_source=ingame&utm_medium=notice&utm_campaign=SereniteaPot&utm_id=2)
+
+-----
+
 # "Outside the Canvas, Inside the Lens: Greenery Chapter" Event - A Photographic Journey in Search of Inspiration
 ## Outside the Canvas, Inside the Lens: Greenery Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/27fc29223ecfb9c24996ed7e0224059a_4199528656959240612.jpg)
