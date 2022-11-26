@@ -1,3 +1,29 @@
+# "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems
+## Marvelous Merchandise
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/42eae87a3c82afbc804be61ce7f88c10_3980108386305172137.jpg)
+
+**〓Event Duration〓**
+
+2022/11/28 10:00:00 (server) – 2022/12/05 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/13/721b0deb45072b1a1dea9d251c83f0c2_569373091427694550.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 12 or above
+
+**〓Event Details〓**
+
+● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may also differ for each player according to their game progress. Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
+
+● After trading in materials a total of 5 times, players may open a Mega Box o' Marvels which provides Travelers with additional rewards that include Primogems, Hero's Wit, Mystic Enhancement Ore, and Mora.
+
+※ Travelers can only get up to 1 chance per day to submit materials. Note that when the rewards refresh daily, the opportunity to submit materials, if unused, will be lost.
+
+-----
+
 # "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
 ## Version 3.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
@@ -425,6 +451,20 @@ Fixes an issue whereby when playing on PC, PS4™, and PS5™, the Artifacts ico
 Fixes an issue whereby, under certain circumstances, when carrying out the objective "Talk to Candace" in the Archon Quest "Through the Predawn Night," there is a small probability that the quest icon would be abnormally located in Liyue.
 
 Travelers affected by the issues mentioned above can restart the game to continue playing normally.
+
+-----
+
+# The Version 3.3 "All Senses Clear, All Existence Void" Preview Page Is Here! 
+## Genshin Impact Version 3.3 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/24/9100dbd9dbdeb645711e298b5bb0b94b_4644859068821318774.jpg)
+
+Dear Travelers,
+
+The Version 3.3 "All Senses Clear, All Existence Void" Preview Page is here!
+
+[>>Click to Enter the Version 3.3 "All Senses Clear, All Existence Void" Preview Page;<](https://act.hoyoverse.com/ys/event/e20221126prev-18kfmk/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221126warm&authkey_ver=1)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
