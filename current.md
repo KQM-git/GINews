@@ -454,6 +454,26 @@ Travelers affected by the issues mentioned above can restart the game to continu
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # The Version 3.3 "All Senses Clear, All Existence Void" Preview Page Is Here! 
 ## Genshin Impact Version 3.3 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/24/9100dbd9dbdeb645711e298b5bb0b94b_4644859068821318774.jpg)
@@ -800,26 +820,6 @@ After the Version 3.2 update, Archon Quest Chapter III: Act V "Akasha Pulses, th
 • Complete Archon Quest Chapter III: Act IV "King Deshret and the Three Magi"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
