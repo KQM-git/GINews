@@ -1,29 +1,3 @@
-# "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems
-## Marvelous Merchandise
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/42eae87a3c82afbc804be61ce7f88c10_3980108386305172137.jpg)
-
-**〓Event Duration〓**
-
-2022/11/28 10:00:00 (server) – 2022/12/05 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/10/13/721b0deb45072b1a1dea9d251c83f0c2_569373091427694550.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 12 or above
-
-**〓Event Details〓**
-
-● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may also differ for each player according to their game progress. Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
-
-● After trading in materials a total of 5 times, players may open a Mega Box o' Marvels which provides Travelers with additional rewards that include Primogems, Hero's Wit, Mystic Enhancement Ore, and Mora.
-
-※ Travelers can only get up to 1 chance per day to submit materials. Note that when the rewards refresh daily, the opportunity to submit materials, if unused, will be lost.
-
------
-
 # "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
 ## Version 3.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
@@ -393,6 +367,32 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems
+## Marvelous Merchandise
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/42eae87a3c82afbc804be61ce7f88c10_3980108386305172137.jpg)
+
+**〓Event Duration〓**
+
+2022/11/28 10:00:00 (server) – 2022/12/05 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/10/13/721b0deb45072b1a1dea9d251c83f0c2_569373091427694550.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 12 or above
+
+**〓Event Details〓**
+
+● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may also differ for each player according to their game progress. Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
+
+● After trading in materials a total of 5 times, players may open a Mega Box o' Marvels which provides Travelers with additional rewards that include Primogems, Hero's Wit, Mystic Enhancement Ore, and Mora.
+
+※ Travelers can only get up to 1 chance per day to submit materials. Note that when the rewards refresh daily, the opportunity to submit materials, if unused, will be lost.
 
 -----
 
