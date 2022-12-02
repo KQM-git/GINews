@@ -498,20 +498,6 @@ Permanent
 
 -----
 
-# The Version 3.3 "All Senses Clear, All Existence Void" Preview Page Is Here! 
-## Genshin Impact Version 3.3 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/24/9100dbd9dbdeb645711e298b5bb0b94b_4644859068821318774.jpg)
-
-Dear Travelers,
-
-The Version 3.3 "All Senses Clear, All Existence Void" Preview Page is here!
-
-[>>Click to Enter the Version 3.3 "All Senses Clear, All Existence Void" Preview Page;<](https://act.hoyoverse.com/ys/event/e20221126prev-18kfmk/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221126warm&authkey_ver=1)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Hypostatic Symphony: Dissonant Verse" Event - Win Primogems on First Clear of Standard Scoring
 ## Hypostatic Symphony: Dissonant Verse
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/dedcb051595a2e42189bf183d3418d57_7856469661014600826.jpg)
