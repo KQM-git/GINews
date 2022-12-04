@@ -628,34 +628,6 @@ Adventure Rank 20 or above
 
 -----
 
-# Web Event "Carefree Dreamland" Now Online: Take part to obtain Primogems and other rewards!
-## Web Event "Carefree Dreamland" Now Online. Take part to obtain Primogems and other rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/24/3b6dd956f86b44c993002e0c8e61d01e_805690946187613503.jpg)
-
-The "Carefree Dreamland" limited-time web event is available. Build an Aranara village and take part in cooking training together!
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20221125aranara/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221125aranara&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2022/11/25 - 2022/12/4 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, Travelers can log in to Genshin Impact daily, complete Daily Commissions, and consume Original Resin to obtain building materials, which can be used to make cooking facilities. These facilities will attract Aranara over to carry out cooking training, which will reward you with Primogems. Carefree Coins, the event currency rewarded by the cooking facilities, can be used to redeem for various environment decorations and Aranara outfits. Mix and match these outfits to complete special events, and you can obtain additional rewards such as building materials, Mystic Enhancement Ore, Hero's Wit, and other rewards.
-
-〓Event Rewards〓
-
-Build all the cooking facilities and achieve all the Perfect Endings of the Special Events to obtain Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, and Mora ×50,000.
-
------
-
 # "Outside the Canvas, Inside the Lens: Greenery Chapter" Event - A Photographic Journey in Search of Inspiration
 ## Outside the Canvas, Inside the Lens: Greenery Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/27fc29223ecfb9c24996ed7e0224059a_4199528656959240612.jpg)
