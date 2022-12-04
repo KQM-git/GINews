@@ -82,6 +82,24 @@ Optimizes the special effects performance of Polearm characters' Plunging Attack
 
 -----
 
+# A Thank-You Letter to All Travelers
+## A Thank-You Letter to All Travelers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/03/13ad27bb6e99c017a97ba4abdce42fa6_9128010589191886480.jpg)
+
+Dear Traveler,
+
+This beautiful journey would not be the same without you. Thanks to your support, Genshin Impact received the "PlayStation®Partner Awards 2022 GRAND AWARD."
+
+We will be giving out Primogems ×800 from December 4 to December 7. Thank you for your support!
+
+*How to Claim Rewards:
+
+Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 4 to December 7.
+
+These Primogems can be claimed at any time before the end of Version 3.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail.
+
+-----
+
 # "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
 ## Version 3.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
