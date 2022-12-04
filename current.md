@@ -1,3 +1,87 @@
+# "All Senses Clear, All Existence Void" Version 3.3 Update Maintenance Preview
+## Version 3.3 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/01/c941908b14dcaf160083796a10645f89_4012155224925372844.jpg)
+
+Dear Travelers,
+
+Our developers will soon begin performing update maintenance. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please take note of the update time and schedule your game time accordingly.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+〓Update Schedule〓
+
+Update maintenance begins 2022/12/07 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/12/07 06:00:00 (global)
+
+Please claim before the end of Version 3.3.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including bug fixes and other compensation details, please see the Version Update Details notice to be posted at 2022/12/07 07:00:00 (global).
+
+〓Update Content Overview〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/02/8243f3ce41514720080e6033d1113a88_671220928627120099.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/02/df49015e0fbab35d159ce5c2bca47eb4_1388122401074553518.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/02/1e36972470c6b1e89b7c08c98c1ae8f1_1716559629520176031.jpg)
+
+〓Adjustments & Optimizations〓
+
+● System
+
+Adds the feature of adding 1–3-Star Artifacts at once to the Destruction System.
+
+Adds the function of filtering by Artifact status in Inventory > Artifacts: you can filter by Artifact Lock Status, Level Status, and Equipment Status.
+
+● Audio
+
+Optimizes the sound performance when a character defeats an opponent or inflicts a CRIT Hit.
+
+Optimizes the sound performance of some objects.
+
+Optimizes the English, Korean, and Japanese voice-over for certain characters and quests.
+
+Optimizes the English voice-over related to a certain region's name as well as the English voice-over performances of some NPCs.
+
+Decreases the volume of environmental sound effects under certain circumstances.
+
+● Other
+
+Reduces the difficulty of the Daily Commission "Hey, Come Out!" and adds gameplay tips.
+
+Adjusts the display order of Mora converted from Adventure EXP in the Reward Preview after reaching Adventure Rank 60.
+
+Optimizes the special effects display of the Tranquility Aura from Nilou's Elemental Skill.
+
+Optimizes the special effects performance of Polearm characters' Plunging Attacks.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # "Akasha Pulses, the Kalpa Flame Rises" Version 3.2 Update Details
 ## Version 3.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/27/d160f9f7b416f8189f614e9752bed37e_5955662883109710849.png)
