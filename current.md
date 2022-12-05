@@ -82,6 +82,160 @@ Optimizes the special effects performance of Polearm characters' Plunging Attack
 
 -----
 
+# Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!
+## Event Wish - From Ashes Reborn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/5f0d520c6782d50d29dfa82884614a56_1472402261084703653.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.3 update – 2022/12/27 17:59:00 (server) | "Eons Adrift" Wanderer (Anemo) | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Canine Warrior" Gorou (Geo)
+^ | ^ | "Wise Innocence" Yanfei (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Eons Adrift" Wanderer (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Canine Warrior" Gorou (Geo), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Enigmatic Machinist" Faruzan (Anemo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Oni's Royale" - Boosted Drop Rate for "Hanamizaka Heroics" Arataki Itto (Geo)!
+## Event Wish - Oni's Royale
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/3f5ea1296cefca7ff4cd00d595892dfc_1920456111507225214.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.3 update – 2022/12/27 17:59:00 (server) | "Hanamizaka Heroics" Arataki Itto (Geo) | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Canine Warrior" Gorou (Geo)
+^ | ^ | "Wise Innocence" Yanfei (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Hanamizaka Heroics" Arataki Itto (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Canine Warrior" Gorou (Geo), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Enigmatic Machinist" Faruzan (Anemo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Tulaytullah's Remembrance (Catalyst) and Redhorn Stonethresher (Claymore)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/90102cabe01507b82604d023a0ec6e5d_3162176527043732389.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 3.3 update – 2022/12/27 17:59:00 (server) | Tulaytullah's Remembrance (Catalyst)   Redhorn Stonethresher (Claymore) | Wavebreaker's Fin (Polearm)
+^ | ^ | Sacrificial Sword (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Tulaytullah's Remembrance (Catalyst) and Redhorn Stonethresher (Claymore) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Wavebreaker's Fin (Polearm) as well as the 4-star weapons Sacrificial Sword (Sword), Favonius Greatsword (Claymore), Eye of Perception (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tulaytullah's Remembrance (Catalyst) or Redhorn Stonethresher (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 19 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/11aaa6195054a3e5c8ff6d19c8024609_7664346068622660381.jpg)
+
+Round 19 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.3 update – 2022/12/21 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.3 update – 2022/12/21 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Seasonal Special Bundle〓**
+
+Duration: 2022/12/21 00:00:00 (server) – 2023/01/05 23:59:59 (server)
+
+Bundle Contents: Exotic Share Bundle ×6, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 150 Genesis Crystals. Can be purchased up to five times in total.
+
+※ Exotic Share Bundle: Use to select one of the following to add to your Inventory — Agnidus Agate Fragment ×1, Varunada Lazurite Fragment ×1, Vayuda Turquoise Fragment ×1, Shivada Jade Fragment ×1, Prithiva Topaz Fragment ×1, Vajrada Amethyst Fragment ×1, and Nagadus Emerald Fragment ×1.
+
+-----
+
+# "Stellar Rivers" Event Details
+## Stellar Rivers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9026682b51daf0f0a1feaf825fb652d6_8245036250529284895.jpg)
+
+Travelers can earn rich rewards in "Stellar Rivers" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Stellar Rivers" and Furnishing Blueprint "Light of the Land of Wisdom."
+
+**〓Event Duration〓**
+
+After the 3.3 Version update – 2023/01/16 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● Starting from this Battle Pass, the BEP required for each BP Level will be adjusted back from 900 to 1,000.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/01/16 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
 # Pre-Installation Function Now Available
 ## Pre-Installation Function Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/aef7a687630660f07809864c056ff26f_670694818114558604.jpg)
@@ -123,6 +277,34 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://sdk.hoyoverse.com/upload/ann/2022/11/24/6111e77fd13698afe9d71a0badad58eb_2455943146733296667.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# New Story Unlocked - Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
+## New Story Unlocked - Archon Quest Interlude Chapter: Act III
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/118684a689b710bf2e0fff7b46bda2e5_3686830745188342753.jpg)
+
+Wounded and defeated, The Balladeer has been imprisoned in Sumeru after his duel against the Traveler and the Dendro Archon.
+
+Yet, no one knows how this special prisoner should pay for his many transgressions or even what to do with him after the dust has settled...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act III - "Inversion of Genesis" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.3 update, Archon Quest Interlude Chapter: Act III "Inversion of Genesis" will be permanently available.
+
+〓Archon Quest Interlude Chapter: Act III "Inversion of Genesis" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+• Complete Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
