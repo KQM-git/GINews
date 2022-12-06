@@ -776,66 +776,6 @@ Permanent
 
 -----
 
-# Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
-## Event Wish - Everbloom Violet
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/3a73e2e3443e36dafa613b1059953739_3445283633805370301.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/11/18 18:00:00 (server) – 2022/12/06 14:59:59 (server) | "Astute Amusement" Yae Miko (Electro) | "Fantastical Evening Star" Layla (Cryo)
-^ | ^ | "Protector From Afar" Thoma (Pyro)
-^ | ^ | "Analytical Harmony" Shikanoin Heizou (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Astute Amusement" Yae Miko (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Protector From Afar" Thoma (Pyro), and "Analytical Harmony" Shikanoin Heizou (Anemo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Fantastical Evening Star" Layla (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!
-## Event Wish - Farewell of Snezhnaya
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/d5ef349475c1ddd262be5f396e206994_6822606593638329173.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2022/11/18 18:00:00 (server) – 2022/12/06 14:59:59 (server) | "Childe" Tartaglia (Hydro) | "Fantastical Evening Star" Layla (Cryo)
-^ | ^ | "Protector From Afar" Thoma (Pyro)
-^ | ^ | "Analytical Harmony" Shikanoin Heizou (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Childe" Tartaglia (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Protector From Afar" Thoma (Pyro), and "Analytical Harmony" Shikanoin Heizou (Anemo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Fantastical Evening Star" Layla (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # Genshin Impact Lineup Simulator Now Available!
 ## Genshin Impact Lineup Simulator Now Available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/17/dd02fc918a97fc850c07e0ebd1435eb0_3738782339373221588.jpg)
@@ -853,34 +793,6 @@ How do I access the Lineup Simulator?
 In the HoYoLAB App, click Interest Group > Genshin Impact > Lineup Simulator, or click on the link below:
 
 [>>> Click to Access Lineup Simulator <<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice)
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Kagura's Verity (Catalyst) and Polar Star (Bow)!
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/01/e001506684341289149b28694b311a11_5860552031883520141.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons** **(5-Star)** | **Featured Weapons** **(4-Star)**
---- | --- | ---
-2022/11/18 18:00:00 (server) – 2022/12/06 14:59:59 (server) | Kagura's Verity (Catalyst)   Polar Star (Bow) | Favonius Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During the event wish, the event-exclusive 5-star weapons Kagura's Verity (Catalyst) and Polar Star (Bow) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Dragon's Bane (Polearm), Favonius Codex (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Kagura's Verity (Catalyst) or Polar Star (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
