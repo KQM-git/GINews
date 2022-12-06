@@ -884,28 +884,6 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
-# Details of the Feedback on Special Categories Function
-## Feedback on Special Categories
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
-
-Dear Travelers,
-
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
-
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
-
-〓Enter Feedback〓
-
-[Click Here to Fill Out](https://webstatic-sea.hoyoverse.com/csc-service-center-fe/index.html?page_id=1&sign_type=2&auth_appid=csc&authkey_ver=1&win_direction=portrait)
-
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
-
-〓Duration〓
-
-Permanently Available
-
------
-
 # HoYoLAB Community - Genshin Impact Exclusive Tools Overview
 ## Genshin Impact Exclusive Tools Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/10/d0ac1368e030115626e9d09477c0a192_4322224577793464460.png)
