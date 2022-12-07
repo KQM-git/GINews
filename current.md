@@ -606,7 +606,7 @@ These Primogems can be claimed at any time before the end of Version 3.3. All Tr
 
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/01/21/769457d475cbb9826e0eacc686328f42_3479782110342150678.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
 
 Dear Travelers,
 
