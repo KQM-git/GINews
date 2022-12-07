@@ -710,7 +710,7 @@ Some of the above tools must be used in the HoYoLAB App. More specific details a
 
 # Official Top-Up Center Now Online
 ## Online Top-Up Center
-
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/a3f64d19df0a6a8ed5a3b0a1fccba620_3384464103647206496.jpg)
 
 Dear Travelers, the official Top-Up Center is now available on the Genshin Impact website. Interested Travelers can check it out by following the link below to the website.
 
