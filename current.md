@@ -404,6 +404,20 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is an error in the reward for Faruzan's trial in the Test Run event. Henna Berries should be rewarded instead of Scarabs. We will issue Henna Berries ×3 to affected Travelers. Please stay tuned for future notices regarding issuance details.
+
+-----
+
 # New Story Unlocked - Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
 ## New Story Unlocked - Archon Quest Interlude Chapter: Act III
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/118684a689b710bf2e0fff7b46bda2e5_3686830745188342753.jpg)
