@@ -414,6 +414,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby the BP-exclusive Furnishing Blueprint "Light of the Land of Wisdom" can be purchased from the Teapot Spirit, Tubby. In Version 3.4, we will issue the following compensation to Travelers who have unlocked Version 3.3's Gnostic Chorus: a brand-new BP-exclusive Furnishing Blueprint. More details regarding this compensation and how it will be issued will follow in future notices.
+
 There is an issue whereby there is an error in the reward for Faruzan's trial in the Test Run event. Henna Berries should be rewarded instead of Scarabs. We will issue Henna Berries ×3 to affected Travelers. Please stay tuned for future notices regarding issuance details.
 
 -----
