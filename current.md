@@ -404,6 +404,34 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# New Story Unlocked - Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
+## New Story Unlocked - Archon Quest Interlude Chapter: Act III
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/118684a689b710bf2e0fff7b46bda2e5_3686830745188342753.jpg)
+
+Wounded and defeated, The Balladeer has been imprisoned in Sumeru after his duel against the Traveler and the Dendro Archon.
+
+Yet, no one knows how this special prisoner should pay for his many transgressions or even what to do with him after the dust has settled...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act III - "Inversion of Genesis" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.3 update, Archon Quest Interlude Chapter: Act III "Inversion of Genesis" will be permanently available.
+
+〓Archon Quest Interlude Chapter: Act III "Inversion of Genesis" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+• Complete Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!
 ## Event Wish - From Ashes Reborn
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/5f0d520c6782d50d29dfa82884614a56_1472402261084703653.jpg)
@@ -555,34 +583,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/01/16 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# New Story Unlocked - Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
-## New Story Unlocked - Archon Quest Interlude Chapter: Act III
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/118684a689b710bf2e0fff7b46bda2e5_3686830745188342753.jpg)
-
-Wounded and defeated, The Balladeer has been imprisoned in Sumeru after his duel against the Traveler and the Dendro Archon.
-
-Yet, no one knows how this special prisoner should pay for his many transgressions or even what to do with him after the dust has settled...
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act III - "Inversion of Genesis" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.3 update, Archon Quest Interlude Chapter: Act III "Inversion of Genesis" will be permanently available.
-
-〓Archon Quest Interlude Chapter: Act III "Inversion of Genesis" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
-
-• Complete Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
