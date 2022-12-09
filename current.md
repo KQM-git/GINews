@@ -440,30 +440,6 @@ Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this 
 
 -----
 
-# "Misty Dungeon: Realm of Sand" Event - Themed Character-Trial Event
-## Misty Dungeon: Realm of Sand
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/a0e8d861d6088787cca131ec1e54d4cd_1441973209577724429.jpg)
-
-**〓Event Duration〓**
-
-2022/12/09 10:00:00 (server) – 2022/12/19 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/46d919373f5e6dc609928b1d78bcedc0_6365265573797537662.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Seven trials with different themes await you in the Misty Dungeon: Realm of Sand. Two new trials will open on the first and third day after the event starts, and three new trials will open on the fifth day.
-
-● The character lineup you can select for each trial is different, and you can use the Trial Characters or your own characters to take part in the trials.
-
-● If you have the trial character, the said trial character in the trial will adopt the Constellation levels of the character you actually own.
-
------
-
 # New Story Unlocked - Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
 ## New Story Unlocked - Archon Quest Interlude Chapter: Act III
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/118684a689b710bf2e0fff7b46bda2e5_3686830745188342753.jpg)
@@ -489,6 +465,30 @@ After the Version 3.3 update, Archon Quest Interlude Chapter: Act III "Inversion
 • Complete Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Misty Dungeon: Realm of Sand" Event - Themed Character-Trial Event
+## Misty Dungeon: Realm of Sand
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/a0e8d861d6088787cca131ec1e54d4cd_1441973209577724429.jpg)
+
+**〓Event Duration〓**
+
+2022/12/09 10:00:00 (server) – 2022/12/19 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/46d919373f5e6dc609928b1d78bcedc0_6365265573797537662.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Seven trials with different themes await you in the Misty Dungeon: Realm of Sand. Two new trials will open on the first and third day after the event starts, and three new trials will open on the fifth day.
+
+● The character lineup you can select for each trial is different, and you can use the Trial Characters or your own characters to take part in the trials.
+
+● If you have the trial character, the said trial character in the trial will adopt the Constellation levels of the character you actually own.
 
 -----
 
