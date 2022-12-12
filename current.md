@@ -457,6 +457,14 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+Currently, the Version 3.3 Furnishing Blueprint "Light of the Land of Wisdom" can be abnormally be purchased from the Teapot Spirit, Tubby. In Version 3.4, we will compensate Travelers who have unlocked Gnostic Chorus during Version 3.3's Stellar Rivers event (after the Version 3.3 update – 2023/01/16 03:59 (Server Time)) with a new exclusive Furnishing Blueprint "Port Ormos GP Crane III." Please refer to the following pictures for the specific icons and display effects. We apologize for the inconvenience caused.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/12/400bcd2f222b5091572b62e606878824_3320983895508282990.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/12/92b7e11958ec5f5bcee99ff69f469e80_2966111142374094341.png)
+
+*Note: Travelers who have purchased the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby, and used it will not obtain this Furnishing Blueprint again after unlocking Battle Pass: Gnostic Chorus.
+
 There is an issue whereby some Travelers might experience game client crashes when playing Genius Invokation TCG on Huawei devices. Travelers experiencing this issue can go to Settings > About phone > Parameter version, tap on the gear-shaped button in the top-right corner of the page, and enable "Auto-update parameters."
 
 When "Device optimization GT.GENC.1.17.22.101" is indicated on the Settings > About phone > Parameter version page, it means the update is successful.
@@ -468,8 +476,6 @@ There is an issue whereby under certain circumstances, after the Wanderer casts 
 There is an issue whereby under certain circumstances, after the Wanderer casts his Elemental Skill, there is a small chance that Kuugoryoku Points will be consumed abnormally while sprinting. This issue will be fixed in a later update, please stay tuned for future notices.
 
 There is an issue whereby under certain circumstances, the Request "Hilichurl Hullaballoo" from Inazuman NPC Furuya Noboru will disappear abnormally from the Quest Menu or cannot be accepted from the Reputation interface. Travelers who encounter this issue can accept Requests from other areas this week. In the following week, we will provide the following compensation to Travelers who have encountered this issue and have not reached Reputation Level 10 in Inazuma: Inazuma's Reputation EXP ×40.
-
-There is an issue whereby the BP-exclusive Furnishing Blueprint "Light of the Land of Wisdom" can be purchased from the Teapot Spirit, Tubby. In Version 3.4, we will issue the following compensation to Travelers who have unlocked Version 3.3's Gnostic Chorus: a brand-new BP-exclusive Furnishing Blueprint. More details regarding this compensation and how it will be issued will follow in future notices.
 
 There is an issue whereby there is an error in the reward for Faruzan's trial in the Test Run event. Henna Berries should be rewarded instead of Scarabs. We will issue Henna Berries ×3 to affected Travelers.
 
