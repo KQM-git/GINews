@@ -447,48 +447,6 @@ Event Shop Duration | Event Shop Duration | 2022/12/15 10:00:00 (server) | 2023/
 
 -----
 
-# A Thank-You Letter to All Travelers
-## A Thank-You Letter to All Travelers
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/09/13ad27bb6e99c017a97ba4abdce42fa6_2022350709491627248.jpg)
-
-Dear Travelers,
-
-Thanks to your support, Genshin Impact has won the "Players' Voice" award, and was nominated for the "Best Mobile Game" and "Best Ongoing" categories at The Game Awards 2022. Thank you for coming alongside us through this journey!
-
-To thank you for your support, we will be giving out Primogems ×800 from December 10 to December 13.
-
-*How to Claim Rewards:
-
-Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 10 to December 13.
-
-These Primogems can be claimed at any time before the end of Version 3.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail.
-
------
-
-# "Misty Dungeon: Realm of Sand" Event - Themed Character-Trial Event
-## Misty Dungeon: Realm of Sand
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/a0e8d861d6088787cca131ec1e54d4cd_1441973209577724429.jpg)
-
-**〓Event Duration〓**
-
-2022/12/09 10:00:00 (server) – 2022/12/19 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/46d919373f5e6dc609928b1d78bcedc0_6365265573797537662.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Seven trials with different themes await you in the Misty Dungeon: Realm of Sand. Two new trials will open on the first and third day after the event starts, and three new trials will open on the fifth day.
-
-● The character lineup you can select for each trial is different, and you can use the Trial Characters or your own characters to take part in the trials.
-
-● If you have the trial character, the said trial character in the trial will adopt the Constellation levels of the character you actually own.
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -552,6 +510,48 @@ Fixes an issue whereby there is a localization error in French for the Wanderer'
 〓2022/12/07 18:30:00 (global) Update Details〓
 
 Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
+
+-----
+
+# "Misty Dungeon: Realm of Sand" Event - Themed Character-Trial Event
+## Misty Dungeon: Realm of Sand
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/a0e8d861d6088787cca131ec1e54d4cd_1441973209577724429.jpg)
+
+**〓Event Duration〓**
+
+2022/12/09 10:00:00 (server) – 2022/12/19 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/46d919373f5e6dc609928b1d78bcedc0_6365265573797537662.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Seven trials with different themes await you in the Misty Dungeon: Realm of Sand. Two new trials will open on the first and third day after the event starts, and three new trials will open on the fifth day.
+
+● The character lineup you can select for each trial is different, and you can use the Trial Characters or your own characters to take part in the trials.
+
+● If you have the trial character, the said trial character in the trial will adopt the Constellation levels of the character you actually own.
+
+-----
+
+# A Thank-You Letter to All Travelers
+## A Thank-You Letter to All Travelers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/09/13ad27bb6e99c017a97ba4abdce42fa6_2022350709491627248.jpg)
+
+Dear Travelers,
+
+Thanks to your support, Genshin Impact has won the "Players' Voice" award, and was nominated for the "Best Mobile Game" and "Best Ongoing" categories at The Game Awards 2022. Thank you for coming alongside us through this journey!
+
+To thank you for your support, we will be giving out Primogems ×800 from December 10 to December 13.
+
+*How to Claim Rewards:
+
+Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 10 to December 13.
+
+These Primogems can be claimed at any time before the end of Version 3.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail.
 
 -----
 
