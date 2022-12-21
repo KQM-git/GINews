@@ -492,6 +492,36 @@ Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this 
 
 -----
 
+# Web Event "Tales of the Youkai" Now Online: Take part to obtain Primogems and other rewards!
+## Web Event "Tales of the Youkai" Now Online: Take part to obtain Primogems and other rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/16/7687966ff52ffbf569601a9167835e32_2145709293954003979.jpg)
+
+The limited-time web event "Tales of the Youkai" is now available. Let's write a light novel together!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20221221novel-mf6wnm/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20221221lightnovel&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2022/12/21 - 2022/12/30 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 30 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, you can gather inspiration by logging into Genshin Impact and completing the corresponding missions in the game. Inspiration can be used to unlock creative levels with different youkai themes.
+
+The first time you clear a youkai-themed level, you will receive a reward. You can create several pieces of content for the same unlocked youkai theme, and you can see a variety of creative results in readers' replies~
+
+〓Event Rewards〓
+
+Complete all youkai-themed light novels to receive Primogems ×120, Mystic Enhancement Ore ×5, Hero's Wit ×10, and Mora ×100,000.
+
+-----
+
 # "Akitsu Kimodameshi" Event: Take Part and Obtain the Event-Exclusive Weapon, Toukabou Shigure (Sword)
 ## Akitsu Kimodameshi
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9a8c5fc4be67b4b412e2ff8290ab2cb4_2150557815871935251.jpg)
