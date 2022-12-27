@@ -725,24 +725,6 @@ Adventure Rank 20 or above
 
 -----
 
-# Genshin Impact Tools V3.3 Update
-## Genshin Impact Tools V3.3 Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/c373ddcd5a3f40f50cc60b0b34d28a8c_1830989694495244021.jpg)
-
-Hello, Travelers~
-
-New Version 3.3 content has been added to the Battle Chronicle. Let's check them out together~
-
-Battle Chronicle: Update Details
-
-Added the function to check the Genius Invokation TCG cards you have and card details.
-
-[>> View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
-
-In addition, a brand-new tool related to Genius Invokation TCG is under development and will be available soon!
-
------
-
 # A Thank-You Letter to All Travelers
 ## A Thank-You Letter to All Travelers
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/03/13ad27bb6e99c017a97ba4abdce42fa6_9128010589191886480.jpg)
