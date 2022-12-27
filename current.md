@@ -125,18 +125,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Version 3.3 "All Senses Clear, All Existence Void" New Content Overview
-## Version 3.3 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/12/02/8243f3ce41514720080e6033d1113a88_671220928627120099.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/12/02/df49015e0fbab35d159ce5c2bca47eb4_1388122401074553518.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/12/02/1e36972470c6b1e89b7c08c98c1ae8f1_1716559629520176031.jpg)
-
------
-
 # "All Senses Clear, All Existence Void" Version 3.3 Update Details
 ## Version 3.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
