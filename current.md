@@ -529,6 +529,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby the Wanderer is still able to use his Elemental Skill in certain scenarios where the use of skills is not allowed. This will be fixed in a future update. Please stay tuned for an announcement.
+
 Currently, when the character "Hanamizaka Heroics" Arataki Itto (Geo) casts his Elemental Burst again while in his "Raging Oni King" state, there is a small chance that the Elemental Burst will not work properly. This will be fixed in a future update. Please stay tuned for an announcement.
 
 Currently, the Version 3.3 Furnishing Blueprint "Light of the Land of Wisdom" can be abnormally be purchased from the Teapot Spirit, Tubby. In Version 3.4, we will compensate Travelers who have unlocked Gnostic Chorus during Version 3.3's Stellar Rivers event (after the Version 3.3 update – 2023/01/16 03:59:00 (server)) with a new exclusive Furnishing Blueprint "Port Ormos GP Crane III." Please refer to the following pictures for the specific icons and display effects. We apologize for the inconvenience caused.
