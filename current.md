@@ -1,154 +1,3 @@
-# Events Survey Now Open
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2022/12/30 10:00:00 (global) - 2023/01/01 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_rgd6mcqb4gh2my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=10074&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# "Windtrace" Event: Compete and Earn Primogems
-## Windtrace
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/1b976ff28ae8192960f4e6667e8fe26f_3305258823631933927.jpg)
-
-**〓Event Duration〓**
-
-2022/12/23 10:00:00 (server) – 2023/01/06 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/8a1c16df5bca7d739dcfefcc98c4ef94_3840066170416717751.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● On the first day of the event, the maximum number of Windtrace Coins you can obtain is 1,200. This amount will increase gradually for each of the 6 days after that, up to a maximum of 6,000 Windtrace Coins. Use the matching function to find randomized games and obtain Windtrace Coins.
-
-● Accumulate certain amounts of Windtrace Coins or complete Windtrace Challenges to claim the corresponding rewards.
-
-● When participating in Windtrace, the unlocked "Contested Zone" will be randomly selected for the game. Travelers can change the selected map through the preview of the "Contested Zone" in the game overview. Contested Zones that have yet to be unlocked cannot be selected.
-
-● Travelers can unlock the "Contested Zone" by unlocking the Statue of the Seven in the coresponding area. The "Contested Zones" in Inazuma can only be unlocked by completing the Quest "Ritou Escape Plan" and unlocking the Statue of the Seven in the area. Travelers can view the currently unlocked content through the preview of the "Contested Zone" in the game overview.
-
-※ Windtrace Coins can only be obtained while playing in randomized games using the matching function. You can play the game and complete Windtrace Challenges in a custom Co-Op party, but will be unable to obtain Windtrace Coins.
-
------
-
-# "Akitsu Kimodameshi" Event: Take Part and Obtain the Event-Exclusive Weapon, Toukabou Shigure (Sword)
-## Akitsu Kimodameshi
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9a8c5fc4be67b4b412e2ff8290ab2cb4_2150557815871935251.jpg)
-
-**〓Event Gameplay Duration〓**
-
-2022/12/15 10:00:00 (server) – 2023/01/02 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/a757f75e18760e15ecadec44dd23bf91_3802992950476687733.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-Complete the "Ritou Escape Plan" part of Archon Quest: "Chapter II: Act I."
-
-※ Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul" for a better experience.
-
-※ If you have not completed Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Gameplay Duration | Akitsu Kimodameshi: Part I | 2022/12/15 10:00:00 (server) | 2023/01/02 03:59:59 (server)
-^ | Akitsu Kimodameshi: Part II | 2022/12/17 04:00:00 (server) | ^
-^ | Akitsu Kimodameshi: Part III | 2022/12/19 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2022/12/15 10:00:00 (server) | 2023/01/09 03:59:59 (server)
-
-**〓Event Details〓**
-
-● Two new Leisurely Pastime and one new Shatterdark challenges will be available upon the first, third, and fifth days of the event. Players will have to complete all challenges under Playful Leisure difficulty in the corresponding stages of Leisurely Pastime to unlock the corresponding Shatterdark challenge.
-
-● Complete designated challenges in Leisurely Pastime and Shatterdark to claim Primogems, the event-exclusive weapon Toukabou Shigure (Sword), Courage Test Tickets, Hero's Wit, Mystic Enhancement Ore, and Mora. Courage Test Tickets can be used to exchange for rewards such as Parasol Talcum, Crown of Insight, Weapon Ascension Materials, and Talent Level-Up Materials from the Event Shop.
-
-● Complete the "Akitsu Kimodameshi" quest chain to obtain rewards such as Primogems, the Furnishing "Kimodameshi Vivaciousness," and Hero's Wit.
-
-● After the event gameplay period ends, Courage Test Tickets will disappear. Please make sure to claim the rewards in time.
-
------
-
-# Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
-## Event Wish - Reign of Serenity
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/462a3948a313b5dc39f98394201721c1_1961486854737094978.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters ** **(4-Star）**
---- | --- | ---
-2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server) | "Plane of Euthymia"  Raiden Shogun (Electro) | "Thorny Benevolence"  Rosaria (Cryo)
-^ | ^ | "Mujina Ninja"  Sayu (Anemo)
-^ | ^ | "Crowfeather Kaburaya"  Kujou Sara (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Thorny Benevolence" Rosaria (Cryo), "Mujina Ninja" Sayu (Anemo), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!
-## Event Wish - Azure Excursion
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/407335279651b6b3c0a143571c7c85c1_7031753194725970945.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star）**
---- | --- | ---
-2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server) | "Pillar of Fortitude" Kamisato Ayato (Hydro) | "Thorny Benevolence"  Rosaria (Cryo)
-^ | ^ | "Mujina Ninja"  Sayu (Anemo)
-^ | ^ | "Crowfeather Kaburaya"  Kujou Sara (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Pillar of Fortitude" Kamisato Ayato (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Thorny Benevolence" Rosaria (Cryo), "Mujina Ninja" Sayu (Anemo), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # "All Senses Clear, All Existence Void" Version 3.3 Update Details
 ## Version 3.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
@@ -600,6 +449,157 @@ Fixes an issue whereby there is a localization error in French for the Wanderer'
 〓2022/12/07 18:30:00 (global) Update Details〓
 
 Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
+
+-----
+
+# "Windtrace" Event: Compete and Earn Primogems
+## Windtrace
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/1b976ff28ae8192960f4e6667e8fe26f_3305258823631933927.jpg)
+
+**〓Event Duration〓**
+
+2022/12/23 10:00:00 (server) – 2023/01/06 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/8a1c16df5bca7d739dcfefcc98c4ef94_3840066170416717751.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● On the first day of the event, the maximum number of Windtrace Coins you can obtain is 1,200. This amount will increase gradually for each of the 6 days after that, up to a maximum of 6,000 Windtrace Coins. Use the matching function to find randomized games and obtain Windtrace Coins.
+
+● Accumulate certain amounts of Windtrace Coins or complete Windtrace Challenges to claim the corresponding rewards.
+
+● When participating in Windtrace, the unlocked "Contested Zone" will be randomly selected for the game. Travelers can change the selected map through the preview of the "Contested Zone" in the game overview. Contested Zones that have yet to be unlocked cannot be selected.
+
+● Travelers can unlock the "Contested Zone" by unlocking the Statue of the Seven in the coresponding area. The "Contested Zones" in Inazuma can only be unlocked by completing the Quest "Ritou Escape Plan" and unlocking the Statue of the Seven in the area. Travelers can view the currently unlocked content through the preview of the "Contested Zone" in the game overview.
+
+※ Windtrace Coins can only be obtained while playing in randomized games using the matching function. You can play the game and complete Windtrace Challenges in a custom Co-Op party, but will be unable to obtain Windtrace Coins.
+
+-----
+
+# "Akitsu Kimodameshi" Event: Take Part and Obtain the Event-Exclusive Weapon, Toukabou Shigure (Sword)
+## Akitsu Kimodameshi
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9a8c5fc4be67b4b412e2ff8290ab2cb4_2150557815871935251.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2022/12/15 10:00:00 (server) – 2023/01/02 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/a757f75e18760e15ecadec44dd23bf91_3802992950476687733.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+Complete the "Ritou Escape Plan" part of Archon Quest: "Chapter II: Act I."
+
+※ Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul" for a better experience.
+
+※ If you have not completed Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Akitsu Kimodameshi: Part I | 2022/12/15 10:00:00 (server) | 2023/01/02 03:59:59 (server)
+^ | Akitsu Kimodameshi: Part II | 2022/12/17 04:00:00 (server) | ^
+^ | Akitsu Kimodameshi: Part III | 2022/12/19 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2022/12/15 10:00:00 (server) | 2023/01/09 03:59:59 (server)
+
+**〓Event Details〓**
+
+● Two new Leisurely Pastime and one new Shatterdark challenges will be available upon the first, third, and fifth days of the event. Players will have to complete all challenges under Playful Leisure difficulty in the corresponding stages of Leisurely Pastime to unlock the corresponding Shatterdark challenge.
+
+● Complete designated challenges in Leisurely Pastime and Shatterdark to claim Primogems, the event-exclusive weapon Toukabou Shigure (Sword), Courage Test Tickets, Hero's Wit, Mystic Enhancement Ore, and Mora. Courage Test Tickets can be used to exchange for rewards such as Parasol Talcum, Crown of Insight, Weapon Ascension Materials, and Talent Level-Up Materials from the Event Shop.
+
+● Complete the "Akitsu Kimodameshi" quest chain to obtain rewards such as Primogems, the Furnishing "Kimodameshi Vivaciousness," and Hero's Wit.
+
+● After the event gameplay period ends, Courage Test Tickets will disappear. Please make sure to claim the rewards in time.
+
+-----
+
+# Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
+## Event Wish - Reign of Serenity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/462a3948a313b5dc39f98394201721c1_1961486854737094978.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters ** **(4-Star）**
+--- | --- | ---
+2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server) | "Plane of Euthymia"  Raiden Shogun (Electro) | "Thorny Benevolence"  Rosaria (Cryo)
+^ | ^ | "Mujina Ninja"  Sayu (Anemo)
+^ | ^ | "Crowfeather Kaburaya"  Kujou Sara (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Thorny Benevolence" Rosaria (Cryo), "Mujina Ninja" Sayu (Anemo), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!
+## Event Wish - Azure Excursion
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/407335279651b6b3c0a143571c7c85c1_7031753194725970945.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star）**
+--- | --- | ---
+2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server) | "Pillar of Fortitude" Kamisato Ayato (Hydro) | "Thorny Benevolence"  Rosaria (Cryo)
+^ | ^ | "Mujina Ninja"  Sayu (Anemo)
+^ | ^ | "Crowfeather Kaburaya"  Kujou Sara (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Pillar of Fortitude" Kamisato Ayato (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Thorny Benevolence" Rosaria (Cryo), "Mujina Ninja" Sayu (Anemo), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Events Survey Now Open
+## Events Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
+
+Dear Traveler,
+
+In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
+
+〓Survey Duration〓
+
+2022/12/30 10:00:00 (global) - 2023/01/01 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_rgd6mcqb4gh2my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=10074&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
