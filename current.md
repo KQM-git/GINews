@@ -1,3 +1,33 @@
+# "Across the Wilderness" Event: Timed Cross Country Challenges
+## Across the Wilderness
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/fded655f2f834f788deb2f15bc3b11df_6613954735477068375.jpg)
+
+**〓Event Duration〓**
+
+2023/01/03 10:00:00 (server) – 2023/01/13 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/16105fd0b9bede55c30796cf221326d3_6855321467495167831.png)
+
+** **
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● After the event begins, a new route through the wilds will be available every day for a total of 5 days.
+
+● During the challenge, collect as many Wilderness Balloons as you can to earn various rewards. The more Wilderness Balloons you collect within the time limit, the better your rewards will be.
+
+● Travelers can use the gadget "Wilderness Compass" to obtain various Blessings. Select the best Blessing to use before you start a challenge.
+
+● You can invite a friend to take part in Across the Wilderness challenges together with you. Both Single Player and Co-Op Mode challenge scores can be used in the calculation of event rewards. Both Single Player and Co-Op Mode challenge scores for each route will be included in the Challenge Details results.
+
+-----
+
 # "All Senses Clear, All Existence Void" Version 3.3 Update Details
 ## Version 3.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
@@ -730,26 +760,6 @@ We will be giving out Primogems ×800 from December 4 to December 7. Thank you f
 Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 4 to December 7.
 
 These Primogems can be claimed at any time before the end of Version 3.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Rewards Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
