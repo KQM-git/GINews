@@ -502,26 +502,6 @@ And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedo
 
 -----
 
-# Genshin Impact Card Plaza Now Available!
-## Genshin Impact Card Plaza Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/29/65e716c873729c81d4f071df41c6ee8f_6260195909145469368.jpg)
-
-Hello, Travelers~
-
-The HoYoLAB App's "Genshin Impact Card Plaza" is now available!
-
-In the Card Plaza, you can see deck builds published by other players, and find the deck that suits you best.
-
-After certain conditions are met, you can also post your decks, and trade deck building tips with other players.
-
-Let's trade deck building tips, to become the best!
-
-[>> Click to go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=card&utm_id=2)
-
-*To experience the Card Plaza feature, please update your HoYoLAB App to Version 2.25.
-
------
-
 # "Windtrace" Event: Compete and Earn Primogems
 ## Windtrace
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/1b976ff28ae8192960f4e6667e8fe26f_3305258823631933927.jpg)
