@@ -452,6 +452,26 @@ Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this 
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "Across the Wilderness" Event: Timed Cross Country Challenges
 ## Across the Wilderness
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/fded655f2f834f788deb2f15bc3b11df_6613954735477068375.jpg)
@@ -479,6 +499,26 @@ And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedo
 ● Travelers can use the gadget "Wilderness Compass" to obtain various Blessings. Select the best Blessing to use before you start a challenge.
 
 ● You can invite a friend to take part in Across the Wilderness challenges together with you. Both Single Player and Co-Op Mode challenge scores can be used in the calculation of event rewards. Both Single Player and Co-Op Mode challenge scores for each route will be included in the Challenge Details results.
+
+-----
+
+# Genshin Impact Card Plaza Now Available!
+## Genshin Impact Card Plaza Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/29/65e716c873729c81d4f071df41c6ee8f_6260195909145469368.jpg)
+
+Hello, Travelers~
+
+The HoYoLAB App's "Genshin Impact Card Plaza" is now available!
+
+In the Card Plaza, you can see deck builds published by other players, and find the deck that suits you best.
+
+After certain conditions are met, you can also post your decks, and trade deck building tips with other players.
+
+Let's trade deck building tips, to become the best!
+
+[>> Click to go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=card&utm_id=2)
+
+*To experience the Card Plaza feature, please update your HoYoLAB App to Version 2.25.
 
 -----
 
