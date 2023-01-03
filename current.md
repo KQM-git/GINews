@@ -1,33 +1,3 @@
-# "Across the Wilderness" Event: Timed Cross Country Challenges
-## Across the Wilderness
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/fded655f2f834f788deb2f15bc3b11df_6613954735477068375.jpg)
-
-**〓Event Duration〓**
-
-2023/01/03 10:00:00 (server) – 2023/01/13 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/16105fd0b9bede55c30796cf221326d3_6855321467495167831.png)
-
-** **
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the event begins, a new route through the wilds will be available every day for a total of 5 days.
-
-● During the challenge, collect as many Wilderness Balloons as you can to earn various rewards. The more Wilderness Balloons you collect within the time limit, the better your rewards will be.
-
-● Travelers can use the gadget "Wilderness Compass" to obtain various Blessings. Select the best Blessing to use before you start a challenge.
-
-● You can invite a friend to take part in Across the Wilderness challenges together with you. Both Single Player and Co-Op Mode challenge scores can be used in the calculation of event rewards. Both Single Player and Co-Op Mode challenge scores for each route will be included in the Challenge Details results.
-
------
-
 # "All Senses Clear, All Existence Void" Version 3.3 Update Details
 ## Version 3.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
@@ -479,6 +449,36 @@ Fixes an issue whereby there is a localization error in French for the Wanderer'
 〓2022/12/07 18:30:00 (global) Update Details〓
 
 Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
+
+-----
+
+# "Across the Wilderness" Event: Timed Cross Country Challenges
+## Across the Wilderness
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/fded655f2f834f788deb2f15bc3b11df_6613954735477068375.jpg)
+
+**〓Event Duration〓**
+
+2023/01/03 10:00:00 (server) – 2023/01/13 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/16105fd0b9bede55c30796cf221326d3_6855321467495167831.png)
+
+** **
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● After the event begins, a new route through the wilds will be available every day for a total of 5 days.
+
+● During the challenge, collect as many Wilderness Balloons as you can to earn various rewards. The more Wilderness Balloons you collect within the time limit, the better your rewards will be.
+
+● Travelers can use the gadget "Wilderness Compass" to obtain various Blessings. Select the best Blessing to use before you start a challenge.
+
+● You can invite a friend to take part in Across the Wilderness challenges together with you. Both Single Player and Co-Op Mode challenge scores can be used in the calculation of event rewards. Both Single Player and Co-Op Mode challenge scores for each route will be included in the Challenge Details results.
 
 -----
 
