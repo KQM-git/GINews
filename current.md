@@ -502,34 +502,6 @@ And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedo
 
 -----
 
-# "Windtrace" Event: Compete and Earn Primogems
-## Windtrace
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/1b976ff28ae8192960f4e6667e8fe26f_3305258823631933927.jpg)
-
-**〓Event Duration〓**
-
-2022/12/23 10:00:00 (server) – 2023/01/06 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/8a1c16df5bca7d739dcfefcc98c4ef94_3840066170416717751.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● On the first day of the event, the maximum number of Windtrace Coins you can obtain is 1,200. This amount will increase gradually for each of the 6 days after that, up to a maximum of 6,000 Windtrace Coins. Use the matching function to find randomized games and obtain Windtrace Coins.
-
-● Accumulate certain amounts of Windtrace Coins or complete Windtrace Challenges to claim the corresponding rewards.
-
-● When participating in Windtrace, the unlocked "Contested Zone" will be randomly selected for the game. Travelers can change the selected map through the preview of the "Contested Zone" in the game overview. Contested Zones that have yet to be unlocked cannot be selected.
-
-● Travelers can unlock the "Contested Zone" by unlocking the Statue of the Seven in the coresponding area. The "Contested Zones" in Inazuma can only be unlocked by completing the Quest "Ritou Escape Plan" and unlocking the Statue of the Seven in the area. Travelers can view the currently unlocked content through the preview of the "Contested Zone" in the game overview.
-
-※ Windtrace Coins can only be obtained while playing in randomized games using the matching function. You can play the game and complete Windtrace Challenges in a custom Co-Op party, but will be unable to obtain Windtrace Coins.
-
------
-
 # "Akitsu Kimodameshi" Event: Take Part and Obtain the Event-Exclusive Weapon, Toukabou Shigure (Sword)
 ## Akitsu Kimodameshi
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9a8c5fc4be67b4b412e2ff8290ab2cb4_2150557815871935251.jpg)
