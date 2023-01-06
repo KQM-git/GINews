@@ -452,23 +452,23 @@ Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this 
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+# Genshin Impact Card Plaza Now Available!
+## Genshin Impact Card Plaza Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/29/65e716c873729c81d4f071df41c6ee8f_6260195909145469368.jpg)
 
-Dear Travelers,
+Hello, Travelers~
 
-The HoYoLAB Community "Daily Check-In" feature is now available!
+The HoYoLAB App's "Genshin Impact Card Plaza" is now available!
 
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+In the Card Plaza, you can see deck builds published by other players, and find the deck that suits you best.
 
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+After certain conditions are met, you can also post your decks, and trade deck building tips with other players.
 
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
+Let's trade deck building tips, to become the best!
 
-〓Event Duration〓
+[>> Click to go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=card&utm_id=2)
 
-Permanent
+*To experience the Card Plaza feature, please update your HoYoLAB App to Version 2.25.
 
 -----
 
@@ -502,23 +502,23 @@ And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedo
 
 -----
 
-# Genshin Impact Card Plaza Now Available!
-## Genshin Impact Card Plaza Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/29/65e716c873729c81d4f071df41c6ee8f_6260195909145469368.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
 
-Hello, Travelers~
+Dear Travelers,
 
-The HoYoLAB App's "Genshin Impact Card Plaza" is now available!
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-In the Card Plaza, you can see deck builds published by other players, and find the deck that suits you best.
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
 
-After certain conditions are met, you can also post your decks, and trade deck building tips with other players.
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-Let's trade deck building tips, to become the best!
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-[>> Click to go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=card&utm_id=2)
+〓Event Duration〓
 
-*To experience the Card Plaza feature, please update your HoYoLAB App to Version 2.25.
+Permanent
 
 -----
 
