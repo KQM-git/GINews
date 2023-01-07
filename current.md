@@ -392,6 +392,20 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
+## Genshin Impact Version 3.4 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/05/7bd45aa243a721c5c5ab381b485d3e04_9166494868718390113.jpg)
+
+Dear Travelers,
+
+The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
+
+[>>Go to V3.4 "The Exquisite Night Chimes" Preview Page<](https://act.hoyoverse.com/ys/event/e20230107preview-x2wqn1/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230107warm&authkey_ver=1)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -469,6 +483,26 @@ Let's trade deck building tips, to become the best!
 [>> Click to go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=card&utm_id=2)
 
 *To experience the Card Plaza feature, please update your HoYoLAB App to Version 2.25.
+
+-----
+
+# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2023/01/09 04:00:00 (server) – 2023/01/16 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
