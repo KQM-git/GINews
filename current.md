@@ -392,20 +392,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
-## Genshin Impact Version 3.4 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/05/7bd45aa243a721c5c5ab381b485d3e04_9166494868718390113.jpg)
-
-Dear Travelers,
-
-The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
-
-[>>Go to V3.4 "The Exquisite Night Chimes" Preview Page<](https://act.hoyoverse.com/ys/event/e20230107preview-x2wqn1/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230107warm&authkey_ver=1)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # Version Details - What's New 
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -463,6 +449,20 @@ Fixes an issue whereby there is a localization error in French for the Wanderer'
 〓2022/12/07 18:30:00 (global) Update Details〓
 
 Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
+
+-----
+
+# The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
+## Genshin Impact Version 3.4 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/05/7bd45aa243a721c5c5ab381b485d3e04_9166494868718390113.jpg)
+
+Dear Travelers,
+
+The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
+
+[>>Go to V3.4 "The Exquisite Night Chimes" Preview Page<](https://act.hoyoverse.com/ys/event/e20230107preview-x2wqn1/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230107warm&authkey_ver=1)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
