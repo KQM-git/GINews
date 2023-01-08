@@ -556,49 +556,6 @@ And complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedo
 
 -----
 
-# "Akitsu Kimodameshi" Event: Take Part and Obtain the Event-Exclusive Weapon, Toukabou Shigure (Sword)
-## Akitsu Kimodameshi
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9a8c5fc4be67b4b412e2ff8290ab2cb4_2150557815871935251.jpg)
-
-**〓Event Gameplay Duration〓**
-
-2022/12/15 10:00:00 (server) – 2023/01/02 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/11/10/a757f75e18760e15ecadec44dd23bf91_3802992950476687733.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-Complete the "Ritou Escape Plan" part of Archon Quest: "Chapter II: Act I."
-
-※ Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul" for a better experience.
-
-※ If you have not completed Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I - "Rise Up, Golden Soul" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Gameplay Duration | Akitsu Kimodameshi: Part I | 2022/12/15 10:00:00 (server) | 2023/01/02 03:59:59 (server)
-^ | Akitsu Kimodameshi: Part II | 2022/12/17 04:00:00 (server) | ^
-^ | Akitsu Kimodameshi: Part III | 2022/12/19 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2022/12/15 10:00:00 (server) | 2023/01/09 03:59:59 (server)
-
-**〓Event Details〓**
-
-● Two new Leisurely Pastime and one new Shatterdark challenges will be available upon the first, third, and fifth days of the event. Players will have to complete all challenges under Playful Leisure difficulty in the corresponding stages of Leisurely Pastime to unlock the corresponding Shatterdark challenge.
-
-● Complete designated challenges in Leisurely Pastime and Shatterdark to claim Primogems, the event-exclusive weapon Toukabou Shigure (Sword), Courage Test Tickets, Hero's Wit, Mystic Enhancement Ore, and Mora. Courage Test Tickets can be used to exchange for rewards such as Parasol Talcum, Crown of Insight, Weapon Ascension Materials, and Talent Level-Up Materials from the Event Shop.
-
-● Complete the "Akitsu Kimodameshi" quest chain to obtain rewards such as Primogems, the Furnishing "Kimodameshi Vivaciousness," and Hero's Wit.
-
-● After the event gameplay period ends, Courage Test Tickets will disappear. Please make sure to claim the rewards in time.
-
------
-
 # Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
 ## Event Wish - Reign of Serenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/462a3948a313b5dc39f98394201721c1_1961486854737094978.jpg)
