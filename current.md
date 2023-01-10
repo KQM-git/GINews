@@ -452,6 +452,22 @@ Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this 
 
 -----
 
+# Genshin Impact Character OST Album "The Stellar Moments Vol. 3" Now Available
+## Character OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/06/b3296b7f4c6237ef5e382b80bb86db28_7288997600520208820.jpg)
+
+Dear Travelers,
+
+Genshin Impact's character album "The Stellar Moments Vol. 3" is out now! Featuring 26 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.
+
+Travelers can go to the following platforms to listen to "The Stellar Moments Vol. 3."
+
+Apple Music:
+
+[Click here to listen to "The Stellar Moments Vol. 3."](https://music.apple.com/us/album/1662582538)
+
+-----
+
 # The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
 ## Genshin Impact Version 3.4 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/05/7bd45aa243a721c5c5ab381b485d3e04_9166494868718390113.jpg)
