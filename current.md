@@ -452,6 +452,30 @@ Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this 
 
 -----
 
+# Version Satisfaction Survey Now Open
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2023/01/13 10:00:00 (global) - 2023/01/15 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_bgd6mcubughymy43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=10450&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # "Paimon's Starlight Expedition" — The Web Event for Genshin Impact's Character OST Album Is Now Available
 ## The Web Event for the Character OST Album Is Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/26/d89837495e2f3401eca0e192caf52f2a_7481504442227361762.jpg)
