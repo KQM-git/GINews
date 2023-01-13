@@ -530,6 +530,10 @@ Apple Music:
 
 [Click here to listen to "The Stellar Moments Vol. 3."](https://music.apple.com/us/album/1662582538)
 
+Spotify:
+
+[Click here to listen to "The Stellar Moments Vol. 3."](http://open.spotify.com/album/4kvmY4jOb3mEfw7vn2hbmX)
+
 -----
 
 # The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
