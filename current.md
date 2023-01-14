@@ -536,20 +536,6 @@ Spotify:
 
 -----
 
-# The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
-## Genshin Impact Version 3.4 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/05/7bd45aa243a721c5c5ab381b485d3e04_9166494868718390113.jpg)
-
-Dear Travelers,
-
-The Version 3.4 "The Exquisite Night Chimes" Preview page is here!
-
-[>>Go to V3.4 "The Exquisite Night Chimes" Preview Page<](https://act.hoyoverse.com/ys/event/e20230107preview-x2wqn1/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230107warm&authkey_ver=1)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
 ## Ley Line Overflow
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
