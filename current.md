@@ -512,26 +512,6 @@ Spotify:
 
 -----
 
-# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2023/01/09 04:00:00 (server) – 2023/01/16 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # Genshin Impact Card Plaza Now Available!
 ## Genshin Impact Card Plaza Now Available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/29/65e716c873729c81d4f071df41c6ee8f_6260195909145469368.jpg)
@@ -653,32 +633,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# "Stellar Rivers" Event Details
-## Stellar Rivers
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/11/23/9026682b51daf0f0a1feaf825fb652d6_8245036250529284895.jpg)
-
-Travelers can earn rich rewards in "Stellar Rivers" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Stellar Rivers" and Furnishing Blueprint "Light of the Land of Wisdom."
-
-**〓Event Duration〓**
-
-After the 3.3 Version update – 2023/01/16 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● Starting from this Battle Pass, the BEP required for each BP Level will be adjusted back from 900 to 1,000.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/01/16 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
