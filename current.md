@@ -1,3 +1,119 @@
+# "The Exquisite Night Chimes" Version 3.4 Update Maintenance Preview
+## Version 3.4 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/11/c941908b14dcaf160083796a10645f89_2008642909602241137.jpg)
+
+Dear Travelers,
+
+Our developers will soon begin performing update maintenance. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please take note of the update time and schedule your game time accordingly.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+〓Update Schedule〓
+
+Update maintenance begins 2023/01/18 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2023/01/18 06:00:00 (global).
+
+Please claim before the end of Version 3.4.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including bug fixes and other compensation details, please see the Version Update Details notice to be posted at 2023/01/18 07:00:00 (global).
+
+〓Update Content Overview〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/17e5698ac163de6f9debd6965d56bf0f_4526953360074315255.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/23ecc8238122e6a367aee666b819bf5f_6062416225789665321.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/482f825195b4b59f64e88c7d8a5e7950_7938952804635116822.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/a47f3aec407850834839d562aae40c03_6570638093321441290.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/de86e107a31091f51d324426176f4a8a_6317240815777799455.jpg)
+
+〓Adjustments & Optimizations〓
+
+● System
+
+In "Mystic Offering," the selected Artifacts will not be cleared after switching the Artifact Strongbox.
+
+In "Mystic Offering," a second confirmation pop-up window has been added when selecting an enhanced Artifact.
+
+Optimizes the filtering criteria of Artifacts in "Mystic Offering."
+
+In "Mystic Offering," Artifacts can be selected in batches by scrolling.
+
+● Audio
+
+Optimizes the sound of some Elemental Reaction effects in Genius Invokation TCG.
+
+Adjusts the playback logic when characters' weather-related and standby voice-overs are triggered at the same time.
+
+● Characters
+
+Optimizes the appearance of Yelan's hands in her model.
+
+Adjusts the appearance of Dori's legs in her character illustration.
+
+● Genius Invokation TCG
+
+Adds a function to end turn using a controller when playing Genius Invokation TCG. While using a controller, when the cursor is hovering, hold the X button on the PC and PS4™ or the Circle button on the PS5™ to end the turn (using the Dualsense™ and DUALSHOCK®4 wireless controllers as examples).
+
+Adds L1 and R1 button prompts when using a controller to play Genius Invokation TCG (using the Dualsense™ or DUALSHOCK®4 wireless controllers as examples).
+
+Adjusts the number of charges and Elemental Dice required, as well as DMG dealt by the Elemental Burst for the Character Card "Yoimiya" in Genius Invokation TCG: the number of charges required has increased from 2 to 3, the number of dice required has increased from 3 Pyro Dice to 4, and "Deals 3 Pyro DMG..." has been adjusted to "Deals 4 Pyro DMG..."
+
+Adjusts the DMG dealt by the Elemental Skills "Blustering Blade" and "Frosty Assault" of the Character Card "Maguu Kenki" in Genius Invokation TCG: these two Elemental Skills will no longer deal DMG, and will only summon "Shadowsword: Lone Gale" and "Shadowsword: Galloping Frost," respectively.
+
+Adjusts the effect of the Event Card "Minty Meat Rolls" in Genius Invokation TCG: this effect can now trigger up to 3 times.
+
+Adjusts the number of uses for the Team Combat Status "Catalyzing Field" in Genius Invokation TCG: the number has decreased from 3 to 2.
+
+Adjusts the number of Elemental Dice required for the "Floral Sidewinder" Talent Card in Genius Invokation TCG: the number required has been increased from 3 Dendro Dice to 4.
+
+Optimizes the appearance of some Character Card faces in Genius Invokation TCG.
+
+Optimizes the special effects of the shielding effects for cards when playing Genius Invokation TCG on mobile.
+
+Optimizes the animation effect when a new Character Card is played in Genius Invokation TCG.
+
+● Other
+
+Adjusts the description of the achievement "A Well-Trained Archaeologist."
+
+Adjusts the number of Teleport Waypoints required to unlock the achievement "Over Sandstorms and Mirages (I)." The original total number of Teleport Waypoints required to be unlocked is 26, and is now adjusted to 27 (if the achievement has been completed, the completion status of the achievement remains unchanged).
+
+Adjusts the rules for obtaining the Elemental Resonance effects: when there are four characters in your party, or four or more characters in your party due to trial characters, Elemental Resonance will take effect as normal, with the specific Elemental Resonance effect determined by the corresponding elements of the first through fourth characters in your party (prior to the adjustment, Elemental Resonance would not take effect if a Trial Character was present).
+
+Removed the second confirmation pop-up window for skipping the cutscene for the second phase of the "Shouki no Kami, the Prodigal" boss fight. Now, clicking "skip" will directly skip the cutscene without a need for confirmation.
+
+Adjusts the height range for triggering some Random Events.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # "All Senses Clear, All Existence Void" Version 3.3 Update Details
 ## Version 3.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
