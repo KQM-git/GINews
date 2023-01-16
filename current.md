@@ -158,6 +158,160 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
+# Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!
+## Event Wish - Caution in Confidence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/57366bebd55b5d4c464ace05de880b91_1149964929490072938.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.4 update – 2023/02/07 17:59:00 (server) | "Admonishing Instruction" Alhaitham (Dendro) | "Burgeoning Grace"  Yaoyao (Dendro)
+^ | ^ | "Stage Lucida"  Yun Jin (Geo)
+^ | ^ | "Blazing Riff"  Xinyan (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Admonishing Instruction" Alhaitham (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Burgeoning Grace" Yaoyao (Dendro), "Stage Lucida" Yun Jin (Geo), and "Blazing Riff" Xinyan (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Burgeoning Grace" Yaoyao (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Invitation to Mundane Life" - Boosted Drop Rate for "Vigilant Yaksha" Xiao (Anemo)!
+## Event Wish - Invitation to Mundane Life
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/4a53056f1d79fa894b1dd84d096233ea_4389311763112613176.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.4 update – 2023/02/07 17:59:00 (server) | "Vigilant Yaksha" Xiao (Anemo) | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Stage Lucida" Yun Jin (Geo)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Vigilant Yaksha" Xiao (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Burgeoning Grace" Yaoyao (Dendro), "Stage Lucida" Yun Jin (Geo), and "Blazing Riff" Xinyan (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Burgeoning Grace" Yaoyao (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rates for Light of Foliar Incision (Sword) and Primordial Jade Winged-Spear (Polearm)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/a7029d5f26b1052f0f9569819c849648_5928931037528706125.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons ** **(5-Star)** | **Featured Weapons** ** (4-Star)**
+--- | --- | ---
+After the Version 3.4 update – 2023/02/07 17:59:00 (server) | Light of Foliar Incision (Sword)   Primordial Jade Winged-Spear (Polearm) | Lithic Spear (Polearm)
+^ | ^ | The Flute (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapon Light of Foliar Incision (Sword) and the 5-star weapon Primordial Jade Winged-Spear (Polearm) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Lithic Spear (Polearm) as well as the 4-star weapons The Flute (Sword), Rainslasher (Claymore), The Widsith (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost !
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Light of Foliar Incision (Sword) or Primordial Jade Winged-Spear (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Vultur Volans Chapter" Story Quest Overview
+## Vultur Volans Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/8dcc895ea887aa3431e3687df4dce41b_6350902009210069840.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Alhaitham's Story Quest "Vultur Volans Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.4 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+And complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+-----
+
+# Kamisato Ayaka's Outfit "Springbloom Missive" Available at a Limited-Time Discount
+## Springbloom Missive
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/8a1ff29bacc888e95deee3259b547eda_6213328972321916089.jpg)
+
+Kamisato Ayaka's outfit "Springbloom Missive" is available at a limited-time discount in the Shop!
+
+**〓Discount Period〓**
+
+After the Version 3.4 update – 2023/02/27 03:59:59 (server)
+
+**〓Outfit Details〓**
+
+● Kamisato Ayaka's outfit "Springbloom Missive" will be permanently available in the Shop after the Version 3.4 update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Kamisato Ayaka can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+-----
+
+# "Rhythm and Rhyme" Event Details
+## Rhythm and Rhyme
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/4ebffe1dc95b3b5ddcaad6eb7f7406b6_1725895626990996527.jpg)
+
+Travelers can earn rich rewards in Battle Pass during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Rhyme" and Furnishing Blueprint "Countless Homes Light Up the Moon."
+
+**〓Event Duration〓**
+
+After the Version 3.4 update – 2023/02/27 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/02/27 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
 # "All Senses Clear, All Existence Void" Version 3.3 Update Details
 ## Version 3.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
@@ -609,6 +763,44 @@ Fixes an issue whereby there is a localization error in French for the Wanderer'
 〓2022/12/07 18:30:00 (global) Update Details〓
 
 Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 20 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3811758398d014e2c66a0eed26febd92_6655364277084576017.jpg)
+
+Round 20 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.4 update – 2023/02/01 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.4 update – 2023/02/01 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Special Supply Bundle〓**
+
+Duration: After the Version 3.4 update – 2023/02/01 23:59:59 (server)
+
+Bundle Contents: Hero's Wit ×12, Mora ×10,000
+
+Bundle Price: Now 50% off for a limited time! The price after the discount is 80 Genesis Crystals. Can be purchased up to 5 times in total.
 
 -----
 
