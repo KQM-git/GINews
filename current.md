@@ -1178,26 +1178,6 @@ Primogems ×40 (limited to 3 million rewards)
 
 -----
 
-# Genshin Impact Character OST Album "The Stellar Moments Vol. 3" Now Available
-## Character OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/06/b3296b7f4c6237ef5e382b80bb86db28_7288997600520208820.jpg)
-
-Dear Travelers,
-
-Genshin Impact's character album "The Stellar Moments Vol. 3" is out now! Featuring 26 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.
-
-Travelers can go to the following platforms to listen to "The Stellar Moments Vol. 3."
-
-Apple Music:
-
-[Click here to listen to "The Stellar Moments Vol. 3."](https://music.apple.com/us/album/1662582538)
-
-Spotify:
-
-[Click here to listen to "The Stellar Moments Vol. 3."](http://open.spotify.com/album/4kvmY4jOb3mEfw7vn2hbmX)
-
------
-
 # Genshin Impact Card Plaza Now Available!
 ## Genshin Impact Card Plaza Now Available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/29/65e716c873729c81d4f071df41c6ee8f_6260195909145469368.jpg)
