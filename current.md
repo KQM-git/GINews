@@ -158,6 +158,340 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
+# Daily Login Event: "May Fortune Find You"
+## May Fortune Find You
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3cbfe86ad974a099cd81ce85539d5b5f_5190187013314839124.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2023/01/19 04:00:00 (server) – 2023/02/03 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
+# "Iridescent Splendor" - Lantern Rite Gifts
+## Iridescent Splendor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/12a987f966e07887642c02b1ae79ce6d_1748809555316057580.jpg)
+
+During the event, log in to the game to receive Intertwined Fates, Fragile Resin, and other rewards!
+
+Each email can be collected until the end of the event.
+
+**〓Event Duration〓**
+
+2023/02/05 00:00:00 (server) until the end of Version 3.4
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2** | **Reward 3** | **Reward 4**
+--- | --- | --- | --- | ---
+Feb 5 | Intertwined Fate ×1 | Bountiful Year ×5 | Universal Peace ×5 | Mora ×50,000
+Feb 6 | Fragile Resin ×1 | Tianshu Meat ×5 | Hero's Wit ×5 | 
+Feb 7 | Intertwined Fate ×1 | Guide to Diligence ×3 | Mystic Enhancement Ore ×10 | 
+Feb 8 | Fragile Resin ×1 | Guide to Gold ×3 | Sanctifying Unction ×6 | 
+Feb 9 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Mora ×50,000 |
+
+-----
+
+# "The Exquisite Night Chimes" Event: Invite a 4-Star Character From Liyue of Your Choice
+## The Exquisite Night Chimes
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/46b3039ccd839cda4bbdb943c9307650_3515671413122928347.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2023/01/19 10:00:00 (server) – 2023/02/06 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/30251802ccfb0a7dab287eeec137eb32_5642605753882137561.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+Complete Archon Quest "A New Star Approaches"
+
+※ Complete Archon Quest "The Crane Returns on the Wind" and Yelan's Story Quest "Umbrabilis Orchis Chapter: Act I" first to get the best experience from this event.
+
+※ If you have not completed Archon Quest "The Crane Returns on the Wind" and Yelan's Story Quest "Umbrabilis Orchis Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay  Duration | Phase I | 2023/01/19 10:00:00 (server) | 2023/02/06 03:59:59 (server)
+^ | Phase II | 2023/01/21 04:00:00 (server) | ^
+^ | Phase III | 2023/01/23 04:00:00 (server) | ^
+^ | Phase IV | 2023/01/25 04:00:00 (server) | ^
+
+**〓Event Details〓**
+
+● During the event, four types of gameplay will unlock in sequence: Radiant Sparks, Paper Theater, Vigilance at Sea, and Behind the Scenes.
+
+● In the "Radiant Sparks" gameplay, Travelers will have to complete this special time trial challenge. When the moon is suspended high, race with blossoming flames as your companions.
+
+● In the "Paper Theater" gameplay, Travelers will have to dive into the Paper Theatre and learn the true narratives behind the scenes at play while assisting the artisans in the completion of the performance.
+
+● In the "Vigilance at Sea" gameplay, Travelers will have to captain the Waverider and complete time trial challenges designed by a navigator of the Alcor to help her find the most optimal sea routes and train the sailors of Liyue Harbor.
+
+● In the "Behind the Scenes" gameplay, Travelers will have to assist the Ministry of Civil Affairs in an operation to clear enemies out from the wilderness to ensure the safety of the Liyue Harbor region.
+
+● Complete these phases to gain Festive Fever and reach a certain amount of Festive Fever to invite a 4-star character from Liyue of your choice.
+
+-----
+
+# "Genius Invokation TCG" Heated Battle Mode: Omnipotent Guide
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/4c22555d6d258b1dbb583c39f598c3ec_2778322892617739401.jpg)
+
+**〓Event Duration〓**
+
+2023/01/28 10:00:00 (server) – 2023/02/06 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/3a73b2602ca5ebf21a078a5a9d7f6dbf_1576379646752991556.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● The special rule for this edition is: No more rolling Elemental Dice during the Roll Phase. Obtain 8 Omni Dice directly!
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# "Second Blooming" Event: Take Part to Obtain Lisa's Outfit, A Sobriquet Under Shade
+## Second Blooming
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/c76f9644a3876fc15c36b4aa5f049626_7737998633913953323.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2023/01/31 10:00:00 (server) – 2023/02/13 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/9d93da85b0466ff1abaea2fcd89a748a_2012442834140800539.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+And complete Lisa's Story Quest "Tempus Fugit Chapter: Act I"
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Start Time** | **End Time**
+--- | --- | ---
+Event Gameplay Duration | 2023/01/31 10:00:00 (server) | 2023/02/13 03:59:59 (server)
+Outfit Redemption Duration | 2023/01/31 10:00:00 (server) | 2023/02/14 03:59:59 (server)
+
+**〓Event Details〓**
+
+● From the first day of the event, a new challenge will unlock every day. A total of five challenges will be unlocked.
+
+● During each challenge, you can use characters provided by the event or your own to complete 3 consecutive combat rounds. Characters who are set as "Linked" can appear during multiple rounds for their party.
+
+● You must defeat all opponents within the time limit during the challenge. Complete the challenge with more time left on the counter to earn bonus points and receive medals based on your final score.
+
+● Complete all challenge stages and achieve an accumulative score of 10,000 points to obtain Lisa's outfit "A Sobriquet Under Shade."
+
+※ Lisa's outfit "A Sobriquet Under Shade" will be available for purchase in the Character Outfit Shop after the end of Version 3.4, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# "Warrior's Spirit" Event: Sword Duel Challenge
+## Warrior's Spirit
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/d325c99e3522d1ee6c401f502645fcc5_1937212433213822365.jpg)
+
+**〓Event Duration〓**
+
+2023/02/09 10:00:00 (server) – 2023/02/20 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/c0f9df257b34ab871ef9952adbaeb49a_590120406796252104.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the Archon Quest "Ritou Escape Plan"
+
+※ Complete Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act II" first to get the best experience from this event.
+
+※ If you have not completed Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act II" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Details〓**
+
+● From the first day of the event, a new duel will unlock every day. A total of six duels will be unlocked.
+
+● There are 3 levels of difficulty in each duel: Normal, Hard, and Pro. Pro mode can only be unlocked after successfully challenging Hard mode.
+
+● You will be unable to use Elemental Skills or Bursts during these duels, but you will obtain new abilities: a Parry and Honed Techniques.
+
+-----
+
+# "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl" Event: Complete the Beetle Battle Challenge and Win Primogems
+## Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3335405ce66b27452067586ed3f001d1_5706131613315360848.jpg)
+
+**〓Event Duration〓**
+
+2023/02/16 10:00:00 (server) – 2023/02/27 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/087ef7b4ef293b3e043595e9413c14d6_791498041990303641.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the Archon Quest "Ritou Escape Plan"
+
+※ Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
+
+※ If you have not completed the Archon Quest "Perilous Trail" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Details〓**
+
+● From the first day of the event, a new beetle battle challenge will unlock every day. A total of five challenges will be unlocked.
+
+● There are 3 levels of difficulty in each beetle battle challenge: Friendly Spar, Honed Will, and Fanatic Passion. After the challenge begins, Friendly Spar and Honed Will difficulties will be unlocked. Fanatic Passion can only be unlocked after successfully challenging Honed Will.
+
+● Take on your opponents and achieve corresponding criteria to claim rewards in the event page. By completing challenges on a higher difficulty setting, you can directly claim rewards at lower difficulties as well.
+
+-----
+
+# "Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/713e290d673605bb82d2832ae54d75fd_9072633624639013815.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+**〓Event Duration〓**
+
+2023/02/20 04:00:00 (server) – 2023/02/27 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains such as "Forsaken Rift," "Taishan Mansion," "Violet Court," and "Steeple of Ignorance" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
+# Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!
+## Event Wish - Moment of Bloom
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/65a4060f35dc162881a0f2eeb4627d05_8707279051059778036.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/02/07 18:00:00 (server) – 2023/02/28 14:59:59 (server) | "Fragrance in Thaw" Hu Tao (Pyro) | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Eclipsing Star" Ningguang (Geo)
+^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Fragrance in Thaw" Hu Tao (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Eclipsing Star" Ningguang (Geo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!
+## Event Wish - Discerner of Enigmas
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/13846907822b20080216b5ce78b89274_4182538159585864979.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/02/07 18:00:00 (server) – 2023/02/28 14:59:59 (server) | "Valley Orchid" Yelan (Hydro) | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Eclipsing Star" Ningguang (Geo)
+^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Valley Orchid" Yelan (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Eclipsing Star" Ningguang (Geo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Aqua Simulacra (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/03bd96c4bcd7207204429ba3489566ec_6737371746453370490.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/02/07 18:00:00 (server) – 2023/02/28 14:59:59 (server) | Staff of Homa (Polearm)   Aqua Simulacra (Bow) | Lithic Blade (Claymore)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Staff of Homa (Polearm) and Aqua Simulacra (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Lithic Blade (Claymore) as well as the 4-star weapons Favonius Sword (Sword), Dragon's Bane (Polearm), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost !
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Staff of Homa (Polearm) or Aqua Simulacra (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!
 ## Event Wish - Caution in Confidence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/57366bebd55b5d4c464ace05de880b91_1149964929490072938.jpg)
