@@ -158,6 +158,460 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
+# "All Senses Clear, All Existence Void" Version 3.3 Update Details
+## Version 3.3 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
+
+Dear Travelers,
+
+Below are the details of the Version 3.3 update "All Senses Clear, All Existence Void."
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/12/07 06:00:00 (global)
+
+Please claim before the end of Version 3.3.
+
+Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above before 2022/12/07 06:00:00 (global).
+
+Please claim the compensation mail before 2022/12/10 06:00:00 (global)
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins 2022/12/07 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Gameplay
+
+<p style="white-space: pre-wrap;">Genius Invokation TCG is a tightly-paced, heart-stopping tabletop card dueling game.
+
+Join as a "Genius Invokation TCG" player, collect cards, build your deck, and go toe-to-toe with various opponents at the table!
+
+◇ Unlock Criteria:
+
+• Reach Adventure Rank 32 or above
+
+• Complete the Archon Quest "Song of the Dragon and Freedom"
+
+◇ System Rules:
+
+1. Find challengers in the open world or enter the tavern to play matches against weekly visiting challengers, and earn Player EXP, and Lucky Coins.
+
+2. Player EXP can be used to increase your Player Level, which in turn unlocks new functions and more challengers. Lucky Coins can be used to purchase Genius Invokation cards and used to purchase Match Invitation Letters and various items related to Genius Invokation TCG.
+
+3. You can use the invitation board to send invitations to registered challengers on the Player List and partake in duel matches. Should you prevail in these matches, you can also earn corresponding Character and Talent Cards.
+
+4. You can use the invitation board and connect with your friends via Co-Op to partake in a Genius Invokation TCG match. After reaching a certain Player Level, you can also match with faraway strangers to duels of skill.
+
+*After Genius Invokation TCG is officially launched, we will continue to adjust and optimize the balance of cards based on the duel situation and feedback of Travelers, so as to continuously improve the gameplay experience of Genius Invokation TCG.
+
+The Genius Invokation TCG balance adjustment in the Version 3.3 update is as follows:
+
+Adjusts Elemental Burst damage dealt by the Character Card "Maguu Kenki" in Genius Invokation TCG: "Deals 6 Anemo DMG..." is now adjusted to "Deals 4 Anemo DMG...".
+
+II. New Characters
+
+<p style="white-space: pre-wrap;">◇ Vision: Anemo
+
+◇ Weapon: Catalyst
+
+◇ A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.
+
+◆ Elemental Skill "Hanega: Song of the Wind"
+
+◆ Deals AoE Anemo DMG before leaping into the air and entering the Windfavored state. In this state, the Wanderer is unable to use Plunging Attacks, and his Normal and Charged Attacks are converted to Kuugo: Fushoudan and Kuugo: Toufukai. The DMG they deal and their AoE will be increased, and their DMG will be considered Normal and Charged Attack DMG respectively. The Wanderer will hover persistently during this time. Consume Kuugoryoku Points to maintain this hovering state, move and sprint mid-air, and increase hovering height. Running out of Kuugoryoku Points or casting the Elemental Skill again while in this state will end the Windfavored state.
+
+◆ Elemental Burst "Kyougen: Five Ceremonial Plays"
+
+◆ Deals multiple instances of AoE Anemo DMG. If the character is in the Windfavored state due to the skill "Hanega: Song of the Wind," Windfavored state will end after casting.
+
+<p style="white-space: pre-wrap;">◇ Vision: Anemo
+
+◇ Weapon: Bow
+
+◇ A researcher from "one hundred years ago." She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.
+
+◆ Elemental Skill "Wind Realm of Nasamjnin"
+
+◆ Deploys a polyhedron that deals AoE Anemo DMG to nearby opponents. She will also enter the Manifest Gale state. While in the Manifest Gale state, Faruzan's next fully charged shot will consume this state and will become a Hurricane Arrow that contains high-pressure currents. This arrow deals Anemo DMG based on the DMG of a fully charged Aimed Shot from "Normal Attack: Parthian Shot." The Hurricane Arrow will apply a Pressurized Collapse effect to the opponent or character hit. This effect will be removed after a short delay, creating a vortex that deals AoE Anemo DMG and pulls nearby objects and opponents in. If the Hurricane Arrow does not hit any opponent or character, it will create a Pressurized Collapse effect at its point of impact.
+
+◆ Elemental Burst "The Wind's Secret Ways"
+
+◆ Deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals AoE Anemo DMG. While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse. When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to nearby opponents, decreasing their Anemo RES. The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them an Anemo DMG Bonus.
+
+III. New Domain
+
+<p style="white-space: pre-wrap;">◇ This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost.
+
+◇ Unlock Criteria:
+
+• Reach Adventure Rank 22 or above
+
+• Or complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+◆ Challenge the Domain to obtain artifacts in the "Desert Pavilion Chronicle" and "Flower of Paradise Lost" sets.
+
+IV. New Equipment
+
+1. New Weapons
+
+<p style="white-space: pre-wrap;">Normal Attack SPD is increased by 10%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 4.8% every second for 14s. After this character hits an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 9.6%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 48%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.
+
+◆ During the event wish "Epitome Invocation," the event-exclusive 5-star weapon Tulaytullah's Remembrance (Catalyst) will receive a huge drop-rate boost!
+
+<p style="white-space: pre-wrap;">After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is taken out during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 16% more DMG to the opponent affected by Cursed Parasol.
+
+◆ Toukabou Shigure (Sword) and its refinement materials can be redeemed in the event "Akitsu Kimodameshi."
+
+2. New Artifacts
+
+<p style="white-space: pre-wrap;">◇ 2-Piece Set: Increased Anemo DMG Bonus.
+
+◇ 4-Piece Set: When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.
+
+<p style="white-space: pre-wrap;">◇ 2-Piece Set: Increased Elemental Mastery.
+
+◇4-Piece Set: The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.
+
+V. New Main Story
+
+1. New Archon Quest
+
+<p style="white-space: pre-wrap;">◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+• Complete Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
+
+◇ After the Version 3.3 update, Archon Quest Interlude Chapter: Act III "Inversion of Genesis" will be permanently available.
+
+VI. Other Additions
+
+New Recipes:
+
+○ Sumeru NPC Jahangir: Samosa
+
+○ Wanderer's specialty: "Shimi Chazuke"
+
+○ Faruzan's specialty: Traditionally-Made Charcoal-Baked Ajilenakh Cake
+
+New "Genius Invokation TCG" Achievement category added, new Achievements added to the "Wonders of the World" category.
+
+New Namecards:
+
+"Wanderer: Drifter's Ballad": Reward for reaching Friendship Lv. 10 with the Wanderer
+
+"Faruzan: Sealed Secret": Reward for reaching Friendship Lv. 10 with Faruzan
+
+"Achievement: Invoker": Reward for completing all achievements under "Genius Invokation TCG"
+
+"Travel Notes: Stellar Rivers": Reward obtained via the BP system
+
+Adds some prompts for loading screens.
+
+New Liyue Daily Commission:
+
+Follow-up content of "The Sparrow Studies the Blade" - "The Day the Sword Departs" series
+
+and follow-up content of "Where Is the Unseen Razor?"
+
+Adds a search function for Furnishings: type in keywords to search for Furnishings in the Furnishing Creation interface and Serenitea Pot editing menu.
+
+After Trust Rank reaches Level 10, the purchase limit cap of products in Realm Depot > Furnishings will be raised.
+
+Adds the source of the Furnishing in the item description.
+
+Adds Coral Butterfly to items sold by the Teapot Traveling Salesman.
+
+Stellar Reunion Adjustments:
+
+Interface Optimization: Adds access to Genius Invokation TCG to "Returner's Journey."
+
+Event Adjustment: Updates the completion conditions of certain "Homeward Path" missions.
+
+Adds a new Battle Pass Mission in "Battle Pass > Weekly Missions": Complete Invokation TCG Weekly Guest Challenges 2 times.
+
+After the Version 3.3 update, two new languages will be available for the game client: Italian and Turkish.
+
+Spiral Abyss
+
+Floor 11 Ley Line Disorders changed to:
+
+• All characters in the party gain a 75% Anemo DMG Bonus.
+
+※ After the Spiral Abyss resets on December 16, the "Deepwood Memories" and "Gilded Dreams" Artifact set rewards in "Domain Reliquary: Tier I," and "Domain Reliquary: Tier II" for Floors 9-12 will be replaced with "Desert Pavilion Chronicle" and "Flower of Paradise Lost."
+
+Updates the monster lineup on Floor 11 of the Spiral Abyss.
+
+Updates the monster lineup on Floor 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 3.3, the three Lunar Phases will be as follows:
+
+Phase I:
+
+Terminal Moon
+
+After the active character's Normal, Charged, or Plunging Attack deals DMG to an opponent, the character will gain a 10% corresponding Elemental or Physical DMG Bonus of that attack for 4s. This effect can be triggered once every 1s. Max 6 stacks. It will be removed when the character leaves the field or deals a different type of Elemental or Physical DMG.
+
+Phase II:
+
+Breezecall Moon
+
+After the active character triggers a Swirl reaction, all party members will have their CRIT DMG increased by 20% for 8s. Max 3 stacks. This effect can be triggered once every 1s.
+
+Phase III:
+
+Supreme Moon
+
+When the active character deals consecutive instances of Elemental DMG of the same Elemental Type using Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts to an opponent, they will gain 1 count stack. 1 stack can be gained every 1s. After 5 stacks have been gained, a shockwave will be unleashed at the opponent's position, dealing True DMG and clearing all heretofore accumulated stacks. Should the active character leave the field or deal a different type of Elemental DMG, these stacks will also be cleared. Dealing Physical DMG will not clear the stacks.
+
+*In the content updated in version 3.3, there are text errors for some English voice-over lines.
+
+Akitsu Yuugen should be: Akitsu Yuugei
+
+Akitsu Hazura should be：Akitsu Haneasobi
+
+We seek your kind understanding on this matter.
+
+〓Adjustments & Optimizations〓
+
+● System
+
+Adds the feature of adding 1–3-Star Artifacts at once to the Destruction System.
+
+Adds the function of filtering by Artifact status in Inventory > Artifacts: you can filter by Artifact Lock Status, Level Status, and Equipment Status.
+
+● Audio
+
+Optimizes the sound performance when a character defeats an opponent or inflicts a CRIT Hit.
+
+Optimizes the sound performance of some objects.
+
+Optimizes the English, Korean, and Japanese voice-over for certain characters and quests.
+
+Optimizes the English voice-over related to a certain region's name as well as the English voice-over performances of some NPCs.
+
+Decreases the volume of environmental sound effects under certain circumstances.
+
+● Other
+
+Reduces the difficulty of the Daily Commission "Hey, Come Out!" and adds gameplay tips.
+
+Adjusts the display order of Mora converted from Adventure EXP in the Reward Preview after reaching Adventure Rank 60.
+
+Optimizes the special effects display of the Tranquility Aura from Nilou's Elemental Skill.
+
+Optimizes the special effects performance of Polearm characters' Plunging Attacks.
+
+〓Bug Fixes〓
+
+● Quests
+
+Fixes an issue whereby under certain circumstances, during the Daily Commission "Akademiya Q&A," the corresponding achievement was not unlocked after answering all the questions correctly for the first time. If you are affected by this issue, complete the Daily Commission "Akademiya Q&A" again after the version update to unlock the achievement in question (it is not mandatory to answer all questions correctly this time around).
+
+Fixes an issue whereby the NPC Alhaitham might abnormally disappear after completing the target "Go to Port Ormos" in the Archon Quest "A Toast to Victory."
+
+Adds a sound effect to Nilou's voiced-over internal monologue during the Story Quest "The Reason We Are Gathered Here."
+
+Fixes an issue with a cutscene in the Story Quest: "Astrology and the 50-Year Pact" whereby some Korean voice-over lines could not be played properly.
+
+Fixes an issue with the Archon Quest "A Toast to Victory" whereby some characters' Japanese voice-over lines could not be played properly.
+
+Fixes errors in the description of some Daily Commissions.
+
+● Enemies
+
+Fixes an issue in Co-Op Mode whereby there is a small chance that enemies would enter the parry state abnormally.
+
+Fixes an issue whereby when challenging the boss Signora in Co-Op Mode or matchmaking mode, if Signora entered the Ice Cocoon phase before a Traveler's loadout was complete, the Crimson Lotus Moth that said Traveler used could not take effect normally.
+
+Fixes an issue whereby wn challenging the boss "Shouki no Kami, the Prodigal," there would be a small chance that the character would remain in the high speed state when players use the Four-Leaf Sigil to move quickly at the moment of switching characters.
+
+Fixes an issue with the boss Shouki no Kami, the Prodigal whereby his Setsuna Shoumetsu skill released in the second combat phase would not apply normally under certain circumstances.
+
+Fixes an issue with the boss Shouki no Kami, the Prodigal whereby when he is suppressed while unleashing certain skills in the first combat phase, those skills would still take effect abnormally under certain circumstances.
+
+Fixes an issue whereby constructs still appear abnormally after the boss Shouki no Kami, the Prodigal has been defeated (although these constructs cannot deal DMG).
+
+Fixes an issue whereby when the enemy "Ruin Destroyer" is charging up energy, the Normal Attack of bow characters might not be able to lock on to this enemy.
+
+Fixes an issue whereby some enemies would exit combat when they leave or move too far away.
+
+● Characters
+
+Fixes an issue with Nahida's Talent "Awakening Elucidated" whereby there is a small chance that the Elemental Mastery increase buff of the 4-Piece Artifact set "Gilded Dreams" was not properly included in the effect of the Talent.
+
+Fixes an issue with Tighnari whereby during his Plunging Attack, parts of his ribbons and clothing would flap abnormally.
+
+Fixes an issue whereby when Keqing used Normal Attacks consecutively on enemies affected by the Electro element, her Lv.2 Constellation's effects would be triggered at an abnormal interval.
+
+Fixes an issue whereby when Cyno unleashed his Elemental Burst, the effects on his face were abnormal.
+
+Fixes an issue with Thoma whereby after he casts his Elemental Burst, when an active character triggers Fiery Collapse, there's a discrepancy between its special effects and its actual damage location.
+
+Fixes an issue with Candace whereby when she is frozen after casting her Elemental Skill, the position of her weapon would be displayed abnormally.
+
+Fixes an issue with Nilou whereby part of her skirt appeared to be abnormally blurry.
+
+Fixes an issue that caused some characters to move abnormally in an idle state under certain specific circumstances.
+
+● System
+
+Fixes an issue whereby the character sorting order was in disarray after clearing the Filtering Conditions on the Spiral Abyss character selection page.
+
+● Audio
+
+Fixes an issue whereby some audio effects of the Dusk Birds in Sumeru disappeared abnormally.
+
+Fixes an issue whereby Mona's "When It Snows" voice line could not be triggered correctly.
+
+Fixes an issue with Shikanoin Heizou whereby his Friendship Level and Ascension voice-over would fail to trigger properly.
+
+Fixes an issue whereby the Chinese voice-over did not match the text in some quests.
+
+Fixes an issue of incorrect Chinese and Japanese voice-over for certain opponents.
+
+● Other
+
+Fixes an issue whereby the Ley Line Disorder effect "increases all party members' ATK and DEF by 6%" of Spiral Abyss Floor 6 did not take effect for characters on standby.
+
+Fixes an issue whereby when characters on standby have 5 or more stacks of this effect, they have to cast their Elemental Burst once after they take the field to obtain the "increase character Normal Attack SPD and Movement SPD by an additional 30%" buff.
+
+Fixes an issue with abnormal collision size in some environments.
+
+Fixes an issue whereby Polearms would be abnormally affected by Elements under certain circumstances.
+
+Fixes an issue whereby the Elemental effect icon would appear above the opponents (even though they were not affected by said Element) under certain circumstances.
+
+Fixes an issue whereby there is a probability that the Burgeon reaction would not be properly included in the Elemental Mastery increase buff of the 4-Piece Artifact set "Gilded Dreams."
+
+Fixes some textual errors in 13 languages and optimizes text. "Note: Related in-game functions have not changed." (Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+Text-related fixes and optimizations in English include:
+
+◆ Optimized some lines in Ganyu's Profile.
+
+◆ Optimized some lines in the Open World.
+
+◆ Optimized some lines in Candace's Profile.
+
+◆ Optimized some lines in Kamisato Ayato's Profile.
+
+◆ Optimized some lines in Arataki Itto's Profile.
+
+◆ Optimized instances of the term "the Eremites" for consistency.
+
+◆ Optimized instances of the term "matra" for consistency.
+
+◆ Optimized instances of the term "chilis" for consistency.
+
+◆ Optimized instances of "Quicksand Unagi" to "Quicksand Eel."
+
+◆ Optimized the description for Kaeya's Constellation Lv.2
+
+◆ Optimized the description for Lisa's Constellation Lv.4
+
+◆ Optimized the translation "Increases the number of lightning bolts released by Lightning Rose by 1-3." to "Lightning Rose now unleashes 1-3 lightning bolts when it attacks."
+
+◆ Optimized some of Xinyan's voiced lines.
+
+◆ Optimized some lines in Archon Quests.
+
+◆ Optimized some of Paimon's voiced lines.
+
+◆ Optimized instances of a character's name from "Michihira/Doukei" to "Michihiro."
+
+◆ Optimized instances of a character's designation from "Armory Officer" to "Vice Armory Officer."
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby the Wanderer is still able to use his Elemental Skill in certain scenarios where the use of skills is not allowed. This will be fixed in a future update. Please stay tuned for an announcement.
+
+Currently, when the character "Hanamizaka Heroics" Arataki Itto (Geo) casts his Elemental Burst again while in his "Raging Oni King" state, there is a small chance that the Elemental Burst will not work properly. This will be fixed in a future update. Please stay tuned for an announcement.
+
+Currently, the Version 3.3 Furnishing Blueprint "Light of the Land of Wisdom" can be abnormally be purchased from the Teapot Spirit, Tubby. In Version 3.4, we will compensate Travelers who have unlocked Gnostic Chorus during Version 3.3's Stellar Rivers event (after the Version 3.3 update – 2023/01/16 03:59:00 (server)) with a new exclusive Furnishing Blueprint "Port Ormos GP Crane III." Please refer to the following pictures for the specific icons and display effects. We apologize for the inconvenience caused.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2022/12/12/42bf62d18049f808524f9405cf23e3f4_2362829966488905126.png)
+
+*Note: Travelers who have purchased the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby, and used it will not obtain this Furnishing Blueprint again after unlocking Battle Pass: Gnostic Chorus.
+
+There is an issue whereby some Travelers might experience game client crashes when playing Genius Invokation TCG on Huawei devices. Travelers experiencing this issue can go to Settings > About phone > Parameter version, tap on the gear-shaped button in the top-right corner of the page, and enable "Auto-update parameters."
+
+When "Device optimization GT.GENC.1.17.22.101" is indicated on the Settings > About phone > Parameter version page, it means the update is successful.
+
+Travelers can resolve the crashing issue with this update. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+〓2022/12/29 16:05:00 (global) Update Details〓
+
+Fixes an issue whereby under specific circumstances, characters are able to enter certain areas abnormally or leave the scope of the event area by passing through walls in the Windtrace event.
+
+〓2022/12/22 16:20:00 (global) Update Details〓
+
+Fixes an issue whereby there is an Italian localization error in the description for Jean's Level 2 Constellation, "People's Aegis."
+
+Fixes an issue whereby there is a localization error in Traditional Chinese in the description of a BP mission.
+
+Updates resources related to subsequent events.
+
+〓2022/12/15 16:05:00 (global) Update Details〓
+
+Fixes an issue under certain circumstances whereby there is a small chance that after Wanderer casts his Elemental Skill, his Kuugoryuku will be consumed abnormally while sprinting.
+
+Fixes an issue under certain circumstances whereby there is a small chance that after Wanderer casts his Elemental Skill, he will remain in the hovering state abnormally.
+
+Fixes an issue under certain circumstances whereby there is a small chance that after Wanderer casts his Elemental Skill, he will move on the water's surface abnormally.
+
+Fixes an issue in the Violet Court Domain whereby, after picking up Nascent Electro Pearls and hitting enemies with a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, there is a small chance that the Falling Thunder unleashed will not deal Electro DMG.
+
+Fixes an issue under certain circumstances in Genius Invokation TCG whereby after using Collei's Talent Card "Floral Sidewinder," the Talent Card's effects will not activate normally during the current round.
+
+〓2022/12/09 16:05:00 (global) Update Details〓
+
+Fixes an issue whereby there is a localization error in French for the Wanderer's Passive Talent "Gales of Reverie."
+
+〓2022/12/07 18:30:00 (global) Update Details〓
+
+Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
+
+-----
+
 # Daily Login Event: "May Fortune Find You"
 ## May Fortune Find You
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3cbfe86ad974a099cd81ce85539d5b5f_5190187013314839124.jpg)
@@ -643,460 +1097,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/02/27 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# "All Senses Clear, All Existence Void" Version 3.3 Update Details
-## Version 3.3 Update Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/05/da0350ae5834ec1c5d25eeb228ec6f14_5970550266226859544.jpg)
-
-Dear Travelers,
-
-Below are the details of the Version 3.3 update "All Senses Clear, All Existence Void."
-
-〓Compensation Details〓
-
-Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
-
-Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
-
-〓Scope of Compensation〓
-
-Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2022/12/07 06:00:00 (global)
-
-Please claim before the end of Version 3.3.
-
-Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above before 2022/12/07 06:00:00 (global).
-
-Please claim the compensation mail before 2022/12/10 06:00:00 (global)
-
-Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-〓Update Schedule〓
-
-Update maintenance begins 2022/12/07 06:00:00 (global) and is estimated to take 5 hours.
-
-〓How to Update Game Client〓
-
-PC: Close the game, open the Genshin Impact Launcher, and click Update.
-
-iOS: Open the App Store and tap Update.
-
-Android: Open the game and follow the directions on-screen.
-
-PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
-
-Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
-
-〓Update Details〓
-
-I. New Gameplay
-
-<p style="white-space: pre-wrap;">Genius Invokation TCG is a tightly-paced, heart-stopping tabletop card dueling game.
-
-Join as a "Genius Invokation TCG" player, collect cards, build your deck, and go toe-to-toe with various opponents at the table!
-
-◇ Unlock Criteria:
-
-• Reach Adventure Rank 32 or above
-
-• Complete the Archon Quest "Song of the Dragon and Freedom"
-
-◇ System Rules:
-
-1. Find challengers in the open world or enter the tavern to play matches against weekly visiting challengers, and earn Player EXP, and Lucky Coins.
-
-2. Player EXP can be used to increase your Player Level, which in turn unlocks new functions and more challengers. Lucky Coins can be used to purchase Genius Invokation cards and used to purchase Match Invitation Letters and various items related to Genius Invokation TCG.
-
-3. You can use the invitation board to send invitations to registered challengers on the Player List and partake in duel matches. Should you prevail in these matches, you can also earn corresponding Character and Talent Cards.
-
-4. You can use the invitation board and connect with your friends via Co-Op to partake in a Genius Invokation TCG match. After reaching a certain Player Level, you can also match with faraway strangers to duels of skill.
-
-*After Genius Invokation TCG is officially launched, we will continue to adjust and optimize the balance of cards based on the duel situation and feedback of Travelers, so as to continuously improve the gameplay experience of Genius Invokation TCG.
-
-The Genius Invokation TCG balance adjustment in the Version 3.3 update is as follows:
-
-Adjusts Elemental Burst damage dealt by the Character Card "Maguu Kenki" in Genius Invokation TCG: "Deals 6 Anemo DMG..." is now adjusted to "Deals 4 Anemo DMG...".
-
-II. New Characters
-
-<p style="white-space: pre-wrap;">◇ Vision: Anemo
-
-◇ Weapon: Catalyst
-
-◇ A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.
-
-◆ Elemental Skill "Hanega: Song of the Wind"
-
-◆ Deals AoE Anemo DMG before leaping into the air and entering the Windfavored state. In this state, the Wanderer is unable to use Plunging Attacks, and his Normal and Charged Attacks are converted to Kuugo: Fushoudan and Kuugo: Toufukai. The DMG they deal and their AoE will be increased, and their DMG will be considered Normal and Charged Attack DMG respectively. The Wanderer will hover persistently during this time. Consume Kuugoryoku Points to maintain this hovering state, move and sprint mid-air, and increase hovering height. Running out of Kuugoryoku Points or casting the Elemental Skill again while in this state will end the Windfavored state.
-
-◆ Elemental Burst "Kyougen: Five Ceremonial Plays"
-
-◆ Deals multiple instances of AoE Anemo DMG. If the character is in the Windfavored state due to the skill "Hanega: Song of the Wind," Windfavored state will end after casting.
-
-<p style="white-space: pre-wrap;">◇ Vision: Anemo
-
-◇ Weapon: Bow
-
-◇ A researcher from "one hundred years ago." She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.
-
-◆ Elemental Skill "Wind Realm of Nasamjnin"
-
-◆ Deploys a polyhedron that deals AoE Anemo DMG to nearby opponents. She will also enter the Manifest Gale state. While in the Manifest Gale state, Faruzan's next fully charged shot will consume this state and will become a Hurricane Arrow that contains high-pressure currents. This arrow deals Anemo DMG based on the DMG of a fully charged Aimed Shot from "Normal Attack: Parthian Shot." The Hurricane Arrow will apply a Pressurized Collapse effect to the opponent or character hit. This effect will be removed after a short delay, creating a vortex that deals AoE Anemo DMG and pulls nearby objects and opponents in. If the Hurricane Arrow does not hit any opponent or character, it will create a Pressurized Collapse effect at its point of impact.
-
-◆ Elemental Burst "The Wind's Secret Ways"
-
-◆ Deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals AoE Anemo DMG. While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse. When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to nearby opponents, decreasing their Anemo RES. The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them an Anemo DMG Bonus.
-
-III. New Domain
-
-<p style="white-space: pre-wrap;">◇ This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost.
-
-◇ Unlock Criteria:
-
-• Reach Adventure Rank 22 or above
-
-• Or complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-◆ Challenge the Domain to obtain artifacts in the "Desert Pavilion Chronicle" and "Flower of Paradise Lost" sets.
-
-IV. New Equipment
-
-1. New Weapons
-
-<p style="white-space: pre-wrap;">Normal Attack SPD is increased by 10%. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by 4.8% every second for 14s. After this character hits an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by 9.6%. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is 48%. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.
-
-◆ During the event wish "Epitome Invocation," the event-exclusive 5-star weapon Tulaytullah's Remembrance (Catalyst) will receive a huge drop-rate boost!
-
-<p style="white-space: pre-wrap;">After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is taken out during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 16% more DMG to the opponent affected by Cursed Parasol.
-
-◆ Toukabou Shigure (Sword) and its refinement materials can be redeemed in the event "Akitsu Kimodameshi."
-
-2. New Artifacts
-
-<p style="white-space: pre-wrap;">◇ 2-Piece Set: Increased Anemo DMG Bonus.
-
-◇ 4-Piece Set: When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.
-
-<p style="white-space: pre-wrap;">◇ 2-Piece Set: Increased Elemental Mastery.
-
-◇4-Piece Set: The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.
-
-V. New Main Story
-
-1. New Archon Quest
-
-<p style="white-space: pre-wrap;">◆ Quest Unlock Criteria
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
-
-• Complete Kaedehara Kazuha's Story Quest: Acer Palmatum Chapter - Act I "A Strange and Friendless Road"
-
-◇ After the Version 3.3 update, Archon Quest Interlude Chapter: Act III "Inversion of Genesis" will be permanently available.
-
-VI. Other Additions
-
-New Recipes:
-
-○ Sumeru NPC Jahangir: Samosa
-
-○ Wanderer's specialty: "Shimi Chazuke"
-
-○ Faruzan's specialty: Traditionally-Made Charcoal-Baked Ajilenakh Cake
-
-New "Genius Invokation TCG" Achievement category added, new Achievements added to the "Wonders of the World" category.
-
-New Namecards:
-
-"Wanderer: Drifter's Ballad": Reward for reaching Friendship Lv. 10 with the Wanderer
-
-"Faruzan: Sealed Secret": Reward for reaching Friendship Lv. 10 with Faruzan
-
-"Achievement: Invoker": Reward for completing all achievements under "Genius Invokation TCG"
-
-"Travel Notes: Stellar Rivers": Reward obtained via the BP system
-
-Adds some prompts for loading screens.
-
-New Liyue Daily Commission:
-
-Follow-up content of "The Sparrow Studies the Blade" - "The Day the Sword Departs" series
-
-and follow-up content of "Where Is the Unseen Razor?"
-
-Adds a search function for Furnishings: type in keywords to search for Furnishings in the Furnishing Creation interface and Serenitea Pot editing menu.
-
-After Trust Rank reaches Level 10, the purchase limit cap of products in Realm Depot > Furnishings will be raised.
-
-Adds the source of the Furnishing in the item description.
-
-Adds Coral Butterfly to items sold by the Teapot Traveling Salesman.
-
-Stellar Reunion Adjustments:
-
-Interface Optimization: Adds access to Genius Invokation TCG to "Returner's Journey."
-
-Event Adjustment: Updates the completion conditions of certain "Homeward Path" missions.
-
-Adds a new Battle Pass Mission in "Battle Pass > Weekly Missions": Complete Invokation TCG Weekly Guest Challenges 2 times.
-
-After the Version 3.3 update, two new languages will be available for the game client: Italian and Turkish.
-
-Spiral Abyss
-
-Floor 11 Ley Line Disorders changed to:
-
-• All characters in the party gain a 75% Anemo DMG Bonus.
-
-※ After the Spiral Abyss resets on December 16, the "Deepwood Memories" and "Gilded Dreams" Artifact set rewards in "Domain Reliquary: Tier I," and "Domain Reliquary: Tier II" for Floors 9-12 will be replaced with "Desert Pavilion Chronicle" and "Flower of Paradise Lost."
-
-Updates the monster lineup on Floor 11 of the Spiral Abyss.
-
-Updates the monster lineup on Floor 12 of the Spiral Abyss.
-
-Starting from the first time that the Lunar Phase refreshes after updating to Version 3.3, the three Lunar Phases will be as follows:
-
-Phase I:
-
-Terminal Moon
-
-After the active character's Normal, Charged, or Plunging Attack deals DMG to an opponent, the character will gain a 10% corresponding Elemental or Physical DMG Bonus of that attack for 4s. This effect can be triggered once every 1s. Max 6 stacks. It will be removed when the character leaves the field or deals a different type of Elemental or Physical DMG.
-
-Phase II:
-
-Breezecall Moon
-
-After the active character triggers a Swirl reaction, all party members will have their CRIT DMG increased by 20% for 8s. Max 3 stacks. This effect can be triggered once every 1s.
-
-Phase III:
-
-Supreme Moon
-
-When the active character deals consecutive instances of Elemental DMG of the same Elemental Type using Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts to an opponent, they will gain 1 count stack. 1 stack can be gained every 1s. After 5 stacks have been gained, a shockwave will be unleashed at the opponent's position, dealing True DMG and clearing all heretofore accumulated stacks. Should the active character leave the field or deal a different type of Elemental DMG, these stacks will also be cleared. Dealing Physical DMG will not clear the stacks.
-
-*In the content updated in version 3.3, there are text errors for some English voice-over lines.
-
-Akitsu Yuugen should be: Akitsu Yuugei
-
-Akitsu Hazura should be：Akitsu Haneasobi
-
-We seek your kind understanding on this matter.
-
-〓Adjustments & Optimizations〓
-
-● System
-
-Adds the feature of adding 1–3-Star Artifacts at once to the Destruction System.
-
-Adds the function of filtering by Artifact status in Inventory > Artifacts: you can filter by Artifact Lock Status, Level Status, and Equipment Status.
-
-● Audio
-
-Optimizes the sound performance when a character defeats an opponent or inflicts a CRIT Hit.
-
-Optimizes the sound performance of some objects.
-
-Optimizes the English, Korean, and Japanese voice-over for certain characters and quests.
-
-Optimizes the English voice-over related to a certain region's name as well as the English voice-over performances of some NPCs.
-
-Decreases the volume of environmental sound effects under certain circumstances.
-
-● Other
-
-Reduces the difficulty of the Daily Commission "Hey, Come Out!" and adds gameplay tips.
-
-Adjusts the display order of Mora converted from Adventure EXP in the Reward Preview after reaching Adventure Rank 60.
-
-Optimizes the special effects display of the Tranquility Aura from Nilou's Elemental Skill.
-
-Optimizes the special effects performance of Polearm characters' Plunging Attacks.
-
-〓Bug Fixes〓
-
-● Quests
-
-Fixes an issue whereby under certain circumstances, during the Daily Commission "Akademiya Q&A," the corresponding achievement was not unlocked after answering all the questions correctly for the first time. If you are affected by this issue, complete the Daily Commission "Akademiya Q&A" again after the version update to unlock the achievement in question (it is not mandatory to answer all questions correctly this time around).
-
-Fixes an issue whereby the NPC Alhaitham might abnormally disappear after completing the target "Go to Port Ormos" in the Archon Quest "A Toast to Victory."
-
-Adds a sound effect to Nilou's voiced-over internal monologue during the Story Quest "The Reason We Are Gathered Here."
-
-Fixes an issue with a cutscene in the Story Quest: "Astrology and the 50-Year Pact" whereby some Korean voice-over lines could not be played properly.
-
-Fixes an issue with the Archon Quest "A Toast to Victory" whereby some characters' Japanese voice-over lines could not be played properly.
-
-Fixes errors in the description of some Daily Commissions.
-
-● Enemies
-
-Fixes an issue in Co-Op Mode whereby there is a small chance that enemies would enter the parry state abnormally.
-
-Fixes an issue whereby when challenging the boss Signora in Co-Op Mode or matchmaking mode, if Signora entered the Ice Cocoon phase before a Traveler's loadout was complete, the Crimson Lotus Moth that said Traveler used could not take effect normally.
-
-Fixes an issue whereby wn challenging the boss "Shouki no Kami, the Prodigal," there would be a small chance that the character would remain in the high speed state when players use the Four-Leaf Sigil to move quickly at the moment of switching characters.
-
-Fixes an issue with the boss Shouki no Kami, the Prodigal whereby his Setsuna Shoumetsu skill released in the second combat phase would not apply normally under certain circumstances.
-
-Fixes an issue with the boss Shouki no Kami, the Prodigal whereby when he is suppressed while unleashing certain skills in the first combat phase, those skills would still take effect abnormally under certain circumstances.
-
-Fixes an issue whereby constructs still appear abnormally after the boss Shouki no Kami, the Prodigal has been defeated (although these constructs cannot deal DMG).
-
-Fixes an issue whereby when the enemy "Ruin Destroyer" is charging up energy, the Normal Attack of bow characters might not be able to lock on to this enemy.
-
-Fixes an issue whereby some enemies would exit combat when they leave or move too far away.
-
-● Characters
-
-Fixes an issue with Nahida's Talent "Awakening Elucidated" whereby there is a small chance that the Elemental Mastery increase buff of the 4-Piece Artifact set "Gilded Dreams" was not properly included in the effect of the Talent.
-
-Fixes an issue with Tighnari whereby during his Plunging Attack, parts of his ribbons and clothing would flap abnormally.
-
-Fixes an issue whereby when Keqing used Normal Attacks consecutively on enemies affected by the Electro element, her Lv.2 Constellation's effects would be triggered at an abnormal interval.
-
-Fixes an issue whereby when Cyno unleashed his Elemental Burst, the effects on his face were abnormal.
-
-Fixes an issue with Thoma whereby after he casts his Elemental Burst, when an active character triggers Fiery Collapse, there's a discrepancy between its special effects and its actual damage location.
-
-Fixes an issue with Candace whereby when she is frozen after casting her Elemental Skill, the position of her weapon would be displayed abnormally.
-
-Fixes an issue with Nilou whereby part of her skirt appeared to be abnormally blurry.
-
-Fixes an issue that caused some characters to move abnormally in an idle state under certain specific circumstances.
-
-● System
-
-Fixes an issue whereby the character sorting order was in disarray after clearing the Filtering Conditions on the Spiral Abyss character selection page.
-
-● Audio
-
-Fixes an issue whereby some audio effects of the Dusk Birds in Sumeru disappeared abnormally.
-
-Fixes an issue whereby Mona's "When It Snows" voice line could not be triggered correctly.
-
-Fixes an issue with Shikanoin Heizou whereby his Friendship Level and Ascension voice-over would fail to trigger properly.
-
-Fixes an issue whereby the Chinese voice-over did not match the text in some quests.
-
-Fixes an issue of incorrect Chinese and Japanese voice-over for certain opponents.
-
-● Other
-
-Fixes an issue whereby the Ley Line Disorder effect "increases all party members' ATK and DEF by 6%" of Spiral Abyss Floor 6 did not take effect for characters on standby.
-
-Fixes an issue whereby when characters on standby have 5 or more stacks of this effect, they have to cast their Elemental Burst once after they take the field to obtain the "increase character Normal Attack SPD and Movement SPD by an additional 30%" buff.
-
-Fixes an issue with abnormal collision size in some environments.
-
-Fixes an issue whereby Polearms would be abnormally affected by Elements under certain circumstances.
-
-Fixes an issue whereby the Elemental effect icon would appear above the opponents (even though they were not affected by said Element) under certain circumstances.
-
-Fixes an issue whereby there is a probability that the Burgeon reaction would not be properly included in the Elemental Mastery increase buff of the 4-Piece Artifact set "Gilded Dreams."
-
-Fixes some textual errors in 13 languages and optimizes text. "Note: Related in-game functions have not changed." (Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
-
-Text-related fixes and optimizations in English include:
-
-◆ Optimized some lines in Ganyu's Profile.
-
-◆ Optimized some lines in the Open World.
-
-◆ Optimized some lines in Candace's Profile.
-
-◆ Optimized some lines in Kamisato Ayato's Profile.
-
-◆ Optimized some lines in Arataki Itto's Profile.
-
-◆ Optimized instances of the term "the Eremites" for consistency.
-
-◆ Optimized instances of the term "matra" for consistency.
-
-◆ Optimized instances of the term "chilis" for consistency.
-
-◆ Optimized instances of "Quicksand Unagi" to "Quicksand Eel."
-
-◆ Optimized the description for Kaeya's Constellation Lv.2
-
-◆ Optimized the description for Lisa's Constellation Lv.4
-
-◆ Optimized the translation "Increases the number of lightning bolts released by Lightning Rose by 1-3." to "Lightning Rose now unleashes 1-3 lightning bolts when it attacks."
-
-◆ Optimized some of Xinyan's voiced lines.
-
-◆ Optimized some lines in Archon Quests.
-
-◆ Optimized some of Paimon's voiced lines.
-
-◆ Optimized instances of a character's name from "Michihira/Doukei" to "Michihiro."
-
-◆ Optimized instances of a character's designation from "Armory Officer" to "Vice Armory Officer."
-
-*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby the Wanderer is still able to use his Elemental Skill in certain scenarios where the use of skills is not allowed. This will be fixed in a future update. Please stay tuned for an announcement.
-
-Currently, when the character "Hanamizaka Heroics" Arataki Itto (Geo) casts his Elemental Burst again while in his "Raging Oni King" state, there is a small chance that the Elemental Burst will not work properly. This will be fixed in a future update. Please stay tuned for an announcement.
-
-Currently, the Version 3.3 Furnishing Blueprint "Light of the Land of Wisdom" can be abnormally be purchased from the Teapot Spirit, Tubby. In Version 3.4, we will compensate Travelers who have unlocked Gnostic Chorus during Version 3.3's Stellar Rivers event (after the Version 3.3 update – 2023/01/16 03:59:00 (server)) with a new exclusive Furnishing Blueprint "Port Ormos GP Crane III." Please refer to the following pictures for the specific icons and display effects. We apologize for the inconvenience caused.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/12/12/42bf62d18049f808524f9405cf23e3f4_2362829966488905126.png)
-
-*Note: Travelers who have purchased the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby, and used it will not obtain this Furnishing Blueprint again after unlocking Battle Pass: Gnostic Chorus.
-
-There is an issue whereby some Travelers might experience game client crashes when playing Genius Invokation TCG on Huawei devices. Travelers experiencing this issue can go to Settings > About phone > Parameter version, tap on the gear-shaped button in the top-right corner of the page, and enable "Auto-update parameters."
-
-When "Device optimization GT.GENC.1.17.22.101" is indicated on the Settings > About phone > Parameter version page, it means the update is successful.
-
-Travelers can resolve the crashing issue with this update. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
-
-〓2022/12/29 16:05:00 (global) Update Details〓
-
-Fixes an issue whereby under specific circumstances, characters are able to enter certain areas abnormally or leave the scope of the event area by passing through walls in the Windtrace event.
-
-〓2022/12/22 16:20:00 (global) Update Details〓
-
-Fixes an issue whereby there is an Italian localization error in the description for Jean's Level 2 Constellation, "People's Aegis."
-
-Fixes an issue whereby there is a localization error in Traditional Chinese in the description of a BP mission.
-
-Updates resources related to subsequent events.
-
-〓2022/12/15 16:05:00 (global) Update Details〓
-
-Fixes an issue under certain circumstances whereby there is a small chance that after Wanderer casts his Elemental Skill, his Kuugoryuku will be consumed abnormally while sprinting.
-
-Fixes an issue under certain circumstances whereby there is a small chance that after Wanderer casts his Elemental Skill, he will remain in the hovering state abnormally.
-
-Fixes an issue under certain circumstances whereby there is a small chance that after Wanderer casts his Elemental Skill, he will move on the water's surface abnormally.
-
-Fixes an issue in the Violet Court Domain whereby, after picking up Nascent Electro Pearls and hitting enemies with a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, there is a small chance that the Falling Thunder unleashed will not deal Electro DMG.
-
-Fixes an issue under certain circumstances in Genius Invokation TCG whereby after using Collei's Talent Card "Floral Sidewinder," the Talent Card's effects will not activate normally during the current round.
-
-〓2022/12/09 16:05:00 (global) Update Details〓
-
-Fixes an issue whereby there is a localization error in French for the Wanderer's Passive Talent "Gales of Reverie."
-
-〓2022/12/07 18:30:00 (global) Update Details〓
-
-Fixes an issue whereby some Travelers are unable to unlock Gnostic Chorus (this includes directly purchasing Gnostic Chorus or Travel Notes) after purchasing the Furnishing Blueprint "Light of the Land of Wisdom" from the Teapot Spirit, Tubby.
 
 -----
 
