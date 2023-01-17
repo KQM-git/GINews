@@ -1198,62 +1198,6 @@ Let's trade deck building tips, to become the best!
 
 -----
 
-# Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!
-## Event Wish - Reign of Serenity
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/462a3948a313b5dc39f98394201721c1_1961486854737094978.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters ** **(4-Star）**
---- | --- | ---
-2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server) | "Plane of Euthymia"  Raiden Shogun (Electro) | "Thorny Benevolence"  Rosaria (Cryo)
-^ | ^ | "Mujina Ninja"  Sayu (Anemo)
-^ | ^ | "Crowfeather Kaburaya"  Kujou Sara (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Thorny Benevolence" Rosaria (Cryo), "Mujina Ninja" Sayu (Anemo), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!
-## Event Wish - Azure Excursion
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/407335279651b6b3c0a143571c7c85c1_7031753194725970945.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star）**
---- | --- | ---
-2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server) | "Pillar of Fortitude" Kamisato Ayato (Hydro) | "Thorny Benevolence"  Rosaria (Cryo)
-^ | ^ | "Mujina Ninja"  Sayu (Anemo)
-^ | ^ | "Crowfeather Kaburaya"  Kujou Sara (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Pillar of Fortitude" Kamisato Ayato (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Thorny Benevolence" Rosaria (Cryo), "Mujina Ninja" Sayu (Anemo), and "Crowfeather Kaburaya" Kujou Sara (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # HoYoLAB Community "Daily Check-In" Feature
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1271,34 +1215,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and Haran Geppaku Futsu (Sword)！
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/ca62379a11258999282864d194ef6c98_6157571774869601899.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2022/12/27 18:00:00 (server) — 2023/01/17 14:59:59 (server)  | Engulfing Lightning (Polearm)   Haran Geppaku Futsu (Sword) | Akuoumaru (Claymore)
-^ | ^ | Mouun's Moon (Bow)
-^ | ^ | Lion's Roar (Sword)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-
-● During the event, the event-exclusive 5-star weapons Engulfing Lightning (Polearm) and Haran Geppaku Futsu (Sword) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapons Akuoumaru (Claymore) and Mouun's Moon (Bow) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), and Sacrificial Fragments (Catalyst) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Engulfing Lightning (Polearm) or Haran Geppaku Futsu (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
