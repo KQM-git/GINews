@@ -434,6 +434,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby some of Kamisato Ayaka's voicelines would fail to trigger properly after changing into the outfit "Springbloom Missive." This will be fixed in a future update. Please stay tuned for an announcement.
+
 Currently, the Version 3.3 Furnishing Blueprint "Light of the Land of Wisdom" can be abnormally be purchased from the Teapot Spirit, Tubby. We will compensate Travelers who have unlocked Gnostic Chorus during Version 3.3's Stellar Rivers event before 2023/01/20 23:59 with a new exclusive Furnishing Blueprint "Port Ormos GP Crane III." Please refer to the following pictures for the specific icons and display effects. We apologize for the inconvenience caused.
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2023/01/18/42bf62d18049f808524f9405cf23e3f4_5369290759726379032.png)
