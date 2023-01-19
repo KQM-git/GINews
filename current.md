@@ -448,6 +448,32 @@ Fixes an issue whereby some of Kamisato Ayaka's voicelines would fail to trigger
 
 -----
 
+# The Version 3.4 Tools Update is here!
+## The Version 3.4 Tools Update is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/19/492c9d0a26f7367d60cab16daf4c9847_9158344039390809066.jpg)
+
+Dear Travelers,
+
+With the Version 3.4 update, V3.4-related content have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
+
+| Battle Chronicle: Update Details: Added characters Alhaitham and Yaoyao, and the Lantern Rite event "The Exquisite Night Chimes"
+
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+| Enhancement Progression Calculator: Added Alhaitham and Yaoyao
+
+[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+| Card Plaza: Added Heated Battle Mode as well as Klee and Beidou cards
+
+[>> Click to go to Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=card&utm_id=2)
+
+| Lineup Simulator: Support for related lineup queries and posts for the new characters Alhaitham and Yaoyao
+
+[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+-----
+
 # Daily Login Event: "May Fortune Find You"
 ## May Fortune Find You
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3cbfe86ad974a099cd81ce85539d5b5f_5190187013314839124.jpg)
