@@ -448,22 +448,6 @@ Fixes an issue whereby some of Kamisato Ayaka's voicelines would fail to trigger
 
 -----
 
-# Take Part in "Gifts of Encounter" to Win Primogems!
-## Take Part in "Gifts of Encounter" to Win Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
-
-Dear Travelers,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-From January 18 to January 28, if you sign in for 7 days in total, you can obtain an extra Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign-in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
------
-
 # Daily Login Event: "May Fortune Find You"
 ## May Fortune Find You
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3cbfe86ad974a099cd81ce85539d5b5f_5190187013314839124.jpg)
@@ -949,6 +933,22 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/02/27 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# Take Part in "Gifts of Encounter" to Win Primogems!
+## Take Part in "Gifts of Encounter" to Win Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
+
+Dear Travelers,
+
+The HoYoLAB "Gifts of Encounter" community event is now online!
+
+From January 18 to January 28, if you sign in for 7 days in total, you can obtain an extra Primogems ×60!
+
+Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign-in event!
+
+[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
 
 -----
 
