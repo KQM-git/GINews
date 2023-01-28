@@ -962,22 +962,6 @@ Adventure Rank 20 or above
 
 -----
 
-# Take Part in "Gifts of Encounter" to Win Primogems!
-## Take Part in "Gifts of Encounter" to Win Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
-
-Dear Travelers,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-From January 18 to January 28, if you sign in for 7 days in total, you can obtain an extra Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign-in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
------
-
 # "Adventurer's Booster Bundles" - Round 20 Available for a Limited Time
 ## Adventurer's Booster Bundles
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3811758398d014e2c66a0eed26febd92_6655364277084576017.jpg)
@@ -1013,6 +997,26 @@ Duration: After the Version 3.4 update – 2023/02/01 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after the discount is 80 Genesis Crystals. Can be purchased up to 5 times in total.
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
