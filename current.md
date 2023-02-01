@@ -434,6 +434,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+There is an issue whereby there is a localization error in Japanese for the Combat Status "Sparks 'n' Splash" created by the "Klee" Character Card. This issue will be fixed in a future version. Please stay tuned for future notices.
+
 There is an issue whereby there is a chance that the camera distance would become abnormal after some characters move swiftly or cast their Elemental Burst. This issue will be fixed in a future update. Please stay tuned for future notices. After the fix, the camera performance will be consistent with previous versions.
 
 There is an issue whereby the voice line for Alhaitham's Profile > Voice-Over "Opening Treasure Chest: III" cannot be displayed normally. This issue will be fixed in a future version.
