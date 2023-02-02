@@ -488,34 +488,6 @@ Unlock all the scrolls and complete the collage challenge, decorate the stage, a
 
 -----
 
-# Daily Login Event: "May Fortune Find You"
-## May Fortune Find You
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3cbfe86ad974a099cd81ce85539d5b5f_5190187013314839124.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2023/01/19 04:00:00 (server) – 2023/02/03 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
 # "Iridescent Splendor" - Lantern Rite Gifts
 ## Iridescent Splendor
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/12a987f966e07887642c02b1ae79ce6d_1748809555316057580.jpg)
