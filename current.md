@@ -1,19 +1,3 @@
-# Version 3.4 "The Exquisite Night Chimes" New Content Overview
-## Version 3.4 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/17e5698ac163de6f9debd6965d56bf0f_4526953360074315255.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/23ecc8238122e6a367aee666b819bf5f_6062416225789665321.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/482f825195b4b59f64e88c7d8a5e7950_7938952804635116822.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/a47f3aec407850834839d562aae40c03_6570638093321441290.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/01/11/de86e107a31091f51d324426176f4a8a_6317240815777799455.jpg)
-
------
-
 # "The Exquisite Night Chimes" Version 3.4 Update Details
 ## Version 3.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/11/392cdd263c2f847bc8f05469abe84989_1743011520985675119.jpg)
