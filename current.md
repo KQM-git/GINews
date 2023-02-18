@@ -1,17 +1,3 @@
-# The Version 3.5 "Windblume's Breath" Preview page is here!
-## Genshin Impact Version 3.5 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/17/2532a94765c17d1067653a61acdc2905_5171630173462923907.jpg)
-
-Dear Travelers,
-
-The Version 3.5 "Windblume's Breath" Preview page is here!
-
-[>>Go to V3.5 "Windblume's Breath" Preview Page<](https://act.hoyoverse.com/ys/event/e20230218preview-z6n9lj/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230218warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # "The Exquisite Night Chimes" Version 3.4 Update Details
 ## Version 3.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/11/392cdd263c2f847bc8f05469abe84989_1743011520985675119.jpg)
@@ -457,6 +443,20 @@ Fixes an issue whereby there is a chance that the camera distance would become a
 〓2023/01/18 23:10:00 (global) Update Details〓
 
 Fixes an issue whereby some of Kamisato Ayaka's voicelines would fail to trigger properly after changing into the outfit "Springbloom Missive."
+
+-----
+
+# The Version 3.5 "Windblume's Breath" Preview page is here!
+## Genshin Impact Version 3.5 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/17/2532a94765c17d1067653a61acdc2905_5171630173462923907.jpg)
+
+Dear Travelers,
+
+The Version 3.5 "Windblume's Breath" Preview page is here!
+
+[>>Go to V3.5 "Windblume's Breath" Preview Page<](https://act.hoyoverse.com/ys/event/e20230218preview-z6n9lj/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230218warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
