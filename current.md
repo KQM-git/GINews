@@ -508,36 +508,6 @@ Feb 9 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Mora ×50,000 |
 
 -----
 
-# "Warrior's Spirit" Event: Sword Duel Challenge
-## Warrior's Spirit
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/d325c99e3522d1ee6c401f502645fcc5_1937212433213822365.jpg)
-
-**〓Event Duration〓**
-
-2023/02/09 10:00:00 (server) – 2023/02/20 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/c0f9df257b34ab871ef9952adbaeb49a_590120406796252104.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "Ritou Escape Plan"
-
-※ Complete Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act II" first to get the best experience from this event.
-
-※ If you have not completed Raiden Shogun's Story Quest: "Imperatrix Umbrosa Chapter: Act II" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● From the first day of the event, a new duel will unlock every day. A total of six duels will be unlocked.
-
-● There are 3 levels of difficulty in each duel: Normal, Hard, and Pro. Pro mode can only be unlocked after successfully challenging Hard mode.
-
-● You will be unable to use Elemental Skills or Bursts during these duels, but you will obtain new abilities: a Parry and Honed Techniques.
-
------
-
 # "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl" Event: Complete the Beetle Battle Challenge and Win Primogems
 ## Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3335405ce66b27452067586ed3f001d1_5706131613315360848.jpg)
