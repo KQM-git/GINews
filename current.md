@@ -494,56 +494,6 @@ Feb 9 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Mora ×50,000 |
 
 -----
 
-# "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl" Event: Complete the Beetle Battle Challenge and Win Primogems
-## Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/3335405ce66b27452067586ed3f001d1_5706131613315360848.jpg)
-
-**〓Event Duration〓**
-
-2023/02/16 10:00:00 (server) – 2023/02/27 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2022/12/21/087ef7b4ef293b3e043595e9413c14d6_791498041990303641.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "Ritou Escape Plan"
-
-※ Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
-
-※ If you have not completed the Archon Quest "Perilous Trail" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● From the first day of the event, a new beetle battle challenge will unlock every day. A total of five challenges will be unlocked.
-
-● There are 3 levels of difficulty in each beetle battle challenge: Friendly Spar, Honed Will, and Fanatic Passion. After the challenge begins, Friendly Spar and Honed Will difficulties will be unlocked. Fanatic Passion can only be unlocked after successfully challenging Honed Will.
-
-● Take on your opponents and achieve corresponding criteria to claim rewards in the event page. By completing challenges on a higher difficulty setting, you can directly claim rewards at lower difficulties as well.
-
------
-
-# "Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/713e290d673605bb82d2832ae54d75fd_9072633624639013815.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-**〓Event Duration〓**
-
-2023/02/20 04:00:00 (server) – 2023/02/27 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains such as "Forsaken Rift," "Taishan Mansion," "Violet Court," and "Steeple of Ignorance" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!
 ## Event Wish - Moment of Bloom
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/65a4060f35dc162881a0f2eeb4627d05_8707279051059778036.jpg)
@@ -625,52 +575,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Kamisato Ayaka's Outfit "Springbloom Missive" Available at a Limited-Time Discount
-## Springbloom Missive
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/8a1ff29bacc888e95deee3259b547eda_6213328972321916089.jpg)
-
-Kamisato Ayaka's outfit "Springbloom Missive" is available at a limited-time discount in the Shop!
-
-**〓Discount Period〓**
-
-After the Version 3.4 update – 2023/02/27 03:59:59 (server)
-
-**〓Outfit Details〓**
-
-● Kamisato Ayaka's outfit "Springbloom Missive" will be permanently available in the Shop after the Version 3.4 update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Kamisato Ayaka can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
-# "Rhythm and Rhyme" Event Details
-## Rhythm and Rhyme
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/4ebffe1dc95b3b5ddcaad6eb7f7406b6_1725895626990996527.jpg)
-
-Travelers can earn rich rewards in Battle Pass during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Rhyme" and Furnishing Blueprint "Countless Homes Light Up the Moon."
-
-**〓Event Duration〓**
-
-After the Version 3.4 update – 2023/02/27 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/02/27 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
