@@ -116,6 +116,32 @@ Adjusts the "Gadgets" obtained through the Crafting Bench to "Consumables."
 
 -----
 
+# New Story Unlocked - Archon Quest Chapter III: Act VI "Caribert"
+## New Story Unlocked - Archon Quest Chapter III: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/24/efa6950633872e2530842cd439a51172_1227560140219847163.png)
+
+This world is filled with those who would oppose fate, while the one who understands fate smiles faintly down upon them.
+
+If the one who weaves fate may be born here, then let the one who witnesses fate see it all.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act VI "Caribert" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will be permanently available.
+
+〓Archon Quest Chapter III: Act VI "Caribert" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # Pre-Installation Function Now Available
 ## Pre-Installation Function Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/02/aef7a687630660f07809864c056ff26f_670694818114558604.jpg)
@@ -157,6 +183,188 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://sdk.hoyoverse.com/upload/ann/2022/11/24/6111e77fd13698afe9d71a0badad58eb_2455943146733296667.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# Event Wish "Auric Blaze" - Boosted Drop Rate for "Flame-Mane" Dehya (Pyro)!
+## Event Wish - Auric Blaze
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/bd9bdbf1bda289b26ae5f590114adfe8_4708937984605018046.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.5 update –  2023/03/21 17:59:00 (server) | "Flame-Mane" Dehya (Pyro) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Sprout of Rebirth" Collei (Dendro)
+
+● During this event wish, the 5-star character "Flame-Mane" Dehya (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Shining Idol" Barbara (Hydro), and "Sprout of Rebirth" Collei (Dendro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 5-star character "Flame-Mane" Dehya (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Twilight Arbiter" - Boosted Drop Rate for "Judicator of Secrets" Cyno (Electro)!
+## Event Wish - Twilight Arbiter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/afe4d4e3453735547f1bb716e6c8572f_6343048692473570271.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.5 update — 2023/03/21 17:59:00 (server) | "Judicator of Secrets" Cyno (Electro) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Sprout of Rebirth" Collei (Dendro)
+
+● During this event wish, the event-exclusive 5-star character "Judicator of Secrets" Cyno (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Shining Idol" Barbara (Hydro), and "Sprout of Rebirth" Collei (Dendro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rates for Beacon of the Reed Sea (Claymore) and Staff of the Scarlet Sands (Polearm)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/641707d64f03d35d393f721857126ad8_8804776991624113037.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 3.5 update — 2023/03/21 17:59:00 (server) | Beacon of the Reed Sea (Claymore)   Staff of the Scarlet Sands (Polearm) | The Alley Flash (Sword)
+^ | ^ | Alley Hunter (Bow)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Beacon of the Reed Sea (Claymore) and Staff of the Scarlet Sands (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons The Alley Flash (Sword) and Alley Hunter (Bow) as well as 4-star weapons Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), and Eye of Perception (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Beacon of the Reed Sea (Claymore) or Staff of the Scarlet Sands (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Mantichora Chapter" Story Quest Overview
+## Mantichora Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/5c929eefeb800abfd047e76c921ee535_6589171847117388445.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Dehya's Story Quest "Mantichora Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.5 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+And complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+-----
+
+# "Hangout Events: Series VIII" - Story Quest Overview
+## Hangout Events: Series VIII
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/3ddd6dd6f18cee636c7869886af13d97_562942975429903094.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock the Hangout Event for Faruzan.
+
+The Hangout Events feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight Daily Commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.5 update
+
+**〓Series VIII Unlock Criteria〓**
+
+Hangout Event: Faruzan – Act I:
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+And complete Tighnari's Story Quest "Vulpes Zerda Chapter: Act I - The Unanswerable Problems"
+
+-----
+
+# "Artful Intent" Event Details
+## Artful Intent
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/11a37e226a258d47699a20f7dde05925_732372849726679448.jpg)
+
+Travelers can earn rich rewards in "Artful Intent" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Artful Intent" and Furnishing Blueprint "Singing in the Tranquil Court."
+
+**〓Event Duration〓**
+
+After the Version 3.5 update – 2023/04/10 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/04/10 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 21 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/e7abe918cf61481741b694b267b8d168_4961727124935756680.jpg)
+
+Round 21 of Adventurer's Booster Bundles are available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.5 update – 2023/03/15 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Ascension Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.5 update – 2023/03/15 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
