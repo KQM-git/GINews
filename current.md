@@ -226,34 +226,6 @@ Permanent
 
 -----
 
-# "Iridescent Splendor" - Lantern Rite Gifts
-## Iridescent Splendor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/12a987f966e07887642c02b1ae79ce6d_1748809555316057580.jpg)
-
-During the event, log in to the game to receive Intertwined Fates, Fragile Resin, and other rewards!
-
-Each email can be collected until the end of the event.
-
-**〓Event Duration〓**
-
-2023/02/05 00:00:00 (server) until the end of Version 3.4
-
-**〓Eligibility〓**
-
-Adventure Rank 2 or above
-
-**〓Event Details〓**
-
-**Login Date** | **Reward 1** | **Reward 2** | **Reward 3** | **Reward 4**
---- | --- | --- | --- | ---
-Feb 5 | Intertwined Fate ×1 | Bountiful Year ×5 | Universal Peace ×5 | Mora ×50,000
-Feb 6 | Fragile Resin ×1 | Tianshu Meat ×5 | Hero's Wit ×5 | 
-Feb 7 | Intertwined Fate ×1 | Guide to Diligence ×3 | Mystic Enhancement Ore ×10 | 
-Feb 8 | Fragile Resin ×1 | Guide to Gold ×3 | Sanctifying Unction ×6 | 
-Feb 9 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Mora ×50,000 |
-
------
-
 # Game Survey
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
