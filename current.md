@@ -370,6 +370,20 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓2023/03/01 14:15:00 (global) Update Details〓
+
+Removed the Wildlife placed abnormally in the special story mode of Archon Quest "Caribert."
+
+-----
+
 # New Story Unlocked - Archon Quest Chapter III: Act VI "Caribert"
 ## New Story Unlocked - Archon Quest Chapter III: Act VI
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/24/efa6950633872e2530842cd439a51172_1227560140219847163.png)
