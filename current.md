@@ -1,3 +1,11 @@
+# Version 3.5 "Windblume's Breath" New Content Overview
+## Version 3.5 New Content Overview
+
+
+〓Adjustments & Optimizations〓
+
+-----
+
 # "Windblume's Breath" Version 3.5 Update Details
 ## "Windblume's Breath" Version 3.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/2a346011875c85ab4eed2bc41015df44_950604808324089057.png)
@@ -379,14 +387,6 @@ After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will b
 • Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# Version 3.5 "Windblume's Breath" New Content Overview
-## Version 3.5 New Content Overview
-
-
-〓Adjustments & Optimizations〓
 
 -----
 
