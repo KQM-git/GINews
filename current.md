@@ -24,6 +24,14 @@ After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will b
 
 -----
 
+# Version 3.5 "Windblume's Breath" New Content Overview
+## Version 3.5 New Content Overview
+
+
+〓Adjustments & Optimizations〓
+
+-----
+
 # Event Wish "Auric Blaze" - Boosted Drop Rate for "Flame-Mane" Dehya (Pyro)!
 ## Event Wish - Auric Blaze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/bd9bdbf1bda289b26ae5f590114adfe8_4708937984605018046.jpg)
