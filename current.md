@@ -414,6 +414,28 @@ After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will b
 
 -----
 
+# The Version 3.5 Tools Update is here!
+## The Version 3.5 Tools Update is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/8e425a0ba06727a3a152da19c5bada0f_4501103460438624373.png)
+
+Dear Travelers,
+
+With the Version 3.5 update, V3.5-related content have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
+
+｜  Battle Chronicle Update Details: Added characters Dehya and Mika, and the Windblume Festival event
+
+[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+|  Enhancement Progression Calculator: Added characters Dehya and Mika
+
+[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+|  Lineup Simulator: Support for related lineup queries and posts for the new characters Dehya and Mika
+
+[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+-----
+
 # "Windblume's Breath" Event: Take Part and Obtain the Event-Exclusive Weapon, Mailed Flower (Claymore)
 ## Windblume's Breath
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/c0af6ed3f10dc856b900852a3a250633_1540572240155895321.jpg)
