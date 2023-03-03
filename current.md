@@ -463,6 +463,54 @@ Event Shop Duration | Event Shop Duration | 2023/03/03 10:00:00 (server) | 2023/
 
 -----
 
+# The "Ballads of Breeze" Interaction Platform is available for a limited time! Discuss and share beautiful music with other Travelers on this platform!
+## The "Ballads of Breeze" Interaction Platform is available for a limited time! Discuss and share beautiful music with other Travelers on this platform!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/baa9d4adb2f8077bfbb91b1165823a74_2063856798777426093.jpg)
+
+Welcome to the Windblume Festival, Travelers. There's a little game going on in Mondstadt called "Ballads of Breeze." Taking part in this game will allow you to compose and play some lovely tunes, just like the bards of Mondstadt...
+
+Meanwhile, the "Ballads of Breeze" Interaction Platform is available for a limited time. You can customize and share information about your own in-game arrangements, view other Travelers' pieces, and upload your own performance challenges!
+
+Come and play your own tunes in the Mondstadt breeze!
+
+[>>Enter Event Page<<](https://act.hoyoverse.com/ys/event/ys-ugc-music/index.html?game_biz=hk4e_global&act_id=e202301114735&sign_type=2&auth_appid=ugc_commom_global&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2023/03/03 – 2023/03/20 03:59:59 (global)
+
+After the end of the event, you can continue to visit and view the works on the page, but you cannot manage submissions (i.e.: submit or remove works), upload challenge videos, or like and favorite works. Please participate in the event while it is available!
+
+〓Event Description〓
+
+During the event, after releasing a piece for the "Ballads of Breeze" event in-game, you can go to the "Ballads of Breeze" Interaction Platform to contribute supplementary information to introduce your own pieces. You can also browse other Travelers' pieces in the page, copy share codes to play in-game, like and favorite your favorite pieces, etc. In addition, you can upload videos of yourselves performing other pieces.
+
+Each Traveler who has successfully submitted their work to the Interaction Platform and got their submissions (including original arrangement submission and challenge video submission) approved can receive Mora ×50,000 as a reward. For each Traveler, this reward is only available once and not stackable. This reward will be distributed via in-game mail within 10 business days after the event has ended.
+
+〓Submission of Pieces〓
+
+You can publish on the platform the arrangements you have successfully created in-game, upload videos and images, and edit the titles, descriptions, and labels of your submission to introduce your works. Once your entry is posted and approved, it can be searched for and viewed by other Travelers.
+
+〓Challenge Videos〓
+
+During the event, post the challenge videos of the approved arrangements on the platform. You cannot submit the same arrangement for multiple challenge videos.
+
+〓My Favorites〓
+
+You can add works you are interested in to your favorites on the "Ballads of Breeze" Interaction Platform. A maximum of 99 works can be favorited.
+
+〓Other Details〓
+
+1. The publishing of content that violates laws, regulations, or community rules is prohibited. By participating in this event, you agree to have your in-game avatar, character nickname, and UID displayed on the work published on the event platform.
+
+2. Plagiarism, misappropriation, and other actions that violate others' copyright are strictly prohibited. If there is a quote or a need for authorization, please cite the original sources and make sure to obtain authorization.
+
+*More details about the rules of the event can be found on the event rules on the event page.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # Event Wish "Auric Blaze" - Boosted Drop Rate for "Flame-Mane" Dehya (Pyro)!
 ## Event Wish - Auric Blaze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/bd9bdbf1bda289b26ae5f590114adfe8_4708937984605018046.jpg)
@@ -615,6 +663,26 @@ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "Adventurer's Booster Bundles" - Round 21 Available for a Limited Time
 ## Adventurer's Booster Bundles
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/e7abe918cf61481741b694b267b8d168_4961727124935756680.jpg)
@@ -642,26 +710,6 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
