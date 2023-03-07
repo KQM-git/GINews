@@ -388,32 +388,6 @@ Removed the Wildlife placed abnormally in the special story mode of Archon Quest
 
 -----
 
-# New Story Unlocked - Archon Quest Chapter III: Act VI "Caribert"
-## New Story Unlocked - Archon Quest Chapter III: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/24/efa6950633872e2530842cd439a51172_1227560140219847163.png)
-
-This world is filled with those who would oppose fate, while the one who understands fate smiles faintly down upon them.
-
-If the one who weaves fate may be born here, then let the one who witnesses fate see it all.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act VI "Caribert" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will be permanently available.
-
-〓Archon Quest Chapter III: Act VI "Caribert" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # The Version 3.5 Tools Update is here!
 ## The Version 3.5 Tools Update is here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/8e425a0ba06727a3a152da19c5bada0f_4501103460438624373.png)
@@ -530,6 +504,26 @@ You can add works you are interested in to your favorites on the "Ballads of Bre
 *More details about the rules of the event can be found on the event rules on the event page.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
@@ -685,26 +679,6 @@ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # "Adventurer's Booster Bundles" - Round 21 Available for a Limited Time
 ## Adventurer's Booster Bundles
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/e7abe918cf61481741b694b267b8d168_4961727124935756680.jpg)
@@ -732,6 +706,32 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after the discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# New Story Unlocked - Archon Quest Chapter III: Act VI "Caribert"
+## New Story Unlocked - Archon Quest Chapter III: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/24/efa6950633872e2530842cd439a51172_1227560140219847163.png)
+
+This world is filled with those who would oppose fate, while the one who understands fate smiles faintly down upon them.
+
+If the one who weaves fate may be born here, then let the one who witnesses fate see it all.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act VI "Caribert" will appear in the Quest Menu.
+
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will be permanently available.
+
+〓Archon Quest Chapter III: Act VI "Caribert" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
