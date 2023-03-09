@@ -1,3 +1,33 @@
+# "Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/5e8d170f233e9b78b47024fef2fef5bf_7310624842333266221.jpg)
+
+**〓Event Duration〓**
+
+2023/03/11 10:00:00 (server) – 2023/03/20 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/7bdd2cf6b6e97e3136e34f1a5c2ad629_1048696695997731576.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● The special rule for this edition is: The first Action Card played each Round will cost 2 fewer dice. The first Skill or Equipped Talent for every character each Round will cost 1 fewer die.
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # Version 3.5 "Windblume's Breath" New Content Overview
 ## Version 3.5 New Content Overview
 
