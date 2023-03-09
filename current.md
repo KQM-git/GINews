@@ -408,6 +408,20 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓2023/03/09 16:15:00 (global) Update Details〓
+
+Fixes an issue whereby under certain circumstances, the red notification point did not appear on the "Adventurer Handbook: Guide" page when there were rewards yet to claim.
+
+Fixes an issue whereby under certain circumstances, the selection status of the identical weapon would display abnormally when refining that weapon.
+
+Fixes an issue whereby under certain circumstances, the custom key bindings would not take effect when playing Ballads of Breeze with a controller.
+
+Fixes an issue whereby there was a text error in Simplified Chinese and Traditional Chinese for the "Mantichora Chapter" on the Events Overview interface.
+
+Fixes an issue with the description text of "Joy Above the Clouds" on the "Windblume Encounters" interface in the "Windblume's Breath" event in Simplified Chinese, Traditional Chinese, Japanese, English, Spanish, French, Indonesian, Portuguese, Korean, Russian, Turkish, and Italian.
+
+Fixes an issue on mobile whereby the color of Dehya's eyes in her character illustration appeared abnormally in interfaces including the Character Event Wish "Auric Blaze," the "Test Run" trial event, and the Character Archive.
+
 〓2023/03/01 17:30:00 (global) Update Details〓
 
 Adjusted the refresh logic of NPCs in the Daily Commission "Cliffhanger": the NPCs Gentry Maocai, Jiangzhou, and Fan Er'ye will now appear at the same time.
