@@ -1,3 +1,35 @@
+# "Vibro-Crystal Verification" Event: Vibro-Crystals Connection Challenge
+## Vibro-Crystal Verification
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/7d96fbf3c2c5428bcd64c67aebc0c124_406131502848578371.jpg)
+
+**〓Event Duration〓**
+
+2023/03/14 10:00:00 (server) – 2023/03/27 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/1a66f67f5003a0ac5d19ca3334cbb9ba_8274135962432047043.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+And complete the Archon Quest "Rite of Parting."
+
+**〓Event Details〓**
+
+● During the first 6 days of the event, one new challenge will be unlocked each day.
+
+● During the "Vibro-Crystal Verification" event, you must split your characters into 2 parties for the challenge. Before you start combat, you may equip each party with a Vibro-Crystal Harmonics Schema. Combine Transmitter Crystals and Receiver Crystals to obtain different combat buffs.
+
+● Each Transmitter Crystal can only project its radiation upon one Receiver Crystal, but each Receiver can receive transmissions from 3 Transmitters. Using different Transmitter Crystals to trigger Receivers will increase their effects.
+
+● During this challenge, you must defeat opponents that constantly emerge to obtain points within the allotted time. Of those opponents, Nemeses will provide more points. Once the challenge ends, you will gain different insignias based on the number of points you gained.
+
+※ Elemental Resonances will take effect in the "Vibro-Crystal Verification" challenges, but you will not be able to use food or other items.
+
+-----
+
 # "Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice
 ## Genius Invokation TCG
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/5e8d170f233e9b78b47024fef2fef5bf_7310624842333266221.jpg)
