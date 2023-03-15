@@ -60,6 +60,55 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
+# "Windblume's Breath" Event: Take Part and Obtain the Event-Exclusive Weapon, Mailed Flower (Claymore)
+## Windblume's Breath
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/c0af6ed3f10dc856b900852a3a250633_1540572240155895321.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2023/03/03 10:00:00 (server) – 2023/03/20 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/d55d3750175312b2f275fa148f57229b_1023016562952467547.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 18 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" first to get the best experience from this event.
+
+※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Gameplay Duration | Act I | 2023/03/03 10:00:00 (server) | 2023/03/20 03:59:59 (server)
+^ | Act II | 2023/03/05 04:00:00 (server) | ^
+^ | Act III | 2023/03/07 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2023/03/03 10:00:00 (server) | 2023/03/27 03:59:59 (server)
+
+**〓Event Details〓**
+
+● During the event, three types of gameplay will unlock in sequence: Ballads of Breeze, Floral Pursuit, and Breezy Snapshots.
+
+● In the "Ballads of Breeze" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
+
+● In the "Floral Pursuit" gameplay, Travelers can experience Floral Chess, a new game created by the Mondstadt Adventurers' Guild. Travelers have to constantly collect Bloom Balloons to increase your score in the stage and complete the corresponding challenge. You can obtain the event-exclusive weapon "Mailed Flower" (Claymore) upon completing the challenges.
+
+● In the "Breezy Snapshots" gameplay, Travelers will help Fassben the Adventurer make a photobook by taking photos across Mondstadt.
+
+● In the "Ballads of Breeze" gameplay, Travelers can also compose their own songs, and after completing the arrangement, they can go to "Songs Exchange" to share their own pieces, or obtain share codes of other excellent works.
+
+● Complete these phases to obtain Floral Coupons and Festive Tickets to exchange for rewards such as Crown of Insight and the event-exclusive Weapon Refinement Material from the Event Shop.
+
+● After the event gameplay period ends, Floral Coupons and Festive Tickets will disappear. Please make sure to claim the rewards in time.
+
+-----
+
 # Version 3.5 "Windblume's Breath" New Content Overview
 ## Version 3.5 New Content Overview
 
@@ -531,55 +580,6 @@ With the Version 3.5 update, V3.5-related content have also been added to HoYoLA
 |  Lineup Simulator: Support for related lineup queries and posts for the new characters Dehya and Mika
 
 [>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
-
------
-
-# "Windblume's Breath" Event: Take Part and Obtain the Event-Exclusive Weapon, Mailed Flower (Claymore)
-## Windblume's Breath
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/c0af6ed3f10dc856b900852a3a250633_1540572240155895321.jpg)
-
-**〓Event Gameplay Duration〓**
-
-2023/03/03 10:00:00 (server) – 2023/03/20 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/d55d3750175312b2f275fa148f57229b_1023016562952467547.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 18 or above
-
-Complete the Archon Quest "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" first to get the best experience from this event.
-
-※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Gameplay Duration | Act I | 2023/03/03 10:00:00 (server) | 2023/03/20 03:59:59 (server)
-^ | Act II | 2023/03/05 04:00:00 (server) | ^
-^ | Act III | 2023/03/07 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/03/03 10:00:00 (server) | 2023/03/27 03:59:59 (server)
-
-**〓Event Details〓**
-
-● During the event, three types of gameplay will unlock in sequence: Ballads of Breeze, Floral Pursuit, and Breezy Snapshots.
-
-● In the "Ballads of Breeze" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
-
-● In the "Floral Pursuit" gameplay, Travelers can experience Floral Chess, a new game created by the Mondstadt Adventurers' Guild. Travelers have to constantly collect Bloom Balloons to increase your score in the stage and complete the corresponding challenge. You can obtain the event-exclusive weapon "Mailed Flower" (Claymore) upon completing the challenges.
-
-● In the "Breezy Snapshots" gameplay, Travelers will help Fassben the Adventurer make a photobook by taking photos across Mondstadt.
-
-● In the "Ballads of Breeze" gameplay, Travelers can also compose their own songs, and after completing the arrangement, they can go to "Songs Exchange" to share their own pieces, or obtain share codes of other excellent works.
-
-● Complete these phases to obtain Floral Coupons and Festive Tickets to exchange for rewards such as Crown of Insight and the event-exclusive Weapon Refinement Material from the Event Shop.
-
-● After the event gameplay period ends, Floral Coupons and Festive Tickets will disappear. Please make sure to claim the rewards in time.
 
 -----
 
