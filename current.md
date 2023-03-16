@@ -541,6 +541,44 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓2023/3/16  16:10:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+Fixes an issue whereby the Abyss Herald: Frost Fall's Cryo Shield elemental application status would display abnormally, and it would be impossible to trigger a Shatter reaction.
+
+〓2023/03/09 16:15:00 (global) Update Details〓
+
+Fixes an issue whereby under certain circumstances, the red notification point did not appear on the "Adventurer Handbook: Guide" page when there were rewards yet to claim.
+
+Fixes an issue whereby under certain circumstances, the selection status of the identical weapon would display abnormally when refining that weapon.
+
+Fixes an issue whereby under certain circumstances, the custom key bindings would not take effect when playing Ballads of Breeze with a controller.
+
+Fixes an issue whereby there was a text error in Simplified Chinese and Traditional Chinese for the "Mantichora Chapter" on the Events Overview interface.
+
+Fixes an issue with the description text of "Joy Above the Clouds" on the "Windblume Encounters" interface in the "Windblume's Breath" event in Simplified Chinese, Traditional Chinese, Japanese, English, Spanish, French, Indonesian, Portuguese, Korean, Russian, Turkish, and Italian.
+
+Fixes an issue on mobile whereby the color of Dehya's eyes in her character illustration appeared abnormally in interfaces including the Character Event Wish "Auric Blaze," the "Test Run" trial event, and the Character Archive.
+
+〓2023/03/01 17:30:00 (global) Update Details〓
+
+Adjusted the refresh logic of NPCs in the Daily Commission "Cliffhanger": the NPCs Gentry Maocai, Jiangzhou, and Fan Er'ye will now appear at the same time.
+
+〓2023/03/01 14:15:00 (global) Update Details〓
+
+Removed the Wildlife placed abnormally in the special story mode of Archon Quest "Caribert."
+
+-----
+
 # The "Ballads of Breeze" Interaction Platform is available for a limited time! Discuss and share beautiful music with other Travelers on this platform!
 ## The "Ballads of Breeze" Interaction Platform is available for a limited time! Discuss and share beautiful music with other Travelers on this platform!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/baa9d4adb2f8077bfbb91b1165823a74_2063856798777426093.jpg)
