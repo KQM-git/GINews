@@ -30,36 +30,6 @@ And complete the Archon Quest "Rite of Parting."
 
 -----
 
-# "Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice
-## Genius Invokation TCG
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/5e8d170f233e9b78b47024fef2fef5bf_7310624842333266221.jpg)
-
-**〓Event Duration〓**
-
-2023/03/11 10:00:00 (server) – 2023/03/20 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/7bdd2cf6b6e97e3136e34f1a5c2ad629_1048696695997731576.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● The special rule for this edition is: The first Action Card played each Round will cost 2 fewer dice. The first Skill or Equipped Talent for every character each Round will cost 1 fewer die.
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # "Windblume's Breath" Event: Take Part and Obtain the Event-Exclusive Weapon, Mailed Flower (Claymore)
 ## Windblume's Breath
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/c0af6ed3f10dc856b900852a3a250633_1540572240155895321.jpg)
@@ -576,54 +546,6 @@ Adjusted the refresh logic of NPCs in the Daily Commission "Cliffhanger": the NP
 〓2023/03/01 14:15:00 (global) Update Details〓
 
 Removed the Wildlife placed abnormally in the special story mode of Archon Quest "Caribert."
-
------
-
-# The "Ballads of Breeze" Interaction Platform is available for a limited time! Discuss and share beautiful music with other Travelers on this platform!
-## The "Ballads of Breeze" Interaction Platform is available for a limited time! Discuss and share beautiful music with other Travelers on this platform!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/baa9d4adb2f8077bfbb91b1165823a74_2063856798777426093.jpg)
-
-Welcome to the Windblume Festival, Travelers. There's a little game going on in Mondstadt called "Ballads of Breeze." Taking part in this game will allow you to compose and play some lovely tunes, just like the bards of Mondstadt...
-
-Meanwhile, the "Ballads of Breeze" Interaction Platform is available for a limited time. You can customize and share information about your own in-game arrangements, view other Travelers' pieces, and upload your own performance challenges!
-
-Come and play your own tunes in the Mondstadt breeze!
-
-[>>Enter Event Page<<](https://act.hoyoverse.com/ys/event/ys-ugc-music/index.html?game_biz=hk4e_global&act_id=e202301114735&sign_type=2&auth_appid=ugc_commom_global&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2023/03/03 – 2023/03/20 03:59:59 (global)
-
-After the end of the event, you can continue to visit and view the works on the page, but you cannot manage submissions (i.e.: submit or remove works), upload challenge videos, or like and favorite works. Please participate in the event while it is available!
-
-〓Event Description〓
-
-During the event, after releasing a piece for the "Ballads of Breeze" event in-game, you can go to the "Ballads of Breeze" Interaction Platform to contribute supplementary information to introduce your own pieces. You can also browse other Travelers' pieces in the page, copy share codes to play in-game, like and favorite your favorite pieces, etc. In addition, you can upload videos of yourselves performing other pieces.
-
-Each Traveler who has successfully submitted their work to the Interaction Platform and got their submissions (including original arrangement submission and challenge video submission) approved can receive Mora ×50,000 as a reward. For each Traveler, this reward is only available once and not stackable. This reward will be distributed via in-game mail within 10 business days after the event has ended.
-
-〓Submission of Pieces〓
-
-You can publish on the platform the arrangements you have successfully created in-game, upload videos and images, and edit the titles, descriptions, and labels of your submission to introduce your works. Once your entry is posted and approved, it can be searched for and viewed by other Travelers.
-
-〓Challenge Videos〓
-
-During the event, post the challenge videos of the approved arrangements on the platform. You cannot submit the same arrangement for multiple challenge videos.
-
-〓My Favorites〓
-
-You can add works you are interested in to your favorites on the "Ballads of Breeze" Interaction Platform. A maximum of 99 works can be favorited.
-
-〓Other Details〓
-
-1. The publishing of content that violates laws, regulations, or community rules is prohibited. By participating in this event, you agree to have your in-game avatar, character nickname, and UID displayed on the work published on the event platform.
-
-2. Plagiarism, misappropriation, and other actions that violate others' copyright are strictly prohibited. If there is a quote or a need for authorization, please cite the original sources and make sure to obtain authorization.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
