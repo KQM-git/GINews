@@ -519,6 +519,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓Known Issues〓
+
+There is an issue under certain circumstances whereby Hydro applications on characters or enemies cannot be removed normally. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix. This issue will be fixed in a future version. Please stay tuned for future notices.
+
 〓2023/3/16  16:10:00 (global) Update Details〓
 
 Updates resources related to subsequent events.
