@@ -171,20 +171,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Version 3.5 "Windblume's Breath" New Content Overview
-## Version 3.5 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/22/5a7a43c7c6372a8a607617997b666deb_4637228743937935409.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/22/204aa1a7c61aef14db30ab3697780e40_564484589897009384.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/22/277dcf196f4db9ccbda6da8a0b9cdfcc_4573833842564756139.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/22/2c24777ecd213a9061d4f705573260ed_9018297856114661638.jpg)
-
------
-
 # "Windblume's Breath" Version 3.5 Update Details
 ## "Windblume's Breath" Version 3.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/2a346011875c85ab4eed2bc41015df44_950604808324089057.png)
