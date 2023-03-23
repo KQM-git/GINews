@@ -1,176 +1,3 @@
-# "Fungus Mechanicus" Event: Fun Mechanicus Challenges
-## Fungus Mechanicus
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/3f7906a0a2044d7abd0e09bc3df91bb8_1364163980209733801.jpg)
-
-**〓Event Duration〓**
-
-2023/03/23 10:00:00 (server) – 2023/04/03 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/a1572e027e6416d2fbab76959c47ed02_8212095507073355927.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "A New Star Approaches"
-
-※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" first to get the best experience from this event.
-
-※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● After the event begins, a new stage will unlock on each day for a total of 7 stages.
-
-● Command Lil' Fungi to destroy all Mechanici to win the stage.
-
-● During the combat challenge, consume Marvelous Gels to issue orders to Lil' Fungi to cast powerful abilities. The amount of Marvelous Gels will gradually recover over time, or you can use Plauditory Protection(s) on the field to directly obtain more.
-
------
-
-# "Vibro-Crystal Verification" Event: Vibro-Crystals Connection Challenge
-## Vibro-Crystal Verification
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/7d96fbf3c2c5428bcd64c67aebc0c124_406131502848578371.jpg)
-
-**〓Event Duration〓**
-
-2023/03/14 10:00:00 (server) – 2023/03/27 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/1a66f67f5003a0ac5d19ca3334cbb9ba_8274135962432047043.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-And complete the Archon Quest "Rite of Parting."
-
-**〓Event Details〓**
-
-● During the first 6 days of the event, one new challenge will be unlocked each day.
-
-● During the "Vibro-Crystal Verification" event, you must split your characters into 2 parties for the challenge. Before you start combat, you may equip each party with a Vibro-Crystal Harmonics Schema. Combine Transmitter Crystals and Receiver Crystals to obtain different combat buffs.
-
-● Each Transmitter Crystal can only project its radiation upon one Receiver Crystal, but each Receiver can receive transmissions from 3 Transmitters. Using different Transmitter Crystals to trigger Receivers will increase their effects.
-
-● During this challenge, you must defeat opponents that constantly emerge to obtain points within the allotted time. Of those opponents, Nemeses will provide more points. Once the challenge ends, you will gain different insignias based on the number of points you gained.
-
-※ Elemental Resonances will take effect in the "Vibro-Crystal Verification" challenges, but you will not be able to use food or other items.
-
------
-
-# "Windblume's Breath" Event: Take Part and Obtain the Event-Exclusive Weapon, Mailed Flower (Claymore)
-## Windblume's Breath
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/c0af6ed3f10dc856b900852a3a250633_1540572240155895321.jpg)
-
-**〓Event Gameplay Duration〓**
-
-2023/03/03 10:00:00 (server) – 2023/03/20 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/d55d3750175312b2f275fa148f57229b_1023016562952467547.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 18 or above
-
-Complete the Archon Quest "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" first to get the best experience from this event.
-
-※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Gameplay Duration | Act I | 2023/03/03 10:00:00 (server) | 2023/03/20 03:59:59 (server)
-^ | Act II | 2023/03/05 04:00:00 (server) | ^
-^ | Act III | 2023/03/07 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/03/03 10:00:00 (server) | 2023/03/27 03:59:59 (server)
-
-**〓Event Details〓**
-
-● During the event, three types of gameplay will unlock in sequence: Ballads of Breeze, Floral Pursuit, and Breezy Snapshots.
-
-● In the "Ballads of Breeze" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
-
-● In the "Floral Pursuit" gameplay, Travelers can experience Floral Chess, a new game created by the Mondstadt Adventurers' Guild. Travelers have to constantly collect Bloom Balloons to increase your score in the stage and complete the corresponding challenge. You can obtain the event-exclusive weapon "Mailed Flower" (Claymore) upon completing the challenges.
-
-● In the "Breezy Snapshots" gameplay, Travelers will help Fassben the Adventurer make a photobook by taking photos across Mondstadt.
-
-● In the "Ballads of Breeze" gameplay, Travelers can also compose their own songs, and after completing the arrangement, they can go to "Songs Exchange" to share their own pieces, or obtain share codes of other excellent works.
-
-● Complete these phases to obtain Floral Coupons and Festive Tickets to exchange for rewards such as Crown of Insight and the event-exclusive Weapon Refinement Material from the Event Shop.
-
-● After the event gameplay period ends, Floral Coupons and Festive Tickets will disappear. Please make sure to claim the rewards in time.
-
------
-
-# Event Wish "The Transcendent One Returns" - Boosted Drop Rate for "Lonesome Transcendence" Shenhe (Cryo)!
-## Event Wish - The Transcendent One Returns
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/1e262d83b2e00a4e9f0de09f1450b073_8403841284444276404.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/03/21 18:00:00 (server) — 2023/04/11 14:59:59 (server) | "Lonesome Transcendence" Shenhe (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
-^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Lonesome Transcendence" Shenhe (Cryo) will receive a huge drop-rate boost!
-
-● During the event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Harmless Sweetie" Sucrose (Anemo), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Coordinates of Clear Frost" Mika (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
-## Event Wish - The Heron's Court
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/5926fda21cf0aacc15f9ca8f18bbe671_5272903358571470814.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/03/21 18:00:00 (server) — 2023/04/11 14:59:59 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
-^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
-
-● During the event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Harmless Sweetie" Sucrose (Anemo), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Coordinates of Clear Frost" Mika (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # "Windblume's Breath" Version 3.5 Update Details
 ## "Windblume's Breath" Version 3.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/2a346011875c85ab4eed2bc41015df44_950604808324089057.png)
@@ -568,6 +395,179 @@ Adjusted the refresh logic of NPCs in the Daily Commission "Cliffhanger": the NP
 〓2023/03/01 14:15:00 (global) Update Details〓
 
 Removed the Wildlife placed abnormally in the special story mode of Archon Quest "Caribert."
+
+-----
+
+# "Fungus Mechanicus" Event: Fun Mechanicus Challenges
+## Fungus Mechanicus
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/3f7906a0a2044d7abd0e09bc3df91bb8_1364163980209733801.jpg)
+
+**〓Event Duration〓**
+
+2023/03/23 10:00:00 (server) – 2023/04/03 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/a1572e027e6416d2fbab76959c47ed02_8212095507073355927.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the Archon Quest "A New Star Approaches"
+
+※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" first to get the best experience from this event.
+
+※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Details〓**
+
+● After the event begins, a new stage will unlock on each day for a total of 7 stages.
+
+● Command Lil' Fungi to destroy all Mechanici to win the stage.
+
+● During the combat challenge, consume Marvelous Gels to issue orders to Lil' Fungi to cast powerful abilities. The amount of Marvelous Gels will gradually recover over time, or you can use Plauditory Protection(s) on the field to directly obtain more.
+
+-----
+
+# "Vibro-Crystal Verification" Event: Vibro-Crystals Connection Challenge
+## Vibro-Crystal Verification
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/7d96fbf3c2c5428bcd64c67aebc0c124_406131502848578371.jpg)
+
+**〓Event Duration〓**
+
+2023/03/14 10:00:00 (server) – 2023/03/27 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/1a66f67f5003a0ac5d19ca3334cbb9ba_8274135962432047043.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+And complete the Archon Quest "Rite of Parting."
+
+**〓Event Details〓**
+
+● During the first 6 days of the event, one new challenge will be unlocked each day.
+
+● During the "Vibro-Crystal Verification" event, you must split your characters into 2 parties for the challenge. Before you start combat, you may equip each party with a Vibro-Crystal Harmonics Schema. Combine Transmitter Crystals and Receiver Crystals to obtain different combat buffs.
+
+● Each Transmitter Crystal can only project its radiation upon one Receiver Crystal, but each Receiver can receive transmissions from 3 Transmitters. Using different Transmitter Crystals to trigger Receivers will increase their effects.
+
+● During this challenge, you must defeat opponents that constantly emerge to obtain points within the allotted time. Of those opponents, Nemeses will provide more points. Once the challenge ends, you will gain different insignias based on the number of points you gained.
+
+※ Elemental Resonances will take effect in the "Vibro-Crystal Verification" challenges, but you will not be able to use food or other items.
+
+-----
+
+# "Windblume's Breath" Event: Take Part and Obtain the Event-Exclusive Weapon, Mailed Flower (Claymore)
+## Windblume's Breath
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/c0af6ed3f10dc856b900852a3a250633_1540572240155895321.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2023/03/03 10:00:00 (server) – 2023/03/20 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/d55d3750175312b2f275fa148f57229b_1023016562952467547.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 18 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" first to get the best experience from this event.
+
+※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises" and Albedo's Story Quest "Princeps Cretaceus Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Gameplay Duration | Act I | 2023/03/03 10:00:00 (server) | 2023/03/20 03:59:59 (server)
+^ | Act II | 2023/03/05 04:00:00 (server) | ^
+^ | Act III | 2023/03/07 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2023/03/03 10:00:00 (server) | 2023/03/27 03:59:59 (server)
+
+**〓Event Details〓**
+
+● During the event, three types of gameplay will unlock in sequence: Ballads of Breeze, Floral Pursuit, and Breezy Snapshots.
+
+● In the "Ballads of Breeze" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
+
+● In the "Floral Pursuit" gameplay, Travelers can experience Floral Chess, a new game created by the Mondstadt Adventurers' Guild. Travelers have to constantly collect Bloom Balloons to increase your score in the stage and complete the corresponding challenge. You can obtain the event-exclusive weapon "Mailed Flower" (Claymore) upon completing the challenges.
+
+● In the "Breezy Snapshots" gameplay, Travelers will help Fassben the Adventurer make a photobook by taking photos across Mondstadt.
+
+● In the "Ballads of Breeze" gameplay, Travelers can also compose their own songs, and after completing the arrangement, they can go to "Songs Exchange" to share their own pieces, or obtain share codes of other excellent works.
+
+● Complete these phases to obtain Floral Coupons and Festive Tickets to exchange for rewards such as Crown of Insight and the event-exclusive Weapon Refinement Material from the Event Shop.
+
+● After the event gameplay period ends, Floral Coupons and Festive Tickets will disappear. Please make sure to claim the rewards in time.
+
+-----
+
+# Event Wish "The Transcendent One Returns" - Boosted Drop Rate for "Lonesome Transcendence" Shenhe (Cryo)!
+## Event Wish - The Transcendent One Returns
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/1e262d83b2e00a4e9f0de09f1450b073_8403841284444276404.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/03/21 18:00:00 (server) — 2023/04/11 14:59:59 (server) | "Lonesome Transcendence" Shenhe (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Lonesome Transcendence" Shenhe (Cryo) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Harmless Sweetie" Sucrose (Anemo), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Coordinates of Clear Frost" Mika (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
+## Event Wish - The Heron's Court
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/5926fda21cf0aacc15f9ca8f18bbe671_5272903358571470814.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/03/21 18:00:00 (server) — 2023/04/11 14:59:59 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Harmless Sweetie" Sucrose (Anemo), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Coordinates of Clear Frost" Mika (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
