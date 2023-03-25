@@ -589,7 +589,7 @@ In order to better understand how you feel about the events and to bring you a b
 
 [Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_zgd6mcsrigh3my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=12226&format=1&sign_type=2&authkey_ver=1)
 
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
 
 Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
