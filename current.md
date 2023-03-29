@@ -462,6 +462,28 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
+# The Version 3.5 Tools Update is here!
+## The Version 3.5 Tools Update is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/8e425a0ba06727a3a152da19c5bada0f_4501103460438624373.png)
+
+Dear Travelers,
+
+With the Version 3.5 update, V3.5-related content have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
+
+｜  Battle Chronicle Update Details: Added characters Dehya and Mika, and the Windblume Festival event
+
+[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+|  Enhancement Progression Calculator: Added characters Dehya and Mika
+
+[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+|  Lineup Simulator: Support for related lineup queries and posts for the new characters Dehya and Mika
+
+[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+-----
+
 # Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!
 ## Event Wish - The Heron's Court
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/5926fda21cf0aacc15f9ca8f18bbe671_5272903358571470814.jpg)
@@ -492,25 +514,23 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# The Version 3.5 Tools Update is here!
-## The Version 3.5 Tools Update is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/8e425a0ba06727a3a152da19c5bada0f_4501103460438624373.png)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
 
 Dear Travelers,
 
-With the Version 3.5 update, V3.5-related content have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-｜  Battle Chronicle Update Details: Added characters Dehya and Mika, and the Windblume Festival event
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
 
-[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-|  Enhancement Progression Calculator: Added characters Dehya and Mika
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+〓Event Duration〓
 
-|  Lineup Simulator: Support for related lineup queries and posts for the new characters Dehya and Mika
-
-[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+Permanent
 
 -----
 
@@ -542,23 +562,29 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+# New Story Unlocked - Archon Quest Chapter III: Act VI "Caribert"
+## New Story Unlocked - Archon Quest Chapter III: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/24/efa6950633872e2530842cd439a51172_1227560140219847163.png)
 
-Dear Travelers,
+This world is filled with those who would oppose fate, while the one who understands fate smiles faintly down upon them.
 
-The HoYoLAB Community "Daily Check-In" feature is now available!
+If the one who weaves fate may be born here, then let the one who witnesses fate see it all.
 
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act VI "Caribert" will appear in the Quest Menu.
 
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
 
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
+〓Quest Start Time〓
 
-〓Event Duration〓
+After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will be permanently available.
 
-Permanent
+〓Archon Quest Chapter III: Act VI "Caribert" Unlock Criteria〓
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
@@ -583,32 +609,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/04/10 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# New Story Unlocked - Archon Quest Chapter III: Act VI "Caribert"
-## New Story Unlocked - Archon Quest Chapter III: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/24/efa6950633872e2530842cd439a51172_1227560140219847163.png)
-
-This world is filled with those who would oppose fate, while the one who understands fate smiles faintly down upon them.
-
-If the one who weaves fate may be born here, then let the one who witnesses fate see it all.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter III: Act VI "Caribert" will appear in the Quest Menu.
-
-(After this quest is unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will be permanently available.
-
-〓Archon Quest Chapter III: Act VI "Caribert" Unlock Criteria〓
-
-• Reach Adventure Rank 35 or above
-
-• Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
