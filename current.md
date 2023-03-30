@@ -366,9 +366,23 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is an issue with Mika whereby the Stamina consumed for his Charged Attack is erroneous. The Stamina Cost is currently 20, and will be corrected to 25 subsequently. This issue will be fixed in the update on March 30, and we will issue compensation accordingly.  Please stay tuned for future notices regarding the updated content and corresponding compensation.
-
 There is an issue under certain circumstances whereby Hydro applications on characters or enemies cannot be removed normally. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix. This issue will be fixed in a future version. Please stay tuned for future notices.
+
+〓2023/03/30 16:10:00 (global) Update Details〓
+
+Fixes an issue with Mika whereby the Stamina consumed for his Charged Attack is erroneous. The Stamina Cost for Mika's Charged Attack has been corrected to 25 after the fix.
+
+▌Issue Fix Compensation
+
+● Compensation Details
+
+Primogems ×100
+
+● Scope of Compensation
+
+Travelers who reached Adventure Rank 5 and above before 2023/03/30 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours. Please claim the mail compensation before 2023/04/02 16:00:00 (global). The mail is valid for 30 days, please remember to claim it in time.
 
 〓2023/3/16  16:10:00 (global) Update Details〓
 
