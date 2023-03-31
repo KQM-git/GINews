@@ -414,6 +414,26 @@ Removed the Wildlife placed abnormally in the special story mode of Archon Quest
 
 -----
 
+# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2023/04/03 04:00:00 (server) – 2023/04/10 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # "Spices From the West: Northerly Search" Event: Creation of Special Seasonings
 ## "Spices From the West: Northerly Search"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/071c1605d97f6cb55ce81916a36cc817_3255890864388912766.jpg)
@@ -505,28 +525,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# The Version 3.5 Tools Update is here!
-## The Version 3.5 Tools Update is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/8e425a0ba06727a3a152da19c5bada0f_4501103460438624373.png)
-
-Dear Travelers,
-
-With the Version 3.5 update, V3.5-related content have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
-
-｜  Battle Chronicle Update Details: Added characters Dehya and Mika, and the Windblume Festival event
-
-[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
-
-|  Enhancement Progression Calculator: Added characters Dehya and Mika
-
-[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
-
-|  Lineup Simulator: Support for related lineup queries and posts for the new characters Dehya and Mika
-
-[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
 
 -----
 
