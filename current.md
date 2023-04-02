@@ -414,6 +414,20 @@ Removed the Wildlife placed abnormally in the special story mode of Archon Quest
 
 -----
 
+# The Version 3.6 "A Parade of Providence" Preview Page Is Here!
+## Genshin Impact Version 3.6 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/31/2bdc638942c1700e63249bfb44ea99aa_7527565673572542105.jpg)
+
+Dear Traveler,
+
+The Version 3.6 "A Parade of Providence" Preview Page is here!
+
+[>>>>Click to Enter the Version 3.6 "A Parade of Providence" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230401preview-84u4sh/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230401warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
 ## Ley Line Overflow
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
