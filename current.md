@@ -416,6 +416,22 @@ Removed the Wildlife placed abnormally in the special story mode of Archon Quest
 
 -----
 
+# Sumeru Adventure Journal: Girdle of the Sands — Version 3.6 New Contents Display Page Now Available!
+## Version 3.6 New Contents Display Page Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/04/5623e449e9a47c38100454fbce0c0d35_903734816983217220.jpg)
+
+[>>Click to read the Sumeru Adventure Journal: Girdle of the Sands<<](https://act.hoyoverse.com/puzzle/hk4e/e0406bluepostsubject_769/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&hyl_hide_status_bar=true&sign_type=2&authkey_ver=1&auth_appid=e0406bluepostsubject)
+
+Hello, Travelers! The new areas "Gavireh Lajavard" and "Realm of Farakhkert" will open soon! Check the Contents Display Page now to learn more about the mysteries located in the depths of the boundless desert~
+
+Finish reading this volume of Sumeru Adventure Journal to obtain Mora ×20,000!
+
+*The reward can be claimed any time before the end of Version 3.6.
+
+*Once claimed, the reward will be sent to you via in-game mail within 5-10 minutes.
+
+-----
+
 # The Version 3.6 "A Parade of Providence" Preview Page Is Here!
 ## Genshin Impact Version 3.6 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/31/2bdc638942c1700e63249bfb44ea99aa_7527565673572542105.jpg)
