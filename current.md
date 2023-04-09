@@ -466,58 +466,6 @@ Permanent
 
 -----
 
-# "Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2023/04/03 04:00:00 (server) – 2023/04/10 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# "Spices From the West: Northerly Search" Event: Creation of Special Seasonings
-## "Spices From the West: Northerly Search"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/071c1605d97f6cb55ce81916a36cc817_3255890864388912766.jpg)
-
-**〓Event Duration〓**
-
-2023/03/31 10:00:00 (server) – 2023/04/10 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/02/03/2e94a56d9cd1b139dce97ee508570a49_5970891825679316043.png)
-
-**〓Eligibility〓**
-
-Reach Adventure Rank 20 or above to create seasonings
-
-Reach Adventure Rank 28 or above and complete the World Quest "Idle Teapot Talk" to cook the corresponding dishes and invite characters to taste-test
-
-**〓Event Details〓**
-
-● A new seasoning recipe will unlock on each of the first 7 days of the event. Follow the recipes to create "Fragrant Seasonings" and obtain corresponding rewards.
-
-● Add the Fragrant Seasonings to Delicious dishes to obtain Fragrant dishes. You can invite characters to taste-test the Fragrant Dishes in your Serenitea Pot to increase their Companionship EXP and also hear their responses, which will vary based on the character's personal preferences. There is a limit on the number of times you can get Companionship EXP during the event.
-
-● During the event, you can invite Paimon to your Serenitea Pot to sample your dishes. Inviting Paimon to sample your dishes will not increase Companionship EXP, but also will not consume from the limited number of times you can get Companionship EXP.
-
-● Reach Adventure Rank 28 and complete the "A Teapot to Call Home" quest to unlock the Serenitea Pot. You can accept the "Idle Teapot Talk" quest from Tubby in the Serenitea Pot. After completing the quest and obtaining "Realm Dispatch," you can invite characters to your Serenitea Pot to sample your dishes.
-
-※ After 2023/04/10 03:59:59 (server), "Fragrant Seasonings" and "Fragrant Dishes" will be removed from your Inventory.
-
------
-
 # Event Wish "The Transcendent One Returns" - Boosted Drop Rate for "Lonesome Transcendence" Shenhe (Cryo)!
 ## Event Wish - The Transcendent One Returns
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/23/1e262d83b2e00a4e9f0de09f1450b073_8403841284444276404.jpg)
@@ -629,30 +577,6 @@ After the Version 3.5 update, Archon Quest Chapter III: Act VI "Caribert" will b
 • Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# "Artful Intent" Event Details
-## Artful Intent
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/14/11a37e226a258d47699a20f7dde05925_732372849726679448.jpg)
-
-Travelers can earn rich rewards in "Artful Intent" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Artful Intent" and Furnishing Blueprint "Singing in the Tranquil Court."
-
-**〓Event Duration〓**
-
-After the Version 3.5 update – 2023/04/10 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/04/10 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
