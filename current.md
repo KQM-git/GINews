@@ -310,6 +310,236 @@ Using the pre-installation function can speed up the update progress of the laun
 
 -----
 
+# "Brewing Developments" Event: Shock-Boiled Brew Challenges
+## Brewing Developments
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/df56fb0ec8d57b0f8a93dac386a73938_7815005671173074820.jpg)
+
+**〓Event Duration〓**
+
+2023/04/13 10:00:00 (server) – 2023/04/24 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/85e65c3e5ce11611c68c6127317fcb33_6173016650566924132.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+** **
+
+**〓Event Details〓**
+
+● During the first 8 days of the "Brewing Developments" event, one new challenge will be unlocked every 2 days.
+
+● During each challenge, you can use the trial characters provided by the event or your own to complete 3 consecutive combat rounds.
+
+● The Shock-Boiled Brew allocated for each round has 4 potential effects. The Shock-Boiling Device will automatically use the Shock-Boiled Brew and can randomly activate one or more effects for a certain period of time, providing tremendous support during combat.
+
+● The goal of the challenge is to defeat as many opponents as possible within the time limit to score points. When the challenge ends, you will receive Primogems, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora based on this score.
+
+※ Food and other items will not be available during these challenges.
+
+-----
+
+# Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!
+## Event Wish - The Moongrass' Enlightenment
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/6fbdf4ee7b5231cdc41b0499841a9884_6657966748010560352.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.6 update –  2023/05/02 17:59:00 (server) | "Physic of Purity" Nahida (Dendro) | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Fantastical Evening Star" Layla (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Physic of Purity" Nahida (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Mender of Tribulations" Kuki Shinobu (Electro), "Treasure of Dream Garden" Dori (Electro), and "Fantastical Evening Star" Layla (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Twirling Lotus" - Boosted Drop Rate for "Dance of Lotuslight" Nilou (Hydro)!
+## Event Wish - Twirling Lotus
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/807c69f975e4cdf06e0f325a4588e204_93646719602680716.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+** **
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.6 update –  2023/05/02 17:59:00 (server) | "Dance of Lotuslight" Nilou (Hydro) | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Fantastical Evening Star" Layla (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Dance of Lotuslight" Nilou (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Mender of Tribulations" Kuki Shinobu (Electro), "Treasure of Dream Garden" Dori (Electro), and "Fantastical Evening Star" Layla (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for A Thousand Floating Dreams (Catalyst) and Key of Khaj-Nisut (Sword)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/799932e19d370fe5a719b5411d3fae27_8204662274090482229.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 3.6 update –  2023/05/02 17:59:00 (server) | A Thousand Floating Dreams (Catalyst) Key of Khaj-Nisut (Sword) | Xiphos' Moonlight (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons A Thousand Floating Dreams (Catalyst) and Key of Khaj-Nisut (Sword) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Xiphos' Moonlight (Sword) as well as the 4-star weapons Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as A Thousand Floating Dreams (Catalyst) or Key of Khaj-Nisut (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Sapientia Oromasdis Chapter: Act II" Story Quest Overview
+## Sapientia Oromasdis Chapter: Act II
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/1af90d1d93cd9fd78bf028b2bdd45b30_7496921458539187045.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Nahida's Story Quest "Sapientia Oromasdis Chapter: Act II."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+** **
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.6 update
+
+** **
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+And complete Nahida's Story Quest "Sapientia Oromasdis Chapter: Act I - Lingering Warmth"
+
+-----
+
+# "Hangout Events: Series IX" - Story Quest Overview
+## Hangout Events: Series IX
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/7759171a02bcfac6fa2a6765aaf6116e_1496407334351484206.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock the Hangout Event for Layla.
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 3.6 update
+
+**〓Series IX Unlock Criteria〓**
+
+Hangout Event: Layla - Act I
+
+Adventure Rank 40 or above
+
+And complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+-----
+
+# "Crown of Glory" Event Details
+## Crown of Glory
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/f97866bc67baeaca07253c60d2a313f3_530350917212313680.jpg)
+
+Travelers can earn rich rewards in "Crown of Glory" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Crown of Glory" and Furnishing Blueprint "Pure Heat."
+
+**〓Event Duration〓**
+
+After the Version 3.6 update – 2023/05/22 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
+
+※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/05/22 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# "Adventurer's Booster Bundles" - Round 22 Available for a Limited Time
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/a6279d8382df4eb47be8bf7b79ac1b8a_8604837743607017993.jpg)
+
+Round 22 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 3.6 update – 2023/04/26 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 3.6 update – 2023/04/26 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+** **
+
+**〓Adventurer's Tempering Bundle〓**
+
+Duration: 2023/04/27 00:00:00 (server) – 2023/05/12 23:59:59 (server)
+
+Bundle Contents: Eminent Share Bundle ×10, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 120 Genesis Crystals. Can be purchased up to five times in total.
+
+※ Eminent Share Bundle: After usage, you can select any one 3-star Weapon Ascension Material from all the options available in the current Version.
+
+-----
+
 # "Windblume's Breath" Version 3.5 Update Details
 ## "Windblume's Breath" Version 3.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/02/27/2a346011875c85ab4eed2bc41015df44_950604808324089057.png)
@@ -725,22 +955,6 @@ Adjusted the refresh logic of NPCs in the Daily Commission "Cliffhanger": the NP
 〓2023/03/01 14:15:00 (global) Update Details〓
 
 Removed the Wildlife placed abnormally in the special story mode of Archon Quest "Caribert."
-
------
-
-# Sumeru Adventure Journal: Girdle of the Sands — Version 3.6 New Contents Display Page Now Available!
-## Version 3.6 New Contents Display Page Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/04/5623e449e9a47c38100454fbce0c0d35_903734816983217220.jpg)
-
-[>>Click to read the Sumeru Adventure Journal: Girdle of the Sands<<](https://act.hoyoverse.com/puzzle/hk4e/e0406bluepostsubject_769/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&hyl_hide_status_bar=true&sign_type=2&authkey_ver=1&auth_appid=e0406bluepostsubject)
-
-Hello, Travelers! The new areas "Gavireh Lajavard" and "Realm of Farakhkert" will open soon! Check the Contents Display Page now to learn more about the mysteries located in the depths of the boundless desert~
-
-Finish reading this volume of Sumeru Adventure Journal to obtain Mora ×20,000!
-
-*The reward can be claimed any time before the end of Version 3.6.
-
-*Once claimed, the reward will be sent to you via in-game mail within 5-10 minutes.
 
 -----
 
