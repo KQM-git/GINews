@@ -620,6 +620,28 @@ There is an issue under certain circumstances whereby Hydro applications on char
 
 -----
 
+# The Version 3.6 Tools Update is here!
+## The Version 3.6 Tools Update is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/07/3aa7412415c84b289fb27a2b1693088b_1840597702174529418.png)
+
+Dear Travelers,
+
+With the Version 3.6 update, new functions have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
+
+| Battle Chronicle Update: The Genius Invokation TCG Duel Log function has been added! Brilliant duels deserve to be relived and shared. With this feature, you don't have to worry about missing out!
+
+[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+| Enhancement Progression Calculator Update: You can now add Furnishing Sets with a click of the button! Also, you can now be redirected to the Wiki when checking information for materials. You will no longer get lost looking for resources!
+
+[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+| Lineup Simulator: Support for related lineup queries and posts for the new characters Baizhu and Kaveh
+
+[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+-----
+
 # "Brewing Developments" Event: Shock-Boiled Brew Challenges
 ## Brewing Developments
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/df56fb0ec8d57b0f8a93dac386a73938_7815005671173074820.jpg)
