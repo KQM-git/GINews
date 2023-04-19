@@ -882,6 +882,26 @@ Bundle Price: Now 50% off for a limited time! The price after discount is 120 Ge
 
 -----
 
+# Genshin Impact's Second Sumeru OST Album "The Unfathomable Sand Dunes" Now Available
+## Second Sumeru OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/18/a16ae7baf99c32c412c5a93ebab3a9ff_6076827767872873222.jpg)
+
+Dear Travelers,
+
+Genshin Impact's second Sumeru OST album "The Unfathomable Sand Dunes" is now available! The album's three discs "Sandstorm Remembrances," "Desert Exodus," and "Battles of Sumeru 2" feature 108 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Sumeru.
+
+Travelers can go to the following platforms to listen to "The Unfathomable Sand Dunes."
+
+Apple Music:
+
+[Click here to listen to "The Unfathomable Sand Dunes"](https://music.apple.com/us/album/1682626856)
+
+Spotify:
+
+[Click here to listen to "The Unfathomable Sand Dunes"](http://open.spotify.com/album/4JMjkt32NZ9VnPj68Mz7Ra)
+
+-----
+
 # The Version 3.6 Tools Update is here!
 ## The Version 3.6 Tools Update is here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/07/3aa7412415c84b289fb27a2b1693088b_1840597702174529418.png)
