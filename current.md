@@ -618,6 +618,16 @@ In future versions, this effect will be changed to: When your character receives
 
 There is an issue under certain circumstances whereby Hydro applications on characters or enemies cannot be removed normally. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix. This issue will be fixed in a future version. Please stay tuned for future notices.
 
+〓2023/04/20 16:15:00 (global) Update Details〓
+
+Fixes an issue whereby the purple mist in Asipattravana Swamp did not automatically dissipate for some players after completing the World Quest "Khvarena of Good and Evil."
+
+Fixes an issue whereby the Party Setup page could not be opened by pressing the "Open Party Setup Screen" button after adjusting it via custom button configuration settings.
+
+Fixes an issue whereby Yelan's Elemental Skill effects displayed abnormally on some Android devices.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
 〓2023/04/14 11:10:00 (global) Update Details〓
 
 Fixes an issue whereby under certain circumstances, a specific Treasure Chest located at the Temir Mountains in Gavireh Lajavard could not be unlocked even after defeating all the opponents. Travelers who encounter this issue can log out through the Paimon Menu and log in again twice to resolve this issue.
