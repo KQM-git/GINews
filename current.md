@@ -652,6 +652,46 @@ Complete Archon Quest "A New Star Approaches"
 
 -----
 
+# "Chords of the Forest" – The Web Event for Genshin Impact's Second Sumeru OST Album Is Now Available
+## The Web Event for the Second Sumeru OST Album Is Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/12/df9dc54f74c1e65a88e9b57b4f33c8b4_2714366509892191834.jpg)
+
+[Click to participate in the "Chords of the Forest" Web Event](https://act.hoyolab.com/bbs/event/20230320ost-sea-vja90g/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&hyl_landscape=true&utm_source=ingame&utm_medium=notice&utm_campaign=sumeru2_ost&utm_id=2)
+
+Shallow footprints mark the depths of the forest,
+
+The sands swirl at the heart of the desert.
+
+The winds caress the tips of fingers,
+
+Recovering some bygone happenings from the ancient city.
+
+〓Event Duration〓
+
+2023/04/20 12:00:00 (global) – 2023/04/27 23:59:59 (global)
+
+〓Event Summary〓
+
+During the event, complete and share the event to get Primogem Redemption Codes (limited to 5 million in quantity).
+
+After obtaining a redemption code, you can use it to redeem the gift pack via Settings > Account > Redemption Code in the game.
+
+PlayStation players can scan the QR code after opening the page to participate in the event.
+
+〓Event Rewards〓
+
+Primogems ×40 (limited to 5 million in quantity)
+
+〓Friendly Reminder〓
+
+1. Players must have an Adventure Rank of 10 and above to activate the gift pack, and each UID can only receive the pack once.
+
+2. The Primogem Redemption Codes are valid until 2023/05/03 23:59:59 (global). Please claim it within the validity period.
+
+(Note: It is recommended to switch to landscape mode and wear headphones for a better experience.)
+
+-----
+
 # "Brewing Developments" Event: Shock-Boiled Brew Challenges
 ## Brewing Developments
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/df56fb0ec8d57b0f8a93dac386a73938_7815005671173074820.jpg)
