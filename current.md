@@ -706,36 +706,6 @@ Primogems ×40 (limited to 5 million in quantity)
 
 -----
 
-# "Brewing Developments" Event: Shock-Boiled Brew Challenges
-## Brewing Developments
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/df56fb0ec8d57b0f8a93dac386a73938_7815005671173074820.jpg)
-
-**〓Event Duration〓**
-
-2023/04/13 10:00:00 (server) – 2023/04/24 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/85e65c3e5ce11611c68c6127317fcb33_6173016650566924132.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-** **
-
-**〓Event Details〓**
-
-● During the first 8 days of the "Brewing Developments" event, one new challenge will be unlocked every 2 days.
-
-● During each challenge, you can use the trial characters provided by the event or your own to complete 3 consecutive combat rounds.
-
-● The Shock-Boiled Brew allocated for each round has 4 potential effects. The Shock-Boiling Device will automatically use the Shock-Boiled Brew and can randomly activate one or more effects for a certain period of time, providing tremendous support during combat.
-
-● The goal of the challenge is to defeat as many opponents as possible within the time limit to score points. When the challenge ends, you will receive Primogems, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora based on this score.
-
-※ Food and other items will not be available during these challenges.
-
------
-
 # Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!
 ## Event Wish - The Moongrass' Enlightenment
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/6fbdf4ee7b5231cdc41b0499841a9884_6657966748010560352.jpg)
