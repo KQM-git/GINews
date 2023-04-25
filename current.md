@@ -56,6 +56,20 @@ Gameplay Duration | Phase I | 2023/04/27 10:00:00 (server) | 2023/05/15 03:59:59
 
 -----
 
+# In-Game Top-Up Issue Fix Details
+## In-Game Top-Up Issue Fix Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/25/8e60989f6665a150a0e7020459098b25_2091474831110983951.jpg)
+
+Dear Travelers,
+
+Due to an issue with Google Play services, some Travelers have experienced difficulties topping-up.
+
+Related services have been restored.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # Version 3.6 "A Parade of Providence" New Content Overview
 ## Version 3.6 New Content Overview
 
