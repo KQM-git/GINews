@@ -88,6 +88,122 @@ Gameplay Duration | Phase I | 2023/04/27 10:00:00 (server) | 2023/05/15 03:59:59
 
 -----
 
+# Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!
+## Event Wish - Immaculate Pulse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/7662ef50bb02210fd6c1aea8bcea869a_7452463672664004921.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | "Beyond Mortality" Baizhu (Dendro) | "Empyrean Reflection" Kaveh (Dendro)
+^ | ^ | "Golden Vow"  Candace (Hydro)
+^ | ^ | "Prinzessin der Verurteilung!"  Fischl (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Beyond Mortality" Baizhu (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Empyrean Reflection" Kaveh (Dendro), "Golden Vow" Candace (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Empyrean Reflection" Kaveh (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
+## Event Wish - Adrift in the Harbor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/6d59b17f79b14e9cef9385414d4f0d91_9011393563734489268.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Empyrean Reflection"  Kaveh (Dendro)
+^ | ^ | "Golden Vow"  Candace (Hydro)
+^ | ^ | "Prinzessin der Verurteilung!"  Fischl (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Empyrean Reflection" Kaveh (Dendro), "Golden Vow" Candace (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Empyrean Reflection" Kaveh (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Jadefall's Splendor (Catalyst) and Amos' Bow (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/81f48ed3b5e126b66e6b1a780e7fc263_5072317459746675026.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | Jadefall's Splendor (Catalyst) Amos' Bow (Bow) | Makhaira Aquamarine (Claymore)
+^ | ^ | Wandering Evenstar (Catalyst)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapon Jadefall's Splendor (Catalyst) and the 5-star weapon Amos' Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Makhaira Aquamarine (Claymore) and Wandering Evenstar (Catalyst) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Jadefall's Splendor (Catalyst) or Amos' Bow (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# "Lagenaria Chapter" Story Quest Overview
+## Lagenaria Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Baizhu's Story Quest "Lagenaria Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+** **
+
+**〓Quest Start Time〓**
+
+Permanently available after 2023/05/02 18:00:00 (server)
+
+** **
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+Complete Hu Tao's Story Quest - Papilio Charontis Chapter: Act I "Yet the Butterfly Flutters Away"
+
+And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
+
+-----
+
 # Version 3.6 "A Parade of Providence" New Content Overview
 ## Version 3.6 New Content Overview
 
