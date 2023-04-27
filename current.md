@@ -1,3 +1,35 @@
+# "Genius Invokation TCG" Heated Battle Mode: Reinforcements
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/4cbbc49e0a212cf2543584337add03d0_7127531587354878779.jpg)
+
+**〓Special Rules〓**
+
+In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
+
+**〓Event Duration〓**
+
+2023/04/29 10:00:00 (server) – 2023/05/08 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/b688da7b6f6ad9c7a0ce84ec1f0811b9_4528638124875903633.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+** **
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # "A Parade of Providence" Event: Take Part to Invite "Enigmatic Machinist" Faruzan (Anemo)
 ## A Parade of Providence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/8b1c9ad438e0fe361fa897a3730f6501_7828659230800949848.jpg)
