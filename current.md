@@ -176,34 +176,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
-# "Lagenaria Chapter" Story Quest Overview
-## Lagenaria Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Baizhu's Story Quest "Lagenaria Chapter."
-
-The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
-
-** **
-
-**〓Quest Start Time〓**
-
-Permanently available after 2023/05/02 18:00:00 (server)
-
-** **
-
-**〓Quest Unlock Criteria〓**
-
-Adventure Rank 40 or above
-
-Complete Archon Quest Chapter I: Act III "A New Star Approaches"
-
-Complete Hu Tao's Story Quest - Papilio Charontis Chapter: Act I "Yet the Butterfly Flutters Away"
-
-And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
-
------
-
 # Version 3.6 "A Parade of Providence" New Content Overview
 ## Version 3.6 New Content Overview
 
@@ -805,6 +777,34 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# "Lagenaria Chapter" Story Quest Overview
+## Lagenaria Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Baizhu's Story Quest "Lagenaria Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+** **
+
+**〓Quest Start Time〓**
+
+Permanently available after 2023/05/02 18:00:00 (server)
+
+** **
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+Complete Hu Tao's Story Quest - Papilio Charontis Chapter: Act I "Yet the Butterfly Flutters Away"
+
+And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
 
 -----
 
