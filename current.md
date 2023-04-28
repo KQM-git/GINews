@@ -1,181 +1,3 @@
-# "Genius Invokation TCG" Heated Battle Mode: Reinforcements
-## Genius Invokation TCG
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/4cbbc49e0a212cf2543584337add03d0_7127531587354878779.jpg)
-
-**〓Special Rules〓**
-
-In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
-
-**〓Event Duration〓**
-
-2023/04/29 10:00:00 (server) – 2023/05/08 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/b688da7b6f6ad9c7a0ce84ec1f0811b9_4528638124875903633.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-** **
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# "A Parade of Providence" Event: Take Part to Invite "Enigmatic Machinist" Faruzan (Anemo)
-## A Parade of Providence
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/8b1c9ad438e0fe361fa897a3730f6501_7828659230800949848.jpg)
-
-**〓Event Gameplay Duration〓**
-
-2023/04/27 10:00:00 (server) – 2023/05/15 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/63a1a1ecf6f79348bb2472367e93f59c_6356696553975564105.png)
-
-** **
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-Complete Archon Quest "A New Star Approaches"
-
-※ Complete Archon Quest "Inversion of Genesis" and Alhaitham's Story Quest "Vultur Volans Chapter: Act I" first to get the best experience from this event.
-
-※ If you have not completed Archon Quest "Inversion of Genesis" and Alhaitham's Story Quest "Vultur Volans Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
-
-** **
-
-**〓Event Phase Details〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/04/27 10:00:00 (server) | 2023/05/15 03:59:59 (server)
-^ | Act II | 2023/04/29 04:00:00 (server) | ^
-^ | Act III | 2023/05/01 04:00:00 (server) | ^
-Gameplay Duration | Phase I | 2023/04/27 10:00:00 (server) | 2023/05/15 03:59:59 (server)
-^ | Phase II | 2023/04/29 04:00:00 (server) | ^
-^ | Phase III | 2023/05/01 04:00:00 (server) | ^
-^ | Phase IV | 2023/05/03 04:00:00 (server) | ^
-
-** **
-
-**〓Event Details〓**
-
-● During the event, six types of gameplay will unlock in sequence: Gathering of Stars, Project Connectivity, Antiquity Hunt, In Truth's Steps, Concocted Reaction, and Mimetic Replication.
-
-● In the "Gathering of Stars" gameplay, Travelers can rotate the Artisan Astrolabe and complete the pattern.
-
-● In the "Project Connectivity" gameplay, Travelers will have to use the least amount of building materials you can to construct a path from the starting point that connects all checkpoints.
-
-● In the "Antiquity Hunt" gameplay, Travelers will have to use the "Search Compass" to find hidden relic replicas at each location.
-
-● In the "In Truth's Steps" gameplay, Travelers will have to listen and consider the happenings of a certain story before responding with inquiries and discovering the truth via deduction.
-
-● In the "Concocted Reaction" gameplay, in a mysterious Domain, Travelers will have to use a variety of potions to overcome various situations while using the bonuses to maintain combat effectiveness.
-
-● In the "Mimetic Replication" gameplay, Travelers will have to control replicas for various creatures and imitate specific behaviors.
-
-● Complete these phases to gain Gala Excitement and reach a certain amount of Gala Excitement to invite "Enigmatic Machinist" Faruzan (Anemo).
-
------
-
-# Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!
-## Event Wish - Immaculate Pulse
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/7662ef50bb02210fd6c1aea8bcea869a_7452463672664004921.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | "Beyond Mortality" Baizhu (Dendro) | "Empyrean Reflection" Kaveh (Dendro)
-^ | ^ | "Golden Vow"  Candace (Hydro)
-^ | ^ | "Prinzessin der Verurteilung!"  Fischl (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Beyond Mortality" Baizhu (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Empyrean Reflection" Kaveh (Dendro), "Golden Vow" Candace (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Empyrean Reflection" Kaveh (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
-## Event Wish - Adrift in the Harbor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/6d59b17f79b14e9cef9385414d4f0d91_9011393563734489268.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Empyrean Reflection"  Kaveh (Dendro)
-^ | ^ | "Golden Vow"  Candace (Hydro)
-^ | ^ | "Prinzessin der Verurteilung!"  Fischl (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Empyrean Reflection" Kaveh (Dendro), "Golden Vow" Candace (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Empyrean Reflection" Kaveh (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# Event Wish "Epitome Invocation" - Boosted Drop Rate for Jadefall's Splendor (Catalyst) and Amos' Bow (Bow)!
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/81f48ed3b5e126b66e6b1a780e7fc263_5072317459746675026.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | Jadefall's Splendor (Catalyst) Amos' Bow (Bow) | Makhaira Aquamarine (Claymore)
-^ | ^ | Wandering Evenstar (Catalyst)
-^ | ^ | Lion's Roar (Sword)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Sacrificial Bow (Bow)
-
-● During the event wish, the event-exclusive 5-star weapon Jadefall's Splendor (Catalyst) and the 5-star weapon Amos' Bow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapons Makhaira Aquamarine (Claymore) and Wandering Evenstar (Catalyst) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Jadefall's Splendor (Catalyst) or Amos' Bow (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
 # Version 3.6 "A Parade of Providence" New Content Overview
 ## Version 3.6 New Content Overview
 
@@ -780,31 +602,181 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# "Lagenaria Chapter" Story Quest Overview
-## Lagenaria Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
+# "Genius Invokation TCG" Heated Battle Mode: Reinforcements
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/4cbbc49e0a212cf2543584337add03d0_7127531587354878779.jpg)
 
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Baizhu's Story Quest "Lagenaria Chapter."
+**〓Special Rules〓**
 
-The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
+
+**〓Event Duration〓**
+
+2023/04/29 10:00:00 (server) – 2023/05/08 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/b688da7b6f6ad9c7a0ce84ec1f0811b9_4528638124875903633.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Prologue: Act III - Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 ** **
 
-**〓Quest Start Time〓**
+**〓Event Details〓**
 
-Permanently available after 2023/05/02 18:00:00 (server)
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# "A Parade of Providence" Event: Take Part to Invite "Enigmatic Machinist" Faruzan (Anemo)
+## A Parade of Providence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/8b1c9ad438e0fe361fa897a3730f6501_7828659230800949848.jpg)
+
+**〓Event Gameplay Duration〓**
+
+2023/04/27 10:00:00 (server) – 2023/05/15 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/63a1a1ecf6f79348bb2472367e93f59c_6356696553975564105.png)
 
 ** **
 
-**〓Quest Unlock Criteria〓**
+**〓Eligibility〓**
 
-Adventure Rank 40 or above
+Adventure Rank 30 or above
 
-Complete Archon Quest Chapter I: Act III "A New Star Approaches"
+Complete Archon Quest "A New Star Approaches"
 
-Complete Hu Tao's Story Quest - Papilio Charontis Chapter: Act I "Yet the Butterfly Flutters Away"
+※ Complete Archon Quest "Inversion of Genesis" and Alhaitham's Story Quest "Vultur Volans Chapter: Act I" first to get the best experience from this event.
 
-And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
+※ If you have not completed Archon Quest "Inversion of Genesis" and Alhaitham's Story Quest "Vultur Volans Chapter: Act I" during the event, you can enter the event through "Quick Start" in the event page.
+
+** **
+
+**〓Event Phase Details〓**
+
+**Event Content** | **Event Content** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/04/27 10:00:00 (server) | 2023/05/15 03:59:59 (server)
+^ | Act II | 2023/04/29 04:00:00 (server) | ^
+^ | Act III | 2023/05/01 04:00:00 (server) | ^
+Gameplay Duration | Phase I | 2023/04/27 10:00:00 (server) | 2023/05/15 03:59:59 (server)
+^ | Phase II | 2023/04/29 04:00:00 (server) | ^
+^ | Phase III | 2023/05/01 04:00:00 (server) | ^
+^ | Phase IV | 2023/05/03 04:00:00 (server) | ^
+
+** **
+
+**〓Event Details〓**
+
+● During the event, six types of gameplay will unlock in sequence: Gathering of Stars, Project Connectivity, Antiquity Hunt, In Truth's Steps, Concocted Reaction, and Mimetic Replication.
+
+● In the "Gathering of Stars" gameplay, Travelers can rotate the Artisan Astrolabe and complete the pattern.
+
+● In the "Project Connectivity" gameplay, Travelers will have to use the least amount of building materials you can to construct a path from the starting point that connects all checkpoints.
+
+● In the "Antiquity Hunt" gameplay, Travelers will have to use the "Search Compass" to find hidden relic replicas at each location.
+
+● In the "In Truth's Steps" gameplay, Travelers will have to listen and consider the happenings of a certain story before responding with inquiries and discovering the truth via deduction.
+
+● In the "Concocted Reaction" gameplay, in a mysterious Domain, Travelers will have to use a variety of potions to overcome various situations while using the bonuses to maintain combat effectiveness.
+
+● In the "Mimetic Replication" gameplay, Travelers will have to control replicas for various creatures and imitate specific behaviors.
+
+● Complete these phases to gain Gala Excitement and reach a certain amount of Gala Excitement to invite "Enigmatic Machinist" Faruzan (Anemo).
+
+-----
+
+# Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!
+## Event Wish - Immaculate Pulse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/7662ef50bb02210fd6c1aea8bcea869a_7452463672664004921.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | "Beyond Mortality" Baizhu (Dendro) | "Empyrean Reflection" Kaveh (Dendro)
+^ | ^ | "Golden Vow"  Candace (Hydro)
+^ | ^ | "Prinzessin der Verurteilung!"  Fischl (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Beyond Mortality" Baizhu (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Empyrean Reflection" Kaveh (Dendro), "Golden Vow" Candace (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Empyrean Reflection" Kaveh (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count is shared by "Character Event Wish" and "Character Event Wish-2," and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Adrift in the Harbor" - Boosted Drop Rate for "Plenilune Gaze" Ganyu (Cryo)!
+## Event Wish - Adrift in the Harbor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/6d59b17f79b14e9cef9385414d4f0d91_9011393563734489268.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | "Plenilune Gaze" Ganyu (Cryo) | "Empyrean Reflection"  Kaveh (Dendro)
+^ | ^ | "Golden Vow"  Candace (Hydro)
+^ | ^ | "Prinzessin der Verurteilung!"  Fischl (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Plenilune Gaze" Ganyu (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Empyrean Reflection" Kaveh (Dendro), "Golden Vow" Candace (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Empyrean Reflection" Kaveh (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rate for Jadefall's Splendor (Catalyst) and Amos' Bow (Bow)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/81f48ed3b5e126b66e6b1a780e7fc263_5072317459746675026.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/05/02 18:00:00 (server) –  2023/05/23 14:59:59 (server) | Jadefall's Splendor (Catalyst) Amos' Bow (Bow) | Makhaira Aquamarine (Claymore)
+^ | ^ | Wandering Evenstar (Catalyst)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapon Jadefall's Splendor (Catalyst) and the 5-star weapon Amos' Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Makhaira Aquamarine (Claymore) and Wandering Evenstar (Catalyst) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Jadefall's Splendor (Catalyst) or Amos' Bow (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish page and select Details in the bottom-left corner.
 
 -----
 
@@ -847,6 +819,34 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 Fixes an issue whereby under certain circumstances, a specific Treasure Chest located at the Temir Mountains in Gavireh Lajavard could not be unlocked even after defeating all the opponents. Travelers who encounter this issue can log out through the Paimon Menu and log in again twice to resolve this issue.
 
 Fixes an issue whereby under certain circumstances, the World Quest "As the Khvarena's Light Shows" cannot be accepted normally after completing the World Quests "Awakening's Real Sound" and "Asipattravana Itihasa." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve this issue.
+
+-----
+
+# "Lagenaria Chapter" Story Quest Overview
+## Lagenaria Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Baizhu's Story Quest "Lagenaria Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. "Story Keys" are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed.)
+
+** **
+
+**〓Quest Start Time〓**
+
+Permanently available after 2023/05/02 18:00:00 (server)
+
+** **
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+Complete Hu Tao's Story Quest - Papilio Charontis Chapter: Act I "Yet the Butterfly Flutters Away"
+
+And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
 
 -----
 
