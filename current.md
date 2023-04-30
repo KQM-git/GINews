@@ -850,32 +850,6 @@ And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
 
 -----
 
-# "Fulminating Sandstorm" Event: Desert Disaster Control
-## Fulminating Sandstorm
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/a0e6908e1ed0ac79ab80f0e34306168b_2550357536103908937.jpg)
-
-**〓Event Duration〓**
-
-2023/04/21 10:00:00 (server) – 2023/05/01 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/240bebe518ba4d00020f16c1f644db7d_689772847246700234.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-Complete Archon Quest "A New Star Approaches"
-
-** **
-
-**〓Event Details〓**
-
-● The event comprises five challenges. On the first day of the event, two challenges will unlock. A new challenge will unlock every day. Newly unlocked content can only be accepted after completing the previous day's challenge.
-
-● During the event, Travelers will have to help the Akademiya researchers use the Wenutslayer Cannon in various phases to defeat the wandering Wenut and win rewards.
-
------
-
 # Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!
 ## Event Wish - The Moongrass' Enlightenment
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/6fbdf4ee7b5231cdc41b0499841a9884_6657966748010560352.jpg)
