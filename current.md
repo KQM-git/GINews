@@ -774,6 +774,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+Currently, there is an issue whereby when Tighnari uses his Elemental Burst, the in-game camera can have a small chance of working abnormally when playing on PlayStation®. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
 There is an issue in Genius Invokation TCG whereby the Summon "Ushi" summoned by the Character Card "Arataki Itto" has an abnormal effect. When the current Active Character switches to another Character due to DMG taken from a certain skill effect and the Character that is switched in does not receive DMG from said skill effect, Ushi is unable to apply the Superlative Superstrength status to Arataki Itto.
 
 In future versions, this effect will be changed to: When your character receives DMG, Arataki Itto gains Superlative Superstrength.
