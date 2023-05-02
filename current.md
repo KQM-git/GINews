@@ -1,19 +1,3 @@
-# Version 3.6 "A Parade of Providence" New Content Overview
-## Version 3.6 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/06/dea688afc179541d804e163e3738f1fb_6188324053541375243.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/06/6af143ab8b9446e3ce2d32ef365c18a9_999948236195507553.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/06/ba1c71b86372f7ba5afc3cdfa8376429_6733538686138680276.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/06/a6c61e4290b15f749212288ef16ec7eb_1969323374496424812.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/06/860284af39b160046935764f1ef5dade_2057957770817721604.jpg)
-
------
-
 # "A Parade of Providence" Version 3.6 Update Details
 ## Version 3.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/06/7eec2302465197faa54539feeaa43757_656315566257362449.png)
