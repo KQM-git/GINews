@@ -846,30 +846,6 @@ Fixes an issue whereby under certain circumstances, the World Quest "As the Khva
 
 -----
 
-# Events Survey Now Open
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2023/05/05 10:00:00 (global) - 2023/05/07 10:00:00 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_zgd6mcrzagh3my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=13106&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # "Lagenaria Chapter" Story Quest Overview
 ## Lagenaria Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
