@@ -668,6 +668,44 @@ Reinforced Reminiscence: Discover sites of important memories and restore a scen
 
 -----
 
+# Web Event "Glittering Elixirs" Now Online: Take part to obtain Primogems and other in-game rewards!
+## Web Event "Glittering Elixirs" Now Online: Take part to obtain Primogems and other in-game rewards!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/d835e19665452566cb1a4233c234be09_5255533298501018054.jpg)
+
+What kind of interesting potions can we make out of these different ingredients?
+
+Enjoy a novel potion-making experience with Paimon!
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20230511-school-4gaxpk/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230511sumeru&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2023/05/11 – 2023/05/20 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.*
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, you can log into Genshin Impact daily, consume Original Resin, and complete other missions to obtain potion crafting materials.
+
+After successfully crafting potions, you can earn Primogems and other in-game rewards based on the total number of potions crafted. During the event, Nahida and Cyno will also visit your booth, and gift you special ingredients. Complete the dialogues and obtain all of their ingredients to gain additional Primogems and in-game rewards.
+
+〓Event Rewards〓
+
+Obtain 16 potions in total and all of Nahida's and Cyno's special ingredients, as well as unlock the entire archive to obtain a total of Primogems ×120, Mystic Enhancement Ore ×4, Hero's Wit ×8, Mora ×110,000, and Sanctifying Unction ×5.
+
+*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+*Potions in this web event are purely fictional creations, Travelers should not attempt to create them in real life.
+
+-----
+
 # "A Parade of Providence" Event: Take Part to Invite "Enigmatic Machinist" Faruzan (Anemo)
 ## A Parade of Providence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/8b1c9ad438e0fe361fa897a3730f6501_7828659230800949848.jpg)
