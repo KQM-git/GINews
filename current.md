@@ -1,39 +1,3 @@
-# "The Recollector's Path" Event: Trials of the Bloomguard
-## The Recollector's Path
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/34ca75ab423e98804d71be0ce059a6d5_3008907917863890780.jpg)
-
-**〓Event Duration〓**
-
-2023/05/08 10:00:00 (server) – 2023/05/22 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/ad581022c22199f4b34b349a1dda53f3_5695478477727239880.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the World Quest "The Splendorous Sky That Day"
-
-※ Obtain the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows" first to get the best experience from this event.
-
-※ During the event, if you have not obtained the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows," you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● On the first 6 days of the "The Recollector's Path" event, a corresponding quest will be unlocked alongside two trials daily, and all prior quests and trials must be completed before the content of the following day can be accepted.
-
-● Trials need to be completed by Sorush alone and they come in three varieties:
-
-Tranquil Trail: Use the power of Nirodha Fruits to activate Curios and repel the uninvited guests invading the Vourukasha Oasis.
-
-Intrepid Impulse: Sorush must reach her destination within the time limit.
-
-Reinforced Reminiscence: Discover sites of important memories and restore a scene of significance.
-
------
-
 # "A Parade of Providence" Version 3.6 Update Details
 ## Version 3.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/06/7eec2302465197faa54539feeaa43757_656315566257362449.png)
@@ -622,6 +586,88 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby under certain circumstances, when Baizhu is interrupted while casting his Charged Attack, there is a chance that the interrupted Charged Attack will be triggered additionally when casting the Charged Attack again. This issue will be fixed in a future version. Please stay tuned for future notices.
+
+Currently, there is an issue whereby when Tighnari uses his Elemental Burst, the in-game camera can have a small chance of working abnormally when playing on PlayStation®. This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+There is an issue in Genius Invokation TCG whereby the Summon "Ushi" summoned by the Character Card "Arataki Itto" has an abnormal effect. When the current Active Character switches to another Character due to DMG taken from a certain skill effect and the Character that is switched in does not receive DMG from said skill effect, Ushi is unable to apply the Superlative Superstrength status to Arataki Itto.
+
+In future versions, this effect will be changed to: When your character receives DMG, Arataki Itto gains Superlative Superstrength.
+
+There is an issue under certain circumstances whereby Hydro applications on characters or enemies cannot be removed normally. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix. This issue will be fixed in a future version. Please stay tuned for future notices.
+
+〓2023/04/27 16:15:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2023/4/21  16:00:00 (global) Update Details〓
+
+Fixes an issue whereby the character's "HP" would have a small chance of not being displayed during Genius Invokation TCG duels. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+〓2023/04/20 16:15:00 (global) Update Details〓
+
+Fixes an issue whereby the purple mist in Asipattravana Swamp did not automatically dissipate for some players after completing the World Quest "Khvarena of Good and Evil."
+
+Fixes an issue whereby the Party Setup page could not be opened by pressing the "Open Party Setup Screen" button after adjusting it via custom button configuration settings.
+
+Fixes an issue whereby Yelan's Elemental Skill effects displayed abnormally on some Android devices.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2023/04/14 11:10:00 (global) Update Details〓
+
+Fixes an issue whereby under certain circumstances, a specific Treasure Chest located at the Temir Mountains in Gavireh Lajavard could not be unlocked even after defeating all the opponents. Travelers who encounter this issue can log out through the Paimon Menu and log in again twice to resolve this issue.
+
+Fixes an issue whereby under certain circumstances, the World Quest "As the Khvarena's Light Shows" cannot be accepted normally after completing the World Quests "Awakening's Real Sound" and "Asipattravana Itihasa." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve this issue.
+
+-----
+
+# "The Recollector's Path" Event: Trials of the Bloomguard
+## The Recollector's Path
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/34ca75ab423e98804d71be0ce059a6d5_3008907917863890780.jpg)
+
+**〓Event Duration〓**
+
+2023/05/08 10:00:00 (server) – 2023/05/22 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/ad581022c22199f4b34b349a1dda53f3_5695478477727239880.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the World Quest "The Splendorous Sky That Day"
+
+※ Obtain the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows" first to get the best experience from this event.
+
+※ During the event, if you have not obtained the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows," you can enter the event through "Quick Start" in the event page.
+
+**〓Event Details〓**
+
+● On the first 6 days of the "The Recollector's Path" event, a corresponding quest will be unlocked alongside two trials daily, and all prior quests and trials must be completed before the content of the following day can be accepted.
+
+● Trials need to be completed by Sorush alone and they come in three varieties:
+
+Tranquil Trail: Use the power of Nirodha Fruits to activate Curios and repel the uninvited guests invading the Vourukasha Oasis.
+
+Intrepid Impulse: Sorush must reach her destination within the time limit.
+
+Reinforced Reminiscence: Discover sites of important memories and restore a scene of significance.
+
+-----
+
 # "A Parade of Providence" Event: Take Part to Invite "Enigmatic Machinist" Faruzan (Anemo)
 ## A Parade of Providence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/8b1c9ad438e0fe361fa897a3730f6501_7828659230800949848.jpg)
@@ -765,52 +811,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish page and select Details in the bottom-left corner.
-
------
-
-# Version Details - What's New 
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby under certain circumstances, when Baizhu is interrupted while casting his Charged Attack, there is a chance that the interrupted Charged Attack will be triggered additionally when casting the Charged Attack again. This issue will be fixed in a future version. Please stay tuned for future notices.
-
-Currently, there is an issue whereby when Tighnari uses his Elemental Burst, the in-game camera can have a small chance of working abnormally when playing on PlayStation®. This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-There is an issue in Genius Invokation TCG whereby the Summon "Ushi" summoned by the Character Card "Arataki Itto" has an abnormal effect. When the current Active Character switches to another Character due to DMG taken from a certain skill effect and the Character that is switched in does not receive DMG from said skill effect, Ushi is unable to apply the Superlative Superstrength status to Arataki Itto.
-
-In future versions, this effect will be changed to: When your character receives DMG, Arataki Itto gains Superlative Superstrength.
-
-There is an issue under certain circumstances whereby Hydro applications on characters or enemies cannot be removed normally. Travelers who experience this issue can exit the game via the Paimon Menu before logging in again as a temporary fix. This issue will be fixed in a future version. Please stay tuned for future notices.
-
-〓2023/04/27 16:15:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2023/4/21  16:00:00 (global) Update Details〓
-
-Fixes an issue whereby the character's "HP" would have a small chance of not being displayed during Genius Invokation TCG duels. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
-
-〓2023/04/20 16:15:00 (global) Update Details〓
-
-Fixes an issue whereby the purple mist in Asipattravana Swamp did not automatically dissipate for some players after completing the World Quest "Khvarena of Good and Evil."
-
-Fixes an issue whereby the Party Setup page could not be opened by pressing the "Open Party Setup Screen" button after adjusting it via custom button configuration settings.
-
-Fixes an issue whereby Yelan's Elemental Skill effects displayed abnormally on some Android devices.
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2023/04/14 11:10:00 (global) Update Details〓
-
-Fixes an issue whereby under certain circumstances, a specific Treasure Chest located at the Temir Mountains in Gavireh Lajavard could not be unlocked even after defeating all the opponents. Travelers who encounter this issue can log out through the Paimon Menu and log in again twice to resolve this issue.
-
-Fixes an issue whereby under certain circumstances, the World Quest "As the Khvarena's Light Shows" cannot be accepted normally after completing the World Quests "Awakening's Real Sound" and "Asipattravana Itihasa." Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve this issue.
 
 -----
 
