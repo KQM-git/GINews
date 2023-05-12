@@ -946,48 +946,6 @@ With the Version 3.6 update, new functions have also been added to HoYoLAB's Gen
 
 -----
 
-# "Adventurer's Booster Bundles" - Round 22 Available for a Limited Time
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/a6279d8382df4eb47be8bf7b79ac1b8a_8604837743607017993.jpg)
-
-Round 22 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 3.6 update – 2023/04/26 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 3.6 update – 2023/04/26 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-** **
-
-**〓Adventurer's Tempering Bundle〓**
-
-Duration: 2023/04/27 00:00:00 (server) – 2023/05/12 23:59:59 (server)
-
-Bundle Contents: Eminent Share Bundle ×10, Mora ×60,000
-
-Bundle Price: Now 50% off for a limited time! The price after discount is 120 Genesis Crystals. Can be purchased up to five times in total.
-
-※ Eminent Share Bundle: After usage, you can select any one 3-star Weapon Ascension Material from all the options available in the current Version.
-
------
-
 # Game Survey
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
