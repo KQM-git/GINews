@@ -632,42 +632,6 @@ Fixes an issue whereby under certain circumstances, the World Quest "As the Khva
 
 -----
 
-# "The Recollector's Path" Event: Trials of the Bloomguard
-## The Recollector's Path
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/34ca75ab423e98804d71be0ce059a6d5_3008907917863890780.jpg)
-
-**〓Event Duration〓**
-
-2023/05/08 10:00:00 (server) – 2023/05/22 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/ad581022c22199f4b34b349a1dda53f3_5695478477727239880.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the World Quest "The Splendorous Sky That Day"
-
-※ Obtain the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows" first to get the best experience from this event.
-
-※ During the event, if you have not obtained the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows," you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● On the first 6 days of the "The Recollector's Path" event, a corresponding quest will be unlocked alongside two trials daily, and all prior quests and trials must be completed before the content of the following day can be accepted.
-
-● Trials need to be completed by Sorush alone and they come in three varieties:
-
-Tranquil Trail: Use the power of Nirodha Fruits to activate Curios and repel the uninvited guests invading the Vourukasha Oasis.
-
-Intrepid Impulse: Sorush must reach her destination within the time limit.
-
-Reinforced Reminiscence: Discover sites of important memories and restore a scene of significance.
-
------
-
 # Web Event "Glittering Elixirs" Now Online: Take part to obtain Primogems and other in-game rewards!
 ## Web Event "Glittering Elixirs" Now Online: Take part to obtain Primogems and other in-game rewards!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/d835e19665452566cb1a4233c234be09_5255533298501018054.jpg)
@@ -703,6 +667,42 @@ Obtain 16 potions in total and all of Nahida's and Cyno's special ingredients, a
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
 
 *Potions in this web event are purely fictional creations, Travelers should not attempt to create them in real life.
+
+-----
+
+# "The Recollector's Path" Event: Trials of the Bloomguard
+## The Recollector's Path
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/34ca75ab423e98804d71be0ce059a6d5_3008907917863890780.jpg)
+
+**〓Event Duration〓**
+
+2023/05/08 10:00:00 (server) – 2023/05/22 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/ad581022c22199f4b34b349a1dda53f3_5695478477727239880.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the World Quest "The Splendorous Sky That Day"
+
+※ Obtain the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows" first to get the best experience from this event.
+
+※ During the event, if you have not obtained the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows," you can enter the event through "Quick Start" in the event page.
+
+**〓Event Details〓**
+
+● On the first 6 days of the "The Recollector's Path" event, a corresponding quest will be unlocked alongside two trials daily, and all prior quests and trials must be completed before the content of the following day can be accepted.
+
+● Trials need to be completed by Sorush alone and they come in three varieties:
+
+Tranquil Trail: Use the power of Nirodha Fruits to activate Curios and repel the uninvited guests invading the Vourukasha Oasis.
+
+Intrepid Impulse: Sorush must reach her destination within the time limit.
+
+Reinforced Reminiscence: Discover sites of important memories and restore a scene of significance.
 
 -----
 
@@ -852,6 +852,26 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # "Lagenaria Chapter" Story Quest Overview
 ## Lagenaria Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/60990c47927c50a0ffa2e70282ccf30b_2012233696499448072.jpg)
@@ -880,26 +900,6 @@ And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # "Crown of Glory" Event Details
 ## Crown of Glory
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/f97866bc67baeaca07253c60d2a313f3_530350917212313680.jpg)
@@ -921,6 +921,28 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
 
 ※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/05/22 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# The Version 3.6 Tools Update is here!
+## The Version 3.6 Tools Update is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/07/3aa7412415c84b289fb27a2b1693088b_1840597702174529418.png)
+
+Dear Travelers,
+
+With the Version 3.6 update, new functions have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
+
+| Battle Chronicle Update: The Genius Invokation TCG Duel Log function has been added! Brilliant duels deserve to be relived and shared. With this feature, you don't have to worry about missing out!
+
+[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+| Enhancement Progression Calculator Update: You can now add Furnishing Sets with a click of the button! Also, you can now be redirected to the Wiki when checking information for materials. You will no longer get lost looking for resources!
+
+[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+| Lineup Simulator: Support for related lineup queries and posts for the new characters Baizhu and Kaveh
+
+[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
 
 -----
 
@@ -963,28 +985,6 @@ Bundle Contents: Eminent Share Bundle ×10, Mora ×60,000
 Bundle Price: Now 50% off for a limited time! The price after discount is 120 Genesis Crystals. Can be purchased up to five times in total.
 
 ※ Eminent Share Bundle: After usage, you can select any one 3-star Weapon Ascension Material from all the options available in the current Version.
-
------
-
-# The Version 3.6 Tools Update is here!
-## The Version 3.6 Tools Update is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/07/3aa7412415c84b289fb27a2b1693088b_1840597702174529418.png)
-
-Dear Travelers,
-
-With the Version 3.6 update, new functions have also been added to HoYoLAB's Genshin Impact Tools. Let's check them out together!
-
-| Battle Chronicle Update: The Genius Invokation TCG Duel Log function has been added! Brilliant duels deserve to be relived and shared. With this feature, you don't have to worry about missing out!
-
-[>> Click to view Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
-
-| Enhancement Progression Calculator Update: You can now add Furnishing Sets with a click of the button! Also, you can now be redirected to the Wiki when checking information for materials. You will no longer get lost looking for resources!
-
-[>> Click to use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
-
-| Lineup Simulator: Support for related lineup queries and posts for the new characters Baizhu and Kaveh
-
-[>> Click to go to the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
 
 -----
 
