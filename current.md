@@ -632,6 +632,26 @@ Fixes an issue whereby under certain circumstances, the World Quest "As the Khva
 
 -----
 
+# "Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/713e290d673605bb82d2832ae54d75fd_9072633624639013815.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+**〓Event Duration〓**
+
+2023/05/15 04:00:00 (server) – 2023/05/22 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains such as "Forsaken Rift," "Taishan Mansion," "Violet Court," and "Steeple of Ignorance" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # Web Event "Glittering Elixirs" Now Online: Take part to obtain Primogems and other in-game rewards!
 ## Web Event "Glittering Elixirs" Now Online: Take part to obtain Primogems and other in-game rewards!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/d835e19665452566cb1a4233c234be09_5255533298501018054.jpg)
