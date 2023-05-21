@@ -632,46 +632,6 @@ Fixes an issue whereby under certain circumstances, the World Quest "As the Khva
 
 -----
 
-# The Version 3.7 Genius Invokation TCG Content Display Page is now available!
-## The Version 3.7 Genius Invokation TCG Content Display Page is now available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/11/920c8520cf6617c2a148ff7ff4261b3f_8430081806328876146.jpg)
-
-[>> Click to view the Version 3.7 Genius Invokation TCG Content Display Page "Kings and Queens of Invokations, Assemble!" <<](https://act.hoyoverse.com/puzzle/hk4e/pz_VCMexIthmV/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&hyl_hide_status_bar=true&sign_type=2&authkey_ver=1&auth_appid=pz_VCMexIthmV)
-
-Hi Travelers, the King of Invokations Grand Prix is about to begin! Go to the Content Display Page "Kings and Queens of Invokations, Assemble!" to see the new Character Cards and Action Cards as well as the new TCG gameplay modes!
-
-Finish browsing through the Content Display Page to receive Mora ×20,000!
-
-The event reward can be claimed any time before the end of Version 3.7.
-
-Once claimed, the reward will be sent to you via in-game mail within 5-10 minutes.
-
------
-
-# Version Satisfaction Survey Now Open
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2023/05/19 10:00:00 (global) - 2023/05/21 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_bhd6mcuz4gh4my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=13478&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # The Version 3.7 "Duel! The Summoners' Summit!" Preview Page Is Here!
 ## Genshin Impact Version 3.7 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/11/9e42d375f4b48aa5dcbec8423495deb5_4575783585884552864.jpg)
