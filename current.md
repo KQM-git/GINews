@@ -646,62 +646,6 @@ The Version 3.7 "Duel! The Summoners' Summit!" Preview Page is here!
 
 -----
 
-# "Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/713e290d673605bb82d2832ae54d75fd_9072633624639013815.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-**〓Event Duration〓**
-
-2023/05/15 04:00:00 (server) – 2023/05/22 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains such as "Forsaken Rift," "Taishan Mansion," "Violet Court," and "Steeple of Ignorance" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# "The Recollector's Path" Event: Trials of the Bloomguard
-## The Recollector's Path
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/14/34ca75ab423e98804d71be0ce059a6d5_3008907917863890780.jpg)
-
-**〓Event Duration〓**
-
-2023/05/08 10:00:00 (server) – 2023/05/22 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/03/20/ad581022c22199f4b34b349a1dda53f3_5695478477727239880.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the World Quest "The Splendorous Sky That Day"
-
-※ Obtain the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows" first to get the best experience from this event.
-
-※ During the event, if you have not obtained the "Twin-Horned Chaplet" in the World Quest "As the Khvarena's Light Shows," you can enter the event through "Quick Start" in the event page.
-
-**〓Event Details〓**
-
-● On the first 6 days of the "The Recollector's Path" event, a corresponding quest will be unlocked alongside two trials daily, and all prior quests and trials must be completed before the content of the following day can be accepted.
-
-● Trials need to be completed by Sorush alone and they come in three varieties:
-
-Tranquil Trail: Use the power of Nirodha Fruits to activate Curios and repel the uninvited guests invading the Vourukasha Oasis.
-
-Intrepid Impulse: Sorush must reach her destination within the time limit.
-
-Reinforced Reminiscence: Discover sites of important memories and restore a scene of significance.
-
------
-
 # Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!
 ## Event Wish - Immaculate Pulse
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/7662ef50bb02210fd6c1aea8bcea869a_7452463672664004921.jpg)
@@ -835,30 +779,6 @@ Complete Archon Quest Chapter I: Act III "A New Star Approaches"
 Complete Hu Tao's Story Quest - Papilio Charontis Chapter: Act I "Yet the Butterfly Flutters Away"
 
 And complete Xiao's Story Quest - Alatus Chapter: Act I "Butterfly's Dream"
-
------
-
-# "Crown of Glory" Event Details
-## Crown of Glory
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/03/29/f97866bc67baeaca07253c60d2a313f3_530350917212313680.jpg)
-
-Travelers can earn rich rewards in "Crown of Glory" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Crown of Glory" and Furnishing Blueprint "Pure Heat."
-
-**〓Event Duration〓**
-
-After the Version 3.6 update – 2023/05/22 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost in order to unlock Gnostic Chorus.
-
-※The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/05/22 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
