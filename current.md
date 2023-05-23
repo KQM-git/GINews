@@ -1,115 +1,3 @@
-# "Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)
-## Duel! The Summoners' Summit!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/714658ed27ff034e9d21811e76548150_3305092719151879451.png)
-
-**〓Event Gameplay Duration〓**
-
-2023/05/25 10:00:00 (server) - 2023/06/12 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/27/b9cbaef41e6f0c60164fbfa67d87ce1b_8469724249708318175.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the Archon Quest "Ritou Escape Plan"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Mona's Story Quest "Astrolabos Chapter: Act I," and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" first to get the best experience from this event.
-
-※ During the event, if you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Mona's Story Quest "Astrolabos Chapter: Act I," and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** |    **Event Content** | **Start Time** | **End Time**  
---- | --- | --- | ---
-Gameplay Duration | Phase I | 2023/05/25 10:00:00 (server) | 2023/06/12 03:59:59 (server)
-^ | Phase II | 2023/05/27 04:00:00 (server) | ^
-^ | Phase III | 2023/05/29 04:00:00 (server) | ^
-^ | Phase IV | 2023/05/31 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/05/25 10:00:00 (server) | 2023/06/19 03:59:59 (server)
-
-**〓Event Details〓**
-
-● During the event, four types of gameplay will unlock in sequence: A Tour of Wonders, Zero Hour Invokation, Evermotion Mechanical Painting: Invoker, and Heart of the Dice.
-
-● In the "A Tour of Wonders" gameplay, Travelers will have to complete the required challenges and find the Scenic Checkpoints for stamps.
-
-● In the "Zero Hour Invokation" gameplay, Travelers will have to use preset decks to engage in Genius Invokation duels.
-
-● In the "Evermotion Mechanical Painting: Invoker" gameplay, Travelers will have to restore 8 Evermotion Mechanical Paintings and assemble the paintings.
-
-● In the "Heart of the Dice" gameplay, Travelers can defeat enemies to accumulate Invokation Dice. Consume Invokation Dice gained to cast Suppressive Rolls, which will allow the Traveler to more efficiently contain their foes and obtain numerous benefits.
-
-● Complete these phases to obtain Invokation Coupons to exchange for rewards such as Ibis Piercer, Crown of Insight, and the event-exclusive Weapon Refinement Materials from the Event Shop.
-
-● After the event gameplay period ends, Invokation Coupons will disappear. Please make sure to claim the rewards in time.
-
------
-
-# "Genius Invokation TCG" Event: The Forge Realm's Temper
-## Genius Invokation TCG
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e2bb9a8df11020385058bcd1ec7ba99d_2377135616645906187.png)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 3.7
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/05/18/b688da7b6f6ad9c7a0ce84ec1f0811b9_5095355049270355854.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 5 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
-## Event Wish - Tapestry of Golden Flames
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e10a697a32196d3d05e08d76d52bdbae_4384336468998973891.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Cat Upon the Eaves" Kirara (Dendro)
-^ | ^ | "Stage Lucida"  Yun Jin (Geo)
-^ | ^ | "Frozen Ardor" Chongyun (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Stage Lucida" Yun Jin (Geo), and "Frozen Ardor" Chongyun (Cryo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Cat Upon the Eaves" Kirara (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # "Duel! The Summoners' Summit!" Version 3.7 Update Maintenance Preview
 ## Version 3.7 Update Maintenance Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/18/c941908b14dcaf160083796a10645f89_3362458637241895710.jpg)
@@ -224,9 +112,91 @@ Adds voice lines of the Elemental Skills of "Sprout of Rebirth" Collei (Dendro),
 
 -----
 
-# Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
-## Event Wish - Everbloom Violet
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/0370e0d921cf5bae96083a4d2cd6b4f8_2661209725714264639.png)
+# "Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)
+## Duel! The Summoners' Summit!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/714658ed27ff034e9d21811e76548150_3305092719151879451.png)
+
+**〓Event Gameplay Duration〓**
+
+2023/05/25 10:00:00 (server) - 2023/06/12 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/04/27/b9cbaef41e6f0c60164fbfa67d87ce1b_8469724249708318175.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete the Archon Quest "Ritou Escape Plan"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Mona's Story Quest "Astrolabos Chapter: Act I," and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" first to get the best experience from this event.
+
+※ During the event, if you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Mona's Story Quest "Astrolabos Chapter: Act I," and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," you can enter the event through "Quick Start" in the event page.
+
+**〓Event Phase Details〓**
+
+**Event Content** |    **Event Content** | **Start Time** | **End Time**  
+--- | --- | --- | ---
+Gameplay Duration | Phase I | 2023/05/25 10:00:00 (server) | 2023/06/12 03:59:59 (server)
+^ | Phase II | 2023/05/27 04:00:00 (server) | ^
+^ | Phase III | 2023/05/29 04:00:00 (server) | ^
+^ | Phase IV | 2023/05/31 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2023/05/25 10:00:00 (server) | 2023/06/19 03:59:59 (server)
+
+**〓Event Details〓**
+
+● During the event, four types of gameplay will unlock in sequence: A Tour of Wonders, Zero Hour Invokation, Evermotion Mechanical Painting: Invoker, and Heart of the Dice.
+
+● In the "A Tour of Wonders" gameplay, Travelers will have to complete the required challenges and find the Scenic Checkpoints for stamps.
+
+● In the "Zero Hour Invokation" gameplay, Travelers will have to use preset decks to engage in Genius Invokation duels.
+
+● In the "Evermotion Mechanical Painting: Invoker" gameplay, Travelers will have to restore 8 Evermotion Mechanical Paintings and assemble the paintings.
+
+● In the "Heart of the Dice" gameplay, Travelers can defeat enemies to accumulate Invokation Dice. Consume Invokation Dice gained to cast Suppressive Rolls, which will allow the Traveler to more efficiently contain their foes and obtain numerous benefits.
+
+● Complete these phases to obtain Invokation Coupons to exchange for rewards such as Ibis Piercer, Crown of Insight, and the event-exclusive Weapon Refinement Materials from the Event Shop.
+
+● After the event gameplay period ends, Invokation Coupons will disappear. Please make sure to claim the rewards in time.
+
+-----
+
+# "Genius Invokation TCG" Event: The Forge Realm's Temper
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e2bb9a8df11020385058bcd1ec7ba99d_2377135616645906187.png)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 3.7
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/05/18/b688da7b6f6ad9c7a0ce84ec1f0811b9_5095355049270355854.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 5 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
+## Event Wish - Tapestry of Golden Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e10a697a32196d3d05e08d76d52bdbae_4384336468998973891.png)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -234,11 +204,11 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 **Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
 --- | --- | ---
-After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Astute Amusement" Yae Miko (Electro) | "Cat Upon the Eaves" Kirara (Dendro)
+After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Cat Upon the Eaves" Kirara (Dendro)
 ^ | ^ | "Stage Lucida"  Yun Jin (Geo)
 ^ | ^ | "Frozen Ardor" Chongyun (Cryo)
 
-● During this event wish, the event-exclusive 5-star character "Astute Amusement" Yae Miko (Electro) will receive a huge drop-rate boost!
+● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
 
 ● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Stage Lucida" Yun Jin (Geo), and "Frozen Ardor" Chongyun (Cryo) will receive a huge drop-rate boost!
 
@@ -246,7 +216,7 @@ After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Astute Amusemen
 
 ※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
@@ -295,6 +265,36 @@ After the pre-installation function is available, you must first update the Gens
 ![img](https://sdk.hoyoverse.com/upload/ann/2022/11/24/6111e77fd13698afe9d71a0badad58eb_2455943146733296667.png)
 
 Using the pre-installation function can speed up the update progress of the launcher during version updates.
+
+-----
+
+# Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
+## Event Wish - Everbloom Violet
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/0370e0d921cf5bae96083a4d2cd6b4f8_2661209725714264639.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Astute Amusement" Yae Miko (Electro) | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Stage Lucida"  Yun Jin (Geo)
+^ | ^ | "Frozen Ardor" Chongyun (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Astute Amusement" Yae Miko (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Stage Lucida" Yun Jin (Geo), and "Frozen Ardor" Chongyun (Cryo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Cat Upon the Eaves" Kirara (Dendro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -932,6 +932,20 @@ Fixes an issue whereby under certain circumstances, the World Quest "As the Khva
 
 -----
 
+# The Version 3.7 "Duel! The Summoners' Summit!" Preview Page Is Here!
+## Genshin Impact Version 3.7 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/11/9e42d375f4b48aa5dcbec8423495deb5_4575783585884552864.jpg)
+
+Dear Traveler,
+
+The Version 3.7 "Duel! The Summoners' Summit!" Preview Page is here!
+
+[>>>>Go to V3.7 "Duel! The Summoners' Summit!" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230514preview-a9v8et/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230514warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※  Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # Event Wish "Epitome Invocation" - Boosted Drop Rates for Thundering Pulse (Bow) and Kagura's Verity (Catalyst)!
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/a9ddcac7b0ee53f3ce843ed2cccbadc4_4767738093754423356.png)
@@ -984,17 +998,23 @@ And complete the World Quest "The World of Aranara" from Aranyaka: Part II "Drea
 
 -----
 
-# The Version 3.7 "Duel! The Summoners' Summit!" Preview Page Is Here!
-## Genshin Impact Version 3.7 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/11/9e42d375f4b48aa5dcbec8423495deb5_4575783585884552864.jpg)
+# HoYoLAB Community "Daily Check-In" Feature
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
 
-Dear Traveler,
+Dear Travelers,
 
-The Version 3.7 "Duel! The Summoners' Summit!" Preview Page is here!
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-[>>>>Go to V3.7 "Duel! The Summoners' Summit!" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230514preview-a9v8et/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230514warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
 
-※  Open the event webpage from within the game and share the page to get 20,000 Mora
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
@@ -1073,26 +1093,6 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# HoYoLAB Community "Daily Check-In" Feature
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
