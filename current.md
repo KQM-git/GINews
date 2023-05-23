@@ -932,20 +932,6 @@ Fixes an issue whereby under certain circumstances, the World Quest "As the Khva
 
 -----
 
-# The Version 3.7 "Duel! The Summoners' Summit!" Preview Page Is Here!
-## Genshin Impact Version 3.7 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/11/9e42d375f4b48aa5dcbec8423495deb5_4575783585884552864.jpg)
-
-Dear Traveler,
-
-The Version 3.7 "Duel! The Summoners' Summit!" Preview Page is here!
-
-[>>>>Go to V3.7 "Duel! The Summoners' Summit!" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230514preview-a9v8et/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230514warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※  Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # Event Wish "Epitome Invocation" - Boosted Drop Rates for Thundering Pulse (Bow) and Kagura's Verity (Catalyst)!
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/a9ddcac7b0ee53f3ce843ed2cccbadc4_4767738093754423356.png)
