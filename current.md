@@ -386,6 +386,22 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# Version Details - What's New 
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+After the Version 3.7 update, there is an issue whereby the new name that some Travelers have given to the Wanderer would be reset abnormally. This issue will be fixed in a future update, and we will inform Travelers about the corresponding compensation via notices after this issue has been fixed. Please stay tuned for official announcements.
+
+We sincerely apologize for the inconvenience caused.
+
+-----
+
 # "Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)
 ## Duel! The Summoners' Summit!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/714658ed27ff034e9d21811e76548150_3305092719151879451.png)
