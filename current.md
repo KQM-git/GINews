@@ -394,6 +394,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓2023/05/26 11:05:00 (global) Update Details〓
+
+Fixes an issue whereby there is a chance that abnormalities would occur in the game if you teleport immediately after Nahida casts "All Schemes to Know" on NPCs.
+
 〓2023/05/25 18:10:00 (global) Update Details〓
 
 Fixes an issue whereby after the Version 3.7 update, the new name that some Travelers have given to the Wanderer would be reset abnormally.
