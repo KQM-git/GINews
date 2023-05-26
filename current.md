@@ -400,11 +400,17 @@ Fixes an issue whereby there is a chance that abnormalities would occur in the g
 
 〓2023/05/25 18:10:00 (global) Update Details〓
 
-Fixes an issue whereby after the Version 3.7 update, the new name that some Travelers have given to the Wanderer would be reset abnormally.
+May 26 Update
 
-After the Version 3.7 update, Travelers who had their character's "name" reset abnormally will be able to change it back to the name before the version update.
+Update Details: Rolls back the restrictions added to the renaming of the character "Wanderer" after the Version 3.7 update.
 
-We will optimize the relevant system in future versions.
+We sincerely apologize for the inconvenience caused to some Travelers who received in-game warning mails when they attempted to rename their character as per normal, due to naming restrictions added in Version 3.7, which negatively impacted players' gaming experience.
+
+This change has been rolled back. Previously approved names will not be forcibly reset by the system, and Travelers will not receive in-game warning mails for choosing a name that is the same as an in-game NPC or character.
+
+We will adjust the relevant reminder mails and optimize the relevant system in future versions.
+
+We sincerely apologize for the inconvenience caused.
 
 ▌Compensation Details
 
