@@ -426,29 +426,33 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
-# Genshin Impact Tools Update 3.7 Notice
-## Genshin Impact Tools Update 3.7 Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/23/f6d9046145c3b579cde3cd848e24521f_5181263105441986847.jpg)
+# Card Plaza Update Notice
+## Card Plaza Mega Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/23/27468ac39d1f6271be28b4bb16b041fd_6061812337035057076.jpg)
 
 Dear Travelers,
 
-With the arrival of Version 3.7 for Genshin Impact, HoYoLAB's tools, likewise, have also gained related additions. Let's all take a look at what new and improved experiences this version update might bring!
+New Version 3.7 Genshin Impact tool upgrades have been added to the Card Plaza, offering Travelers a brand-new user experience. Let's look over what's new together!
 
-| Battle Chronicle Update Details: New Battle Chronicle accomplishments can now be shared with a click, and new battle achievements have been added.
+Card Plaza Now Available on PC
 
-Once Travelers clear Floor 12 Chamber 3 of the Spiral Abyss, they will immediately get a message informing them of their floor progress, and share their progress with a click!
+Supports the quick-viewing, editing, and sharing of Genius Invokation TCG decks on PC.
 
-Additionally, "Genius Invokation TCG: Arena of Champions" card ranks in the Battle Chronicle offer new glorious memories worth recording.
+More Efficient Deck Exchanges
 
-[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=330&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=battlechronicle&utm_id=2)
+Players can use the "Click to generate image" button on the top-right corner of the Deck Details page to save an image of their deck and share it on HoYoLAB.
 
-| Lineup Simulator: Support for related lineup queries and posts for the new 4-star character Kirara
+Just as the Card Plaza allows for the publishing of one's deck, it also allows for the uploading of live duels in the form of YouTube videos. The combat experience and functional use of decks have thus been made more intuitive.
 
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_id=2)
+New Popular Tags Section
 
-| Enhancement Progression Calculator: Added new 4-star character Kirara
+The Popular Tags section will display decks that are presently tagged as popular in the Card Plaza. Travelers can click the tags to review the corresponding decks and easily inquire about popular content.
 
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_id=2)
+New Cards Await
+
+Combined with Genshin Impact Version 3.7's release, this Card Plaza will feature the newly-added Version 3.7 Character and Action Cards. This will give you more choices when building decks.
+
+[>> Click to Go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_id=2)
 
 Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
 
