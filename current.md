@@ -464,6 +464,38 @@ Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
 
 -----
 
+# "Genius Invokation TCG" Heated Battle Mode: Tactical Formation
+## Genius Invokation TCG: Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/abdb64740326f3750f3fb772866de746_3530605637952406251.png)
+
+**〓Special Rules〓**
+
+In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+** **
+
+**〓Event Duration〓**
+
+2023/06/03 10:00:00 (server) — 2023/06/12 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/05/08/b688da7b6f6ad9c7a0ce84ec1f0811b9_6984566588179255869.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # "Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)
 ## Duel! The Summoners' Summit!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/714658ed27ff034e9d21811e76548150_3305092719151879451.png)
