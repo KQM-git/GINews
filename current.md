@@ -484,6 +484,40 @@ Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
 
 -----
 
+# "Divine Ingenuity: Collector's Chapter" Event: Design Your Own Domain Challenge
+## Divine Ingenuity: Collector's Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/f8a9fd88bc338e71902f21dc7696d629_3030421800956068276.png)
+
+**〓Event Duration〓**
+
+2023/06/08 10:00:00 (server) – 2023/06/29 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/04/27/a13f23bd240f42a8cbe137e9f46d2095_7820106829685580223.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Preset Domains〓**
+
+● The Adventurers' Guild has created five Preset Domains from the imaginations of its adventurers. From the first day of the event, a new Preset Domain will unlock each day. Complete the Preset Domain challenges and obtain a specified amount of Artificer Points to obtain rewards such as Primogems, Talent Level-Up Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+**〓Custom Domains〓**
+
+● The Custom Domains function allows you to play Domains that have been published by other Travelers and even make some yourself.
+
+● You can also publish Domains that you have designed for all to see, though you will have to complete any such Domain once yourself first.
+
+● In a Custom Domain, complete the specified tasks to obtain rewards such as Talent Level-Up Materials, Weapon Ascension Materials, and Mora.
+
+※ When the "Divine Ingenuity: Collector's Chapter" event concludes, please take note that all event data related to the Custom Domains will not be saved.
+
+-----
+
 # "Genius Invokation TCG" Heated Battle Mode: Tactical Formation
 ## Genius Invokation TCG: Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/abdb64740326f3750f3fb772866de746_3530605637952406251.png)
