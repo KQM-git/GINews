@@ -602,36 +602,6 @@ Event Shop Duration | Event Shop Duration | 2023/05/25 10:00:00 (server) | 2023/
 
 -----
 
-# "Genius Invokation TCG" Event: The Forge Realm's Temper
-## Genius Invokation TCG
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e2bb9a8df11020385058bcd1ec7ba99d_2377135616645906187.png)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 3.7
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/05/18/b688da7b6f6ad9c7a0ce84ec1f0811b9_5095355049270355854.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 5 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
 ## Event Wish - Tapestry of Golden Flames
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e10a697a32196d3d05e08d76d52bdbae_4384336468998973891.png)
@@ -717,6 +687,36 @@ After the Version 3.7 update — 2023/06/13 17:59:00 (server) | Thundering Pulse
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# "Genius Invokation TCG" Event: The Forge Realm's Temper
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e2bb9a8df11020385058bcd1ec7ba99d_2377135616645906187.png)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 3.7
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/05/18/b688da7b6f6ad9c7a0ce84ec1f0811b9_5095355049270355854.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 5 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
