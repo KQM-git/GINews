@@ -648,6 +648,90 @@ Event Shop Duration | Event Shop Duration | 2023/05/25 10:00:00 (server) | 2023/
 
 -----
 
+# Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!
+## Event Wish - Caution in Confidence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/8b600da66b8e34b0ee8c5818c07365ba_2619383580423857758.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured ** **Characters ** **(4-Star)**
+--- | --- | ---
+2023/06/13 18:00:00 (server) — 2023/07/04 14:59:59 (server) | "Admonishing Instruction" Alhaitham (Dendro) | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Analytical Harmony" Shikanoin Heizou (Anemo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Admonishing Instruction" Alhaitham (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Burgeoning Grace" Yaoyao (Dendro), "Analytical Harmony" Shikanoin Heizou (Anemo), "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!
+## Event Wish - Leaves in the Wind
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/eb9c98ddfa2a07e7bded5278439723a7_7683176800244148950.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters ** **(4-Star)**
+--- | --- | ---
+2023/06/13 18:00:00 (server) — 2023/07/04 14:59:59 (server) | "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Analytical Harmony" Shikanoin Heizou (Anemo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Burgeoning Grace" Yaoyao (Dendro), "Analytical Harmony" Shikanoin Heizou (Anemo), "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# Event Wish "Epitome Invocation" - Boosted Drop Rates for Light of Foliar Incision (Sword) and Freedom-Sworn (Sword)!
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/7487ba63ebbcac82858a8e413a40c872_3474906954147013691.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/06/13 18:00:00 (server) — 2023/07/04 14:59:59 (server) | Light of Foliar Incision (Sword)   Freedom-Sworn (Sword) | Wavebreaker's Fin (Polearm)
+^ | ^ | Mouun's Moon (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Favonius Codex (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Light of Foliar Incision (Sword) and Freedom-Sworn (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Wavebreaker's Fin (Polearm) and Mouun's Moon (Bow) as well as the 4-star weapons Favonius Sword (Sword), Sacrificial Greatsword (Claymore), and Favonius Codex (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Light of Foliar Incision (Sword) or Freedom-Sworn (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
 ## Event Wish - Tapestry of Golden Flames
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e10a697a32196d3d05e08d76d52bdbae_4384336468998973891.png)
