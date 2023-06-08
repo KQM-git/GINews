@@ -394,6 +394,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓2023/06/08 16:15:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
 〓2023/06/01 11:10:00 (global) Update Details〓
 
 Fixes an issue with an abnormal display of red dots in the Genius Invokation TCG Card Shop.
