@@ -1,4 +1,4 @@
-# Version 3.7 "Duel! The Summoners' Summit!" New Content Overview
+# [Version 3.7 "Duel! The Summoners' Summit!" New Content Overview](archive/3647.md)
 ## Version 3.7 New Content Overview
 
 
@@ -14,7 +14,7 @@
 
 -----
 
-# "Duel! The Summoners' Summit!" Version 3.7 Update Details
+# ["Duel! The Summoners' Summit!" Version 3.7 Update Details](archive/3646.md)
 ## Version 3.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/61c8db540325842b354c092de19e099c_2895593948904819397.jpg)
 
@@ -60,7 +60,10 @@ Please do not hesitate to contact Customer Service if you encounter any issues i
 
 I. New Character
 
-<p style="white-space: pre-wrap;">◇ Vision: Dendro
+<details open="true">
+<summary><span style="color:rgba(102,173,22,1)"><span>4-Star Character "Cat Upon the Eaves" Kirara (Dendro)</span></span></summary>
+
+◇ Vision: Dendro
 
 ◇ Weapon: Sword
 
@@ -74,19 +77,27 @@ I. New Character
 
 ◆ Kirara uses the Special Delivery Package on opponents, dealing AoE Dendro DMG. After the Special Delivery Package explodes, it will split up into many Cat Grass Cardamoms that will explode either upon contact with opponents or after a period of time, dealing Dendro DMG.
 
+</details>
 II. New Equipment
 
 New Weapon
 
-<p style="white-space: pre-wrap;">The character's Elemental Mastery will increase by 40 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.
+<details open="true">
+<summary><span>Ibis Piercer (4-Star Bow)</span></summary>
+
+The character's Elemental Mastery will increase by 40 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.
 
 ◆ Ibis Piercer (Bow) and its refinement materials can be redeemed in the "Duel! The Summoners' Summit!" event.
 
+</details>
 III. New Main Story
 
-New Story Quest
+- New Story Quest
 
-<p style="white-space: pre-wrap;">Permanently available after the Version 3.7 update
+<details open="true">
+<summary><span>Yoimiya's Story Quest - Carassius Auratus Chapter: Act II "Star-Pickers' Passage"</span></summary>
+
+Permanently available after the Version 3.7 update
 
 ◆ Quest Unlock Criteria
 
@@ -98,9 +109,13 @@ New Story Quest
 
 • Complete World Quest "The World of Aranara" from Aranyaka: Part II "Dream Nursery"
 
+</details>
 2. New Hangout Event:
 
-<p style="white-space: pre-wrap;">Permanently available after the Version 3.7 update
+<details open="true">
+<summary><span>Hangout Event: Kaveh - Act I "The Pendulum of Weal and Woe"</span></summary>
+
+Permanently available after the Version 3.7 update
 
 ◆ Quest Unlock Criteria
 
@@ -110,9 +125,13 @@ New Story Quest
 
 • Complete Alhaitham's Story Quest - Vultur Volans Chapter: Act I "The Illusions of the Mob"
 
+</details>
 IV. New Genius Invokation TCG Update
 
-<p style="white-space: pre-wrap;">◆ New Character Cards: Venti, Zhongli, Raiden Shogun, Nahida, Shenhe, Tartaglia, Amber, Hu Tao, Yae Miko, Xiao, and their corresponding Talent Cards.
+<details open="true">
+<summary><span>1. New Cards and Duelists</span></summary>
+
+◆ New Character Cards: Venti, Zhongli, Raiden Shogun, Nahida, Shenhe, Tartaglia, Amber, Hu Tao, Yae Miko, Xiao, and their corresponding Talent Cards.
 
 ◆ New Character Cards: Cryo Cicin Mage, Abyss Lector: Fathomless Flames, Electro Hypostasis, and their corresponding Talent Cards. Their Tavern Challenges have also been added.
 
@@ -122,7 +141,12 @@ IV. New Genius Invokation TCG Update
 
 ◆ Added 20 new Open World Players. Reach Player Level 9 to unlock 10 new Open World Players, and reach Player Level 10 to unlock the other 10 Open World Players.
 
-<p style="white-space: pre-wrap;">When the "The Forge Realm's Temper" event is open, you can select stages to challenge.
+</details>
+
+<details open="true">
+<summary><span>2. The Forge Realm's Temper</span></summary>
+
+When the "The Forge Realm's Temper" event is open, you can select stages to challenge.
 
 In each stage, you can configure the difficulty of different parameters. Adjustable parameters include: stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
@@ -130,7 +154,12 @@ Each set of parameters has corresponding points that will be obtained for comple
 
 After completing the challenge, points will be obtained based on the difficulty selected for each parameter. The best score obtained for each stage will be recorded, and will allow you to claim rewards that correspond to certain scores.
 
-<p style="white-space: pre-wrap;">◇ Unlock Criteria: Unlocks when Player Level reaches 4
+</details>
+
+<details open="true">
+<summary><span>3. Arena of Champions</span></summary>
+
+◇ Unlock Criteria: Unlocks when Player Level reaches 4
 
 The Arena of Champions will open on the 1st and the 16th of each month. Challenge records from previous seasons will be cleared at the start of each new season.
 
@@ -144,6 +173,7 @@ Up to 9 records can be saved for the Arena of Champions. After 9 records have be
 
 Up to 10 records can be saved for challenge decks. After 10 records have been saved, saving a new record will delete an old record, beginning with the deck record with the fewest victories or the oldest record.
 
+</details>
 ◇ Genius Invokation TCG Unlock Criteria:
 
 • Reach Adventure Rank 32 or above
@@ -152,25 +182,25 @@ Up to 10 records can be saved for challenge decks. After 10 records have been sa
 
 V. Other Additions
 
-New Recipe:
+- New Recipe:
 
 ○ Kirara's specialty: "Energizing Bento"
 
-New Achievements added to the "Memories of the Heart" category
+- New Achievements added to the "Memories of the Heart" category
 
-New Namecards:
+- New Namecards:
 
 "Kirara: Neko Box": Reward for reaching Friendship Lv. 10 with Kirara
 
 "Travel Notes: Secrets": Reward obtained via the BP system
 
-Added some prompts for loading screens.
+- Added some prompts for loading screens.
 
-Added Set 23 of "Paimon's Paintings" chat emojis.
+- Added Set 23 of "Paimon's Paintings" chat emojis.
 
-Added Gadget Quickswap Function: After adding Gadgets to the Quickswap Menu, hold the Gadget icon to quickswap Gadgets. The Quickswap Menu can contain 4 Gadgets.
+- Added Gadget Quickswap Function: After adding Gadgets to the Quickswap Menu, hold the Gadget icon to quickswap Gadgets. The Quickswap Menu can contain 4 Gadgets.
 
-Spiral Abyss
+- Spiral Abyss
 
 Floor 11 Ley Line Disorders changed to:
 
@@ -204,155 +234,155 @@ After the character's Normal Attack hits an opponent, the Physical or Elemental 
 
 ● Genius Invokation TCG
 
-Optimizes the icons generated by Normal Attack "Frostflake Arrow" of Character Card "Ganyu" and Combat Status "Sparks 'n' Splash" of Character Card "Klee."
+- Optimizes the icons generated by Normal Attack "Frostflake Arrow" of Character Card "Ganyu" and Combat Status "Sparks 'n' Splash" of Character Card "Klee."
 
-Optimizes the defeat menu presentation in Genius Invokation TCG.
+- Optimizes the defeat menu presentation in Genius Invokation TCG.
 
-Optimizes certain description texts and punctuation in Genius Invokation TCG.
+- Optimizes certain description texts and punctuation in Genius Invokation TCG.
 
-Changes the status name "Normal State" of the card "Winged Dendroshroom" to "Aerial Superiority" in Genius Invokation TCG challenge.
+- Changes the status name "Normal State" of the card "Winged Dendroshroom" to "Aerial Superiority" in Genius Invokation TCG challenge.
 
-Optimizes the effects described of Combat Status "Inspiration Field" for the Character Card "Bennett" in Genius Invokation TCG: After Bennett equips "Grand Expectation," the DMG increase requirements of "Inspiration Field" will be changed from "If this character has at least 7 HP" to being always active. The description of the "Inspiration Field" created by Bennett with "Grand Expectation" equipped is different from one created by Bennett with "Grand Expectation" unequipped.
+- Optimizes the effects described of Combat Status "Inspiration Field" for the Character Card "Bennett" in Genius Invokation TCG: After Bennett equips "Grand Expectation," the DMG increase requirements of "Inspiration Field" will be changed from "If this character has at least 7 HP" to being always active. The description of the "Inspiration Field" created by Bennett with "Grand Expectation" equipped is different from one created by Bennett with "Grand Expectation" unequipped.
 
-Adjusts the effects of the Talent Card "Undivided Heart" used by Character Card "Ganyu" in Genius Invokation TCG: Ganyu will no longer get the +1 Cryo DMG effect after equipping this card.
+- Adjusts the effects of the Talent Card "Undivided Heart" used by Character Card "Ganyu" in Genius Invokation TCG: Ganyu will no longer get the +1 Cryo DMG effect after equipping this card.
 
-Adjusts the number of charges required and DMG dealt by the Elemental Burst of Character Card "Ganyu" in Genius Invokation TCG: The number of charges has been increased from 2 to 3 and the Cryo DMG dealt has been increased from 1 to 2. The other effects of this Character Card remain unchanged.
+- Adjusts the number of charges required and DMG dealt by the Elemental Burst of Character Card "Ganyu" in Genius Invokation TCG: The number of charges has been increased from 2 to 3 and the Cryo DMG dealt has been increased from 1 to 2. The other effects of this Character Card remain unchanged.
 
-Adjusts Elemental Skill Hydro DMG dealt by the Character Card "Fatui Mirror Maiden" in Genius Invokation TCG: "Deals 3 Hydro DMG..." is now adjusted to "Deals 2 Hydro DMG...".
+- Adjusts Elemental Skill Hydro DMG dealt by the Character Card "Fatui Mirror Maiden" in Genius Invokation TCG: "Deals 3 Hydro DMG..." is now adjusted to "Deals 2 Hydro DMG...".
 
-Adjusts the effect and description for Summon "Ushi" summoned by the Character Card "Arataki Itto": "When your active character receives DMG, Arataki Itto gains Superlative Superstrength" is now "When your character takes DMG, Arataki Itto gains Superlative Superstrength."
+- Adjusts the effect and description for Summon "Ushi" summoned by the Character Card "Arataki Itto": "When your active character receives DMG, Arataki Itto gains Superlative Superstrength" is now "When your character takes DMG, Arataki Itto gains Superlative Superstrength."
 
-Adjusts Event Card "Send Off" in Genius Invokation TCG: "Choose one Summon on the opposing side and destroy it" is now "Choose one Summon on the opposing side and cause it to lose usages by 2."
+- Adjusts Event Card "Send Off" in Genius Invokation TCG: "Choose one Summon on the opposing side and destroy it" is now "Choose one Summon on the opposing side and cause it to lose usages by 2."
 
-Adjusts the Elemental Dice Cost of Event Card "Send Off" in Genius Invokation TCG: The required Elemental Dice Cost is adjusted from 2 Elemental Dice of any type to 2 Elemental Dice of the same type.
+- Adjusts the Elemental Dice Cost of Event Card "Send Off" in Genius Invokation TCG: The required Elemental Dice Cost is adjusted from 2 Elemental Dice of any type to 2 Elemental Dice of the same type.
 
-Adjusts the effect of the Equipment Card "Lithic Spear" in Genius Invokation TCG: Now even defeated characters will be included in the calculations.
+- Adjusts the effect of the Equipment Card "Lithic Spear" in Genius Invokation TCG: Now even defeated characters will be included in the calculations.
 
-When your Character Cards include "Maguu Kenki," all non-Cryo Elemental Dice will be used first for Elemental Tuning and playing your hand in Genius Invokation TCG.
+- When your Character Cards include "Maguu Kenki," all non-Cryo Elemental Dice will be used first for Elemental Tuning and playing your hand in Genius Invokation TCG.
 
-Adds rules and descriptions relating to concepts such as "Defeated," "Food," "Calculation Order," "Charged Attack," and "Plunging Attack" for Genius Invokation TCG.
+- Adds rules and descriptions relating to concepts such as "Defeated," "Food," "Calculation Order," "Charged Attack," and "Plunging Attack" for Genius Invokation TCG.
 
-Adjusts the description detailing "Charged Attack" in Genius Invokation TCG. After the update, the description is as follows: Before your Action Phase, should the total number of your Elemental Dice be even, your Normal Attack will be considered a Charged Attack.
+- Adjusts the description detailing "Charged Attack" in Genius Invokation TCG. After the update, the description is as follows: Before your Action Phase, should the total number of your Elemental Dice be even, your Normal Attack will be considered a Charged Attack.
 
-Adjusts the "Other Rules" tab in Genius Invokation TCG Rules into the "Other Rules" and "Special Entry" tabs.
+- Adjusts the "Other Rules" tab in Genius Invokation TCG Rules into the "Other Rules" and "Special Entry" tabs.
 
-Invitation Duels will now take place in the all new Invitation Duel Room for Genius Invokation TCG.
+- Invitation Duels will now take place in the all new Invitation Duel Room for Genius Invokation TCG.
 
 ● Audio
 
-Optimizes the sound effects for character footsteps when they walk across different surfaces.
+- Optimizes the sound effects for character footsteps when they walk across different surfaces.
 
-Optimizes the sound performance of certain quest NPCs.
+- Optimizes the sound performance of certain quest NPCs.
 
-Optimizes the English, Korean, and Japanese voice-overs for certain characters along with the English and Japanese voice-overs for certain quests.
+- Optimizes the English, Korean, and Japanese voice-overs for certain characters along with the English and Japanese voice-overs for certain quests.
 
-Adjusts the Korean voice-over related to certain items.
+- Adjusts the Korean voice-over related to certain items.
 
-Optimizes the music switching performance when skipping the cutscene animations of Trounce Domain "The Realm of Beginnings."
+- Optimizes the music switching performance when skipping the cutscene animations of Trounce Domain "The Realm of Beginnings."
 
 ● System
 
-In the "Adventurer Handbook," "Commissions" and "Embattle" tabs now support pushing the right gyroscope on the controller to view more of the text.
+- In the "Adventurer Handbook," "Commissions" and "Embattle" tabs now support pushing the right gyroscope on the controller to view more of the text.
 
-Upgrades the background blur function in the "Paimon Menu > Take Photo" system.
+- Upgrades the background blur function in the "Paimon Menu > Take Photo" system.
 
-Adds voice lines of the Elemental Skills of "Sprout of Rebirth" Collei (Dendro), "Treasure of Dream Garden" Dori (Electro), and "Admonishing Instruction" Alhaitham (Dendro) in their "Profile / Voice-Over" pages.
+- Adds voice lines of the Elemental Skills of "Sprout of Rebirth" Collei (Dendro), "Treasure of Dream Garden" Dori (Electro), and "Admonishing Instruction" Alhaitham (Dendro) in their "Profile / Voice-Over" pages.
 
 〓Bug Fixes〓
 
 ● Genius Invokation TCG
 
-Fixes an issue in Genius Invokation TCG whereby when Keqing is Frozen and a Lightning Stiletto is used to switch the active character to Keqing, her skill could be abnormally used.
+- Fixes an issue in Genius Invokation TCG whereby when Keqing is Frozen and a Lightning Stiletto is used to switch the active character to Keqing, her skill could be abnormally used.
 
-Fixed an issue in Genius Invokation TCG in which equipping the Talent Card "Grand Expectation" to "Bennett" would result in bonus damage being erroneously applied to his Elemental Burst if his own Inspiration Field was already active and Bennett's HP was less than 7.
+- Fixed an issue in Genius Invokation TCG in which equipping the Talent Card "Grand Expectation" to "Bennett" would result in bonus damage being erroneously applied to his Elemental Burst if his own Inspiration Field was already active and Bennett's HP was less than 7.
 
 ● Enemies
 
-Fixes an issue under certain circumstances whereby when challenging the boss Shouki no Kami, the Prodigal, the Neo Akasha Terminal is rendered unable to attack as normal.
+- Fixes an issue under certain circumstances whereby when challenging the boss Shouki no Kami, the Prodigal, the Neo Akasha Terminal is rendered unable to attack as normal.
 
-Fixes an issue whereby under certain circumstances, there was a chance that the boss "Iniquitous Baptist" would abnormally enter a paralyzed state when only a single Elemental Shield had been broken.
+- Fixes an issue whereby under certain circumstances, there was a chance that the boss "Iniquitous Baptist" would abnormally enter a paralyzed state when only a single Elemental Shield had been broken.
 
-Fixes an issue of erroneous display when defeating the boss "Guardian of Apep's Oasis" in Co-Op Mode.
+- Fixes an issue of erroneous display when defeating the boss "Guardian of Apep's Oasis" in Co-Op Mode.
 
-Fixes an issue whereby the enemy "Ruin Drake's" head might abnormally change directions when Ruin Drake is in a Frozen state.
+- Fixes an issue whereby the enemy "Ruin Drake's" head might abnormally change directions when Ruin Drake is in a Frozen state.
 
-Fixes an issue whereby when an Anemo Specter was defeated, there would be a small chance that the DMG AoE was not in line with its displayed special effects.
+- Fixes an issue whereby when an Anemo Specter was defeated, there would be a small chance that the DMG AoE was not in line with its displayed special effects.
 
 ● Quests
 
-Fixes an issue with certain Archon Quests whereby there were issues with abnormal color display of elements on clothing for NPC Aether and NPC Lumine.
+- Fixes an issue with certain Archon Quests whereby there were issues with abnormal color display of elements on clothing for NPC Aether and NPC Lumine.
 
-Fixes an issue regarding the absent voice-overs for certain NPCs in Gavireh Lajavard after completing the World Quest "Khvarena of Good and Evil."
+- Fixes an issue regarding the absent voice-overs for certain NPCs in Gavireh Lajavard after completing the World Quest "Khvarena of Good and Evil."
 
 ● Characters
 
-Fixes an issue whereby the Stormeye created by Venti's Elemental Burst can abnormally be destroyed by the boss Guardian of Apep's Oasis's aftershocks of the apocalypse attack.
+- Fixes an issue whereby the Stormeye created by Venti's Elemental Burst can abnormally be destroyed by the boss Guardian of Apep's Oasis's aftershocks of the apocalypse attack.
 
-Fixes an issue under certain circumstances whereby there is a small chance that after "Eons Adrift" Wanderer (Anemo) uses his Elemental Skill, he will abnormally contact other Elements or be unable to properly contact Hydro.
+- Fixes an issue under certain circumstances whereby there is a small chance that after "Eons Adrift" Wanderer (Anemo) uses his Elemental Skill, he will abnormally contact other Elements or be unable to properly contact Hydro.
 
-Fixes an issue whereby when "Verdant Strider" Tighnari (Dendro) uses his Elemental Burst, the in-game camera can have a small chance of working abnormally when playing on PlayStation®.
+- Fixes an issue whereby when "Verdant Strider" Tighnari (Dendro) uses his Elemental Burst, the in-game camera can have a small chance of working abnormally when playing on PlayStation®.
 
-Fixes an issue whereby when "Coordinates of Clear Frost" Mika (Cryo) performs his Charged Attack, should the attack be canceled with a sprint, the special effect for a hit being made will be triggered.
+- Fixes an issue whereby when "Coordinates of Clear Frost" Mika (Cryo) performs his Charged Attack, should the attack be canceled with a sprint, the special effect for a hit being made will be triggered.
 
-Fixes an issue whereby in some cases, when a character switches outfits, you will be unable to switch over to said character.
+- Fixes an issue whereby in some cases, when a character switches outfits, you will be unable to switch over to said character.
 
-Fixes an issue whereby in some cases, after a character defeats an opponent through Elemental Reactions, when they run into the same opponent again, animations of the opponent being defeated will be abnormally displayed.
+- Fixes an issue whereby in some cases, after a character defeats an opponent through Elemental Reactions, when they run into the same opponent again, animations of the opponent being defeated will be abnormally displayed.
 
-Fixes an issue whereby Lisa's pupils are displayed abnormally after changing into her outfit "A Sobriquet Under Shade."
+- Fixes an issue whereby Lisa's pupils are displayed abnormally after changing into her outfit "A Sobriquet Under Shade."
 
-Fixes an issue whereby after Ganyu unleashes an Elemental Burst, some special effects within a certain AoE will abnormally appear to be transparent.
+- Fixes an issue whereby after Ganyu unleashes an Elemental Burst, some special effects within a certain AoE will abnormally appear to be transparent.
 
-Fixes an issue whereby in Version 3.6 when Gorou uses his Elemental Skill, relevant special effects on the ground would display abnormally.
+- Fixes an issue whereby in Version 3.6 when Gorou uses his Elemental Skill, relevant special effects on the ground would display abnormally.
 
-Fixes an issue whereby, under certain circumstances, if Baizhu is interrupted while casting a Charged Attack, his next Charged Attack would have a chance to trigger the interrupted Charged Attack as an extra hit.
+- Fixes an issue whereby, under certain circumstances, if Baizhu is interrupted while casting a Charged Attack, his next Charged Attack would have a chance to trigger the interrupted Charged Attack as an extra hit.
 
-Fixes an issue when in the Open World while Co-Op Mode is active, after teammates teleport elsewhere, some characters' effects that should affect other party members are still abnormally effective even from a vast distance away.
+- Fixes an issue when in the Open World while Co-Op Mode is active, after teammates teleport elsewhere, some characters' effects that should affect other party members are still abnormally effective even from a vast distance away.
 
 ● System
 
-Fixes an issue whereby the description texts of some items in "Archive > Materials" were not fully displayed.
+- Fixes an issue whereby the description texts of some items in "Archive > Materials" were not fully displayed.
 
-Fixes an issue of abnormal display of weapon type in the character details page under certain circumstances.
+- Fixes an issue of abnormal display of weapon type in the character details page under certain circumstances.
 
-Fixes an issue whereby under certain circumstances, while conducting the Mystic Offering, there was a chance that the crafted Artifacts would be abnormally selected as the next batch of materials.
+- Fixes an issue whereby under certain circumstances, while conducting the Mystic Offering, there was a chance that the crafted Artifacts would be abnormally selected as the next batch of materials.
 
-Fixes an issue whereby the Shortcut Wheel could be opened abnormally while taking photos.
+- Fixes an issue whereby the Shortcut Wheel could be opened abnormally while taking photos.
 
-Fixes an issue in the Characters > Talents page whereby pupils of "Chivalric Blossom" Noelle (Geo) abnormally quiver.
+- Fixes an issue in the Characters > Talents page whereby pupils of "Chivalric Blossom" Noelle (Geo) abnormally quiver.
 
-Fixes an issue whereby there is a chance that an abnormal progress calculation might occur to the Achievement "Performance May Decline in Low Temperatures."
+- Fixes an issue whereby there is a chance that an abnormal progress calculation might occur to the Achievement "Performance May Decline in Low Temperatures."
 
-Fixes an issue whereby the Achievement "Deja Vu!" could not be accomplished. Travelers who encountered this problem can retry the challenge after the update to obtain said Achievement.
+- Fixes an issue whereby the Achievement "Deja Vu!" could not be accomplished. Travelers who encountered this problem can retry the challenge after the update to obtain said Achievement.
 
-Fixes an issue of the absence of special effects of the weapon "Staff of Homa" when the Graphic Quality is set as "Lowest."
+- Fixes an issue of the absence of special effects of the weapon "Staff of Homa" when the Graphic Quality is set as "Lowest."
 
 ● Audio
 
-Fixes issues with the "Character" interface in which the voice-overs for certain characters cannot be exited and aren't interrupted as normal when switching between characters.
+- Fixes issues with the "Character" interface in which the voice-overs for certain characters cannot be exited and aren't interrupted as normal when switching between characters.
 
-Fixes an issue of missing sound effects in some objects.
+- Fixes an issue of missing sound effects in some objects.
 
 ● Other
 
-Fixes an issue whereby when using an Android device to play the game, after some characters use their Elemental Skills or Elemental Bursts, the visuals will start flickering.
+- Fixes an issue whereby when using an Android device to play the game, after some characters use their Elemental Skills or Elemental Bursts, the visuals will start flickering.
 
-Fixes an issue whereby starting the game on certain Android devices causes abnormal sounds to trigger.
+- Fixes an issue whereby starting the game on certain Android devices causes abnormal sounds to trigger.
 
-Fixes an issue in Co-Op mode whereby there is a chance of encountering abnormal challenge totals when the host player is engaging in the "Percussive Prancing Mushrooms" World Challenge in the "Realm of Farakhkert."
+- Fixes an issue in Co-Op mode whereby there is a chance of encountering abnormal challenge totals when the host player is engaging in the "Percussive Prancing Mushrooms" World Challenge in the "Realm of Farakhkert."
 
-Fixes an issue whereby in certain situations, Hydro applications on characters or opponents will not clear as normal.
+- Fixes an issue whereby in certain situations, Hydro applications on characters or opponents will not clear as normal.
 
-Fixes an issue whereby the tail model of Tent Tortoise (Wildlife) would display abnormally.
+- Fixes an issue whereby the tail model of Tent Tortoise (Wildlife) would display abnormally.
 
-Fixes a text error in the item "Ancient Journal."
+- Fixes a text error in the item "Ancient Journal."
 
-Fixes an issue with the description text of Baizhu's Passive Talent "All Things Are of the Earth" for Simplified Chinese, Traditional Chinese, German, English, Spanish, French, Indonesian, Japanese, Vietnamese, Turkish, and Italian.
+- Fixes an issue with the description text of Baizhu's Passive Talent "All Things Are of the Earth" for Simplified Chinese, Traditional Chinese, German, English, Spanish, French, Indonesian, Japanese, Vietnamese, Turkish, and Italian.
 
 Text before: "Aggravate and Spread reaction DMG dealt by these characters will be increased by 0.8%."
 
 Text after: "And will increase the DMG Bonus provided by Aggravate and Spread by 0.8%."
 
-Fixes some text errors in 15 languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+- Fixes some text errors in 15 languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
 
 Text-related fixes and optimizations in English include:
 
@@ -386,7 +416,7 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# Version Details - What's New 
+# [Version Details - What's New ](archive/3656.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
 
@@ -400,9 +430,9 @@ Updates resources related to subsequent events.
 
 〓2023/06/01 11:10:00 (global) Update Details〓
 
-Fixes an issue with an abnormal display of red dots in the Genius Invokation TCG Card Shop.
+- Fixes an issue with an abnormal display of red dots in the Genius Invokation TCG Card Shop.
 
-Fixes an issue whereby under certain circumstances, if the quest environment for the Story Quest "Shade Upon Red Silk" is being occupied by "Culminate! Chatter of Joyous Dreams," you are unable to carry out both quests normally. Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve the issue.
+- Fixes an issue whereby under certain circumstances, if the quest environment for the Story Quest "Shade Upon Red Silk" is being occupied by "Culminate! Chatter of Joyous Dreams," you are unable to carry out both quests normally. Travelers who encounter this issue can log out through the Paimon Menu and log in again to resolve the issue.
 
 〓2023/05/26 11:05:00 (global) Update Details〓
 
@@ -436,7 +466,7 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
-# The "Divine Ingenuity" Interaction Platform is now available for a limited time! Showcase your wonderful imagination and exchange ideas with other Travelers!
+# [The "Divine Ingenuity" Interaction Platform is now available for a limited time! Showcase your wonderful imagination and exchange ideas with other Travelers!](archive/3616.md)
 ## The "Divine Ingenuity" Interaction Platform is now available for a limited time! Showcase your wonderful imagination and exchange ideas with other Travelers!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/26/2677d4ddc13820c33d6bee36cb71a782_7424186422703635843.png)
 
@@ -482,7 +512,7 @@ You can add works you are interested in to your favorites on the "Divine Ingenui
 
 -----
 
-# HoYoLAB Community "Daily Check-In" Feature
+# [HoYoLAB Community "Daily Check-In" Feature](archive/3665.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
 
@@ -502,7 +532,7 @@ Permanent
 
 -----
 
-# Card Plaza Update Notice
+# [Card Plaza Update Notice](archive/3623.md)
 ## Card Plaza Mega Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/23/27468ac39d1f6271be28b4bb16b041fd_6061812337035057076.jpg)
 
@@ -534,7 +564,7 @@ Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
 
 -----
 
-# "Divine Ingenuity: Collector's Chapter" Event: Design Your Own Domain Challenge
+# ["Divine Ingenuity: Collector's Chapter" Event: Design Your Own Domain Challenge](archive/3604.md)
 ## Divine Ingenuity: Collector's Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/f8a9fd88bc338e71902f21dc7696d629_3030421800956068276.png)
 
@@ -568,7 +598,7 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# "Genius Invokation TCG" Heated Battle Mode: Tactical Formation
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/3609.md)
 ## Genius Invokation TCG: Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/abdb64740326f3750f3fb772866de746_3530605637952406251.png)
 
@@ -576,7 +606,7 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
 
-** **
+****
 
 **〓Event Duration〓**
 
@@ -600,7 +630,7 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# "Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)
+# ["Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)](archive/3603.md)
 ## Duel! The Summoners' Summit!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/714658ed27ff034e9d21811e76548150_3305092719151879451.png)
 
@@ -652,7 +682,7 @@ Event Shop Duration | Event Shop Duration | 2023/05/25 10:00:00 (server) | 2023/
 
 -----
 
-# Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!
+# [Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!](archive/3611.md)
 ## Event Wish - Caution in Confidence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/8b600da66b8e34b0ee8c5818c07365ba_2619383580423857758.png)
 
@@ -660,7 +690,7 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 **〓Event Wish Details〓**
 
-**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured ** **Characters ** **(4-Star)**
+**Event Wish Duration** | **Promotional Character**  **(5-Star)** | **Featured**  **Characters**  **(4-Star)**
 --- | --- | ---
 2023/06/13 18:00:00 (server) — 2023/07/04 14:59:59 (server) | "Admonishing Instruction" Alhaitham (Dendro) | "Burgeoning Grace" Yaoyao (Dendro)
 ^ | ^ | "Analytical Harmony" Shikanoin Heizou (Anemo)
@@ -680,7 +710,7 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!
+# [Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!](archive/3612.md)
 ## Event Wish - Leaves in the Wind
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/eb9c98ddfa2a07e7bded5278439723a7_7683176800244148950.png)
 
@@ -688,7 +718,7 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 **〓Event Wish Details〓**
 
-**Event Wish Duration** | **Promotional Character ** **(5-Star)** | **Featured Characters ** **(4-Star)**
+**Event Wish Duration** | **Promotional Character**  **(5-Star)** | **Featured Characters**  **(4-Star)**
 --- | --- | ---
 2023/06/13 18:00:00 (server) — 2023/07/04 14:59:59 (server) | "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | "Burgeoning Grace" Yaoyao (Dendro)
 ^ | ^ | "Analytical Harmony" Shikanoin Heizou (Anemo)
@@ -708,7 +738,7 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# Event Wish "Epitome Invocation" - Boosted Drop Rates for Light of Foliar Incision (Sword) and Freedom-Sworn (Sword)!
+# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Light of Foliar Incision (Sword) and Freedom-Sworn (Sword)!](archive/3613.md)
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/7487ba63ebbcac82858a8e413a40c872_3474906954147013691.png)
 
@@ -736,7 +766,7 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
-# Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!
+# [Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!](archive/3600.md)
 ## Event Wish - Tapestry of Golden Flames
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e10a697a32196d3d05e08d76d52bdbae_4384336468998973891.png)
 
@@ -766,7 +796,7 @@ After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Frolicking Flam
 
 -----
 
-# Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!
+# [Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!](archive/3601.md)
 ## Event Wish - Everbloom Violet
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/0370e0d921cf5bae96083a4d2cd6b4f8_2661209725714264639.png)
 
@@ -796,7 +826,7 @@ After the Version 3.7 update — 2023/06/13 17:59:00 (server) | "Astute Amusemen
 
 -----
 
-# Event Wish "Epitome Invocation" - Boosted Drop Rates for Thundering Pulse (Bow) and Kagura's Verity (Catalyst)!
+# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Thundering Pulse (Bow) and Kagura's Verity (Catalyst)!](archive/3602.md)
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/a9ddcac7b0ee53f3ce843ed2cccbadc4_4767738093754423356.png)
 
@@ -824,7 +854,7 @@ After the Version 3.7 update — 2023/06/13 17:59:00 (server) | Thundering Pulse
 
 -----
 
-# "Genius Invokation TCG" Event: The Forge Realm's Temper
+# ["Genius Invokation TCG" Event: The Forge Realm's Temper](archive/3610.md)
 ## Genius Invokation TCG
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e2bb9a8df11020385058bcd1ec7ba99d_2377135616645906187.png)
 
@@ -854,7 +884,7 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# "Carassius Auratus Chapter: Act II" Story Quest Overview
+# ["Carassius Auratus Chapter: Act II" Story Quest Overview](archive/3606.md)
 ## Carassius Auratus Chapter: Act II
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/17dc2d2d06a721fb8ac4327a1c28cfc5_6992376629284969248.png)
 
@@ -878,7 +908,7 @@ And complete the World Quest "The World of Aranara" from Aranyaka: Part II "Drea
 
 -----
 
-# "Hangout Events: Series X" - Story Quest Overview
+# ["Hangout Events: Series X" - Story Quest Overview](archive/3605.md)
 ## Hangout Events: Series X
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/ccdcdfdbd9c89e907f402b8eceb59982_2458854632903291160.png)
 
@@ -902,7 +932,7 @@ And complete Alhaitham's Story Quest - Vultur Volans Chapter: Act I "The Illusio
 
 -----
 
-# "Invoker's Secrets" Event Details
+# ["Invoker's Secrets" Event Details](archive/3608.md)
 ## Invoker's Secrets
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/18e3fc9d565d02c86c8590297fd9bc92_1187838874375161440.png)
 
@@ -926,7 +956,7 @@ Adventure Rank 20 or above
 
 -----
 
-# Game Survey
+# [Game Survey](archive/3177.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
 
@@ -950,7 +980,7 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
-# Details of the Feedback on Special Categories Function
+# [Details of the Feedback on Special Categories Function](archive/2871.md)
 ## Feedback on Special Categories
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
 
@@ -972,7 +1002,7 @@ Permanently Available
 
 -----
 
-# HoYoLAB Community - Genshin Impact Exclusive Tools Overview
+# [HoYoLAB Community - Genshin Impact Exclusive Tools Overview](archive/2795.md)
 ## Genshin Impact Exclusive Tools Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/23/ca52254dfa3b189a219100fe58bc0e20_4310229147167924893.jpg)
 
@@ -1032,7 +1062,7 @@ Some of the above tools must be used in the HoYoLAB App. More specific details a
 
 -----
 
-# Official Top-Up Center Now Online
+# [Official Top-Up Center Now Online](archive/1249.md)
 ## Online Top-Up Center
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/a3f64d19df0a6a8ed5a3b0a1fccba620_3384464103647206496.jpg)
 
@@ -1050,7 +1080,7 @@ If you have any questions about topping up, please send us an email at genshin_p
 
 -----
 
-# Genshin Impact Traveler Community
+# [Genshin Impact Traveler Community](archive/1250.md)
 ## Genshin Impact Traveler Community
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/09/22/cdd9728d92166c341cc4a8fdfa786056_4263317197346022378.jpg)
 
@@ -1088,7 +1118,7 @@ genshin_cs@hoyoverse.com
 
 -----
 
-# Genshin Impact - Fair Use Statement
+# [Genshin Impact - Fair Use Statement](archive/1251.md)
 ## Fair Use Statement
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/09/17/a200f1d4c84be88961455023b264a0bb_3936625726356517613.jpg)
 
