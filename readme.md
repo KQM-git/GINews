@@ -636,58 +636,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Duel! The Summoners' Summit!" Event: Take Part and Obtain the Event-Exclusive Weapon, Ibis Piercer (Bow)](archive/3603.md)
-## Duel! The Summoners' Summit!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/714658ed27ff034e9d21811e76548150_3305092719151879451.png)
-
-**〓Event Gameplay Duration〓**
-
-2023/05/25 10:00:00 (server) - 2023/06/12 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/27/b9cbaef41e6f0c60164fbfa67d87ce1b_8469724249708318175.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete the Archon Quest "Ritou Escape Plan"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Mona's Story Quest "Astrolabos Chapter: Act I," and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" first to get the best experience from this event.
-
-※ During the event, if you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Mona's Story Quest "Astrolabos Chapter: Act I," and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," you can enter the event through "Quick Start" in the event page.
-
-**〓Event Phase Details〓**
-
-**Event Content** |    **Event Content** | **Start Time** | **End Time**  
---- | --- | --- | ---
-Gameplay Duration | Phase I | 2023/05/25 10:00:00 (server) | 2023/06/12 03:59:59 (server)
-^ | Phase II | 2023/05/27 04:00:00 (server) | ^
-^ | Phase III | 2023/05/29 04:00:00 (server) | ^
-^ | Phase IV | 2023/05/31 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/05/25 10:00:00 (server) | 2023/06/19 03:59:59 (server)
-
-**〓Event Details〓**
-
-● During the event, four types of gameplay will unlock in sequence: A Tour of Wonders, Zero Hour Invokation, Evermotion Mechanical Painting: Invoker, and Heart of the Dice.
-
-● In the "A Tour of Wonders" gameplay, Travelers will have to complete the required challenges and find the Scenic Checkpoints for stamps.
-
-● In the "Zero Hour Invokation" gameplay, Travelers will have to use preset decks to engage in Genius Invokation duels.
-
-● In the "Evermotion Mechanical Painting: Invoker" gameplay, Travelers will have to restore 8 Evermotion Mechanical Paintings and assemble the paintings.
-
-● In the "Heart of the Dice" gameplay, Travelers can defeat enemies to accumulate Invokation Dice. Consume Invokation Dice gained to cast Suppressive Rolls, which will allow the Traveler to more efficiently contain their foes and obtain numerous benefits.
-
-● Complete these phases to obtain Invokation Coupons to exchange for rewards such as Ibis Piercer, Crown of Insight, and the event-exclusive Weapon Refinement Materials from the Event Shop.
-
-● After the event gameplay period ends, Invokation Coupons will disappear. Please make sure to claim the rewards in time.
-
------
-
 # [Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!](archive/3611.md)
 ## Event Wish - Caution in Confidence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/8b600da66b8e34b0ee8c5818c07365ba_2619383580423857758.png)
