@@ -636,6 +636,36 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# ["Fayz Trials: Hypothesis" Event: Weakness Capturing Challenge](archive/3615.md)
+## Fayz Trials: Hypothesis
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/a97a7366a06ab5750b5489587bbe7835_94726774378043859.png)
+
+**〓Event Duration〓**
+
+2023/06/21 10:00:00 (server) – 2023/07/03 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/04/27/3122e544546f8922a7968f9a69cb14a5_6292693969188701205.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● There are a total of 7 combat challenges and a new challenge will be unlocked each day for the first 7 days of the event.
+
+● During the combat challenge, Fayz Tinctures will be restored over time, and Travelers can also defeat enemies to obtain more Fayz Tinctures. Use the Fayz Potion to enter Time Dilation mode, you can use your Viewfinder to spot your opponents' Weaknesses. Combat will resume after the Time Dilation mode ends, while releasing a Supersense Skill to help Travelers complete the challenge faster.
+
+● Upon entering Time Dilation mode, you can zoom in and out, or adjust your camera angle to adjust your field of vision. In Time Dilation mode, you can also save the onscreen image in your screenshots.
+
+● Use your Supersense Skill wisely to defeat monsters to gain more points. After completing the challenge objectives, you will be able to obtain the corresponding rewards.
+
+-----
+
 # [Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!](archive/3611.md)
 ## Event Wish - Caution in Confidence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/8b600da66b8e34b0ee8c5818c07365ba_2619383580423857758.png)
