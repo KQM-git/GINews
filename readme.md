@@ -450,6 +450,20 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
+# [The Version 3.8 "Secret Summer Paradise" Preview page is here!](archive/3692.md)
+## Genshin Impact Version 3.8 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/ad10b6e91792e60cc90e5fa89b6d71a7_4114816192644553165.jpg)
+
+Dear Travelers,
+
+The Version 3.8 "Secret Summer Paradise" Preview page is here!
+
+[>>>>Go to V3.8 "Secret Summer Paradise" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230624preview/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230624warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # [The "Divine Ingenuity" Interaction Platform is now available for a limited time! Showcase your wonderful imagination and exchange ideas with other Travelers!](archive/3616.md)
 ## The "Divine Ingenuity" Interaction Platform is now available for a limited time! Showcase your wonderful imagination and exchange ideas with other Travelers!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/26/2677d4ddc13820c33d6bee36cb71a782_7424186422703635843.png)
@@ -545,6 +559,26 @@ Combined with Genshin Impact Version 3.7's release, this Card Plaza will feature
 [>> Click to Go to the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_id=2)
 
 Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
+
+-----
+
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2023/06/26 04:00:00 (server) – 2023/07/03 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
