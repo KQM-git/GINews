@@ -450,6 +450,26 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
+# [Genshin Impact Version Trailers OST Album "Footprints of the Traveler Vol. 2" Now Available](archive/3695.md)
+## 2nd Version Trailers OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/db319d55df24adccb86b7a032d3a3b52_8285265384339225982.jpg)
+
+Dear Travelers,
+
+Genshin Impact's second version trailers OST album "Footprints of the Traveler Vol. 2" is out now! The album features splendid tracks composed by HOYO-MiX, each one an original composition for the version trailers of Genshin Impact from Version 3.0 to Version 3.8.
+
+Travelers can go to the following platforms to listen to "Footprints of the Traveler Vol. 2."
+
+Apple Music:
+
+[Click here to listen to "Footprints of the Traveler Vol. 2"](https://music.apple.com/us/album/1694313525)
+
+Spotify:
+
+[Click here to listen to "Footprints of the Traveler Vol. 2"](https://open.spotify.com/album/5d49jZ63zy8W5xL32PYE6i)
+
+-----
+
 # [Version Satisfaction Survey Now Open](archive/3700.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
