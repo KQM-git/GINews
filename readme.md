@@ -450,6 +450,30 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 -----
 
+# [Version Satisfaction Survey Now Open](archive/3700.md)
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2023/06/30 10:00:00 (global) - 2023/07/03 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_bgd6ncvbqghymy43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=14540&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [The Version 3.8 "Secret Summer Paradise" Preview page is here!](archive/3692.md)
 ## Genshin Impact Version 3.8 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/ad10b6e91792e60cc90e5fa89b6d71a7_4114816192644553165.jpg)
