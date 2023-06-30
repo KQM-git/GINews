@@ -474,20 +474,6 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
-# [The Version 3.8 "Secret Summer Paradise" Preview page is here!](archive/3692.md)
-## Genshin Impact Version 3.8 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/ad10b6e91792e60cc90e5fa89b6d71a7_4114816192644553165.jpg)
-
-Dear Travelers,
-
-The Version 3.8 "Secret Summer Paradise" Preview page is here!
-
-[>>>>Go to V3.8 "Secret Summer Paradise" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230624preview/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230624warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/3665.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
