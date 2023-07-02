@@ -514,56 +514,6 @@ Permanent
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2023/06/26 04:00:00 (server) – 2023/07/03 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# ["Fayz Trials: Hypothesis" Event: Weakness Capturing Challenge](archive/3615.md)
-## Fayz Trials: Hypothesis
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/a97a7366a06ab5750b5489587bbe7835_94726774378043859.png)
-
-**〓Event Duration〓**
-
-2023/06/21 10:00:00 (server) – 2023/07/03 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/04/27/3122e544546f8922a7968f9a69cb14a5_6292693969188701205.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● There are a total of 7 combat challenges and a new challenge will be unlocked each day for the first 7 days of the event.
-
-● During the combat challenge, Fayz Tinctures will be restored over time, and Travelers can also defeat enemies to obtain more Fayz Tinctures. Use the Fayz Potion to enter Time Dilation mode, you can use your Viewfinder to spot your opponents' Weaknesses. Combat will resume after the Time Dilation mode ends, while releasing a Supersense Skill to help Travelers complete the challenge faster.
-
-● Upon entering Time Dilation mode, you can zoom in and out, or adjust your camera angle to adjust your field of vision. In Time Dilation mode, you can also save the onscreen image in your screenshots.
-
-● Use your Supersense Skill wisely to defeat monsters to gain more points. After completing the challenge objectives, you will be able to obtain the corresponding rewards.
-
------
-
 # [Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!](archive/3611.md)
 ## Event Wish - Caution in Confidence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/30/8b600da66b8e34b0ee8c5818c07365ba_2619383580423857758.png)
@@ -675,30 +625,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# ["Invoker's Secrets" Event Details](archive/3608.md)
-## Invoker's Secrets
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/18e3fc9d565d02c86c8590297fd9bc92_1187838874375161440.png)
-
-Travelers can earn rich rewards in "Invoker's Secrets" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Secrets" and Furnishing Blueprint "Adhigama Wood 'Repose' Couch."
-
-**〓Event Duration〓**
-
-After the Version 3.7 update – 2023/07/03 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/07/03 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
