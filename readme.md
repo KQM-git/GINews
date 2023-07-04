@@ -1,3 +1,329 @@
+# ["Secret Summer Paradise" Version 3.8 Update Details](archive/3708.md)
+## Version 3.8 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/03/b92bd1ceb0a3b889b3b5a9616a3467cf_4222566860459455386.png)
+
+Dear Travelers,
+
+Below are the details of the Version 3.8 "Secret Summer Paradise" update and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who reach Adventure Rank 5 or above before 2023/07/05 06:00:00 (global).
+
+Compensation must be claimed before the end of Version 3.8.
+
+Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above by 2023/07/05 06:00:00 (global).
+
+Please log in and claim your compensation before 2023/07/08 06:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins 2023/07/05 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. Limited-Time Area: Veluriyam Mirage (This area is only available during Version 3.8)
+
+<details open="true">
+<summary><span>Veluriyam Mirage</span></summary>
+
+This is a story that takes place within the confines of a little glass bottle. Rumor tells of a mysterious domain in the center of the desert, and it is said that those who enter shall be granted their heart's desire.
+
+But who is to say whether there is any truth in this? Who knows if the fervor of countless travelers, filling this world inside a bottle to the very brim, is nothing but a mirage?
+
+◇ Area Unlock Criteria:
+
+• Adventure Rank 18 or above
+
+• Complete the Archon Quest "Song of the Dragon and Freedom"
+
+(Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises," Eula's Story Quest "Aphros Delos Chapter: Act I," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I" first to get the best experience from this event.)
+
+◆ The Veluriyam Mirage will no longer be accessible after the end of Version 3.8. You will also no longer be able to open treasure chests, gather materials, or earn quest rewards within the Veluriyam Mirage, so grab the opportunity to explore away!
+
+◆ In Co-Op Mode, the areas within the Veluriyam Mirage that each Traveler has access to will depend on their progress in the game.
+
+</details>
+II. New Outfits
+
+<details open="true">
+<summary><span>Klee - "Blossoming Starlight"</span></summary>
+
+◇ An exquisite outfit Klee wears only for the most important performances. The colors are brilliant, like a cake adorned with cream flowers and crowned with scarlet candles. With it comes happiness and smiles that will fill your adventures.
+
+◆ Between the start of the Version 3.8 update and 2023/08/14 03:59:59 (server), Klee's outfit "Blossoming Starlight" will be available for purchase in the Character Outfit Shop at a limited-time discount! During the discount period, the price of the outfit is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+</details>
+
+<details open="true">
+<summary><span>Kaeya - "Sailwind Shadow"</span></summary>
+
+◇ Kaeya's outfit from his role as the "Dagger Bandit" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.
+
+◆ During Version 3.8, Travelers can obtain Kaeya's outfit "Sailwind Shadow" for free through the "Secret Summer Paradise" event.
+
+◆ After Version 3.8 is over, Travelers can buy the outfit in the Character Outfit Shop.
+
+</details>
+III. New Quests
+
+<details open="true">
+<summary><span>1. New Hangout Event</span></summary>
+
+Hangout Event: Kaeya - Act I "Shenanigans and Sweet Wine"
+
+Permanently available after 2023/07/25 18:00:00 (server)
+
+◆ Quest Unlock Criteria
+
+• Reach Adventure Rank 35 or above
+
+• Complete Archon Quest Chapter III: Act VI "Caribert"
+
+• Complete Kaeya's Story Quest - Pavo Ocellus Chapter: Act I "Secret Pirate Treasure"
+
+</details>
+
+<details open="true">
+<summary><span>2. New World Quests</span></summary>
+
+◆ New World Quests: "Purbiruni's Commandment" and "Recollections of a Fontainian"
+
+◆ New Limited-Time World Quests: "Daiya's Three-Day Reverie," "Returning Curios," and "Capturing Light and Shadow"
+
+</details>
+IV. Other Update Details
+
+- New Achievements added to the "Memories of the Heart" category
+
+- New Namecards:
+
+"Travel Notes: Vivid Illumination": Reward obtained via the BP system
+
+- Adds some prompts for loading screens.
+
+- Adds Set 24 of "Paimon's Paintings" chat emojis.
+
+- Adds link in the Source section of "Dust of Azoth" for the Stardust Exchange page.
+
+- New Furnishing: "Leisure Device: Twang-Bang-Bang"
+
+A combination device designed with great care by Tubby, using both the Scoreboard and Boom-Boom Barrels. By interacting with the Scoreboard, a timed shooting game will begin, or previous scores can be viewed. Before beginning the game, the locations of the Boom-Boom Barrels can be freely adjusted.
+
+Though the Traveler is not an especially gifted archer, Tubby has heard that among the guests invited to The Realm Within, there are archers that can "pierce a pot from a hundred paces." Guests like this would surely like to practice their skills, and further hone their accuracy. And so, a mechanism that can be combined with all kinds of various furnishings to create unique and exciting challenges was born...
+
+- "Genius Invokation TCG" Gameplay Update:
+
+New Character Cards: Yanfei, Kaedehara Kazuha, and Candace, and their corresponding Talent cards.
+
+New invitation duels and guest challenges added to the Player List.
+
+New Action Cards: Fruit of Fulfillment, Master Zhang, Rhythm of the Great Dream, Ancient Courtyard, and Covenant of Rock.
+
+Adds new Action Card type "Arcane Legend" and related rules:
+
+(1) You can only have one of each identical Arcane Legend card in your deck.
+
+(2) Your starting hand will contain an Arcane Legend card from your deck.
+
+(3) Each player may only play one Arcane Legend card for the entire game.
+
+- Spiral Abyss
+
+Floor 11 Ley Line Disorder changed to:
+
+• All party members receive a 75% Physical DMG Bonus.
+
+Updated the monster lineup on Floor 11 of the Spiral Abyss.
+
+Updated the monster lineup on Floor 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 3.8, the three Lunar Phases will be as follows:
+
+Phase I:
+
+Fleeting Moon
+
+Within 10s after the character enters the field, the character's Normal, Charged, and Plunging Attacks will deal 30% increased DMG. Their ATK SPD will also be increased by 10%. This effect will be canceled when the character leaves the field.
+
+Phase II:
+
+Shifting Moon
+
+When a character loses or restores HP, all party members will gain 7.5% increased ATK for 10s. This effect can be triggered once every 0.1s. Max 4 stacks. Each stack will be counted independently.
+
+Phase III:
+
+Ingressing Moon
+
+When the active character deals consecutive instances of Elemental DMG of the same Elemental Type or Physical DMG using Normal, Charged, or Plunging Attacks to an opponent, they will gain 1 count stack. 1 stack can be gained every 0.3s. The stacks for every Elemental and Physical DMG will be counted independently. After 6 stacks have been gained, a shockwave will be unleashed at the opponent's position, dealing True DMG and clearing all previously accumulated stacks for this DMG type. Should the active character leave the field, these stacks will be cleared.
+
+〓Adjustments & Optimizations〓
+
+● System
+
+- Optimizes the "Hold to select multiple items" function operation range and instructions on the Enhancement and Destroy interfaces in the Artifact and Weapon pages.
+
+- For Hangout Events, upon reaching the end of the event and obtaining the Hangout Memory menu, you can use the newly-added "Review Invitation" button to view the narrative checkpoints.
+
+- Optimizes the Quest-tracking process: When the objective is a certain distance from Travelers, clicking Navigate will open the Map.
+
+- The objectives for Archon Quests and certain World Quests will now be listed on the map.
+
+- Optimizes the sorting rules for Archon Quests and certain World Quests.
+
+- Optimizes the display logic for red dots in the Quest Menu.
+
+- Commissions can now be tracked persistently. After your tracked Commission Quest comes to an end, the next Commission Quest will automatically be tracked.
+
+● Enemies
+
+Adjusts the AoE of the Consecrated Fanged Beast's Lunging Slash skill so that it stays the same as the area of the visual effect.
+
+● Audio
+
+- Adjusts sound effects for Kirara by softening the effect heard when moving around in the Urgent Neko Parcel state after holding her Elemental Skill.
+
+- Optimizes certain sound effects in "Genius Invokation TCG."
+
+- Optimizes the Korean and English voice-over for certain characters and quests.
+
+● Genius Invokation TCG
+
+- Adjusts the text description for Large Wind Spirits summoned by Elemental Bursts after the Character Card "Sucrose" has equipped a Talent Card in Genius Invokation TCG (to differentiate these from Large Wind Spirits summoned when a Talent Card hasn't been equipped).
+
+- Adjusts the text description for the Talent Card "I Got Your Back" of the Character Card "Noelle" in Genius Invokation TCG (actual effect remains unchanged).
+
+- Adjusts the effect of the Equipment Card "Gambler's Earrings" in Genius Invokation TCG: this effect is now limited to 3 times per match.
+
+- Adjusts the number of Elemental Dice required and DMG dealt by the Elemental Burst of the Character Card "Yoimiya" in Genius Invokation TCG: the number of dice required has decreased from 4 Pyro Dice to 3, and "Deals 4 Pyro DMG" has been adjusted to "Deals 3 Pyro DMG."
+
+- Adjusts the Elemental Skill DMG of the Character Card "Beidou" as well as the number of Elemental Dice required and DMG dealt by her Elemental Burst in Genius Invokation TCG: for Wavestrider of her Elemental Skill, "Deals 2 Electro DMG" has been adjusted to "Deals 3 Electro DMG"; the number of dice required for her Elemental Burst has decreased from 4 Electro Dice to 3, and "Deals 3 Electro DMG" has been adjusted to "Deals 2 Electro DMG".
+
+- Adjusts the Elemental Burst DMG of the Character Card "Xiangling" in Genius Invokation TCG: "Deals 2 Pyro DMG" has been adjusted to "Deals 3 Pyro DMG."
+
+- Adjusts the Energy required and DMG dealt by the Elemental Burst of Character Card "Razor" in Genius Invokation TCG: the Energy required for the Burst has been decreased from 3 to 2, and "Deals 5 Electro DMG" has been adjusted to "Deals 3 Electro DMG."
+
+- Adjusts the Elemental Skill DMG and Elemental Burst DMG of the Character Card "Eula" in Genius Invokation TCG: for Grimheart of her Elemental Skill, "DMG +2 for this instance" has been adjusted to "DMG +3 for this instance"; for Lightfall Sword of her Elemental Burst, "End Phase: Discard this card and deal 2 Physical DMG" has been adjusted to "End Phase: Discard this card and deal 3 Physical DMG."
+
+● Other
+
+- Adjusts the collision size of the Spiral Abyss's floor whereby there was a small chance that it would hamper character movements and attacks.
+
+- Optimizes the display location and size of special effects of certain Elemental applications and Elemental Reactions on enemies.
+
+- Adjusts visual effects when Dendro Cores appear and burst to reduce the load on system performance.
+
+〓Bug Fixes〓
+
+● Quests
+
+Fixes an issue whereby Paimon's voice line was missing in the Story Quest "Into the Hinterland."
+
+● Enemies
+
+- Fixes an issue whereby the enemy "Shadowy Husk: Line Breaker" could not restore HP for "Black Serpent Knight: Windcutter" and "Black Serpent Knight: Rockbreaker Ax" as per normal after its attack hit a character protected by a shield.
+
+- Fixes an issue whereby switching characters did not work normally after moving close to an Elemental Ring when challenging the boss monster "Iniquitous Baptist."
+
+- Fixes an issue whereby the Consecrated Fanged Beast and the Consecrated Horned Crocodile would continue pursuing the character even after hitting them with the Savage Roll and Subnautical Hunter skills under certain circumstances.
+
+● Characters
+
+- Fixes an issue whereby when Barbara is in her "Summertime Sparkle" outfit and Jean is in her "Sea Breeze Dandelion" outfit, their avatars will be inconsistent with their actual appearances (their avatars have been fixed).
+
+- Fixes an issue whereby the special effects of certain Plunging Attacks performed by Kirara and Kuki Shinobu are abnormally absent.
+
+- Fixes an issue whereby in specific situations, Kirara's Cat Grass Cardamoms, Klee's bombs, and Aloy's Chillwater Bomblets will not go off upon contacting opponents.
+
+- Fixes an issue in Co-Op Mode whereby when Barbara casts her Elemental Burst, it will abnormally heal extremely distant allies.
+
+- Fixes an issue whereby the special effects of attacks would abnormally follow Baizhu if he jumped immediately after unleashing his Normal Attack (attack radius remains the same regardless if the character jumped).
+
+- Fixes an issue whereby characters' standing poses will behave abnormally and also allow them to walk on air in certain situations.
+
+● System
+
+- Fixes an issue whereby when Travelers are flying as Sorush, when the game disconnects and reconnects to the server, their character will erroneously be moved to the position occupied by Sorush while flying.
+
+- Fixes an issue whereby after the same shortcut key was set for both Quick-Use Gadget and for a particular Gadget in the Quickswap Menu, the user was unable to use that button to switch to the corresponding Gadget from the Quickswap Menu.
+
+- Fixes an issue whereby food items that had been added to the NRE (Menu 30) gadget would still appear in the list of foods that could be added (but in fact could not be selected) even after having been completely used up.
+
+● Audio
+
+- Fixes an issue whereby environment sound effects were missing in some areas of Sumeru City.
+
+- Fixes an issue with Collei whereby her "When the Sun Is Out" voice-over would not trigger properly.
+
+- Fixes an issue with Kirara whereby, after holding her Elemental Skill and entering the Urgent Neko Parcel state, voice-over lines for other states would be triggered abnormally.
+
+- Fixes an issue whereby some Japanese voice-overs in Kamisato Ayato's Story Quest "Cypressus Custos Chapter: Act I" would not trigger properly in Travel Log > Story Quests.
+
+● Genius Invokation TCG
+
+- Fixes an issue in Genius Invokation TCG whereby the player's hand would display abnormally when using Elemental Tuning after inflicting damage with Yae Miko's Character Card Combat Status "Tenko Thunderbolts."
+
+- Fixes an issue with "Genius Invokation TCG" whereby the corresponding elimination special effects could not be displayed normally when a Character Card was eliminated under certain circumstances.
+
+● Other
+
+- Fixes an issue whereby the tutorial of the Launch Tube gadget doesn't trigger properly under certain circumstances (Travelers who encounter said problem should log into the game after the version update. The related tutorial should automatically be triggered thereafter).
+
+- Fixes an issue whereby it was possible to use the Waverider Repair Toolbox gadget on Sorush abnormally and restore her HP.
+
+- Fixes an issue whereby the camera angle would suddenly change when some characters used their Normal Attacks or moved while unleashing their Elemental Burst.
+
+- Fixes an issue whereby the treasure's appearance near a non-outdoor Teleport Waypoint in Hangeh Afrasiyab located within Gavireh Lajavard is erroneously displayed.
+
+- Fixes an issue whereby the shadows of Polearms, Swords, and Claymores are unable to be displayed properly under certain brightness conditions.
+
+- Fixes an issue whereby there was a chance that the achievement "Dolorous Stroke" could not be completed normally.
+
+- Fixes an issue whereby after disconnecting from the server and then reconnecting, characters or certain opponents that were Frozen only remained in this state for abnormally short periods.
+
+- Fixes some text errors in 15 languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+Text-related fixes and optimizations in English include:
+
+◆ Unifies the capitalization formatting for the "More About Character" showcase.
+
+◆ Optimizes inconsistencies for certain voice-overs in Chongyun > Profile > Voice-Over.
+
+◆ Optimizes inconsistencies between voice-overs and their corresponding lines in the Archon Quest "Caribert."
+
+◆ Optimizes inconsistencies between voice-overs and their corresponding lines in Kaveh's Hangout Event.
+
+◆ Optimizes the voice-over for Albedo > Voice-Over > About Sucrose: Habits.
+
+◆ Optimizes the description for "Elemental Resonance: Sprawling Greenery."
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
 ## Secret Summer Paradise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
@@ -296,36 +622,6 @@ Apple Music:
 Spotify:
 
 [Click here to listen to "Footprints of the Traveler Vol. 2"](https://open.spotify.com/album/5d49jZ63zy8W5xL32PYE6i)
-
------
-
-# ["Genius Invokation TCG" Event: The Forge Realm's Temper](archive/3610.md)
-## Genius Invokation TCG
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/15/e2bb9a8df11020385058bcd1ec7ba99d_2377135616645906187.png)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 3.7
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/05/18/b688da7b6f6ad9c7a0ce84ec1f0811b9_5095355049270355854.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 5 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
