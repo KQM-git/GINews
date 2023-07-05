@@ -338,6 +338,20 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/3711.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- There is an issue whereby some Travelers would encounter a system notification stating "Failed to read database. Error code: 22-4302" and thus are unable to log into the game. The developers are currently fixing the issue. Please stay tuned for subsequent announcements regarding this matter. Travelers who encounter this issue can log into the game after the fix is complete.
+
+-----
+
 # ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
 ## Secret Summer Paradise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
