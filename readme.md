@@ -739,15 +739,15 @@ To enhance the adventuring experience in Teyvat, the HoYoLAB community has prepa
 
 1. Daily Check-In
 
-Use Daily Check-In to obtain in-game rewards. You will receive Primogems ×100 and Mora ×10,000 for your first check-in!
+Check in daily to get Primogems, Mora, and other in-game items. The first time you check in will also grant you an additional Primogems ×100 and Mora ×10,000!
 
 View Location:
 
-[HoYoLAB > Tools > Genshin Impact > Check-in](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+[HoYoLAB > Tools > Genshin Impact > Check-In](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
 
 2. Battle Chronicle
 
-You can check your game data at the click of a button, ranging from leveling, to collection, to Spiral Abyss data.
+You will be able to see your game exploration statistics with a single click, allowing you to quickly view in-game information regarding character details, the Abyss Spiral, World Exploration, and Version events!
 
 View Location:
 
@@ -771,7 +771,7 @@ View Location:
 
 5. Enhancement Progression Calculator
 
-You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, and weapons.
+You can use the Enhancement Progression Calculator to calculate the resources required to build characters, artifacts, weapons, and furnishings.
 
 View Location:
 
@@ -779,11 +779,19 @@ View Location:
 
 6. Lineup Simulator
 
-In Lineup Simulator, Travelers can share their party composition, weapons, and artifacts used.
+You can use the Lineup Simulator to find and publish detailed lineup recommendations regarding the Spiral Abyss and World Exploration.
 
 View Location:
 
 [HoYoLAB > Tools > Genshin Impact > Lineup Simulator](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&utm_source=ingame&utm_medium=notice&utm_campaign=overview&utm_id=2)
+
+7. Card Plaza
+
+You can browse for popular decks with a click, easily master the characteristics of specific cards and decks, and publish your own decks as well.
+
+View Location:
+
+[HoYoLAB > Tools > Genshin Impact > Card Plaza](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_id=2)
 
 Some of the above tools must be used in the HoYoLAB App. More specific details about the exclusive tools are described below:
 
