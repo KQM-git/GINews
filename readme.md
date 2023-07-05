@@ -1,3 +1,17 @@
+# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
+## Version 3.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
+
+-----
+
 # ["Secret Summer Paradise" Version 3.8 Update Details](archive/3708.md)
 ## Version 3.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/03/b92bd1ceb0a3b889b3b5a9616a3467cf_4222566860459455386.png)
@@ -321,20 +335,6 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
-## Version 3.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
 
 -----
 
