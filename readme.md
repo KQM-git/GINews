@@ -348,6 +348,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+- There is an issue whereby when carrying out the World Quests "Capturing Light and Shadow" or "Returning Curios" in Co-Op Mode, the host is unable to obtain the Mora treasure chest related to the "Choo-Choo Cart" gameplay under specific circumstances. We will issue the treasure chest reward via an in-game mail to all affected Travelers after the end of Version 3.8.
+
 - The World Quest "A Starry Night, as Remembered" is a limited-time quest, and cannot be accepted and completed after the end of Version 3.8. Travelers, please note the quest period.
 
 - There is an issue in Genius Invokation TCG whereby when the Character Card "Eula" gains Grimheart, the DMG value indicated in the Elemental Skill description will be abnormally stated as "Deals 4 Cryo DMG" (the actual DMG dealt is as intended, and is 5 Cryo DMG). This issue will be fixed in a future version. Please stay tuned for future notices.
