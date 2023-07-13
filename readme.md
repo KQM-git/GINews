@@ -489,6 +489,48 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Omnipotent Guide](archive/3676.md)
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/c127bf50061750921154405b77373fef_4995636142471468684.jpg)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, no more rolling Elemental Dice during the Roll Phase. Obtain 8 Omni Dice directly!
+
+● The following Cards cannot be used in this edition of Heated Battle Mode: Ganyu, Fischl, and Rhodeia of Loch.
+
+****
+
+**〓Event Duration〓**
+
+2023/07/15 10:00:00 (server) – 2023/07/24 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/77bc8ce33030bc36a950e3ef25faf437_8884304836073779348.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # [Event Wish "Born of Ocean Swell" - Boosted Drop Rate for "Dance of the Shimmering Wave" Eula (Cryo)!](archive/3668.md)
 ## Event Wish - Born of Ocean Swell
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/df6af50c044921d4100b7245936c0314_2532830515997101218.jpg)
