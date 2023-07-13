@@ -407,6 +407,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - There is an issue in Genius Invokation TCG whereby when the Character Card "Eula" gains Grimheart, the DMG value indicated in the Elemental Skill description will be abnormally stated as "Deals 4 Cryo DMG" (the actual DMG dealt is as intended, and is 5 Cryo DMG). This issue will be fixed in a future version. Please stay tuned for future notices.
 
+〓2023/07/13 16:15:00 (global) Update Details〓
+
+- Fixes an issue whereby even after completing the open-world "Gleaming Lamp" challenge and obtaining the treasure chest in Veluriyam Mirage, the challenge would still appear as failed under certain circumstances.
+
+- Fixes an issue whereby display and interaction errors would occur in the Cook and Process interfaces under certain circumstances.
+
 〓2023/07/07 11:10:00 (global) Update Details〓
 
 - Fixes an issue whereby the Jadeplume Terrorshroom's movement is abnormal in Spiral Abyss Floor 12 Chamber 2.
