@@ -1,3 +1,17 @@
+# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
+## Version 3.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
+
+-----
+
 # ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
 ## Secret Summer Paradise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
@@ -48,20 +62,6 @@ Complete the Archon Quest "Song of the Dragon and Freedom"
 ● During the event, Travelers can collect Joyeux Vouchers as they explore the Veluriyam Mirage by opening Voucher Boxes and Fascinating Chests, or by completing Curious Challenges. Collect the specified number of Joyeux Vouchers to exchange for Kaeya's outfit "Sailwind Shadow."
 
 ※ Kaeya's outfit "Sailwind Shadow" will be available for purchase in the Character Outfit Shop after the end of Version 3.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
-## Version 3.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
 
 -----
 
