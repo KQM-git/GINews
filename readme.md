@@ -34,20 +34,6 @@ Adventure Rank 20 or above
 
 -----
 
-# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
-## Version 3.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
-
------
-
 # ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
 ## Secret Summer Paradise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
@@ -98,6 +84,20 @@ Complete the Archon Quest "Song of the Dragon and Freedom"
 ● During the event, Travelers can collect Joyeux Vouchers as they explore the Veluriyam Mirage by opening Voucher Boxes and Fascinating Chests, or by completing Curious Challenges. Collect the specified number of Joyeux Vouchers to exchange for Kaeya's outfit "Sailwind Shadow."
 
 ※ Kaeya's outfit "Sailwind Shadow" will be available for purchase in the Character Outfit Shop after the end of Version 3.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
+## Version 3.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
 
 -----
 
@@ -503,38 +503,6 @@ Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/3672.md)
-## Genius Invokation TCG
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/82e1f7081094eff208c9e80baa92f15b_7010884192333606723.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 3.8
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/77bc8ce33030bc36a950e3ef25faf437_5303048862551489836.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-****
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
-
-● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # ["Genius Invokation TCG" Heated Battle Mode: Omnipotent Guide](archive/3676.md)
 ## Genius Invokation TCG
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/c127bf50061750921154405b77373fef_4995636142471468684.jpg)
@@ -574,6 +542,38 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
 ● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/3672.md)
+## Genius Invokation TCG
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/82e1f7081094eff208c9e80baa92f15b_7010884192333606723.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 3.8
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/77bc8ce33030bc36a950e3ef25faf437_5303048862551489836.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
