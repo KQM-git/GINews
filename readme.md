@@ -205,20 +205,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
-# [Version 3.8 "Secret Summer Paradise" New Content Overview](archive/3710.md)
-## Version 3.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b9cb9fd30900d9f305accb0c3b6b9a14_555758557621983638.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/45c89687c0cac52394ec0ee8f3ea794e_7589408126558782.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/29/771dd6408119c4efeb19a839146dab07_8984536698096018960.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/30/b4dbb1f25b35b509dc7afbce88b8ddb7_7216422324610315226.jpg)
-
------
-
 # ["Hangout Events: Series XI" - Story Quest Overview](archive/3681.md)
 ## Hangout Events: Series XI
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/77212671324ef625d2b0aeba150215b9_9151234649945742824.jpg)
