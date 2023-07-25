@@ -1,3 +1,37 @@
+# ["Perilous Expedition" Event: Domain Combat Trials](archive/3682.md)
+## Perilous Expedition
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/147657f401f9f47b1c7122d675d6cd07_200993319042441891.jpg)
+
+**〓Event Duration〓**
+
+2023/07/27 10:00:00 (server) – 2023/08/07 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/41fef97bd615a07cce68c3e247bf6aff_2881383122757541714.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+****
+
+**〓Event Details〓**
+
+● After the event begins, a new Perilous Exploration will be unlocked every day for you to explore. Each exploration consists of 3 combat rounds.
+
+● Each exploration has 4 difficulties, and the level of the opponents in the first 3 of these difficulties will be decided according to the Traveler's highest World Level. The difficulty and level of opponents in the final difficulty, Dire, is fixed.
+
+● Character selection is available before each round of combat. When the number of non-repeated characters you use reaches a specific amount within a single dangerous area, a stackable buff will be activated.
+
+● Only 1 buff stack can be activated in the 1st round, up to 2 in the 2nd round, and up to 3 in the final round.
+
+-----
+
 # ["Adventurer's Trials: Advanced" Event: Fun Trial Challenges](archive/3677.md)
 ## Adventurer's Trials: Advanced
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/7bfc69c02d2818075eb537869db9a980_7234065656760484456.jpg)
