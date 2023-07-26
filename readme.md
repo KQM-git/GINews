@@ -1,236 +1,3 @@
-# ["Perilous Expedition" Event: Domain Combat Trials](archive/3682.md)
-## Perilous Expedition
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/147657f401f9f47b1c7122d675d6cd07_200993319042441891.jpg)
-
-**〓Event Duration〓**
-
-2023/07/27 10:00:00 (server) – 2023/08/07 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/41fef97bd615a07cce68c3e247bf6aff_2881383122757541714.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the Archon Quest "Song of the Dragon and Freedom"
-
-****
-
-**〓Event Details〓**
-
-● After the event begins, a new Perilous Exploration will be unlocked every day for you to explore. Each exploration consists of 3 combat rounds.
-
-● Each exploration has 4 difficulties, and the level of the opponents in the first 3 of these difficulties will be decided according to the Traveler's highest World Level. The difficulty and level of opponents in the final difficulty, Dire, is fixed.
-
-● Character selection is available before each round of combat. When the number of non-repeated characters you use reaches a specific amount within a single dangerous area, a stackable buff will be activated.
-
-● Only 1 buff stack can be activated in the 1st round, up to 2 in the 2nd round, and up to 3 in the final round.
-
------
-
-# ["Adventurer's Trials: Advanced" Event: Fun Trial Challenges](archive/3677.md)
-## Adventurer's Trials: Advanced
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/7bfc69c02d2818075eb537869db9a980_7234065656760484456.jpg)
-
-**〓Event Duration〓**
-
-2023/07/20 10:00:00 (server) – 2023/07/31 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/76d4d5b34129c2ee5d9a7e58d211563f_7799009895213743968.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-****
-
-**〓Event Details〓**
-
-● From the first day of the event, a new trial stage will unlock every day. A total of five stages will be unlocked. The first four days will each unlock a Sequential Trial and Fortuitous Trials will be unlocked on the fifth day.
-
-● Each Sequential Trial requires you to pass three trial challenges with a fixed sequence at one go.
-
-● The three trial challenges for Fortuitous Trials will be randomly generated after you enter the Domain.
-
-● For each trial challenge, you are required to complete the challenge within the time limit with the specific trial character(s).
-
-● You can take on trial stages in Single Player Mode as well as in Co-Op Mode by teaming up with friends or through the matching function.
-
------
-
-# ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
-## Secret Summer Paradise
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Quest Start Time | Act I | After the Version 3.8 update | End of Version 3.8
-^ | Act II | 2023/07/07 04:00:00 (server) | ^
-^ | Act III | 2023/07/09 04:00:00 (server) | ^
-Gameplay Duration | Phase I | 2023/07/07 04:00:00 (server) | ^
-^ | Phase II | 2023/07/09 04:00:00 (server) | ^
-^ | Phase III | 2023/07/11 04:00:00 (server) | ^
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/b4361003c653567dbe8233930d0ea7ee_8071921571257892235.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 18 or above
-
-Complete the Archon Quest "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Eula's Story Quest "Aphros Delos Chapter: Act I," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I" first to get the best experience from this event.
-
-※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Eula's Story Quest "Aphros Delos Chapter: Act I," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I," you can enter the event through "Quick Start" in the event page.
-
-****
-
-**〓Event Details〓**
-
-● During the event, four types of gameplay will unlock in sequence: Spino Blaster, Sojourns of the Barking Fox, Dance of Flashing Thought, and Bing-Bang Finchball.
-
-● In the "Spino Blaster" gameplay, Travelers must operate a special water cannon to hit targets floating in the air and complete time trials in marksmanship.
-
-● In the "Sojourns of the Barking Fox" gameplay, Travelers must complete special speed trials within the Veluriyam Mirage using the toy Barking Fox.
-
-● In the "Dance of Flashing Thought" gameplay, Travelers can accumulate Honed Will via defeating opponents to obtain the "Honed Focus" effect, so as to complete the challenges more efficiently.
-
-● In the "Bing-Bang Finchball" gameplay, Travelers must launch a certain number of Finchballs in order and strive for the highest possible score to complete the challenges.
-
-● Complete different gameplay phases during the event period to obtain Fascinating Phenocrysts and reach a certain amount of Fascinating Phenocrysts to invite "Fantastical Evening Star" Layla (Cryo).
-
-● During the event, Travelers can collect Joyeux Vouchers as they explore the Veluriyam Mirage by opening Voucher Boxes and Fascinating Chests, or by completing Curious Challenges. Collect the specified number of Joyeux Vouchers to exchange for Kaeya's outfit "Sailwind Shadow."
-
-※ Kaeya's outfit "Sailwind Shadow" will be available for purchase in the Character Outfit Shop after the end of Version 3.8, which will be priced at 1,680 Genesis Crystals.
-
------
-
-# [Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!](archive/3718.md)
-## Event Wish - Drifting Luminescence
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/12/71737f737f86e9345881711842d6792d_9002972943328173663.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/07/25 18:00:00 (server) — 2023/08/15 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Enigmatic Machinist" Faruzan (Anemo)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Wise Innocence" Yanfei (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!](archive/3719.md)
-## Event Wish - From Ashes Reborn
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/12/c5d97801f7af9f62d95136501d9a6d70_5875401006189163553.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/07/25 18:00:00 (server) — 2023/08/15 14:59:59 (server) | "Eons Adrift" Wanderer (Anemo) | "Enigmatic Machinist" Faruzan (Anemo)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Wise Innocence" Yanfei (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Eons Adrift" Wanderer (Anemo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Tulaytullah's Remembrance (Catalyst)!](archive/3680.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/77d4ed19d78fb8358bf4ffad3c8feef1_138231570000886791.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2023/07/25 18:00:00 (server) — 2023/08/15 14:59:59 (server) | Everlasting Moonglow (Catalyst)  Tulaytullah's Remembrance (Catalyst) | Wine and Song (Catalyst)
-^ | ^ | Lion's Roar (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event wish, the event-exclusive 5-star weapons Everlasting Moonglow (Catalyst) and Tulaytullah's Remembrance (Catalyst) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapon Wine and Song (Catalyst) as well as the 4-star weapons Lion's Roar (Sword), The Bell (Claymore), Dragon's Bane (Polearm), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Everlasting Moonglow (Catalyst) or Tulaytullah's Remembrance (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Hangout Events: Series XI" - Story Quest Overview](archive/3681.md)
-## Hangout Events: Series XI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/77212671324ef625d2b0aeba150215b9_9151234649945742824.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock the Hangout Event for Kaeya.
-
-The Hangout Events feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight Daily Commissions completed.)
-
-**〓Quest Start Time〓**
-
-Permanently available after 2023/07/25 18:00:00 (server)
-
-****
-
-**〓Series XI Unlock Criteria〓**
-
-Hangout Event: Kaeya - Act I
-
-Adventure Rank 35 or above
-
-Complete Archon Quest Chapter III: Act VI "Caribert"
-
-And complete Kaeya's Story Quest - Pavo Ocellus Chapter: Act I "Secret Pirate Treasure"
-
------
-
 # ["Secret Summer Paradise" Version 3.8 Update Details](archive/3708.md)
 ## Version 3.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/03/b92bd1ceb0a3b889b3b5a9616a3467cf_4222566860459455386.png)
@@ -602,6 +369,239 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 〓2023/07/05 15:20:00 (global) Update Details〓
 
 Fixes an issue whereby some Travelers would encounter a system notification stating "Failed to read database. Error code: 22-4302" and thus are unable to log into the game. Our developers will distribute compensation to affected Travelers via in-game mail within 24 hours after the issue is fixed. The mail is valid for 30 days, please remember to claim it in time.
+
+-----
+
+# ["Perilous Expedition" Event: Domain Combat Trials](archive/3682.md)
+## Perilous Expedition
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/147657f401f9f47b1c7122d675d6cd07_200993319042441891.jpg)
+
+**〓Event Duration〓**
+
+2023/07/27 10:00:00 (server) – 2023/08/07 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/41fef97bd615a07cce68c3e247bf6aff_2881383122757541714.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+****
+
+**〓Event Details〓**
+
+● After the event begins, a new Perilous Exploration will be unlocked every day for you to explore. Each exploration consists of 3 combat rounds.
+
+● Each exploration has 4 difficulties, and the level of the opponents in the first 3 of these difficulties will be decided according to the Traveler's highest World Level. The difficulty and level of opponents in the final difficulty, Dire, is fixed.
+
+● Character selection is available before each round of combat. When the number of non-repeated characters you use reaches a specific amount within a single dangerous area, a stackable buff will be activated.
+
+● Only 1 buff stack can be activated in the 1st round, up to 2 in the 2nd round, and up to 3 in the final round.
+
+-----
+
+# ["Adventurer's Trials: Advanced" Event: Fun Trial Challenges](archive/3677.md)
+## Adventurer's Trials: Advanced
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/7bfc69c02d2818075eb537869db9a980_7234065656760484456.jpg)
+
+**〓Event Duration〓**
+
+2023/07/20 10:00:00 (server) – 2023/07/31 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/76d4d5b34129c2ee5d9a7e58d211563f_7799009895213743968.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+****
+
+**〓Event Details〓**
+
+● From the first day of the event, a new trial stage will unlock every day. A total of five stages will be unlocked. The first four days will each unlock a Sequential Trial and Fortuitous Trials will be unlocked on the fifth day.
+
+● Each Sequential Trial requires you to pass three trial challenges with a fixed sequence at one go.
+
+● The three trial challenges for Fortuitous Trials will be randomly generated after you enter the Domain.
+
+● For each trial challenge, you are required to complete the challenge within the time limit with the specific trial character(s).
+
+● You can take on trial stages in Single Player Mode as well as in Co-Op Mode by teaming up with friends or through the matching function.
+
+-----
+
+# ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
+## Secret Summer Paradise
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Quest Start Time | Act I | After the Version 3.8 update | End of Version 3.8
+^ | Act II | 2023/07/07 04:00:00 (server) | ^
+^ | Act III | 2023/07/09 04:00:00 (server) | ^
+Gameplay Duration | Phase I | 2023/07/07 04:00:00 (server) | ^
+^ | Phase II | 2023/07/09 04:00:00 (server) | ^
+^ | Phase III | 2023/07/11 04:00:00 (server) | ^
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/b4361003c653567dbe8233930d0ea7ee_8071921571257892235.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 18 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Eula's Story Quest "Aphros Delos Chapter: Act I," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I" first to get the best experience from this event.
+
+※ If you have not completed the Archon Quest "Akasha Pulses, the Kalpa Flame Rises," Eula's Story Quest "Aphros Delos Chapter: Act I," and Sangonomiya Kokomi's Story Quest "Dracaena Somnolenta Chapter: Act I," you can enter the event through "Quick Start" in the event page.
+
+****
+
+**〓Event Details〓**
+
+● During the event, four types of gameplay will unlock in sequence: Spino Blaster, Sojourns of the Barking Fox, Dance of Flashing Thought, and Bing-Bang Finchball.
+
+● In the "Spino Blaster" gameplay, Travelers must operate a special water cannon to hit targets floating in the air and complete time trials in marksmanship.
+
+● In the "Sojourns of the Barking Fox" gameplay, Travelers must complete special speed trials within the Veluriyam Mirage using the toy Barking Fox.
+
+● In the "Dance of Flashing Thought" gameplay, Travelers can accumulate Honed Will via defeating opponents to obtain the "Honed Focus" effect, so as to complete the challenges more efficiently.
+
+● In the "Bing-Bang Finchball" gameplay, Travelers must launch a certain number of Finchballs in order and strive for the highest possible score to complete the challenges.
+
+● Complete different gameplay phases during the event period to obtain Fascinating Phenocrysts and reach a certain amount of Fascinating Phenocrysts to invite "Fantastical Evening Star" Layla (Cryo).
+
+● During the event, Travelers can collect Joyeux Vouchers as they explore the Veluriyam Mirage by opening Voucher Boxes and Fascinating Chests, or by completing Curious Challenges. Collect the specified number of Joyeux Vouchers to exchange for Kaeya's outfit "Sailwind Shadow."
+
+※ Kaeya's outfit "Sailwind Shadow" will be available for purchase in the Character Outfit Shop after the end of Version 3.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# [Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!](archive/3718.md)
+## Event Wish - Drifting Luminescence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/12/71737f737f86e9345881711842d6792d_9002972943328173663.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/07/25 18:00:00 (server) — 2023/08/15 14:59:59 (server) | "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Wise Innocence" Yanfei (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Pearl of Wisdom" Sangonomiya Kokomi (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!](archive/3719.md)
+## Event Wish - From Ashes Reborn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/12/c5d97801f7af9f62d95136501d9a6d70_5875401006189163553.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/07/25 18:00:00 (server) — 2023/08/15 14:59:59 (server) | "Eons Adrift" Wanderer (Anemo) | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Wise Innocence" Yanfei (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Eons Adrift" Wanderer (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Tulaytullah's Remembrance (Catalyst)!](archive/3680.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/77d4ed19d78fb8358bf4ffad3c8feef1_138231570000886791.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/07/25 18:00:00 (server) — 2023/08/15 14:59:59 (server) | Everlasting Moonglow (Catalyst)  Tulaytullah's Remembrance (Catalyst) | Wine and Song (Catalyst)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Everlasting Moonglow (Catalyst) and Tulaytullah's Remembrance (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Wine and Song (Catalyst) as well as the 4-star weapons Lion's Roar (Sword), The Bell (Claymore), Dragon's Bane (Polearm), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Everlasting Moonglow (Catalyst) or Tulaytullah's Remembrance (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Hangout Events: Series XI" - Story Quest Overview](archive/3681.md)
+## Hangout Events: Series XI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/77212671324ef625d2b0aeba150215b9_9151234649945742824.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock the Hangout Event for Kaeya.
+
+The Hangout Events feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight Daily Commissions completed.)
+
+**〓Quest Start Time〓**
+
+Permanently available after 2023/07/25 18:00:00 (server)
+
+****
+
+**〓Series XI Unlock Criteria〓**
+
+Hangout Event: Kaeya - Act I
+
+Adventure Rank 35 or above
+
+Complete Archon Quest Chapter III: Act VI "Caribert"
+
+And complete Kaeya's Story Quest - Pavo Ocellus Chapter: Act I "Secret Pirate Treasure"
 
 -----
 
