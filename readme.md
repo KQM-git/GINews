@@ -605,6 +605,26 @@ And complete Kaeya's Story Quest - Pavo Ocellus Chapter: Act I "Secret Pirate Tr
 
 -----
 
+# [Genshin Impact V3.0 Commemorative OST Album - "The Shimmering Voyage Vol. 3" Now Available](archive/3721.md)
+## Version 3.0 Commemorative OST Album Available Now
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/13/fbb5aea261f1e6d39c4fcdfd6d506190_1635649293132244368.jpg)
+
+Dear Travelers,
+
+Genshin Impact's Version 3.0 Commemorative OST album "The Shimmering Voyage Vol. 3" is now available! The album's three discs "La liesse, ou le fluide mirage des songes," "Tathya-Samvrti," and "Anecdotes of Reverie" feature 68 remarkable tracks composed by the HOYO-MiX team, each one an original composition from Genshin Impact.
+
+Travelers can go to the following platforms to listen to "The Shimmering Voyage Vol. 3."
+
+Spotify:
+
+[Click here to listen to "The Shimmering Voyage Vol. 3"](http://open.spotify.com/album/7rk8Dy3J1dbrkbSEOVIB3p)
+
+Apple Music:
+
+[Click here to listen to "The Shimmering Voyage Vol. 3"](https://music.apple.com/us/album/1698938337)
+
+-----
+
 # [Genshin Impact Tools Update 3.8 Notice](archive/3701.md)
 ## Genshin Impact Tools Update 3.8 Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/04/05a9e8f036c90f3124e6bb4c61752502_4758665036345717229.jpg)
