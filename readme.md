@@ -372,6 +372,48 @@ Fixes an issue whereby some Travelers would encounter a system notification stat
 
 -----
 
+# ["Conch Reminiscences" — Genshin Impact's V3.0 Commemorative OST Album Web Event Now Available](archive/3713.md)
+## "Conch Reminiscences" — Genshin Impact's V3.0 Commemorative OST Album Web Event Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/24/46a374f4b707563808b0ce1ff0962b1b_6692056790477143775.png)
+
+V3.0 Commemorative OST Album is now available!
+
+[>> Click here to participate <<](https://act.hoyolab.com/bbs/event/20230612ost-sea/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&hyl_landscape=true&hyl_hide_status_bar=true&utm_source=ingame&utm_medium=notice&utm_campaign=Shimmering3Ost&utm_id=2)
+
+Pick up the conch and heed the ballads of yesteryear.
+
+In notes of melody may pearlescent dreamlands manifest.
+
+Henceforth, rendezvous once more in the embrace of memories...
+
+〓Event Duration〓
+
+2023/07/27 12:00:00 (global) – 2023/08/03 23:59:59 (global)
+
+〓Event Summary〓
+
+During the event, complete and share the event to get Primogem Redemption Codes (limited to 5 million in quantity) and Hero's Wit Redemption Codes (limited to 3 million in quantity).
+
+After obtaining a redemption code, you can use it to redeem the gift pack via Settings > Account > Redemption Code in the game.
+
+PlayStation players can scan the QR code after opening the page to participate in the event.
+
+〓Event Rewards〓
+
+Primogems ×40 (limited to 5 million in quantity)
+
+Hero's Wit ×2 (limited to 3 million in quantity)
+
+〓Friendly Reminder〓
+
+1. Players must have an Adventure Rank of 10 and above to activate the gift pack, and each UID can only receive the pack once.
+
+2. The Primogem and item Redemption Codes are valid until 2023/08/09 23:59:59 (global). Please claim it within the validity period.
+
+(Note: It is recommended to switch to landscape mode and wear headphones for a better experience.)
+
+-----
+
 # ["Perilous Expedition" Event: Domain Combat Trials](archive/3682.md)
 ## Perilous Expedition
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/147657f401f9f47b1c7122d675d6cd07_200993319042441891.jpg)
