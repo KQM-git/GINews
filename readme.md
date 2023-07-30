@@ -476,42 +476,6 @@ And complete the Archon Quest "Song of the Dragon and Freedom"
 
 -----
 
-# ["Adventurer's Trials: Advanced" Event: Fun Trial Challenges](archive/3677.md)
-## Adventurer's Trials: Advanced
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/7bfc69c02d2818075eb537869db9a980_7234065656760484456.jpg)
-
-**〓Event Duration〓**
-
-2023/07/20 10:00:00 (server) – 2023/07/31 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/76d4d5b34129c2ee5d9a7e58d211563f_7799009895213743968.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-****
-
-**〓Event Details〓**
-
-● From the first day of the event, a new trial stage will unlock every day. A total of five stages will be unlocked. The first four days will each unlock a Sequential Trial and Fortuitous Trials will be unlocked on the fifth day.
-
-● Each Sequential Trial requires you to pass three trial challenges with a fixed sequence at one go.
-
-● The three trial challenges for Fortuitous Trials will be randomly generated after you enter the Domain.
-
-● For each trial challenge, you are required to complete the challenge within the time limit with the specific trial character(s).
-
-● You can take on trial stages in Single Player Mode as well as in Co-Op Mode by teaming up with friends or through the matching function.
-
------
-
 # ["Secret Summer Paradise" Event: Take Part to Obtain Kaeya's Outfit and Invite "Fantastical Evening Star" Layla (Cryo)](archive/3671.md)
 ## Secret Summer Paradise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/8c0ca521ca46a25e1aec06008c7538ef_502514406620851423.jpg)
