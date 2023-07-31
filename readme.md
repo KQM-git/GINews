@@ -324,6 +324,34 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# ["Shared Sight" Event: Animal Seeking Challenges](archive/3683.md)
+## Shared Sight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/f98626b994f87298a0b7719642d9adcc_8977066169129593120.jpg)
+
+**〓Event Duration〓**
+
+2023/08/03 10:00:00 (server) – 2023/08/14 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/5412fbfe82f2ed178947da8c0e3facdd_7262043960831282707.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+****
+
+**〓Event Details〓**
+
+● There are a total of 6 stages and a new stage will be unlocked each day for the first 6 days of the event.
+
+● During the event, use the Inscribed Mirror around the signs and the devices linked to the Inscribed Mirror will show you what the small animals that have connected to the item are seeing.
+
+● After using the Inscribed Mirror, you can adjust your camera angle to observe your surroundings and improve the accuracy of your search.
+
+● Use that information to find and retrieve all the small animals. Complete the stage objectives to obtain the corresponding rewards.
+
+-----
+
 # [Version Details - What's New ](archive/3711.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
