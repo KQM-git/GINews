@@ -452,26 +452,6 @@ The Version 4.0 "As Light Rain Falls Without Reason" Preview page is here!
 
 -----
 
-# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3432.md)
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/28/713e290d673605bb82d2832ae54d75fd_9072633624639013815.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-**〓Event Duration〓**
-
-2023/08/07 04:00:00 (server) – 2023/08/14 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains such as "Forsaken Rift," "Taishan Mansion," "Violet Court," and "Steeple of Ignorance" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/3751.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -489,34 +469,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Shared Sight" Event: Animal Seeking Challenges](archive/3683.md)
-## Shared Sight
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/30/f98626b994f87298a0b7719642d9adcc_8977066169129593120.jpg)
-
-**〓Event Duration〓**
-
-2023/08/03 10:00:00 (server) – 2023/08/14 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/07/5412fbfe82f2ed178947da8c0e3facdd_7262043960831282707.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-****
-
-**〓Event Details〓**
-
-● There are a total of 6 stages and a new stage will be unlocked each day for the first 6 days of the event.
-
-● During the event, use the Inscribed Mirror around the signs and the devices linked to the Inscribed Mirror will show you what the small animals that have connected to the item are seeing.
-
-● After using the Inscribed Mirror, you can adjust your camera angle to observe your surroundings and improve the accuracy of your search.
-
-● Use that information to find and retrieve all the small animals. Complete the stage objectives to obtain the corresponding rewards.
 
 -----
 
@@ -744,56 +696,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [Klee's Outfit "Blossoming Starlight" Available at a Limited-Time Discount](archive/3674.md)
-## Blossoming Starlight
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/791e3d10117e991719d68380002ae38d_8377035249253968969.jpg)
-
-Klee's outfit "Blossoming Starlight" is available at a limited-time discount in the Shop!
-
-****
-
-**〓Discount Period〓**
-
-After the Version 3.8 update – 2023/08/14 03:59:59 (server)
-
-****
-
-**〓Outfit Details〓**
-
-● Klee's outfit "Blossoming Starlight" will be permanently available in the Shop after the Version 3.8 update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Klee can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
-# ["Vivid Illumination" Event Details](archive/3675.md)
-## Vivid Illumination
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/20/a112dc2416c9b0ba1ad3b9f739fcdd27_7883938607451072930.jpg)
-
-Travelers can earn rich rewards in "Vivid Illumination" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Vivid Illumination" and Furnishing Blueprint "Choo-Choo Cart Rest Stop."
-
-**〓Event Duration〓**
-
-After the Version 3.8 update – 2023/08/14 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/08/14 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
