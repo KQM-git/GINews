@@ -37,6 +37,264 @@ Regardless of whether you complete pre-installation, any content you download in
 
 -----
 
+# ["Relic Records: Creations of the Hydro Nation" Event: Survey the Sights of Fontaine](archive/3734.md)
+## Relic Records: Creations of the Hydro Nation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1d70cf75ece9a581e70efc4edd211dd0_5800218376958792664.jpg)
+
+**〓Event Duration〓**
+
+After the Version 4.0 update – 2023/08/28 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/11e30359f59ef128498aeabea2ab51f4_4687392331734582557.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Unlock any Statue of The Seven in Fontaine
+
+****
+
+**〓Event Details〓**
+
+● After the event begins, all exploration quests will be made available on the first day.
+
+● During the event, Travelers need to collect specific types of harvestable items and challenge specified enemies. Complete the exploration tasks to obtain the rewards.
+
+● While collecting the specified harvestable items, recommended collection sites will be marked on your map for certain items. Your mini-map will display nearby collectables when you get close to recommended sites.
+
+● During the event, after you complete collection tasks, the recommended collection sites will be marked on your map. You can head to these locations to harvest the items if required.
+
+-----
+
+# ["The Curtain Never Falls on Magic" Event: Take Part to Invite "Elegance in the Shadows" Lynette (Anemo)](archive/3733.md)
+## The Curtain Never Falls on Magic
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1c0fd14f79124207d14b2544a9f97df3_6078181038114022578.jpg)
+
+**〓Event Duration〓**
+
+Permanently available after the Version 4.0 update
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/963187f91d9b531f400be804faa28a62_8774530579567612945.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 25 or above
+
+**〓Event Details〓**
+
+Reach Adventure Rank 25 to invite "Elegance in the Shadows" Lynette (Anemo) from the event page!
+
+※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/3732.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/7c1b771e1ae3a4d32e4678b313edf881_301904354186907.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.0
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_2256679834439596534.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage will have special victory and defeat conditions. Some stages also have specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
+# [Event Wish "Conjuring Chiaroscuro" - Boosted Drop Rate for "Spectacle of Phantasmagoria" Lyney (Pyro)!](archive/3726.md)
+## Event Wish - Conjuring Chiaroscuro
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/fad20446e03cc98660c8b1ec4755bf21_8388334178178248812.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.0 update  —  2023/09/05 17:59:00 (server) | "Spectacle of Phantasmagoria" Lyney (Pyro) | "Elegance in the Shadows" Lynette (Anemo)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Shining Idol" Barbara (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Spectacle of Phantasmagoria" Lyney (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Elegance in the Shadows" Lynette (Anemo), "Trial by Fire" Bennett (Pyro), and "Shining Idol" Barbara (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Elegance in the Shadows" Lynette (Anemo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!](archive/3727.md)
+## Event Wish - Discerner of Enigmas
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/befbaa48f4273e77fe2b691ceee635e3_1600999032002683202.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character**  **(5-Star)** | **Featured**  **Characters**  **(4-Star)**
+--- | --- | ---
+After the Version 4.0 update — 2023/09/05 17:59:00 (server) | "Valley Orchid" Yelan (Hydro) | "Elegance in the Shadows" Lynette (Anemo)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Shining Idol" Barbara (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Valley Orchid" Yelan (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Elegance in the Shadows" Lynette (Anemo), "Trial by Fire" Bennett (Pyro), and "Shining Idol" Barbara (Hydro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Elegance in the Shadows" Lynette (Anemo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for The First Great Magic (Bow) and Aqua Simulacra (Bow)!](archive/3728.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/04/d8ab9188f2a28aa6ff8138d084b4d9a6_804617367740552571.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 4.0 update  —  2023/09/05 17:59:00 (server) | The First Great Magic (Bow)  Aqua Simulacra (Bow) | Sacrificial Sword (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons The First Great Magic (Bow) and Aqua Simulacra (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star weapons Sacrificial Sword (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Sacrificial Fragments (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as The First Great Magic (Bow) or Aqua Simulacra (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Felis Fuscus Chapter" Story Quest Overview](archive/3729.md)
+## Felis Fuscus Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/a56683856a8a906b1960793795a59b86_1549340684079201891.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Lyney's Story Quest "Felis Fuscus Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by completing Daily Commissions (one Story Key is awarded for every eight commissions completed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.0 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason"
+
+-----
+
+# ["Primordial Waters" Event Details](archive/3731.md)
+## Primordial Waters
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/48417d2160dd7bc3198602535be64874_3769683732140879059.jpg)
+
+Travelers can earn rich rewards in "Primordial Waters" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Primordial Waters" and Furnishing Blueprint "Court of Justice's Diligence."
+
+**〓Event Duration〓**
+
+After the Version 4.0 update – 2023/09/25 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● Starting from this Battle Pass, on top of the five 4-star weapons already in the BP Bounty, the following new 4-star weapons will also be available: Wolf-Fang (Sword), Talking Stick (Claymore), Sacrificial Jade (Catalyst), Scion of the Blazing Sun (Bow), and Ballad of the Fjords (Polearm). Reach Gnostic Hymn Level 30 to select any one of these ten weapons from the BP Bounty.
+
+● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guidance of the Land of Thunder" will be replaced with "Guide to the Original Current," and "Philosophies of the Land of Thunder" will be replaced with "Philosophies of the Original Current."
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/09/25 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 25 Available for a Limited Time](archive/3730.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/5eecc9e0a41fc59baf3851559b3fddb7_673137437189122568.jpg)
+
+Round 25 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 4.0 update – 2023/08/30 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 4.0 update – 2023/08/30 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
 # ["Secret Summer Paradise" Version 3.8 Update Details](archive/3708.md)
 ## Version 3.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/03/b92bd1ceb0a3b889b3b5a9616a3467cf_4222566860459455386.png)
