@@ -705,30 +705,6 @@ Fixes an issue whereby some Travelers would encounter a system notification stat
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/3759.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2023/08/11 10:00:00 (global) - 2023/08/14 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_bhd6nctj4gh4my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=15378&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [Web Event "Shadows in Motion" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/3724.md)
 ## Web Event "Shadows in Motion" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/31/146e28becfd530c58fafd381b6cd445a_6575880514218396148.jpg)
@@ -933,38 +909,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Genshin Impact Tools Update 3.8 Notice](archive/3701.md)
-## Genshin Impact Tools Update 3.8 Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/04/05a9e8f036c90f3124e6bb4c61752502_4758665036345717229.jpg)
-
-Dear Travelers,
-
-Genshin Impact Version 3.8 is now available! HoYoLAB's Genshin Impact tools have received new content updates. Come take a look at what new tool functions are being offered this time!
-
-| Battle Chronicle Update: Added the Version 3.8 Events Battle Chronicle display
-
-The Battle Chronicle display for the Version 3.8 "Secret Summer Paradise" Main Event has been added. Travelers can quickly check in-game event data, including details about Treasure Chests and Teleport Waypoints along with scores from the various mini-events.
-
-[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=330&gid=2&utm_source=ingame&utm_medium=notice&utm_campaign=battlechronicle&utm_id=2)
-
-| Teyvat Interactive Map Update: Added Version 3.8 map and new multi-layered function for underground maps
-
-Added details related to Map Pins for Version 3.8 to help Travelers journey across the update without getting lost!
-
-For easier exploration, after enabling the underground map, Travelers can also view and switch between layers for specific locations by selecting pins on the map. (This feature is expected to become available around July 20)
-
-[>> Click to Enter the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style?utm_source=ingame&utm_medium=notice&utm_id=2)
-
-| Check-In: This month's check-in has started
-
-Check in daily to get Primogems, Mora, and other in-game items. The first time you check in will also grant you an additional Primogems ×100 and Mora ×10,000!
-
-[>> Click to Check In <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_id=2)
-
-Travelers can go to HoYoLAB Community > Tools to use the relevant tools.
 
 -----
 
