@@ -705,20 +705,6 @@ Fixes an issue whereby some Travelers would encounter a system notification stat
 
 -----
 
-# [The Version 4.0 "As Light Rain Falls Without Reason" Preview page is here!](archive/3762.md)
-## Genshin Impact Version 4.0 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/04/304372dc40e0989b0f067b8323946488_6477128885577876507.jpg)
-
-Dear Travelers,
-
-The Version 4.0 "As Light Rain Falls Without Reason" Preview page is here!
-
-[>>>>Go to V4.0 "As Light Rain Falls Without Reason" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230805preview/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230805warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/3751.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
