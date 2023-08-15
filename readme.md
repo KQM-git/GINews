@@ -705,42 +705,6 @@ Fixes an issue whereby some Travelers would encounter a system notification stat
 
 -----
 
-# [Web Event "Shadows in Motion" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/3724.md)
-## Web Event "Shadows in Motion" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/31/146e28becfd530c58fafd381b6cd445a_6575880514218396148.jpg)
-
-Within the microcosm of the toybox lurk mysterious surprises awaiting your discovery~
-
-Come and take some photos together!
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20230809-photo/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230809photo&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2023/08/09 – 2023/08/15 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, you can log in to Genshin Impact daily, complete Daily Commissions, consume Original Resin, and complete other missions to obtain Stamina. Stamina can be used to unlock different minimized landscapes, which can be accessed to let you take pictures of varied Sights. Accumulate photos of Sights to obtain Primogems and other rewards.
-
-〓Event Rewards〓
-
-- Sight Photography Rewards -
-
-After accumulating 1, 3, 6, 9, 12, and 15 photos of Sights, Travelers can collect the corresponding rewards. The rewards include: Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×9, Mora ×60,000, and Sanctifying Unction ×3.
-
-*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [The Version 4.0 "As Light Rain Falls Without Reason" Preview page is here!](archive/3762.md)
 ## Genshin Impact Version 4.0 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/04/304372dc40e0989b0f067b8323946488_6477128885577876507.jpg)
