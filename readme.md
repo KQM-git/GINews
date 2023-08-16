@@ -789,6 +789,72 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 -----
 
+# [Don't Miss These Tool Updates in Version 4.0!](archive/3755.md)
+## Check Out These Tools for Version 4.0!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/15/5a6083cb5e686fef36afbf323d4f0000_1501922797730233355.jpg)
+
+Dear Travelers,
+
+Genshin Impact's much-awaited Version 4.0 is finally here!
+
+Related content has also been added to the Genshin Impact tools in HoYoLAB. We hope this helps Travelers get the most out of features in the new version~
+
+1. Essential Tools for Exploring the New Region Fontaine
+
+| Teyvat Interactive Map Update: Adds a new Underwater Map for Version 4.0, and supports switching between the surface and underwater map layers.
+
+A map of Fontaine's underwater world has been added to the Interactive Map.
+
+Simply click the Multi-Layered Map button on the home page to get an overview of different layers.
+
+Once you've entered the Multi-Layered Map, select different layers to switch between viewing underwater or surface map details.
+
+[>> Click to Enter the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+2. Build New Characters Efficiently
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Lyney, Lynette, and Freminet.
+
+(Data for Freminet in the Enhancement Progression Calculator will be updated when the limited-time Event Wish becomes available in-game on September 5)
+
+Travelers can first use the Enhancement Progression Calculator to calculate the materials required for leveling up characters.
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Teyvat Interactive Map Recommended Routes Feature
+
+Recommended Ascension Material harvest routes have been added for the new characters Lyney and Lynette, helping you quickly find the materials you need and build your characters more efficiently!
+
+Recommended Ascension Material harvest routes for Freminet will be updated when the limited-time Event Wish becomes available on September 5, so stay tuned!
+
+3. Teyvat Journey Review
+
+| Traveler's Diary
+
+Travelers can check the amount of Primogems and Mora that they've obtained each month in the Traveler's Diary, along with details about where they obtained them. Check out your detailed travel records and revisit your precious memories~
+
+[>> Click to View Traveler's Diary <<](https://act.hoyolab.com/ys/event/e20210923journal/index.html?hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=diary&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Battle Chronicle Update: Adds new content in the World Exploration, Event Review, and Spiral Abyss modules.
+
+New content about the Main City of Fontaine has been added to World Exploration, and the Version 4.0 limited-time event "Mega Meka Melee" has been added to Event Review.
+
+Ley Line Disorder and Opponents' Details information has been added to the Spiral Abyss module, providing you with more vital intel on the Abyss!
+
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+4. Spiral Abyss Lineup Queries
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Lyney, Lynette, and Freminet (Lineup queries for Freminet will be updated when the limited-time Event Wish becomes available on September 5).
+
+You can use the Lineup Simulator to view lineup recommendations for different floors of the Spiral Abyss.
+
+You can also filter them based on the characters you own and the lineup publishing time to find the best lineups that suit your circumstances.
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
 # [Web Event "Call for Fontaine Adventurers" Now Online: Invite Your Friends Back to Teyvat!](archive/3757.md)
 ## Web Event "Call for Fontaine Adventurers" Now Online: Invite Your Friends Back to Teyvat!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/15/31baf652aa5b019abd2b4808957e9ec3_2748446253010342631.jpg)
