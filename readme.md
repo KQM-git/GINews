@@ -785,36 +785,6 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter IV: Act I and Act II](archive/3745.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act I and Act II
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/09/cf91e12f974dd6e9a7c5db1411a1c1c2_9075338648932578490.jpg)
-
-You've learned many new things about the world and benefited greatly from your trip to Sumeru. What significance, then, will your next stop — Fontaine, the Nation of Justice and Judgment — have for your journey through Teyvat?
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur" and Act II "As Light Rain Falls Without Reason" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 4.0 update, Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur" and Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" will be permanently available
-
-〓Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter III: Act VI "Caribert"
-
-〓Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # [Take Part in "Gifts of Encounter" to Win Primogems!](archive/3763.md)
 ## Take Part in "Gifts of Encounter" to Win Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
@@ -1110,6 +1080,36 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter IV: Act I and Act II](archive/3745.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act I and Act II
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/09/cf91e12f974dd6e9a7c5db1411a1c1c2_9075338648932578490.jpg)
+
+You've learned many new things about the world and benefited greatly from your trip to Sumeru. What significance, then, will your next stop — Fontaine, the Nation of Justice and Judgment — have for your journey through Teyvat?
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur" and Act II "As Light Rain Falls Without Reason" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 4.0 update, Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur" and Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" will be permanently available
+
+〓Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter III: Act VI "Caribert"
+
+〓Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
