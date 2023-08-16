@@ -1,3 +1,21 @@
+# [Version 4.0 New Content Overview](archive/3783.md)
+## Version 4.0 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/d1788b47ed93f92b727783ec64fe752c_8598387604331107901.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/cd315c855aa8124713e28341478a8180_4271683206595356298.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/00012e22ffe2f76a45ff1b57ddfb7344_583550278529911436.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/b0db8187ddf09f8e9f55aa6053883d19_8095488991560282049.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/ddaa80fb85fac43ee5a522c99a20f385_7408045559680335142.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/e8d2022e008f9c874c6d5f8d89cee14e_2239772205087908980.jpg)
+
+-----
+
 # ["As Light Rain Falls Without Reason" Version 4.0 Update Details](archive/3742.md)
 ## Version 4.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/09/32efbdebd786315e876b80dcc82fa951_583939511856183414.jpg)
@@ -778,24 +796,6 @@ After the Version 4.0 update, Archon Quest Chapter IV: Act I "Prelude of Blanche
 • Complete Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Version 4.0 New Content Overview](archive/3783.md)
-## Version 4.0 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/d1788b47ed93f92b727783ec64fe752c_8598387604331107901.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/cd315c855aa8124713e28341478a8180_4271683206595356298.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/00012e22ffe2f76a45ff1b57ddfb7344_583550278529911436.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/b0db8187ddf09f8e9f55aa6053883d19_8095488991560282049.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/ddaa80fb85fac43ee5a522c99a20f385_7408045559680335142.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/15/e8d2022e008f9c874c6d5f8d89cee14e_2239772205087908980.jpg)
 
 -----
 
