@@ -987,38 +987,6 @@ Travelers who have reached Adventure Rank 10 or above can participate in this ev
 
 -----
 
-# ["Relic Records: Creations of the Hydro Nation" Event: Survey the Sights of Fontaine](archive/3734.md)
-## Relic Records: Creations of the Hydro Nation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1d70cf75ece9a581e70efc4edd211dd0_5800218376958792664.jpg)
-
-**〓Event Duration〓**
-
-After the Version 4.0 update – 2023/08/28 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/11e30359f59ef128498aeabea2ab51f4_4687392331734582557.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Unlock any Statue of The Seven in Fontaine
-
-****
-
-**〓Event Details〓**
-
-● After the event begins, all exploration quests will be made available on the first day.
-
-● During the event, Travelers need to collect specific types of harvestable items and challenge specified enemies. Complete the exploration tasks to obtain the rewards.
-
-● While collecting the specified harvestable items, recommended collection sites will be marked on your map for certain items. Your mini-map will display nearby collectables when you get close to recommended sites.
-
-● During the event, after you complete collection tasks, the recommended collection sites will be marked on your map. You can head to these locations to harvest the items if required.
-
------
-
 # ["The Curtain Never Falls on Magic" Event: Take Part to Invite "Elegance in the Shadows" Lynette (Anemo)](archive/3733.md)
 ## The Curtain Never Falls on Magic
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1c0fd14f79124207d14b2544a9f97df3_6078181038114022578.jpg)
