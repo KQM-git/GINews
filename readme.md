@@ -26,6 +26,52 @@ Email address: genshin_cs@hoyoverse.com
 
 -----
 
+# ["Mega Meka Melee" Event: Take Part to Invite "Trial by Fire" Bennett (Pyro)](archive/3735.md)
+## Mega Meka Melee
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/4b9a551972acf66c4428380534f95909_5689020907351067371.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/08/24 10:00:00 (server) | 2023/09/11 03:59:59 (server)
+^ | Act II | 2023/08/26 04:00:00 (server) | ^
+^ | Act III | 2023/08/28 04:00:00 (server) | ^
+Gameplay Duration | Phase I | 2023/08/24 10:00:00 (server) | ^
+^ | Phase II | 2023/08/26 04:00:00 (server) | ^
+^ | Phase III | 2023/08/28 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2023/08/24 10:00:00 (server) | 2023/09/18 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/8f0077efa23769200accfe94f3fa927b_1209506797202449333.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+****
+
+**〓Event Details〓**
+
+● During the event, the following gameplay modes will unlock in sequence: Dance Dance Resolution, Torrential Turbulent Charge, and Efficacy Testing Simulation Arena.
+
+● "Dance Dance Resolution": Control Toy Adventurers, follow the beat of the music, and hit various Slime puppets.
+
+● "Torrential Turbulent Charge": Complete an underwater Time Trial Challenge, and make use of various Turbulence items to complete the trial faster.
+
+● "Efficacy Testing Simulation Arena": Head to the designated location and defeat your opponents to help the staff collect the data they need.
+
+● Complete the various gameplay modes to obtain Enigmatic Copper Mainsprings to exchange for the following rewards from the Event Shop: Crown of Insight, Primogems, Character Talent Materials, Sanctifying Essence, Character Ascension Materials, and Mora. Reach a certain amount of Enigmatic Copper Mainsprings to invite "Trial by Fire" Bennett (Pyro).
+
+-----
+
 # [Version 4.0 New Content Overview](archive/3783.md)
 ## Version 4.0 New Content Overview
 
@@ -855,52 +901,6 @@ Optimizes the issue whereby under specific circumstances, when characters take t
 
 -----
 
-# ["Mega Meka Melee" Event: Take Part to Invite "Trial by Fire" Bennett (Pyro)](archive/3735.md)
-## Mega Meka Melee
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/4b9a551972acf66c4428380534f95909_5689020907351067371.jpg)
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/08/24 10:00:00 (server) | 2023/09/11 03:59:59 (server)
-^ | Act II | 2023/08/26 04:00:00 (server) | ^
-^ | Act III | 2023/08/28 04:00:00 (server) | ^
-Gameplay Duration | Phase I | 2023/08/24 10:00:00 (server) | ^
-^ | Phase II | 2023/08/26 04:00:00 (server) | ^
-^ | Phase III | 2023/08/28 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/08/24 10:00:00 (server) | 2023/09/18 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/8f0077efa23769200accfe94f3fa927b_1209506797202449333.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Complete the Archon Quest "Song of the Dragon and Freedom"
-
-****
-
-**〓Event Details〓**
-
-● During the event, the following gameplay modes will unlock in sequence: Dance Dance Resolution, Torrential Turbulent Charge, and Efficacy Testing Simulation Arena.
-
-● "Dance Dance Resolution": Control Toy Adventurers, follow the beat of the music, and hit various Slime puppets.
-
-● "Torrential Turbulent Charge": Complete an underwater Time Trial Challenge, and make use of various Turbulence items to complete the trial faster.
-
-● "Efficacy Testing Simulation Arena": Head to the designated location and defeat your opponents to help the staff collect the data they need.
-
-● Complete the various gameplay modes to obtain Enigmatic Copper Mainsprings to exchange for the following rewards from the Event Shop: Crown of Insight, Primogems, Character Talent Materials, Sanctifying Essence, Character Ascension Materials, and Mora. Reach a certain amount of Enigmatic Copper Mainsprings to invite "Trial by Fire" Bennett (Pyro).
-
------
-
 # ["Endless Adventure in Teyvat: Fontaine Edition" Online Exhibition Event Is Here!](archive/3779.md)
 ## Endless Adventure in Teyvat: Fontaine Edition
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/25/2059206d90cd4ae8bfeb6bbdd777d064_3778492307769796160.jpg)
@@ -1036,66 +1036,6 @@ Travelers who have reached Adventure Rank 10 or above can participate in this ev
 *More details about the rules of the event can be found on the event rules on the event page.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
-# ["The Curtain Never Falls on Magic" Event: Take Part to Invite "Elegance in the Shadows" Lynette (Anemo)](archive/3733.md)
-## The Curtain Never Falls on Magic
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1c0fd14f79124207d14b2544a9f97df3_6078181038114022578.jpg)
-
-**〓Event Duration〓**
-
-Permanently available after the Version 4.0 update
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/963187f91d9b531f400be804faa28a62_8774530579567612945.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 25 or above
-
-**〓Event Details〓**
-
-Reach Adventure Rank 25 to invite "Elegance in the Shadows" Lynette (Anemo) from the event page!
-
-※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/3732.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/7c1b771e1ae3a4d32e4678b313edf881_301904354186907.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.0
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_2256679834439596534.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-****
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage will have special victory and defeat conditions. Some stages also have specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
@@ -1262,6 +1202,66 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["The Curtain Never Falls on Magic" Event: Take Part to Invite "Elegance in the Shadows" Lynette (Anemo)](archive/3733.md)
+## The Curtain Never Falls on Magic
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1c0fd14f79124207d14b2544a9f97df3_6078181038114022578.jpg)
+
+**〓Event Duration〓**
+
+Permanently available after the Version 4.0 update
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/963187f91d9b531f400be804faa28a62_8774530579567612945.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 25 or above
+
+**〓Event Details〓**
+
+Reach Adventure Rank 25 to invite "Elegance in the Shadows" Lynette (Anemo) from the event page!
+
+※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/3732.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/7c1b771e1ae3a4d32e4678b313edf881_301904354186907.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.0
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_2256679834439596534.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage will have special victory and defeat conditions. Some stages also have specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
