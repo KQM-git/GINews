@@ -1147,36 +1147,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 25 Available for a Limited Time](archive/3730.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/5eecc9e0a41fc59baf3851559b3fddb7_673137437189122568.jpg)
-
-Round 25 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 4.0 update – 2023/08/30 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 4.0 update – 2023/08/30 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # ["The Curtain Never Falls on Magic" Event: Take Part to Invite "Elegance in the Shadows" Lynette (Anemo)](archive/3733.md)
 ## The Curtain Never Falls on Magic
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1c0fd14f79124207d14b2544a9f97df3_6078181038114022578.jpg)
