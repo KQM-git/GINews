@@ -84,6 +84,66 @@ Complete the Archon Quest "Song of the Dragon and Freedom"
 
 -----
 
+# [Event Wish "Gentry of Hermitage" - Boosted Drop Rate for "Vago Mundo" Zhongli (Geo)!](archive/3737.md)
+## Event Wish - Gentry of Hermitage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/60e85a0840edf7db86c875612a33df69_5445434675155288071.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | "Vago Mundo" Zhongli (Geo) | "Yearning for Unseen Depths" Freminet (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Vago Mundo" Zhongli (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Mujina Ninja" Sayu (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Yearning for Unseen Depths" Freminet (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!](archive/3738.md)
+## Event Wish - Farewell of Snezhnaya
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/3b6104a3da7ca831516596043ac47f17_5265195281425652124.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | "Childe" Tartaglia (Hydro) | "Yearning for Unseen Depths" Freminet (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Childe" Tartaglia (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Mujina Ninja" Sayu (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Yearning for Unseen Depths" Freminet (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Version 4.0 New Content Overview](archive/3783.md)
 ## Version 4.0 New Content Overview
 
@@ -910,6 +970,34 @@ Travelers who encounter the above issues can start the game via the launcher aft
 〓2023/08/16 21:15:00 (global) Update Details〓
 
 Optimizes the issue whereby under specific circumstances, when characters take the elevator at the Romaritime Harbor or other regions in Fontaine, they might encounter an issue of falling abnormally and hovering persistently in the air. If Travelers still encounter the issue of falling abnormally, please wait for your character to land at the bottom, then take the elevator again.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Vortex Vanquisher (Polearm) and Polar Star (Bow)!](archive/3739.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/fd74c2d7d375c56d65295e239cb29967_8493569738916472133.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons**  **(4-Star)**
+--- | --- | ---
+2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | Vortex Vanquisher (Polearm)  Polar Star (Bow) | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Vortex Vanquisher (Polearm) and Polar Star (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), The Widsith (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Vortex Vanquisher (Polearm) or Polar Star (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
