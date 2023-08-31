@@ -1,3 +1,43 @@
+# ["Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice](archive/3736.md)
+## Genius Invokation TCG: Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/e9d739c71c11d86329744f1e00d00130_2487875355631049342.jpg)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, the first Action Card played each Round will cost 2 fewer dice. Each Round, the first Skill used or Talent equipped by each character will cost 1 less Elemental Die.
+
+● The following Cards cannot be used in this edition of Heated Battle Mode: Mona, Bennett, and Keqing.
+
+**〓Event Duration〓**
+
+2023/09/02 10:00:00 (server) – 2023/09/11 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_3129693805108286310.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Mega Meka Melee" Event: Take Part to Invite "Trial by Fire" Bennett (Pyro)](archive/3735.md)
 ## Mega Meka Melee
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/4b9a551972acf66c4428380534f95909_5689020907351067371.jpg)
