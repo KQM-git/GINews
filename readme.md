@@ -1,3 +1,39 @@
+# ["Verdict of Blades" Event: Havoc in a Hidden Mirage](archive/3740.md)
+## Verdict of Blades
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/e87f7adfd15fa3dbd1ed0ce7332cf23f_2654355299740139647.jpg)
+
+**〓Event Duration〓**
+
+2023/09/04 10:00:00 (server) – 2023/09/18 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/986a5f8642cbc3670afd837930ae2923_838015933580878168.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 18 or above
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● Once the event has started, a new challenge will be unlocked each day. Each of these will have a "Surge" and "Steadfast" mode.
+
+● Surge Mode features three difficulty levels: Perilous, Quandary, and Desperate. Completing it at a higher difficulty will automatically complete the lower difficulties.
+
+● Steadfast Mode only unlocks after completing Desperate difficulty in Surge Mode.
+
+● Each challenge has two completion criteria, and both of them must be completed for the challenge to be considered a success.
+
+● Each challenge features unique Blade Mirage Mechanics that have their own special effects. Take note of them and use them to your advantage during the challenges.
+
+※ Changing your World Level will not affect the difficulty of said event challenges.
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice](archive/3736.md)
 ## Genius Invokation TCG: Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/e9d739c71c11d86329744f1e00d00130_2487875355631049342.jpg)
