@@ -1015,6 +1015,26 @@ Optimizes the issue whereby under specific circumstances, when characters take t
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/3792.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Event Wish "Epitome Invocation" - Boosted Drop Rate for Vortex Vanquisher (Polearm) and Polar Star (Bow)!](archive/3739.md)
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/fd74c2d7d375c56d65295e239cb29967_8493569738916472133.jpg)
