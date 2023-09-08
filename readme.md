@@ -1,209 +1,3 @@
-# [Events Survey Now Open](archive/3819.md)
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2023/09/08 10:00:00 (global) - 2023/09/11 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6nctrqgx2my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=16345&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Verdict of Blades" Event: Havoc in a Hidden Mirage](archive/3740.md)
-## Verdict of Blades
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/e87f7adfd15fa3dbd1ed0ce7332cf23f_2654355299740139647.jpg)
-
-**〓Event Duration〓**
-
-2023/09/04 10:00:00 (server) – 2023/09/18 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/986a5f8642cbc3670afd837930ae2923_838015933580878168.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 18 or above
-
-And complete the Archon Quest "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● Once the event has started, a new challenge will be unlocked each day. Each of these will have a "Surge" and "Steadfast" mode.
-
-● Surge Mode features three difficulty levels: Perilous, Quandary, and Desperate. Completing it at a higher difficulty will automatically complete the lower difficulties.
-
-● Steadfast Mode only unlocks after completing Desperate difficulty in Surge Mode.
-
-● Each challenge has two completion criteria, and both of them must be completed for the challenge to be considered a success.
-
-● Each challenge features unique Blade Mirage Mechanics that have their own special effects. Take note of them and use them to your advantage during the challenges.
-
-※ Changing your World Level will not affect the difficulty of said event challenges.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice](archive/3736.md)
-## Genius Invokation TCG: Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/e9d739c71c11d86329744f1e00d00130_2487875355631049342.jpg)
-
-**〓Special Rules〓**
-
-● In this edition of Heated Battle Mode, the first Action Card played each Round will cost 2 fewer dice. Each Round, the first Skill used or Talent equipped by each character will cost 1 less Elemental Die.
-
-● The following Cards cannot be used in this edition of Heated Battle Mode: Mona, Bennett, and Keqing.
-
-**〓Event Duration〓**
-
-2023/09/02 10:00:00 (server) – 2023/09/11 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_3129693805108286310.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-****
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# ["Mega Meka Melee" Event: Take Part to Invite "Trial by Fire" Bennett (Pyro)](archive/3735.md)
-## Mega Meka Melee
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/4b9a551972acf66c4428380534f95909_5689020907351067371.jpg)
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/08/24 10:00:00 (server) | 2023/09/11 03:59:59 (server)
-^ | Act II | 2023/08/26 04:00:00 (server) | ^
-^ | Act III | 2023/08/28 04:00:00 (server) | ^
-Gameplay Duration | Phase I | 2023/08/24 10:00:00 (server) | ^
-^ | Phase II | 2023/08/26 04:00:00 (server) | ^
-^ | Phase III | 2023/08/28 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/08/24 10:00:00 (server) | 2023/09/18 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/8f0077efa23769200accfe94f3fa927b_1209506797202449333.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Complete the Archon Quest "Song of the Dragon and Freedom"
-
-****
-
-**〓Event Details〓**
-
-● During the event, the following gameplay modes will unlock in sequence: Dance Dance Resolution, Torrential Turbulent Charge, and Efficacy Testing Simulation Arena.
-
-● "Dance Dance Resolution": Control Toy Adventurers, follow the beat of the music, and hit various Slime puppets.
-
-● "Torrential Turbulent Charge": Complete an underwater Time Trial Challenge, and make use of various Turbulence items to complete the trial faster.
-
-● "Efficacy Testing Simulation Arena": Head to the designated location and defeat your opponents to help the staff collect the data they need.
-
-● Complete the various gameplay modes to obtain Enigmatic Copper Mainsprings to exchange for the following rewards from the Event Shop: Crown of Insight, Primogems, Character Talent Materials, Sanctifying Essence, Character Ascension Materials, and Mora. Reach a certain amount of Enigmatic Copper Mainsprings to invite "Trial by Fire" Bennett (Pyro).
-
------
-
-# [Event Wish "Gentry of Hermitage" - Boosted Drop Rate for "Vago Mundo" Zhongli (Geo)!](archive/3737.md)
-## Event Wish - Gentry of Hermitage
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/60e85a0840edf7db86c875612a33df69_5445434675155288071.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | "Vago Mundo" Zhongli (Geo) | "Yearning for Unseen Depths" Freminet (Cryo)
-^ | ^ | "Mujina Ninja" Sayu (Anemo)
-^ | ^ | "Chivalric Blossom" Noelle (Geo)
-
-● During this event wish, the event-exclusive 5-star character "Vago Mundo" Zhongli (Geo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Mujina Ninja" Sayu (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Yearning for Unseen Depths" Freminet (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!](archive/3738.md)
-## Event Wish - Farewell of Snezhnaya
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/3b6104a3da7ca831516596043ac47f17_5265195281425652124.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | "Childe" Tartaglia (Hydro) | "Yearning for Unseen Depths" Freminet (Cryo)
-^ | ^ | "Mujina Ninja" Sayu (Anemo)
-^ | ^ | "Chivalric Blossom" Noelle (Geo)
-
-● During this event wish, the event-exclusive 5-star character "Childe" Tartaglia (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Mujina Ninja" Sayu (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Yearning for Unseen Depths" Freminet (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["As Light Rain Falls Without Reason" Version 4.0 Update Details](archive/3742.md)
 ## Version 4.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/09/32efbdebd786315e876b80dcc82fa951_583939511856183414.jpg)
@@ -1022,6 +816,212 @@ Travelers who encounter the above issues can start the game via the launcher aft
 〓2023/08/16 21:15:00 (global) Update Details〓
 
 Optimizes the issue whereby under specific circumstances, when characters take the elevator at the Romaritime Harbor or other regions in Fontaine, they might encounter an issue of falling abnormally and hovering persistently in the air. If Travelers still encounter the issue of falling abnormally, please wait for your character to land at the bottom, then take the elevator again.
+
+-----
+
+# ["Verdict of Blades" Event: Havoc in a Hidden Mirage](archive/3740.md)
+## Verdict of Blades
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/e87f7adfd15fa3dbd1ed0ce7332cf23f_2654355299740139647.jpg)
+
+**〓Event Duration〓**
+
+2023/09/04 10:00:00 (server) – 2023/09/18 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/986a5f8642cbc3670afd837930ae2923_838015933580878168.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 18 or above
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● Once the event has started, a new challenge will be unlocked each day. Each of these will have a "Surge" and "Steadfast" mode.
+
+● Surge Mode features three difficulty levels: Perilous, Quandary, and Desperate. Completing it at a higher difficulty will automatically complete the lower difficulties.
+
+● Steadfast Mode only unlocks after completing Desperate difficulty in Surge Mode.
+
+● Each challenge has two completion criteria, and both of them must be completed for the challenge to be considered a success.
+
+● Each challenge features unique Blade Mirage Mechanics that have their own special effects. Take note of them and use them to your advantage during the challenges.
+
+※ Changing your World Level will not affect the difficulty of said event challenges.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: The Profound Purpose of Practice](archive/3736.md)
+## Genius Invokation TCG: Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/e9d739c71c11d86329744f1e00d00130_2487875355631049342.jpg)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, the first Action Card played each Round will cost 2 fewer dice. Each Round, the first Skill used or Talent equipped by each character will cost 1 less Elemental Die.
+
+● The following Cards cannot be used in this edition of Heated Battle Mode: Mona, Bennett, and Keqing.
+
+**〓Event Duration〓**
+
+2023/09/02 10:00:00 (server) – 2023/09/11 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_3129693805108286310.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["Mega Meka Melee" Event: Take Part to Invite "Trial by Fire" Bennett (Pyro)](archive/3735.md)
+## Mega Meka Melee
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/4b9a551972acf66c4428380534f95909_5689020907351067371.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/08/24 10:00:00 (server) | 2023/09/11 03:59:59 (server)
+^ | Act II | 2023/08/26 04:00:00 (server) | ^
+^ | Act III | 2023/08/28 04:00:00 (server) | ^
+Gameplay Duration | Phase I | 2023/08/24 10:00:00 (server) | ^
+^ | Phase II | 2023/08/26 04:00:00 (server) | ^
+^ | Phase III | 2023/08/28 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2023/08/24 10:00:00 (server) | 2023/09/18 03:59:59 (server)
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/8f0077efa23769200accfe94f3fa927b_1209506797202449333.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Complete the Archon Quest "Song of the Dragon and Freedom"
+
+****
+
+**〓Event Details〓**
+
+● During the event, the following gameplay modes will unlock in sequence: Dance Dance Resolution, Torrential Turbulent Charge, and Efficacy Testing Simulation Arena.
+
+● "Dance Dance Resolution": Control Toy Adventurers, follow the beat of the music, and hit various Slime puppets.
+
+● "Torrential Turbulent Charge": Complete an underwater Time Trial Challenge, and make use of various Turbulence items to complete the trial faster.
+
+● "Efficacy Testing Simulation Arena": Head to the designated location and defeat your opponents to help the staff collect the data they need.
+
+● Complete the various gameplay modes to obtain Enigmatic Copper Mainsprings to exchange for the following rewards from the Event Shop: Crown of Insight, Primogems, Character Talent Materials, Sanctifying Essence, Character Ascension Materials, and Mora. Reach a certain amount of Enigmatic Copper Mainsprings to invite "Trial by Fire" Bennett (Pyro).
+
+-----
+
+# [Event Wish "Gentry of Hermitage" - Boosted Drop Rate for "Vago Mundo" Zhongli (Geo)!](archive/3737.md)
+## Event Wish - Gentry of Hermitage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/60e85a0840edf7db86c875612a33df69_5445434675155288071.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | "Vago Mundo" Zhongli (Geo) | "Yearning for Unseen Depths" Freminet (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Vago Mundo" Zhongli (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Mujina Ninja" Sayu (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Yearning for Unseen Depths" Freminet (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!](archive/3738.md)
+## Event Wish - Farewell of Snezhnaya
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/3b6104a3da7ca831516596043ac47f17_5265195281425652124.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | "Childe" Tartaglia (Hydro) | "Yearning for Unseen Depths" Freminet (Cryo)
+^ | ^ | "Mujina Ninja" Sayu (Anemo)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Childe" Tartaglia (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Mujina Ninja" Sayu (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Yearning for Unseen Depths" Freminet (Cryo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Events Survey Now Open](archive/3819.md)
+## Events Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
+
+Dear Traveler,
+
+In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
+
+〓Survey Duration〓
+
+2023/09/08 10:00:00 (global) - 2023/09/11 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_vgd6nctrqgx2my43bntvzi7k5mgwy6btqn&game_biz=hk4e_global&surveyId=16345&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
