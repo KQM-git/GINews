@@ -1073,30 +1073,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
-# ["Endless Adventure in Teyvat: Fontaine Edition" Online Exhibition Event Is Here!](archive/3779.md)
-## Endless Adventure in Teyvat: Fontaine Edition
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/25/2059206d90cd4ae8bfeb6bbdd777d064_3778492307769796160.jpg)
-
-The "Endless Adventure in Teyvat: Fontaine Edition" Online Exhibition Event has now begun!
-
-[>>Enter Event Page<<](https://act.hoyoverse.com/ys/event/e20230827exhibition/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230828onlineshow&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-Browse exhibition content to obtain pieces of the puzzle between: 2023/08/28 – 2023/09/10 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Event Description〓
-
-Conceptual sketches of Fontaine will be unveiled in this exhibition. This includes design concepts of the new version's scenery construction, environment concept art, character creation processes, monster designs, as well as forgeable weapon styles.
-
-〓Event Rewards〓
-
-Browse exhibition content to unlock pieces of the puzzle for prize draw opportunities! Prizes include: Primogems ×30, Fontaine Art Exhibition Merchandise Bundles, iPhone 14 Pro, etc.
-
------
-
 # [Don't Miss These Tool Updates in Version 4.0!](archive/3755.md)
 ## Check Out These Tools for Version 4.0!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/15/5a6083cb5e686fef36afbf323d4f0000_1501922797730233355.jpg)
