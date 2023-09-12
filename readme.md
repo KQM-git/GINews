@@ -1109,54 +1109,6 @@ You can also filter them based on the characters you own and the lineup publishi
 
 -----
 
-# [Web Event "Call for Fontaine Adventurers" Now Online: Invite Your Friends Back to Teyvat!](archive/3757.md)
-## Web Event "Call for Fontaine Adventurers" Now Online: Invite Your Friends Back to Teyvat!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/15/31baf652aa5b019abd2b4808957e9ec3_2748446253010342631.jpg)
-
-Dear Traveler, a new chapter of your journey through Teyvat is beginning. Gather your friends and reunite in the Nation of Hydro, Fontaine! Complete adventure missions together to earn up to Primogems ×480!
-
-[>>Enter Event Page<<](https://act.hoyoverse.com/ys/event/e20230816people/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230816invite&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-Event Gameplay Duration: 2023/08/16 – 2023/09/06 23:59:59 (global)
-
-Reward Exchange Period: 2023/08/16 – 2023/09/12 23:59:59 (global)
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-1. During the event, you can invite returning Travelers to link the Recall Code on the web page. Once they've done so, you'll receive the corresponding number of envelopes.
-
-2. When invited Travelers complete adventure missions within the web page, the person who invited them will receive envelopes, with daily refreshable missions renewing at 04:00 every day based on the server time (different web missions will be displayed depending on each Traveler's account status).
-
-3. Travelers will be able to redeem different Primogem and Mora rewards corresponding to the number of envelopes required.
-
-〓Definition of "Returning Travelers"〓
-
-1. Reach Adventure Rank 10 or above
-
-2. Must not have logged into the game within 14 days prior to the start of the event
-
-〓Notes〓
-
-1. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-2. You can visit the game's official website for more information on our Privacy Policy. All personal data will be collected and used in strict accordance with our Privacy Policy.
-
-[https://genshin.hoyoverse.com/en/company/privacy](https://genshin.hoyoverse.com/en/company/privacy)
-
-3. You understand and agree that you can only link one Recall Code, and once you've done so you will be unable to change it. After linking a Recall Code, in order to update event progress in a timely manner, your UID, nickname, avatar, as well as the completion status of web missions will be collected and displayed on the inviter's page.
-
-*More details about the rules of the event can be found on the event rules on the event page.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # ["Primordial Waters" Event Details](archive/3731.md)
 ## Primordial Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/48417d2160dd7bc3198602535be64874_3769683732140879059.jpg)
