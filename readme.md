@@ -965,6 +965,26 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/3792.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!](archive/3738.md)
 ## Event Wish - Farewell of Snezhnaya
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/3b6104a3da7ca831516596043ac47f17_5265195281425652124.jpg)
@@ -990,54 +1010,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/3792.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Vortex Vanquisher (Polearm) and Polar Star (Bow)!](archive/3739.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/fd74c2d7d375c56d65295e239cb29967_8493569738916472133.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons**  **(4-Star)**
---- | --- | ---
-2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | Vortex Vanquisher (Polearm)  Polar Star (Bow) | The Flute (Sword)
-^ | ^ | Sacrificial Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | The Widsith (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During the event wish, the event-exclusive 5-star weapons Vortex Vanquisher (Polearm) and Polar Star (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), The Widsith (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Vortex Vanquisher (Polearm) or Polar Star (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
@@ -1109,6 +1081,34 @@ You can also filter them based on the characters you own and the lineup publishi
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Vortex Vanquisher (Polearm) and Polar Star (Bow)!](archive/3739.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/fd74c2d7d375c56d65295e239cb29967_8493569738916472133.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons**  **(4-Star)**
+--- | --- | ---
+2023/09/05 18:00:00 (server) — 2023/09/26 14:59:59 (server) | Vortex Vanquisher (Polearm)  Polar Star (Bow) | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Vortex Vanquisher (Polearm) and Polar Star (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), The Widsith (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Vortex Vanquisher (Polearm) or Polar Star (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # ["Primordial Waters" Event Details](archive/3731.md)
 ## Primordial Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/48417d2160dd7bc3198602535be64874_3769683732140879059.jpg)
@@ -1158,42 +1158,6 @@ Adventure Rank 25 or above
 Reach Adventure Rank 25 to invite "Elegance in the Shadows" Lynette (Anemo) from the event page!
 
 ※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/3732.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/7c1b771e1ae3a4d32e4678b313edf881_301904354186907.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.0
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_2256679834439596534.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-****
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage will have special victory and defeat conditions. Some stages also have specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
@@ -1248,6 +1212,42 @@ After the Version 4.0 update, Archon Quest Chapter IV: Act I "Prelude of Blanche
 • Complete Archon Quest Chapter IV: Act I "Prelude of Blancheur and Noirceur"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/3732.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/7c1b771e1ae3a4d32e4678b313edf881_301904354186907.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.0
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_2256679834439596534.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+****
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage will have special victory and defeat conditions. Some stages also have specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
