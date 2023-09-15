@@ -819,6 +819,26 @@ Optimizes the issue whereby under specific circumstances, when characters take t
 
 -----
 
+# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
+## Initial Top-Up Bonus Reset
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/d062e1eb109c1fbf3e19a66ad5794fe0_5220428135262143118.jpg)
+
+After the Genshin Impact Version 4.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 4.1 update
+
+※Version 4.1 Update Time: 2023/09/27 06:00:00 (global)
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+-----
+
 # ["Studies in Light and Shadow: A Fontaine of Enchantment" Event: Snapshot Studies of Fontaine](archive/3741.md)
 ## Studies in Light and Shadow: A Fontaine of Enchantment
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/082d8a8b099c29c1fe485178347dc403_8839477034521786895.jpg)
