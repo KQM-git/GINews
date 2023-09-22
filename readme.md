@@ -1,3 +1,23 @@
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2023/09/18 04:00:00 (server) – 2023/09/25 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # ["As Light Rain Falls Without Reason" Version 4.0 Update Details](archive/3742.md)
 ## Version 4.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/09/32efbdebd786315e876b80dcc82fa951_583939511856183414.jpg)
@@ -820,26 +840,6 @@ Travelers who encounter the above issues can start the game via the launcher aft
 〓2023/08/16 21:15:00 (global) Update Details〓
 
 Optimizes the issue whereby under specific circumstances, when characters take the elevator at the Romaritime Harbor or other regions in Fontaine, they might encounter an issue of falling abnormally and hovering persistently in the air. If Travelers still encounter the issue of falling abnormally, please wait for your character to land at the bottom, then take the elevator again.
-
------
-
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2023/09/18 04:00:00 (server) – 2023/09/25 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
