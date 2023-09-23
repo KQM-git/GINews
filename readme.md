@@ -1,3 +1,30 @@
+# [Treasures Along the Road: A Thank-You Gift](archive/3803.md)
+## Treasures Along the Road
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/693b3ccfee72569f30644cc519aa36ca_9049577449872831015.jpg)
+
+During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
+
+Each mail can be collected until the end of the event.
+
+**〓Event Duration〓**
+
+2023/09/28 00:00:00 (server) until the end of Version 4.1
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2**
+--- | --- | ---
+September 28 | Primogems ×400 | Itty Bitty Octobaby ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Fragile Resin ×2
+October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator ×1
+
+-----
+
 # ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
 ## Ley Line Overflow
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
