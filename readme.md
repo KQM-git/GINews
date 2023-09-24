@@ -25,26 +25,6 @@ October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator �
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2023/09/18 04:00:00 (server) – 2023/09/25 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # ["As Light Rain Falls Without Reason" Version 4.0 Update Details](archive/3742.md)
 ## Version 4.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/09/32efbdebd786315e876b80dcc82fa951_583939511856183414.jpg)
@@ -928,40 +908,6 @@ After the Version 4.1 update
 
 -----
 
-# ["Studies in Light and Shadow: A Fontaine of Enchantment" Event: Snapshot Studies of Fontaine](archive/3741.md)
-## Studies in Light and Shadow: A Fontaine of Enchantment
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/082d8a8b099c29c1fe485178347dc403_8839477034521786895.jpg)
-
-**〓Event Duration〓**
-
-2023/09/14 10:00:00 (server) – 2023/09/25 03:59:59 (server)
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/835968d50b526b94717294f6ff749540_4128535488075047345.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Unlock any Statue of The Seven in Fontaine
-
-****
-
-**〓Event Details〓**
-
-● From the first day of the event, a new Photo Record objective will be unlocked every day. A total of six stages/six Photo Record objectives will be unlocked. Travelers can use Bresson's Special Kamera to help him record various sights and scenes.
-
-● You can take photos of anything that meets the relevant requirements. If you cannot find anything that should be recorded, you can try searching the area Bresson recommended.
-
-● Adjust the Kamera distance and zoom to more easily record said objects.
-
-● During the event, you can receive various rewards when you achieve the Photo Record objectives.
-
------
-
 # [Event Wish "Gentry of Hermitage" - Boosted Drop Rate for "Vago Mundo" Zhongli (Geo)!](archive/3737.md)
 ## Event Wish - Gentry of Hermitage
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/16/60e85a0840edf7db86c875612a33df69_5445434675155288071.jpg)
@@ -1133,34 +1079,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Primordial Waters" Event Details](archive/3731.md)
-## Primordial Waters
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/48417d2160dd7bc3198602535be64874_3769683732140879059.jpg)
-
-Travelers can earn rich rewards in "Primordial Waters" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Primordial Waters" and Furnishing Blueprint "Court of Justice's Diligence."
-
-**〓Event Duration〓**
-
-After the Version 4.0 update – 2023/09/25 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● Starting from this Battle Pass, on top of the five 4-star weapons already in the BP Bounty, the following new 4-star weapons will also be available: Wolf-Fang (Sword), Talking Stick (Claymore), Sacrificial Jade (Catalyst), Scion of the Blazing Sun (Bow), and Ballad of the Fjords (Polearm). Reach Gnostic Hymn Level 30 to select any one of these ten weapons from the BP Bounty.
-
-● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guidance of the Land of Thunder" will be replaced with "Guide to the Original Current," and "Philosophies of the Land of Thunder" will be replaced with "Philosophies of the Original Current."
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/09/25 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
