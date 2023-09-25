@@ -9,7 +9,7 @@ Our developers are expected to begin performing update maintenance at 2023/09/27
 <details open="true">
 <summary>Version 4.1 Update Maintenance Preview</summary>
 
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/20/a17f4307bf9fd33d3293341e6e1cf474_1758843454154970770.jpg)
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/25/67be9e0fcd2fc577c2534c4ae91018d5_8413003376800353679.jpg)
 
 </details>
 
