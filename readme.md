@@ -98,36 +98,6 @@ October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator �
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Strategems](archive/3801.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/9b51f9e4ec2c7a4599a7aec8e43b8939_6814423532177764704.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.1
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/31/77bc8ce33030bc36a950e3ef25faf437_943581096316613763.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/3795.md)
 ## Event Wish - Decree of the Deeps
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/b5c1caad72f97cbd51abece4458f01e6_5807411501464579628.jpg)
@@ -253,6 +223,36 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/11/06 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Strategems](archive/3801.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/9b51f9e4ec2c7a4599a7aec8e43b8939_6814423532177764704.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.1
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/31/77bc8ce33030bc36a950e3ef25faf437_943581096316613763.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
