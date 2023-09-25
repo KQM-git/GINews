@@ -29,6 +29,36 @@ Our developers are expected to begin performing update maintenance at 2023/09/27
 
 -----
 
+# [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
+
+The prophecy lies heavy on the hearts of the people, who witnessed the marvels of the deep in silence. A disaster... or a miracle? In the moment it seized its destiny, the star fell quietly from its lofty perch.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will be permanently available.
+
+〓Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason"
+
+〓Archon Quest Chapter IV: Act IV "Cataclysm's Quickening" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # [Account System Maintenance Notice](archive/3843.md)
 ## HoYoverse Account System Maintenance Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/19/6f51ba7219b3479aa7738e0deda6c575_3958603687211768840.jpg)
@@ -65,6 +95,194 @@ September 28 | Primogems ×400 | Itty Bitty Octobaby ×1
 September 29 | Primogems ×400 | Fragile Resin ×2
 September 30 | Primogems ×400 | Fragile Resin ×2
 October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator ×1
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Strategems](archive/3801.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/9b51f9e4ec2c7a4599a7aec8e43b8939_6814423532177764704.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.1
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/31/77bc8ce33030bc36a950e3ef25faf437_943581096316613763.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/3795.md)
+## Event Wish - Decree of the Deeps
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/b5c1caad72f97cbd51abece4458f01e6_5807411501464579628.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!](archive/3796.md)
+## Event Wish - Moment of Bloom
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/206154227198baa7fab5c9aec544a33a_5692196502069258918.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Fragrance in Thaw" Hu Tao (Pyro) | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Fragrance in Thaw" Hu Tao (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tome of the Eternal Flow (Catalyst) and Staff of Homa (Polearm)!](archive/3797.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/9acfdc45a004fd239d8047f9200c7eee_1743012177357125179.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 4.1 update — 2023/10/17 17:59:00 (server) | Tome of the Eternal Flow (Catalyst)  Staff of Homa (Polearm) | The Dockhand's Assistant (Sword)
+^ | ^ | Portable Power Saw (Claymore)
+^ | ^ | Mitternachts Waltz (Bow)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Tome of the Eternal Flow (Catalyst) and Staff of Homa (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons The Dockhand's Assistant (Sword), Portable Power Saw (Claymore), and Mitternachts Waltz (Bow) as well as the 4-star weapons Favonius Lance (Polearm) and Favonius Codex (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tome of the Eternal Flow (Catalyst) or Staff of Homa (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Diluvies Chapter" Story Quest Overview](archive/3798.md)
+## Diluvies Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/25d3b333d763d4d43687d0ec783efc1e_2600371039964821245.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Neuvillette's Story Quest "Diluvies Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.1 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
+
+-----
+
+# ["Falling Star" Event Details](archive/3800.md)
+## Falling Star
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/431ea9a2242b2a1b59c7386a8df50e79_1486070009014796736.jpg)
+
+Travelers can earn rich rewards in "Falling Star" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Falling Star" and Furnishing Blueprint "Maison Cardinalice's Clerk."
+
+**〓Event Duration〓**
+
+After the Version 4.1 update – 2023/11/06 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/11/06 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 26 Available for a Limited Time](archive/3799.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/dbf2e591d83177756f13cead302544ec_9218055806965216638.jpg)
+
+Round 26 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 4.1 update – 2023/10/11 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 4.1 update – 2023/10/11 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
