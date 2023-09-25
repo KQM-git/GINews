@@ -809,6 +809,18 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Account System Maintenance Notice](archive/3843.md)
+## HoYoverse Account System Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/19/6f51ba7219b3479aa7738e0deda6c575_3958603687211768840.jpg)
+
+Dear Travelers,
+
+The HoYoverse Account system will be undergoing maintenance on 2023/09/27 08:00:00 (global). The maintenance is expected to be completed in 1 hour. During this period, certain functions (including registering, retrieving your password, linking your email, changing the linked email, etc.) may be unavailable, but you will still be able to log into your account. All functions will be available again after the maintenance has been completed, so please bear with us.
+
+We will notify you if anything changes about the maintenance period. We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding. Please stay tuned for further updates in the community to stay up to date with all the latest information.
+
+-----
+
 # [Version Details - What's New ](archive/3786.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
