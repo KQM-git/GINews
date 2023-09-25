@@ -1,3 +1,34 @@
+# [Version 4.1 Update Maintenance Preview](archive/3850.md)
+## Version 4.1 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/c941908b14dcaf160083796a10645f89_8922193515054165843.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2023/09/27 06:00:00 (global). Please stay tuned to related game update information.
+
+<details open="true">
+<summary>Version 4.1 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/20/a17f4307bf9fd33d3293341e6e1cf474_1758843454154970770.jpg)
+
+</details>
+
+<details open="true">
+<summary>Minimum Specifications and Recommended Specifications</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/22/8776e7c0e402f14aac6f8429c4408a3d_2158836332084680055.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/20/2c1caafabac87217499d1e015d0bbfc1_76235490126964560.jpg)
+
+</details>
+
+-----
+
 # [Treasures Along the Road: A Thank-You Gift](archive/3803.md)
 ## Treasures Along the Road
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/693b3ccfee72569f30644cc519aa36ca_9049577449872831015.jpg)
