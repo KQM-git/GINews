@@ -1,3 +1,19 @@
+# [Version 4.1 New Content Overview](archive/3865.md)
+## Version 4.1 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/3282cece4dda5e30d38d3f1a7f168c70_2694038200505215229.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/8f261da8aba0f05ae1e79880087c9501_4826113696152148005.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/5682877ed5b3d90387bfcb273a05905b_8597192215774163308.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/0e23a27ffadd0ea9eefafc8e4006adde_8467123962659121147.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/8155f02a40b240d33146d255e63a9a5d_9003100696004447035.jpg)
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
 ## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
@@ -353,30 +369,6 @@ Permanent
 
 -----
 
-# ["The Curtain Never Falls on Magic" Event: Take Part to Invite "Elegance in the Shadows" Lynette (Anemo)](archive/3733.md)
-## The Curtain Never Falls on Magic
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/1c0fd14f79124207d14b2544a9f97df3_6078181038114022578.jpg)
-
-**〓Event Duration〓**
-
-Permanently available after the Version 4.0 update
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/963187f91d9b531f400be804faa28a62_8774530579567612945.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 25 or above
-
-**〓Event Details〓**
-
-Reach Adventure Rank 25 to invite "Elegance in the Shadows" Lynette (Anemo) from the event page!
-
-※ You can only win the reward for this event once. The event page will close once you have completed the challenge.
-
------
-
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -398,42 +390,6 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/3732.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/02/7c1b771e1ae3a4d32e4678b313edf881_301904354186907.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.0
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/19/b688da7b6f6ad9c7a0ce84ec1f0811b9_2256679834439596534.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-****
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage will have special victory and defeat conditions. Some stages also have specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
