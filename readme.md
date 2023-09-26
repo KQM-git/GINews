@@ -71,6 +71,34 @@ We will notify you if anything changes about the maintenance period. We sincerel
 
 -----
 
+# ["Bathing in Flowing Moonlight" Daily Login Event](archive/3805.md)
+## Bathing in Flowing Moonlight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/7079dfd592f3bd91fefc8b06e360dea3_2040318173365157862.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2023/09/29 04:00:00 (server) – 2023/10/16 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
 # [Treasures Along the Road: A Thank-You Gift](archive/3803.md)
 ## Treasures Along the Road
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/693b3ccfee72569f30644cc519aa36ca_9049577449872831015.jpg)
@@ -95,6 +123,36 @@ September 28 | Primogems ×400 | Itty Bitty Octobaby ×1
 September 29 | Primogems ×400 | Fragile Resin ×2
 September 30 | Primogems ×400 | Fragile Resin ×2
 October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator ×1
+
+-----
+
+# ["Radiant Harvest" Event: Jellyfish Retrieval Challenge](archive/3804.md)
+## Radiant Harvest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/6c2d71cc8f666b4f9cb3127bbe0ef8fe_2383326347383454183.jpg)
+
+**〓Event Duration〓**
+
+2023/09/28 10:00:00 (server) – 2023/10/09 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/1c211943a2e2049b23d30762b1c53209_5112951604525333606.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Unlock any Statue of The Seven in Fontaine
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● From the first day of the event, a new collection area will unlock every day. A total of seven challenges will be unlocked.
+
+● Travelers can collect Violetglow Jellyfish in collection areas. Collect a certain number of them to complete the challenge. Complete the challenges to obtain Primogems, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora.
+
+● Turbulent Rings and Turbulent Bubbles may appear within the collection area. Use these Rings and Bubbles to explore the collection area more easily.
 
 -----
 
