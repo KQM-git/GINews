@@ -59,18 +59,6 @@ After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shi
 
 -----
 
-# [Account System Maintenance Notice](archive/3843.md)
-## HoYoverse Account System Maintenance Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/19/6f51ba7219b3479aa7738e0deda6c575_3958603687211768840.jpg)
-
-Dear Travelers,
-
-The HoYoverse Account system will be undergoing maintenance on 2023/09/27 08:00:00 (global). The maintenance is expected to be completed in 1 hour. During this period, certain functions (including registering, retrieving your password, linking your email, changing the linked email, etc.) may be unavailable, but you will still be able to log into your account. All functions will be available again after the maintenance has been completed, so please bear with us.
-
-We will notify you if anything changes about the maintenance period. We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding. Please stay tuned for further updates in the community to stay up to date with all the latest information.
-
------
-
 # ["Bathing in Flowing Moonlight" Daily Login Event](archive/3805.md)
 ## Bathing in Flowing Moonlight
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/7079dfd592f3bd91fefc8b06e360dea3_2040318173365157862.jpg)
@@ -153,6 +141,18 @@ And complete the Archon Quest "Song of the Dragon and Freedom"
 ● Travelers can collect Violetglow Jellyfish in collection areas. Collect a certain number of them to complete the challenge. Complete the challenges to obtain Primogems, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora.
 
 ● Turbulent Rings and Turbulent Bubbles may appear within the collection area. Use these Rings and Bubbles to explore the collection area more easily.
+
+-----
+
+# [Account System Maintenance Notice](archive/3843.md)
+## HoYoverse Account System Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/19/6f51ba7219b3479aa7738e0deda6c575_3958603687211768840.jpg)
+
+Dear Travelers,
+
+The HoYoverse Account system will be undergoing maintenance on 2023/09/27 08:00:00 (global). The maintenance is expected to be completed in 1 hour. During this period, certain functions (including registering, retrieving your password, linking your email, changing the linked email, etc.) may be unavailable, but you will still be able to log into your account. All functions will be available again after the maintenance has been completed, so please bear with us.
+
+We will notify you if anything changes about the maintenance period. We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding. Please stay tuned for further updates in the community to stay up to date with all the latest information.
 
 -----
 
