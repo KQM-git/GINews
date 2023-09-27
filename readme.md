@@ -648,6 +648,22 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Take Part in "Gifts of Encounter" to Win Primogems!](archive/3853.md)
+## Take Part in "Gifts of Encounter" to Win Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
+
+Dear Travelers,
+
+The HoYoLAB "Gifts of Encounter" community event is now online!
+
+From September 27 to October 6, if you sign in for 7 days in total, you can obtain an extra Primogems ×60!
+
+Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign-in event!
+
+[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
 ## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
@@ -968,26 +984,6 @@ After the Version 4.1 update
 ● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
 
 ● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/3792.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
