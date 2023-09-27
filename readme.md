@@ -648,6 +648,46 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [New Updates for the Teyvat Interactive Map, Battle Chronicle, and More!](archive/3825.md)
+## These Tools Will Help you Explore Version 4.1 Efficiently!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/9feeeb598498f56eeadb5c4481a14a54_3271308136229334359.jpg)
+
+Dear Travelers,
+
+Genshin Impact's much-awaited Version 4.1 is finally here, along with more content of Fontaine. In order to help Travelers get the most out of the new features, related content has also been added to the Genshin Impact tools in HoYoLAB. Now, let's find out more about the tool updates now!
+
+| Interactive Map Update: Adds the new areas in Fontaine and categorizes the difficulty of obtaining important collectibles.
+
+As the Fortress of Meropide, the new region in Fontaine, becomes available, the related scenes and pins have also been added on the Map.
+
+Additionally, the difficulty of obtaining important collectibles such as Chests and Oculi has been categorized so that Travelers can be aware of the difficulty of exploration and prepare accordingly.
+
+[>>Click to View the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Battle Chronicle Update: Adds Encounter Point Display in Real-Time Note, and Privacy Settings for card covers and duel records in Genius Invokation TCG.
+
+Encounter Point Display has been added in the Real-Time Notes and its details page, displaying the completion of Daily Commissions and the claiming of Encounter Points.
+
+Character Cards can now be displayed in Genius Invokation TCG, and privacy settings for card covers and recent matches have been added. Simply click the Settings button on the module to disable the display of the card covers and duel records.
+
+Besides, as the limited-time event of Version 4.1 "Waterborne Poetry" launches, the Battle Chronicle will also be updated accordingly by displaying battle chronicles of the event in the Event Review.
+
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Neuvillette and Wriothesley. (The enhancement progression calculation for Wriothesley will be updated when the Limited-Time Wish becomes available on October 17.)
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Neuvillette and Wriothesley (Lineup queries for Wriothesley will be updated when the Limited-Time Wish becomes available on October 17).
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+| Card Plaza Update: Adds the Character Cards of Wanderer, Yaoyao, and Dehya.
+
+[>>Click to Enter the Card Plaza<<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # [Take Part in "Gifts of Encounter" to Win Primogems!](archive/3853.md)
 ## Take Part in "Gifts of Encounter" to Win Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
