@@ -664,36 +664,6 @@ Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in th
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
-
-The prophecy lies heavy on the hearts of the people, who witnessed the marvels of the deep in silence. A disaster... or a miracle? In the moment it seized its destiny, the star fell quietly from its lofty perch.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will be permanently available.
-
-〓Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason"
-
-〓Archon Quest Chapter IV: Act IV "Cataclysm's Quickening" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # ["Bathing in Flowing Moonlight" Daily Login Event](archive/3805.md)
 ## Bathing in Flowing Moonlight
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/7079dfd592f3bd91fefc8b06e360dea3_2040318173365157862.jpg)
@@ -776,6 +746,36 @@ And complete the Archon Quest "Song of the Dragon and Freedom"
 ● Travelers can collect Violetglow Jellyfish in collection areas. Collect a certain number of them to complete the challenge. Complete the challenges to obtain Primogems, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora.
 
 ● Turbulent Rings and Turbulent Bubbles may appear within the collection area. Use these Rings and Bubbles to explore the collection area more easily.
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
+
+The prophecy lies heavy on the hearts of the people, who witnessed the marvels of the deep in silence. A disaster... or a miracle? In the moment it seized its destiny, the star fell quietly from its lofty perch.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will be permanently available.
+
+〓Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason"
+
+〓Archon Quest Chapter IV: Act IV "Cataclysm's Quickening" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
