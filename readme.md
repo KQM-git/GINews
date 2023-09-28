@@ -759,33 +759,31 @@ October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator �
 
 -----
 
-# ["Radiant Harvest" Event: Jellyfish Retrieval Challenge](archive/3804.md)
-## Radiant Harvest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/6c2d71cc8f666b4f9cb3127bbe0ef8fe_2383326347383454183.jpg)
+# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/3795.md)
+## Event Wish - Decree of the Deeps
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/b5c1caad72f97cbd51abece4458f01e6_5807411501464579628.jpg)
 
-**〓Event Duration〓**
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
-2023/09/28 10:00:00 (server) – 2023/10/09 03:59:59 (server)
+**〓Event Wish Details〓**
 
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/1c211943a2e2049b23d30762b1c53209_5112951604525333606.png)
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
 
-****
+● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
 
-**〓Eligibility〓**
+● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
 
-Adventure Rank 20 or above
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
-Unlock any Statue of The Seven in Fontaine
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
-And complete the Archon Quest "Song of the Dragon and Freedom"
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
-**〓Event Details〓**
-
-● From the first day of the event, a new collection area will unlock every day. A total of seven challenges will be unlocked.
-
-● Travelers can collect Violetglow Jellyfish in collection areas. Collect a certain number of them to complete the challenge. Complete the challenges to obtain Primogems, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora.
-
-● Turbulent Rings and Turbulent Bubbles may appear within the collection area. Use these Rings and Bubbles to explore the collection area more easily.
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -816,34 +814,6 @@ After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shi
 • Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/3795.md)
-## Event Wish - Decree of the Deeps
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/b5c1caad72f97cbd51abece4458f01e6_5807411501464579628.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Prinzessin der Verurteilung!" Fischl (Electro)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -900,6 +870,36 @@ After the Version 4.1 update — 2023/10/17 17:59:00 (server) | Tome of the Eter
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Radiant Harvest" Event: Jellyfish Retrieval Challenge](archive/3804.md)
+## Radiant Harvest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/6c2d71cc8f666b4f9cb3127bbe0ef8fe_2383326347383454183.jpg)
+
+**〓Event Duration〓**
+
+2023/09/28 10:00:00 (server) – 2023/10/09 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/1c211943a2e2049b23d30762b1c53209_5112951604525333606.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Unlock any Statue of The Seven in Fontaine
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● From the first day of the event, a new collection area will unlock every day. A total of seven challenges will be unlocked.
+
+● Travelers can collect Violetglow Jellyfish in collection areas. Collect a certain number of them to complete the challenge. Complete the challenges to obtain Primogems, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora.
+
+● Turbulent Rings and Turbulent Bubbles may appear within the collection area. Use these Rings and Bubbles to explore the collection area more easily.
 
 -----
 
