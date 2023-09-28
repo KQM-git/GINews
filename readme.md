@@ -648,6 +648,54 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Web Event "Dream of Roving Stars" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/3838.md)
+## Web Event "Dream of Roving Stars" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/54dbd66f16ddb7f7d7e984d6ecf66e01_5933363202467102918.png)
+
+The experiences you've had, and the people you've met — these are the things that make your journey unique.
+
+With Paimon by your side, let the stars carry you away as you recall your precious memories from the past year...
+
+[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20230928review/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230928anniversary&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2023/09/28 – 2023/10/12 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+*The data for the "Dream of Roving Stars" event will be collected up to 2023/09/25 00:00:00 (global) (there may be a margin of error of about 30 minutes) and is valid only for Travelers who have reached Adventure Rank 10 or above before the cut-off time.
+
+〓Event Description〓
+
+During the event, click to enter different data sections and view your travel memories. Finish viewing them to obtain Primogems and other in-game rewards.
+
+You can also share the event and collect different blessings to obtain in-game rewards.
+
+〓Event Rewards〓
+
+-REWARDS FOR VIEWING ALL DATA SECTIONS-
+
+Travelers can claim corresponding rewards by viewing different data sections in full. You can obtain a total of Primogems ×180 and Hero's Wit ×12.
+
+-REWARDS FOR COLLECTING BLESSINGS-
+
+Collect all 5 different types of blessings to obtain corresponding blessing rewards as well as a reward for collecting all the blessings.
+
+You can obtain a total of Mora ×70,000, Mystic Enhancement Ore ×4, as well as various materials and dishes from Teyvat.
+
+-SHARING REWARDS-
+
+You can claim corresponding rewards by sharing your customized data, as well as by sharing data with other Travelers. You can obtain a total of Mora ×40,000.
+
+*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
 # [New Updates for the Teyvat Interactive Map, Battle Chronicle, and More!](archive/3825.md)
 ## These Tools Will Help you Explore Version 4.1 Efficiently!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/9feeeb598498f56eeadb5c4481a14a54_3271308136229334359.jpg)
