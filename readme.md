@@ -648,6 +648,24 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/3854.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓2023/09/28 19:10:00 (global) Update Details〓
+
+- Fixes an issue under specific circumstances whereby the quest objective "Return to the dormitories" in the Archon Quest "Into the Deepwater Murk" is grayed out and cannot be tracked. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+- Fixes an issue under specific circumstances whereby there is a small chance that the objective "Operate the Energy Transfer Terminal to open the cell" in the World Quest "Road to the Singularity" cannot be completed. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+- Fixes an issue whereby the disappearing animation of the gadget "Itty Bitty Octobaby" was abnormal when entering into combat on land using mobile devices. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+-----
+
 # [Web Event "Dream of Roving Stars" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/3838.md)
 ## Web Event "Dream of Roving Stars" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/54dbd66f16ddb7f7d7e984d6ecf66e01_5933363202467102918.png)
