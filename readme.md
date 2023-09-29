@@ -718,6 +718,40 @@ You can claim corresponding rewards by sharing your customized data, as well as 
 
 -----
 
+# [The 3rd Anniversary "Gratifying Gathering" Carnival Web Event is now available~ Take part and collect stamps to obtain Primogem rewards!](archive/3834.md)
+## The 3rd Anniversary "Gratifying Gathering" Carnival Web Event is now available~ Take part and collect stamps to obtain Primogem rewards!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/ca897a4279f20de297e78449f69057e4_4423728827761051698.jpg)
+
+Dear Travelers, follow Paimon and help your friends prepare for the carnival by participating in the "Gratifying Gathering" event! Collect all of the Anniversary Stamps to obtain Primogems and more!
+
+[>>Enter Event Page<<](https://act.hoyoverse.com/ys/event/e20230927celebration/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20230927gardenparty&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
+
+〓Event Duration〓
+
+2023/09/27 – 2023/10/04 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+There are 3 stall missions in the carnival. Head over to different stalls to complete the missions and help prepare the event. The first time you complete each stall mission, you'll receive 2 Anniversary Stamps and other mission rewards. Afterward, should you be able to complete the missions again, you'll only receive 1 Anniversary Stamp each time.
+
+Complete 3 stall missions to collect 5 stamps and obtain Primogems ×40.
+
+〓Notes〓
+
+- The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+- More details about the rules of the event can be found on the event rules on the event page.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # [New Updates for the Teyvat Interactive Map, Battle Chronicle, and More!](archive/3825.md)
 ## These Tools Will Help you Explore Version 4.1 Efficiently!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/9feeeb598498f56eeadb5c4481a14a54_3271308136229334359.jpg)
