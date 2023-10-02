@@ -658,7 +658,9 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is an issue whereby there is a localization error in Vietnamese regarding Neuvillette's Passive Talent "Discipline of the Supreme Arbitration." This issue will be fixed in a future update. Please stay tuned for future notices.
+- There is an issue whereby there is a localization error in Vietnamese regarding Neuvillette's Passive Talent "Discipline of the Supreme Arbitration." This issue will be fixed in a future update. Please stay tuned for future notices.
+
+- There is an issue whereby Neuvillette's Passive Talent "Heir to the Ancient Sea's Authority" cannot be triggered by certain standby characters' coordinated attack. This issue will be fixed in a future update. Please stay tuned for future notices.
 
 〓2023/09/28 19:10:00 (global) Update Details〓
 
