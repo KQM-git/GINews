@@ -742,6 +742,36 @@ You can claim corresponding rewards by sharing your customized data, as well as 
 
 -----
 
+# ["Dodoco's Bomb-Tastic Adventure" Event: Fish Blasting Challenge](archive/3806.md)
+## Dodoco's Bomb-Tastic Adventure
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/e9eb720faf1f1e391089b8c268755994_7726896266237654941.jpg)
+
+**〓Event Duration〓**
+
+2023/10/06 10:00:00 (server) – 2023/10/16 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/4c0cde4e8bfd25da7e7a8a7db624e1c8_3865402816323063883.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Klee's Story Quest "Trifolium Chapter: Act I" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Defeat Spikey Fish using Special Jumpy Dumpties to obtain points. The amount of points scored will vary depending on the defeated Spikey Fish. Accrue specified points to obtain the corresponding rewards.
+
+● Special Jumpy Dumpties of different colors have different explosion AoEs. Keep their unique traits in mind and throw them well for a higher score.
+
+-----
+
 # [The 3rd Anniversary "Gratifying Gathering" Carnival Web Event is now available~ Take part and collect stamps to obtain Primogem rewards!](archive/3834.md)
 ## The 3rd Anniversary "Gratifying Gathering" Carnival Web Event is now available~ Take part and collect stamps to obtain Primogem rewards!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/ca897a4279f20de297e78449f69057e4_4423728827761051698.jpg)
