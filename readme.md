@@ -1001,36 +1001,6 @@ After the Version 4.1 update — 2023/10/17 17:59:00 (server) | Tome of the Eter
 
 -----
 
-# ["Radiant Harvest" Event: Jellyfish Retrieval Challenge](archive/3804.md)
-## Radiant Harvest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/6c2d71cc8f666b4f9cb3127bbe0ef8fe_2383326347383454183.jpg)
-
-**〓Event Duration〓**
-
-2023/09/28 10:00:00 (server) – 2023/10/09 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/1c211943a2e2049b23d30762b1c53209_5112951604525333606.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Unlock any Statue of The Seven in Fontaine
-
-And complete the Archon Quest "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● From the first day of the event, a new collection area will unlock every day. A total of seven challenges will be unlocked.
-
-● Travelers can collect Violetglow Jellyfish in collection areas. Collect a certain number of them to complete the challenge. Complete the challenges to obtain Primogems, Weapon Ascension Materials, Hero's Wit, Mystic Enhancement Ore, and Mora.
-
-● Turbulent Rings and Turbulent Bubbles may appear within the collection area. Use these Rings and Bubbles to explore the collection area more easily.
-
------
-
 # ["Diluvies Chapter" Story Quest Overview](archive/3798.md)
 ## Diluvies Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/25d3b333d763d4d43687d0ec783efc1e_2600371039964821245.jpg)
