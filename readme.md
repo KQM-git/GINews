@@ -672,28 +672,6 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 -----
 
-# [Genshin Impact's Fontaine OST Album "Fountain of Belleau" Now Available](archive/3856.md)
-## Fontaine OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/25/ff09106fbfe4b5c4ef71bbdf6ea85d8a_5083992559705804485.png)
-
-Dear Travelers,
-
-Genshin Impact's Fontaine OST album "Fountain of Belleau" is out now! The album's four discs "Chanson of Justice and Impartiality," "Arioso of Belle Epoque," "Chapelloise of Trickling Springs," and "La bataille de Fontaine" feature 96 remarkable tracks composed by the HOYO-MiX team, each one an original composition for the region of Fontaine in Genshin Impact.
-
-The songs featured on the Fontaine OST album were recorded by the London Symphony Orchestra with special guest folk musicians at Abbey Road Studios, Angel Studios, Air-Edel Recording Studios, and other recording studios respectively.
-
-Travelers can go to the following platforms to listen to "Fountain of Belleau."
-
-Spotify:
-
-[Click here to listen to "Fountain of Belleau"](https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB )
-
-Apple Music:
-
-[Click here to listen to "Fountain of Belleau"](https://music.apple.com/us/album/1709633314)
-
------
-
 # [Web Event "Dream of Roving Stars" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/3838.md)
 ## Web Event "Dream of Roving Stars" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/54dbd66f16ddb7f7d7e984d6ecf66e01_5933363202467102918.png)
