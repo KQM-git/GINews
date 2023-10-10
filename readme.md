@@ -838,33 +838,6 @@ Adventure Rank 5 or above
 
 -----
 
-# [Treasures Along the Road: A Thank-You Gift](archive/3803.md)
-## Treasures Along the Road
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/693b3ccfee72569f30644cc519aa36ca_9049577449872831015.jpg)
-
-During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
-
-Each mail can be collected until the end of the event.
-
-**〓Event Duration〓**
-
-2023/09/28 00:00:00 (server) until the end of Version 4.1
-
-**〓Eligibility〓**
-
-Adventure Rank 2 or above
-
-**〓Event Details〓**
-
-**Login Date** | **Reward 1** | **Reward 2**
---- | --- | ---
-September 28 | Primogems ×400 | Itty Bitty Octobaby ×1
-September 29 | Primogems ×400 | Fragile Resin ×2
-September 30 | Primogems ×400 | Fragile Resin ×2
-October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator ×1
-
------
-
 # [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/3795.md)
 ## Event Wish - Decree of the Deeps
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/b5c1caad72f97cbd51abece4458f01e6_5807411501464579628.jpg)
@@ -886,6 +859,34 @@ After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Ordainer of Ine
 ※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
 ※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!](archive/3796.md)
+## Event Wish - Moment of Bloom
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/206154227198baa7fab5c9aec544a33a_5692196502069258918.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Fragrance in Thaw" Hu Tao (Pyro) | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Fragrance in Thaw" Hu Tao (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
@@ -920,34 +921,6 @@ After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shi
 • Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!](archive/3796.md)
-## Event Wish - Moment of Bloom
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/206154227198baa7fab5c9aec544a33a_5692196502069258918.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Fragrance in Thaw" Hu Tao (Pyro) | "Prinzessin der Verurteilung!" Fischl (Electro)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Fragrance in Thaw" Hu Tao (Pyro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -996,6 +969,33 @@ Permanently available after the Version 4.1 update
 Adventure Rank 40 or above
 
 Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
+
+-----
+
+# [Treasures Along the Road: A Thank-You Gift](archive/3803.md)
+## Treasures Along the Road
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/693b3ccfee72569f30644cc519aa36ca_9049577449872831015.jpg)
+
+During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
+
+Each mail can be collected until the end of the event.
+
+**〓Event Duration〓**
+
+2023/09/28 00:00:00 (server) until the end of Version 4.1
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2**
+--- | --- | ---
+September 28 | Primogems ×400 | Itty Bitty Octobaby ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Fragile Resin ×2
+October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator ×1
 
 -----
 
