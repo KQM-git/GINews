@@ -1095,36 +1095,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 26 Available for a Limited Time](archive/3799.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/dbf2e591d83177756f13cead302544ec_9218055806965216638.jpg)
-
-Round 26 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 4.1 update – 2023/10/11 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 4.1 update – 2023/10/11 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
 ## Initial Top-Up Bonus Reset
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/d062e1eb109c1fbf3e19a66ad5794fe0_5220428135262143118.jpg)
