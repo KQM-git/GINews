@@ -690,6 +690,64 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# ["Dodoco's Bomb-Tastic Adventure" Event: Fish Blasting Challenge](archive/3806.md)
+## Dodoco's Bomb-Tastic Adventure
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/e9eb720faf1f1e391089b8c268755994_7726896266237654941.jpg)
+
+**〓Event Duration〓**
+
+2023/10/06 10:00:00 (server) – 2023/10/16 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/4c0cde4e8bfd25da7e7a8a7db624e1c8_3865402816323063883.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Klee's Story Quest "Trifolium Chapter: Act I" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Defeat Spikey Fish using Special Jumpy Dumpties to obtain points. The amount of points scored will vary depending on the defeated Spikey Fish. Accrue specified points to obtain the corresponding rewards.
+
+● Special Jumpy Dumpties of different colors have different explosion AoEs. Keep their unique traits in mind and throw them well for a higher score.
+
+-----
+
+# ["Bathing in Flowing Moonlight" Daily Login Event](archive/3805.md)
+## Bathing in Flowing Moonlight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/7079dfd592f3bd91fefc8b06e360dea3_2040318173365157862.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2023/09/29 04:00:00 (server) – 2023/10/16 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
 # [Version Details - What's New ](archive/3854.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -762,36 +820,6 @@ You can claim corresponding rewards by sharing your customized data, as well as 
 
 -----
 
-# ["Dodoco's Bomb-Tastic Adventure" Event: Fish Blasting Challenge](archive/3806.md)
-## Dodoco's Bomb-Tastic Adventure
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/e9eb720faf1f1e391089b8c268755994_7726896266237654941.jpg)
-
-**〓Event Duration〓**
-
-2023/10/06 10:00:00 (server) – 2023/10/16 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/4c0cde4e8bfd25da7e7a8a7db624e1c8_3865402816323063883.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Klee's Story Quest "Trifolium Chapter: Act I" first to get the best experience from this event.
-
-**〓Event Details〓**
-
-● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
-
-● Defeat Spikey Fish using Special Jumpy Dumpties to obtain points. The amount of points scored will vary depending on the defeated Spikey Fish. Accrue specified points to obtain the corresponding rewards.
-
-● Special Jumpy Dumpties of different colors have different explosion AoEs. Keep their unique traits in mind and throw them well for a higher score.
-
------
-
 # [New Updates for the Teyvat Interactive Map, Battle Chronicle, and More!](archive/3825.md)
 ## These Tools Will Help you Explore Version 4.1 Efficiently!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/9feeeb598498f56eeadb5c4481a14a54_3271308136229334359.jpg)
@@ -849,34 +877,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Bathing in Flowing Moonlight" Daily Login Event](archive/3805.md)
-## Bathing in Flowing Moonlight
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/7079dfd592f3bd91fefc8b06e360dea3_2040318173365157862.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2023/09/29 04:00:00 (server) – 2023/10/16 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
 
 -----
 
