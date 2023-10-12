@@ -748,6 +748,62 @@ Adventure Rank 5 or above
 
 -----
 
+# [Event Wish "Tempestuous Destiny" - Boosted Drop Rate for "Emissary of Solitary Iniquity" Wriothesley (Cryo)!](archive/3808.md)
+## Event Wish - Tempestuous Destiny
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/897904799cf701703c2254bfd4f66c90_493295120887681702.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional**  **Character**  **(5-Star)** | **Featured Characters**  **(4-Star)**
+--- | --- | ---
+2023/10/17 18:00:00 (server) — 2023/11/07 14:59:59 (server) | "Emissary of Solitary Iniquity" Wriothesley (Cryo) | "Frozen Ardor" Chongyun (Cryo)
+^ | ^ | "Protector From Afar" Thoma (Pyro)
+^ | ^ | "Treasure of Dream Garden" Dori (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Emissary of Solitary Iniquity" Wriothesley (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Frozen Ardor" Chongyun (Cryo), "Protector From Afar" Thoma (Pyro), and "Treasure of Dream Garden" Dori (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Ballad in Goblets" - Boosted Drop Rate for "Windborne Bard" Venti (Anemo)!](archive/3809.md)
+## Event Wish - Ballad in Goblets
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/3991e64f2cf2196ba5e6856b31ff8921_8477288140771303764.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/10/17 18:00:00 (server) — 2023/11/07 14:59:59 (server) | "Windborne Bard" Venti (Anemo) | "Frozen Ardor" Chongyun (Cryo)
+^ | ^ | "Protector From Afar" Thoma (Pyro)
+^ | ^ | "Treasure of Dream Garden" Dori (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Windborne Bard" Venti (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Frozen Ardor" Chongyun (Cryo), "Protector From Afar" Thoma (Pyro), and "Treasure of Dream Garden" Dori (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Version Details - What's New ](archive/3854.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -820,6 +876,34 @@ You can claim corresponding rewards by sharing your customized data, as well as 
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Cashflow Supervision (Catalyst) and Elegy for the End (Bow)!](archive/3810.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/09/3d5da2de0d3e2058bed2b0bc5e78713b_4035889719040182741.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/10/17 18:00:00 (server) — 2023/11/07 14:59:59 (server) | Cashflow Supervision  (Catalyst)  Elegy for the End (Bow) | Prospector's Drill (Polearm)
+^ | ^ | Range Gauge (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Eye of Perception (Catalyst)
+
+● During the event wish, the event-exclusive 5-star weapons Cashflow Supervision (Catalyst) and Elegy for the End (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Prospector's Drill (Polearm) and Range Gauge (Bow) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), and Eye of Perception (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Cashflow Supervision (Catalyst) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [New Updates for the Teyvat Interactive Map, Battle Chronicle, and More!](archive/3825.md)
 ## These Tools Will Help you Explore Version 4.1 Efficiently!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/26/9feeeb598498f56eeadb5c4481a14a54_3271308136229334359.jpg)
@@ -877,6 +961,26 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Cerberus Chapter" Story Quest Overview](archive/3811.md)
+## Cerberus Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/700f3a881a8222091d76ac2fb16814de_6271105782690603463.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Wriothesley's Story Quest "Cerberus Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after 2023/10/17 18:00:00 (server)
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
 
 -----
 
