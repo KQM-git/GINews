@@ -930,62 +930,6 @@ Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
 
 -----
 
-# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/3795.md)
-## Event Wish - Decree of the Deeps
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/b5c1caad72f97cbd51abece4458f01e6_5807411501464579628.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Prinzessin der Verurteilung!" Fischl (Electro)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!](archive/3796.md)
-## Event Wish - Moment of Bloom
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/206154227198baa7fab5c9aec544a33a_5692196502069258918.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 4.1 update — 2023/10/17 17:59:00 (server) | "Fragrance in Thaw" Hu Tao (Pyro) | "Prinzessin der Verurteilung!" Fischl (Electro)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Fragrance in Thaw" Hu Tao (Pyro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Prinzessin der Verurteilung!" Fischl (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Kätzlein Cocktail" Diona (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
 ## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
@@ -1013,54 +957,6 @@ After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shi
 • Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tome of the Eternal Flow (Catalyst) and Staff of Homa (Polearm)!](archive/3797.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/9acfdc45a004fd239d8047f9200c7eee_1743012177357125179.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-After the Version 4.1 update — 2023/10/17 17:59:00 (server) | Tome of the Eternal Flow (Catalyst)  Staff of Homa (Polearm) | The Dockhand's Assistant (Sword)
-^ | ^ | Portable Power Saw (Claymore)
-^ | ^ | Mitternachts Waltz (Bow)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-
-● During this event wish, the event-exclusive 5-star weapons Tome of the Eternal Flow (Catalyst) and Staff of Homa (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the event-exclusive 4-star weapons The Dockhand's Assistant (Sword), Portable Power Saw (Claymore), and Mitternachts Waltz (Bow) as well as the 4-star weapons Favonius Lance (Polearm) and Favonius Codex (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tome of the Eternal Flow (Catalyst) or Staff of Homa (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Diluvies Chapter" Story Quest Overview](archive/3798.md)
-## Diluvies Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/25d3b333d763d4d43687d0ec783efc1e_2600371039964821245.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Neuvillette's Story Quest "Diluvies Chapter."
-
-The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
-
-**〓Quest Start Time〓**
-
-Permanently available after the Version 4.1 update
-
-**〓Quest Unlock Criteria〓**
-
-Adventure Rank 40 or above
-
-Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
 
 -----
 
