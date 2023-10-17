@@ -1,19 +1,3 @@
-# [Version 4.1 New Content Overview](archive/3865.md)
-## Version 4.1 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/3282cece4dda5e30d38d3f1a7f168c70_2694038200505215229.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/8f261da8aba0f05ae1e79880087c9501_4826113696152148005.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/5682877ed5b3d90387bfcb273a05905b_8597192215774163308.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/0e23a27ffadd0ea9eefafc8e4006adde_8467123962659121147.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/26/8155f02a40b240d33146d255e63a9a5d_9003100696004447035.jpg)
-
------
-
 # ["Stellar Reunion" Maintenance Details](archive/3892.md)
 ## "Stellar Reunion" Maintenance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/16/6f51ba7219b3479aa7738e0deda6c575_6138217686743414303.jpg)
