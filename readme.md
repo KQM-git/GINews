@@ -38,6 +38,38 @@ Please take note of the maintenance time and schedule your game time accordingly
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Reinforcements](archive/3812.md)
+## Genius Invokation TCG: Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/4ffe9799165eb656a67a231ffa9ce68f_2269281668060821708.jpg)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
+
+● The following Cards cannot be used in this edition of Heated Battle Mode: Fischl, Collei, and Tighnari.
+
+**〓Event Duration〓**
+
+2023/10/21 10:00:00 (server) – 2023/10/30 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/77bc8ce33030bc36a950e3ef25faf437_3462178598527695794.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["To the Stars Shining in the Depths" Version 4.1 Update Details](archive/3816.md)
 ## Version 4.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/42ee58e358dcc11c0d345828849f9455_5738043550916816152.jpg)
