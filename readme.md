@@ -38,62 +38,6 @@ Please take note of the maintenance time and schedule your game time accordingly
 
 -----
 
-# [Events Survey Now Open](archive/3893.md)
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2023/10/20 10:00:00 (global) - 2023/10/23 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzjUB2tR-seXZlJUP2c9jil1XbwgTqRTWhO9RAzqtXbYK&game_biz=hk4e_global&surveyId=17554&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Reinforcements](archive/3812.md)
-## Genius Invokation TCG: Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/4ffe9799165eb656a67a231ffa9ce68f_2269281668060821708.jpg)
-
-**〓Special Rules〓**
-
-● In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
-
-● The following Cards cannot be used in this edition of Heated Battle Mode: Fischl, Collei, and Tighnari.
-
-**〓Event Duration〓**
-
-2023/10/21 10:00:00 (server) – 2023/10/30 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/77bc8ce33030bc36a950e3ef25faf437_3462178598527695794.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # ["To the Stars Shining in the Depths" Version 4.1 Update Details](archive/3816.md)
 ## Version 4.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/42ee58e358dcc11c0d345828849f9455_5738043550916816152.jpg)
@@ -728,6 +672,92 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/3854.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- There is an issue with Neuvillette's Lv. 6 Constellation whereby the effect of "the duration of Charged Attack: Equitable Judgment [is increased] by 1s" is abnormal. The actual duration is slightly shorter than what is described in the text. This issue is scheduled to be fixed in Version 4.2.
+
+- There is an issue whereby Neuvillette's Passive Talent "Heir to the Ancient Sea's Authority" cannot be triggered by certain standby characters' coordinated attack. This issue will be fixed in a future update. Please stay tuned for future notices.
+
+〓2023/10/19 17:05:00 (global) Update Details〓
+
+Fixes an issue whereby under certain circumstances, enemy-tracking orientation is abnormal when Wriothesley unleashes Rebuke: Vaulting Fist.
+
+▌ Compensation Details
+
+Primogems ×100
+
+▌Eligibility
+
+Travelers who reached Adventure Rank 5 and above before 2023/10/19 16:00:00 (global).
+
+Please log in and claim your compensation before 2023/10/22 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours after the issue is resolved. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓2023/10/12 16:20:00 (global) Update Details〓
+
+- Updates resources related to subsequent events.
+
+- Fixes an issue with the World Quest "Our Purpose Is in Another Canal" whereby there was a chance that the corresponding NPC would disappear while pursuing the quest objective "Report to Balent."
+
+- Fixes an issue that would sometimes occur while pursuing the quest objective "Drink the potion and go to the World of Intense Purity" during the World Quest "Villains," whereby there was a small chance that the corresponding quest objective would not be completed after using the quest item.
+
+- Fixes an issue with the Traveler (Hydro) whereby some combat voice-overs could not be played.
+
+- Fixes an issue in Vietnamese whereby there was a localization error in the text of Neuvillette's Passive Talent "Discipline of the Supreme Arbitration."
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2023/09/28 19:10:00 (global) Update Details〓
+
+- Fixes an issue under specific circumstances whereby the quest objective "Return to the dormitories" in the Archon Quest "Into the Deepwater Murk" is grayed out and cannot be tracked. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+- Fixes an issue under specific circumstances whereby there is a small chance that the objective "Operate the Energy Transfer Terminal to open the cell" in the World Quest "Road to the Singularity" cannot be completed. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+- Fixes an issue whereby the disappearing animation of the gadget "Itty Bitty Octobaby" was abnormal when entering into combat on land using mobile devices. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Reinforcements](archive/3812.md)
+## Genius Invokation TCG: Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/4ffe9799165eb656a67a231ffa9ce68f_2269281668060821708.jpg)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
+
+● The following Cards cannot be used in this edition of Heated Battle Mode: Fischl, Collei, and Tighnari.
+
+**〓Event Duration〓**
+
+2023/10/21 10:00:00 (server) – 2023/10/30 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/77bc8ce33030bc36a950e3ef25faf437_3462178598527695794.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Waterborne Poetry" Event: Take Part and Obtain the Event-Exclusive Weapon, Ballad of the Boundless Blue (Catalyst)](archive/3807.md)
 ## Waterborne Poetry
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/431416c6abf8dbe844e5e6d9af2e53f6_2097730829328044752.jpg)
@@ -826,57 +856,27 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# [Version Details - What's New ](archive/3854.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+# [Events Survey Now Open](archive/3893.md)
+## Events Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
 
-Dear Travelers:
+Dear Traveler,
 
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
 
-〓Known Issues〓
+〓Survey Duration〓
 
-- There is an issue with Neuvillette's Lv. 6 Constellation whereby the effect of "the duration of Charged Attack: Equitable Judgment [is increased] by 1s" is abnormal. The actual duration is slightly shorter than what is described in the text. This issue is scheduled to be fixed in Version 4.2.
+2023/10/20 10:00:00 (global) - 2023/10/23 23:59:59 (global)
 
-- There is an issue whereby Neuvillette's Passive Talent "Heir to the Ancient Sea's Authority" cannot be triggered by certain standby characters' coordinated attack. This issue will be fixed in a future update. Please stay tuned for future notices.
+〓Survey Address〓
 
-〓2023/10/19 17:05:00 (global) Update Details〓
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzjUB2tR-seXZlJUP2c9jil1XbwgTqRTWhO9RAzqtXbYK&game_biz=hk4e_global&surveyId=17554&format=1&sign_type=2&authkey_ver=1)
 
-Fixes an issue whereby under certain circumstances, enemy-tracking orientation is abnormal when Wriothesley unleashes Rebuke: Vaulting Fist.
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
 
-▌ Compensation Details
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
-Primogems ×100
-
-▌Eligibility
-
-Travelers who reached Adventure Rank 5 and above before 2023/10/19 16:00:00 (global).
-
-Please log in and claim your compensation before 2023/10/22 16:00:00 (global).
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours after the issue is resolved. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-〓2023/10/12 16:20:00 (global) Update Details〓
-
-- Updates resources related to subsequent events.
-
-- Fixes an issue with the World Quest "Our Purpose Is in Another Canal" whereby there was a chance that the corresponding NPC would disappear while pursuing the quest objective "Report to Balent."
-
-- Fixes an issue that would sometimes occur while pursuing the quest objective "Drink the potion and go to the World of Intense Purity" during the World Quest "Villains," whereby there was a small chance that the corresponding quest objective would not be completed after using the quest item.
-
-- Fixes an issue with the Traveler (Hydro) whereby some combat voice-overs could not be played.
-
-- Fixes an issue in Vietnamese whereby there was a localization error in the text of Neuvillette's Passive Talent "Discipline of the Supreme Arbitration."
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2023/09/28 19:10:00 (global) Update Details〓
-
-- Fixes an issue under specific circumstances whereby the quest objective "Return to the dormitories" in the Archon Quest "Into the Deepwater Murk" is grayed out and cannot be tracked. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
-
-- Fixes an issue under specific circumstances whereby there is a small chance that the objective "Operate the Energy Transfer Terminal to open the cell" in the World Quest "Road to the Singularity" cannot be completed. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
-
-- Fixes an issue whereby the disappearing animation of the gadget "Itty Bitty Octobaby" was abnormal when entering into combat on land using mobile devices. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+We thank all Travelers for your invaluable feedback!
 
 -----
 
