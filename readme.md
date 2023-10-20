@@ -856,6 +856,46 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
+# ["Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available](archive/3847.md)
+## "Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/19/9363c5c1b8e029d298cf72db1e9c80bd_7232162182215315434.jpg)
+
+[Go to Event >>>](https://act.hoyoverse.com/ys/event/e20231003ost/index.html?game_biz=hk4e_global&utm_source=ingame&utm_medium=notice)
+
+Musical notes accompany you on your travels through Fontaine
+
+With a melody like flowing water
+
+Traveler, accept Paimon's commission
+
+And send your companions Radiant Spincrystals from Fontaine
+
+〓Event Duration〓
+
+2023/10/20 12:00:00 (global)  –  2023/10/28 23:59:59 (global)
+
+〓Event Summary〓
+
+During the event, complete and share the event to get Primogem Redemption Codes (limited to 5 million in quantity).
+
+After obtaining a redemption code, you can use it to redeem the gift pack via Settings > Account > Redemption Code in the game.
+
+PlayStation players can scan the QR code on their PlayStation to participate in the event.
+
+〓Event Rewards〓
+
+Primogems ×40 (limited to 5 million in quantity)
+
+〓Friendly Reminder〓
+
+1. Players must have an Adventure Rank of 10 and above to activate the gift pack, and each UID can only receive the pack once.
+
+2. The Primogem Redemption Code is valid until 2023/11/03 23:59:59 (global). Please claim it within the validity period.
+
+(Note: It is recommended to switch to landscape mode and wear headphones for a better experience.)
+
+-----
+
 # [Events Survey Now Open](archive/3893.md)
 ## Events Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
@@ -948,26 +988,6 @@ Besides, as the limited-time event of Version 4.1 "Waterborne Poetry" launches, 
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/3858.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Cerberus Chapter" Story Quest Overview](archive/3811.md)
 ## Cerberus Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/700f3a881a8222091d76ac2fb16814de_6271105782690603463.jpg)
@@ -988,33 +1008,23 @@ Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
+# [HoYoLAB Community "Daily Check-In" Feature](archive/3858.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
 
-The prophecy lies heavy on the hearts of the people, who witnessed the marvels of the deep in silence. A disaster... or a miracle? In the moment it seized its destiny, the star fell quietly from its lofty perch.
+Dear Travelers,
 
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will appear in the Quest Menu.
+The HoYoLAB Community "Daily Check-In" feature is now available!
 
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
 
-〓Quest Start Time〓
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
 
-After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will be permanently available.
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
 
-〓Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" Unlock Criteria〓
+〓Event Duration〓
 
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason"
-
-〓Archon Quest Chapter IV: Act IV "Cataclysm's Quickening" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+Permanent
 
 -----
 
@@ -1099,43 +1109,33 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available](archive/3847.md)
-## "Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/19/9363c5c1b8e029d298cf72db1e9c80bd_7232162182215315434.jpg)
+# [New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV](archive/3817.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/3d6160b119c83058e64d6061d05c5714_2004911343134784536.jpg)
 
-[Go to Event >>>](https://act.hoyoverse.com/ys/event/e20231003ost/index.html?game_biz=hk4e_global&utm_source=ingame&utm_medium=notice)
+The prophecy lies heavy on the hearts of the people, who witnessed the marvels of the deep in silence. A disaster... or a miracle? In the moment it seized its destiny, the star fell quietly from its lofty perch.
 
-Musical notes accompany you on your travels through Fontaine
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will appear in the Quest Menu.
 
-With a melody like flowing water
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
 
-Traveler, accept Paimon's commission
+〓Quest Start Time〓
 
-And send your companions Radiant Spincrystals from Fontaine
+After the Version 4.1 update, Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" and Chapter IV: Act IV "Cataclysm's Quickening" will be permanently available.
 
-〓Event Duration〓
+〓Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths" Unlock Criteria〓
 
-2023/10/20 12:00:00 (global)  –  2023/10/28 23:59:59 (global)
+• Reach Adventure Rank 40 or above
 
-〓Event Summary〓
+• Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason"
 
-During the event, complete and share the event to get Primogem Redemption Codes (limited to 5 million in quantity).
+〓Archon Quest Chapter IV: Act IV "Cataclysm's Quickening" Unlock Criteria〓
 
-After obtaining a redemption code, you can use it to redeem the gift pack via Settings > Account > Redemption Code in the game.
+• Reach Adventure Rank 40 or above
 
-PlayStation players can scan the QR code on their PlayStation to participate in the event.
+• Complete Archon Quest Chapter IV: Act III "To the Stars Shining in the Depths"
 
-〓Event Rewards〓
-
-Primogems ×40 (limited to 5 million in quantity)
-
-〓Friendly Reminder〓
-
-1. Players must have an Adventure Rank of 10 and above to activate the gift pack, and each UID can only receive the pack once.
-
-2. The Primogem Redemption Code is valid until 2023/11/03 23:59:59 (global). Please claim it within the validity period.
-
-(Note: It is recommended to switch to landscape mode and wear headphones for a better experience.)
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
