@@ -712,6 +712,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+- There is an issue whereby after Wriothesley casts his Normal Attack and sprints, when he casts a Normal Attack again shortly after, there is a chance that the counter on his Attack combo will reset. This issue will be fixed in a future update. Please stay tuned for future notices.
+
+- There is an issue whereby after Wriothesley casts his Normal Attack and sprints, when he casts a Charged Attack again shortly after, there is a chance that he will be unable to cast his Charged Attack. This issue will be fixed in a future update. Please stay tuned for future notices.
+
+- There is an issue whereby after Wriothesley casts "Rebuke: Vaulting Fist," there is a small chance that Stamina would be consumed abnormally. This issue will be fixed in a future update. Please stay tuned for future notices.
+
 - There is an issue with Neuvillette's Lv. 6 Constellation whereby the effect of "the duration of Charged Attack: Equitable Judgment [is increased] by 1s" is abnormal. The actual duration is slightly shorter than what is described in the text. This issue is scheduled to be fixed in Version 4.2.
 
 - There is an issue whereby Neuvillette's Passive Talent "Heir to the Ancient Sea's Authority" cannot be triggered by certain standby characters' coordinated attack. This issue will be fixed in a future update. Please stay tuned for future notices.
