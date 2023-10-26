@@ -762,80 +762,6 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Reinforcements](archive/3812.md)
-## Genius Invokation TCG: Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/4ffe9799165eb656a67a231ffa9ce68f_2269281668060821708.jpg)
-
-**〓Special Rules〓**
-
-● In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
-
-● The following Cards cannot be used in this edition of Heated Battle Mode: Fischl, Collei, and Tighnari.
-
-**〓Event Duration〓**
-
-2023/10/21 10:00:00 (server) – 2023/10/30 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/77bc8ce33030bc36a950e3ef25faf437_3462178598527695794.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# ["Waterborne Poetry" Event: Take Part and Obtain the Event-Exclusive Weapon, Ballad of the Boundless Blue (Catalyst)](archive/3807.md)
-## Waterborne Poetry
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/431416c6abf8dbe844e5e6d9af2e53f6_2097730829328044752.jpg)
-
-**〓Event Duration〓**
-
-**Event Details** | **Event Details** | **Start Time**  | **End Time** 
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/10/12 10:00:00 (server) | 2023/10/30 03:59:59 (server)
-^ | Act II | 2023/10/14 04:00:00 (server) | ^
-^ | Act III | 2023/10/16 04:00:00 (server) | ^
-Gameplay Start Time | Phase I | 2023/10/12 10:00:00 (server) | ^
-^ | Phase II | 2023/10/14 04:00:00 (server) | ^
-^ | Phase III | 2023/10/16 04:00:00 (server) | ^
-^ | Phase IV | 2023/10/18 04:00:00 (server) | ^
-
-****
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/c93b50afac2fe09fbe2907fa93866b1d_325350995675463799.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter I: Act III "A New Star Approaches" first to get the best experience from this event.
-
-**〓Event Details〓**
-
-● During the event, the following gameplay modes will unlock in sequence: Hundred-Pace Hurling Rites, Inspiration Eruption, and Mending Painting Prospects.
-
-● In the "Hundred-Pace Hurling Rites" gameplay, Travelers must throw Darts at Holding Pots and use the special traits of different Pots to obtain as high a score as possible.
-
-● In the "Inspiration Eruption" gameplay, Travelers must defeat opponents and obtain Inspiring Crystals, and then use the Crystals' rupture to defeat the pesky Mythic Nexuses blocking the flow of inspiration.
-
-● In the "Mending Painting Prospects" gameplay, Travelers must help an art conservator visit various areas and take pictures of key objects, and appreciate the composition of various artworks in the process.
-
-● Complete the event's various gameplay modes and reach a certain amount of Poetry Gala Fervor to obtain rewards such as Ballad of the Boundless Blue, Crown of Insight, and the event-exclusive Weapon Refinement Materials.
-
------
-
 # [Event Wish "Tempestuous Destiny" - Boosted Drop Rate for "Emissary of Solitary Iniquity" Wriothesley (Cryo)!](archive/3808.md)
 ## Event Wish - Tempestuous Destiny
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/897904799cf701703c2254bfd4f66c90_493295120887681702.jpg)
@@ -892,6 +818,66 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Cashflow Supervision (Catalyst) and Elegy for the End (Bow)!](archive/3810.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/09/3d5da2de0d3e2058bed2b0bc5e78713b_4035889719040182741.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/10/17 18:00:00 (server) — 2023/11/07 14:59:59 (server) | Cashflow Supervision  (Catalyst)  Elegy for the End (Bow) | Prospector's Drill (Polearm)
+^ | ^ | Range Gauge (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Eye of Perception (Catalyst)
+
+● During the event wish, the event-exclusive 5-star weapons Cashflow Supervision (Catalyst) and Elegy for the End (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Prospector's Drill (Polearm) and Range Gauge (Bow) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), and Eye of Perception (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Cashflow Supervision (Catalyst) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Reinforcements](archive/3812.md)
+## Genius Invokation TCG: Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/4ffe9799165eb656a67a231ffa9ce68f_2269281668060821708.jpg)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, character switches will be considered as Fast Actions. Every time you defeat an opposing character, the turn-initiative remains with you.
+
+● The following Cards cannot be used in this edition of Heated Battle Mode: Fischl, Collei, and Tighnari.
+
+**〓Event Duration〓**
+
+2023/10/21 10:00:00 (server) – 2023/10/30 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/77bc8ce33030bc36a950e3ef25faf437_3462178598527695794.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available](archive/3847.md)
 ## "Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/19/9363c5c1b8e029d298cf72db1e9c80bd_7232162182215315434.jpg)
@@ -932,31 +918,45 @@ Primogems ×40 (limited to 5 million in quantity)
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Cashflow Supervision (Catalyst) and Elegy for the End (Bow)!](archive/3810.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/09/3d5da2de0d3e2058bed2b0bc5e78713b_4035889719040182741.jpg)
+# ["Waterborne Poetry" Event: Take Part and Obtain the Event-Exclusive Weapon, Ballad of the Boundless Blue (Catalyst)](archive/3807.md)
+## Waterborne Poetry
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/431416c6abf8dbe844e5e6d9af2e53f6_2097730829328044752.jpg)
 
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+**〓Event Duration〓**
 
-**〓Event Wish Details〓**
+**Event Details** | **Event Details** | **Start Time**  | **End Time** 
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/10/12 10:00:00 (server) | 2023/10/30 03:59:59 (server)
+^ | Act II | 2023/10/14 04:00:00 (server) | ^
+^ | Act III | 2023/10/16 04:00:00 (server) | ^
+Gameplay Start Time | Phase I | 2023/10/12 10:00:00 (server) | ^
+^ | Phase II | 2023/10/14 04:00:00 (server) | ^
+^ | Phase III | 2023/10/16 04:00:00 (server) | ^
+^ | Phase IV | 2023/10/18 04:00:00 (server) | ^
 
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2023/10/17 18:00:00 (server) — 2023/11/07 14:59:59 (server) | Cashflow Supervision  (Catalyst)  Elegy for the End (Bow) | Prospector's Drill (Polearm)
-^ | ^ | Range Gauge (Bow)
-^ | ^ | Favonius Sword (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Eye of Perception (Catalyst)
+****
 
-● During the event wish, the event-exclusive 5-star weapons Cashflow Supervision (Catalyst) and Elegy for the End (Bow) will receive a huge drop-rate boost!
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/c93b50afac2fe09fbe2907fa93866b1d_325350995675463799.png)
 
-● During the event wish, the event-exclusive 4-star weapons Prospector's Drill (Polearm) and Range Gauge (Bow) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), and Eye of Perception (Catalyst) will receive a huge drop-rate boost!
+**〓Eligibility〓**
 
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Cashflow Supervision (Catalyst) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+Adventure Rank 20 or above
 
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+※ Complete Archon Quest Chapter I: Act III "A New Star Approaches" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+● During the event, the following gameplay modes will unlock in sequence: Hundred-Pace Hurling Rites, Inspiration Eruption, and Mending Painting Prospects.
+
+● In the "Hundred-Pace Hurling Rites" gameplay, Travelers must throw Darts at Holding Pots and use the special traits of different Pots to obtain as high a score as possible.
+
+● In the "Inspiration Eruption" gameplay, Travelers must defeat opponents and obtain Inspiring Crystals, and then use the Crystals' rupture to defeat the pesky Mythic Nexuses blocking the flow of inspiration.
+
+● In the "Mending Painting Prospects" gameplay, Travelers must help an art conservator visit various areas and take pictures of key objects, and appreciate the composition of various artworks in the process.
+
+● Complete the event's various gameplay modes and reach a certain amount of Poetry Gala Fervor to obtain rewards such as Ballad of the Boundless Blue, Crown of Insight, and the event-exclusive Weapon Refinement Materials.
 
 -----
 
