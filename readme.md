@@ -878,46 +878,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available](archive/3847.md)
-## "Glad Tidings From Afar" – The Web Event for Genshin Impact's Fontaine OST Album Is Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/19/9363c5c1b8e029d298cf72db1e9c80bd_7232162182215315434.jpg)
-
-[Go to Event >>>](https://act.hoyoverse.com/ys/event/e20231003ost/index.html?game_biz=hk4e_global&utm_source=ingame&utm_medium=notice)
-
-Musical notes accompany you on your travels through Fontaine
-
-With a melody like flowing water
-
-Traveler, accept Paimon's commission
-
-And send your companions Radiant Spincrystals from Fontaine
-
-〓Event Duration〓
-
-2023/10/20 12:00:00 (global)  –  2023/10/28 23:59:59 (global)
-
-〓Event Summary〓
-
-During the event, complete and share the event to get Primogem Redemption Codes (limited to 5 million in quantity).
-
-After obtaining a redemption code, you can use it to redeem the gift pack via Settings > Account > Redemption Code in the game.
-
-PlayStation players can scan the QR code on their PlayStation to participate in the event.
-
-〓Event Rewards〓
-
-Primogems ×40 (limited to 5 million in quantity)
-
-〓Friendly Reminder〓
-
-1. Players must have an Adventure Rank of 10 and above to activate the gift pack, and each UID can only receive the pack once.
-
-2. The Primogem Redemption Code is valid until 2023/11/03 23:59:59 (global). Please claim it within the validity period.
-
-(Note: It is recommended to switch to landscape mode and wear headphones for a better experience.)
-
------
-
 # ["Waterborne Poetry" Event: Take Part and Obtain the Event-Exclusive Weapon, Ballad of the Boundless Blue (Catalyst)](archive/3807.md)
 ## Waterborne Poetry
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/431416c6abf8dbe844e5e6d9af2e53f6_2097730829328044752.jpg)
