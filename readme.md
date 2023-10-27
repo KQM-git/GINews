@@ -1,73 +1,3 @@
-# ["The Peaks and Troughs of Life" Event: Pressurized Impactor Test](archive/3813.md)
-## The Peaks and Troughs of Life
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/050870d05f44e9b27cba821e8576dbb1_6789489184591099311.jpg)
-
-**〓Event Duration〓**
-
-2023/10/23 10:00:00 (server) – 2023/11/06 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/852f340773abcc1d3dd6fd6fb926b508_3200552964510720079.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the Archon Quest "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the start of the event, a new challenge will become available each day. Each challenge will include 3 battle stages.
-
-● You will be provided with two trial characters during each challenge. The more of your own characters in your party, and the higher level they are, the more Load you will have to exchange and the higher level Buff Modules you will be able to equip.
-
-● During the challenge, using Pressurized Impactors will provide enormous assistance, enabling you to activate Buff Modules and release "high-pressure shockwaves."
-
-● You must charge the Pressurized Impactors before you can release high-pressure shockwaves. Charging requires increasing the pressure 3 times. Use the right timing to stop the pressure increases within proper range to successfully charge.
-
-● Note that high-pressure shockwave damage is affected by the charging results.
-
------
-
-# ["Stellar Reunion" Maintenance Details](archive/3892.md)
-## "Stellar Reunion" Maintenance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/16/6f51ba7219b3479aa7738e0deda6c575_6138217686743414303.jpg)
-
-Dear Travelers,
-
-To bring you the best-possible gaming experience, the "Stellar Reunion" system will be optimized and updated in Version 4.2. Before the Version 4.2 update takes place, the system requires maintenance that will temporarily make "Stellar Reunion" unavailable.
-
-〓Maintenance Duration〓
-
-2023/10/23 11:00:00 (global) – Before the Version 4.2 update is completed
-
-The maintenance start time may be adjusted according to the circumstances. We advise Travelers to activate the "Stellar Reunion" event when it becomes available.
-
-〓 "Stellar Reunion" Event Activation Requirements 〓
-
-1. Reach Adventure Rank 10 or above
-
-2. At least 14 days since last game login
-
-3. Over 45 days since last activating the "Stellar Reunion" event
-
-〓 Event Status After Meeting "Stellar Reunion" Activation Requirements at Different Times 〓
-
-● If Travelers have already activated "Stellar Reunion" before maintenance
-
-Travelers who have already activated the "Stellar Reunion" event before the maintenance begins will not be affected by the maintenance, and will be able to take part in related events as normal.
-
-● If Travelers meet the requirements for activating the "Stellar Reunion" event during the maintenance period
-
-After logging in, Travelers will be temporarily unable to activate the "Stellar Reunion" event. Once the Version 4.2 update is complete, log in to activate the "Stellar Reunion" event.
-
-● If Travelers meet the requirements for activating "Stellar Reunion" after the Version 4.2 update
-
-After the maintenance is complete, Travelers who meet the activation requirements will be able to activate the "Stellar Reunion" event as normal by logging into the game.
-
-Please take note of the maintenance time and schedule your game time accordingly. We hope Travelers will bear with us during the disruption.
-
------
-
 # ["To the Stars Shining in the Depths" Version 4.1 Update Details](archive/3816.md)
 ## Version 4.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/42ee58e358dcc11c0d345828849f9455_5738043550916816152.jpg)
@@ -702,6 +632,46 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# ["Stellar Reunion" Maintenance Details](archive/3892.md)
+## "Stellar Reunion" Maintenance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/16/6f51ba7219b3479aa7738e0deda6c575_6138217686743414303.jpg)
+
+Dear Travelers,
+
+To bring you the best-possible gaming experience, the "Stellar Reunion" system will be optimized and updated in Version 4.2. Before the Version 4.2 update takes place, the system requires maintenance that will temporarily make "Stellar Reunion" unavailable.
+
+〓Maintenance Duration〓
+
+2023/10/23 11:00:00 (global) – Before the Version 4.2 update is completed
+
+The maintenance start time may be adjusted according to the circumstances. We advise Travelers to activate the "Stellar Reunion" event when it becomes available.
+
+〓 "Stellar Reunion" Event Activation Requirements 〓
+
+1. Reach Adventure Rank 10 or above
+
+2. At least 14 days since last game login
+
+3. Over 45 days since last activating the "Stellar Reunion" event
+
+〓 Event Status After Meeting "Stellar Reunion" Activation Requirements at Different Times 〓
+
+● If Travelers have already activated "Stellar Reunion" before maintenance
+
+Travelers who have already activated the "Stellar Reunion" event before the maintenance begins will not be affected by the maintenance, and will be able to take part in related events as normal.
+
+● If Travelers meet the requirements for activating the "Stellar Reunion" event during the maintenance period
+
+After logging in, Travelers will be temporarily unable to activate the "Stellar Reunion" event. Once the Version 4.2 update is complete, log in to activate the "Stellar Reunion" event.
+
+● If Travelers meet the requirements for activating "Stellar Reunion" after the Version 4.2 update
+
+After the maintenance is complete, Travelers who meet the activation requirements will be able to activate the "Stellar Reunion" event as normal by logging into the game.
+
+Please take note of the maintenance time and schedule your game time accordingly. We hope Travelers will bear with us during the disruption.
+
+-----
+
 # [Version Details - What's New ](archive/3854.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -759,6 +729,36 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 - Fixes an issue under specific circumstances whereby there is a small chance that the objective "Operate the Energy Transfer Terminal to open the cell" in the World Quest "Road to the Singularity" cannot be completed. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
 
 - Fixes an issue whereby the disappearing animation of the gadget "Itty Bitty Octobaby" was abnormal when entering into combat on land using mobile devices. Travelers affected by this issue can log out via the Paimon Menu and log in again to resolve the issue.
+
+-----
+
+# ["The Peaks and Troughs of Life" Event: Pressurized Impactor Test](archive/3813.md)
+## The Peaks and Troughs of Life
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/050870d05f44e9b27cba821e8576dbb1_6789489184591099311.jpg)
+
+**〓Event Duration〓**
+
+2023/10/23 10:00:00 (server) – 2023/11/06 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/852f340773abcc1d3dd6fd6fb926b508_3200552964510720079.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● After the start of the event, a new challenge will become available each day. Each challenge will include 3 battle stages.
+
+● You will be provided with two trial characters during each challenge. The more of your own characters in your party, and the higher level they are, the more Load you will have to exchange and the higher level Buff Modules you will be able to equip.
+
+● During the challenge, using Pressurized Impactors will provide enormous assistance, enabling you to activate Buff Modules and release "high-pressure shockwaves."
+
+● You must charge the Pressurized Impactors before you can release high-pressure shockwaves. Charging requires increasing the pressure 3 times. Use the right timing to stop the pressure increases within proper range to successfully charge.
+
+● Note that high-pressure shockwave damage is affected by the charging results.
 
 -----
 
