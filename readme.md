@@ -732,6 +732,54 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
+# ["Resounding Melodies" Music Bundle Available for a Limited Time](archive/3815.md)
+## Resounding Melodies
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/3b5302df6aa7b56614573895d06ade27_4288230426329787759.jpg)
+
+The "Resounding Melodies" Music Bundle is available for a limited time in the Shop!
+
+**〓Duration〓**
+
+2023/10/30 12:00:00 (server) – 2023/12/19 06:00:00 (server)
+
+**〓Bundle Contents〓**
+
+Primogems ×1,000
+
+Festive Wind Glider "Wings of Transient Dreams" ×1
+
+Festive Namecard "Celebration: Euphonia" ×1
+
+Festive Furnishing "Sublime Crane Feather Strings" ×1
+
+**〓Bundle Description〓**
+
+● Now 40% off for a limited time! The price after discount is 1,280 Genesis Crystals. The Bundle can only be purchased once.
+
+● Travelers who have already obtained Festive Wind Glider "Wings of Transient Dreams" and Festive Namecard "Celebration: Euphonia" can only obtain Primogems and the Festive Furnishing "Sublime Crane Feather Strings" upon purchase of the bundle.
+
+-----
+
+# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+**〓Event Duration〓**
+
+2023/10/30 04:00:00 (server) – 2023/11/06 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # ["The Peaks and Troughs of Life" Event: Pressurized Impactor Test](archive/3813.md)
 ## The Peaks and Troughs of Life
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/050870d05f44e9b27cba821e8576dbb1_6789489184591099311.jpg)
