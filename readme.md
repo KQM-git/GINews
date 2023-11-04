@@ -732,6 +732,20 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
+# [Genshin Impact Version 4.2 Preview](archive/3903.md)
+## The Version 4.2 "Masquerade of the Guilty" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/26/3784cfa6672ebd14425e287a9b6c1525_2777589959791630845.jpg)
+
+Dear Travelers,
+
+The Version 4.2 "Masquerade of the Guilty" Preview page is here!
+
+[>>>>Go to V4.2 "Masquerade of the Guilty" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20231028preview/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20231029warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # [Version Satisfaction Survey Now Open](archive/3907.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
