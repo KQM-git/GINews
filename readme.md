@@ -818,56 +818,6 @@ Festive Furnishing "Sublime Crane Feather Strings" ×1
 
 -----
 
-# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-**〓Event Duration〓**
-
-2023/10/30 04:00:00 (server) – 2023/11/06 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# ["The Peaks and Troughs of Life" Event: Pressurized Impactor Test](archive/3813.md)
-## The Peaks and Troughs of Life
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/050870d05f44e9b27cba821e8576dbb1_6789489184591099311.jpg)
-
-**〓Event Duration〓**
-
-2023/10/23 10:00:00 (server) – 2023/11/06 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/01/852f340773abcc1d3dd6fd6fb926b508_3200552964510720079.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete the Archon Quest "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the start of the event, a new challenge will become available each day. Each challenge will include 3 battle stages.
-
-● You will be provided with two trial characters during each challenge. The more of your own characters in your party, and the higher level they are, the more Load you will have to exchange and the higher level Buff Modules you will be able to equip.
-
-● During the challenge, using Pressurized Impactors will provide enormous assistance, enabling you to activate Buff Modules and release "high-pressure shockwaves."
-
-● You must charge the Pressurized Impactors before you can release high-pressure shockwaves. Charging requires increasing the pressure 3 times. Use the right timing to stop the pressure increases within proper range to successfully charge.
-
-● Note that high-pressure shockwave damage is affected by the charging results.
-
------
-
 # [Event Wish "Tempestuous Destiny" - Boosted Drop Rate for "Emissary of Solitary Iniquity" Wriothesley (Cryo)!](archive/3808.md)
 ## Event Wish - Tempestuous Destiny
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/897904799cf701703c2254bfd4f66c90_493295120887681702.jpg)
@@ -996,30 +946,6 @@ September 28 | Primogems ×400 | Itty Bitty Octobaby ×1
 September 29 | Primogems ×400 | Fragile Resin ×2
 September 30 | Primogems ×400 | Fragile Resin ×2
 October 1 | Primogems ×400 | Portable Aerodynamic Gelatinous Bubble Generator ×1
-
------
-
-# ["Falling Star" Event Details](archive/3800.md)
-## Falling Star
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/431ea9a2242b2a1b59c7386a8df50e79_1486070009014796736.jpg)
-
-Travelers can earn rich rewards in "Falling Star" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Falling Star" and Furnishing Blueprint "Maison Cardinalice's Clerk."
-
-**〓Event Duration〓**
-
-After the Version 4.1 update – 2023/11/06 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/11/06 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
