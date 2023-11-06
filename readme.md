@@ -47,7 +47,7 @@ After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the 
 -----
 
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/3886.md)
-## Genius Invokation TCG
+## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/eb663fec3e072bc3d00f8e9465e155b9_3622381664022293491.jpg)
 
 **〓Event Duration〓**
