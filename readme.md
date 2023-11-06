@@ -1,3 +1,27 @@
+# [Version 4.2 Update Maintenance Preview](archive/3918.md)
+## Version 4.2 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/03/c941908b14dcaf160083796a10645f89_2869028432057860461.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2023/11/08 06:00:00 (global). Please stay tuned to related game update information.
+
+<details open="true">
+<summary>Version 4.2 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/02/389df8b203864bb762b59cc0151b2663_240043066908342763.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/02/7a245a15c6cc9819a0d289fdd2903efb_5256455546607282333.jpg)
+
+</details>
+
+-----
+
 # ["To the Stars Shining in the Depths" Version 4.1 Update Details](archive/3816.md)
 ## Version 4.1 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/42ee58e358dcc11c0d345828849f9455_5738043550916816152.jpg)
