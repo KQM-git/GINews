@@ -1,3 +1,17 @@
+# [Version 4.2 New Content Overview](archive/3927.md)
+## Version 4.2 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/73267894405c3c2d4a4036e6e5bdb3e9_8070005604927643181.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/c06eb20481d326c2efa166e1f56bc18b_601885839632828638.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/ad80d18539abf2ad93b1abd6aafdafda_3339508331150203863.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/8cb9f5b9e4c1bb38c9308341ce422562_4622769472243108314.jpg)
+
+-----
+
 # ["Masquerade of the Guilty" Version 4.2 Update Details](archive/3924.md)
 ## Version 4.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/475d890b6ebeb1a668d10c68642cad0b_1460485343471401976.png)
@@ -777,46 +791,6 @@ Duration: 2023/11/23 00:00:00 (server) – 2023/12/08 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# ["Stellar Reunion" Maintenance Details](archive/3892.md)
-## "Stellar Reunion" Maintenance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/16/6f51ba7219b3479aa7738e0deda6c575_6138217686743414303.jpg)
-
-Dear Travelers,
-
-To bring you the best-possible gaming experience, the "Stellar Reunion" system will be optimized and updated in Version 4.2. Before the Version 4.2 update takes place, the system requires maintenance that will temporarily make "Stellar Reunion" unavailable.
-
-〓Maintenance Duration〓
-
-2023/10/23 11:00:00 (global) – Before the Version 4.2 update is completed
-
-The maintenance start time may be adjusted according to the circumstances. We advise Travelers to activate the "Stellar Reunion" event when it becomes available.
-
-〓 "Stellar Reunion" Event Activation Requirements 〓
-
-1. Reach Adventure Rank 10 or above
-
-2. At least 14 days since last game login
-
-3. Over 45 days since last activating the "Stellar Reunion" event
-
-〓 Event Status After Meeting "Stellar Reunion" Activation Requirements at Different Times 〓
-
-● If Travelers have already activated "Stellar Reunion" before maintenance
-
-Travelers who have already activated the "Stellar Reunion" event before the maintenance begins will not be affected by the maintenance, and will be able to take part in related events as normal.
-
-● If Travelers meet the requirements for activating the "Stellar Reunion" event during the maintenance period
-
-After logging in, Travelers will be temporarily unable to activate the "Stellar Reunion" event. Once the Version 4.2 update is complete, log in to activate the "Stellar Reunion" event.
-
-● If Travelers meet the requirements for activating "Stellar Reunion" after the Version 4.2 update
-
-After the maintenance is complete, Travelers who meet the activation requirements will be able to activate the "Stellar Reunion" event as normal by logging into the game.
-
-Please take note of the maintenance time and schedule your game time accordingly. We hope Travelers will bear with us during the disruption.
 
 -----
 
