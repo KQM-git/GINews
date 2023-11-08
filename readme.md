@@ -542,20 +542,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# [Version Details - What's New ](archive/20162.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-- Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
-
------
-
 # [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
 ## New Story Unlocked - Archon Quest Chapter IV: Act V
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
@@ -577,6 +563,20 @@ After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the 
 • Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Version Details - What's New ](archive/20162.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
 
 -----
 
@@ -822,26 +822,6 @@ The Version 4.2 "Masquerade of the Guilty" Preview page is here!
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/3906.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Resounding Melodies" Music Bundle Available for a Limited Time](archive/3815.md)
 ## Resounding Melodies
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/3b5302df6aa7b56614573895d06ade27_4288230426329787759.jpg)
@@ -867,6 +847,26 @@ Festive Furnishing "Sublime Crane Feather Strings" ×1
 ● Now 40% off for a limited time! The price after discount is 1,280 Genesis Crystals. The Bundle can only be purchased once.
 
 ● Travelers who have already obtained Festive Wind Glider "Wings of Transient Dreams" and Festive Namecard "Celebration: Euphonia" can only obtain Primogems and the Festive Furnishing "Sublime Crane Feather Strings" upon purchase of the bundle.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/3906.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
