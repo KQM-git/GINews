@@ -542,6 +542,20 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/20162.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
 ## New Story Unlocked - Archon Quest Chapter IV: Act V
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
