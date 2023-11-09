@@ -542,30 +542,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act V
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
-
-What original sin does the God of Justice, who claims to judge the gods, herself bear... One cannot make an enemy of the divine. If the Heavenly Principles are not to be defied, the answer shouldn't be to bow one's head and wait for death. Instead, let there be a spin, a hop, and a skip. Then, let the "sinner" take a final bow.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will be permanently available
-
-〓Archon Quest Chapter IV: Act V "Masquerade of the Guilty" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # [Version Details - What's New ](archive/20162.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -673,6 +649,30 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act V
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
+
+What original sin does the God of Justice, who claims to judge the gods, herself bear... One cannot make an enemy of the divine. If the Heavenly Principles are not to be defied, the answer shouldn't be to bow one's head and wait for death. Instead, let there be a spin, a hop, and a skip. Then, let the "sinner" take a final bow.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will be permanently available
+
+〓Archon Quest Chapter IV: Act V "Masquerade of the Guilty" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
