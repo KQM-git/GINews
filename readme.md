@@ -552,7 +552,11 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-- Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
+Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓2023/11/10 16:40:00 (global) Update Details〓
+
+Fixes an issue under certain circumstances whereby the number of "Returning Companions" usage chances in the "Stellar Reunion" event could not be used normally.
 
 〓2023/11/10 11:30:00 (global) Update Details〓
 
