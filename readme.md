@@ -588,6 +588,20 @@ Spotify:
 
 -----
 
+# [In-Game Top-Up Issue Summary](archive/20170.md)
+## In-Game Top-Up Issue Summary
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/13/fe7e72baa8e4ac5e237f027a819b212e_3242174514633509832.jpg)
+
+Dear Travelers,
+
+Due to an issue with Google Play services, some Travelers have experienced difficulties topping-up.
+
+We will promptly notify Travelers via in-game notice and community channels once services have been restored. Please stay tuned to our official channels for the latest information regarding these issues.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # ["Misty Dungeon: Realm of Water" Event: Themed Character-Trial Event](archive/3887.md)
 ## Misty Dungeon: Realm of Water
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/f75ce4f3dfe83928ba858a5e4e91568a_5465041265918021643.jpg)
