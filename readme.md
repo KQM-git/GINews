@@ -568,44 +568,6 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 
 -----
 
-# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/3901.md)
-## New Version 4.2 Genshin Impact Tool Content
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/08/0a816bdc63583aa099878a7e3f3581f2_4903749445502380122.jpg)
-
-Dear Travelers,
-
-Genshin Impact Version 4.2 is here, with new areas and characters from Fontaine waiting for you! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.2. Let's take a look~
-
-| Teyvat Interactive Map Update: Adds the new areas in Fontaine as well as route update notices.
-
-2 new areas become available in Version 4.2: Morte Region and Erinnyes Forest. Pins and other information for said areas will also be added to the Interactive Map.
-
-Related explanations for updated pins and routes will also be added to the notices section of the Interactive Map to help keep Travelers informed about updates.
-
-[>>Click to View the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-
-| Battle Chronicle Update: Deck Sharing Codes have been added to the Genius Invokation TCG module, which can be shared to the Card Plaza.
-
-Travelers can share their decks in the Genius Invokation TCG module of the Battle Chronicle tool. They'll also be able to publish and discuss them with other players in the Card Plaza.
-
-With the arrival of Version 4.2's new event in Fontaine, "Thelxie's Fantastic Adventures," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
-
-[>>Click to View Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Furina and Charlotte.
-
-[>>Click to Use the Enhancement Progression Calculator<<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Furina and Charlotte.
-
-[>>Click to Use the Lineup Simulator<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
-| Card Plaza Update: Supports importing, configuring, and exporting in-game decks.
-
-[>>Click to Go to Card Plaza<<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
 # ["Misty Dungeon: Realm of Water" Event: Themed Character-Trial Event](archive/3887.md)
 ## Misty Dungeon: Realm of Water
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/f75ce4f3dfe83928ba858a5e4e91568a_5465041265918021643.jpg)
@@ -661,6 +623,44 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/3901.md)
+## New Version 4.2 Genshin Impact Tool Content
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/08/0a816bdc63583aa099878a7e3f3581f2_4903749445502380122.jpg)
+
+Dear Travelers,
+
+Genshin Impact Version 4.2 is here, with new areas and characters from Fontaine waiting for you! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.2. Let's take a look~
+
+| Teyvat Interactive Map Update: Adds the new areas in Fontaine as well as route update notices.
+
+2 new areas become available in Version 4.2: Morte Region and Erinnyes Forest. Pins and other information for said areas will also be added to the Interactive Map.
+
+Related explanations for updated pins and routes will also be added to the notices section of the Interactive Map to help keep Travelers informed about updates.
+
+[>>Click to View the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Battle Chronicle Update: Deck Sharing Codes have been added to the Genius Invokation TCG module, which can be shared to the Card Plaza.
+
+Travelers can share their decks in the Genius Invokation TCG module of the Battle Chronicle tool. They'll also be able to publish and discuss them with other players in the Card Plaza.
+
+With the arrival of Version 4.2's new event in Fontaine, "Thelxie's Fantastic Adventures," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
+
+[>>Click to View Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Furina and Charlotte.
+
+[>>Click to Use the Enhancement Progression Calculator<<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Furina and Charlotte.
+
+[>>Click to Use the Lineup Simulator<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+| Card Plaza Update: Supports importing, configuring, and exporting in-game decks.
+
+[>>Click to Go to Card Plaza<<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
