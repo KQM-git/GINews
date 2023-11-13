@@ -626,68 +626,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/3901.md)
-## New Version 4.2 Genshin Impact Tool Content
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/08/0a816bdc63583aa099878a7e3f3581f2_4903749445502380122.jpg)
-
-Dear Travelers,
-
-Genshin Impact Version 4.2 is here, with new areas and characters from Fontaine waiting for you! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.2. Let's take a look~
-
-| Teyvat Interactive Map Update: Adds the new areas in Fontaine as well as route update notices.
-
-2 new areas become available in Version 4.2: Morte Region and Erinnyes Forest. Pins and other information for said areas will also be added to the Interactive Map.
-
-Related explanations for updated pins and routes will also be added to the notices section of the Interactive Map to help keep Travelers informed about updates.
-
-[>>Click to View the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-
-| Battle Chronicle Update: Deck Sharing Codes have been added to the Genius Invokation TCG module, which can be shared to the Card Plaza.
-
-Travelers can share their decks in the Genius Invokation TCG module of the Battle Chronicle tool. They'll also be able to publish and discuss them with other players in the Card Plaza.
-
-With the arrival of Version 4.2's new event in Fontaine, "Thelxie's Fantastic Adventures," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
-
-[>>Click to View Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Furina and Charlotte.
-
-[>>Click to Use the Enhancement Progression Calculator<<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Furina and Charlotte.
-
-[>>Click to Use the Lineup Simulator<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
-| Card Plaza Update: Supports importing, configuring, and exporting in-game decks.
-
-[>>Click to Go to Card Plaza<<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
-# [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act V
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
-
-What original sin does the God of Justice, who claims to judge the gods, herself bear... One cannot make an enemy of the divine. If the Heavenly Principles are not to be defied, the answer shouldn't be to bow one's head and wait for death. Instead, let there be a spin, a hop, and a skip. Then, let the "sinner" take a final bow.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will be permanently available
-
-〓Archon Quest Chapter IV: Act V "Masquerade of the Guilty" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/3880.md)
 ## Event Wish - Chanson of Many Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/1a585895fafa20d3605465a4efc7da7f_6563600044243797507.jpg)
@@ -855,6 +793,68 @@ Duration: 2023/11/23 00:00:00 (server) – 2023/12/08 23:59:59 (server)
 Bundle Contents: Hero's Wit ×12, Mora ×10,000
 
 Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/3901.md)
+## New Version 4.2 Genshin Impact Tool Content
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/08/0a816bdc63583aa099878a7e3f3581f2_4903749445502380122.jpg)
+
+Dear Travelers,
+
+Genshin Impact Version 4.2 is here, with new areas and characters from Fontaine waiting for you! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.2. Let's take a look~
+
+| Teyvat Interactive Map Update: Adds the new areas in Fontaine as well as route update notices.
+
+2 new areas become available in Version 4.2: Morte Region and Erinnyes Forest. Pins and other information for said areas will also be added to the Interactive Map.
+
+Related explanations for updated pins and routes will also be added to the notices section of the Interactive Map to help keep Travelers informed about updates.
+
+[>>Click to View the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Battle Chronicle Update: Deck Sharing Codes have been added to the Genius Invokation TCG module, which can be shared to the Card Plaza.
+
+Travelers can share their decks in the Genius Invokation TCG module of the Battle Chronicle tool. They'll also be able to publish and discuss them with other players in the Card Plaza.
+
+With the arrival of Version 4.2's new event in Fontaine, "Thelxie's Fantastic Adventures," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
+
+[>>Click to View Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Furina and Charlotte.
+
+[>>Click to Use the Enhancement Progression Calculator<<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Furina and Charlotte.
+
+[>>Click to Use the Lineup Simulator<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+| Card Plaza Update: Supports importing, configuring, and exporting in-game decks.
+
+[>>Click to Go to Card Plaza<<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act V
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
+
+What original sin does the God of Justice, who claims to judge the gods, herself bear... One cannot make an enemy of the divine. If the Heavenly Principles are not to be defied, the answer shouldn't be to bow one's head and wait for death. Instead, let there be a spin, a hop, and a skip. Then, let the "sinner" take a final bow.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the Guilty" will be permanently available
+
+〓Archon Quest Chapter IV: Act V "Masquerade of the Guilty" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act IV "Cataclysm's Quickening"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
