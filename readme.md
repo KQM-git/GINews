@@ -892,20 +892,6 @@ After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the 
 
 -----
 
-# [Genshin Impact Version 4.2 Preview](archive/3903.md)
-## The Version 4.2 "Masquerade of the Guilty" Preview page is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/26/3784cfa6672ebd14425e287a9b6c1525_2777589959791630845.jpg)
-
-Dear Travelers,
-
-The Version 4.2 "Masquerade of the Guilty" Preview page is here!
-
-[>>>>Go to V4.2 "Masquerade of the Guilty" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20231028preview/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20231029warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # ["Resounding Melodies" Music Bundle Available for a Limited Time](archive/3815.md)
 ## Resounding Melodies
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/3b5302df6aa7b56614573895d06ade27_4288230426329787759.jpg)
