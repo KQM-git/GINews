@@ -1,3 +1,17 @@
+# [In-Game Top-Up Issue Summary](archive/20170.md)
+## In-Game Top-Up Issue Summary
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/13/fe7e72baa8e4ac5e237f027a819b212e_3242174514633509832.jpg)
+
+Dear Travelers,
+
+Due to an issue with Google Play services, some Travelers have experienced difficulties topping-up.
+
+We will promptly notify Travelers via in-game notice and community channels once services have been restored. Please stay tuned to our official channels for the latest information regarding these issues.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # [Version 4.2 New Content Overview](archive/3927.md)
 ## Version 4.2 New Content Overview
 
@@ -585,20 +599,6 @@ Apple Music:
 Spotify:
 
 [Click here to listen to "La vaguelette"](https://open.spotify.com/album/0qZVILCnti9c6ux3QkVOFa)
-
------
-
-# [In-Game Top-Up Issue Summary](archive/20170.md)
-## In-Game Top-Up Issue Summary
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/13/fe7e72baa8e4ac5e237f027a819b212e_3242174514633509832.jpg)
-
-Dear Travelers,
-
-Due to an issue with Google Play services, some Travelers have experienced difficulties topping-up.
-
-We will promptly notify Travelers via in-game notice and community channels once services have been restored. Please stay tuned to our official channels for the latest information regarding these issues.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
 
 -----
 
