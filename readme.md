@@ -1,3 +1,35 @@
+# ["Graph Adversarial Technology Experiment Log" Event: Fun Photography Challenges](archive/3888.md)
+## Graph Adversarial Technology Experiment Log
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/6a7b94a1f1cebbfdcdfe382e32025bec_777918564047204546.jpg)
+
+**〓Event Duration〓**
+
+2023/11/17 10:00:00 (server) – 2023/11/27 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/de2fab6838afc99edc9c51abd33a0931_8446167855008993370.jpg)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete the Archon Quest "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● The photo-taking phase consists of the first six days of the event. There will be a different photo subject assigned on each day of the photo-taking phase, namely, 6 subjects in total.
+
+● During the photo-taking phase, when photographing the subject with the Image Sampling Kamera, you can randomly obtain a "sample" with different characteristics (the colors of the samples and photography subjects are unrelated). You have 10 sheets of film each day with which to take photos, and any unused film will be cleared at the end of each day.
+
+● Each time you collect all 5 characteristic samples, visit Lepine-Pauline to exchange them for "Research Awards" and claim the rewards within. Up to 7 Research Awards can be exchanged for during the event.
+
+● During the event, you can exchange samples with your friends.
+
+※ After the photo-taking phase ends, you will no longer be able to obtain samples through photographing. You can still exchange samples with your friends and exchange your collected samples for Research Awards during the event.
+
+-----
+
 # [Version 4.2 New Content Overview](archive/3927.md)
 ## Version 4.2 New Content Overview
 
