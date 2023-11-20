@@ -638,26 +638,6 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 
 -----
 
-# [Genshin Impact "La vaguelette" EP Album Now Available](archive/3920.md)
-## "La vaguelette" EP Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/07/923467b0f2c2292845bb4c6250b8be1c_8685669464962923521.png)
-
-Dear Travelers,
-
-Genshin Impact's "La vaguelette" EP Album is now available. This album is produced by the HOYO-MiX team and features the story OST and its instrumental in Genshin Impact's Version 4.2 "Masquerade of the Guilty."
-
-Travelers can go to the following platforms to listen to "La vaguelette."
-
-Apple Music:
-
-[Click here to listen to "La vaguelette"](https://music.apple.com/us/album/1715407532)
-
-Spotify:
-
-[Click here to listen to "La vaguelette"](https://open.spotify.com/album/0qZVILCnti9c6ux3QkVOFa)
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/3886.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/eb663fec3e072bc3d00f8e9465e155b9_3622381664022293491.jpg)
