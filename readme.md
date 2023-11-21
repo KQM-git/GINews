@@ -1,3 +1,44 @@
+# ["Thelxie's Fantastic Adventures" Event: Take Part to Invite "Yearning for Unseen Depths" Freminet (Cryo)](archive/3889.md)
+## Thelxie's Fantastic Adventures
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/61b57bd8fb9b0f8aac2b3548bcf7b011_6632996410033896568.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** |    **Event Content** |    **Start Time** | **End Time**  
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/11/23 10:00:00 (server) | 2023/12/11 03:59:59 (server)
+^ | Act II | 2023/11/25 04:00:00 (server) | ^
+^ | Act III | 2023/11/27 04:00:00 (server) | ^
+Gameplay Start Time | Motherboard Troubleshooting | 2023/11/23 10:00:00 (server) | ^
+^ | Record of the Search for Glory | ^ | ^
+^ | Purgation Counterstrike | 2023/11/25 04:00:00 (server) | ^
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/3f28af53d15d37761bbe5a1589dcb1e6_1701236872746283266.jpg)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+●  During the event, the following gameplay modes will unlock in sequence: Motherboard Troubleshooting, Record of the Search for Glory, and Purgation Counterstrike.
+
+●  In the "Motherboard Troubleshooting" gameplay, Travelers must set up circuits of limited length to guide the signal to its destination and adjust the motherboard to troubleshoot issues.
+
+●  In the "Record of the Search for Glory" gameplay, Travelers must play the Echoing Conch and head to the marked locations to collect the designated number of Iridescent Glories to complete the challenge.
+
+●  In the "Purgation Counterstrike" gameplay, Travelers must complete the combat challenges within the time limit. Use Prince Thelxie's "Water Imp's Chanson" to defeat opponents more easily.
+
+●  Complete the various gameplay modes to obtain Thelxie's Badges and reach a certain amount of Thelxie's Badges to invite "Yearning for Unseen Depths" Freminet (Cryo). You'll also be able to obtain Primogems, Crown of Insight, Hero's Wit, Character Talent Materials, Mystic Enhancement Ore, Mora, and other rewards.
+
+-----
+
 # ["Graph Adversarial Technology Experiment Log" Event: Fun Photography Challenges](archive/3888.md)
 ## Graph Adversarial Technology Experiment Log
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/6a7b94a1f1cebbfdcdfe382e32025bec_777918564047204546.jpg)
