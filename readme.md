@@ -1,3 +1,33 @@
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/3896.md)
+## "Genius Invokation TCG" Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/18b2877fead074c812136af570191a69_4881825835001648062.jpg)
+
+**〓Special Rules〓**
+
+In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+**〓Event Duration〓**
+
+2023/11/25 10:00:00 (server) – 2023/12/11 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/2fb571b31b0a649ac256841b48952dda_1029565364576487928.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Thelxie's Fantastic Adventures" Event: Take Part to Invite "Yearning for Unseen Depths" Freminet (Cryo)](archive/3889.md)
 ## Thelxie's Fantastic Adventures
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/61b57bd8fb9b0f8aac2b3548bcf7b011_6632996410033896568.jpg)
