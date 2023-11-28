@@ -153,20 +153,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 -----
 
-# [Version 4.2 New Content Overview](archive/3927.md)
-## Version 4.2 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/73267894405c3c2d4a4036e6e5bdb3e9_8070005604927643181.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/c06eb20481d326c2efa166e1f56bc18b_601885839632828638.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/ad80d18539abf2ad93b1abd6aafdafda_3339508331150203863.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/07/8cb9f5b9e4c1bb38c9308341ce422562_4622769472243108314.jpg)
-
------
-
 # ["Masquerade of the Guilty" Version 4.2 Update Details](archive/3924.md)
 ## Version 4.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/475d890b6ebeb1a668d10c68642cad0b_1460485343471401976.png)
