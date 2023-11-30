@@ -69,34 +69,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword)！](archive/3895.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/c35a0439589b2ce657162c1879e1ebe9_628866124430593193.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server)  | Staff of the Scarlet Sands (Polearm)   Haran Geppaku Futsu (Sword) | Lion's Roar (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | The Widsith (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword) will receive a huge drop-rate boost!
-
-● During the event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Staff of the Scarlet Sands (Polearm) or Haran Geppaku Futsu (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!](archive/3891.md)
 ## Event Wish - Azure Excursion
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/8b8e54826f77acaf3ffed7891e04f3b4_2518180600329304572.jpg)
@@ -148,6 +120,34 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword)！](archive/3895.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/c35a0439589b2ce657162c1879e1ebe9_628866124430593193.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server)  | Staff of the Scarlet Sands (Polearm)   Haran Geppaku Futsu (Sword) | Lion's Roar (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event, the event-exclusive 5-star weapons Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Staff of the Scarlet Sands (Polearm) or Haran Geppaku Futsu (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
