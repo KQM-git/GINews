@@ -528,6 +528,78 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/20162.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
+
+〓2023/11/30 16:10:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2023/11/23 16:20:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2023/11/16 16:25:00 (global) Update Details〓
+
+- Fixes an issue whereby when Charlotte's Lv. 4 Constellation effect is triggered, if she is off-field, she would not regenerate Elemental Energy as a result of the constellation effect.
+
+▌ Compensation Details
+
+Primogems ×100
+
+▌Eligibility
+
+Travelers who reached Adventure Rank 5 and above before 2023/11/16 16:00:00 (global).
+
+Please log in and claim your compensation before 2023/11/19 16:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 24 hours after the issue is resolved. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+- Fixes an issue whereby Charlotte's Normal Attacks could not switch targets, and had an abnormal attack range under certain circumstances.
+
+- Fixes an issue whereby Charlotte's Normal Attacks could not hit harvestables under certain circumstances.
+
+- Fixes an issue whereby when carrying out the objective "Go with the flow..." in the World Quest "Within the Depths of Erinnyes," rocks at a certain location were unable to be destroyed under certain circumstances, so the quest could not continue and would not proceed to the next quest scene. Travelers who encountered the issue can head over to said quest location and try again to continue to progress in the quest after the issue is resolved.
+
+- Fixes an issue during the World Quest "Foggy Forest Path" whereby the quest objective "Reveal the altar's secrets" could not be completed due to certain contamination clots that were unable to be cleansed under certain circumstances.
+
+- Fixes an issue whereby after completing the Archon Quest "Masquerade of the Guilty," during the Story Quest "The Remains of the Past Day," certain English voice lines were missing in the Profile > Voice-Over interface and said quest's dialogues.
+
+- Fixes an issue whereby when carrying out the objective "Solve the Orthant's puzzle" in the World Quest "Thalia and Melpomene," certain dispatch devices had a small chance to perform abnormally under certain circumstances, so the quest could not continue.
+
+- Fixes an issue whereby after the Version 4.2 update, the music of the Trounce Domain "Narukami Island: Tenshukaku" appeared incorrect.
+
+- Fixes an issue with the Exploration Progress of the Morte Region in Fontaine whereby the progress was calculated abnormally. Travelers with less than 100% Exploration Progress of the Morte Region may experience a slight increase in said progress after the update.
+
+- Fixes an issue whereby there was a localization error in Italian for Charlotte's Elemental Burst "Still Photo: Comprehensive Confirmation."
+
+- Fixes an issue with Neuvillette whereby there was a localization error in German for his voice line "About the Geo Archon" in the Profile > Voice-Over interface.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2023/11/10 16:40:00 (global) Update Details〓
+
+Fixes an issue under certain circumstances whereby the number of "Returning Companions" usage chances in the "Stellar Reunion" event could not be used normally.
+
+〓2023/11/10 11:30:00 (global) Update Details〓
+
+- Fixes an issue whereby after disconnecting from the server and then reconnecting under certain circumstances, the quest objective "Investigate the space ahead" of the Archon Quest "Meeting Is Also Parting" could not be completed due to a specific door abnormally closing.
+
+- Fixes an issue in Russian whereby there was a localization error in the quest objective text "Go to The Steambird" of the Archon Quest "Hunters, Prophets."
+
+- Fixes an issue in the Profile > Voice-Over page whereby some of Neuvillette's English voice-over lines were missing, as well as the text that did not reflect the voice-over lines accurately.
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/3896.md)
 ## "Genius Invokation TCG" Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/18b2877fead074c812136af570191a69_4881825835001648062.jpg)
@@ -680,78 +752,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Version Details - What's New ](archive/20162.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-Currently, when some characters challenge the boss "All-Devouring Narwhal," there is a chance of an issue where DMG numbers won't display when inflicting DMG (but the actual DMG inflicted is correct). This issue will be fixed in a later version update. Please stay tuned for future notices.
-
-〓2023/11/30 16:10:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2023/11/23 16:20:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2023/11/16 16:25:00 (global) Update Details〓
-
-- Fixes an issue whereby when Charlotte's Lv. 4 Constellation effect is triggered, if she is off-field, she would not regenerate Elemental Energy as a result of the constellation effect.
-
-▌ Compensation Details
-
-Primogems ×100
-
-▌Eligibility
-
-Travelers who reached Adventure Rank 5 and above before 2023/11/16 16:00:00 (global).
-
-Please log in and claim your compensation before 2023/11/19 16:00:00 (global).
-
-Our developers will distribute compensation to Travelers via in-game mail within 24 hours after the issue is resolved. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-- Fixes an issue whereby Charlotte's Normal Attacks could not switch targets, and had an abnormal attack range under certain circumstances.
-
-- Fixes an issue whereby Charlotte's Normal Attacks could not hit harvestables under certain circumstances.
-
-- Fixes an issue whereby when carrying out the objective "Go with the flow..." in the World Quest "Within the Depths of Erinnyes," rocks at a certain location were unable to be destroyed under certain circumstances, so the quest could not continue and would not proceed to the next quest scene. Travelers who encountered the issue can head over to said quest location and try again to continue to progress in the quest after the issue is resolved.
-
-- Fixes an issue during the World Quest "Foggy Forest Path" whereby the quest objective "Reveal the altar's secrets" could not be completed due to certain contamination clots that were unable to be cleansed under certain circumstances.
-
-- Fixes an issue whereby after completing the Archon Quest "Masquerade of the Guilty," during the Story Quest "The Remains of the Past Day," certain English voice lines were missing in the Profile > Voice-Over interface and said quest's dialogues.
-
-- Fixes an issue whereby when carrying out the objective "Solve the Orthant's puzzle" in the World Quest "Thalia and Melpomene," certain dispatch devices had a small chance to perform abnormally under certain circumstances, so the quest could not continue.
-
-- Fixes an issue whereby after the Version 4.2 update, the music of the Trounce Domain "Narukami Island: Tenshukaku" appeared incorrect.
-
-- Fixes an issue with the Exploration Progress of the Morte Region in Fontaine whereby the progress was calculated abnormally. Travelers with less than 100% Exploration Progress of the Morte Region may experience a slight increase in said progress after the update.
-
-- Fixes an issue whereby there was a localization error in Italian for Charlotte's Elemental Burst "Still Photo: Comprehensive Confirmation."
-
-- Fixes an issue with Neuvillette whereby there was a localization error in German for his voice line "About the Geo Archon" in the Profile > Voice-Over interface.
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2023/11/10 16:40:00 (global) Update Details〓
-
-Fixes an issue under certain circumstances whereby the number of "Returning Companions" usage chances in the "Stellar Reunion" event could not be used normally.
-
-〓2023/11/10 11:30:00 (global) Update Details〓
-
-- Fixes an issue whereby after disconnecting from the server and then reconnecting under certain circumstances, the quest objective "Investigate the space ahead" of the Archon Quest "Meeting Is Also Parting" could not be completed due to a specific door abnormally closing.
-
-- Fixes an issue in Russian whereby there was a localization error in the quest objective text "Go to The Steambird" of the Archon Quest "Hunters, Prophets."
-
-- Fixes an issue in the Profile > Voice-Over page whereby some of Neuvillette's English voice-over lines were missing, as well as the text that did not reflect the voice-over lines accurately.
 
 -----
 
