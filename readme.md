@@ -1,182 +1,3 @@
-# [Events Survey Now Open](archive/20196.md)
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2023/12/01 10:00:00 (global) - 2023/12/04 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzkk71tB-seXZlJUP2c9jil0w53N_u8ySmVIcPWM887tK&game_biz=hk4e_global&surveyId=18665&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/3896.md)
-## "Genius Invokation TCG" Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/18b2877fead074c812136af570191a69_4881825835001648062.jpg)
-
-**〓Special Rules〓**
-
-In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
-
-**〓Event Duration〓**
-
-2023/11/25 10:00:00 (server) – 2023/12/11 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/2fb571b31b0a649ac256841b48952dda_1029565364576487928.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# ["Thelxie's Fantastic Adventures" Event: Take Part to Invite "Yearning for Unseen Depths" Freminet (Cryo)](archive/3889.md)
-## Thelxie's Fantastic Adventures
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/61b57bd8fb9b0f8aac2b3548bcf7b011_6632996410033896568.jpg)
-
-**〓Event Duration〓**
-
-**Event Content** |    **Event Content** |    **Start Time** | **End Time**  
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/11/23 10:00:00 (server) | 2023/12/11 03:59:59 (server)
-^ | Act II | 2023/11/25 04:00:00 (server) | ^
-^ | Act III | 2023/11/27 04:00:00 (server) | ^
-Gameplay Start Time | Motherboard Troubleshooting | 2023/11/23 10:00:00 (server) | ^
-^ | Record of the Search for Glory | ^ | ^
-^ | Purgation Counterstrike | 2023/11/25 04:00:00 (server) | ^
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/3f28af53d15d37761bbe5a1589dcb1e6_1701236872746283266.jpg)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
-
-**〓Event Details〓**
-
-●  During the event, the following gameplay modes will unlock in sequence: Motherboard Troubleshooting, Record of the Search for Glory, and Purgation Counterstrike.
-
-●  In the "Motherboard Troubleshooting" gameplay, Travelers must set up circuits of limited length to guide the signal to its destination and adjust the motherboard to troubleshoot issues.
-
-●  In the "Record of the Search for Glory" gameplay, Travelers must play the Echoing Conch and head to the marked locations to collect the designated number of Iridescent Glories to complete the challenge.
-
-●  In the "Purgation Counterstrike" gameplay, Travelers must complete the combat challenges within the time limit. Use Prince Thelxie's "Water Imp's Chanson" to defeat opponents more easily.
-
-●  Complete the various gameplay modes to obtain Thelxie's Badges and reach a certain amount of Thelxie's Badges to invite "Yearning for Unseen Depths" Freminet (Cryo). You'll also be able to obtain Primogems, Crown of Insight, Hero's Wit, Character Talent Materials, Mystic Enhancement Ore, Mora, and other rewards.
-
------
-
-# [Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!](archive/3891.md)
-## Event Wish - Azure Excursion
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/8b8e54826f77acaf3ffed7891e04f3b4_2518180600329304572.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server) | "Pillar of Fortitude" Kamisato Ayato (Hydro) | "Cat Upon the Eaves" Kirara (Dendro)
-^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Pillar of Fortitude" Kamisato Ayato (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Mender of Tribulations" Kuki Shinobu (Electro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Twilight Arbiter" - Boosted Drop Rate for "Judicator of Secrets" Cyno (Electro)!](archive/3890.md)
-## Event Wish - Twilight Arbiter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/a975d307a1e22d514afcf57132306b5b_965541614052886317.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server) | "Judicator of Secrets" Cyno (Electro) | "Cat Upon the Eaves" Kirara (Dendro)
-^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Judicator of Secrets" Cyno (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Mender of Tribulations" Kuki Shinobu (Electro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword)！](archive/3895.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/c35a0439589b2ce657162c1879e1ebe9_628866124430593193.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server)  | Staff of the Scarlet Sands (Polearm)   Haran Geppaku Futsu (Sword) | Lion's Roar (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | The Widsith (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword) will receive a huge drop-rate boost!
-
-● During the event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Staff of the Scarlet Sands (Polearm) or Haran Geppaku Futsu (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Masquerade of the Guilty" Version 4.2 Update Details](archive/3924.md)
 ## Version 4.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/475d890b6ebeb1a668d10c68642cad0b_1460485343471401976.png)
@@ -707,6 +528,161 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/3896.md)
+## "Genius Invokation TCG" Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/18b2877fead074c812136af570191a69_4881825835001648062.jpg)
+
+**〓Special Rules〓**
+
+In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+**〓Event Duration〓**
+
+2023/11/25 10:00:00 (server) – 2023/12/11 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/2fb571b31b0a649ac256841b48952dda_1029565364576487928.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["Thelxie's Fantastic Adventures" Event: Take Part to Invite "Yearning for Unseen Depths" Freminet (Cryo)](archive/3889.md)
+## Thelxie's Fantastic Adventures
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/61b57bd8fb9b0f8aac2b3548bcf7b011_6632996410033896568.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** |    **Event Content** |    **Start Time** | **End Time**  
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/11/23 10:00:00 (server) | 2023/12/11 03:59:59 (server)
+^ | Act II | 2023/11/25 04:00:00 (server) | ^
+^ | Act III | 2023/11/27 04:00:00 (server) | ^
+Gameplay Start Time | Motherboard Troubleshooting | 2023/11/23 10:00:00 (server) | ^
+^ | Record of the Search for Glory | ^ | ^
+^ | Purgation Counterstrike | 2023/11/25 04:00:00 (server) | ^
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/3f28af53d15d37761bbe5a1589dcb1e6_1701236872746283266.jpg)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+●  During the event, the following gameplay modes will unlock in sequence: Motherboard Troubleshooting, Record of the Search for Glory, and Purgation Counterstrike.
+
+●  In the "Motherboard Troubleshooting" gameplay, Travelers must set up circuits of limited length to guide the signal to its destination and adjust the motherboard to troubleshoot issues.
+
+●  In the "Record of the Search for Glory" gameplay, Travelers must play the Echoing Conch and head to the marked locations to collect the designated number of Iridescent Glories to complete the challenge.
+
+●  In the "Purgation Counterstrike" gameplay, Travelers must complete the combat challenges within the time limit. Use Prince Thelxie's "Water Imp's Chanson" to defeat opponents more easily.
+
+●  Complete the various gameplay modes to obtain Thelxie's Badges and reach a certain amount of Thelxie's Badges to invite "Yearning for Unseen Depths" Freminet (Cryo). You'll also be able to obtain Primogems, Crown of Insight, Hero's Wit, Character Talent Materials, Mystic Enhancement Ore, Mora, and other rewards.
+
+-----
+
+# [Event Wish "Azure Excursion" - Boosted Drop Rate for "Pillar of Fortitude" Kamisato Ayato (Hydro)!](archive/3891.md)
+## Event Wish - Azure Excursion
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/8b8e54826f77acaf3ffed7891e04f3b4_2518180600329304572.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server) | "Pillar of Fortitude" Kamisato Ayato (Hydro) | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Pillar of Fortitude" Kamisato Ayato (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Mender of Tribulations" Kuki Shinobu (Electro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Twilight Arbiter" - Boosted Drop Rate for "Judicator of Secrets" Cyno (Electro)!](archive/3890.md)
+## Event Wish - Twilight Arbiter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/a975d307a1e22d514afcf57132306b5b_965541614052886317.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server) | "Judicator of Secrets" Cyno (Electro) | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Judicator of Secrets" Cyno (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Mender of Tribulations" Kuki Shinobu (Electro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword)！](archive/3895.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/c35a0439589b2ce657162c1879e1ebe9_628866124430593193.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2023/11/28 18:00:00 (server) — 2023/12/19 14:59:59 (server)  | Staff of the Scarlet Sands (Polearm)   Haran Geppaku Futsu (Sword) | Lion's Roar (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event, the event-exclusive 5-star weapons Staff of the Scarlet Sands (Polearm) and Haran Geppaku Futsu (Sword) will receive a huge drop-rate boost!
+
+● During the event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Staff of the Scarlet Sands (Polearm) or Haran Geppaku Futsu (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Version Details - What's New ](archive/20162.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -776,6 +752,30 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 - Fixes an issue in Russian whereby there was a localization error in the quest objective text "Go to The Steambird" of the Archon Quest "Hunters, Prophets."
 
 - Fixes an issue in the Profile > Voice-Over page whereby some of Neuvillette's English voice-over lines were missing, as well as the text that did not reflect the voice-over lines accurately.
+
+-----
+
+# [Events Survey Now Open](archive/20196.md)
+## Events Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
+
+Dear Traveler,
+
+In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
+
+〓Survey Duration〓
+
+2023/12/01 10:00:00 (global) - 2023/12/04 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzkk71tB-seXZlJUP2c9jil0w53N_u8ySmVIcPWM887tK&game_biz=hk4e_global&surveyId=18665&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
