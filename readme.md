@@ -528,36 +528,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# ["Lil' Fungi's Fun-Tastic Fiesta" Event: Fungi Mechanicus Challenges](archive/3897.md)
-## Lil' Fungi's <br>Fun-Tastic Fiesta
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/45bc6265e0c40ae4c77b7d0bd4728b1a_5107586372100615433.jpg)
-
-**〓Event Duration〓**
-
-2023/12/06 10:00:00 (server) – 2023/12/18 03:59:59 (server)
-
-**〓Event Reward〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/10/16/5cbba9d52f58c0d9b75fb780ddf5e023_1585056250845059645.jpg)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the event begins, new challenge stages will be unlocked over time.
-
-● Command Lil' Fungi to defeat all opponents in the stage to complete the challenge.
-
-● Use Marvelous Gels to instruct the Lil' Fungi to unleash powerful skills. You will regain Marvelous Gels over time.
-
-● Each stage contains different challenge objectives. Complete said objectives to receive the corresponding rewards.
-
------
-
 # [Version Details - What's New ](archive/20162.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -627,6 +597,36 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 - Fixes an issue in Russian whereby there was a localization error in the quest objective text "Go to The Steambird" of the Archon Quest "Hunters, Prophets."
 
 - Fixes an issue in the Profile > Voice-Over page whereby some of Neuvillette's English voice-over lines were missing, as well as the text that did not reflect the voice-over lines accurately.
+
+-----
+
+# ["Lil' Fungi's Fun-Tastic Fiesta" Event: Fungi Mechanicus Challenges](archive/3897.md)
+## Lil' Fungi's <br>Fun-Tastic Fiesta
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/45bc6265e0c40ae4c77b7d0bd4728b1a_5107586372100615433.jpg)
+
+**〓Event Duration〓**
+
+2023/12/06 10:00:00 (server) – 2023/12/18 03:59:59 (server)
+
+**〓Event Reward〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/16/5cbba9d52f58c0d9b75fb780ddf5e023_1585056250845059645.jpg)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● After the event begins, new challenge stages will be unlocked over time.
+
+● Command Lil' Fungi to defeat all opponents in the stage to complete the challenge.
+
+● Use Marvelous Gels to instruct the Lil' Fungi to unleash powerful skills. You will regain Marvelous Gels over time.
+
+● Each stage contains different challenge objectives. Complete said objectives to receive the corresponding rewards.
 
 -----
 
