@@ -1,33 +1,3 @@
-# ["Lil' Fungi's Fun-Tastic Fiesta" Event: Fungi Mechanicus Challenges](archive/3897.md)
-## Lil' Fungi's <br>Fun-Tastic Fiesta
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/45bc6265e0c40ae4c77b7d0bd4728b1a_5107586372100615433.jpg)
-
-**〓Event Duration〓**
-
-2023/12/06 10:00:00 (server) – 2023/12/18 03:59:59 (server)
-
-**〓Event Reward〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/10/16/5cbba9d52f58c0d9b75fb780ddf5e023_1585056250845059645.jpg)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the event begins, new challenge stages will be unlocked over time.
-
-● Command Lil' Fungi to defeat all opponents in the stage to complete the challenge.
-
-● Use Marvelous Gels to instruct the Lil' Fungi to unleash powerful skills. You will regain Marvelous Gels over time.
-
-● Each stage contains different challenge objectives. Complete said objectives to receive the corresponding rewards.
-
------
-
 # ["Masquerade of the Guilty" Version 4.2 Update Details](archive/3924.md)
 ## Version 4.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/475d890b6ebeb1a668d10c68642cad0b_1460485343471401976.png)
@@ -555,6 +525,36 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Lil' Fungi's Fun-Tastic Fiesta" Event: Fungi Mechanicus Challenges](archive/3897.md)
+## Lil' Fungi's <br>Fun-Tastic Fiesta
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/45bc6265e0c40ae4c77b7d0bd4728b1a_5107586372100615433.jpg)
+
+**〓Event Duration〓**
+
+2023/12/06 10:00:00 (server) – 2023/12/18 03:59:59 (server)
+
+**〓Event Reward〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/16/5cbba9d52f58c0d9b75fb780ddf5e023_1585056250845059645.jpg)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● After the event begins, new challenge stages will be unlocked over time.
+
+● Command Lil' Fungi to defeat all opponents in the stage to complete the challenge.
+
+● Use Marvelous Gels to instruct the Lil' Fungi to unleash powerful skills. You will regain Marvelous Gels over time.
+
+● Each stage contains different challenge objectives. Complete said objectives to receive the corresponding rewards.
 
 -----
 
