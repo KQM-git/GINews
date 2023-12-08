@@ -600,6 +600,24 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 
 -----
 
+# [A Thank-You Letter to All Travelers](archive/20216.md)
+## A Thank-You Letter to All Travelers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/08/13ad27bb6e99c017a97ba4abdce42fa6_3653102127520303273.jpg)
+
+Dear Travelers,
+
+Thanks to your support, Genshin Impact was nominated for the "Best Ongoing" category at The Game Awards 2023. Thank you for coming alongside us through this journey!
+
+As a token of our gratitude, we will be giving away a total of Primogems ×800 from December 09 – 12.
+
+*How to Claim Rewards:
+
+Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 09 – 12.
+
+These Primogems can be claimed at any time before the end of Version 4.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
 # ["Lil' Fungi's Fun-Tastic Fiesta" Event: Fungi Mechanicus Challenges](archive/3897.md)
 ## Lil' Fungi's <br>Fun-Tastic Fiesta
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/45bc6265e0c40ae4c77b7d0bd4728b1a_5107586372100615433.jpg)
