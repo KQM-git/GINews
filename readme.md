@@ -897,44 +897,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 27 Available for a Limited Time](archive/3884.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/5d7e0ff7016d94d8801c0e5d34e8866c_50357837651799322.jpg)
-
-Round 27 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 4.2 update – 2023/11/22 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 4.2 update – 2023/11/22 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
-**〓Adventurer's Special Supply Bundle〓**
-
-Duration: 2023/11/23 00:00:00 (server) – 2023/12/08 23:59:59 (server)
-
-Bundle Contents: Hero's Wit ×12, Mora ×10,000
-
-Bundle Price: Now 50% off for a limited time! The price after discount is 80 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/3901.md)
 ## New Version 4.2 Genshin Impact Tool Content
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/08/0a816bdc63583aa099878a7e3f3581f2_4903749445502380122.jpg)
