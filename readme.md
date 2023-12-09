@@ -600,6 +600,20 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 
 -----
 
+# [Genshin Impact Version 4.3 Preview](archive/20210.md)
+## The Version 4.3 "Roses and Muskets" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/08/998f2edea02dc83860ffcef37046d275_2054462705430369100.jpg)
+
+Dear Travelers,
+
+The Version 4.3 "Roses and Muskets" Preview page is here!
+
+[>>>>Go to V4.3 "Roses and Muskets" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20231209preview-yh731z/index.html?game_biz=hk4e_global&mode=fullscreen&sign_type=2&auth_appid=e20231209warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # [A Thank-You Letter to All Travelers](archive/20216.md)
 ## A Thank-You Letter to All Travelers
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/08/13ad27bb6e99c017a97ba4abdce42fa6_3653102127520303273.jpg)
@@ -984,6 +998,26 @@ Festive Furnishing "Sublime Crane Feather Strings" ×1
 ● Now 40% off for a limited time! The price after discount is 1,280 Genesis Crystals. The Bundle can only be purchased once.
 
 ● Travelers who have already obtained Festive Wind Glider "Wings of Transient Dreams" and Festive Namecard "Celebration: Euphonia" can only obtain Primogems and the Festive Furnishing "Sublime Crane Feather Strings" upon purchase of the bundle.
+
+-----
+
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2023/12/11 04:00:00 (server) – 2023/12/18 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
