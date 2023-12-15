@@ -600,6 +600,16 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 
 -----
 
+# [Version 4.3 Genius Invokation TCG Content Display Page Now Available!](archive/20224.md)
+## Version 4.3 Genius Invokation TCG Content Display Page Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/13/999549106133e0e481d0889e7e1d8787_3407821106263778571.png)
+
+[>> Click to view the Version 4.3 Genius Invokation TCG Content Display Page <<](https://act.hoyoverse.com/puzzle/hk4e/pz_FdrG7CdCqL/index.html?hyl_presentation_style=fullscreen)
+
+Greetings, Traveler! Genius Invokation TCG's all-new version, Radiant Secrets, is now available! Head to the Version 4.3 Genius Invokation TCG Content Display Page to check out new cards and gameplay~
+
+-----
+
 # [Version Satisfaction Survey Now Open](archive/20221.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
