@@ -600,6 +600,18 @@ Fixes an issue under certain circumstances whereby the number of "Returning Comp
 
 -----
 
+# ["Genshin Impact Orchestral Concert 2023" Official Shanghai Performance Recording Now Available](archive/20200.md)
+## "Genshin Impact Orchestral Concert 2023" Shanghai Performance Recording Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/cb8eb770f5d6d5dcdbf8bea55734dae2_4798511176497132887.jpg)
+
+[>> Click here to watch the "Genshin Impact Orchestral Concert 2023" Official Shanghai Performance Recording <<](https://youtu.be/RgcOQo-Ty_I)
+
+A new chapter unfolds in the world of mortals. Traveler, join us in this dreamlike symphony of friendship!
+
+Head over to the official Genshin Impact YouTube channel to watch the "Genshin Impact Orchestral Concert 2023" Official Shanghai Performance Recording.
+
+-----
+
 # [Version 4.3 Genius Invokation TCG Content Display Page Now Available!](archive/20224.md)
 ## Version 4.3 Genius Invokation TCG Content Display Page Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/13/999549106133e0e481d0889e7e1d8787_3407821106263778571.png)
