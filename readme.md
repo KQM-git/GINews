@@ -668,36 +668,6 @@ These Primogems can be claimed at any time before the end of Version 4.3. All Tr
 
 -----
 
-# ["Lil' Fungi's Fun-Tastic Fiesta" Event: Fungi Mechanicus Challenges](archive/3897.md)
-## Lil' Fungi's <br>Fun-Tastic Fiesta
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/09/45bc6265e0c40ae4c77b7d0bd4728b1a_5107586372100615433.jpg)
-
-**〓Event Duration〓**
-
-2023/12/06 10:00:00 (server) – 2023/12/18 03:59:59 (server)
-
-**〓Event Reward〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/10/16/5cbba9d52f58c0d9b75fb780ddf5e023_1585056250845059645.jpg)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the event begins, new challenge stages will be unlocked over time.
-
-● Command Lil' Fungi to defeat all opponents in the stage to complete the challenge.
-
-● Use Marvelous Gels to instruct the Lil' Fungi to unleash powerful skills. You will regain Marvelous Gels over time.
-
-● Each stage contains different challenge objectives. Complete said objectives to receive the corresponding rewards.
-
------
-
 # [A Thank-You Letter to All Travelers](archive/20194.md)
 ## A Thank-You Letter to All Travelers
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/01/13ad27bb6e99c017a97ba4abdce42fa6_6481898907836233561.jpg)
@@ -852,30 +822,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Whirling Waltz" Event Details](archive/3885.md)
-## Whirling Waltz
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/cfe67a2ba81f0a1595371e3ec700c67c_7637652087208935675.jpg)
-
-Travelers can earn rich rewards in "Whirling Waltz" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Whirling Waltz" and Furnishing Blueprint "Model Contraption: Rockcracker Anchor."
-
-**〓Event Duration〓**
-
-After the Version 4.2 update – 2023/12/18 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/12/18 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # [New Story Unlocked - Archon Quest Chapter IV: Act V](archive/3899.md)
 ## New Story Unlocked - Archon Quest Chapter IV: Act V
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/02/f7674eb4c8f2af8a3aa64a9d548b0f21_6019535959419295749.jpg)
@@ -925,26 +871,6 @@ Festive Furnishing "Sublime Crane Feather Strings" ×1
 ● Now 40% off for a limited time! The price after discount is 1,280 Genesis Crystals. The Bundle can only be purchased once.
 
 ● Travelers who have already obtained Festive Wind Glider "Wings of Transient Dreams" and Festive Namecard "Celebration: Euphonia" can only obtain Primogems and the Festive Furnishing "Sublime Crane Feather Strings" upon purchase of the bundle.
-
------
-
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2023/12/11 04:00:00 (server) – 2023/12/18 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
