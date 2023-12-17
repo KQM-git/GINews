@@ -612,16 +612,6 @@ Head over to the official Genshin Impact YouTube channel to watch the "Genshin I
 
 -----
 
-# [Version 4.3 Genius Invokation TCG Content Display Page Now Available!](archive/20224.md)
-## Version 4.3 Genius Invokation TCG Content Display Page Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/13/999549106133e0e481d0889e7e1d8787_3407821106263778571.png)
-
-[>> Click to view the Version 4.3 Genius Invokation TCG Content Display Page <<](https://act.hoyoverse.com/puzzle/hk4e/pz_FdrG7CdCqL/index.html?hyl_presentation_style=fullscreen)
-
-Greetings, Traveler! Genius Invokation TCG's all-new version, Radiant Secrets, is now available! Head to the Version 4.3 Genius Invokation TCG Content Display Page to check out new cards and gameplay~
-
------
-
 # [Version Satisfaction Survey Now Open](archive/20221.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
@@ -883,44 +873,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2023/12/18 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/3901.md)
-## New Version 4.2 Genshin Impact Tool Content
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/08/0a816bdc63583aa099878a7e3f3581f2_4903749445502380122.jpg)
-
-Dear Travelers,
-
-Genshin Impact Version 4.2 is here, with new areas and characters from Fontaine waiting for you! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.2. Let's take a look~
-
-| Teyvat Interactive Map Update: Adds the new areas in Fontaine as well as route update notices.
-
-2 new areas become available in Version 4.2: Morte Region and Erinnyes Forest. Pins and other information for said areas will also be added to the Interactive Map.
-
-Related explanations for updated pins and routes will also be added to the notices section of the Interactive Map to help keep Travelers informed about updates.
-
-[>>Click to View the Teyvat Interactive Map<<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-
-| Battle Chronicle Update: Deck Sharing Codes have been added to the Genius Invokation TCG module, which can be shared to the Card Plaza.
-
-Travelers can share their decks in the Genius Invokation TCG module of the Battle Chronicle tool. They'll also be able to publish and discuss them with other players in the Card Plaza.
-
-With the arrival of Version 4.2's new event in Fontaine, "Thelxie's Fantastic Adventures," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
-
-[>>Click to View Battle Chronicle<<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Furina and Charlotte.
-
-[>>Click to Use the Enhancement Progression Calculator<<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Furina and Charlotte.
-
-[>>Click to Use the Lineup Simulator<<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
-| Card Plaza Update: Supports importing, configuring, and exporting in-game decks.
-
-[>>Click to Go to Card Plaza<<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
