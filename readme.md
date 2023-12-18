@@ -856,44 +856,6 @@ Head over to the official Genshin Impact YouTube channel to watch the "Genshin I
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/20221.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2023/12/15 10:00:00 (global) - 2023/12/18 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzk-V5sR-seXZlJUP2c9jilFqBucK2m99qPkWHm8LmqkS&game_biz=hk4e_global&surveyId=19020&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# [Genshin Impact Version 4.3 Preview](archive/20210.md)
-## The Version 4.3 "Roses and Muskets" Preview page is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/08/998f2edea02dc83860ffcef37046d275_2054462705430369100.jpg)
-
-Dear Travelers,
-
-The Version 4.3 "Roses and Muskets" Preview page is here!
-
-[>>>>Go to V4.3 "Roses and Muskets" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20231209preview-yh731z/index.html?game_biz=hk4e_global&mode=fullscreen&sign_type=2&auth_appid=e20231209warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # [A Thank-You Letter to All Travelers](archive/20216.md)
 ## A Thank-You Letter to All Travelers
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/08/13ad27bb6e99c017a97ba4abdce42fa6_3653102127520303273.jpg)
