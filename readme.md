@@ -1052,34 +1052,6 @@ After the Version 4.2 update, Archon Quest Chapter IV: Act V "Masquerade of the 
 
 -----
 
-# ["Resounding Melodies" Music Bundle Available for a Limited Time](archive/3815.md)
-## Resounding Melodies
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/3b5302df6aa7b56614573895d06ade27_4288230426329787759.jpg)
-
-The "Resounding Melodies" Music Bundle is available for a limited time in the Shop!
-
-**〓Duration〓**
-
-2023/10/30 12:00:00 (server) – 2023/12/19 06:00:00 (server)
-
-**〓Bundle Contents〓**
-
-Primogems ×1,000
-
-Festive Wind Glider "Wings of Transient Dreams" ×1
-
-Festive Namecard "Celebration: Euphonia" ×1
-
-Festive Furnishing "Sublime Crane Feather Strings" ×1
-
-**〓Bundle Description〓**
-
-● Now 40% off for a limited time! The price after discount is 1,280 Genesis Crystals. The Bundle can only be purchased once.
-
-● Travelers who have already obtained Festive Wind Glider "Wings of Transient Dreams" and Festive Namecard "Celebration: Euphonia" can only obtain Primogems and the Festive Furnishing "Sublime Crane Feather Strings" upon purchase of the bundle.
-
------
-
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
