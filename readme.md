@@ -1,3 +1,27 @@
+# [Version 4.3 Update Maintenance Preview](archive/20230.md)
+## Version 4.3 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/c941908b14dcaf160083796a10645f89_5476036773563150783.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2023/12/20 06:00:00 (global). Please stay tuned to related game update information.
+
+<details open="true">
+<summary>Version 4.3 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/1512ad06362dc7bf06e8d55e47cd95a4_2004914365534666926.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/79d1632586379334a3e9fef6240e82b6_1293524264882021467.jpg)
+
+</details>
+
+-----
+
 # ["Masquerade of the Guilty" Version 4.2 Update Details](archive/3924.md)
 ## Version 4.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/475d890b6ebeb1a668d10c68642cad0b_1460485343471401976.png)
