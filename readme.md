@@ -22,6 +22,226 @@ Our developers are expected to begin performing update maintenance at 2023/12/20
 
 -----
 
+# ["Gazing Up at Eternity, Looking Down at the World" Event: Take Part to Obtain the Furnishing "Bronze Curio: Ancient Golden Visage"](archive/20177.md)
+## Gazing Up at Eternity, Looking Down at the World
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/a9e70d60de164dcb57c98c4b5c5f4135_3965591567544626310.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 4.3
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/e65c629ba42f56852deb4516213dc778_7363957777125604827.png)
+
+〓Eligibility〓
+
+Adventure Rank 5 or above
+
+〓Event Details〓
+
+Genshin Impact X Sanxingdui Museum Collaboration Event is now available!
+
+Reach Adventure Rank 5 or above to claim the event-exclusive Furnishing "Bronze Curio: Ancient Golden Visage" from the event page!
+
+※ You can only claim the reward for this event once.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20180.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/7c1b771e1ae3a4d32e4678b313edf881_851593929772673234.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.3
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_4593027598542148414.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 5 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
+# [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/20237.md)
+## Event Wish - In the Name of the Rosula
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/f6729ee76facdd9b8353db77f2f03917_5204111025938517456.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.3 update — 2024/01/09 17:59:00 (server) | "Helm of the Radiant Rose" Navia (Geo) | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Golden Vow" Candace (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Helm of the Radiant Rose" Navia (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Harmless Sweetie" Sucrose (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Golden Vow" Candace (Hydro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!](archive/20238.md)
+## Event Wish - The Heron's Court
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/42c7555482908952de3a86ec7625ce25_3277499613751273317.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.3 update — 2024/01/09 17:59:00 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+^ | ^ | "Golden Vow" Candace (Hydro)
+
+● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Harmless Sweetie" Sucrose (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Golden Vow" Candace (Hydro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Verdict (Claymore) and Mistsplitter Reforged (Sword)!](archive/20175.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/5650c4e04a233a5808cf7da687204acb_3689949435450712687.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 4.3 update — 2024/01/09 17:59:00 (server) | Verdict (Claymore)   Mistsplitter Reforged (Sword) | Akuoumaru (Claymore)
+^ | ^ | Mouun's Moon (Bow)
+^ | ^ | The Flute (Sword)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+
+● During the event wish, the event-exclusive 5-star weapons Verdict (Claymore) and Mistsplitter Reforged (Sword) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapons Akuoumaru (Claymore) and Mouun's Moon (Bow) as well as the 4-star weapons The Flute (Sword), Dragon's Bane (Polearm), and Favonius Codex (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Verdict (Claymore) or Mistsplitter Reforged (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+-----
+
+# ["Fontinalia" Event Details](archive/20179.md)
+## Fontinalia
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/2f3ec451a4cd6c79f5777b43a86373fd_3945801576926235021.png)
+
+Travelers can earn rich rewards in "Fontinalia" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Time Inscribed" and Furnishing Blueprint "Common-Use Note Holder."
+
+**〓Event Duration〓**
+
+After the Version 4.3 update – 2024/01/29 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/01/29 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Rosa Multiflora Chapter" Story Quest Overview](archive/20176.md)
+## Rosa Multiflora Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/f067bded15181f21f8e053b7e740cf02_8571331550879375048.png)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Navia's Story Quest "Rosa Multiflora Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.3 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 28 Available for a Limited Time](archive/20178.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/86c410769e57d8c7e0d549cc979f8118_236163050935397053.png)
+
+Round 28 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 4.3 update – 2024/01/03 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 4.3 update – 2024/01/03 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Tempering Bundle〓**
+
+Duration: After the Version 4.3 update – 2024/01/03 23:59:59 (server)
+
+Bundle Contents: Eminent Share Bundle ×10, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 120 Genesis Crystals. Can be purchased up to five times in total.
+
+※ Eminent Share Bundle: After usage, you can select any one 3-star Weapon Ascension Material from all the options available in the current Version.
+
+-----
+
 # ["Masquerade of the Guilty" Version 4.2 Update Details](archive/3924.md)
 ## Version 4.2 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/475d890b6ebeb1a668d10c68642cad0b_1460485343471401976.png)
