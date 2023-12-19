@@ -317,38 +317,6 @@ Permanent
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/3886.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/25/eb663fec3e072bc3d00f8e9465e155b9_3622381664022293491.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.2
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/2fb571b31b0a649ac256841b48952dda_1029565364576487928.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
-
-● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
