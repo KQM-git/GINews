@@ -467,6 +467,78 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 
 -----
 
+# [Genshin Impact X Sanxingdui Museum Collaboration Web Event "Ancient Treasures Unearthed"](archive/20208.md)
+## Genshin Impact X Sanxingdui Museum Collaboration Web Event "Ancient Treasures Unearthed"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/18/f99ea1b6cd9b03f87ba6f932bf98ca7f_8672563068340412679.jpg)
+
+"If you're free for the day, perhaps we could take a stroll together?"
+
+Iron Tongue Tian has recently finished writing a new story. Enjoy some leisure time with Zhongli as you listen to the story, look through the pictures, and choose relics together.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20231220sanxingdui/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20231220sanxingdui&authkey_ver=1&utm_source=genshiningame&utm_medium=notice)
+
+〓Event Duration〓
+
+2023/12/20 18:00:00 (global) – 2024/01/02 23:59:59 (global)
+
+〓Event Summary〓
+
+During the event, click to view the relic descriptions and find the one that best matches the descriptions. Once you have identified all four relics, share this event to obtain Primogems and in-game rewards.
+
+〓Event Rewards〓
+
+Primogems ×40, Mora ×20,000, and Adventurer's Experience ×3
+
+〓Friendly Reminders〓
+
+- Players must reach Adventure Rank 10 or above to take part and claim rewards from the event.
+
+- Once you have identified all four relics and shared this event, the in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
+# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20198.md)
+## New Version 4.3 Genshin Impact Tool Content
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/ceb8f25f4f1952648374792f616f25d7_6935786717679829702.png)
+
+Dear Travelers,
+
+Genshin Impact Version 4.3 is here, heralding the arrival of the new character Navia! Limited-time version events are in full swing too! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.3. Let's take a look~
+
+| Teyvat Interactive Map Update: Adds recommended Ascension Material harvest routes for Navia.
+
+Optimizes the Teyvat Interactive Map's loading and rendering times, reducing lag and the amount of time it takes to open.
+
+Recommended Ascension Material harvest routes for the new character Navia have been added too, so come check them out~
+
+(Recommended Ascension Material harvest routes for Chevreuse will be updated when the Limited-Time Wish becomes available on January 9.)
+
+[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Battle Chronicle Update: Adds the Navigation module to the homepage，and allows you to display your progress in the Main Storyline in Real-Time Notes.
+
+Adds the Navigation module to the Battle Chronicle homepage, allowing Travelers to reach different modules in the Battle Chronicle with the click of a button.
+
+With the arrival of Version 4.3's new event in Fontaine, "Dance of Resolute Will," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
+
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Navia and Chevreuse. (The enhancement progression calculation for Chevreuse will be updated when the Limited-Time Wish becomes available on January 9.)
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Navia and Chevreuse. (Lineup queries for Chevreuse will be updated when the Limited-Time Wish becomes available on January 9.)
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+| Card Plaza Update: Adds brand-new Character and Boss Cards.
+
+Adds 6 new Character Cards, including Lyney and Lynette, as well as more than 30 Action Cards and loads of new Monster Cards. Come check them out now!
+
+[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # ["Roses and Muskets" Event: Take Part and Obtain the Event-Exclusive Weapon, Ultimate Overlord's Mega Magic Sword (Claymore)](archive/20181.md)
 ## Roses and Muskets
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/639b408b51ce8f4df6ea703922af0ee7_4380571057869040578.png)
