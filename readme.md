@@ -600,7 +600,7 @@ After the Version 4.3 update — 2024/01/09 17:59:00 (server) | "Helm of the Rad
 
 # [Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!](archive/20238.md)
 ## Event Wish - The Heron's Court
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/42c7555482908952de3a86ec7625ce25_3277499613751273317.png)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/20/dd8935ec9cdc5f4f87309bb49a65169a_4585325900903477035.png)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
