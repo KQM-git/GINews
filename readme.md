@@ -467,6 +467,20 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 
 -----
 
+# [Version Details - What's New ](archive/20258.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓2023/12/21 16:30:00 (global) Update Details〓
+
+Fixes an issue whereby there were abnormalities with the pathfinding logic of enemies in Floor 11 and 12 of the Spiral Abyss upon being obstructed after the Version 4.3 update.
+
+-----
+
 # [Genshin Impact X Sanxingdui Museum Collaboration Web Event "Ancient Treasures Unearthed"](archive/20208.md)
 ## Genshin Impact X Sanxingdui Museum Collaboration Web Event "Ancient Treasures Unearthed"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/18/f99ea1b6cd9b03f87ba6f932bf98ca7f_8672563068340412679.jpg)
