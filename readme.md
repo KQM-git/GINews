@@ -481,6 +481,18 @@ Fixes an issue whereby there were abnormalities with the pathfinding logic of en
 
 -----
 
+# [GENSHIN CONCERT 2023 "Melodies of an Endless Journey" Now Available](archive/20244.md)
+## GENSHIN CONCERT 2023 "Melodies of an Endless Journey"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/20/bb967929066796b75685562ccb2169d9_8555100108493457149.jpg)
+
+[>> Click here to watch GENSHIN CONCERT 2023 "Melodies of an Endless Journey" <<](https://youtu.be/SC57e3VB_ZQ)
+
+As you step forward into the unknown, the Melodies of an Endless Journey continue to ring out around you...
+
+Head over to the official Genshin Impact YouTube channel to watch GENSHIN CONCERT 2023 "Melodies of an Endless Journey."
+
+-----
+
 # [Genshin Impact X Sanxingdui Museum Collaboration Web Event "Ancient Treasures Unearthed"](archive/20208.md)
 ## Genshin Impact X Sanxingdui Museum Collaboration Web Event "Ancient Treasures Unearthed"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/18/f99ea1b6cd9b03f87ba6f932bf98ca7f_8672563068340412679.jpg)
