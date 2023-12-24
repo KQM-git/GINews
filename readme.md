@@ -475,6 +475,12 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓2023/12/24 19:30:00 (global) Update Details〓
+
+Fixes an issue under certain circumstances whereby the quest objective "Talk to Chevreuse" in the Story Quest "Where the Roses Bloom" could not be completed as the character could not enter the warehouse.
+
+Travelers affected by the issue can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
 〓2023/12/21 16:30:00 (global) Update Details〓
 
 Fixes an issue whereby there were abnormalities with the pathfinding logic of enemies in Floor 11 and 12 of the Spiral Abyss upon being obstructed after the Version 4.3 update.
