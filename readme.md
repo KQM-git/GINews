@@ -692,36 +692,6 @@ Reach Adventure Rank 5 or above to claim the event-exclusive Furnishing "Bronze 
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20180.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/7c1b771e1ae3a4d32e4678b313edf881_851593929772673234.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.3
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_4593027598542148414.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 5 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
-
------
-
 # [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/20237.md)
 ## Event Wish - In the Name of the Rosula
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/f6729ee76facdd9b8353db77f2f03917_5204111025938517456.png)
@@ -825,6 +795,36 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/01/29 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20180.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/7c1b771e1ae3a4d32e4678b313edf881_851593929772673234.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.3
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_4593027598542148414.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 5 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
