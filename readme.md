@@ -622,18 +622,6 @@ Share your Blessing Card on social media with the event hashtag to take part in 
 
 -----
 
-# [GENSHIN CONCERT 2023 "Melodies of an Endless Journey" Now Available](archive/20244.md)
-## GENSHIN CONCERT 2023 "Melodies of an Endless Journey"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/20/bb967929066796b75685562ccb2169d9_8555100108493457149.jpg)
-
-[>> Click here to watch GENSHIN CONCERT 2023 "Melodies of an Endless Journey" <<](https://youtu.be/SC57e3VB_ZQ)
-
-As you step forward into the unknown, the Melodies of an Endless Journey continue to ring out around you...
-
-Head over to the official Genshin Impact YouTube channel to watch GENSHIN CONCERT 2023 "Melodies of an Endless Journey."
-
------
-
 # [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20198.md)
 ## New Version 4.3 Genshin Impact Tool Content
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/ceb8f25f4f1952648374792f616f25d7_6935786717679829702.png)
@@ -893,18 +881,6 @@ Bundle Contents: Eminent Share Bundle ×10, Mora ×60,000
 Bundle Price: Now 50% off for a limited time! The price after discount is 120 Genesis Crystals. Can be purchased up to five times in total.
 
 ※ Eminent Share Bundle: After usage, you can select any one 3-star Weapon Ascension Material from all the options available in the current Version.
-
------
-
-# ["Genshin Impact Orchestral Concert 2023" Official Shanghai Performance Recording Now Available](archive/20200.md)
-## "Genshin Impact Orchestral Concert 2023" Shanghai Performance Recording Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/cb8eb770f5d6d5dcdbf8bea55734dae2_4798511176497132887.jpg)
-
-[>> Click here to watch the "Genshin Impact Orchestral Concert 2023" Official Shanghai Performance Recording <<](https://youtu.be/RgcOQo-Ty_I)
-
-A new chapter unfolds in the world of mortals. Traveler, join us in this dreamlike symphony of friendship!
-
-Head over to the official Genshin Impact YouTube channel to watch the "Genshin Impact Orchestral Concert 2023" Official Shanghai Performance Recording.
 
 -----
 
