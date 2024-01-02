@@ -576,42 +576,6 @@ Fixes an issue whereby there were abnormalities with the pathfinding logic of en
 
 -----
 
-# [Web Event "A Little Stroll Backstage" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/20206.md)
-## Web Event "A Little Stroll Backstage" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/22/40ba0ca60f47782dcaa4a1daeb55e59f_6174266343542791039.jpg)
-
-Films are a medium for our very own, exclusive travel memories~
-
-Come create some scenes of your own!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20231227filmfest-qw321w/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20231227movie&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2023/12/27 – 2024/01/02 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 20 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, you can log in to Genshin Impact daily, claim Commission Rewards, consume Original Resin, and complete other missions to obtain Film. Film can be used to unlock different filming stages, which can be accessed to set up themed scenes. Finish designing different scenes for filming to obtain Primogems and other rewards.
-
-〓Event Rewards〓
-
-1. After the first time you clear each stage, you'll be able to claim the corresponding rewards.
-
-2. Rewards include: Primogems ×120, Hero's Wit ×8, Sanctifying Unction ×5, Mystic Enhancement Ore ×8, and Mora ×60,000.
-
-*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Web Event "Melusines' Survey" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/20218.md)
 ## Web Event "Melusines' Survey" Now Online
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/18/898b7685188fa6f3d3b7f2805cb4bef5_5146745564361203740.png)
