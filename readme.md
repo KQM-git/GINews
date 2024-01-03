@@ -576,6 +576,26 @@ Fixes an issue whereby there were abnormalities with the pathfinding logic of en
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20264.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Web Event "Melusines' Survey" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/20218.md)
 ## Web Event "Melusines' Survey" Now Online
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/18/898b7685188fa6f3d3b7f2805cb4bef5_5146745564361203740.png)
@@ -895,26 +915,6 @@ As a token of our gratitude, we will be giving away a total of Primogems ×800 f
 Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 09 – 12.
 
 These Primogems can be claimed at any time before the end of Version 4.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/20192.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
