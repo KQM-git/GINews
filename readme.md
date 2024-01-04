@@ -1,3 +1,37 @@
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
+
+**〓Special Rules〓**
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+**〓Event Duration〓**
+
+2024/01/06 10:00:00 (server) – 2024/01/22 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_7962808658039951065.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Lost Riches" Event: Trade Treasure for Mini Seelie](archive/20182.md)
 ## Lost Riches
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/d8eb0359b7e3d8cdff85c1c737925adf_7334334116165513987.png)
