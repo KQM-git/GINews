@@ -64,6 +64,66 @@ Unlock any Statue of The Seven in Fontaine
 
 -----
 
+# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20184.md)
+## Event Wish - Reign of Serenity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/c46c028ac9be76d6b36f3a17ed8d96af_5548682959286961124.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | "Plane of Euthymia" Raiden Shogun (Electro) | "Executor of Justice" Chevreuse (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Executor of Justice" Chevreuse (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Executor of Justice" Chevreuse (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!](archive/20185.md)
+## Event Wish - Tapestry of Golden Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/bd3c3fdd5a0f214a11f66b3757a24c2d_3813748996349287752.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Executor of Justice" Chevreuse (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Executor of Justice" Chevreuse (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Executor of Justice" Chevreuse (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Version 4.3 New Content Overview](archive/20252.md)
 ## Version 4.3 New Content Overview
 
@@ -530,6 +590,34 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and Thundering Pulse (Bow)!](archive/20188.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/16e9cf7cfb7925015580d97d04d3616d_2925945064750276659.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | Engulfing Lightning (Polearm)   Thundering Pulse (Bow) | Wavebreaker's Fin (Polearm)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Engulfing Lightning (Polearm) and Thundering Pulse (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Wavebreaker's Fin (Polearm) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Engulfing Lightning (Polearm) or Thundering Pulse (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
