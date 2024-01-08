@@ -1,3 +1,31 @@
+# ["Dance of Resolute Will" Event: Discover the Essence of Elegance in the Midst of a Dance of Blades](archive/20189.md)
+## Dance of Resolute Will
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/2b6b02a320f99cec4dfee4bf07b4a7c6_7454736272800086559.png)
+
+**〓Event Duration〓**
+
+2024/01/10 10:00:00 (server) – 2024/01/22 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/378d652c75a54d30eef4a21a65ab8e0d_3854607093092359996.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● The "Dance of Resolute Will" event comprises 5 challenges. After the event begins, a challenge stage will unlock every day, with each one containing 2 combat rounds.
+
+● Lineups must be decided before the challenge. Both parties must share a character, while all other characters can only be used once.
+
+● After you complete a Blade Dance objective during a challenge, you will obtain the Heightened Verve buff. While Heightened Verve is active, different opponent types will spawn, and defeating them will net you more points. Once that buff expires, you can once again complete a Blade Dance objective to regain the buff.
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
