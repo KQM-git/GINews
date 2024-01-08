@@ -621,34 +621,6 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and Thundering Pulse (Bow)!](archive/20188.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/16e9cf7cfb7925015580d97d04d3616d_2925945064750276659.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | Engulfing Lightning (Polearm)   Thundering Pulse (Bow) | Wavebreaker's Fin (Polearm)
-^ | ^ | Favonius Sword (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During the event wish, the event-exclusive 5-star weapons Engulfing Lightning (Polearm) and Thundering Pulse (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapon Wavebreaker's Fin (Polearm) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Engulfing Lightning (Polearm) or Thundering Pulse (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Version Details - What's New ](archive/20258.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -678,6 +650,34 @@ Travelers affected by the issue can log out via the Paimon Menu and close the ga
 〓2023/12/21 16:30:00 (global) Update Details〓
 
 Fixes an issue whereby there were abnormalities with the pathfinding logic of enemies in Floor 11 and 12 of the Spiral Abyss upon being obstructed after the Version 4.3 update.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and Thundering Pulse (Bow)!](archive/20188.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/16e9cf7cfb7925015580d97d04d3616d_2925945064750276659.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | Engulfing Lightning (Polearm)   Thundering Pulse (Bow) | Wavebreaker's Fin (Polearm)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Engulfing Lightning (Polearm) and Thundering Pulse (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Wavebreaker's Fin (Polearm) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Engulfing Lightning (Polearm) or Thundering Pulse (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
