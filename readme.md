@@ -1,157 +1,3 @@
-# ["Dance of Resolute Will" Event: Discover the Essence of Elegance in the Midst of a Dance of Blades](archive/20189.md)
-## Dance of Resolute Will
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/2b6b02a320f99cec4dfee4bf07b4a7c6_7454736272800086559.png)
-
-**〓Event Duration〓**
-
-2024/01/10 10:00:00 (server) – 2024/01/22 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/378d652c75a54d30eef4a21a65ab8e0d_3854607093092359996.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● The "Dance of Resolute Will" event comprises 5 challenges. After the event begins, a challenge stage will unlock every day, with each one containing 2 combat rounds.
-
-● Lineups must be decided before the challenge. Both parties must share a character, while all other characters can only be used once.
-
-● After you complete a Blade Dance objective during a challenge, you will obtain the Heightened Verve buff. While Heightened Verve is active, different opponent types will spawn, and defeating them will net you more points. Once that buff expires, you can once again complete a Blade Dance objective to regain the buff.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
-
-**〓Special Rules〓**
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-**〓Event Duration〓**
-
-2024/01/06 10:00:00 (server) – 2024/01/22 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_7962808658039951065.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# ["Lost Riches" Event: Trade Treasure for Mini Seelie](archive/20182.md)
-## Lost Riches
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/d8eb0359b7e3d8cdff85c1c737925adf_7334334116165513987.png)
-
-**〓Event Duration〓**
-
-2024/01/02 10:00:00 (server) – 2024/01/15 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/f3dfd2051e5db334da398359cc05b2a8_5874286358480467819.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Unlock any Statue of The Seven in Fontaine
-
-**〓Event Details〓**
-
-● During the event, check the treasure map within Ulman's Treasure Book. Follow the map to reach the area where the treasure is buried. Ulman will mark out one new area in this book each day, for a total of 6 treasure areas.
-
-● Help the Treasure-Seeking Seelie absorb energy in various ways in the treasure area to help it restore vitality. For every 3 instances of elemental energy obtained, the Treasure-Seeking Seelie will indicate the whereabouts of the treasure once.
-
-● Dig in a treasure area to find the treasure chest and claim the "Ancient Iron Coins" within.
-
-● During the event, you can exchange "Ancient Iron Coins" for materials in the Event Shop. After the event ends, your remaining "Ancient Iron Coins" will disappear.
-
-※ Upon completing Area 6, the Event Shop will open for the redemption of "Mini Seelie: Brilliance," "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma." During this event, Travelers may only exchange for one type, after which the remaining five will no longer be available. Each Mini Seelie can only be obtained once.
-
------
-
-# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20184.md)
-## Event Wish - Reign of Serenity
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/c46c028ac9be76d6b36f3a17ed8d96af_5548682959286961124.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | "Plane of Euthymia" Raiden Shogun (Electro) | "Executor of Justice" Chevreuse (Pyro)
-^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Executor of Justice" Chevreuse (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Executor of Justice" Chevreuse (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!](archive/20185.md)
-## Event Wish - Tapestry of Golden Flames
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/bd3c3fdd5a0f214a11f66b3757a24c2d_3813748996349287752.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Executor of Justice" Chevreuse (Pyro)
-^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Executor of Justice" Chevreuse (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-● After this event wish ends, the 4-star character "Executor of Justice" Chevreuse (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Version 4.3 New Content Overview](archive/20252.md)
 ## Version 4.3 New Content Overview
 
@@ -618,6 +464,160 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Dance of Resolute Will" Event: Discover the Essence of Elegance in the Midst of a Dance of Blades](archive/20189.md)
+## Dance of Resolute Will
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/2b6b02a320f99cec4dfee4bf07b4a7c6_7454736272800086559.png)
+
+**〓Event Duration〓**
+
+2024/01/10 10:00:00 (server) – 2024/01/22 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/378d652c75a54d30eef4a21a65ab8e0d_3854607093092359996.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● The "Dance of Resolute Will" event comprises 5 challenges. After the event begins, a challenge stage will unlock every day, with each one containing 2 combat rounds.
+
+● Lineups must be decided before the challenge. Both parties must share a character, while all other characters can only be used once.
+
+● After you complete a Blade Dance objective during a challenge, you will obtain the Heightened Verve buff. While Heightened Verve is active, different opponent types will spawn, and defeating them will net you more points. Once that buff expires, you can once again complete a Blade Dance objective to regain the buff.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
+
+**〓Special Rules〓**
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+**〓Event Duration〓**
+
+2024/01/06 10:00:00 (server) – 2024/01/22 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_7962808658039951065.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["Lost Riches" Event: Trade Treasure for Mini Seelie](archive/20182.md)
+## Lost Riches
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/d8eb0359b7e3d8cdff85c1c737925adf_7334334116165513987.png)
+
+**〓Event Duration〓**
+
+2024/01/02 10:00:00 (server) – 2024/01/15 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/f3dfd2051e5db334da398359cc05b2a8_5874286358480467819.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+Unlock any Statue of The Seven in Fontaine
+
+**〓Event Details〓**
+
+● During the event, check the treasure map within Ulman's Treasure Book. Follow the map to reach the area where the treasure is buried. Ulman will mark out one new area in this book each day, for a total of 6 treasure areas.
+
+● Help the Treasure-Seeking Seelie absorb energy in various ways in the treasure area to help it restore vitality. For every 3 instances of elemental energy obtained, the Treasure-Seeking Seelie will indicate the whereabouts of the treasure once.
+
+● Dig in a treasure area to find the treasure chest and claim the "Ancient Iron Coins" within.
+
+● During the event, you can exchange "Ancient Iron Coins" for materials in the Event Shop. After the event ends, your remaining "Ancient Iron Coins" will disappear.
+
+※ Upon completing Area 6, the Event Shop will open for the redemption of "Mini Seelie: Brilliance," "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma." During this event, Travelers may only exchange for one type, after which the remaining five will no longer be available. Each Mini Seelie can only be obtained once.
+
+-----
+
+# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20184.md)
+## Event Wish - Reign of Serenity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/c46c028ac9be76d6b36f3a17ed8d96af_5548682959286961124.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | "Plane of Euthymia" Raiden Shogun (Electro) | "Executor of Justice" Chevreuse (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Executor of Justice" Chevreuse (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Executor of Justice" Chevreuse (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!](archive/20185.md)
+## Event Wish - Tapestry of Golden Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/bd3c3fdd5a0f214a11f66b3757a24c2d_3813748996349287752.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/01/09 18:00:00 (server) — 2024/01/30 14:59:00 (server) | "Frolicking Flames" Yoimiya (Pyro) | "Executor of Justice" Chevreuse (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Frolicking Flames" Yoimiya (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Executor of Justice" Chevreuse (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Executor of Justice" Chevreuse (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
