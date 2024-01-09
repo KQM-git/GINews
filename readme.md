@@ -451,6 +451,38 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 
 -----
 
+# [Version Details - What's New ](archive/20258.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓2024/01/04 16:10:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2023/12/28 16:10:00 (global) Update Details〓
+
+- Fixes an issue under certain circumstances whereby there are abnormalities during character combat (i.e. the character will immediately fall abnormally after unleashing a Plunging Attack, or characters are unable to recover their HP normally).
+
+- Fixes an issue whereby when using the Artifact Auto-Lock function in Inventory > Artifacts, unchecking "Select All" on the "Goblet of Eonothem" tab when locking artifacts will abnormally cause all conditions selected on the top of this tab to be unchecked as well.
+
+- Fixes an issue in Genius Invokation TCG whereby when the Character Card "Dvalin" is equipped with the Talent Card "Rending Vortex" and the skill "Dvalin's Cleansing" triggers a Swirl reaction, Dvalin will abnormally obtain the effect "Draconic Majesty."
+
+〓2023/12/24 19:30:00 (global) Update Details〓
+
+Fixes an issue under certain circumstances whereby the quest objective "Talk to Chevreuse" in the Story Quest "Where the Roses Bloom" could not be completed as the character could not enter the warehouse.
+
+Travelers affected by the issue can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2023/12/21 16:30:00 (global) Update Details〓
+
+Fixes an issue whereby there were abnormalities with the pathfinding logic of enemies in Floor 11 and 12 of the Spiral Abyss upon being obstructed after the Version 4.3 update.
+
+-----
+
 # ["Dance of Resolute Will" Event: Discover the Essence of Elegance in the Midst of a Dance of Blades](archive/20189.md)
 ## Dance of Resolute Will
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/2b6b02a320f99cec4dfee4bf07b4a7c6_7454736272800086559.png)
@@ -602,38 +634,6 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Version Details - What's New ](archive/20258.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓2024/01/04 16:10:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2023/12/28 16:10:00 (global) Update Details〓
-
-- Fixes an issue under certain circumstances whereby there are abnormalities during character combat (i.e. the character will immediately fall abnormally after unleashing a Plunging Attack, or characters are unable to recover their HP normally).
-
-- Fixes an issue whereby when using the Artifact Auto-Lock function in Inventory > Artifacts, unchecking "Select All" on the "Goblet of Eonothem" tab when locking artifacts will abnormally cause all conditions selected on the top of this tab to be unchecked as well.
-
-- Fixes an issue in Genius Invokation TCG whereby when the Character Card "Dvalin" is equipped with the Talent Card "Rending Vortex" and the skill "Dvalin's Cleansing" triggers a Swirl reaction, Dvalin will abnormally obtain the effect "Draconic Majesty."
-
-〓2023/12/24 19:30:00 (global) Update Details〓
-
-Fixes an issue under certain circumstances whereby the quest objective "Talk to Chevreuse" in the Story Quest "Where the Roses Bloom" could not be completed as the character could not enter the warehouse.
-
-Travelers affected by the issue can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2023/12/21 16:30:00 (global) Update Details〓
-
-Fixes an issue whereby there were abnormalities with the pathfinding logic of enemies in Floor 11 and 12 of the Spiral Abyss upon being obstructed after the Version 4.3 update.
 
 -----
 
