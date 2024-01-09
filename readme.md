@@ -816,88 +816,6 @@ Reach Adventure Rank 5 or above to claim the event-exclusive Furnishing "Bronze 
 
 -----
 
-# [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/20237.md)
-## Event Wish - In the Name of the Rosula
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/14/f6729ee76facdd9b8353db77f2f03917_5204111025938517456.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 4.3 update — 2024/01/09 17:59:00 (server) | "Helm of the Radiant Rose" Navia (Geo) | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Golden Vow" Candace (Hydro)
-
-● During this event wish, the event-exclusive 5-star character "Helm of the Radiant Rose" Navia (Geo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Harmless Sweetie" Sucrose (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Golden Vow" Candace (Hydro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!](archive/20238.md)
-## Event Wish - The Heron's Court
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/20/dd8935ec9cdc5f4f87309bb49a65169a_4585325900903477035.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-After the Version 4.3 update — 2024/01/09 17:59:00 (server) | "Frostflake Heron" Kamisato Ayaka (Cryo) | "Harmless Sweetie" Sucrose (Anemo)
-^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
-^ | ^ | "Golden Vow" Candace (Hydro)
-
-● During this event wish, the event-exclusive 5-star character "Frostflake Heron" Kamisato Ayaka (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Harmless Sweetie" Sucrose (Anemo), "Thorny Benevolence" Rosaria (Cryo), and "Golden Vow" Candace (Hydro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Verdict (Claymore) and Mistsplitter Reforged (Sword)!](archive/20175.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/5650c4e04a233a5808cf7da687204acb_3689949435450712687.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-After the Version 4.3 update — 2024/01/09 17:59:00 (server) | Verdict (Claymore)   Mistsplitter Reforged (Sword) | Akuoumaru (Claymore)
-^ | ^ | Mouun's Moon (Bow)
-^ | ^ | The Flute (Sword)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-
-● During the event wish, the event-exclusive 5-star weapons Verdict (Claymore) and Mistsplitter Reforged (Sword) will receive a huge drop-rate boost!
-
-● During the event wish, the event-exclusive 4-star weapons Akuoumaru (Claymore) and Mouun's Moon (Bow) as well as the 4-star weapons The Flute (Sword), Dragon's Bane (Polearm), and Favonius Codex (Catalyst) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Verdict (Claymore) or Mistsplitter Reforged (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
------
-
 # ["Fontinalia" Event Details](archive/20179.md)
 ## Fontinalia
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/2f3ec451a4cd6c79f5777b43a86373fd_3945801576926235021.png)
@@ -949,26 +867,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
-
------
-
-# ["Rosa Multiflora Chapter" Story Quest Overview](archive/20176.md)
-## Rosa Multiflora Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/f067bded15181f21f8e053b7e740cf02_8571331550879375048.png)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Navia's Story Quest "Rosa Multiflora Chapter."
-
-The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
-
-**〓Quest Start Time〓**
-
-Permanently available after the Version 4.3 update
-
-**〓Quest Unlock Criteria〓**
-
-Adventure Rank 40 or above
-
-Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 -----
 
