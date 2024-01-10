@@ -459,7 +459,7 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-〓2024/01/10 22:10:00 (global) Update Details〓
+〓2024/01/10 22:00:00 (global) Update Details〓
 
 Fixes an issue whereby there is an error in Chevreuse's Elemental Skill description (the actual effects work as intended).
 
