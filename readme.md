@@ -531,40 +531,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
-
-**〓Special Rules〓**
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-**〓Event Duration〓**
-
-2024/01/06 10:00:00 (server) – 2024/01/22 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_7962808658039951065.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # ["Lost Riches" Event: Trade Treasure for Mini Seelie](archive/20182.md)
 ## Lost Riches
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/d8eb0359b7e3d8cdff85c1c737925adf_7334334116165513987.png)
@@ -685,6 +651,55 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
+# ["Roses and Muskets" Event: Take Part and Obtain the Event-Exclusive Weapon, Ultimate Overlord's Mega Magic Sword (Claymore)](archive/20181.md)
+## Roses and Muskets
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/639b408b51ce8f4df6ea703922af0ee7_4380571057869040578.png)
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Quest Start Time | Act I | 2023/12/21 10:00:00 (server) | 2024/01/08 03:59:59 (server)
+^ | Act II | 2023/12/22 04:00:00 (server) | ^
+^ | Act III | 2023/12/23 04:00:00 (server) | ^
+^ | Act IV | 2023/12/24 04:00:00 (server) | ^
+^ | Act V | 2023/12/26 04:00:00 (server) | ^
+Gameplay Start Time | Phase  I | 2023/12/21 10:00:00 (server) | ^
+^ | Phase II | 2023/12/23 04:00:00 (server) | ^
+^ | Phase III | 2023/12/25 04:00:00 (server) | ^
+^ | Phase IV | 2023/12/27 04:00:00 (server) | ^
+Event Shop Duration | Event Shop Duration | 2023/12/21 10:00:00 (server) | 2024/01/15 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/23ab22a0cdebd1467d6ccee2a29268d5_3398149935501276546.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," and Furina's Story Quest "Animula Choragi Chapter: Act I" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+●  During the event, the following gameplay modes will unlock in sequence: "Thousand-Pace Interdiction Arcminute Sharpshooting Zone," "Trick Shots, Tricky Lights," "Xtreme Drive," and "Into the Frame."
+
+●  In the "Thousand-Pace Interdiction Arcminute Sharpshooting Zone" gameplay, Travelers must use the simulation device to use a musket to defeat opponents and complete the shooting challenge.
+
+●  In the "Trick Shots, Tricky Lights" gameplay, Travelers must use the studio's Special Lighting Effects to defeat opponents and accrue points.
+
+●  In the "Xtreme Drive" gameplay, Travelers and their friends will race for control over Stabilization Mekaballs and higher scores.
+
+●  In the "Into the Frame" gameplay, Travelers will have a go at a unique film editing challenge in which they must take film clips from different angles and edit them together to complete a film.
+
+●  Complete the event's various gameplay modes to obtain Theater Tickets and reach a certain amount of Theater Tickets to redeem for Ultimate Overlord's Mega Magic Sword (Claymore) and its refinement materials as well as Primogems, Crown of Insight, Hero's Wit, Mystic Enhancement Ore, and other rewards.
+
+●  Complete the event's various gameplay modes to obtain Films for Fun. Films for Fun can be used to redeem for rewards in the Event Shop such as Character Talent Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20264.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -747,52 +762,37 @@ Adds 6 new Character Cards, including Lyney and Lynette, as well as more than 30
 
 -----
 
-# ["Roses and Muskets" Event: Take Part and Obtain the Event-Exclusive Weapon, Ultimate Overlord's Mega Magic Sword (Claymore)](archive/20181.md)
-## Roses and Muskets
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/639b408b51ce8f4df6ea703922af0ee7_4380571057869040578.png)
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
+
+**〓Special Rules〓**
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
 
 **〓Event Duration〓**
 
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/12/21 10:00:00 (server) | 2024/01/08 03:59:59 (server)
-^ | Act II | 2023/12/22 04:00:00 (server) | ^
-^ | Act III | 2023/12/23 04:00:00 (server) | ^
-^ | Act IV | 2023/12/24 04:00:00 (server) | ^
-^ | Act V | 2023/12/26 04:00:00 (server) | ^
-Gameplay Start Time | Phase  I | 2023/12/21 10:00:00 (server) | ^
-^ | Phase II | 2023/12/23 04:00:00 (server) | ^
-^ | Phase III | 2023/12/25 04:00:00 (server) | ^
-^ | Phase IV | 2023/12/27 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/12/21 10:00:00 (server) | 2024/01/15 03:59:59 (server)
+2024/01/06 10:00:00 (server) – 2024/01/22 03:59:59 (server)
 
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/23ab22a0cdebd1467d6ccee2a29268d5_3398149935501276546.png)
-
-****
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_7962808658039951065.png)
 
 **〓Eligibility〓**
 
-Adventure Rank 20 or above
+Adventure Rank 32 or above
 
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," and Furina's Story Quest "Animula Choragi Chapter: Act I" first to get the best experience from this event.
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 **〓Event Details〓**
 
-●  During the event, the following gameplay modes will unlock in sequence: "Thousand-Pace Interdiction Arcminute Sharpshooting Zone," "Trick Shots, Tricky Lights," "Xtreme Drive," and "Into the Frame."
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
-●  In the "Thousand-Pace Interdiction Arcminute Sharpshooting Zone" gameplay, Travelers must use the simulation device to use a musket to defeat opponents and complete the shooting challenge.
-
-●  In the "Trick Shots, Tricky Lights" gameplay, Travelers must use the studio's Special Lighting Effects to defeat opponents and accrue points.
-
-●  In the "Xtreme Drive" gameplay, Travelers and their friends will race for control over Stabilization Mekaballs and higher scores.
-
-●  In the "Into the Frame" gameplay, Travelers will have a go at a unique film editing challenge in which they must take film clips from different angles and edit them together to complete a film.
-
-●  Complete the event's various gameplay modes to obtain Theater Tickets and reach a certain amount of Theater Tickets to redeem for Ultimate Overlord's Mega Magic Sword (Claymore) and its refinement materials as well as Primogems, Crown of Insight, Hero's Wit, Mystic Enhancement Ore, and other rewards.
-
-●  Complete the event's various gameplay modes to obtain Films for Fun. Films for Fun can be used to redeem for rewards in the Event Shop such as Character Talent Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
