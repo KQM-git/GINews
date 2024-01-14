@@ -531,38 +531,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Lost Riches" Event: Trade Treasure for Mini Seelie](archive/20182.md)
-## Lost Riches
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/d8eb0359b7e3d8cdff85c1c737925adf_7334334116165513987.png)
-
-**〓Event Duration〓**
-
-2024/01/02 10:00:00 (server) – 2024/01/15 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/f3dfd2051e5db334da398359cc05b2a8_5874286358480467819.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-Unlock any Statue of The Seven in Fontaine
-
-**〓Event Details〓**
-
-● During the event, check the treasure map within Ulman's Treasure Book. Follow the map to reach the area where the treasure is buried. Ulman will mark out one new area in this book each day, for a total of 6 treasure areas.
-
-● Help the Treasure-Seeking Seelie absorb energy in various ways in the treasure area to help it restore vitality. For every 3 instances of elemental energy obtained, the Treasure-Seeking Seelie will indicate the whereabouts of the treasure once.
-
-● Dig in a treasure area to find the treasure chest and claim the "Ancient Iron Coins" within.
-
-● During the event, you can exchange "Ancient Iron Coins" for materials in the Event Shop. After the event ends, your remaining "Ancient Iron Coins" will disappear.
-
-※ Upon completing Area 6, the Event Shop will open for the redemption of "Mini Seelie: Brilliance," "Mini Seelie: Moss," "Mini Seelie: Viola," "Mini Seelie: Dayflower," "Mini Seelie: Rosé," and "Mini Seelie: Curcuma." During this event, Travelers may only exchange for one type, after which the remaining five will no longer be available. Each Mini Seelie can only be obtained once.
-
------
-
 # [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20184.md)
 ## Event Wish - Reign of Serenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/c46c028ac9be76d6b36f3a17ed8d96af_5548682959286961124.png)
@@ -672,55 +640,6 @@ Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey
 Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Roses and Muskets" Event: Take Part and Obtain the Event-Exclusive Weapon, Ultimate Overlord's Mega Magic Sword (Claymore)](archive/20181.md)
-## Roses and Muskets
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/639b408b51ce8f4df6ea703922af0ee7_4380571057869040578.png)
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Quest Start Time | Act I | 2023/12/21 10:00:00 (server) | 2024/01/08 03:59:59 (server)
-^ | Act II | 2023/12/22 04:00:00 (server) | ^
-^ | Act III | 2023/12/23 04:00:00 (server) | ^
-^ | Act IV | 2023/12/24 04:00:00 (server) | ^
-^ | Act V | 2023/12/26 04:00:00 (server) | ^
-Gameplay Start Time | Phase  I | 2023/12/21 10:00:00 (server) | ^
-^ | Phase II | 2023/12/23 04:00:00 (server) | ^
-^ | Phase III | 2023/12/25 04:00:00 (server) | ^
-^ | Phase IV | 2023/12/27 04:00:00 (server) | ^
-Event Shop Duration | Event Shop Duration | 2023/12/21 10:00:00 (server) | 2024/01/15 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/23ab22a0cdebd1467d6ccee2a29268d5_3398149935501276546.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty," Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II," and Furina's Story Quest "Animula Choragi Chapter: Act I" first to get the best experience from this event.
-
-**〓Event Details〓**
-
-●  During the event, the following gameplay modes will unlock in sequence: "Thousand-Pace Interdiction Arcminute Sharpshooting Zone," "Trick Shots, Tricky Lights," "Xtreme Drive," and "Into the Frame."
-
-●  In the "Thousand-Pace Interdiction Arcminute Sharpshooting Zone" gameplay, Travelers must use the simulation device to use a musket to defeat opponents and complete the shooting challenge.
-
-●  In the "Trick Shots, Tricky Lights" gameplay, Travelers must use the studio's Special Lighting Effects to defeat opponents and accrue points.
-
-●  In the "Xtreme Drive" gameplay, Travelers and their friends will race for control over Stabilization Mekaballs and higher scores.
-
-●  In the "Into the Frame" gameplay, Travelers will have a go at a unique film editing challenge in which they must take film clips from different angles and edit them together to complete a film.
-
-●  Complete the event's various gameplay modes to obtain Theater Tickets and reach a certain amount of Theater Tickets to redeem for Ultimate Overlord's Mega Magic Sword (Claymore) and its refinement materials as well as Primogems, Crown of Insight, Hero's Wit, Mystic Enhancement Ore, and other rewards.
-
-●  Complete the event's various gameplay modes to obtain Films for Fun. Films for Fun can be used to redeem for rewards in the Event Shop such as Character Talent Materials, Weapon Ascension Materials, Mystic Enhancement Ore, and Mora.
 
 -----
 
