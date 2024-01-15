@@ -1,3 +1,29 @@
+# ["Arataki Blazing Armor Beetle Battle Boot Camp" Event: Fun Beetle Fighting Challenge](archive/20190.md)
+## Arataki Blazing Armor Beetle Battle Boot Camp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/d4a89cc44bb53896da98c7815426786d_9066653217162738303.png)
+
+**〓Event Duration〓**
+
+2024/01/17 10:00:00 (server) – 2024/01/29 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/ce318483f518a5aea770eab8ddbf01c9_5409195883580129146.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● From the first day of the event, a new beetle battle challenge will unlock every day. A total of five challenges will be unlocked.
+
+● There are 3 levels of difficulty in each beetle battle challenge: Friendly Spar, Focused Fight, and Utmost Might. After the challenge begins, Friendly Spar and Focused Fight difficulties will be unlocked. Utmost Might can only be unlocked after successfully challenging Focused Fight.
+
+● Take on your opponents and achieve corresponding criteria to claim rewards in the event page. By completing challenges on a higher difficulty setting, you can directly claim rewards at lower difficulties as well.
+
+-----
+
 # ["Roses and Muskets" Version 4.3 Update Details](archive/20172.md)
 ## Version 4.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/04/9541f4e4dda69145cfa6d7158584362b_5626462162262832617.jpg)
