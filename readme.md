@@ -529,6 +529,26 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [Genshin Impact 4th Character OST Album "The Stellar Moments Vol. 4" Now Available](archive/20285.md)
+## 4th Character OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/17/98771c4c42c8e7803684130d255249ca_1990710229990513790.jpg)
+
+Dear Travelers,
+
+Genshin Impact's fourth character album "The Stellar Moments Vol. 4" is out now! Featuring 26 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.
+
+Travelers can go to the following platforms to listen to "The Stellar Moments Vol. 4."
+
+Spotify:
+
+[Click here to listen to "The Stellar Moments Vol. 4"](https://open.spotify.com/album/0f743tpBG9DquanCiyBASU)
+
+Apple Music:
+
+[Click here to listen to "The Stellar Moments Vol. 4"](https://music.apple.com/us/album/1724726233)
+
+-----
+
 # ["Dance of Resolute Will" Event: Discover the Essence of Elegance in the Midst of a Dance of Blades](archive/20189.md)
 ## Dance of Resolute Will
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/2b6b02a320f99cec4dfee4bf07b4a7c6_7454736272800086559.png)
