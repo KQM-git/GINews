@@ -503,6 +503,52 @@ Fixes an issue whereby there were abnormalities with the pathfinding logic of en
 
 -----
 
+# [Web Event "Lean, Mean, Cleaning Machine!" Now Online: Take part to obtain Primogems and other rewards!](archive/20293.md)
+## Web Event "Lean, Mean, Cleaning Machine!" Now Online: Take part to obtain Primogems and other rewards!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/08/afd9acdefa126684f34b364a58ae3c10_8587597948819878806.jpg)
+
+The limited-time web event "Lean, Mean, Cleaning Machine!" has begun. Come to Fontaine and join the cleanup to let off some steam!
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240118brush-u4b6my/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240118brush&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2024/01/18 – 2024/01/24 23:59:59 (global)
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓How to Participate〓
+
+Method 1: Go to Paimon Menu > Special Event
+
+Method 2: Go to Paimon Menu > Mail and open the corresponding event mail
+
+Method 3: Go to Paimon Menu > Notices
+
+〓Event Description〓
+
+During the event, you can log into Genshin Impact daily, claim Commission Rewards, open treasure chests, and complete other challenge missions to obtain Stamina.
+
+Stamina can be used to unlock Cleanup Commission stages during the event. Complete stages to obtain Primogem rewards as well as the event item "Wastewater."
+
+The event item "Wastewater" can be exchanged for Cleanup Reputation. Once your Cleanup Reputation reaches a certain amount, you can obtain Primogems, Mystic Enhancement Ore, Hero's Wit, and other rewards.
+
+〓Event Rewards〓
+
+Complete Cleanup Commission stages to claim a total of Primogems ×85, Hero's Wit ×4, and Mystic Enhancement Ore ×4.
+
+Once you have obtained a certain amount of Cleanup Reputation, you can claim a total of Primogems ×35, Hero's Wit ×5, and Mystic Enhancement Ore ×4.
+
+Complete the Recall Rewards mission to obtain an extra reward of Primogems ×80.
+
+*After the event ends, you will no longer be able to play the stages or exchange Reputation, so remember to take part in time.
+
+-----
+
 # ["Arataki Blazing Armor Beetle Battle Boot Camp" Event: Fun Beetle Fighting Challenge](archive/20190.md)
 ## Arataki Blazing Armor Beetle Battle Boot Camp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/d4a89cc44bb53896da98c7815426786d_9066653217162738303.png)
