@@ -451,32 +451,6 @@ b. Adjusts the way enemies' avatars display so that more can be displayed.
 
 -----
 
-# ["Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems](archive/20191.md)
-## Marvelous Merchandise
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/d237f04da33a0eca74eb39dc03103587_2691132776350123064.png)
-
-**〓Event Duration〓**
-
-2024/01/22 10:00:00 (server) – 2024/01/29 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/f336c3babe5c2f6f363931b466d32dba_5238533347217728382.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 12 or above
-
-**〓Event Details〓**
-
-● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may change based on game progress, and Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
-
-● After trading in materials a total of 5 times, players may open a Mega Box o' Marvels which provides Travelers with additional rewards that include Primogems, Hero's Wit, Mystic Enhancement Ore, and Mora.
-
-※ Travelers can only get up to 1 chance per day to submit materials. Note that when the rewards refresh daily, the opportunity to submit materials, if unused, will be lost.
-
-※ Claiming Box o' Marvels rewards will not grant Encounter Points.
-
------
-
 # [Version Details - What's New ](archive/20258.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -526,6 +500,32 @@ Travelers affected by the issue can log out via the Paimon Menu and close the ga
 〓2023/12/21 16:30:00 (global) Update Details〓
 
 Fixes an issue whereby there were abnormalities with the pathfinding logic of enemies in Floor 11 and 12 of the Spiral Abyss upon being obstructed after the Version 4.3 update.
+
+-----
+
+# ["Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems](archive/20191.md)
+## Marvelous Merchandise
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/d237f04da33a0eca74eb39dc03103587_2691132776350123064.png)
+
+**〓Event Duration〓**
+
+2024/01/22 10:00:00 (server) – 2024/01/29 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/f336c3babe5c2f6f363931b466d32dba_5238533347217728382.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 12 or above
+
+**〓Event Details〓**
+
+● Liben will randomly provide Travelers with seven different types of Box o' Marvels rewards. Travelers can preview the contents of each Box o' Marvels before opening them. Rewards may change based on game progress, and Travelers can enter other players' worlds to exchange for their desired Box o' Marvels rewards.
+
+● After trading in materials a total of 5 times, players may open a Mega Box o' Marvels which provides Travelers with additional rewards that include Primogems, Hero's Wit, Mystic Enhancement Ore, and Mora.
+
+※ Travelers can only get up to 1 chance per day to submit materials. Note that when the rewards refresh daily, the opportunity to submit materials, if unused, will be lost.
+
+※ Claiming Box o' Marvels rewards will not grant Encounter Points.
 
 -----
 
