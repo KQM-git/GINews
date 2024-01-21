@@ -635,34 +635,6 @@ Apple Music:
 
 -----
 
-# ["Dance of Resolute Will" Event: Discover the Essence of Elegance in the Midst of a Dance of Blades](archive/20189.md)
-## Dance of Resolute Will
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/2b6b02a320f99cec4dfee4bf07b4a7c6_7454736272800086559.png)
-
-**〓Event Duration〓**
-
-2024/01/10 10:00:00 (server) – 2024/01/22 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/378d652c75a54d30eef4a21a65ab8e0d_3854607093092359996.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● The "Dance of Resolute Will" event comprises 5 challenges. After the event begins, a challenge stage will unlock every day, with each one containing 2 combat rounds.
-
-● Lineups must be decided before the challenge. Both parties must share a character, while all other characters can only be used once.
-
-● After you complete a Blade Dance objective during a challenge, you will obtain the Heightened Verve buff. While Heightened Verve is active, different opponent types will spawn, and defeating them will net you more points. Once that buff expires, you can once again complete a Blade Dance objective to regain the buff.
-
------
-
 # [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20184.md)
 ## Event Wish - Reign of Serenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/c46c028ac9be76d6b36f3a17ed8d96af_5548682959286961124.png)
@@ -810,40 +782,6 @@ With the arrival of Version 4.3's new event in Fontaine, "Dance of Resolute Will
 Adds 6 new Character Cards, including Lyney and Lynette, as well as more than 30 Action Cards and loads of new Monster Cards. Come check them out now!
 
 [>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20183.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/74f68b9b7d0bf55e78d44d274acd3386_6451395845482379238.png)
-
-**〓Special Rules〓**
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-**〓Event Duration〓**
-
-2024/01/06 10:00:00 (server) – 2024/01/22 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_7962808658039951065.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
