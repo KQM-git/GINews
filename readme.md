@@ -503,6 +503,24 @@ Fixes an issue whereby there were abnormalities with the pathfinding logic of en
 
 -----
 
+# ["Chenyu Anecdotes": Version 4.4 New Contents Display Page Now Available!](archive/20290.md)
+## "Chenyu Anecdotes": Version 4.4 New Contents Display Page Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/15/c3ce2d7e82b95e3f5990bee3e145d614_5563862841603794797.png)
+
+Greetings, Travelers! After the Version 4.4 update, new areas including "Chenyu Vale: Upper Vale," "Chenyu Vale: Southern Mountain," and "Mt. Laixin" will be available in Liyue. Check out this issue of Chenyu Anecdotes and see what special features these new areas have!
+
+[>> Click to view "Chenyu Anecdotes" <<](https://act.hoyoverse.com/puzzle/hk4e/pz_zFZPMVr7tC/index.html?hyl_presentation_style=fullscreen&win_mode=fullscreen&pz_use_real_ismobile=1&pz_plat=pc&sign_type=2&auth_appid=blueposthg&authkey_ver=1&utm_source=game&utm_medium=ys&utm_campaign=gfnoti)
+
+*After the Version 4.4 update, as long as you have completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom," a Teleport Waypoint will be automatically unlocked near Liyue's Chenyu Vale: Upper Vale.
+
+If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update. You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/15/3c5b689c7692f21177150565aa914e93_6725906512423016121.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/15/10c6a3648459386ed3062036235d6b3b_2516548057762395613.jpg)
+
+-----
+
 # ["Marvelous Merchandise" Event: Open Boxes o' Marvels and Get Primogems](archive/20191.md)
 ## Marvelous Merchandise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/d237f04da33a0eca74eb39dc03103587_2691132776350123064.png)
