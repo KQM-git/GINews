@@ -1,3 +1,27 @@
+# [Version 4.4 Update Maintenance Preview](archive/20322.md)
+## Version 4.4 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/26/c941908b14dcaf160083796a10645f89_3127323237410943411.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2024/01/31 06:00:00 (global). Please stay tuned to related game update information.
+
+<details open="true">
+<summary>Version 4.4 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/24/b4d3ddb1c70b8a95ee23732873169952_5832488915519995883.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/24/d273f8a77f6c56c193d1242555ca003e_8513394916601363207.jpg)
+
+</details>
+
+-----
+
 # ["Roses and Muskets" Version 4.3 Update Details](archive/20172.md)
 ## Version 4.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/04/9541f4e4dda69145cfa6d7158584362b_5626462162262832617.jpg)
