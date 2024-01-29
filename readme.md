@@ -904,44 +904,6 @@ Fixes an issue whereby there were abnormalities with the pathfinding logic of en
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/20320.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2023/01/26 10:00:00 (global) - 2023/01/29 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzk-x4sx-seXZlJUP2c9jil7Xrd3-SWMbdKIXErmoq_gS&game_biz=hk4e_global&surveyId=19932&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# [Genshin Impact Version 4.4 Preview](archive/20315.md)
-## The Version 4.4 "Vibrant Harriers Aloft in Spring Breeze" Preview page is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/19/0ff7e8a038f3a133a09717385b624007_1005436716620326124.jpg)
-
-Dear Travelers,
-
-The Version 4.4 "Vibrant Harriers Aloft in Spring Breeze" Preview page is here!
-
-[>>>>Go to V4.4 "Vibrant Harriers Aloft in Spring Breeze" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240120preview/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240120warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20184.md)
 ## Event Wish - Reign of Serenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/c46c028ac9be76d6b36f3a17ed8d96af_5548682959286961124.png)
@@ -1161,6 +1123,26 @@ As a token of our gratitude, we will be giving away a total of Primogems ×800 f
 Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 09 – 12.
 
 These Primogems can be claimed at any time before the end of Version 4.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
+# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+**〓Event Duration〓**
+
+2024/03/04 04:00:00 (server) –2024/03/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
