@@ -22,6 +22,383 @@ Our developers are expected to begin performing update maintenance at 2024/01/31
 
 -----
 
+# [Event Wish "The Crane Soars Skyward" - Boosted Drop Rate for "Passerine Herald" Xianyun (Anemo)!](archive/20268.md)
+## Event Wish - The Crane Soars Skyward
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/8a42705ce459e44aaae3f345ff624a53_5120958252254257516.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.4 update — 2024/02/20 17:59:00 (server) | "Passerine Herald" Xianyun (Anemo) | "Leonine Vanguard" Gaming (Pyro)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Passerine Herald" Xianyun (Anemo) will receive a huge drop-rate boost!
+
+● During this event, the 4-star characters "Leonine Vanguard" Gaming (Pyro), "Enigmatic Machinist" Faruzan (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Leonine Vanguard" Gaming (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!](archive/20269.md)
+## Event Wish - The Moongrass' Enlightenment
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/d02d3cde6b1944a0ef375c0662655f2a_556478261796841791.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.4 update — 2024/02/20 17:59:00 (server) | "Physic of Purity" Nahida (Dendro) | "Leonine Vanguard" Gaming (Pyro)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Chivalric Blossom" Noelle (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Physic of Purity" Nahida (Dendro) will receive a huge drop-rate boost!
+
+● During this event, the 4-star characters "Leonine Vanguard" Gaming (Pyro), "Enigmatic Machinist" Faruzan (Anemo), and "Chivalric Blossom" Noelle (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Leonine Vanguard" Gaming (Pyro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Crane's Echoing Call (Catalyst) and A Thousand Floating Dreams (Catalyst)!](archive/20270.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/f1b276f8df146b46e85efb9f3b595dd4_8718989072003631333.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 4.4 update — 2024/02/20 17:59:00 (server) | Crane's Echoing Call (Catalyst)   A Thousand Floating Dreams (Catalyst) | Lithic Spear (Polearm)
+^ | ^ | Sacrificial Sword (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Crane's Echoing Call (Catalyst) and A Thousand Floating Dreams (Catalyst) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Lithic Spear (Polearm) as well as the 4-star weapons Sacrificial Sword (Sword), Sacrificial Greatsword (Claymore), Sacrificial Fragments (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Crane's Echoing Call (Catalyst) or A Thousand Floating Dreams (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Grus Serena Chapter" Story Quest Overview](archive/20271.md)
+## Grus Serena Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/aeef0f3921ff19b5557dafbf41d1c116_4725924426488503884.png)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Xianyun's Story Quest "Grus Serena Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.4 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Interlude Chapter: Act I "The Crane Returns on the Wind"
+
+-----
+
+# ["Vivid Flight" Event Details](archive/20272.md)
+## Vivid Flight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/b270e5c85a4017d34ee00fb167d63728_4714601541323551040.png)
+
+Travelers can earn rich rewards in "Vivid Flight" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Vibrant Harriers" and Furnishing Blueprint "Artisanal Fish Lantern: Carp's Well."
+
+**〓Event Duration〓**
+
+After the Version 4.4 update – 2024/03/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/03/11 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 29 Available for a Limited Time](archive/20273.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/4ce7ec84377b12faa5c1e119d43e8dfd_2253981796156580055.png)
+
+Round 29 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 4.4 update – 2024/02/14 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 4.4 update – 2024/02/14 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [Shenhe's Outfit "Frostflower Dew" Available at a Limited-Time Discount](archive/20274.md)
+## Frostflower Dew
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/52e3520ae2a3c7071b8bb579c4b9a4c3_9088932271523509798.png)
+
+Shenhe's outfit "Frostflower Dew" is available at a limited-time discount in the Shop!
+
+**〓Discount Period〓**
+
+After the Version 4.4 update – 2024/03/11 03:59:59 (server)
+
+**〓Outfit Details〓**
+
+● Shenhe's outfit "Frostflower Dew" will be permanently available in the Shop after the Version 4.4 update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Shenhe can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+-----
+
+# [Ganyu's Outfit "Twilight Blossom" Available at a Limited-Time Discount](archive/20275.md)
+## Twilight Blossom
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/1a760eb11ffec817223778e2e74b5b6d_2301650462265963577.png)
+
+Ganyu's outfit "Twilight Blossom" is available at a limited-time discount in the Shop!
+
+**〓Discount Period〓**
+
+After the Version 4.4 update – 2024/03/11 03:59:59 (server)
+
+**〓Outfit Details〓**
+
+● Ganyu's outfit "Twilight Blossom" will be permanently available in the Shop after the Version 4.4 update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Ganyu can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+-----
+
+# ["May Fortune Find You" Daily Login Event](archive/20277.md)
+## May Fortune Find You
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/06237e280dabff3677319812c54c88a8_7898287072174034892.png)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+**〓Event Duration〓**
+
+2024/02/03 04:00:00 (server) – 2024/02/18 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 5 or above
+
+**〓Event Details〓**
+
+**Total Login Days** | **Rewards**
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
+# ["Vibrant Harriers Aloft in Spring Breeze" Event: Take part to obtain Xingqiu's outfit and a 4-star character from Liyue of your choice](archive/20278.md)
+## Vibrant Harriers Aloft in Spring Breeze
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/25/278f89d7ba90d3d03032e2c06bb86269_4590750458922007408.png)
+
+**〓Event Duration〓**
+
+**Event Content** |    **Event Content** |    **Start Time**  | **End Time**
+--- | --- | --- | ---
+Quest Duration | Act I | 2024/02/05 10:00:00 (server) | 2024/02/26 03:59:59 (server)
+^ | Act II | 2024/02/07 04:00:00 (server) | ^
+^ | Act III | 2024/02/09 04:00:00 (server) | ^
+Gameplay Duration | Paper Shadows A-Foraging | 2024/02/05 10:00:00 (server) | ^
+^ | Joyful Beasts and Their Auspices | 2024/02/05 10:00:00 (server) | ^
+^ | Iridescent Cloud-Striding | 2024/02/07 04:00:00 (server) | ^
+
+※ "Hustle and Bustle" Quest Start Time: 2024/02/11 04:00:00 (server)
+
+※ During the event, complete Act II to obtain "Special Furnishing Gift (I)," and complete the quest "Hustle and Bustle" to obtain "Special Furnishing Gift (II)."
+
+****
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/61cb7539585e8020a4393f3009f5352d_4914267459747892296.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter I: Act III "A New Star Approaches" and Xianyun's Story Quest "Grus Serena Chapter: Act I" first to get the best experience from this event.
+
+※ Complete Furina's Story Quest "Animula Choragi Chapter: Act I" before accepting the quest "Hustle and Bustle" to best enjoy the event.
+
+**〓Event Details〓**
+
+● During the event, the following gameplay modes will unlock in sequence: "Paper Shadows A-Foraging," "Joyful Beasts and Their Auspices," and "Iridescent Cloud-Striding."
+
+● In the "Paper Shadows A-Foraging" gameplay, Travelers can watch unique "Paper Theater" and guide Guoba and Yuegui to find ingredients and cook mouth-wateringly delicious dishes.
+
+● In the "Joyful Beasts and Their Auspices" gameplay, Travelers can play "Just Wushou Dance!" with three others, competing to grab various Teabricks, and experience the boisterous Wushou atmosphere.
+
+● In the "Iridescent Cloud-Striding" gameplay, Travelers can challenge racing trials, and make skillful use of the "Golden Carp's Leap" to agilely traverse the mountains of Chenyu Vale.
+
+● Complete the event's various gameplay modes to gain Festive Fever. Reach a certain amount of Festive Fever to obtain Xingqiu's outfit "Bamboo Rain" and a 4-star character from Liyue of your choice.
+
+● Xingqiu's outfit "Bamboo Rain" will be available for purchase in the Character Outfit Shop after the end of Version 4.4, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20276.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/2aced11db7ef3877d6f0a882c1f5f408_3153530013419955040.png)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.4
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/77bc8ce33030bc36a950e3ef25faf437_7767405279843025799.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# ["Triumphant Frenzy" Event: Adapt Swiftly to Dispatch Foes](archive/20279.md)
+## Triumphant Frenzy
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/19/b1a216153427bdfdeda97d1ad431450e_8649130054520114824.png)
+
+**〓Event Duration〓**
+
+2024/02/15 10:00:00 (server) – 2024/02/26 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/fce1b7f28d88efa7ddcd9e9fa11ff13e_1241963894308448591.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● For 5 days after the start of the event, a new challenge will become available each day.
+
+● Each challenge will have four rounds of battle. Before the first round of every challenge, you can select four characters to form a team, and before each following challenge round, you can select two characters to join the team.
+
+● Every character starts with 2 Resolve. Each time a character takes part in a combat round, they will lose 1 Resolve. Characters who run out of Resolve cannot continue to be deployed.
+
+● Each challenge will have a unique type of "Roiling Resolve": Special effects will be obtained based on the total Resolve of the team members. Pay attention to these effects and use them effectively to obtain their benefits in battle.
+
+● The trial characters available in this gameplay mode will inherit the same Constellation levels of the characters owned by the Traveler.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20280.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/eb5007969515ec14b14338bf62ff1a37_3781496156810561757.png)
+
+**〓Special Rules〓**
+
+● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+**〓Event Duration〓**
+
+2024/02/17 10:00:00 (server) – 2024/03/04 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/77bc8ce33030bc36a950e3ef25faf437_6871759097049230274.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Roses and Muskets" Version 4.3 Update Details](archive/20172.md)
 ## Version 4.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/04/9541f4e4dda69145cfa6d7158584362b_5626462162262832617.jpg)
