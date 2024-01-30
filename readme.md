@@ -110,6 +110,90 @@ After the Version 4.4 update — 2024/02/20 17:59:00 (server) | Crane's Echoing 
 
 -----
 
+# [Event Wish "Invitation to Mundane Life" - Boosted Drop Rate for "Vigilant Yaksha" Xiao (Anemo)!](archive/20281.md)
+## Event Wish - Invitation to Mundane Life
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/365cb4e555b8a4ae8aa8870c919fc65f_5593508916197708458.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/02/20 18:00:00 (server) — 2024/03/12 14:59:00 (server) | "Vigilant Yaksha" Xiao (Anemo) | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Eclipsing Star" Ningguang (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Vigilant Yaksha" Xiao (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Burgeoning Grace" Yaoyao (Dendro), "Blazing Riff" Xinyan (Pyro), and "Eclipsing Star" Ningguang (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Everbloom Violet" - Boosted Drop Rate for "Astute Amusement" Yae Miko (Electro)!](archive/20282.md)
+## Event Wish - Everbloom Violet
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/51d1b688a18a785590c20a55a73b438d_6763879702561442814.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/02/20 18:00:00 (server) — 2024/03/12 14:59:00 (server) | "Astute Amusement" Yae Miko (Electro) | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Eclipsing Star" Ningguang (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Astute Amusement" Yae Miko (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Burgeoning Grace" Yaoyao (Dendro), "Blazing Riff" Xinyan (Pyro), and "Eclipsing Star" Ningguang (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Kagura's Verity (Catalyst) and Primordial Jade Winged-Spear (Polearm)!](archive/20283.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/1284ac30880f109349117b26a5d36653_2259021118438069973.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2024/02/20 18:00:00 (server) — 2024/03/12 14:59:00 (server) | Kagura's Verity (Catalyst)   Primordial Jade Winged-Spear (Polearm) | Lithic Blade (Claymore)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During the event wish, the event-exclusive 5-star weapon Kagura's Verity (Catalyst) and the 5-star weapon Primordial Jade Winged-Spear (Polearm) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Lithic Blade (Claymore) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), The Widsith (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Kagura's Verity (Catalyst) or Primordial Jade Winged-Spear (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # ["Grus Serena Chapter" Story Quest Overview](archive/20271.md)
 ## Grus Serena Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/aeef0f3921ff19b5557dafbf41d1c116_4725924426488503884.png)
@@ -396,6 +480,92 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
 ● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["Receiver of Friends From Afar" Event: Cuisine Cooking Challenge](archive/20287.md)
+## Receiver of Friends From Afar
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/f71bcbebf7f16998027f16c7a19808f3_4022872880254363828.png)
+
+**〓Event Duration〓**
+
+2024/02/21 10:00:00 (server) – 2024/03/04 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/e292217d76a24c5975ea29bca43f36fa_3050922049508011904.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+And complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+**〓Event Details〓**
+
+● After the event begins, new quests and challenges will unlock every 2 days. Newly unlocked content will require you to have finished the previous section of content to take it on.
+
+● During the challenges, you must perform the prepping, mixing, and cooking processes in succession to create dishes that suit the customer's taste.
+
+-----
+
+# ["Of Kites and New Sights" - Lantern Rite Gifts](archive/20288.md)
+## Of Kites and New Sights
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/ed033703da21fcce4d710321f855b9b1_2776154482425128955.png)
+
+During the event, log in to the game to receive Intertwined Fates, Fragile Resin, Sanctifying Unction, and other rewards!
+
+Each mail can be collected until the end of the event.
+
+The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+**〓Event Duration〓**
+
+2024/02/24 00:00:00 (server) until the end of Version 4.4
+
+**〓Eligibility〓**
+
+Adventure Rank 2 or above
+
+**〓Event Details〓**
+
+**Login Date** | **Reward 1** | **Reward 2** | **Reward 3** | **Reward 4**
+--- | --- | --- | --- | ---
+February 24 | Intertwined Fate ×1 | Bountiful Year ×5 | Universal Peace ×5 | Sanctifying Unction ×6
+February 25 | Fragile Resin ×1 | Chicken Tofu Pudding ×5 | Hero's  Wit ×5 |  
+February 26 | Intertwined Fate ×1 | Guide to Diligence ×3 | Mystic Enhancement Ore ×10 |  
+February 27 | Fragile Resin ×1 | Guide to Gold ×3 | Mora ×50,000 |  
+February 28 | Intertwined Fate ×1 | Guide to Prosperity ×3 | Sanctifying Unction ×6 |
+
+-----
+
+# ["Journey Through Hilinigmatic Terrain" Event: Hilichurl Camp Investigation](archive/20289.md)
+## Journey Through Hilinigmatic Terrain
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/5d4c5fb8a2f22a643a134dfbb1a384b5_4060884614593215980.png)
+
+**〓Event Duration〓**
+
+2024/02/29 10:00:00 (server) – 2024/03/11 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/26/a1ad94a909b35268e42f842dd67315b6_962843665382515102.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● This event is divided into two types of gameplay: "Exploratory Journey" and "Hilinigmatic Duel."
+
+● After the event begins, new challenges will unlock with time. Complete Exploratory Journeys to unlock the subsequent Hilinigmatic Duels.
+
+● In the "Exploratory Journey" gameplay, Travelers must use the Eye of Upano and plan the route wisely to infiltrate the hilichurl camps and conduct secret investigations.
+
+● In the "Hilinigmatic Duel" gameplay, Travelers can challenge formidable opponents within the Domain. Take advantage of the opponents' attacks and make use of stage effects to complete the challenge faster.
+
+● The "Exploratory Journey" gameplay can only be completed in Single-Player Mode, whereas the "Hilinigmatic Duel" gameplay can be done in Co-Op Mode.
 
 -----
 
@@ -1123,6 +1293,26 @@ As a token of our gratitude, we will be giving away a total of Primogems ×800 f
 Primogems ×200 shall be given out to Travelers via in-game mail at 00:00 (Server Time) each day from December 09 – 12.
 
 These Primogems can be claimed at any time before the end of Version 4.3. All Travelers who have reached Adventure Rank 7 or above can claim a total of Primogems ×800 via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
+# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+**〓Event Duration〓**
+
+2024/03/04 04:00:00 (server) –2024/03/11 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
