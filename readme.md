@@ -1126,26 +1126,6 @@ These Primogems can be claimed at any time before the end of Version 4.3. All Tr
 
 -----
 
-# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-**〓Event Duration〓**
-
-2024/03/04 04:00:00 (server) –2024/03/11 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
