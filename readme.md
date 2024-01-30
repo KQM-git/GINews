@@ -1094,48 +1094,6 @@ Permanent
 
 -----
 
-# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20198.md)
-## New Version 4.3 Genshin Impact Tool Content
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/19/ceb8f25f4f1952648374792f616f25d7_6935786717679829702.png)
-
-Dear Travelers,
-
-Genshin Impact Version 4.3 is here, heralding the arrival of the new character Navia! Limited-time version events are in full swing too! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.3. Let's take a look~
-
-| Teyvat Interactive Map Update: Adds recommended Ascension Material harvest routes for Navia.
-
-Optimizes the Teyvat Interactive Map's loading and rendering times, reducing lag and the amount of time it takes to open.
-
-Recommended Ascension Material harvest routes for the new character Navia have been added too, so come check them out~
-
-(Recommended Ascension Material harvest routes for Chevreuse will be updated when the Limited-Time Wish becomes available on January 9.)
-
-[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-
-| Battle Chronicle Update: Adds the Navigation module to the homepage，and allows you to display your progress in the Main Storyline in Real-Time Notes.
-
-Adds the Navigation module to the Battle Chronicle homepage, allowing Travelers to reach different modules in the Battle Chronicle with the click of a button.
-
-With the arrival of Version 4.3's new event in Fontaine, "Dance of Resolute Will," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
-
-[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Navia and Chevreuse. (The enhancement progression calculation for Chevreuse will be updated when the Limited-Time Wish becomes available on January 9.)
-
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Navia and Chevreuse. (Lineup queries for Chevreuse will be updated when the Limited-Time Wish becomes available on January 9.)
-
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
-| Card Plaza Update: Adds brand-new Character and Boss Cards.
-
-Adds 6 new Character Cards, including Lyney and Lynette, as well as more than 30 Action Cards and loads of new Monster Cards. Come check them out now!
-
-[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
 # ["Gazing Up at Eternity, Looking Down at the World" Event: Take Part to Obtain the Furnishing "Bronze Curio: Ancient Golden Visage"](archive/20177.md)
 ## Gazing Up at Eternity, Looking Down at the World
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/a9e70d60de164dcb57c98c4b5c5f4135_3965591567544626310.png)
