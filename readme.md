@@ -1,3 +1,429 @@
+# ["Vibrant Harriers Aloft in Spring Breeze" Version 4.4 Update Details](archive/20286.md)
+## Version 4.4 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/30/b04dfd10996b5d573ec41ddd060f1298_8615352638195330319.jpg)
+
+Dear Travelers,
+
+Below are the details of the Version 4.4 update "Vibrant Harriers Aloft in Spring Breeze" and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by 2024/01/31 06:00:00 (global).
+
+Compensation must be claimed before the end of Version 4.4.
+
+Issue Fix Compensation: Travelers who reach Adventure Rank 5 or above by 2024/01/31 06:00:00 (global).
+
+Please log in and claim your compensation before 2024/02/03 06:00:00 (global).
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins 2024/01/31 06:00:00 (global) and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Areas
+
+<details open="true">
+<summary><span>New Areas in Liyue Now Available</span></summary>
+
+◇ New Areas: In Version 4.4, the following areas in Liyue will become available: Chenyu Vale: Upper Vale, Chenyu Vale: Southern Mountain, and Mt. Laixin.
+
+※ As long as you have completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom," a Teleport Waypoint will be automatically unlocked near Liyue's Chenyu Vale: Upper Vale (If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update). You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
+
+▌New System in Liyue
+
+Rainjade Oblation
+
+Fujin's adeptal energy has transformed into many Spirit Carp that are scattered all over Chenyu Vale. Collect the energy within Spirit Carp and transfer it into the Votive Rainjade within Carp's Rest to increase its level and obtain the blessings of Chenyu Vale.
+
+Rainjade Oblation System Unlock Criteria:
+
+• Complete the World Quest "The Cloud-Padded Path to the Chiwang Repose"
+
+In addition, there will be new Fishing Points and "Radiant Spincrystals" in Liyue.
+
+</details>
+II. New Characters
+
+<details open="true">
+<summary><span style="color:rgba(53,150,151,1)"><span>5-Star Character "Passerine Herald" Xianyun (Anemo)</span></span></summary>
+
+◇ Vision: Anemo
+
+◇ Weapon: Catalyst
+
+◇ One of the Mighty and Illuminated Adepti of Jueyun, known as "Cloud Retainer." Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name "Xianyun."
+
+◆ Elemental Skill "White Clouds at Dawn"
+
+◆ Xianyun enters the Cloud Transmogrification state, in which she will not take Fall DMG, and uses Skyladder once. In this state, Xianyun can cast Skyladder continuously to leap, where her Plunging Attack will be converted into an even stronger Driftcloud Wave instead, which deals AoE Anemo DMG. The more times Skyladder is used, the more DMG the resulting Driftcloud Wave will deal and the larger its AoE.
+
+◆ Elemental Burst "Stars Gather at Dusk"
+
+◆ Brings forth a sacred breeze that deals AoE Anemo DMG and heals all nearby characters. It will also summon the "Starwicker" mechanism that follows the active character and periodically heals all nearby party members. When the Starwicker has Adeptal Assistance stacks, characters will have their jump height increased. When they complete a Plunging Attack, Adeptal Assistance stacks will be consumed and deal AoE Anemo DMG.
+
+</details>
+
+<details open="true">
+<summary><span style="color:rgba(236,73,35,1)"><span>4-Star Character "Leonine Vanguard" Gaming (Pyro)</span></span></summary>
+
+◇ Vision: Pyro
+
+◇ Weapon: Claymore
+
+◇ Guard of the Sword and Strongbox Secure Transport Agency, and the head of the "Mighty Mythical Beasts" Wushou troupe.
+
+◆ Elemental Skill "Bestial Ascent"
+
+◆ Gaming pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface. If he immediately uses a Plunging Attack, he will use Plunging Attack: Charmed Cloudstrider instead, dealing AoE Pyro DMG to opponents hit.
+
+◆ Elemental Burst "Suanni's Gilded Dance"
+
+◆ Gaming enters Wushou Stance, briefly applying Pyro to him, recovering a fixed amount of HP, and summons his companion, the Suanni Man Chai, to smash into his target, dealing AoE Pyro DMG. After doing so, Man Chai will then attempt to roll towards Gaming. When it links up with Gaming, Man Chai will leave the field and reset the CD for Gaming's Elemental Skill, Bestial Ascent. While Wushou Stance is active, his resistance to interruption is increased, and when Gaming lands with Charmed Cloudstrider attack or completes the forward pounce attack from Bestial Ascent with over 50% HP, he will summon Man Chai again.
+
+</details>
+III. New Equipment
+
+New Weapon (Examples based on Refinement Rank 1)
+
+<details open="true">
+<summary><span>Crane's Echoing Call (5-Star Catalyst)</span></summary>
+
+After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal 28% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.
+
+◆ During the event wish "Epitome Invocation," the event-exclusive 5-star weapon Crane's Echoing Call (Catalyst) will receive a huge drop-rate boost!
+
+</details>
+IV. New Outfits
+
+<details open="true">
+<summary><span>Ganyu: Twilight Blossom</span></summary>
+
+◇ A light and graceful festive outfit accented mainly in black nightshade and cerulean blue. Its hair accessory is as radiant as the Qingxin — a pairing that Ganyu is most fond of.
+
+◆ Between the start of the Version 4.4 update and 2024/03/11 03:59:59 (server), Ganyu's outfit "Twilight Blossom" will be available for purchase in the Character Outfit Shop at a limited-time discount! During the discount period, the price of the outfit is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+</details>
+
+<details open="true">
+<summary><span>Shenhe: Frostflower Dew</span></summary>
+
+◇ This Lantern Rite gift that Shenhe received is a set of elegant formal attire that her master, Cloud Retainer had commissioned for her. Red ropes still adorn her arms, but the bitter cold in Shenhe's heart has faded.
+
+◆ Between the start of the Version 4.4 update and 2024/03/11 03:59:59 (server), Shenhe's outfit "Frostflower Dew" will be available for purchase in the Character Outfit Shop at a limited-time discount! During the discount period, the price of the outfit is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+</details>
+
+<details open="true">
+<summary><span>Xingqiu: Bamboo Rain</span></summary>
+
+◇ Formal wear prepared by the Feiyun Commerce Guild for Xingqiu. The bamboo prints are refined and the cut is most flattering, but Xingqiu's favorite aspect of the outfit is its inner pockets, into which a thinner novel might be stuffed.
+
+◆ During Version 4.4, Travelers can obtain Xingqiu's outfit "Bamboo Rain" for free by participating in the limited-time "Vibrant Harriers Aloft in Spring Breeze" event.
+
+◆ After Version 4.4 is over, Travelers can buy the outfit in the Character Outfit Shop.
+
+</details>
+V. New Main Story
+
+1. New Story Quest
+
+<details open="true">
+<summary><span>Xianyun's Story Quest - Grus Serena Chapter: Act I "A Thousand Moonlit Miles"</span></summary>
+
+Permanently available after the Version 4.4 update
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Interlude Chapter: Act I "The Crane Returns on the Wind"
+
+</details>
+2. New World Quests
+
+<details open="true">
+<summary><span>New World Quests</span></summary>
+
+◆ New World Quests: "Chenyu's Blessings of Sunken Jade" Quest Chain, "The Cloud-Padded Path to the Chiwang Repose," "Threefold Expectations," "A Wangshan Walk to Remember," "Scrolls and Sword Manuals of Guhua," "Shrouded Vale, Hidden Hero," "The Roaming Abode," "The Dealing Sands," "Our Chenyu Vale Trek," "Chili Con Cloudy," "Qiaoying, the Village of Many Tales," "Temporary Acclimatization," etc.
+
+</details>
+VI. New Enemies
+
+<details open="true">
+<summary><span>Solitary Suanni</span></summary>
+
+◇ These elegant and proud mystical beasts only live in mountains shrouded in adeptal energy.
+
+It can use Hydro and Anemo simultaneously in battle. Render it Frozen while it is gathering Hydro-aligned adeptal energy, before using Shatter, Melt, or other Elemental Reactions to break the ice and cause it to enter an immobile state. When it is gathering Anemo-aligned adeptal energy, use attacks from Elements that can react with Anemo to destroy the Spiritwind Pearls summoned during the process to achieve the same advantage.
+
+Located at Chenyu Vale: Southern Mountain
+
+</details>
+
+<details open="true">
+<summary><span>Xuanwen Beast</span></summary>
+
+◇ Fierce creatures that inhabit the mountains of Chenyu Vale.
+
+Use Elemental Reactions to freeze this creature and use Shatter, Melt, and other Elemental Reactions to break the ice and render it immobile temporarily.
+
+</details>
+VII. Other Update Details
+
+- New Recipes:
+
+○ Chef Mao (NPC): Honey Char Siu
+
+○ Lianfang (NPC): Chenyu Brew, Jadevein Tea Eggs, and Tea-Smoked Squab
+
+○ Licai (NPC): Deep-Fried Doublecrisp and Braised Meatballs
+
+○ World Quest Rewards: Guhua Fish & Lamb Soup and Fine Tea, Full Moon.
+
+○ Event Reward: Eight-Treasure Duck
+
+- New Character Specialty Dishes:
+
+○ Xianyun's specialty: "Encompassing Gladness"
+
+○ Gaming's specialty: "Yummy Yum Cha"
+
+- Adds new "Chenyu's Splendor" Achievement category, and adds new Achievements to the "Wonders of the World" category.
+
+- Adds Set 29 of "Paimon's Paintings" chat emojis.
+
+- Adds some prompts for loading screens.
+
+- New Namecards:
+
+"Xianyun: White Clouds": Reward for reaching Friendship Lv. 10 with Xianyun
+
+"Gaming: Man Chai": Reward for reaching Friendship Lv. 10 with Gaming
+
+"Achievement: Adeptal Valley": Reward for completing all achievements under "Chenyu's Splendor"
+
+"Chenyu: Rainjade Rite": Reward for reaching Rainjade Oblation Level 10
+
+"Travel Notes: Vibrant Harriers": Reward obtained via the BP system
+
+- New Wildlife: Fluff-Fleece Goat, Malachitin Lumibug, Redbill Pelican, Jadestone Turtle, and Velvetfall Duck
+
+- New Fish: Jade Heartfeather Bass
+
+- New Function: Fast Equip Artifacts
+
+(1) Quick Configuration: A set of Artifacts will be put together for your reference based on data from recently active players. When generating a configuration, it will only consider Artifacts not already equipped by other characters.
+
+(2) Custom Configuration: Custom Configuration data will be based on the settings laid out for each character. When using a Custom Configuration, you can configure based on conditions such as Artifact Main Affix, Set Type, and Minor Affixes and choose whether or not to use Artifacts that haven't already been equipped. The configuration created by Custom Configuration can be adjusted, with alternative Artifacts sorted based on the overall priority levels of their Artifact Set and Affixes. When "Other Options" > "All" is selected in Custom Configuration, when the configuration includes Artifacts already equipped by another character, the Artifacts will be removed and equipped to the target character.
+
+- Adds the "Borderless Mode" fullscreen option in "Display Mode" in "Settings / Graphics" interface on PC.
+
+- "Genius Invokation TCG" Gameplay Update:
+
+New Character Cards: Thoma, Sayu, and their corresponding Talent cards. Corresponding invitation duels and guest challenges have been added to the Player List.
+
+New Character Cards: Cryo Hypostasis, Millennial Pearl Seahorse, and their corresponding Talent Cards. Their Tavern Challenges have also been added.
+
+New Action Cards: "Sapwood Blade," "Veteran's Visage," "Jeht," "Silver and Melus," "Machine Assembly Line," "Sunyata Flower," and "Matsutake Meat Rolls" can be purchased from Prince at The Cat's Tail.
+
+The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Clever Stratagems":
+
+(1) During The Forge Realm's Temper: Clever Stratagems, you can select the parameters for each stage. Parameters that may be set include: stage difficulty, the round limit for the match, and enemy bonus HP.
+
+(2) After you complete a certain stage battle, you will gain a score based on the difficulty selected for each parameter in said stage. At the same time, you can claim the corresponding rewards when your highest score reaches a specific score.
+
+- Spiral Abyss
+
+Floor 11 Ley Line Disorder changed to:
+
+• All characters in the party gain a 75% Anemo DMG Bonus.
+
+Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+Starting from the first time that the Lunar Phase refreshes after updating to Version 4.4, the three Lunar Phases will be as follows:
+
+Phase I:
+
+Ascendant Moon
+
+When a character receives healing, it will be counted. When the count reaches a total of 16, a shockwave will be unleashed at the character's position, dealing True DMG to nearby opponents and clearing the count. 1 such shockwave can be unleashed every 8s.
+
+Phase II:
+
+Resilient Moon
+
+After the active character's Plunging Attacks hit opponents, the character's Plunging Attack DMG is increased by 20% for 8s. This effect can be triggered once every 0.1s. Max 3 stacks. Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.
+
+Phase III:
+
+Plummeting Moon
+
+After the active character's Plunging Attacks hit opponents, unleash a shockwave at the character's location, dealing True DMG to nearby opponents. 1 such shockwave can be unleashed every 2s.
+
+〓Adjustments & Optimizations〓
+
+● Serenitea Pot
+
+- Adds new Furnishing categories, reclassifies certain Furnishings, and adjusts the sorting of certain categories.
+
+- Refactors the filter function in the "Inventory > Furnishings" and "Creation / Furnishings" interfaces, now supporting more conditions and allowing direct searches.
+
+- When placing Furnishings using the same editing mode, your current position in lists will be remembered. It will not be reset after switching to another Furnishing category.
+
+- Adds the display of Friendship Levels in the Companion tab on the editing screen. Characters without Friendship Lv. 10 will be displayed in descending order of Friendship Level.
+
+- Optimizes the sorting of Character Hangout Events and their corresponding Hangout Memories in the Furnishing "Lingering Moment."
+
+● Genius Invokation TCG
+
+- Standardizes the skill descriptions of certain cards in some challenges.
+
+- Adjusts the text description for the Talent Card "Rending Vortex" of the Character Card "Dvalin" (actual effect remains unchanged).
+
+The original description was: "When your Dvalin, who has this card equipped, is on the field, when Total Collapse attached to opposing active character is removed: Apply Total Collapse to the next opposing standby character."
+
+The adjusted description is: "When your Dvalin, who has this card equipped, is on the field, when Total Collapse attached to an opposing character is removed: Apply Total Collapse to the next opposing standby character."
+
+● System
+
+- Increases the number of party compositions in the "Party Setup > Configure Team" interface from 10 to 15.
+
+- Renames "Fullscreen" in "Display Mode" to "Borderless" in the "Settings / Graphics" interface in the Irminsul Server on PC (actual display effect remains unchanged; after said adjustment, available options in "Display Mode" in the Irminsul Server on PC are "Borderless" and "Windowed").
+
+- Adds a red notification dot in the "Adventurer Handbook > Commissions" interface to remind Travelers to go to the Adventurers' Guild and claim Bonus Rewards after obtaining all 4 Daily Commission Rewards every day.
+
+- Adjusts the "Exit Challenge" interface in the "Test Run" event and adds the "Other Trial Stages" option.
+
+- Adjusts the "Mystic Offering" interface to support the display of the corresponding Artifacts' 2-Piece Set and 4-Piece Set effects.
+
+- Adjusts the source descriptions of Character Ascension Materials and adds a shortcut to "Adventurer Handbook > Domains."
+
+- Adjusts certain button texts in the "Artifacts Filter" and "Artifact Auto-Lock" interfaces.
+
+● Audio
+
+- Adds a voice-over trigger scenario: Related voice-overs will be triggered the first time you obtain a character and view their character portrait, as well as the first time you obtain a character's outfit and view their character outfit portrait.
+
+- Optimizes the "Character/Ascension" screen so that characters' idle voice-overs now stop completely after being interrupted by Ascension voice-overs.
+
+- Optimizes the Korean voice-overs for certain characters and quests.
+
+● Other
+
+- If related achievements of a Commission Quest are not unlocked yet, the probability of that Commission Quest appearing will increase.
+
+- The "Dynamic Character Resolution" feature has been added for PlayStation® and some PC devices. This will be activated by default on PlayStation® and no option will be shown. On PCs that support this feature, you will be able to find and enable "Dynamic Character Resolution" in Settings > Graphics (this option will not be shown on PCs that currently do not support it).
+
+- The text descriptions of some achievements have been fixed (the corresponding Achievement Trophies on PlayStation® cannot be modified currently).
+
+- After the Version 4.4 update, new UID naming rules will be used for newly registered accounts on the Asia server (existing account UIDs will be unaffected).
+
+〓Genius Invokation TCG Balance Adjustment〓
+
+- Adjusts the effect of the Event Card "In Every House a Stove" to the following: Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way).
+
+- Adjusts the effect of the Equipment Card "Vourukasha's Glow": Only after triggering its "draw 1 card" effect, its other effect "heal the attached character for 1 HP" can take effect in that same Round.
+
+- Adjusts the effect of the status "Lightning Rod" for the Character Card "Thunder Manifestation": The effect "While this status is active, can be triggered once: DMG received by the attached character from Thunder Manifestation or its summons is increased by 1." has been adjusted to "When the attached character takes DMG from Thunder Manifestation or its summons: Remove this state, cause this DMG instance to increase by 1."
+
+- Adjusts the Elemental Dice cost of the Talent Card "Grieving Echo" for the Character Card "Thunder Manifestation", and adds effects: The number of dice required has increased from 0 Electro Dice to 3, and adds the effects "Combat Action: When your active character is Thunder Manifestation, equip this card." as well as "After Thunder Manifestation equips this card, immediately use Strifeful Lightning once."
+
+〓Bug Fixes〓
+
+● Enemies
+
+- Fixes an issue whereby, when the enemy "Black Serpent Knight" was defeated, the defeat animation would not play properly in certain situations.
+
+- Fixes an issue whereby, when the enemy "Armored Crab" was hit by Chevreuse's Elemental Burst, it would remain suspended in mid-air for an unusually long time in certain situations.
+
+- Fixes an issue whereby, when different Pneuma- or Ousia-aligned enemies were overloaded at the same time, there was a chance that the enemy "Arithmetic Enhancer Mek" would fail to remove its teammates' Deactivated statuses as it should do.
+
+● Character
+
+- Fixes an issue whereby when Lyney approached opponents after turning into a Grin-Malkin Cat with his Elemental Burst, there was a small chance that he would deal an additional instance of DMG to the same opponent.
+
+- Fixes an issue with the Traveler (Hydro) whereby, when the Sourcewater Droplets produced by casting their Elemental Skill were absorbed, a special effect would abnormally remain.
+
+- Fixes an issue whereby, when Sayu and Furina were in the same party, there was a chance that Sayu's Passive Talent "Yoohoo Art: Silencer's Secret" would abnormally fail to take effect.
+
+● System
+
+- Fixes an issue in the "Adventurer Handbook > Commissions" interface whereby despite still lacking an extremely tiny amount of Encounter Points, it would suggest there were already enough to claim the rewards.
+
+- Fixes an issue whereby the in-game camera would work abnormally when the character used the drive valve in the Fortress of Meropide: Abandoned Production Zone under certain circumstances.
+
+- Fixes an issue whereby the special effects of the All-Devouring Narwhal would display abnormally in the Living Beings section of the Archive after the Version 4.3 update.
+
+- Fixes an issue with Artifacts with 1-Piece Set effect whereby the 1-Piece Set effect would display abnormally as activated without being equipped.
+
+- Removes redundant scene objects under certain lower graphics quality settings.
+
+● Genius Invokation TCG
+
+- Fixes an issue with the Character Card "Cryo Cicin Mage" whereby while using her Elemental Burst, if she took DMG from triggering "Sparks 'n' Splash," "Fatui Ambusher," and other Combat Statuses, the Shield Points of her Flowing Cicin Shield generated by the Cryo Cicins would be incorrect.
+
+- Fixes an issue with the Character Card "Layla" whereby the Combat Status "Curtain of Slumber Shield" created by her Elemental Skill lacked the "Shield" tag.
+
+- Fixes an issue during challenges whereby, when cards imbued with either Pneuma or Ousia energy became Deactivated after casting skills that needed to be prepared, the statuses of these skills would abnormally remain.
+
+- Fixes an issue whereby, when the Character Card "Alhaitham" had the Status "Chisel-Light Mirror" attached, the text description for the character's Normal Attack abnormally failed to state that DMG inflicted would be Dendro DMG (this was purely a textual error as the actual effect was working properly).
+
+● Audio
+
+- Fixes an issue whereby there would be abnormal background noises when enhancing Artifacts.
+
+- Fixes grammar mistakes and errors with the Chinese voice-overs for certain characters and quests.
+
+- Fixes an issue whereby Kuki Shinobu and Navia's Korean chat voice-overs did not match their actual idle animations.
+
+● Other
+
+- Fixes an issue in Co-Op Mode whereby the host couldn't use the Xenochromatic Ball Octopus's ability to interact with targets under certain circumstances.
+
+- Fixes an issue in Co-Op Mode whereby Leisurely Otter (Wildlife) could abnormally swim above the water surface under certain circumstances.
+
+- Fixes an issue with Hydro Crystalflies in Fontaine's underwater areas whereby there was a chance that they didn't appear or they got startled before the character approached close enough.
+
+- Fixes an issue in the Serenitea Pot whereby the "Invite" button of the Gift Set "Full Force Forward in the Forbidden Fortress" was being abnormally obstructed by the furnishing model.
+
+- Fixes an issue whereby, when using a controller to interact with the gadget "Crystalfly Trap" or "Parametric Transformer," the screen for converting Genesis Crystals into Primogems would be abnormally opened in certain situations.
+
+- Fixes some text errors in certain languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+Text-related fixes and optimizations in English include:
+
+◆ Optimizes inconsistencies between certain voice-overs and the corresponding lines in the Version 4.2 Archon Quest.
+
+◆ Optimizes certain translations on the Artifact Auto-Lock screen.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # [Event Wish "The Crane Soars Skyward" - Boosted Drop Rate for "Passerine Herald" Xianyun (Anemo)!](archive/20268.md)
 ## Event Wish - The Crane Soars Skyward
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/8a42705ce459e44aaae3f345ff624a53_5120958252254257516.png)
@@ -562,60 +988,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Gazing Up at Eternity, Looking Down at the World" Event: Take Part to Obtain the Furnishing "Bronze Curio: Ancient Golden Visage"](archive/20177.md)
-## Gazing Up at Eternity, Looking Down at the World
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/a9e70d60de164dcb57c98c4b5c5f4135_3965591567544626310.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version 4.3
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/e65c629ba42f56852deb4516213dc778_7363957777125604827.png)
-
-〓Eligibility〓
-
-Adventure Rank 5 or above
-
-〓Event Details〓
-
-Genshin Impact X Sanxingdui Museum Collaboration Event is now available!
-
-Reach Adventure Rank 5 or above to claim the event-exclusive Furnishing "Bronze Curio: Ancient Golden Visage" from the event page!
-
-※ You can only claim the reward for this event once.
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20180.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/7c1b771e1ae3a4d32e4678b313edf881_851593929772673234.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.3
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/23/77bc8ce33030bc36a950e3ef25faf437_4593027598542148414.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 5 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
