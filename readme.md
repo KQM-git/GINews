@@ -440,6 +440,42 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Primogems Event: The Lantern Rite Fan Art Contest Has Begun!](archive/20313.md)
+## Lantern Rite Fan Art Contest Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/25/c1a7cfe23d7b58b38a1f67bf332416f8_8989086779376349977.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community Fan Art Contest has begun! Take part for a chance to win up to Primogems ×10,000!
+
+[Take Part in the Event >>](https://www.hoyolab.com/article_pre/13504?lang=zh-cn&utm_medium=notice&utm_source=ingame)
+
+Event Duration
+
+2024/01/31 – 2024/02/27 23:59:59 (global)
+
+How to Participate
+
+The contest will have two separate tracks, "HoYoLAB Avatar Frames" and "HoYoLAB Comment Decorations." Submissions must be related to the "Lantern Rite" theme, but there are no restrictions on the specific creative direction.
+
+Event Rewards
+
+First Prize (5 Winners): Primogems ×10,000
+
+Second Prize (10 Winners): Primogems ×5,000
+
+Third Prize (15 Winners): Primogems ×3,000
+
+Popularity Prize (30 Winners): Primogems ×1,000
+
+Lucky Prize (300 Winners): Primogems ×300
+
+Participation Prize (quantity not fixed): "Unusual Hilichurl" Comment Decoration (90 days)
+
+Additionally, 10 works will be chosen to become officially available on HoYoLAB based on their popularity (likes + replies to comments) and overall quality! We're looking forward to seeing everyone's submissions~
+
+-----
+
 # [Take part in "Gifts of Encounter" to win Primogems!](archive/20332.md)
 ## Take part in "Gifts of Encounter" to win Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
