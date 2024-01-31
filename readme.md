@@ -454,6 +454,44 @@ After the Version 4.4 update, iOS devices that support the MetalFX graphics sett
 
 -----
 
+# [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20300.md)
+## The Genshin Impact Version 4.4 Tools Update Is Here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/31/de591f39f2c0619526d7aea65062ef18_4659961550007791681.png)
+
+Dear Travelers,
+
+Genshin Impact Version 4.4 is here, heralding not only the return of the annual Lantern Rite, but also the arrival of two new characters: Xianyun and Gaming! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.4. Let's take a look~
+
+| Teyvat Interactive Map Update: Adds recommended Ascension Material harvest routes for Xianyun and Gaming.
+
+Teyvat Interactive Map Pins now support redirecting to HoYoWiki entries from their details pages.
+
+Recommended Ascension Material harvest routes for the new characters Xianyun and Gaming have been added too, so come check them out~
+
+[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Battle Chronicle Update: Chenyu Vale has been added to the World Exploration details page
+
+Travelers can view their Offering Level and Exploration Progress for different areas within the new region in the World Exploration module.
+
+With the arrival of Version 4.4's new event in Liyue, "Vibrant Harriers Aloft in Spring Breeze," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
+
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Xianyun and Gaming.
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Xianyun and Gaming.
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+| Card Plaza Update: Adds the Character Cards Thoma and Sayu, as well as a variety of Action Cards.
+
+[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # [Primogems Event: The Lantern Rite Fan Art Contest Has Begun!](archive/20313.md)
 ## Lantern Rite Fan Art Contest Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/25/c1a7cfe23d7b58b38a1f67bf332416f8_8989086779376349977.jpg)
