@@ -1,3 +1,19 @@
+# [Version 4.4 New Content Overview](archive/20338.md)
+## Version 4.4 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/30/158f2510332d5c49eea8232dbc65111a_3537255603608000681.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/30/5f88606710740d4586f7ecc33d4e627a_4853901535964545891.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/30/03628661784b3cf04a9dad7f78b303f4_8931983064361807274.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/30/c0f31602d8d7c7ef66a334669f3a55bc_1248237490253951533.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/30/f84f6700dd66ebdb5126458d299c418f_6319758691124659644.jpg)
+
+-----
+
 # ["Vibrant Harriers Aloft in Spring Breeze" Version 4.4 Update Details](archive/20286.md)
 ## Version 4.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/30/b04dfd10996b5d573ec41ddd060f1298_8615352638195330319.jpg)
