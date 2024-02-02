@@ -476,6 +476,32 @@ Please log in between 2024/02/02 16:00:00 (global) and 2024/02/05 16:00:00 (glob
 
 -----
 
+# [The Lantern Rite Discussion Event Has Begun! Take Part to Win Primogems and Obtain Mora Rewards](archive/20312.md)
+## The Lantern Rite Discussion Event Has Begun! Take Part for Guaranteed Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/25/3906d337a272bad5c6de08ba0fde0ae5_2007144783209808433.jpg)
+
+Dear Travelers,
+
+The HoYoLAB Community Forum Commenting Event has begun! Take part in the discussion to obtain Mora ×50,000 and get a chance to win one of 5,000 Primogem prizes!
+
+[Take Part in the Event >>](https://www.hoyolab.com/article_pre/13503?lang=zh-cn&utm_medium=notice&utm_source=ingame)
+
+Event Duration
+
+2024/02/02 – 2024/02/18 23:59:59 (global)
+
+Event Theme
+
+If you could travel to Liyue, who would you like to hang out with, and what would you do? Feel free to use your imagination and share your idea of what the perfect Lantern Rite night would be like~
+
+Event Rewards
+
+Guaranteed: Join the discussion for a guaranteed Mora ×50,000 as well as a Lantern Rite-Exclusive Dynamic Avatar Frame (Permanent)
+
+Raffle: 5,000 winners will be randomly chosen to receive Primogems ×100!
+
+-----
+
 # [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20300.md)
 ## The Genshin Impact Version 4.4 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/31/de591f39f2c0619526d7aea65062ef18_4659961550007791681.png)
