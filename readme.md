@@ -450,7 +450,11 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-After the Version 4.4 update, iOS devices that support the MetalFX graphics setting in the game may encounter the issue of the setting option disappearing, and the settings not taking effect. This issue will be fixed in a future update.
+- There is an issue whereby after the character leaves the water droplet of "Golden Carp's Leap," there is a small probability of encountering abnormalities such as the disappearance of the Elemental Skill, Elemental Burst, and Sprint buttons, inability to switch parties, and the appearance of the crosshair at the center of the screen.
+
+Travelers who experience this issue can try to interact with the water droplet of "Golden Carp's Leap" again, or exit the game via the Paimon Menu before logging in again as a temporary fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+- After the Version 4.4 update, iOS devices that support the MetalFX graphics setting in the game may encounter the issue of the setting option disappearing, and the settings not taking effect. This issue will be fixed in a future update.
 
 〓2024/02/05 16:10:00 (global) Update Details〓
 
