@@ -592,6 +592,26 @@ Raffle: 5,000 winners will be randomly chosen to receive Primogems ×100!
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20346.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20300.md)
 ## The Genshin Impact Version 4.4 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/31/de591f39f2c0619526d7aea65062ef18_4659961550007791681.png)
@@ -1210,22 +1230,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● In the "Hilinigmatic Duel" gameplay, Travelers can challenge formidable opponents within the Domain. Take advantage of the opponents' attacks and make use of stage effects to complete the challenge faster.
 
 ● The "Exploratory Journey" gameplay can only be completed in Single-Player Mode, whereas the "Hilinigmatic Duel" gameplay can be done in Co-Op Mode.
-
------
-
-# [Take part in "Gifts of Encounter" to win Primogems!](archive/20332.md)
-## Take part in "Gifts of Encounter" to win Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/01/18/531f38726f3cb87e26f5b4a3faab0362_4868023150314148337.jpg)
-
-Dear Travelers,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-From January 31 to February 9, if you check in for 7 days in total, you can obtain an extra Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign-in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
