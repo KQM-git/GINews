@@ -902,36 +902,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 29 Available for a Limited Time](archive/20273.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/4ce7ec84377b12faa5c1e119d43e8dfd_2253981796156580055.png)
-
-Round 29 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-**〓Adventurer's Instructional Bundle〓**
-
-Duration: After the Version 4.4 update – 2024/02/14 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-**〓Adventurer's Jumbo Ore Bundle〓**
-
-Duration: After the Version 4.4 update – 2024/02/14 23:59:59 (server)
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [Shenhe's Outfit "Frostflower Dew" Available at a Limited-Time Discount](archive/20274.md)
 ## Frostflower Dew
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/52e3520ae2a3c7071b8bb579c4b9a4c3_9088932271523509798.png)
