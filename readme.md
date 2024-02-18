@@ -866,34 +866,6 @@ After the Version 4.4 update – 2024/03/11 03:59:59 (server)
 
 -----
 
-# ["May Fortune Find You" Daily Login Event](archive/20277.md)
-## May Fortune Find You
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/06237e280dabff3677319812c54c88a8_7898287072174034892.png)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-**〓Event Duration〓**
-
-2024/02/03 04:00:00 (server) – 2024/02/18 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 5 or above
-
-**〓Event Details〓**
-
-**Total Login Days** | **Rewards**
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Mystic Enhancement Ore ×18
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
 # ["Vibrant Harriers Aloft in Spring Breeze" Event: Take part to obtain Xingqiu's outfit and a 4-star character from Liyue of your choice](archive/20278.md)
 ## Vibrant Harriers Aloft in Spring Breeze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/25/278f89d7ba90d3d03032e2c06bb86269_4590750458922007408.png)
