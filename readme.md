@@ -772,57 +772,6 @@ After the Version 4.4 update – 2024/03/11 03:59:59 (server)
 
 -----
 
-# ["Vibrant Harriers Aloft in Spring Breeze" Event: Take part to obtain Xingqiu's outfit and a 4-star character from Liyue of your choice](archive/20278.md)
-## Vibrant Harriers Aloft in Spring Breeze
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/25/278f89d7ba90d3d03032e2c06bb86269_4590750458922007408.png)
-
-**〓Event Duration〓**
-
-**Event Content** |    **Event Content** |    **Start Time**  | **End Time**
---- | --- | --- | ---
-Quest Duration | Act I | 2024/02/05 10:00:00 (server) | 2024/02/26 03:59:59 (server)
-^ | Act II | 2024/02/07 04:00:00 (server) | ^
-^ | Act III | 2024/02/09 04:00:00 (server) | ^
-Gameplay Duration | Paper Shadows A-Foraging | 2024/02/05 10:00:00 (server) | ^
-^ | Joyful Beasts and Their Auspices | 2024/02/05 10:00:00 (server) | ^
-^ | Iridescent Cloud-Striding | 2024/02/07 04:00:00 (server) | ^
-
-※ "Hustle and Bustle" Quest Start Time: 2024/02/11 04:00:00 (server)
-
-※ During the event, complete Act II to obtain "Special Furnishing Gift (I)," and complete the quest "Hustle and Bustle" to obtain "Special Furnishing Gift (II)."
-
-****
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/61cb7539585e8020a4393f3009f5352d_4914267459747892296.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter I: Act III "A New Star Approaches" and Xianyun's Story Quest "Grus Serena Chapter: Act I" first to get the best experience from this event.
-
-※ Complete Furina's Story Quest "Animula Choragi Chapter: Act I" before accepting the quest "Hustle and Bustle" to best enjoy the event.
-
-**〓Event Details〓**
-
-● During the event, the following gameplay modes will unlock in sequence: "Paper Shadows A-Foraging," "Joyful Beasts and Their Auspices," and "Iridescent Cloud-Striding."
-
-● In the "Paper Shadows A-Foraging" gameplay, Travelers can watch unique "Paper Theater" and guide Guoba and Yuegui to find ingredients and cook mouth-wateringly delicious dishes.
-
-● In the "Joyful Beasts and Their Auspices" gameplay, Travelers can play "Just Wushou Dance!" with three others, competing to grab various Teabricks, and experience the boisterous Wushou atmosphere.
-
-● In the "Iridescent Cloud-Striding" gameplay, Travelers can challenge racing trials, and make skillful use of the "Golden Carp's Leap" to agilely traverse the mountains of Chenyu Vale.
-
-● Complete the event's various gameplay modes to gain Festive Fever. Reach a certain amount of Festive Fever to obtain Xingqiu's outfit "Bamboo Rain" and a 4-star character from Liyue of your choice.
-
-● Xingqiu's outfit "Bamboo Rain" will be available for purchase in the Character Outfit Shop after the end of Version 4.4, which will be priced at 1,680 Genesis Crystals.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20276.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/2aced11db7ef3877d6f0a882c1f5f408_3153530013419955040.png)
@@ -850,36 +799,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# ["Triumphant Frenzy" Event: Adapt Swiftly to Dispatch Foes](archive/20279.md)
-## Triumphant Frenzy
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/19/b1a216153427bdfdeda97d1ad431450e_8649130054520114824.png)
-
-**〓Event Duration〓**
-
-2024/02/15 10:00:00 (server) – 2024/02/26 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/04/fce1b7f28d88efa7ddcd9e9fa11ff13e_1241963894308448591.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● For 5 days after the start of the event, a new challenge will become available each day.
-
-● Each challenge will have four rounds of battle. Before the first round of every challenge, you can select four characters to form a team, and before each following challenge round, you can select two characters to join the team.
-
-● Every character starts with 2 Resolve. Each time a character takes part in a combat round, they will lose 1 Resolve. Characters who run out of Resolve cannot continue to be deployed.
-
-● Each challenge will have a unique type of "Roiling Resolve": Special effects will be obtained based on the total Resolve of the team members. Pay attention to these effects and use them effectively to obtain their benefits in battle.
-
-● The trial characters available in this gameplay mode will inherit the same Constellation levels of the characters owned by the Traveler.
 
 -----
 
