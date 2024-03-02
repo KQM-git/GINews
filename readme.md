@@ -504,6 +504,20 @@ Please log in between 2024/02/02 16:00:00 (global) and 2024/02/05 16:00:00 (glob
 
 -----
 
+# [Genshin Impact Version 4.5 Preview](archive/20389.md)
+## The Version 4.5 "Blades Weaving Betwixt Brocade" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/01/0b50fb5696831a26d3faa74cd146cf8d_7972468092829344086.png)
+
+Dear Travelers,
+
+The Version 4.5 "Blades Weaving Betwixt Brocade" Preview page is here!
+
+[>>>>Go to V4.5 "Blades Weaving Betwixt Brocade" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20230302preview-2hu94k/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240302warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # [Genshin Impact's Second Fontaine OST Album "Pelagic Primaevality" Now Available](archive/20354.md)
 ## Second Fontaine OST Album Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/19/4547bd51a450d8ca15f1d973fd74de9a_8679935901969168969.jpg)
