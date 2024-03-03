@@ -518,6 +518,26 @@ The Version 4.5 "Blades Weaving Betwixt Brocade" Preview page is here!
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20384.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Genshin Impact's Second Fontaine OST Album "Pelagic Primaevality" Now Available](archive/20354.md)
 ## Second Fontaine OST Album Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/19/4547bd51a450d8ca15f1d973fd74de9a_8679935901969168969.jpg)
@@ -535,26 +555,6 @@ Spotify:
 Apple Music:
 
 [Click here to listen to "Pelagic Primaevality"](https://music.apple.com/us/album/1729990852)
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/20346.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
