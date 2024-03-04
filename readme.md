@@ -538,26 +538,6 @@ Permanent
 
 -----
 
-# [Genshin Impact's Second Fontaine OST Album "Pelagic Primaevality" Now Available](archive/20354.md)
-## Second Fontaine OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/19/4547bd51a450d8ca15f1d973fd74de9a_8679935901969168969.jpg)
-
-Dear Travelers,
-
-Genshin Impact's second Fontaine OST album "Pelagic Primaevality" is now available! The album's three discs "Les grandes eaux qu'elle avait veillees," "Galliard of Brass and Iron," and "Ad Consummationem Aquarum" feature 68 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Fontaine.
-
-Travelers can go to the following platforms to listen to "Pelagic Primaevality."
-
-Spotify:
-
-[Click here to listen to "Pelagic Primaevality"](https://open.spotify.com/album/66LefdTRwCA7Mj7LCcCGk3)
-
-Apple Music:
-
-[Click here to listen to "Pelagic Primaevality"](https://music.apple.com/us/album/1729990852)
-
------
-
 # [View the Updated Interactive Map, Battle Chronicle, and Other Tools!](archive/20300.md)
 ## The Genshin Impact Version 4.4 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/31/de591f39f2c0619526d7aea65062ef18_4659961550007791681.png)
