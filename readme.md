@@ -1,3 +1,27 @@
+# [Version 4.5 Update Maintenance Preview](archive/20397.md)
+## Version 4.5 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/26/c941908b14dcaf160083796a10645f89_3127323237410943411.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2024/03/13 06:00:00 (global). Please stay tuned to related game update information.
+
+<details open="true">
+<summary>Version 4.5 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/07/2cf855c54f9711795b1cf54f9b32cab5_5091238798457484337.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/07/0dc59d8bc276d97aa4c47cebfde77e7d_8887911637867548336.jpg)
+
+</details>
+
+-----
+
 # ["Vibrant Harriers Aloft in Spring Breeze" Version 4.4 Update Details](archive/20286.md)
 ## Version 4.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/30/b04dfd10996b5d573ec41ddd060f1298_8615352638195330319.jpg)
