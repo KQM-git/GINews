@@ -22,6 +22,260 @@ Our developers are expected to begin performing update maintenance at 2024/03/13
 
 -----
 
+# [Event Wish "Of Silken Clouds Woven" - Boosted Drop Rate for "The Thundering Seamstress" Chiori (Geo)!](archive/20356.md)
+## Event Wish - Of Silken Clouds Woven
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/38722eb43d73b922ad03072354c00309_9070720015701565842.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.5 update — 2024/04/02 17:59:00 (server) | "The Thundering Seamstress" Chiori (Geo) | "Canine Warrior" Gorou (Geo)
+^ | ^ | "Stage Lucida" Yun Jin (Geo)
+^ | ^ | "Treasure of Dream Garden" Dori (Electro)
+
+● During this event wish, the event-exclusive 5-star character "The Thundering Seamstress" Chiori (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Canine Warrior" Gorou (Geo), "Stage Lucida" Yun Jin (Geo), and "Treasure of Dream Garden" Dori (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Oni's Royale" - Boosted Drop Rate for "Hanamizaka Heroics" Arataki Itto (Geo)!](archive/20357.md)
+## Event Wish - Oni's Royale
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/50a71d7c569f51a1bb0b296b3eb24300_2803833930115823041.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.5 update — 2024/04/02 17:59:00 (server) | "Hanamizaka Heroics" Arataki Itto (Geo) | "Canine Warrior" Gorou (Geo)
+^ | ^ | "Stage Lucida" Yun Jin (Geo)
+^ | ^ | "Treasure of Dream Garden" Dori (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Hanamizaka Heroics" Arataki Itto (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Canine Warrior" Gorou (Geo), "Stage Lucida" Yun Jin (Geo), and "Treasure of Dream Garden" Dori (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Uraku Misugiri (Sword) and Redhorn Stonethresher (Claymore)!](archive/20359.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/b95c38ff1a4392e615d3d45983823dd6_3867436787473868025.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 4.5 update — 2024/04/02 17:59:00 (server) | Uraku Misugiri (Sword)   Redhorn Stonethresher (Claymore) | The Alley Flash (Sword)
+^ | ^ | Alley Hunter (Bow)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Uraku Misugiri (Sword) and Redhorn Stonethresher (Claymore) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons The Alley Flash (Sword) and Alley Hunter (Bow) as well as the 4-star  weapons The Bell (Claymore), Dragon's Bane (Polearm), and Favonius Codex (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Uraku Misugiri (Sword) or Redhorn Stonethresher (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Ode to the Dawn Breeze" - Chronicled Wish Now Available!](archive/20402.md)
+## Event Wish - Ode to the Dawn Breeze
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/07/d6a388371a3a766854f21352c99afc20_693443175976849369.jpg)
+
+Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Designatable 5-Star Characters** | **Designatable 5-Star Weapons**
+--- | --- | ---
+After the Version 4.5 update — 2024/04/02 17:59:00 (server)   | "Dance of the Shimmering Wave" Eula (Cryo)   "Astral Reflection" Mona (Hydro)   "Kreideprinz" Albedo (Geo)   "Fleeing Sunlight" Klee (Pyro)   "Dark Side of Dawn" Diluc (Pyro)   "Dandelion Knight" Jean (Anemo) | Skyward Blade (Sword)
+^ | ^ | Aquila Favonia (Sword)
+^ | ^ | Beacon of the Reed Sea (Claymore)
+^ | ^ | Song of Broken Pines (Claymore)
+^ | ^ | Wolf's Gravestone (Claymore)
+^ | ^ | Skyward Pride (Claymore)
+^ | ^ | Skyward Spine (Polearm)
+^ | ^ | Lost Prayer to the Sacred Winds (Catalyst)
+^ | ^ | Skyward Atlas (Catalyst)
+^ | ^ | Hunter's Path (Bow)
+^ | ^ | Skyward Harp (Bow)
+
+● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Ode to the Dawn Breeze" Event Wish of this period!
+
+● During this event wish, the event-exclusive 5-star characters "Dance of the Shimmering Wave" Eula (Cryo), "Kreideprinz" Albedo (Geo), and "Fleeing Sunlight" Klee (Pyro), the event-exclusive 5-star weapons Beacon of the Reed Sea (Claymore), Song of Broken Pines (Claymore), and Hunter's Path (Bow), as well as the event-exclusive 4-star weapons The Alley Flash (Sword), Wine and Song (Catalyst), Mitternachts Waltz (Bow), and Alley Hunter (Bow) will be available for a limited time.
+
+● All 5-star and 4-star items in this Chronicled Wish:
+
+5-Star Characters: Eula, Mona, Albedo, Klee, Diluc, and Jean
+
+5-Star Weapons: Skyward Blade, Aquila Favonia, Beacon of the Reed Sea, Song of Broken Pines, Wolf's Gravestone, Skyward Pride, Skyward Spine, Lost Prayer to the Sacred Winds, Skyward Atlas, Hunter's Path, and Skyward Harp
+
+4-Star Characters: Mika, Rosaria, Sucrose, Diona, Noelle, Bennett, Fischl, Amber, Razor, Kaeya, Barbara, and Lisa
+
+4-Star Weapons: The Alley Flash, Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Favonius Lance, Dragon's Bane, Wine and Song, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Mitternachts Waltz, Alley Hunter, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
+
+※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Cisoria Chapter" Story Quest Overview](archive/20360.md)
+## Cisoria Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/4c6ec9f3f29e4e5caa6960f6678831ab_6585230148907838145.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Chiori's Story Quest "Cisoria Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.5 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+-----
+
+# ["Hangout Events: Series XII" - Story Quest Overview](archive/20361.md)
+## Hangout Events: Series XII
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/06/2b9039e34878ea87c1f6ecd8a88d3cb2_7732531272549409308.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock the Hangout Event for Lynette.
+
+The Hangout Event feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.5 update
+
+**〓Series XII Unlock Criteria〓**
+
+Hangout Event: Lynette - Act I
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+And complete Furina's Story Quest - Animula Choragi Chapter: Act I "The Little Oceanid"
+
+-----
+
+# ["Arcane Amassing" Event Details](archive/20363.md)
+## Arcane Amassing
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/fc8145b38eed235be266975597fdc9ba_2598576066145728687.jpg)
+
+Travelers can earn rich rewards in "Arcane Amassing" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Arcane Amassing" and Furnishing Blueprint "Teahouse Stove: A Capital Cook."
+
+**〓Event Duration〓**
+
+After the Version 4.5 update –  2024/04/22 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/04/22 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 30 Available for a Limited Time](archive/20362.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/9dfa5bd28e21a0e3d0fdbc232cebeb71_3295629520127256538.jpg)
+
+Round 30 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 4.5 update – 2024/03/27 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 4.5 update – 2024/03/27 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20364.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/ffa528237347b4d091305d50765901f7_6001149178994968478.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.5
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/77bc8ce33030bc36a950e3ef25faf437_1542420594208219826.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
 # ["Vibrant Harriers Aloft in Spring Breeze" Version 4.4 Update Details](archive/20286.md)
 ## Version 4.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/30/b04dfd10996b5d573ec41ddd060f1298_8615352638195330319.jpg)
