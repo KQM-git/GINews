@@ -22,6 +22,46 @@ Our developers are expected to begin performing update maintenance at 2024/03/13
 
 -----
 
+# ["Alchemical Ascension" Event: Take Part and Obtain the Event-Exclusive Weapon, Dialogues of the Desert Sages (Polearm)](archive/20365.md)
+## Alchemical Ascension
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/75b1b6c094d535cddc5ecb329180028d_1587740001044765580.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Gameplay Duration | Getting Started | 2024/03/14 10:00:00 (server) | 2024/04/01 03:59:59 (server)
+^ | Gaining Traction | 2024/03/16 04:00:00 (server) | ^
+^ | Red Hot | 2024/03/18 04:00:00 (server) | ^
+
+****
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/05/ad8cdaf3818c91d7cbf3995fbc832eec_7784188762511879785.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" and Eula's Story Quest "Aphros Delos Chapter: Act I" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+●  During the event, you must cultivate ingredients, concoct potions, sell potions, and gain revenue from your business to fund the expansion of your operations.
+
+●  In the "Cultivating Ingredients" gameplay, ingredients that have been specially processed can be used to greater effect during the process of concocting potions.
+
+●  In the "Concocting Potions" gameplay, place your ingredients into the Alchemy Cauldron in a certain order in order to concoct potions with different effects and special characteristics.
+
+●  In the "Selling Potions" gameplay, make your plans according to market news and sell the potions that are in demand to seize business opportunities and garner greater profits.
+
+●  When you reach a designated amount of total shop earnings, you can obtain Dialogues of the Desert Sages, Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
+
+●  By continuously running and managing the shop while achieving the designated objectives, you can obtain Primogems, Hero's Wit, Character Talent Materials, Weapon Ascension Materials, Mystic Enhancement Ore, Mora, and other rewards.
+
+-----
+
 # [Event Wish "Of Silken Clouds Woven" - Boosted Drop Rate for "The Thundering Seamstress" Chiori (Geo)!](archive/20356.md)
 ## Event Wish - Of Silken Clouds Woven
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/38722eb43d73b922ad03072354c00309_9070720015701565842.jpg)
