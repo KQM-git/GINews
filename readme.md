@@ -241,6 +241,8 @@ As some Talent Cards can create effects by "playing" them and not "equipped to t
 
 - On the Wish > History page, the viewable wish record time range has been adjusted from 6 months to 1 year.
 
+- Adds the function to skip dialogue that has been completed in Hangout Events.
+
 〓Genius Invokation TCG Balance Adjustment〓
 
 - "Adjusts the number of Elemental Dice required and effect of the Equipment Card ""Gilded Dreams"": The Elemental Dice cost required will be adjusted from 3 Dice of any element to 3 Dice of the same element.
