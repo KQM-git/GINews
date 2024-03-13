@@ -343,6 +343,34 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [View the Updated Battle Chronicle and Other Tools!](archive/20387.md)
+## The Genshin Impact Version 4.5 Tools Update Is Here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/8ac462045413abb426448d0690491aac_1990314482788259451.png)
+
+Dear Travelers,
+
+Genshin Impact Version 4.5 is here, heralding the arrival of Fontaine's renowned designer, Chiori! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.5. Let's take a look~
+
+| Battle Chronicle Update: Adds the Version 4.5 Events Battle Chronicle
+
+With the arrival of Version 4.5's new event, "Alchemical Ascension," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
+
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new character Chiori
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new character Chiori
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+| Card Plaza Update: Adds the Character Cards Charlotte, Neuvillette, and Kirara, as well as a variety of Action Cards
+
+[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # ["Alchemical Ascension" Event: Take Part and Obtain the Event-Exclusive Weapon, Dialogues of the Desert Sages (Polearm)](archive/20365.md)
 ## Alchemical Ascension
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/75b1b6c094d535cddc5ecb329180028d_1587740001044765580.jpg)
