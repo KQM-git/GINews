@@ -343,6 +343,26 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/20413.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small probability that the character model being controlled will disappear under certain circumstances when Travelers on mobile devices play through Lynette's Hangout Event.
+
+Travelers who encounter this problem can log out of the game and log in again as a temporary fix. If the issue persists or other issues occur, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+〓2024/03/13 18:25:00 (global) Update Details〓
+
+Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
+
+-----
+
 # [View the Updated Battle Chronicle and Other Tools!](archive/20387.md)
 ## The Genshin Impact Version 4.5 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/8ac462045413abb426448d0690491aac_1990314482788259451.png)
