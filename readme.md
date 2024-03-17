@@ -363,31 +363,39 @@ Fixes an issue whereby there is a localization error in Vietnamese and French on
 
 -----
 
-# [View the Updated Battle Chronicle and Other Tools!](archive/20387.md)
-## The Genshin Impact Version 4.5 Tools Update Is Here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/8ac462045413abb426448d0690491aac_1990314482788259451.png)
+# ["Genshin Impact × Discovery" Teyvat Nature Discovery Tour Web Event Now Online!](archive/20380.md)
+## Discover Traces,<br>Explore Nature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/05/ec8e8edaa260ef0b8206bc80360dfaf5_436101999363339688.png)
 
-Dear Travelers,
+The limited-time web event "Discover Traces, Explore Nature" has begun!
 
-Genshin Impact Version 4.5 is here, heralding the arrival of Fontaine's renowned designer, Chiori! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.5. Let's take a look~
+Discover the mysterious creatures of Teyvat together to obtain Primogems and a Serenitea Pot Furnishing.
 
-| Battle Chronicle Update: Adds the Version 4.5 Events Battle Chronicle
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240316discovery/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240316discovery&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
 
-With the arrival of Version 4.5's new event, "Alchemical Ascension," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
+〓Event Duration〓
 
-[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
+2024/03/16 – 2024/06/15 23:59:59 (global)
 
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new character Chiori
+*Rewards cannot be claimed after the event ends. Please claim them in time.
 
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+〓Eligibility〓
 
-| Lineup Simulator Update: Supports related lineup queries and posts for the new character Chiori
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
 
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+〓Event Description〓
 
-| Card Plaza Update: Adds the Character Cards Charlotte, Neuvillette, and Kirara, as well as a variety of Action Cards
+During the event, explore miniature scenes and take photos of creatures from Teyvat based on riddles to complete stages and obtain rewards.
 
-[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
+〓Event Rewards〓
+
+You can obtain a total of Primogems ×40, as well as the Serenitea Pot Furnishing "Let the Desert Bloom" ×1.
+
+*After the event ends, you will no longer be able to claim the rewards, so remember to take part in time.
+
+*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact. Pop Science Journal content consists of objective statements about the real world. It doesn't represent the actual in-game storyline or settings.
 
 -----
 
@@ -685,39 +693,31 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Genshin Impact × Discovery" Teyvat Nature Discovery Tour Web Event Now Online!](archive/20380.md)
-## Discover Traces,<br>Explore Nature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/05/ec8e8edaa260ef0b8206bc80360dfaf5_436101999363339688.png)
+# [View the Updated Battle Chronicle and Other Tools!](archive/20387.md)
+## The Genshin Impact Version 4.5 Tools Update Is Here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/8ac462045413abb426448d0690491aac_1990314482788259451.png)
 
-The limited-time web event "Discover Traces, Explore Nature" has begun!
+Dear Travelers,
 
-Discover the mysterious creatures of Teyvat together to obtain Primogems and a Serenitea Pot Furnishing.
+Genshin Impact Version 4.5 is here, heralding the arrival of Fontaine's renowned designer, Chiori! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.5. Let's take a look~
 
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240316discovery/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240316discovery&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
+| Battle Chronicle Update: Adds the Version 4.5 Events Battle Chronicle
 
-〓Event Duration〓
+With the arrival of Version 4.5's new event, "Alchemical Ascension," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
 
-2024/03/16 – 2024/06/15 23:59:59 (global)
+[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
 
-*Rewards cannot be claimed after the event ends. Please claim them in time.
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new character Chiori
 
-〓Eligibility〓
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
 
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
+| Lineup Simulator Update: Supports related lineup queries and posts for the new character Chiori
 
-〓Event Description〓
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
 
-During the event, explore miniature scenes and take photos of creatures from Teyvat based on riddles to complete stages and obtain rewards.
+| Card Plaza Update: Adds the Character Cards Charlotte, Neuvillette, and Kirara, as well as a variety of Action Cards
 
-〓Event Rewards〓
-
-You can obtain a total of Primogems ×40, as well as the Serenitea Pot Furnishing "Let the Desert Bloom" ×1.
-
-*After the event ends, you will no longer be able to claim the rewards, so remember to take part in time.
-
-*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact. Pop Science Journal content consists of objective statements about the real world. It doesn't represent the actual in-game storyline or settings.
+[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
