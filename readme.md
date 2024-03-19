@@ -357,6 +357,12 @@ There is an issue whereby there is a small probability that the character model 
 
 Travelers who encounter this problem can log out of the game and log in again as a temporary fix. If the issue persists or other issues occur, Travelers can report the issue through the Feedback tab in the Paimon Menu.
 
+〓2024/03/19 14:30:00 (global) Update Details〓
+
+Fixes an issue whereby there was a chance that abnormal plans would be generated via the "Artifacts > Fast Equip > Quick Configuration" function after the Version 4.5 update.
+
+Travelers who encounter this problem can use the "Artifacts > Fast Equip > Quick Configuration" function again to generate the correct plan.
+
 〓2024/03/13 18:25:00 (global) Update Details〓
 
 Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
