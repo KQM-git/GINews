@@ -1,3 +1,29 @@
+# ["The Great Fayz Reaction Debate" Event: Thrilling Time Stopping Challenges](archive/20366.md)
+## The Great Fayz Reaction Debate
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/1d62acd87deb1e2162620ef53749f471_4889654434826343958.jpg)
+
+**〓Event Duration〓**
+
+2024/03/22 10:00:00 (server) – 2024/04/03 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/4e6c71e668e46747fcad9220907f2b30_8513154862410427722.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● You can challenge the first 2 stages starting from the first day of this event. There are a total of 8 stages and a new stage will be unlocked each day.
+
+● During the event, after entering the Fayz Discursive Facility and starting the challenge, if you stop moving or using skills, you will automatically enter the Time Dilation state. At this time, you can rotate the camera freely and take pictures of your character. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.
+
+● During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use certain skills, you can take advantage of the Critical Moment to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.
+
+-----
+
 # [Version 4.5 New Content Overview](archive/20409.md)
 ## Version 4.5 New Content Overview
 
