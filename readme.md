@@ -447,6 +447,26 @@ Fixes an issue whereby there is a localization error in Vietnamese and French on
 
 -----
 
+# [Genshin Impact's Chenyu Vale OST Album "Jadeite Redolence" Now Available](archive/20411.md)
+## Chenyu Vale OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/20/dedf38a7b7f90578df3ebf07f6184a42_7037148211438702334.jpg)
+
+Dear Travelers,
+
+Genshin Impact's Chenyu Vale OST album "Jadeite Redolence" is now available! The album's two discs "Enthralled by the Spring Breeze" and "Clouds Over Lingmeng" feature 54 spectacular tracks composed by the HOYO-MiX team, each one an original composition for Chenyu Vale and its related storylines in Version 4.4.
+
+Travelers can go to the following platforms to listen to "Jadeite Redolence."
+
+Spotify:
+
+[Click here to listen to "Jadeite Redolence"](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz)
+
+Apple Music:
+
+[Click here to listen to "Jadeite Redolence"](https://music.apple.com/us/album/1737205331)
+
+-----
+
 # [Event Wish "Of Silken Clouds Woven" - Boosted Drop Rate for "The Thundering Seamstress" Chiori (Geo)!](archive/20356.md)
 ## Event Wish - Of Silken Clouds Woven
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/38722eb43d73b922ad03072354c00309_9070720015701565842.jpg)
