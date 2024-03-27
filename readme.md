@@ -1,65 +1,3 @@
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20367.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/181ed509b04d719bbb3da5c73251f9b8_4606280661260701827.jpg)
-
-**〓Special Rules〓**
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-**〓Event Duration〓**
-
-2024/03/23 10:00:00 (server) – 2024/04/08 03:59:59 (server)
-
-**〓Event Rewards〓**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/77bc8ce33030bc36a950e3ef25faf437_4918167257369139269.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# ["The Great Fayz Reaction Debate" Event: Thrilling Time Stopping Challenges](archive/20366.md)
-## The Great Fayz Reaction Debate
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/1d62acd87deb1e2162620ef53749f471_4889654434826343958.jpg)
-
-**〓Event Duration〓**
-
-2024/03/22 10:00:00 (server) – 2024/04/03 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/4e6c71e668e46747fcad9220907f2b30_8513154862410427722.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● You can challenge the first 2 stages starting from the first day of this event. There are a total of 8 stages and a new stage will be unlocked each day.
-
-● During the event, after entering the Fayz Discursive Facility and starting the challenge, if you stop moving or using skills, you will automatically enter the Time Dilation state. At this time, you can rotate the camera freely and take pictures of your character. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.
-
-● During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use certain skills, you can take advantage of the Critical Moment to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.
-
------
-
 # [Version 4.5 New Content Overview](archive/20409.md)
 ## Version 4.5 New Content Overview
 
@@ -402,6 +340,68 @@ Text-related fixes and optimizations in English include:
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20367.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/181ed509b04d719bbb3da5c73251f9b8_4606280661260701827.jpg)
+
+**〓Special Rules〓**
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+**〓Event Duration〓**
+
+2024/03/23 10:00:00 (server) – 2024/04/08 03:59:59 (server)
+
+**〓Event Rewards〓**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/77bc8ce33030bc36a950e3ef25faf437_4918167257369139269.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["The Great Fayz Reaction Debate" Event: Thrilling Time Stopping Challenges](archive/20366.md)
+## The Great Fayz Reaction Debate
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/1d62acd87deb1e2162620ef53749f471_4889654434826343958.jpg)
+
+**〓Event Duration〓**
+
+2024/03/22 10:00:00 (server) – 2024/04/03 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/4e6c71e668e46747fcad9220907f2b30_8513154862410427722.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● You can challenge the first 2 stages starting from the first day of this event. There are a total of 8 stages and a new stage will be unlocked each day.
+
+● During the event, after entering the Fayz Discursive Facility and starting the challenge, if you stop moving or using skills, you will automatically enter the Time Dilation state. At this time, you can rotate the camera freely and take pictures of your character. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.
+
+● During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use certain skills, you can take advantage of the Critical Moment to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.
 
 -----
 
