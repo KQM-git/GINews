@@ -1,113 +1,3 @@
-# ["Rolling Crossfire" Event: Turret Shooting Experiments](archive/20368.md)
-## Rolling Crossfire
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/3e52ef429561ee6d13bc5a5886780d80_1974783843463409110.jpg)
-
-**〓Event Duration〓**
-
-2024/04/01 10:00:00 (server) – 2024/04/11 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/bb9df6b1b7e250a5a1419379eecc9809_3395366899324987776.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● A new stage will unlock each day for the first five days after the event starts. Score a certain number of points in the previous stage to open the following one.
-
-● You must control the turret remotely and defeat as many of the endless hordes of Slimes that show up as possible to earn more points.
-
-● Reach specific score milestones to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Sanctifying Unction, Mystic Enhancement Ore, Mora, and other rewards.
-
------
-
-# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/20369.md)
-## Event Wish - Decree of the Deeps
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/2b81ac1b782658dd261bbf97b4cc80c1_5591522775769924503.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2024/04/02 18:00:00 (server) — 2024/04/23 14:59:00 (server) | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Shining Idol" Barbara (Hydro)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Wise Innocence" Yanfei (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Juvenile Galant" Xingqiu (Hydro), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!](archive/20370.md)
-## Event Wish - Leaves in the Wind
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/3770956de0576e560a8797e1aa128664_1999824066155647214.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2024/04/02 18:00:00 (server) — 2024/04/23 14:59:00 (server) | "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | "Shining Idol" Barbara (Hydro)
-^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Wise Innocence" Yanfei (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Juvenile Galant" Xingqiu (Hydro), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tome of the Eternal Flow (Catalyst) and Freedom-Sworn (Sword)!](archive/20371.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/7f5213f079113214ad3a976cd63ee0a2_3961381906503012950.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2024/04/02 18:00:00 (server) — 2024/04/23 14:59:00 (server) | Tome of the Eternal Flow (Catalyst)   Freedom-Sworn (Sword) | Wine and Song (Catalyst)
-^ | ^ | Mitternachts Waltz (Bow)
-^ | ^ | The Flute (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-
-● During this event wish, the event-exclusive 5-star weapons Tome of the Eternal Flow (Catalyst) and Freedom-Sworn (Sword) will receive a huge drop-rate boost!
-
-● During this event wish, the event-exclusive 4-star weapons Wine and Song (Catalyst) and Mitternachts Waltz (Bow), as well as 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), and Favonius Lance (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tome of the Eternal Flow (Catalyst) or Freedom-Sworn (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Version 4.5 New Content Overview](archive/20409.md)
 ## Version 4.5 New Content Overview
 
@@ -453,6 +343,162 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# ["Rolling Crossfire" Event: Turret Shooting Experiments](archive/20368.md)
+## Rolling Crossfire
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/3e52ef429561ee6d13bc5a5886780d80_1974783843463409110.jpg)
+
+**〓Event Duration〓**
+
+2024/04/01 10:00:00 (server) – 2024/04/11 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/bb9df6b1b7e250a5a1419379eecc9809_3395366899324987776.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● A new stage will unlock each day for the first five days after the event starts. Score a certain number of points in the previous stage to open the following one.
+
+● You must control the turret remotely and defeat as many of the endless hordes of Slimes that show up as possible to earn more points.
+
+● Reach specific score milestones to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Sanctifying Unction, Mystic Enhancement Ore, Mora, and other rewards.
+
+-----
+
+# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/20369.md)
+## Event Wish - Decree of the Deeps
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/2b81ac1b782658dd261bbf97b4cc80c1_5591522775769924503.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/04/02 18:00:00 (server) — 2024/04/23 14:59:00 (server) | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Wise Innocence" Yanfei (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Juvenile Galant" Xingqiu (Hydro), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!](archive/20370.md)
+## Event Wish - Leaves in the Wind
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/3770956de0576e560a8797e1aa128664_1999824066155647214.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/04/02 18:00:00 (server) — 2024/04/23 14:59:00 (server) | "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Wise Innocence" Yanfei (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Juvenile Galant" Xingqiu (Hydro), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tome of the Eternal Flow (Catalyst) and Freedom-Sworn (Sword)!](archive/20371.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/7f5213f079113214ad3a976cd63ee0a2_3961381906503012950.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2024/04/02 18:00:00 (server) — 2024/04/23 14:59:00 (server) | Tome of the Eternal Flow (Catalyst)   Freedom-Sworn (Sword) | Wine and Song (Catalyst)
+^ | ^ | Mitternachts Waltz (Bow)
+^ | ^ | The Flute (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+
+● During this event wish, the event-exclusive 5-star weapons Tome of the Eternal Flow (Catalyst) and Freedom-Sworn (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Wine and Song (Catalyst) and Mitternachts Waltz (Bow), as well as 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), and Favonius Lance (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tome of the Eternal Flow (Catalyst) or Freedom-Sworn (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Version Details - What's New ](archive/20413.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small probability that the character model being controlled will disappear under certain circumstances when Travelers on mobile devices play through Lynette's Hangout Event.
+
+Travelers who encounter this problem can log out of the game and log in again as a temporary fix. If the issue persists or other issues occur, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+〓2024/03/28 16:10:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2024/03/21 16:10:00 (global) Update Details〓
+
+- Fixes an issue whereby there was a small chance that enhancement would not occur after selecting Enhance when using the "Artifacts > Enhance > Enhance to Next Tier" function.
+
+- Fixes an issue whereby enemies in Floor 3 of the Spiral Abyss could not be defeated if they fell from the edge of the map after the Version 4.5 update.
+
+- Fixes an issue whereby the "Benediction of the Abyss" was not removed normally under certain circumstances after the character exited the Spiral Abyss.
+
+- Fixes an issue with the event "Alchemical Ascension" whereby there were respective localization errors in English, French, Spanish, Russian, Italian, and Turkish.
+
+In the event's Manage Shop > Red Hot interface, the erroneous portion of the original text reads: "Concoct 1 Advanced Potion."
+
+The revised text reads: "Concoct 1 Expert Potion."
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2024/03/19 14:30:00 (global) Update Details〓
+
+Fixes an issue whereby there was a chance that abnormal plans would be generated via the "Artifacts > Fast Equip > Quick Configuration" function after the Version 4.5 update.
+
+Travelers who encounter this problem can use the "Artifacts > Fast Equip > Quick Configuration" function again to generate the correct plan.
+
+〓2024/03/13 18:25:00 (global) Update Details〓
+
+Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20367.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/181ed509b04d719bbb3da5c73251f9b8_4606280661260701827.jpg)
@@ -512,52 +558,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● During the event, after entering the Fayz Discursive Facility and starting the challenge, if you stop moving or using skills, you will automatically enter the Time Dilation state. At this time, you can rotate the camera freely and take pictures of your character. After conducting any movement or trying to use a Skill, you will cause time to flow normally again.
 
 ● During the challenge, Fayz Force will accumulate over time. You can also obtain it by defeating opponents. Once Fayz Force reaches a certain level, after you use certain skills, you can take advantage of the Critical Moment to enter a Time Dilation state in which Supersense Particles will appear on the field. Adjust your camera angle such that your character blocks the Particles from view to collect them and use your Supersense Skill, and also obtain a random Fayz Furtherance.
-
------
-
-# [Version Details - What's New ](archive/20413.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby there is a small probability that the character model being controlled will disappear under certain circumstances when Travelers on mobile devices play through Lynette's Hangout Event.
-
-Travelers who encounter this problem can log out of the game and log in again as a temporary fix. If the issue persists or other issues occur, Travelers can report the issue through the Feedback tab in the Paimon Menu.
-
-〓2024/03/28 16:10:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2024/03/21 16:10:00 (global) Update Details〓
-
-- Fixes an issue whereby there was a small chance that enhancement would not occur after selecting Enhance when using the "Artifacts > Enhance > Enhance to Next Tier" function.
-
-- Fixes an issue whereby enemies in Floor 3 of the Spiral Abyss could not be defeated if they fell from the edge of the map after the Version 4.5 update.
-
-- Fixes an issue whereby the "Benediction of the Abyss" was not removed normally under certain circumstances after the character exited the Spiral Abyss.
-
-- Fixes an issue with the event "Alchemical Ascension" whereby there were respective localization errors in English, French, Spanish, Russian, Italian, and Turkish.
-
-In the event's Manage Shop > Red Hot interface, the erroneous portion of the original text reads: "Concoct 1 Advanced Potion."
-
-The revised text reads: "Concoct 1 Expert Potion."
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2024/03/19 14:30:00 (global) Update Details〓
-
-Fixes an issue whereby there was a chance that abnormal plans would be generated via the "Artifacts > Fast Equip > Quick Configuration" function after the Version 4.5 update.
-
-Travelers who encounter this problem can use the "Artifacts > Fast Equip > Quick Configuration" function again to generate the correct plan.
-
-〓2024/03/13 18:25:00 (global) Update Details〓
-
-Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
 
 -----
 
