@@ -1,19 +1,3 @@
-# [Version 4.5 New Content Overview](archive/20409.md)
-## Version 4.5 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/12/d92eb77b928e1e50cc2c63e3823194af_4490167898753795413.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/12/a47208255a8ee344a0b55853e44043dd_5454816937842237463.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/12/37bedcee1e68ea7815ef7983a94b9bbd_1871576129587637710.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/12/f90d7bbe1e3f8db76aa3a3a2f3698cf9_1000926063211214078.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/12/c5b9a3e416c04a89eed279985c1b01d2_1458471664636064725.jpg)
-
------
-
 # ["Blades Weaving Betwixt Brocade" Version 4.5 Update Details](archive/20406.md)
 ## Version 4.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/08/bba54b237966a4e8d3248c62e68a47b2_2965075027057362841.jpg)
