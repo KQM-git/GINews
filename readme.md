@@ -539,26 +539,6 @@ Permanent
 
 -----
 
-# [Genshin Impact's Chenyu Vale OST Album "Jadeite Redolence" Now Available](archive/20411.md)
-## Chenyu Vale OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/20/dedf38a7b7f90578df3ebf07f6184a42_7037148211438702334.jpg)
-
-Dear Travelers,
-
-Genshin Impact's Chenyu Vale OST album "Jadeite Redolence" is now available! The album's two discs "Enthralled by the Spring Breeze" and "Clouds Over Lingmeng" feature 54 spectacular tracks composed by the HOYO-MiX team, each one an original composition for Chenyu Vale and its related storylines in Version 4.4.
-
-Travelers can go to the following platforms to listen to "Jadeite Redolence."
-
-Spotify:
-
-[Click here to listen to "Jadeite Redolence"](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz)
-
-Apple Music:
-
-[Click here to listen to "Jadeite Redolence"](https://music.apple.com/us/album/1737205331)
-
------
-
 # ["Arcane Amassing" Event Details](archive/20363.md)
 ## Arcane Amassing
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/fc8145b38eed235be266975597fdc9ba_2598576066145728687.jpg)
