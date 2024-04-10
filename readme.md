@@ -359,32 +359,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# ["Rolling Crossfire" Event: Turret Shooting Experiments](archive/20368.md)
-## Rolling Crossfire
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/3e52ef429561ee6d13bc5a5886780d80_1974783843463409110.jpg)
-
-**〓Event Duration〓**
-
-2024/04/01 10:00:00 (server) – 2024/04/11 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/bb9df6b1b7e250a5a1419379eecc9809_3395366899324987776.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● A new stage will unlock each day for the first five days after the event starts. Score a certain number of points in the previous stage to open the following one.
-
-● You must control the turret remotely and defeat as many of the endless hordes of Slimes that show up as possible to earn more points.
-
-● Reach specific score milestones to obtain Primogems, Hero's Wit, Weapon Ascension Materials, Sanctifying Unction, Mystic Enhancement Ore, Mora, and other rewards.
-
------
-
 # [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/20369.md)
 ## Event Wish - Decree of the Deeps
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/2b81ac1b782658dd261bbf97b4cc80c1_5591522775769924503.jpg)
