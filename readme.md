@@ -1,35 +1,3 @@
-# ["Feline Fortress Furrdyssey" Event: Make Friends With Cute Cats](archive/20372.md)
-## Feline Fortress Furrdyssey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/4588eb097e46bf6ef032a862cea8c2b6_3364000651386154722.jpg)
-
-**〓Event Duration〓**
-
-2024/04/08 10:00:00 (server) – 2024/04/18 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/9ae76ebf42d5216c53c8a699750faecc_5653863492043347855.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" and World Quest "A Teapot to Call Home: Part I" first to get the best experience from this event.
-
-**〓Event Details〓**
-
-● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
-
-● Each stage consists of setting up a "Fluffy Feline Home" and playing with the cat at the "Throne of Meower."
-
-● You must take various requirements into consideration when setting up your "Fluffy Feline Home." You are required to select suitable furnishings in such a way that the overall area fits the attribute requirements exactly, no more and no less. After you have completed your setup, you can place food into the cat food bowl to be acknowledged by them.
-
-● After you have fed a cat, you can call the corresponding cat at the "Throne of Meower" or invite it to play directly. You can touch different parts of the cats to pet them and raise their friendliness.
-
------
-
 # ["Blades Weaving Betwixt Brocade" Version 4.5 Update Details](archive/20406.md)
 ## Version 4.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/08/bba54b237966a4e8d3248c62e68a47b2_2965075027057362841.jpg)
@@ -359,6 +327,84 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# ["Feline Fortress Furrdyssey" Event: Make Friends With Cute Cats](archive/20372.md)
+## Feline Fortress Furrdyssey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/4588eb097e46bf6ef032a862cea8c2b6_3364000651386154722.jpg)
+
+**〓Event Duration〓**
+
+2024/04/08 10:00:00 (server) – 2024/04/18 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/9ae76ebf42d5216c53c8a699750faecc_5653863492043347855.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" and World Quest "A Teapot to Call Home: Part I" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
+
+● Each stage consists of setting up a "Fluffy Feline Home" and playing with the cat at the "Throne of Meower."
+
+● You must take various requirements into consideration when setting up your "Fluffy Feline Home." You are required to select suitable furnishings in such a way that the overall area fits the attribute requirements exactly, no more and no less. After you have completed your setup, you can place food into the cat food bowl to be acknowledged by them.
+
+● After you have fed a cat, you can call the corresponding cat at the "Throne of Meower" or invite it to play directly. You can touch different parts of the cats to pet them and raise their friendliness.
+
+-----
+
+# [Version Details - What's New ](archive/20413.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small probability that the character model being controlled will disappear under certain circumstances when Travelers on mobile devices play through Lynette's Hangout Event.
+
+Travelers who encounter this problem can log out of the game and log in again as a temporary fix. If the issue persists or other issues occur, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+〓2024/03/28 16:10:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2024/03/21 16:10:00 (global) Update Details〓
+
+- Fixes an issue whereby there was a small chance that enhancement would not occur after selecting Enhance when using the "Artifacts > Enhance > Enhance to Next Tier" function.
+
+- Fixes an issue whereby enemies in Floor 3 of the Spiral Abyss could not be defeated if they fell from the edge of the map after the Version 4.5 update.
+
+- Fixes an issue whereby the "Benediction of the Abyss" was not removed normally under certain circumstances after the character exited the Spiral Abyss.
+
+- Fixes an issue with the event "Alchemical Ascension" whereby there were respective localization errors in English, French, Spanish, Russian, Italian, and Turkish.
+
+In the event's Manage Shop > Red Hot interface, the erroneous portion of the original text reads: "Concoct 1 Advanced Potion."
+
+The revised text reads: "Concoct 1 Expert Potion."
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2024/03/19 14:30:00 (global) Update Details〓
+
+Fixes an issue whereby there was a chance that abnormal plans would be generated via the "Artifacts > Fast Equip > Quick Configuration" function after the Version 4.5 update.
+
+Travelers who encounter this problem can use the "Artifacts > Fast Equip > Quick Configuration" function again to generate the correct plan.
+
+〓2024/03/13 18:25:00 (global) Update Details〓
+
+Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
+
+-----
+
 # [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/20369.md)
 ## Event Wish - Decree of the Deeps
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/2b81ac1b782658dd261bbf97b4cc80c1_5591522775769924503.jpg)
@@ -440,52 +486,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Version Details - What's New ](archive/20413.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby there is a small probability that the character model being controlled will disappear under certain circumstances when Travelers on mobile devices play through Lynette's Hangout Event.
-
-Travelers who encounter this problem can log out of the game and log in again as a temporary fix. If the issue persists or other issues occur, Travelers can report the issue through the Feedback tab in the Paimon Menu.
-
-〓2024/03/28 16:10:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2024/03/21 16:10:00 (global) Update Details〓
-
-- Fixes an issue whereby there was a small chance that enhancement would not occur after selecting Enhance when using the "Artifacts > Enhance > Enhance to Next Tier" function.
-
-- Fixes an issue whereby enemies in Floor 3 of the Spiral Abyss could not be defeated if they fell from the edge of the map after the Version 4.5 update.
-
-- Fixes an issue whereby the "Benediction of the Abyss" was not removed normally under certain circumstances after the character exited the Spiral Abyss.
-
-- Fixes an issue with the event "Alchemical Ascension" whereby there were respective localization errors in English, French, Spanish, Russian, Italian, and Turkish.
-
-In the event's Manage Shop > Red Hot interface, the erroneous portion of the original text reads: "Concoct 1 Advanced Potion."
-
-The revised text reads: "Concoct 1 Expert Potion."
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2024/03/19 14:30:00 (global) Update Details〓
-
-Fixes an issue whereby there was a chance that abnormal plans would be generated via the "Artifacts > Fast Equip > Quick Configuration" function after the Version 4.5 update.
-
-Travelers who encounter this problem can use the "Artifacts > Fast Equip > Quick Configuration" function again to generate the correct plan.
-
-〓2024/03/13 18:25:00 (global) Update Details〓
-
-Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
 
 -----
 
