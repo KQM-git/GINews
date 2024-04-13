@@ -609,6 +609,26 @@ With the arrival of Version 4.5's new event, "Alchemical Ascension," the Battle 
 
 -----
 
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2024/04/15 04:00:00 (server) – 2024/04/22 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
