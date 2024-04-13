@@ -327,38 +327,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# ["Feline Fortress Furrdyssey" Event: Make Friends With Cute Cats](archive/20372.md)
-## Feline Fortress Furrdyssey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/4588eb097e46bf6ef032a862cea8c2b6_3364000651386154722.jpg)
-
-**〓Event Duration〓**
-
-2024/04/08 10:00:00 (server) – 2024/04/18 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/9ae76ebf42d5216c53c8a699750faecc_5653863492043347855.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" and World Quest "A Teapot to Call Home: Part I" first to get the best experience from this event.
-
-**〓Event Details〓**
-
-● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
-
-● Each stage consists of setting up a "Fluffy Feline Home" and playing with the cat at the "Throne of Meower."
-
-● You must take various requirements into consideration when setting up your "Fluffy Feline Home." You are required to select suitable furnishings in such a way that the overall area fits the attribute requirements exactly, no more and no less. After you have completed your setup, you can place food into the cat food bowl to be acknowledged by them.
-
-● After you have fed a cat, you can call the corresponding cat at the "Throne of Meower" or invite it to play directly. You can touch different parts of the cats to pet them and raise their friendliness.
-
------
-
 # [Version Details - What's New ](archive/20413.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -410,6 +378,38 @@ Travelers who encounter this problem can use the "Artifacts > Fast Equip > Quick
 〓2024/03/13 18:25:00 (global) Update Details〓
 
 Fixes an issue whereby there is a localization error in Vietnamese and French on the "Details" page of the "Ode to the Dawn Breeze" Chronicled Wish.
+
+-----
+
+# ["Feline Fortress Furrdyssey" Event: Make Friends With Cute Cats](archive/20372.md)
+## Feline Fortress Furrdyssey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/4588eb097e46bf6ef032a862cea8c2b6_3364000651386154722.jpg)
+
+**〓Event Duration〓**
+
+2024/04/08 10:00:00 (server) – 2024/04/18 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/9ae76ebf42d5216c53c8a699750faecc_5653863492043347855.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act II "As Light Rain Falls Without Reason" and World Quest "A Teapot to Call Home: Part I" first to get the best experience from this event.
+
+**〓Event Details〓**
+
+● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
+
+● Each stage consists of setting up a "Fluffy Feline Home" and playing with the cat at the "Throne of Meower."
+
+● You must take various requirements into consideration when setting up your "Fluffy Feline Home." You are required to select suitable furnishings in such a way that the overall area fits the attribute requirements exactly, no more and no less. After you have completed your setup, you can place food into the cat food bowl to be acknowledged by them.
+
+● After you have fed a cat, you can call the corresponding cat at the "Throne of Meower" or invite it to play directly. You can touch different parts of the cats to pet them and raise their friendliness.
 
 -----
 
