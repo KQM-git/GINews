@@ -409,6 +409,20 @@ Fixes an issue whereby there is a localization error in Vietnamese and French on
 
 -----
 
+# [Genshin Impact Version 4.6 Preview](archive/20459.md)
+## The Version 4.6 "Two Worlds Aflame, the Crimson Night Fades" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/12/2e385157740d413784ba47b07deb336f_4350395470446298087.jpg)
+
+Dear Travelers,
+
+The Version 4.6 "Two Worlds Aflame, the Crimson Night Fades" Preview page is here!
+
+[>>>>Go to V4.6 "Two Worlds Aflame, the Crimson Night Fades" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240413preview-pvtga2/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240413warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/20369.md)
 ## Event Wish - Decree of the Deeps
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/2b81ac1b782658dd261bbf97b4cc80c1_5591522775769924503.jpg)
