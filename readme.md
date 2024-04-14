@@ -381,6 +381,22 @@ Fixes an issue whereby there is a localization error in Vietnamese and French on
 
 -----
 
+# [Genshin Impact Fan Art Special Program "Teyvat Film Festival"](archive/20443.md)
+## Genshin Impact Fan Art Special Program Now Online
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/13/c831f642e94a8a0edd8611a93ee74446_7195782451933030956.jpg)
+
+Hello, Travelers! The "Teyvat Film Festival," a fan art special program jointly produced by our creators, is now online!
+
+Program Broadcast Time: April 13, 2024 20:00 (UTC+8)
+
+Travelers, please head over to YouTube to watch the program: [https://youtu.be/WpKMBJEhxXI](https://youtu.be/WpKMBJEhxXI)
+
+A big thank you to all the creators for being so passionate about Genshin Impact and sharing such amazing works! Travelers, please go show your support by heading over to any major content platforms to like their works and leave your comments~
+
+(*Fan works are all derivative creations and do not represent the actual plot and settings in the game.)
+
+-----
+
 # ["Feline Fortress Furrdyssey" Event: Make Friends With Cute Cats](archive/20372.md)
 ## Feline Fortress Furrdyssey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/4588eb097e46bf6ef032a862cea8c2b6_3364000651386154722.jpg)
