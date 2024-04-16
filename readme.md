@@ -381,6 +381,24 @@ Fixes an issue whereby there is a localization error in Vietnamese and French on
 
 -----
 
+# ["Symphony of a Bygone Kingdom": Version 4.6 New Contents Display Page Now Available!](archive/20435.md)
+## "Symphony of a Bygone Kingdom": Version 4.6 New Contents Display Page Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/12/aa43b9abe7c93dffd76fe76e761d8cfe_8619503246563676578.jpg)
+
+Hello, Travelers! After the Version 4.6 update, the new areas, "Nostoi Region" and "Sea of Bygone Eras," will be available. Check out this issue to find out what special features these new areas have!
+
+[>>>> Click to view "Symphony of a Bygone Kingdom" <<<<](https://act.hoyoverse.com/puzzle/hk4e/pz_2iAu7_hp9E/index.html?hyl_presentation_style=fullscreen&win_mode=fullscreen&pz_use_real_ismobile=1&pz_plat=pc&sign_type=2&auth_appid=blueposthg&authkey_ver=1&utm_source=game&utm_medium=ys&utm_campaign=gfnoti)
+
+*After the Version 4.6 update, as long as you have completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom," a Teleport Waypoint will be automatically unlocked near "Petrichor" in the south of Fontaine.
+
+If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update. You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/04/12/716a69362467c182ddce35d4bc6e681e_4248933558791453488.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/04/12/16b3b2410f8b7f8adfeb248c83a25f90_3781052428867938411.jpg)
+
+-----
+
 # [Genshin Impact Fan Art Special Program "Teyvat Film Festival"](archive/20443.md)
 ## Genshin Impact Fan Art Special Program Now Online
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/13/c831f642e94a8a0edd8611a93ee74446_7195782451933030956.jpg)
