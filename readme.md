@@ -381,6 +381,26 @@ Fixes an issue whereby there is a localization error in Vietnamese and French on
 
 -----
 
+# [Genshin Impact "Emberfire" EP Album Now Available](archive/20461.md)
+## "Emberfire" EP Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/d39b1ff099870102bfd35452091f4e66_7479219648038018853.jpg)
+
+Dear Travelers,
+
+Genshin Impact's "Emberfire" EP Album is now available. This album is produced by the HOYO-MiX team and features the OST and its instrumental of the Genshin Impact animated short "The Song Burning in the Embers."
+
+Travelers can go to the following platforms to listen to "Emberfire."
+
+Apple Music:
+
+[Click here to listen to "Emberfire"](https://music.apple.com/us/album/1741309347)
+
+Spotify:
+
+[Click here to listen to "Emberfire"](https://open.spotify.com/album/4nMiZ9uS1DCtHZ2wqS1wRJ)
+
+-----
+
 # ["Symphony of a Bygone Kingdom": Version 4.6 New Contents Display Page Now Available!](archive/20435.md)
 ## "Symphony of a Bygone Kingdom": Version 4.6 New Contents Display Page Now Available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/12/aa43b9abe7c93dffd76fe76e761d8cfe_8619503246563676578.jpg)
