@@ -579,30 +579,6 @@ Permanent
 
 -----
 
-# ["Arcane Amassing" Event Details](archive/20363.md)
-## Arcane Amassing
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/fc8145b38eed235be266975597fdc9ba_2598576066145728687.jpg)
-
-Travelers can earn rich rewards in "Arcane Amassing" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Arcane Amassing" and Furnishing Blueprint "Teahouse Stove: A Capital Cook."
-
-**〓Event Duration〓**
-
-After the Version 4.5 update –  2024/04/22 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/04/22 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20364.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/29/ffa528237347b4d091305d50765901f7_6001149178994968478.jpg)
@@ -658,26 +634,6 @@ With the arrival of Version 4.5's new event, "Alchemical Ascension," the Battle 
 | Card Plaza Update: Adds the Character Cards Charlotte, Neuvillette, and Kirara, as well as a variety of Action Cards
 
 [>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-2024/04/15 04:00:00 (server) – 2024/04/22 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
