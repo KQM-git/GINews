@@ -475,22 +475,6 @@ If you have already completed this Archon Quest, the Teleport Waypoint will be u
 
 -----
 
-# [Genshin Impact Fan Art Special Program "Teyvat Film Festival"](archive/20443.md)
-## Genshin Impact Fan Art Special Program Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/13/c831f642e94a8a0edd8611a93ee74446_7195782451933030956.jpg)
-
-Hello, Travelers! The "Teyvat Film Festival," a fan art special program jointly produced by our creators, is now online!
-
-Program Broadcast Time: April 13, 2024 20:00 (UTC+8)
-
-Travelers, please head over to YouTube to watch the program: [https://youtu.be/WpKMBJEhxXI](https://youtu.be/WpKMBJEhxXI)
-
-A big thank you to all the creators for being so passionate about Genshin Impact and sharing such amazing works! Travelers, please go show your support by heading over to any major content platforms to like their works and leave your comments~
-
-(*Fan works are all derivative creations and do not represent the actual plot and settings in the game.)
-
------
-
 # [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/20369.md)
 ## Event Wish - Decree of the Deeps
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/22/2b81ac1b782658dd261bbf97b4cc80c1_5591522775769924503.jpg)
