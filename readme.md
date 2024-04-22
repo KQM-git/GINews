@@ -30,6 +30,204 @@ Regardless of whether you complete pre-installation, any content you download in
 
 -----
 
+# [Event Wish "The Hearth's Ashen Shadow" - Boosted Drop Rate for "Dire Balemoon" Arlecchino (Pyro)!](archive/20418.md)
+## Event Wish - The Hearth's Ashen Shadow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/e2ec92b60f8511dfb4354790afbcc4a2_4999074800576706369.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured**  **Characters (4-Star)**
+--- | --- | ---
+After the Version 4.6 update — 2024/05/14 17:59:00 (server) | "Dire Balemoon" Arlecchino (Pyro) | "Yearning for Unseen Depths" Freminet (Cryo)
+^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Dire Balemoon" Arlecchino (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Elegance in the Shadows" Lynette (Anemo), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Conjuring Chiaroscuro" - Boosted Drop Rate for "Spectacle of Phantasmagoria" Lyney (Pyro)!](archive/20419.md)
+## Event Wish - Conjuring Chiaroscuro
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/6295ce88a5f25e6bcbdb1e929b431788_6149957833929061252.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+After the Version 4.6 update — 2024/05/14 17:59:00 (server) | "Spectacle of Phantasmagoria" Lyney (Pyro) | "Yearning for Unseen Depths" Freminet (Cryo)
+^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Spectacle of Phantasmagoria" Lyney (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Yearning for Unseen Depths" Freminet (Cryo), "Elegance in the Shadows" Lynette (Anemo), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Crimson Moon's Semblance (Polearm) and The First Great Magic (Bow)!](archive/20420.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/acc0106f027ef7b3112e777eedd8bc2c_2820896595464608683.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+After the Version 4.6 update — 2024/05/14 17:59:00 (server) | Crimson Moon's Semblance (Polearm)   The First Great Magic (Bow) | The Dockhand's Assistant (Sword)
+^ | ^ | Portable Power Saw (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Crimson Moon's Semblance (Polearm) and The First Great Magic (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons The Dockhand's Assistant (Sword), Portable Power Saw (Claymore), as well as the 4-star weapons Dragon's Bane (Polearm), Eye of Perception (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Crimson Moon's Semblance (Polearm) or The First Great Magic (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Ignis Purgatorius Chapter" Story Quest Overview](archive/20422.md)
+## Ignis Purgatorius Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/b49b68d87ef687a739ac9c59dbc1ba5a_3917346690445347852.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Arlecchino's Story Quest "Ignis Purgatorius Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after the Version 4.6 update
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 31 Available for a Limited Time](archive/20423.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/75eb062ee8303a2a3d2d38d084e7fab0_302609362034137474.jpg)
+
+Round 31 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+**〓Adventurer's Instructional Bundle〓**
+
+Duration: After the Version 4.6 update – 2024/05/08 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+**〓Adventurer's Jumbo Ore Bundle〓**
+
+Duration: After the Version 4.6 update – 2024/05/08 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+**〓Adventurer's Seasonal Special Bundle〓**
+
+Duration: After the Version 4.6 update – 2024/05/08 23:59:59 (server)
+
+Bundle Contents: Exotic Share Bundle ×6, Mora ×60,000
+
+Bundle Price: Now 50% off for a limited time! The price after discount is 150 Genesis Crystals. Can be purchased up to five times in total.
+
+※ Exotic Share Bundle: Use to select one of the following to add to your Inventory — Agnidus Agate Fragment ×1, Varunada Lazurite Fragment ×1, Vayuda Turquoise Fragment ×1, Shivada Jade Fragment ×1, Prithiva Topaz Fragment ×1, Vajrada Amethyst Fragment ×1, Nagadus Emerald Fragment ×1.
+
+-----
+
+# ["The Realms Rocked" Event Details](archive/20424.md)
+## The Realms Rocked
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/3e44c21226b8ed1e1dc97e8f8e0d187b_2007414661046950828.jpg)
+
+Travelers can earn rich rewards in "The Realms Rocked" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: The Realms Rocked" and Furnishing Blueprint "Mirror-Reflection Lyre."
+
+**〓Event Duration〓**
+
+After the Version 4.6 update – 2024/06/03 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/06/03 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20425.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/233c6a90dce605704bba99efe3583062_921583068369857901.jpg)
+
+**〓Event Duration〓**
+
+Available throughout the entirety of Version 4.6
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/77bc8ce33030bc36a950e3ef25faf437_319206496758357386.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
 # ["Blades Weaving Betwixt Brocade" Version 4.5 Update Details](archive/20406.md)
 ## Version 4.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/08/bba54b237966a4e8d3248c62e68a47b2_2965075027057362841.jpg)
