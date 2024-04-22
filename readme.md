@@ -643,30 +643,6 @@ Reach Adventure Rank 10 or above
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/20469.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2024/04/19 10:00:00 (global) - 2024/04/22 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-i-_3sB-seXZlJUP2c9jil5vRb6qoRkKRRag_VTNL2n8&game_biz=hk4e_global&surveyId=21841&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [Genshin Impact "Emberfire" EP Album Now Available](archive/20461.md)
 ## "Emberfire" EP Album Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/d39b1ff099870102bfd35452091f4e66_7479219648038018853.jpg)
