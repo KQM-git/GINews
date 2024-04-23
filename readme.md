@@ -663,24 +663,6 @@ Spotify:
 
 -----
 
-# ["Symphony of a Bygone Kingdom": Version 4.6 New Contents Display Page Now Available!](archive/20435.md)
-## "Symphony of a Bygone Kingdom": Version 4.6 New Contents Display Page Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/12/aa43b9abe7c93dffd76fe76e761d8cfe_8619503246563676578.jpg)
-
-Hello, Travelers! After the Version 4.6 update, the new areas, "Nostoi Region" and "Sea of Bygone Eras," will be available. Check out this issue to find out what special features these new areas have!
-
-[>>>> Click to view "Symphony of a Bygone Kingdom" <<<<](https://act.hoyoverse.com/puzzle/hk4e/pz_2iAu7_hp9E/index.html?hyl_presentation_style=fullscreen&win_mode=fullscreen&pz_use_real_ismobile=1&pz_plat=pc&sign_type=2&auth_appid=blueposthg&authkey_ver=1&utm_source=game&utm_medium=ys&utm_campaign=gfnoti)
-
-*After the Version 4.6 update, as long as you have completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom," a Teleport Waypoint will be automatically unlocked near "Petrichor" in the south of Fontaine.
-
-If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update. You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/12/716a69362467c182ddce35d4bc6e681e_4248933558791453488.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/12/16b3b2410f8b7f8adfeb248c83a25f90_3781052428867938411.jpg)
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20441.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -728,34 +710,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [View the Updated Battle Chronicle and Other Tools!](archive/20387.md)
-## The Genshin Impact Version 4.5 Tools Update Is Here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/8ac462045413abb426448d0690491aac_1990314482788259451.png)
-
-Dear Travelers,
-
-Genshin Impact Version 4.5 is here, heralding the arrival of Fontaine's renowned designer, Chiori! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.5. Let's take a look~
-
-| Battle Chronicle Update: Adds the Version 4.5 Events Battle Chronicle
-
-With the arrival of Version 4.5's new event, "Alchemical Ascension," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
-
-[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new character Chiori
-
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new character Chiori
-
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
-| Card Plaza Update: Adds the Character Cards Charlotte, Neuvillette, and Kirara, as well as a variety of Action Cards
-
-[>> Click to Enter the Card Plaza <<](https://act.hoyolab.com/ys/event/bbs-lineup-qskp/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=card&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
