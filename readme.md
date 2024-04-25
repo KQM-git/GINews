@@ -690,26 +690,6 @@ Reach Adventure Rank 10 or above
 
 -----
 
-# [Genshin Impact "Emberfire" EP Album Now Available](archive/20461.md)
-## "Emberfire" EP Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/d39b1ff099870102bfd35452091f4e66_7479219648038018853.jpg)
-
-Dear Travelers,
-
-Genshin Impact's "Emberfire" EP Album is now available. This album is produced by the HOYO-MiX team and features the OST and its instrumental of the Genshin Impact animated short "The Song Burning in the Embers."
-
-Travelers can go to the following platforms to listen to "Emberfire."
-
-Apple Music:
-
-[Click here to listen to "Emberfire"](https://music.apple.com/us/album/1741309347)
-
-Spotify:
-
-[Click here to listen to "Emberfire"](https://open.spotify.com/album/4nMiZ9uS1DCtHZ2wqS1wRJ)
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20441.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
