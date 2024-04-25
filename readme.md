@@ -424,6 +424,26 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/20483.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small probability that Arlecchino's "Masque of the Red Death" state will have an abnormal effect on her Normal Attack DMG increase. This issue will be fixed in a future update. Please stay tuned for future notices.
+
+〓2024/04/25 16:10:00 (global) Update Details〓
+
+- Fixes an issue whereby the "The Auric Anglerfish!" puzzle gameplay at the "Collegium Phonascorum" in the "Sea of Bygone Eras" was unable to progress normally under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the puzzle location and start the challenge again to complete the puzzle normally.
+
+- Fixes an issue whereby the quest objective "Head to the upper level of' 'Domus Aurea'" of the World Quest "Fortune Plango Vulnera" could not be completed due to the abnormal position of the guidance marker under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the indicated quest location and carry out the interaction again to continue the quest normally.
+
+-----
+
 # [View the Updated Battle Chronicle, Enhancement Progression Calculator, and Other Tools!](archive/20447.md)
 ## The Genshin Impact Version 4.6 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/23/18524c778f74e10412e20824fe1ef02e_1967278605914618608.jpg)
