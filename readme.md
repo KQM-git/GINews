@@ -436,6 +436,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue whereby there is a small probability that Arlecchino's "Masque of the Red Death" state will have an abnormal effect on her Normal Attack DMG increase. This issue will be fixed in a future update. Please stay tuned for future notices.
 
+〓2024/04/26 11:40:00 (global) Update Details〓
+
+- Fixes an issue under specific circumstances whereby when carrying out the quest objective "Pass through the Initium Iani with Scylla" in the World Quest "The Last Day of Remuria," the quest could not continue as the text "You go back to the outer face of the Initium Iani..." appeared repeatedly. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again to continue the quest normally.
+
+- Fixes an issue under specific circumstances whereby after completing the quest objective "Break the chains that bind Scylla" in the World Quest "The Last Day of Remuria" at Portus Anticus, Travelers were unable to continue the subsequent dialogue with Scylla. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the south entrance of Portus Anticus and talk to the NPC Este to continue the quest normally.
+
 〓2024/04/25 16:10:00 (global) Update Details〓
 
 - Fixes an issue whereby the "The Auric Anglerfish!" puzzle gameplay at the "Collegium Phonascorum" in the "Sea of Bygone Eras" was unable to progress normally under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the puzzle location and start the challenge again to complete the puzzle normally.
