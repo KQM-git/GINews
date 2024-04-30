@@ -436,6 +436,14 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue whereby there is a small probability that Arlecchino's "Masque of the Red Death" state will have an abnormal effect on her Normal Attack DMG increase. This issue will be fixed in a future update. Please stay tuned for future notices.
 
+〓2024/04/30 11:15:00 (global) Update Details〓
+
+● "Genius Invokation TCG" Balance Adjustments
+
+- Adjusts the Elemental Burst DMG of the Character Card "Yelan": Hydro DMG caused has been adjusted from 1 to 3. The Hydro DMG caused by the Combat Status "Exquisite Throw" from her Elemental Burst has been adjusted from 2 to 1.
+
+- Adjusts the Elemental Dice cost required for the Event Card "Underwater Treasure Hunt": the Elemental Dice cost required has been adjusted from 1 to 2 Dice of the same element.
+
 〓2024/04/29 15:15:00 (global) Update Details〓
 
 Fixes an issue whereby after the Version 4.6 update, when certain enemies were blocked under certain circumstances, there was a small chance that their pathfinding logic could be abnormal.
