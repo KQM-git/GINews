@@ -434,7 +434,7 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is an issue whereby there is a small probability that Arlecchino's "Masque of the Red Death" state will have an abnormal effect on her Normal Attack DMG increase. This issue will be fixed in a future update. Please stay tuned for future notices.
+Other than the updates and fixes on April 26, there is still an issue whereby there is a small probability that C1 Arlecchino's interruption resistance increase would be abnormal when she performs Normal or Charged Attacks while affected by the Masque of the Red Death under specific circumstances. The developers will implement a fix to this issue again in subsequent versions.
 
 〓2024/04/30 11:15:00 (global) Update Details〓
 
