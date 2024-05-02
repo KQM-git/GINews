@@ -468,6 +468,36 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20427.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/8fb57a6b04f19ad329c3200db8dd4ee5_8856652154079642231.jpg)
+
+**〓Special Rules〓**
+
+In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+**〓Event Duration〓**
+
+2024/05/04 10:00:00 (server) – 2024/05/20 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/77bc8ce33030bc36a950e3ef25faf437_1690276814243767207.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+**〓Event Details〓**
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # [Web Event "Savoring the Breeze" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/20452.md)
 ## Web Event "Savoring the Breeze" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/28/5d3b9488913df838a9fb0cf3518da7bf_2378955558860559433.jpg)
