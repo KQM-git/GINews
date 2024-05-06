@@ -424,48 +424,6 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# ["Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness" Event: Take Part to Invite "Canine Warrior" Gorou (Geo)](archive/20428.md)
-## Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/616e285ed112c19342bdf844125e79ea_5690756178041079803.jpg)
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Quest Duration | Act I | 2024/05/06 10:00:00 (server) | 2024/05/27 03:59:59 (server)
-^ | Act II | 2024/05/10 04:00:00 (server) | ^
-Gameplay Duration | Xtreme Carnival Ensemble | 2024/05/06 10:00:00 (server) | ^
-^ | Trillion Trinket Trawl | 2024/05/06 10:00:00 (server) | ^
-^ | A Meeting of Melodies | 2024/05/06 10:00:00 (server) | ^
-
-****
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/eb83509e8da9a777885af90c3570cf67_8491384955434887764.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "Ritou Escape Plan"
-
-※ Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I" and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" to get the best experience from this event.
-
-**〓Event Details〓**
-
-● During the event, the following gameplay modes will unlock in sequence: "Xtreme Carnival Ensemble," "Trillion Trinket Trawl," and "A Meeting of Melodies."
-
-● In the "Xtreme Carnival Ensemble" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
-
-● In the "Xtreme Carnival Ensemble" gameplay, Travelers can also compose their own tracks, and after completing the arrangement, they can go to "Interaction Platform" to share their own pieces, or obtain share codes of other excellent works.
-
-● In the "Trillion Trinket Trawl" gameplay, collect items based on Dvorak's list, and help him make everything the set needs.
-
-● In the "A Meeting of Melodies" gameplay, Travelers will need to listen to the hummed tunes and fill in the missing notes so that they match the melody of the original hummed tunes.
-
-● Complete the event's various gameplay modes to gain "Iridescence Tour Tickets." Collect a certain number of "Iridescence Tour Tickets" to invite "Canine Warrior" Gorou (Geo) as well as to obtain the "Nightwind Horn," Primogems, Crown of Insight, Character Talent Materials, Mora, and other rewards.
-
------
-
 # [Version Details - What's New ](archive/20483.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -507,6 +465,48 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 - Fixes an issue whereby the "The Auric Anglerfish!" puzzle gameplay at the "Collegium Phonascorum" in the "Sea of Bygone Eras" was unable to progress normally under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the puzzle location and start the challenge again to complete the puzzle normally.
 
 - Fixes an issue whereby the quest objective "Head to the upper level of' 'Domus Aurea'" of the World Quest "Fortune Plango Vulnera" could not be completed due to the abnormal position of the guidance marker under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the indicated quest location and carry out the interaction again to continue the quest normally.
+
+-----
+
+# ["Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness" Event: Take Part to Invite "Canine Warrior" Gorou (Geo)](archive/20428.md)
+## Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/616e285ed112c19342bdf844125e79ea_5690756178041079803.jpg)
+
+**〓Event Duration〓**
+
+**Event Content** | **Event Content** | **Start Time** | **End Time**
+--- | --- | --- | ---
+Quest Duration | Act I | 2024/05/06 10:00:00 (server) | 2024/05/27 03:59:59 (server)
+^ | Act II | 2024/05/10 04:00:00 (server) | ^
+Gameplay Duration | Xtreme Carnival Ensemble | 2024/05/06 10:00:00 (server) | ^
+^ | Trillion Trinket Trawl | 2024/05/06 10:00:00 (server) | ^
+^ | A Meeting of Melodies | 2024/05/06 10:00:00 (server) | ^
+
+****
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/eb83509e8da9a777885af90c3570cf67_8491384955434887764.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete the Archon Quest "Ritou Escape Plan"
+
+※ Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I" and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" to get the best experience from this event.
+
+**〓Event Details〓**
+
+● During the event, the following gameplay modes will unlock in sequence: "Xtreme Carnival Ensemble," "Trillion Trinket Trawl," and "A Meeting of Melodies."
+
+● In the "Xtreme Carnival Ensemble" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
+
+● In the "Xtreme Carnival Ensemble" gameplay, Travelers can also compose their own tracks, and after completing the arrangement, they can go to "Interaction Platform" to share their own pieces, or obtain share codes of other excellent works.
+
+● In the "Trillion Trinket Trawl" gameplay, collect items based on Dvorak's list, and help him make everything the set needs.
+
+● In the "A Meeting of Melodies" gameplay, Travelers will need to listen to the hummed tunes and fill in the missing notes so that they match the melody of the original hummed tunes.
+
+● Complete the event's various gameplay modes to gain "Iridescence Tour Tickets." Collect a certain number of "Iridescence Tour Tickets" to invite "Canine Warrior" Gorou (Geo) as well as to obtain the "Nightwind Horn," Primogems, Crown of Insight, Character Talent Materials, Mora, and other rewards.
 
 -----
 
