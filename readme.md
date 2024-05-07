@@ -514,36 +514,6 @@ And complete the Archon Quest "Ritou Escape Plan"
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20427.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/8fb57a6b04f19ad329c3200db8dd4ee5_8856652154079642231.jpg)
-
-**〓Special Rules〓**
-
-In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
-
-**〓Event Duration〓**
-
-2024/05/04 10:00:00 (server) – 2024/05/20 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/77bc8ce33030bc36a950e3ef25faf437_1690276814243767207.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20492.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -626,31 +596,33 @@ After accumulating 2, 7, 12, 19, and 24 positive ratings, you can collect the co
 
 -----
 
-# ["Vibro-Crystal Applications" Event: Vibro-Crystals Connection Challenge](archive/20426.md)
-## Vibro-Crystal Applications
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/627e6e950d90bc79f9762efa118da467_5048928628833772140.jpg)
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20427.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/8fb57a6b04f19ad329c3200db8dd4ee5_8856652154079642231.jpg)
+
+**〓Special Rules〓**
+
+In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
 
 **〓Event Duration〓**
 
-2024/04/28 10:00:00 (server) – 2024/05/09 03:59:59 (server)
+2024/05/04 10:00:00 (server) – 2024/05/20 03:59:59 (server)
 
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/e68e327b89598c1d1827285a4f5d9de2_7059165930014958842.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/77bc8ce33030bc36a950e3ef25faf437_1690276814243767207.png)
 
 **〓Eligibility〓**
 
-Adventure Rank 28 or above
+Adventure Rank 32 or above
 
-And complete the Archon Quest "The Fond Farewell"
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 **〓Event Details〓**
 
-● During the first 6 days of the "Vibro-Crystal Applications" event, one new challenge will be unlocked each day.
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
-● During the "Vibro-Crystal Applications" event, you must split your characters into 2 parties for the challenge. Before you start combat, you may equip each party with a Vibro-Crystal Harmonics Schema. Combine Transmitter Crystals and Receiver Crystals to obtain different combat buffs.
-
-● Each Transmitter Crystal can only project its radiation upon one Receiver Crystal, but each Receiver can receive transmissions from 3 Transmitters. Using different Transmitter Crystals to trigger Receivers will increase their effects.
-
-● During this challenge, you must defeat opponents that constantly emerge to obtain points within the allotted time. Once the challenge ends, you will gain different insignias based on the number of points you gained.
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
@@ -687,6 +659,34 @@ With the arrival of Version 4.6's new events, "Vibro-Crystal Applications" and "
 | Lineup Simulator Update: Supports related lineup queries and posts for the new character Arlecchino
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
+# ["Vibro-Crystal Applications" Event: Vibro-Crystals Connection Challenge](archive/20426.md)
+## Vibro-Crystal Applications
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/627e6e950d90bc79f9762efa118da467_5048928628833772140.jpg)
+
+**〓Event Duration〓**
+
+2024/04/28 10:00:00 (server) – 2024/05/09 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/e68e327b89598c1d1827285a4f5d9de2_7059165930014958842.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 28 or above
+
+And complete the Archon Quest "The Fond Farewell"
+
+**〓Event Details〓**
+
+● During the first 6 days of the "Vibro-Crystal Applications" event, one new challenge will be unlocked each day.
+
+● During the "Vibro-Crystal Applications" event, you must split your characters into 2 parties for the challenge. Before you start combat, you may equip each party with a Vibro-Crystal Harmonics Schema. Combine Transmitter Crystals and Receiver Crystals to obtain different combat buffs.
+
+● Each Transmitter Crystal can only project its radiation upon one Receiver Crystal, but each Receiver can receive transmissions from 3 Transmitters. Using different Transmitter Crystals to trigger Receivers will increase their effects.
+
+● During this challenge, you must defeat opponents that constantly emerge to obtain points within the allotted time. Once the challenge ends, you will gain different insignias based on the number of points you gained.
 
 -----
 
