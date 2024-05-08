@@ -600,34 +600,6 @@ With the arrival of Version 4.6's new events, "Vibro-Crystal Applications" and "
 
 -----
 
-# ["Vibro-Crystal Applications" Event: Vibro-Crystals Connection Challenge](archive/20426.md)
-## Vibro-Crystal Applications
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/627e6e950d90bc79f9762efa118da467_5048928628833772140.jpg)
-
-**〓Event Duration〓**
-
-2024/04/28 10:00:00 (server) – 2024/05/09 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/e68e327b89598c1d1827285a4f5d9de2_7059165930014958842.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 28 or above
-
-And complete the Archon Quest "The Fond Farewell"
-
-**〓Event Details〓**
-
-● During the first 6 days of the "Vibro-Crystal Applications" event, one new challenge will be unlocked each day.
-
-● During the "Vibro-Crystal Applications" event, you must split your characters into 2 parties for the challenge. Before you start combat, you may equip each party with a Vibro-Crystal Harmonics Schema. Combine Transmitter Crystals and Receiver Crystals to obtain different combat buffs.
-
-● Each Transmitter Crystal can only project its radiation upon one Receiver Crystal, but each Receiver can receive transmissions from 3 Transmitters. Using different Transmitter Crystals to trigger Receivers will increase their effects.
-
-● During this challenge, you must defeat opponents that constantly emerge to obtain points within the allotted time. Once the challenge ends, you will gain different insignias based on the number of points you gained.
-
------
-
 # [Event Wish "The Hearth's Ashen Shadow" - Boosted Drop Rate for "Dire Balemoon" Arlecchino (Pyro)!](archive/20418.md)
 ## Event Wish - The Hearth's Ashen Shadow
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/e2ec92b60f8511dfb4354790afbcc4a2_4999074800576706369.jpg)
