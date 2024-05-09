@@ -1,3 +1,87 @@
+# [Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!](archive/20429.md)
+## Event Wish - From Ashes Reborn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1712bf03202a4b44fd2b812a7dd55050_3545841110454694820.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** ** (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | "Eons Adrift" Wanderer (Anemo) | "Fantastical Evening Star" Layla (Cryo)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Eons Adrift" Wanderer (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost！
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!](archive/20430.md)
+## Event Wish - Immaculate Pulse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/2de2345fd1e105efbc2a4ad63972ba7d_4701183401149625898.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | "Beyond Mortality" Baizhu (Dendro) | "Fantastical Evening Star" Layla (Cryo)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Beyond Mortality" Baizhu (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost！
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tulaytullah's Remembrance (Catalyst) and Jadefall's Splendor (Catalyst)!](archive/20431.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/08/223ae54bda0378853bc1b15880441cc7_1998462538106226619.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | Tulaytullah's Remembrance (Catalyst)   Jadefall's Splendor (Catalyst) | Prospector's Drill (Polearm)
+^ | ^ | Range Gauge (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Sacrificial Fragments (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Tulaytullah's Remembrance (Catalyst) and Jadefall's Splendor (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Prospector's Drill (Polearm) and Range Gauge (Bow) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), and Sacrificial Fragments (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tulaytullah's Remembrance (Catalyst) or Jadefall's Splendor (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Version 4.6 New Content Overview](archive/20481.md)
 ## Version 4.6 New Content Overview
 
@@ -469,6 +553,28 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 - Fixes an issue whereby the "The Auric Anglerfish!" puzzle gameplay at the "Collegium Phonascorum" in the "Sea of Bygone Eras" was unable to progress normally under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the puzzle location and start the challenge again to complete the puzzle normally.
 
 - Fixes an issue whereby the quest objective "Head to the upper level of' 'Domus Aurea'" of the World Quest "Fortune Plango Vulnera" could not be completed due to the abnormal position of the guidance marker under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the indicated quest location and carry out the interaction again to continue the quest normally.
+
+-----
+
+# ["Lupus Aureus Chapter: Act II" Story Quest Overview](archive/20421.md)
+## Lupus Aureus Chapter: Act II
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/528a2c0a542200908ef61a7af4577e3c_8706573577703353548.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Cyno's Story Quest "Lupus Aureus Chapter: Act II."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+**〓Quest Start Time〓**
+
+Permanently available after 2024/05/14 18:00:00 (server)
+
+**〓Quest Unlock Criteria〓**
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
+
+And complete Cyno's Story Quest - Lupus Aureus Chapter: Act I "Sands of Solitude"
 
 -----
 
