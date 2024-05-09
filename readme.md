@@ -522,6 +522,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - There is an issue whereby there is a small probability that Arlecchino's "Masque of the Red Death" state will have an abnormal effect on her Normal Attack DMG increase. This issue will be fixed in a future update. Please stay tuned for future notices.
 
+〓2024/05/09 17:40:00 (global) Update Details〓
+
+Fixes an issue whereby unpublished scores in "My Record" could not be imported after clicking the "Import" button on the "Music Compositions" interface of the "Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness" event.
+
 〓2024/05/09 16:10:00 (global) Update Details〓
 
 Updates resources related to subsequent events.
