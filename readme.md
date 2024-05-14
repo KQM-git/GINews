@@ -426,6 +426,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - There is an issue whereby there is a small probability that Arlecchino's "Masque of the Red Death" state will have an abnormal effect on her Normal Attack DMG increase. This issue will be fixed in a future update. Please stay tuned for future notices.
 
+〓2024/05/14 23:50:00 (global) Update Details〓
+
+There is an issue whereby if players actively quit the match during the "Windtrace: Seekers and Strategy" event, there is a probability that the prompt "Game Ended" would appear, resulting in an abnormal results calculation. The Quit function has been temporarily disabled for event matches.
+
 〓2024/05/14 16:05:00 (global) Update Details〓
 
 Adds graphics compatibility support for the new iPad series: iPad Pro (13-inch) (M4), iPad Pro (11-inch) (M4), iPad Air (13-inch) (M2), and iPad Air (11-inch) (M2).
