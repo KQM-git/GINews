@@ -1,115 +1,3 @@
-# ["Windtrace: Seekers and Strategy" Event: Strategic Hide-and-Seek Challenge](archive/20432.md)
-## Windtrace: Seekers and Strategy
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/256e755c0aba5d46f12fde5613dfbcca_8667728486538834251.jpg)
-
-**〓Event Duration〓**
-
-2024/05/14 10:00:00 (server) – 2024/05/27 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/cf7863377aa60e4172907ea004877305_5670559035066841890.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● On each of the 6 days of the event after it has begun, the maximum number of Windtrace Coins you can collect is increased by 1,000. Travelers can obtain Windtrace Coins or complete Strategic Challenges to claim the corresponding rewards.
-
-● A new mechanism "Signaling Device" has been added to this edition of Windtrace. Rebels must repair these devices while avoiding the Hunter's pursuit, while the Hunter must stop the Rebels from repairing these devices, or simply eliminate all the Rebels.
-
-● The first time each Rebel is captured by a Hunter, they will be detained within a "Surveillance Zone" for a while. They will be released automatically once the time of imprisonment ends. Other Rebels can also approach the Surveillance Zone and help their imprisoned comrade escape. When a Rebel who has been imprisoned before is once again captured, that Rebel will be eliminated from the match.
-
-● The Rebels will win if they repair 4 Signaling Devices within the time limit. If they fail to do so, the Hunter will be victorious. If no Rebels on the field can operate freely, e.g. all the Rebels have been captured or eliminated, the Hunter will be earn an early victory.
-
-※ In "Windtrace: Seekers and Strategy," you can earn Windtrace Coins in Solo Mode and matchmade games alongside up to 2 friends. When forming a custom Co-Op party with 3 other friends to play this game or when your Windtrace Coins have reached the current maximum, you will not obtain any Windtrace Coins.
-
------
-
-# [Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!](archive/20429.md)
-## Event Wish - From Ashes Reborn
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1712bf03202a4b44fd2b812a7dd55050_3545841110454694820.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character** ** (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | "Eons Adrift" Wanderer (Anemo) | "Fantastical Evening Star" Layla (Cryo)
-^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
-^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Eons Adrift" Wanderer (Anemo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost！
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!](archive/20430.md)
-## Event Wish - Immaculate Pulse
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/2de2345fd1e105efbc2a4ad63972ba7d_4701183401149625898.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
---- | --- | ---
-2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | "Beyond Mortality" Baizhu (Dendro) | "Fantastical Evening Star" Layla (Cryo)
-^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
-^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Beyond Mortality" Baizhu (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost！
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tulaytullah's Remembrance (Catalyst) and Jadefall's Splendor (Catalyst)!](archive/20431.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/08/223ae54bda0378853bc1b15880441cc7_1998462538106226619.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-**〓Event Wish Details〓**
-
-**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
---- | --- | ---
-2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | Tulaytullah's Remembrance (Catalyst)   Jadefall's Splendor (Catalyst) | Prospector's Drill (Polearm)
-^ | ^ | Range Gauge (Bow)
-^ | ^ | Favonius Sword (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Sacrificial Fragments (Catalyst)
-
-● During this event wish, the event-exclusive 5-star weapons Tulaytullah's Remembrance (Catalyst) and Jadefall's Splendor (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, the event-exclusive 4-star weapons Prospector's Drill (Polearm) and Range Gauge (Bow) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), and Sacrificial Fragments (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tulaytullah's Remembrance (Catalyst) or Jadefall's Splendor (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Version 4.6 New Content Overview](archive/20481.md)
 ## Version 4.6 New Content Overview
 
@@ -589,6 +477,118 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 - Fixes an issue whereby the "The Auric Anglerfish!" puzzle gameplay at the "Collegium Phonascorum" in the "Sea of Bygone Eras" was unable to progress normally under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the puzzle location and start the challenge again to complete the puzzle normally.
 
 - Fixes an issue whereby the quest objective "Head to the upper level of' 'Domus Aurea'" of the World Quest "Fortune Plango Vulnera" could not be completed due to the abnormal position of the guidance marker under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the indicated quest location and carry out the interaction again to continue the quest normally.
+
+-----
+
+# ["Windtrace: Seekers and Strategy" Event: Strategic Hide-and-Seek Challenge](archive/20432.md)
+## Windtrace: Seekers and Strategy
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/256e755c0aba5d46f12fde5613dfbcca_8667728486538834251.jpg)
+
+**〓Event Duration〓**
+
+2024/05/14 10:00:00 (server) – 2024/05/27 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/cf7863377aa60e4172907ea004877305_5670559035066841890.png)
+
+**〓Eligibility〓**
+
+Adventure Rank 20 or above
+
+**〓Event Details〓**
+
+● On each of the 6 days of the event after it has begun, the maximum number of Windtrace Coins you can collect is increased by 1,000. Travelers can obtain Windtrace Coins or complete Strategic Challenges to claim the corresponding rewards.
+
+● A new mechanism "Signaling Device" has been added to this edition of Windtrace. Rebels must repair these devices while avoiding the Hunter's pursuit, while the Hunter must stop the Rebels from repairing these devices, or simply eliminate all the Rebels.
+
+● The first time each Rebel is captured by a Hunter, they will be detained within a "Surveillance Zone" for a while. They will be released automatically once the time of imprisonment ends. Other Rebels can also approach the Surveillance Zone and help their imprisoned comrade escape. When a Rebel who has been imprisoned before is once again captured, that Rebel will be eliminated from the match.
+
+● The Rebels will win if they repair 4 Signaling Devices within the time limit. If they fail to do so, the Hunter will be victorious. If no Rebels on the field can operate freely, e.g. all the Rebels have been captured or eliminated, the Hunter will be earn an early victory.
+
+※ In "Windtrace: Seekers and Strategy," you can earn Windtrace Coins in Solo Mode and matchmade games alongside up to 2 friends. When forming a custom Co-Op party with 3 other friends to play this game or when your Windtrace Coins have reached the current maximum, you will not obtain any Windtrace Coins.
+
+-----
+
+# [Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!](archive/20429.md)
+## Event Wish - From Ashes Reborn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1712bf03202a4b44fd2b812a7dd55050_3545841110454694820.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character** ** (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | "Eons Adrift" Wanderer (Anemo) | "Fantastical Evening Star" Layla (Cryo)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Eons Adrift" Wanderer (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost！
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Immaculate Pulse" - Boosted Drop Rate for "Beyond Mortality" Baizhu (Dendro)!](archive/20430.md)
+## Event Wish - Immaculate Pulse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/2de2345fd1e105efbc2a4ad63972ba7d_4701183401149625898.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Character (5-Star)** | **Featured Characters (4-Star)**
+--- | --- | ---
+2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | "Beyond Mortality" Baizhu (Dendro) | "Fantastical Evening Star" Layla (Cryo)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Beyond Mortality" Baizhu (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Fantastical Evening Star" Layla (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Uncrowned Lord of the Ocean" Beidou (Electro) will receive a huge drop-rate boost！
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Tulaytullah's Remembrance (Catalyst) and Jadefall's Splendor (Catalyst)!](archive/20431.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/08/223ae54bda0378853bc1b15880441cc7_1998462538106226619.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+**〓Event Wish Details〓**
+
+**Event Wish Duration** | **Promotional Weapons (5-Star)** | **Featured Weapons (4-Star)**
+--- | --- | ---
+2024/05/14 18:00:00 (server) — 2024/06/04 14:59:00 (server) | Tulaytullah's Remembrance (Catalyst)   Jadefall's Splendor (Catalyst) | Prospector's Drill (Polearm)
+^ | ^ | Range Gauge (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Sacrificial Fragments (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Tulaytullah's Remembrance (Catalyst) and Jadefall's Splendor (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Prospector's Drill (Polearm) and Range Gauge (Bow) as well as the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), and Sacrificial Fragments (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Tulaytullah's Remembrance (Catalyst) or Jadefall's Splendor (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
