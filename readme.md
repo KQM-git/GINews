@@ -1,15 +1,3 @@
-# [Version 4.6 New Content Overview](archive/20481.md)
-## Version 4.6 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/ee4a2302fe6d011b4e3e771888c4697b_3894012498420209955.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/4c7df6df5e4728b7a8e2940f127b26e6_3960725481214318133.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/2c4838b4acdf8c56838f2baa6473087a_5747041199573601348.jpg)
-
------
-
 # ["Two Worlds Aflame, the Crimson Night Fades" Version 4.6 Update Details](archive/20436.md)
 ## Version 4.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/df995d1429b13ce2c348eb5586ff1813_1089119080189735101.png)
