@@ -716,36 +716,6 @@ Permanent
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20427.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/8fb57a6b04f19ad329c3200db8dd4ee5_8856652154079642231.jpg)
-
-**〓Special Rules〓**
-
-In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
-
-**〓Event Duration〓**
-
-2024/05/04 10:00:00 (server) – 2024/05/20 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/77bc8ce33030bc36a950e3ef25faf437_1690276814243767207.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [View the Updated Battle Chronicle, Enhancement Progression Calculator, and Other Tools!](archive/20447.md)
 ## The Genshin Impact Version 4.6 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/23/18524c778f74e10412e20824fe1ef02e_1967278605914618608.jpg)
