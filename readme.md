@@ -620,26 +620,6 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 -----
 
-# [Genshin Impact's Third Fontaine OST Album "Cantus Aeternus" Now Available](archive/20489.md)
-## Third Fontaine OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/14/8645d7cec9e9dc0406b0b5d6133dbc67_6532110281374543785.jpg)
-
-Dear Travelers,
-
-Genshin Impact's third Fontaine OST album "Cantus Aeternus" is now available! The album's three discs "Versi di Petrichor," "Sumphonia Capitolii," and "Balemoon Rising" feature 39 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Fontaine.
-
-Travelers can go to the following platforms to listen to "Cantus Aeternus."
-
-Apple Music:
-
-[Click here to listen to "Cantus Aeternus"](https://music.apple.com/en/album/1745059190)
-
-Spotify:
-
-[Click here to listen to "Cantus Aeternus"](https://open.spotify.com/album/2n2LvBVabXSthRaLEDGGSe)
-
------
-
 # ["Lupus Aureus Chapter: Act II" Story Quest Overview](archive/20421.md)
 ## Lupus Aureus Chapter: Act II
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/528a2c0a542200908ef61a7af4577e3c_8706573577703353548.jpg)
