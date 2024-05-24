@@ -1,35 +1,3 @@
-# ["Specially-Shaped Saurian Search" Event: A Journey to Negotiate With Formidable Foes](archive/20433.md)
-## Specially-Shaped Saurian Search
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/9259f38f51f474ff39270fb67b9848d8_4078035915514698782.jpg)
-
-**〓Event Duration〓**
-
-2024/05/22 10:00:00 (server) – 2024/06/03 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/e63f2970822933bdb0468c41a46a9dbc_5599780671715933335.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the first day of the event, a new part of the quest will begin every two days. Complete the quest to unlock the associated challenge.
-
-● During the event, you can speak to Ranjit and engage in challenges of varying difficulty. Ranjit will provide you with Negotiation Strategies that can be of great help in combat.
-
-● On Fearless difficulty, you can even adjust your Negotiation Strategies. Decreasing the number of Strategies will increase the difficulty of challenges.
-
-● Complete challenge objectives at different difficulties to obtain the corresponding ratings and rewards.
-
-● A maximum of two players can carry out the challenge in Co-Op Mode. The results of the challenge will be recorded for both players.
-
------
-
 # ["Two Worlds Aflame, the Crimson Night Fades" Version 4.6 Update Details](archive/20436.md)
 ## Version 4.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/df995d1429b13ce2c348eb5586ff1813_1089119080189735101.png)
@@ -505,6 +473,38 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 - Fixes an issue whereby the "The Auric Anglerfish!" puzzle gameplay at the "Collegium Phonascorum" in the "Sea of Bygone Eras" was unable to progress normally under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the puzzle location and start the challenge again to complete the puzzle normally.
 
 - Fixes an issue whereby the quest objective "Head to the upper level of' 'Domus Aurea'" of the World Quest "Fortune Plango Vulnera" could not be completed due to the abnormal position of the guidance marker under certain circumstances. Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again. Head to the indicated quest location and carry out the interaction again to continue the quest normally.
+
+-----
+
+# ["Specially-Shaped Saurian Search" Event: A Journey to Negotiate With Formidable Foes](archive/20433.md)
+## Specially-Shaped Saurian Search
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/9259f38f51f474ff39270fb67b9848d8_4078035915514698782.jpg)
+
+**〓Event Duration〓**
+
+2024/05/22 10:00:00 (server) – 2024/06/03 03:59:59 (server)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/e63f2970822933bdb0468c41a46a9dbc_5599780671715933335.png)
+
+****
+
+**〓Eligibility〓**
+
+Adventure Rank 30 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+**〓Event Details〓**
+
+● After the first day of the event, a new part of the quest will begin every two days. Complete the quest to unlock the associated challenge.
+
+● During the event, you can speak to Ranjit and engage in challenges of varying difficulty. Ranjit will provide you with Negotiation Strategies that can be of great help in combat.
+
+● On Fearless difficulty, you can even adjust your Negotiation Strategies. Decreasing the number of Strategies will increase the difficulty of challenges.
+
+● Complete challenge objectives at different difficulties to obtain the corresponding ratings and rewards.
+
+● A maximum of two players can carry out the challenge in Co-Op Mode. The results of the challenge will be recorded for both players.
 
 -----
 
