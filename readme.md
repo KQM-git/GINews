@@ -508,6 +508,20 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [Genshin Impact Version 4.7 Preview](archive/20527.md)
+## The Version 4.7 "An Everlasting Dream Intertwined" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/24/459d7050ca1c9983596a97d526f3f0e2_1349135584541771211.jpg)
+
+Dear Travelers,
+
+The Version 4.7 "An Everlasting Dream Intertwined" Preview page is here!
+
+[>>>>Go to V4.7 "An Everlasting Dream Intertwined" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240525preview-d6s2mc/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240525warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # ["Windtrace: Seekers and Strategy" Event: Strategic Hide-and-Seek Challenge](archive/20432.md)
 ## Windtrace: Seekers and Strategy
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/256e755c0aba5d46f12fde5613dfbcca_8667728486538834251.jpg)
@@ -861,6 +875,26 @@ You can add works you are interested in to your favorites on the "Iridescence To
 *More details about the rules of the event can be found on the event rules on the event page.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+**〓Event Duration〓**
+
+2024/05/27 04:00:00 (server) –2024/06/03 03:59:59 (server)
+
+**〓Eligibility〓**
+
+After activating corresponding Talent Level-Up Material Domains
+
+**〓Event Details〓**
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
