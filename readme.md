@@ -522,34 +522,6 @@ The Version 4.7 "An Everlasting Dream Intertwined" Preview page is here!
 
 -----
 
-# ["Windtrace: Seekers and Strategy" Event: Strategic Hide-and-Seek Challenge](archive/20432.md)
-## Windtrace: Seekers and Strategy
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/256e755c0aba5d46f12fde5613dfbcca_8667728486538834251.jpg)
-
-**〓Event Duration〓**
-
-2024/05/14 10:00:00 (server) – 2024/05/27 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/cf7863377aa60e4172907ea004877305_5670559035066841890.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● On each of the 6 days of the event after it has begun, the maximum number of Windtrace Coins you can collect is increased by 1,000. Travelers can obtain Windtrace Coins or complete Strategic Challenges to claim the corresponding rewards.
-
-● A new mechanism "Signaling Device" has been added to this edition of Windtrace. Rebels must repair these devices while avoiding the Hunter's pursuit, while the Hunter must stop the Rebels from repairing these devices, or simply eliminate all the Rebels.
-
-● The first time each Rebel is captured by a Hunter, they will be detained within a "Surveillance Zone" for a while. They will be released automatically once the time of imprisonment ends. Other Rebels can also approach the Surveillance Zone and help their imprisoned comrade escape. When a Rebel who has been imprisoned before is once again captured, that Rebel will be eliminated from the match.
-
-● The Rebels will win if they repair 4 Signaling Devices within the time limit. If they fail to do so, the Hunter will be victorious. If no Rebels on the field can operate freely, e.g. all the Rebels have been captured or eliminated, the Hunter will be earn an early victory.
-
-※ In "Windtrace: Seekers and Strategy," you can earn Windtrace Coins in Solo Mode and matchmade games alongside up to 2 friends. When forming a custom Co-Op party with 3 other friends to play this game or when your Windtrace Coins have reached the current maximum, you will not obtain any Windtrace Coins.
-
------
-
 # [Event Wish "From Ashes Reborn" - Boosted Drop Rate for "Eons Adrift" Wanderer (Anemo)!](archive/20429.md)
 ## Event Wish - From Ashes Reborn
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1712bf03202a4b44fd2b812a7dd55050_3545841110454694820.jpg)
@@ -653,48 +625,6 @@ Adventure Rank 40 or above
 Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
 
 And complete Cyno's Story Quest - Lupus Aureus Chapter: Act I "Sands of Solitude"
-
------
-
-# ["Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness" Event: Take Part to Invite "Canine Warrior" Gorou (Geo)](archive/20428.md)
-## Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/616e285ed112c19342bdf844125e79ea_5690756178041079803.jpg)
-
-**〓Event Duration〓**
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Quest Duration | Act I | 2024/05/06 10:00:00 (server) | 2024/05/27 03:59:59 (server)
-^ | Act II | 2024/05/10 04:00:00 (server) | ^
-Gameplay Duration | Xtreme Carnival Ensemble | 2024/05/06 10:00:00 (server) | ^
-^ | Trillion Trinket Trawl | 2024/05/06 10:00:00 (server) | ^
-^ | A Meeting of Melodies | 2024/05/06 10:00:00 (server) | ^
-
-****
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/eb83509e8da9a777885af90c3570cf67_8491384955434887764.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "Ritou Escape Plan"
-
-※ Complete Arataki Itto's Story Quest "Taurus Iracundus Chapter: Act I" and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" to get the best experience from this event.
-
-**〓Event Details〓**
-
-● During the event, the following gameplay modes will unlock in sequence: "Xtreme Carnival Ensemble," "Trillion Trinket Trawl," and "A Meeting of Melodies."
-
-● In the "Xtreme Carnival Ensemble" gameplay, Travelers can participate in a music performance. During the performance, different notes will appear on the screen. The amount of points scored will vary depending on the timing of your stroke according to the rhythm.
-
-● In the "Xtreme Carnival Ensemble" gameplay, Travelers can also compose their own tracks, and after completing the arrangement, they can go to "Interaction Platform" to share their own pieces, or obtain share codes of other excellent works.
-
-● In the "Trillion Trinket Trawl" gameplay, collect items based on Dvorak's list, and help him make everything the set needs.
-
-● In the "A Meeting of Melodies" gameplay, Travelers will need to listen to the hummed tunes and fill in the missing notes so that they match the melody of the original hummed tunes.
-
-● Complete the event's various gameplay modes to gain "Iridescence Tour Tickets." Collect a certain number of "Iridescence Tour Tickets" to invite "Canine Warrior" Gorou (Geo) as well as to obtain the "Nightwind Horn," Primogems, Crown of Insight, Character Talent Materials, Mora, and other rewards.
 
 -----
 
