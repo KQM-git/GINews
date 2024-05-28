@@ -476,6 +476,16 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 
 -----
 
+# [Version 4.7 Genius Invokation TCG Content Display Page Now Available!](archive/20523.md)
+## Version 4.7 Genius Invokation TCG Content Display Page Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/24/f143fbefa4a1aca57104948376c436d9_4156724129132924702.jpg)
+
+[>> Click to view the Version 4.7 Genius Invokation TCG Content Display Page <<](https://act.hoyoverse.com/puzzle/hk4e/pz_0IPS25bcJA/index.html?hyl_presentation_style=fullscreen&sign_type=2&authkey_ver=1&auth_appid=pz_0IPS25bcJA)
+
+Greetings, Traveler! Head to the Version 4.7 Genius Invokation TCG Content Display Page to check out new cards and gameplay~
+
+-----
+
 # ["Specially-Shaped Saurian Search" Event: A Journey to Negotiate With Formidable Foes](archive/20433.md)
 ## Specially-Shaped Saurian Search
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/9259f38f51f474ff39270fb67b9848d8_4078035915514698782.jpg)
