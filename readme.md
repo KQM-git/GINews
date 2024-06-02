@@ -554,38 +554,6 @@ Greetings, Traveler! Head to the Version 4.7 Genius Invokation TCG Content Displ
 
 -----
 
-# ["Specially-Shaped Saurian Search" Event: A Journey to Negotiate With Formidable Foes](archive/20433.md)
-## Specially-Shaped Saurian Search
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/9259f38f51f474ff39270fb67b9848d8_4078035915514698782.jpg)
-
-**〓Event Duration〓**
-
-2024/05/22 10:00:00 (server) – 2024/06/03 03:59:59 (server)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/e63f2970822933bdb0468c41a46a9dbc_5599780671715933335.png)
-
-****
-
-**〓Eligibility〓**
-
-Adventure Rank 30 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-**〓Event Details〓**
-
-● After the first day of the event, a new part of the quest will begin every two days. Complete the quest to unlock the associated challenge.
-
-● During the event, you can speak to Ranjit and engage in challenges of varying difficulty. Ranjit will provide you with Negotiation Strategies that can be of great help in combat.
-
-● On Fearless difficulty, you can even adjust your Negotiation Strategies. Decreasing the number of Strategies will increase the difficulty of challenges.
-
-● Complete challenge objectives at different difficulties to obtain the corresponding ratings and rewards.
-
-● A maximum of two players can carry out the challenge in Co-Op Mode. The results of the challenge will be recorded for both players.
-
------
-
 # [Genshin Impact Version 4.7 Preview](archive/20527.md)
 ## The Version 4.7 "An Everlasting Dream Intertwined" Preview page is here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/24/459d7050ca1c9983596a97d526f3f0e2_1349135584541771211.jpg)
@@ -762,30 +730,6 @@ With the arrival of Version 4.6's new events, "Vibro-Crystal Applications" and "
 
 -----
 
-# ["The Realms Rocked" Event Details](archive/20424.md)
-## The Realms Rocked
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/3e44c21226b8ed1e1dc97e8f8e0d187b_2007414661046950828.jpg)
-
-Travelers can earn rich rewards in "The Realms Rocked" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: The Realms Rocked" and Furnishing Blueprint "Mirror-Reflection Lyre."
-
-**〓Event Duration〓**
-
-After the Version 4.6 update – 2024/06/03 03:59:59 (server)
-
-**〓Eligibility〓**
-
-Adventure Rank 20 or above
-
-**〓Event Details〓**
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/06/03 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20425.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/233c6a90dce605704bba99efe3583062_921583068369857901.jpg)
@@ -813,26 +757,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
-
------
-
-# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/3814.md)
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/d57d50a9b8fd0e6fc427f0f0b9e0f426_6857870438560182482.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-**〓Event Duration〓**
-
-2024/05/27 04:00:00 (server) –2024/06/03 03:59:59 (server)
-
-**〓Eligibility〓**
-
-After activating corresponding Talent Level-Up Material Domains
-
-**〓Event Details〓**
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
