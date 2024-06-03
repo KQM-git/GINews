@@ -34,6 +34,230 @@ Regardless of whether you complete pre-installation, any content you download in
 
 -----
 
+# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
+
+After listening to the bedtime story that day, all the hilichurls had a dream.
+
+The young soul waved goodbye, and the people and sun slept together warmly.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+The "Focused Experience Mode" function is available for this quest.
+
+〓Quest Start Time〓
+
+After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
+
+〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Event Wish "Illuminating Lightning" - Boosted Drop Rate for "Candlebearer, Shadowhunter" Clorinde (Electro)!](archive/20502.md)
+## Event Wish - Illuminating Lightning
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/e40a1f182c0fd56d2b3a4cfb9c4747b3_7499018005039620648.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 4.7 update  —  2024/06/25 17:59:00 (server) | "Candlebearer, Shadowhunter" Clorinde (Electro) | "Wisdom's Measure" Sethos (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Protector From Afar" Thoma (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Candlebearer, Shadowhunter" Clorinde (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wisdom's Measure" Sethos (Electro), "Trial by Fire" Bennett (Pyro), and "Protector From Afar" Thoma (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Wisdom's Measure" Sethos (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Caution in Confidence" - Boosted Drop Rate for "Admonishing Instruction" Alhaitham (Dendro)!](archive/20503.md)
+## Event Wish - Caution in Confidence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/d7d544e071ff4352aa0790cb656503ba_7728878725032236618.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 4.7 update  —  2024/06/25 17:59:00 (server) | "Admonishing Instruction" Alhaitham (Dendro) | "Wisdom's Measure" Sethos (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Protector From Afar" Thoma (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Admonishing Instruction" Alhaitham (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wisdom's Measure" Sethos (Electro), "Trial by Fire" Bennett (Pyro), and "Protector From Afar" Thoma (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Wisdom's Measure" Sethos (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Absolution (Sword) and Light of Foliar Incision (Sword)!](archive/20504.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/ee73cca2d623a147e7ff77419e00e36d_1754512812306664562.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 4.7 update  —  2024/06/25 17:59:00 (server) | Absolution (Sword)  Light of Foliar Incision (Sword) | Lithic Spear (Polearm)
+^ | ^ | Sacrificial Sword (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Absolution (Sword) and Light of Foliar Incision (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapon Lithic Spear (Polearm) as well as the 4-star weapons Sacrificial Sword (Sword), Sacrificial Greatsword (Claymore), The Widsith (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Absolution (Sword) or Light of Foliar Incision (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Rapperia Chapter" Story Quest Overview](archive/20505.md)
+## Rapperia Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/ac55dfc9393757c1ec0008fa9e9ab2ce_6401437932311359918.png)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Clorinde's Story Quest "Rapperia Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+〓Quest Start Time〓
+
+Permanently available after the Version 4.7 update
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+And complete Furina's Story Quest - Animula Choragi Chapter: Act I "The Little Oceanid"
+
+-----
+
+# ["Simulnation" Event Details](archive/20507.md)
+## Simulnation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/a393d050510a5248e41a5309d825bcc3_4715632665218223350.png)
+
+Travelers can earn rich rewards in "Simulnation" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Simulnation" and Furnishing Blueprint "Model Contraption: Standard Musical Mode."
+
+〓Event Duration〓
+
+After the Version 4.7 update – 2024/07/15 03:59:59 (server)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/07/15 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 32 Available for a Limited Time](archive/20506.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/e07a74170910486ace83784a885fa776_4763841351972592195.png)
+
+Round 32 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 4.7 update – 2024/06/19 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 4.7 update – 2024/06/19 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20508.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/2aced11db7ef3877d6f0a882c1f5f408_3497207719847849432.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 4.7
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_7306061833689363980.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
 # ["Two Worlds Aflame, the Crimson Night Fades" Version 4.6 Update Details](archive/20436.md)
 ## Version 4.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/df995d1429b13ce2c348eb5586ff1813_1089119080189735101.png)
@@ -512,6 +736,26 @@ Fixes an issue whereby there is a small probability that C1 Arlecchino's interru
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20549.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [An Eventful Vacation — The Web Event for Genshin Impact's new character: Clorinde is now available.](archive/20530.md)
 ## An Eventful Vacation — The Web Event for Genshin Impact's new character: Clorinde is now available.
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/e5236e37fcc93bfdabf5d79ab16adc0a_2930013873367941119.jpg)
@@ -707,26 +951,6 @@ Adventure Rank 40 or above
 Complete Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises"
 
 And complete Cyno's Story Quest - Lupus Aureus Chapter: Act I "Sands of Solitude"
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/20492.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
