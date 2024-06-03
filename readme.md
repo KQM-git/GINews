@@ -1,3 +1,39 @@
+# [Version 4.7 Update Maintenance Preview](archive/20538.md)
+## Version 4.7 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/26/c941908b14dcaf160083796a10645f89_3127323237410943411.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2024/06/05 06:00:00 (global). Please stay tuned to related game update information.
+
+In this update, the logic of some game files on PC have been adjusted, meaning that the pre-installation and update process on PC will require a large amount of space.
+
+Compared to the size of the pre-installation package, after the update, the overall package size of the game is not expected to increase significantly compared to Version 4.6.
+
+We recommend that you save sufficient space on your device and complete this download over a Wi-Fi connection.
+
+During the pre-installation and installation process, the storage space required for unzipping on PC will be between 20–28 GB. The size of the pre-installation resource package will be between 19–25 GB.
+
+After the version update, the total file size on PC is estimated to increase by 2–4 GB compared to Version 4.6.
+
+Regardless of whether you complete pre-installation, any content you download in advance will increase the download speed during the version update.
+
+<details open="true">
+<summary>Version 4.7 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/30/5c080716771a12cf7a9dff27b54168b2_2222584861229176261.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/30/154a3fbbff368229564e3319a8417d96_4561980308324830974.jpg)
+
+</details>
+
+-----
+
 # ["Two Worlds Aflame, the Crimson Night Fades" Version 4.6 Update Details](archive/20436.md)
 ## Version 4.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/17/df995d1429b13ce2c348eb5586ff1813_1089119080189735101.png)
