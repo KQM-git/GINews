@@ -1,31 +1,3 @@
-# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
-
-After listening to the bedtime story that day, all the hilichurls had a dream.
-
-The young soul waved goodbye, and the people and sun slept together warmly.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-The "Focused Experience Mode" function is available for this quest.
-
-〓Quest Start Time〓
-
-After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
-
-〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
@@ -464,6 +436,34 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 ◆ Optimizes certain English translations.
 
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
+
+After listening to the bedtime story that day, all the hilichurls had a dream.
+
+The young soul waved goodbye, and the people and sun slept together warmly.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+The "Focused Experience Mode" function is available for this quest.
+
+〓Quest Start Time〓
+
+After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
+
+〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
