@@ -286,36 +286,6 @@ Uncover the truth behind the three rumors to obtain Primogems, Character Ascensi
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20425.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/10/233c6a90dce605704bba99efe3583062_921583068369857901.jpg)
-
-**〓Event Duration〓**
-
-Available throughout the entirety of Version 4.6
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/03/26/77bc8ce33030bc36a950e3ef25faf437_319206496758357386.png)
-
-**〓Eligibility〓**
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-**〓Event Details〓**
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
-
------
-
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
