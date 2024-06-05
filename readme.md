@@ -471,6 +471,12 @@ Travelers who encounter this issue can try to restore the default controller but
 
 - There is an issue whereby incorrect voice-over resources for some of Sethos's Chinese voice-overs were used in the cutscene animation of Cyno's Story Quest Lupus Aureus Chapter: Act II "Oathkeeper." This issue will be fixed in Version 4.8.
 
+〓2024/06/05 17:10:00 (global) Update Details〓
+
+- Fixes an issue whereby there is a text error in the namecard "Achievement: Poetic Pages" in the Simplified Chinese interface.
+
+- Fixes an issue whereby there are text errors in the namecard "Sethos: Ba Fragment" in the Simplified Chinese and Traditional Chinese interfaces.
+
 -----
 
 # ["Mutual Security Enhancing Simulation" Event: Take Part and Obtain the Event-Exclusive Weapon, Cloudforged (Bow)](archive/20509.md)
