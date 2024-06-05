@@ -455,6 +455,24 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 
 -----
 
+# [Version Details - What's New ](archive/20556.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- There is an issue under certain circumstances whereby Travelers using controllers with iOS devices will encounter issues of corresponding skill icons not displaying for the bumper button and trigger button (taking the XBOX wireless controller as an example, corresponding to the RB and RT buttons), and the buttons not working when pressed.
+
+Travelers who encounter this issue can try to restore the default controller button settings through the "Settings/Controls" interface as a temporary fix to the issue. Travelers can reset the button control settings as needed subsequently. If the issue persists, please contact Customer Service to provide feedback.
+
+- There is an issue whereby incorrect voice-over resources for some of Sethos's Chinese voice-overs were used in the cutscene animation of Cyno's Story Quest Lupus Aureus Chapter: Act II "Oathkeeper." This issue will be fixed in Version 4.8.
+
+-----
+
 # ["Mutual Security Enhancing Simulation" Event: Take Part and Obtain the Event-Exclusive Weapon, Cloudforged (Bow)](archive/20509.md)
 ## Mutual Security Enhancing Simulation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/ba1ede423ef86f23a2bb29f8d420f7c9_5127544320499087107.png)
@@ -489,24 +507,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● During the challenge, after selecting a combat unit or a frontline building, it can be deployed within your base's staging area. After combat units have been deployed, they will automatically engage the enemy. Meanwhile, use your Leadership Skill at opportune moments to gain an edge for your party.
 
 ● Complete the event's various challenges to gain Analysis Progress. Reach a certain amount of Analysis Progress to obtain Cloudforged (Bow), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
-
------
-
-# [Version Details - What's New ](archive/20556.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-- There is an issue under certain circumstances whereby Travelers using controllers with iOS devices will encounter issues of corresponding skill icons not displaying for the bumper button and trigger button (taking the XBOX wireless controller as an example, corresponding to the RB and RT buttons), and the buttons not working when pressed.
-
-Travelers who encounter this issue can try to restore the default controller button settings through the "Settings/Controls" interface as a temporary fix to the issue. Travelers can reset the button control settings as needed subsequently. If the issue persists, please contact Customer Service to provide feedback.
-
-- There is an issue whereby incorrect voice-over resources for some of Sethos's Chinese voice-overs were used in the cutscene animation of Cyno's Story Quest Lupus Aureus Chapter: Act II "Oathkeeper." This issue will be fixed in Version 4.8.
 
 -----
 
