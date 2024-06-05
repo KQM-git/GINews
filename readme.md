@@ -455,6 +455,34 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 
 -----
 
+# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
+
+After listening to the bedtime story that day, all the hilichurls had a dream.
+
+The young soul waved goodbye, and the people and sun slept together warmly.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+The "Focused Experience Mode" function is available for this quest.
+
+〓Quest Start Time〓
+
+After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
+
+〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # [Version Details - What's New ](archive/20556.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -517,34 +545,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● During the challenge, after selecting a combat unit or a frontline building, it can be deployed within your base's staging area. After combat units have been deployed, they will automatically engage the enemy. Meanwhile, use your Leadership Skill at opportune moments to gain an edge for your party.
 
 ● Complete the event's various challenges to gain Analysis Progress. Reach a certain amount of Analysis Progress to obtain Cloudforged (Bow), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
-
------
-
-# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
-
-After listening to the bedtime story that day, all the hilichurls had a dream.
-
-The young soul waved goodbye, and the people and sun slept together warmly.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-The "Focused Experience Mode" function is available for this quest.
-
-〓Quest Start Time〓
-
-After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
-
-〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
