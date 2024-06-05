@@ -221,7 +221,7 @@ The composition of your party setup is key to completing challenges!
 
 • Complete the World Quest "Unbegun, Unending Story"
 
-[View "Imaginarium Theater" Gameplay Details for more detailed gameplay rules.](https://act.hoyoverse.com/ys/event/blue-post/index.html?gamewebview=1&page_sn=47004f0895264167&mode=fullscreen&game_biz=hk4e_global&sign_type=2&auth_appid=bluepost&authkey_ver=1#/system/123834)
+[View "Imaginarium Theater" Gameplay Details for more detailed gameplay rules.](https://act.hoyoverse.com/ys/event/e20210601blue_post/vert.html?gamewebview=1&page_sn=47004f0895264167&mode=fullscreen&game_biz=hk4e_global&sign_type=2&auth_appid=bluepost&authkey_ver=1)
 
 V. Other Update Details
 
