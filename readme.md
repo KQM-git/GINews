@@ -469,6 +469,20 @@ After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" wi
 
 -----
 
+# [Version 4.7 New Content Overview](archive/20555.md)
+## Version 4.7 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/019de6f3dd21f69dc1763e07663fa9f9_7447984843406164353.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/f9752eb1aed57f51fc69febd45262291_7819322650639900607.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/626fd37db040224ea46cae7176b0d199_2595015996995510211.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/4aabc38364346cc0c16bc1cc0a274187_2336913983049999188.jpg)
+
+-----
+
 # [Event Wish "Illuminating Lightning" - Boosted Drop Rate for "Candlebearer, Shadowhunter" Clorinde (Electro)!](archive/20502.md)
 ## Event Wish - Illuminating Lightning
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/e40a1f182c0fd56d2b3a4cfb9c4747b3_7499018005039620648.png)
