@@ -832,50 +832,6 @@ Permanent
 
 -----
 
-# [An Eventful Vacation — The Web Event for Genshin Impact's new character: Clorinde is now available.](archive/20530.md)
-## An Eventful Vacation — The Web Event for Genshin Impact's new character: Clorinde is now available.
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/e5236e37fcc93bfdabf5d79ab16adc0a_2930013873367941119.jpg)
-
-Even those who wield the sword have times when they must lay it down to rest.
-
-[>>Click to Take Part in Event<<](https://act.hoyoverse.com/ys/event/e20240531clorinde-5k96dd/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240531rolewarm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-Event Rules
-
-〓Event Duration〓
-
-2024/05/31 12:00:00 (global) – 2024/06/06 23:59:59 (global)
-
-〓Eligibility〓
-
-Reach Adventure Rank 10 or above
-
-〓Event Summary〓
-
-During the event, fill in the pictures by selecting the correct objects from the scenes and uncover the truth behind the rumors to obtain in-game rewards.
-
-〓Gameplay Details〓
-
-1. During the event, complete everything on Clorinde's vacation itinerary and fill in the pictures by selecting the correct objects to reconstruct the scenes, and you'll be able to obtain in-game rewards.
-
-2. Set the facts straight in light of the tabloid journalist's false reports to obtain the event wallpaper.
-
-〓In-Game Rewards〓
-
-Uncover the truth behind the three rumors to obtain Primogems, Character Ascension Materials, and other in-game rewards.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. The event wallpaper is not available after the event ends. Please claim it in time.
-
-3. After setting the facts straight in light of the tabloid journalist's false reports, the in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. Please note that the web event cannot be accessed during Version Update Maintenance. After Version Update Maintenance is completed, you will be able to access the web event as normal.
-
------
-
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
