@@ -509,7 +509,7 @@ Primogems ×100
 
 Travelers who reached Adventure Rank 5 and above before 2024/06/06 16:00:00 (global).
 
-Please log in and claim your compensation before 2024/06/07 16:00:00 (global) – 2024/06/10 16:00:00 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+Please log in and claim your compensation between 2024/06/07 16:00:00 (global) – 2024/06/10 16:00:00 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
 
 - Fixes an issue under certain circumstances whereby Travelers using controllers with iOS devices will encounter issues of corresponding skill icons not displaying for the trigger buttons and the buttons not working when pressed (taking the XBOX wireless controller as an example, corresponding to the LT and RT buttons).
 
