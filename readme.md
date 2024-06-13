@@ -533,6 +533,24 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 This issue will be fixed in Version 4.8.
 
+〓2024/06/13 16:10:00 (global) Update Details〓
+
+- Fixes an issue whereby there was missing text in the quest item "Invitation From the Arataki Gang" after the Version 4.7 update.
+
+- Fixes an issue whereby the achievement "The Same Mistakes" could not be completed after the Version 4.7 update.
+
+- Fixes an issue whereby the red dots in the Adventurer Handbook could not be removed under certain circumstances after the Version 4.7 update.
+
+- Fixes an issue whereby the sorting of Artifacts in the "Inventory > Artifacts" interface would appear incorrectly under certain circumstances after the Version 4.7 update.
+
+- Fixes an issue in "Genius Invokation TCG" whereby after the summon "Singer of Many Waters" of the character card "Furina" switches state to "Salon Members," the effects of other summons would be incorrectly evaluated during the end of turn under certain circumstances.
+
+- Fixes an issue whereby the actual Render Resolution of some Android devices with low memory was lower than expected, resulting in blurry graphics after the Version 4.7 update.
+
+- Fixes an issue whereby the number of "resonances" triggered was abnormal when using Geo constructs to resonate with the "Unique Rock Pillars" after the Version 4.7 update.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
 〓2024/06/06 18:40:00 (global) Update Details〓
 
 - Fixes an issue whereby after the Version 4.7 update, Neuvillette's Charged Attack "Equitable Judgment" is more likely to be obstructed by certain terrain or Stone Steles under specific circumstances in comparison to previous versions.
