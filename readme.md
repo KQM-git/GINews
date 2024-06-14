@@ -12,42 +12,6 @@
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20510.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/74f68b9b7d0bf55e78d44d274acd3386_2397996818155638077.png)
-
-〓Special Rules〓
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-〓Event Duration〓
-
-2024/06/15 10:00:00 (server) – 2024/07/01 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_3882384969917938138.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
@@ -491,31 +455,39 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
-## New Story Unlocked - Archon Quest Chapter IV: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20510.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/74f68b9b7d0bf55e78d44d274acd3386_2397996818155638077.png)
 
-After listening to the bedtime story that day, all the hilichurls had a dream.
+〓Special Rules〓
 
-The young soul waved goodbye, and the people and sun slept together warmly.
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
 
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
 
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+Switching Character Cards is always a Fast Action.
 
-The "Focused Experience Mode" function is available for this quest.
+〓Event Duration〓
 
-〓Quest Start Time〓
+2024/06/15 10:00:00 (server) – 2024/07/01 03:59:59 (server)
 
-After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
+〓Event Rewards〓
 
-〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_3882384969917938138.png)
 
-• Reach Adventure Rank 40 or above
+〓Eligibility〓
 
-• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+Adventure Rank 32 or above
 
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
@@ -871,6 +843,34 @@ With the arrival of Version 4.7's new event, "Imaginarium Theater," the Battle C
 (Lineup queries for Sigewinne will be updated when the Limited-Time Wish becomes available on June 25.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter IV: Act VI "Bedtime Story"](archive/20501.md)
+## New Story Unlocked - Archon Quest Chapter IV: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/31/bf7a9ef61d2e0276d793b489e6d23a8a_5449909774568313573.png)
+
+After listening to the bedtime story that day, all the hilichurls had a dream.
+
+The young soul waved goodbye, and the people and sun slept together warmly.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter IV: Act VI "Bedtime Story" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+The "Focused Experience Mode" function is available for this quest.
+
+〓Quest Start Time〓
+
+After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" will be permanently available
+
+〓Archon Quest Chapter IV: Act VI "Bedtime Story" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
