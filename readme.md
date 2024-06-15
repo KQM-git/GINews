@@ -1,17 +1,3 @@
-# [Version 4.7 New Content Overview](archive/20555.md)
-## Version 4.7 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/019de6f3dd21f69dc1763e07663fa9f9_7447984843406164353.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/f9752eb1aed57f51fc69febd45262291_7819322650639900607.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/626fd37db040224ea46cae7176b0d199_2595015996995510211.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/4aabc38364346cc0c16bc1cc0a274187_2336913983049999188.jpg)
-
------
-
 # [Login Failure Issue Summary](archive/20566.md)
 ## Login Failure Issue Summary
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/15/fe7e72baa8e4ac5e237f027a819b212e_1460443636510260244.jpg)
@@ -25,6 +11,20 @@ We will promptly notify Travelers regarding the follow-up via notices once the i
 We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
 
 Travelers using applicable services can log in to the game using their linked HoYoverse Account.
+
+-----
+
+# [Version 4.7 New Content Overview](archive/20555.md)
+## Version 4.7 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/019de6f3dd21f69dc1763e07663fa9f9_7447984843406164353.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/f9752eb1aed57f51fc69febd45262291_7819322650639900607.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/626fd37db040224ea46cae7176b0d199_2595015996995510211.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/05/4aabc38364346cc0c16bc1cc0a274187_2336913983049999188.jpg)
 
 -----
 
