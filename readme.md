@@ -12,6 +12,22 @@
 
 -----
 
+# [Login Failure Issue Summary](archive/20566.md)
+## Login Failure Issue Summary
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/15/fe7e72baa8e4ac5e237f027a819b212e_1460443636510260244.jpg)
+
+Dear Travelers,
+
+由於X (Twitter)服務異常，部分旅行者遇到了無法正常登入遊戲的問題。
+
+我們將在問題修復後，第一時間以公告說明問題的後續處理，還請旅行者留意官方訊息。
+
+非常抱歉對各位旅行者造成不便，感謝各位旅行者的諒解與支持。
+
+使用相關服務登入遊戲的旅行者，可以使用與之綁定的HoYoverse通行證登入遊戲。
+
+-----
+
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
