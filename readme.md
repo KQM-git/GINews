@@ -1,16 +1,14 @@
-# [Login Failure Issue Summary](archive/20566.md)
-## Login Failure Issue Summary
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/15/fe7e72baa8e4ac5e237f027a819b212e_1460443636510260244.jpg)
+# [Login Failure Issue Fix Details](archive/20569.md)
+## Login Failure Issue Fix Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/16/8e60989f6665a150a0e7020459098b25_1970293139124188468.jpg)
 
 Dear Travelers,
 
 Due to an issue with X (Twitter) services, some Travelers have been unable to log into the game normally.
 
-We will promptly notify Travelers regarding the follow-up via notices once the issue has been fixed. Please stay tuned to our official channels for the latest information.
+Related services have been restored.
 
 We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
-Travelers using applicable services can log in to the game using their linked HoYoverse Account.
 
 -----
 
