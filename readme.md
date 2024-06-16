@@ -613,43 +613,6 @@ Travelers who encountered this issue may exit the game via the Paimon Menu, clos
 
 -----
 
-# ["Mutual Security Enhancing Simulation" Event: Take Part and Obtain the Event-Exclusive Weapon, Cloudforged (Bow)](archive/20509.md)
-## Mutual Security Enhancing Simulation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/ba1ede423ef86f23a2bb29f8d420f7c9_5127544320499087107.png)
-
-〓Event Duration〓
-
-**Event Content** | **Event Content** | **Start Time** | **End Time**
---- | --- | --- | ---
-Assault Scenario | Ⅰ, Ⅱ, Ⅲ | 2024/06/07 10:00:00 (server) | 2024/06/17 03:59:59 (server)
-^ | Ⅳ, Ⅴ | 2024/06/09 04:00:00 (server) | ^
-^ | Ⅵ, Ⅶ | 2024/06/11 04:00:00 (server) | ^
-Defense Scenario | Ⅰ, Ⅱ, Ⅲ | 2024/06/07 10:00:00 (server) | ^
-^ | Ⅳ, Ⅴ | 2024/06/09 04:00:00 (server) | ^
-^ | Ⅵ, Ⅶ | 2024/06/11 04:00:00 (server) | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/d7590e22d2a1607fdf9852ed55a09808_3192494375833430755.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, stages in Assault Scenario and Defense Scenario will unlock in sequence after the event begins. Travelers must carefully consider the objectives, analyze enemy formations, and select units to deploy to complete challenges.
-
-● During the challenge, after selecting a combat unit or a frontline building, it can be deployed within your base's staging area. After combat units have been deployed, they will automatically engage the enemy. Meanwhile, use your Leadership Skill at opportune moments to gain an edge for your party.
-
-● Complete the event's various challenges to gain Analysis Progress. Reach a certain amount of Analysis Progress to obtain Cloudforged (Bow), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
-
------
-
 # [Event Wish "Illuminating Lightning" - Boosted Drop Rate for "Candlebearer, Shadowhunter" Clorinde (Electro)!](archive/20502.md)
 ## Event Wish - Illuminating Lightning
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/e40a1f182c0fd56d2b3a4cfb9c4747b3_7499018005039620648.png)
