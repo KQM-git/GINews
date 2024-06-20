@@ -1,3 +1,109 @@
+# [Event Wish "Romaritime Meluserenity" - Boosted Drop Rate for "Wondrous Dragonheir" Sigewinne (Hydro)!](archive/20580.md)
+## Event Wish - Romaritime Meluserenity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/b709bd081249b54b1fcbd962eaf75d97_6956633587623974368.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+2024/06/25 18:00:00 (server) —  2024/07/16 14:59:00 (server) | "Wondrous Dragonheir" Sigewinne (Hydro) | "Chivalric Blossom" Noelle (Geo)
+^ | ^ | "Leonine Vanguard" Gaming (Pyro)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Wondrous Dragonheir" Sigewinne (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Chivalric Blossom" Noelle (Geo), "Leonine Vanguard" Gaming (Pyro), and "Thorny Benevolence" Rosaria (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/20581.md)
+## Event Wish - Chanson of Many Waters
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/6d7607ab469749c5b6a214665c121eef_4171939298846664325.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+2024/06/25 18:00:00 (server) —  2024/07/16 14:59:00 (server) | "Endless Solo of Solitude" Furina (Hydro) | "Chivalric Blossom" Noelle (Geo)
+^ | ^ | "Leonine Vanguard" Gaming (Pyro)
+^ | ^ | "Thorny Benevolence" Rosaria (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Endless Solo of Solitude" Furina (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Chivalric Blossom" Noelle (Geo), "Leonine Vanguard" Gaming (Pyro), and "Thorny Benevolence" Rosaria (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Silvershower Heartstrings (Bow) and Splendor of Tranquil Waters (Sword)!](archive/20514.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/3fcc76d4127127c4a8983f9f96664bca_2245322852914816710.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+2024/06/25 18:00:00 (server) — 2024/07/16 14:59:00 (server) | Silvershower Heartstrings (Bow)  Splendor of Tranquil Waters (Sword) | Lithic Blade (Claymore)
+^ | ^ | Lion's Roar (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Silvershower Heartstrings (Bow) and Splendor of Tranquil Waters (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapon Lithic Blade (Claymore) as well as the 4-star weapons Lion's Roar (Sword), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Silvershower Heartstrings (Bow) or Splendor of Tranquil Waters (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Nereides Chapter" Story Quest Overview](archive/20515.md)
+## Nereides Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/722b5b92d3bc5167c685c2ce354c590d_4087612295873153016.png)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Sigewinne's Story Quest "Nereides Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+〓Quest Start Time〓
+
+Permanently available after 2024/06/25 18:00:00 (server)
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+And complete Neuvillette's Story Quest - Diluvies Chapter: Act I "The Remains of the Past Day"
+
+-----
+
 # [Version 4.7 New Content Overview](archive/20555.md)
 ## Version 4.7 New Content Overview
 
