@@ -485,6 +485,32 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 
 -----
 
+# [Genshin Impact PC Launcher Update Details](archive/20563.md)
+## Genshin Impact PC Launcher Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/14/8976863d4190c7d36eeb002d96e2e222_7590144997856967027.jpg)
+
+Dear Travelers,
+
+The Genshin Impact PC launcher will be updated to HoYoPlay on June 17, 2024. Please look out for launcher-related update notifications.
+
+〓Update Time〓
+
+2024/06/17 11:00:00 (global)
+
+〓What Is HoYoPlay?〓
+
+HoYoPlay is an integrated launcher for all of HoYoverse's PC games. After the HoYoPlay update, you will be able to use this launcher to download and launch a variety of different HoYoverse games.
+
+Travelers who have yet to install "HoYoPlay" may find a new HoYoPlay icon added to their desktop after this update is completed.
+
+[For more FAQ about HoYoPlay, please see: "HoYoPlay FAQ"](https://www.hoyolab.com/article/28920959?utm_source=ingame&utm_medium=notice)
+
+At the same time, we will cease maintenance and support for the old version of the "Genshin Impact" PC launcher on June 17, 2024.
+
+Travelers can continue to use launcher-related functions after updating to "HoYoPlay."
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20510.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/74f68b9b7d0bf55e78d44d274acd3386_2397996818155638077.png)
@@ -518,32 +544,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
 ● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
-# [Genshin Impact PC Launcher Update Details](archive/20563.md)
-## Genshin Impact PC Launcher Update Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/14/8976863d4190c7d36eeb002d96e2e222_7590144997856967027.jpg)
-
-Dear Travelers,
-
-The Genshin Impact PC launcher will be updated to HoYoPlay on June 17, 2024. Please look out for launcher-related update notifications.
-
-〓Update Time〓
-
-2024/06/17 11:00:00 (global)
-
-〓What Is HoYoPlay?〓
-
-HoYoPlay is an integrated launcher for all of HoYoverse's PC games. After the HoYoPlay update, you will be able to use this launcher to download and launch a variety of different HoYoverse games.
-
-Travelers who have yet to install "HoYoPlay" may find a new HoYoPlay icon added to their desktop after this update is completed.
-
-[For more FAQ about HoYoPlay, please see: "HoYoPlay FAQ"](https://www.hoyolab.com/article/28920959?utm_source=ingame&utm_medium=notice)
-
-At the same time, we will cease maintenance and support for the old version of the "Genshin Impact" PC launcher on June 17, 2024.
-
-Travelers can continue to use launcher-related functions after updating to "HoYoPlay."
 
 -----
 
