@@ -667,6 +667,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 This issue will be fixed in Version 4.8.
 
+〓2024/06/20 16:20:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
 〓2024/06/14 11:10:00 (global) Update Details〓
 
 - Fixes an issue whereby enemies in some areas or quests (e.g. in the Tunigi Hollow, or the enemy "Arakawa Kouji" in Yae Miko's Story Quest) have a probability of abnormally leaving combat and recovering HP, and are unable to be defeated after the Version 4.7 update.
