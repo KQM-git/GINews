@@ -613,6 +613,48 @@ Travelers who encountered this issue may exit the game via the Paimon Menu, clos
 
 -----
 
+# ["Heartfelt Doodlings" — The Web Event for Genshin Impact's new character: Sigewinne is now available.](archive/20561.md)
+## "Heartfelt Doodlings" — The Web Event for Genshin Impact's new character: Sigewinne is now available.
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/19/329dcfee77f4f36e625743a11c5cde7d_3416839425057405091.jpg)
+
+Shh, I'm preparing some special gifts. Don't tell Monsieur Neuvillette~
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240620sigewinne-ktlz9u/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240620rolewarm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2024/06/20 12:00:00 (global) – 2024/06/26 23:59:59 (global)
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓Event Summary〓
+
+During the event, help Sigewinne finish drawing the stickers and give them to Neuvillette. Read the reports on the bulletin board to claim in-game rewards.
+
+〓Gameplay Details〓
+
+1. During the event, select the stickers you want to draw and help Sigewinne draw three stickers and give them to Neuvillette. You can then view the reports and messages on the bulletin board to claim in-game rewards.
+
+2. Selecting specific stickers will trigger different reports and messages.
+
+3. Check the bulletin board to claim the event wallpaper.
+
+〓In-Game Rewards〓
+
+Help Sigewinne finish drawing the stickers and give them to Neuvillette. You can then view the reports on the bulletin board to claim in-game rewards such as Primogems and Character Ascension Materials.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. The event wallpaper is not available after the event ends. Please save it in time.
+
+3. The in-game rewards will be distributed via in-game mail after checking the bulletin board. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
 # [Event Wish "Illuminating Lightning" - Boosted Drop Rate for "Candlebearer, Shadowhunter" Clorinde (Electro)!](archive/20502.md)
 ## Event Wish - Illuminating Lightning
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/e40a1f182c0fd56d2b3a4cfb9c4747b3_7499018005039620648.png)
