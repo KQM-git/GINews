@@ -1,3 +1,33 @@
+# ["Endless Forms Most Martial" Event: Special Characteristics and Effects Challenge](archive/20516.md)
+## Endless Forms Most Martial
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/b7fd458d64011eca2172a1a6a84c12ba_587485440629509999.png)
+
+〓Event Duration〓
+
+2024/06/25 10:00:00 (server) – 2024/07/01 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/10/e5be267db430f3d23fd9570bdf794473_3565997554743766411.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● The event features 8 stages, each of which has 3 difficulty levels to choose from. Different difficulty levels have different time limits and enemy levels.
+
+● During the event, you need to defeat opponents in the specified manner to accumulate progress towards the challenge goals. Defeating them in other ways will not grant progress toward challenge goals.
+
+● Defeat opponents to gain Phase Variance. Once you have enough Phase Variance, you will gain powerful buff(s) for a certain duration that can help you complete the challenge goals quickly.
+
+● Defeat opponents in the specified manner to gain Phase Variance more quickly.
+
+● Food or other items cannot be used during the challenges.
+
+-----
+
 # [Event Wish "Romaritime Meluserenity" - Boosted Drop Rate for "Wondrous Dragonheir" Sigewinne (Hydro)!](archive/20580.md)
 ## Event Wish - Romaritime Meluserenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/b709bd081249b54b1fcbd962eaf75d97_6956633587623974368.png)
