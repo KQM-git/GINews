@@ -148,36 +148,6 @@ And complete Neuvillette's Story Quest - Diluvies Chapter: Act I "The Remains of
 
 -----
 
-# ["Record of Reflective Writing" Event: Barrage Labyrinth Challenge](archive/20511.md)
-## Record of Reflective Writing
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/ce2ce46d64e03a3d9dcf6450038596bb_3406200479396551998.png)
-
-〓Event Duration〓
-
-2024/06/18 10:00:00 (server) – 2024/06/24 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/b37e79806e9d2956936442532c17a6d2_6528327403154691916.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-※ Complete Archon Quest Chapter II: Act III "Omnipresence Over Mortals" first to get the best experience from this event.
-
-〓Event Details〓
-
-● There are a total of 6 challenges and 2 new challenges will unlock each day for the first 3 days of the event.
-
-● During the first five stages, Travelers will need to use the designated characters to complete the challenge. During the sixth stage, Travelers may choose two characters from among the designated characters to complete the challenge.
-
-● Travelers will have to evade periodic incoming barrages from the mechanisms while collecting Labyrinth Coins during the allotted time. Collect Labyrinth Coins to gain points, Adventure Risk, and Risk Level. The higher the Risk Level, the greater the volume of incoming fire, and the more Labyrinth Coins that will appear.
-
-● During each stage, Adventure Techniques can be used to assist you.
-
------
-
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
