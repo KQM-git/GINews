@@ -623,6 +623,8 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
+- There is an issue whereby the character Sigewinne would not be displayed on the Character Archive interface. This character will be displayed correctly after 2024/06/26 18:00 (Server Time).
+
 - There is an issue whereby testing voice-over resources were incorrectly used for some of Sethos's Chinese voice-overs in the cutscene animation of Cyno's Story Quest Lupus Aureus Chapter: Act II "Oathkeeper." This resource was not recorded by Chinese voice actor 李兰陵 Lanling Li.
 
 This issue will be fixed in Version 4.8.
