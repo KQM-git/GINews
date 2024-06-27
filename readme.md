@@ -633,7 +633,7 @@ This issue will be fixed in Version 4.8.
 
 Fixes an issue under certain circumstances whereby a Common Chest in Sigewinne's Story Quest Domain could not be opened normally.
 
-〓2024/06/20 16:20:00 (global) Update Details〓
+〓2024/06/20 16:15:00 (global) Update Details〓
 
 Updates resources related to subsequent events.
 
