@@ -577,42 +577,6 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20510.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/74f68b9b7d0bf55e78d44d274acd3386_2397996818155638077.png)
-
-〓Special Rules〓
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-〓Event Duration〓
-
-2024/06/15 10:00:00 (server) – 2024/07/01 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_3882384969917938138.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [Version Details - What's New ](archive/20556.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -684,6 +648,42 @@ Travelers who encountered this issue may exit the game via the Paimon Menu, clos
 - Fixes an issue whereby there is a text error in the namecard "Achievement: Poetic Pages" in the Simplified Chinese interface.
 
 - Fixes an issue whereby there are text errors in the namecard "Sethos: Ba Fragment" in the Simplified Chinese and Traditional Chinese interfaces.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20510.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/74f68b9b7d0bf55e78d44d274acd3386_2397996818155638077.png)
+
+〓Special Rules〓
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+〓Event Duration〓
+
+2024/06/15 10:00:00 (server) – 2024/07/01 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_3882384969917938138.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
