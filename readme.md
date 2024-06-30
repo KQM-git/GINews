@@ -28,36 +28,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Endless Forms Most Martial" Event: Special Characteristics and Effects Challenge](archive/20516.md)
-## Endless Forms Most Martial
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/b7fd458d64011eca2172a1a6a84c12ba_587485440629509999.png)
-
-〓Event Duration〓
-
-2024/06/25 10:00:00 (server) – 2024/07/01 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/10/e5be267db430f3d23fd9570bdf794473_3565997554743766411.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● The event features 8 stages, each of which has 3 difficulty levels to choose from. Different difficulty levels have different time limits and enemy levels.
-
-● During the event, you need to defeat opponents in the specified manner to accumulate progress towards the challenge goals. Defeating them in other ways will not grant progress toward challenge goals.
-
-● Defeat opponents to gain Phase Variance. Once you have enough Phase Variance, you will gain powerful buff(s) for a certain duration that can help you complete the challenge goals quickly.
-
-● Defeat opponents in the specified manner to gain Phase Variance more quickly.
-
-● Food or other items cannot be used during the challenges.
-
------
-
 # [Event Wish "Romaritime Meluserenity" - Boosted Drop Rate for "Wondrous Dragonheir" Sigewinne (Hydro)!](archive/20580.md)
 ## Event Wish - Romaritime Meluserenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/b709bd081249b54b1fcbd962eaf75d97_6956633587623974368.png)
@@ -678,42 +648,6 @@ Travelers who encountered this issue may exit the game via the Paimon Menu, clos
 - Fixes an issue whereby there is a text error in the namecard "Achievement: Poetic Pages" in the Simplified Chinese interface.
 
 - Fixes an issue whereby there are text errors in the namecard "Sethos: Ba Fragment" in the Simplified Chinese and Traditional Chinese interfaces.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20510.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/74f68b9b7d0bf55e78d44d274acd3386_2397996818155638077.png)
-
-〓Special Rules〓
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-〓Event Duration〓
-
-2024/06/15 10:00:00 (server) – 2024/07/01 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_3882384969917938138.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
