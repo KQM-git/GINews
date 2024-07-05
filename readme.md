@@ -1,33 +1,3 @@
-# ["Spino Doubleblaster" Event: Water Cannon Marksmanship Challenge](archive/20559.md)
-## Spino Doubleblaster
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/6e35b50aa9efc4e54b0779b910c5f4dd_4062027285124281996.png)
-
-〓Event Duration〓
-
-2024/07/02 10:00:00 (server) – 2024/07/08 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/10/8712ba815fff60e450cb0739ddc3dd69_7229990249528288657.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the event begins, 2 new stages will be unlocked every day for the first 4 days. There are a total of 8 stages.
-
-● After starting the stage, activate the water cannon with a most peculiar appearance and hit the floating targets to complete timed shooting challenges.
-
-● When the watercannon fires, it will consume its Energy Reserve. The Energy Reserve is slowly replenished over time, but it can also be restored by hitting EZ-Charge Balls.
-
-● In this event, the "Improved Crococannon" is equipped with two different firing modes, and these modes can be used to handle different kinds of Target Ball setups.
-
------
-
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
@@ -471,6 +441,114 @@ Fixes an issue whereby, when fighting the Experimental Field Generator, Automate
 
 -----
 
+# [Version Details - What's New ](archive/20556.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- There is an issue whereby testing voice-over resources were incorrectly used for some of Sethos's Chinese voice-overs in the cutscene animation of Cyno's Story Quest Lupus Aureus Chapter: Act II "Oathkeeper." This resource was not recorded by Chinese voice actor 李兰陵 Lanling Li.
+
+This issue will be fixed in Version 4.8.
+
+〓2024/07/04 16:10:00 (global) Update Details〓
+
+Fixes an issue whereby part of the text description for Sigewinne's Lv. 2 Constellation were abnormally missing in Russian, Portuguese, and French.
+
+〓2024/06/27 16:10:00 (global) Update Details〓
+
+Fixes an issue under certain circumstances whereby a Common Chest in Sigewinne's Story Quest Domain could not be opened normally.
+
+〓2024/06/20 16:15:00 (global) Update Details〓
+
+Updates resources related to subsequent events.
+
+〓2024/06/14 11:10:00 (global) Update Details〓
+
+- Fixes an issue whereby enemies in some areas or quests (e.g. in the Tunigi Hollow, or the enemy "Arakawa Kouji" in Yae Miko's Story Quest) have a probability of abnormally leaving combat and recovering HP, and are unable to be defeated after the Version 4.7 update.
+
+Travelers affected by the above issue can log out via the Paimon Menu and close the game, then log in again to continue the game as normal.
+
+- The fix for "the issue whereby the sorting of Artifacts in the 'Inventory > Artifacts' interface would appear incorrectly under certain circumstances after the Version 4.7 update" carried out on June 13 has resulted in abnormal lags for the Artifacts Batch Destroy function, and has thus been rolled back. This issue will be fixed in Version 4.8.
+
+〓2024/06/13 16:10:00 (global) Update Details〓
+
+- Fixes an issue whereby there was missing text in the quest item "Invitation From the Arataki Gang" after the Version 4.7 update.
+
+- Fixes an issue whereby the achievement "The Same Mistakes" could not be completed after the Version 4.7 update.
+
+- Fixes an issue whereby the red dots in the Adventurer Handbook could not be removed under certain circumstances after the Version 4.7 update.
+
+- Fixes an issue whereby the sorting of Artifacts in the "Inventory > Artifacts" interface would appear incorrectly under certain circumstances after the Version 4.7 update.
+
+- Fixes an issue in "Genius Invokation TCG" whereby after the summon "Singer of Many Waters" of the character card "Furina" switches state to "Salon Members," the effects of other summons would be incorrectly evaluated during the end of turn under certain circumstances.
+
+- Fixes an issue whereby the actual Render Resolution of some Android devices with low memory was lower than expected, resulting in blurry graphics after the Version 4.7 update.
+
+- Fixes an issue whereby the number of "resonances" triggered was abnormal when using Geo constructs to resonate with the "Unique Rock Pillars" after the Version 4.7 update.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+〓2024/06/06 18:40:00 (global) Update Details〓
+
+- Fixes an issue whereby after the Version 4.7 update, Neuvillette's Charged Attack "Equitable Judgment" is more likely to be obstructed by certain terrain or Stone Steles under specific circumstances in comparison to previous versions.
+
+▌Compensation Details
+
+Primogems ×100
+
+▌Scope of Compensation
+
+Travelers who reached Adventure Rank 5 and above before 2024/06/06 16:00:00 (global).
+
+Please log in and claim your compensation between 2024/06/07 16:00:00 (global) – 2024/06/10 16:00:00 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+- Fixes an issue under certain circumstances whereby Travelers using controllers with iOS devices will encounter issues of corresponding skill icons not displaying for the trigger buttons and the buttons not working when pressed (taking the XBOX wireless controller as an example, corresponding to the LT and RT buttons).
+
+Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again to proceed as normal. For devices that encounter this problem, the controller button settings will be restored to default after logging in again, and Travelers can reset the button control settings as needed.
+
+〓2024/06/05 17:10:00 (global) Update Details〓
+
+- Fixes an issue whereby there is a text error in the namecard "Achievement: Poetic Pages" in the Simplified Chinese interface.
+
+- Fixes an issue whereby there are text errors in the namecard "Sethos: Ba Fragment" in the Simplified Chinese and Traditional Chinese interfaces.
+
+-----
+
+# ["Spino Doubleblaster" Event: Water Cannon Marksmanship Challenge](archive/20559.md)
+## Spino Doubleblaster
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/6e35b50aa9efc4e54b0779b910c5f4dd_4062027285124281996.png)
+
+〓Event Duration〓
+
+2024/07/02 10:00:00 (server) – 2024/07/08 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/10/8712ba815fff60e450cb0739ddc3dd69_7229990249528288657.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● After the event begins, 2 new stages will be unlocked every day for the first 4 days. There are a total of 8 stages.
+
+● After starting the stage, activate the water cannon with a most peculiar appearance and hit the floating targets to complete timed shooting challenges.
+
+● When the watercannon fires, it will consume its Energy Reserve. The Energy Reserve is slowly replenished over time, but it can also be restored by hitting EZ-Charge Balls.
+
+● In this event, the "Improved Crococannon" is equipped with two different firing modes, and these modes can be used to handle different kinds of Target Ball setups.
+
+-----
+
 # [Event Wish "Romaritime Meluserenity" - Boosted Drop Rate for "Wondrous Dragonheir" Sigewinne (Hydro)!](archive/20580.md)
 ## Event Wish - Romaritime Meluserenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/b709bd081249b54b1fcbd962eaf75d97_6956633587623974368.png)
@@ -574,84 +652,6 @@ Adventure Rank 40 or above
 Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 And complete Neuvillette's Story Quest - Diluvies Chapter: Act I "The Remains of the Past Day"
-
------
-
-# [Version Details - What's New ](archive/20556.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-- There is an issue whereby testing voice-over resources were incorrectly used for some of Sethos's Chinese voice-overs in the cutscene animation of Cyno's Story Quest Lupus Aureus Chapter: Act II "Oathkeeper." This resource was not recorded by Chinese voice actor 李兰陵 Lanling Li.
-
-This issue will be fixed in Version 4.8.
-
-〓2024/07/04 16:10:00 (global) Update Details〓
-
-Fixes an issue whereby part of the text description for Sigewinne's Lv. 2 Constellation were abnormally missing in Russian, Portuguese, and French.
-
-〓2024/06/27 16:10:00 (global) Update Details〓
-
-Fixes an issue under certain circumstances whereby a Common Chest in Sigewinne's Story Quest Domain could not be opened normally.
-
-〓2024/06/20 16:15:00 (global) Update Details〓
-
-Updates resources related to subsequent events.
-
-〓2024/06/14 11:10:00 (global) Update Details〓
-
-- Fixes an issue whereby enemies in some areas or quests (e.g. in the Tunigi Hollow, or the enemy "Arakawa Kouji" in Yae Miko's Story Quest) have a probability of abnormally leaving combat and recovering HP, and are unable to be defeated after the Version 4.7 update.
-
-Travelers affected by the above issue can log out via the Paimon Menu and close the game, then log in again to continue the game as normal.
-
-- The fix for "the issue whereby the sorting of Artifacts in the 'Inventory > Artifacts' interface would appear incorrectly under certain circumstances after the Version 4.7 update" carried out on June 13 has resulted in abnormal lags for the Artifacts Batch Destroy function, and has thus been rolled back. This issue will be fixed in Version 4.8.
-
-〓2024/06/13 16:10:00 (global) Update Details〓
-
-- Fixes an issue whereby there was missing text in the quest item "Invitation From the Arataki Gang" after the Version 4.7 update.
-
-- Fixes an issue whereby the achievement "The Same Mistakes" could not be completed after the Version 4.7 update.
-
-- Fixes an issue whereby the red dots in the Adventurer Handbook could not be removed under certain circumstances after the Version 4.7 update.
-
-- Fixes an issue whereby the sorting of Artifacts in the "Inventory > Artifacts" interface would appear incorrectly under certain circumstances after the Version 4.7 update.
-
-- Fixes an issue in "Genius Invokation TCG" whereby after the summon "Singer of Many Waters" of the character card "Furina" switches state to "Salon Members," the effects of other summons would be incorrectly evaluated during the end of turn under certain circumstances.
-
-- Fixes an issue whereby the actual Render Resolution of some Android devices with low memory was lower than expected, resulting in blurry graphics after the Version 4.7 update.
-
-- Fixes an issue whereby the number of "resonances" triggered was abnormal when using Geo constructs to resonate with the "Unique Rock Pillars" after the Version 4.7 update.
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓2024/06/06 18:40:00 (global) Update Details〓
-
-- Fixes an issue whereby after the Version 4.7 update, Neuvillette's Charged Attack "Equitable Judgment" is more likely to be obstructed by certain terrain or Stone Steles under specific circumstances in comparison to previous versions.
-
-▌Compensation Details
-
-Primogems ×100
-
-▌Scope of Compensation
-
-Travelers who reached Adventure Rank 5 and above before 2024/06/06 16:00:00 (global).
-
-Please log in and claim your compensation between 2024/06/07 16:00:00 (global) – 2024/06/10 16:00:00 (global). The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-- Fixes an issue under certain circumstances whereby Travelers using controllers with iOS devices will encounter issues of corresponding skill icons not displaying for the trigger buttons and the buttons not working when pressed (taking the XBOX wireless controller as an example, corresponding to the LT and RT buttons).
-
-Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again to proceed as normal. For devices that encounter this problem, the controller button settings will be restored to default after logging in again, and Travelers can reset the button control settings as needed.
-
-〓2024/06/05 17:10:00 (global) Update Details〓
-
-- Fixes an issue whereby there is a text error in the namecard "Achievement: Poetic Pages" in the Simplified Chinese interface.
-
-- Fixes an issue whereby there are text errors in the namecard "Sethos: Ba Fragment" in the Simplified Chinese and Traditional Chinese interfaces.
 
 -----
 
