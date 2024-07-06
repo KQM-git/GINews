@@ -655,6 +655,20 @@ And complete Neuvillette's Story Quest - Diluvies Chapter: Act I "The Remains of
 
 -----
 
+# [Genshin Impact Version 4.8Preview](archive/20614.md)
+## The Version 4.8"Summertide Scales and Tales" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/05/cfd07f991b7450b6d305cb5ce9ec4b65_8685726993166298262.jpg)
+
+Dear Travelers,
+
+The Version 4.8"Summertide Scales and Tales" Preview page is here!
+
+[>>>>Go to V4.8"Summertide Scales and Tales" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240706preview-5y4ic7/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240706warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20610.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -812,6 +826,26 @@ After the Version 4.7 update, Archon Quest Chapter IV: Act VI "Bedtime Story" wi
 • Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+2024/07/08 04:00:00 (server) – 2024/07/15 03:59:59 (server)
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
