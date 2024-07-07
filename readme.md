@@ -519,36 +519,6 @@ Travelers who encountered this issue may exit the game via the Paimon Menu, clos
 
 -----
 
-# ["Spino Doubleblaster" Event: Water Cannon Marksmanship Challenge](archive/20559.md)
-## Spino Doubleblaster
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/06/6e35b50aa9efc4e54b0779b910c5f4dd_4062027285124281996.png)
-
-〓Event Duration〓
-
-2024/07/02 10:00:00 (server) – 2024/07/08 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/10/8712ba815fff60e450cb0739ddc3dd69_7229990249528288657.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the event begins, 2 new stages will be unlocked every day for the first 4 days. There are a total of 8 stages.
-
-● After starting the stage, activate the water cannon with a most peculiar appearance and hit the floating targets to complete timed shooting challenges.
-
-● When the watercannon fires, it will consume its Energy Reserve. The Energy Reserve is slowly replenished over time, but it can also be restored by hitting EZ-Charge Balls.
-
-● In this event, the "Improved Crococannon" is equipped with two different firing modes, and these modes can be used to handle different kinds of Target Ball setups.
-
------
-
 # [Event Wish "Romaritime Meluserenity" - Boosted Drop Rate for "Wondrous Dragonheir" Sigewinne (Hydro)!](archive/20580.md)
 ## Event Wish - Romaritime Meluserenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/b709bd081249b54b1fcbd962eaf75d97_6956633587623974368.png)
