@@ -786,70 +786,6 @@ Travelers who encountered this issue may exit the game via the Paimon Menu, clos
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/20617.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2024/07/12 10:00:00 (global) - 2024/07/15 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jkV1qB-seXZlJUP2c9jilAAfA2aCGvwUuTFtGEwpX08&game_biz=hk4e_global&surveyId=24069&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
-# [Web Event "Fragrant Fantasy" Now Online: Embark on a perfume-making journey with Miss Emilie~ Take part to obtain Primogems and other in-game rewards!](archive/20602.md)
-## Web Event "Fragrant Fantasy" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/08/211e80ac598400d716f40f337218ff2d_1415206600735583996.jpg)
-
-Flowers and trees intertwine, mingling together to create a melody of fragrance.
-
-Embark on a perfume-making journey with Miss Emilie~
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240710perfume-f65h6y/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240710perfume&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2024/07/09 – 2024/07/15 23:59:59 (global)
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, you can log into Genshin Impact daily, consume Original Resin, claim Commission Rewards, and complete other missions to obtain card packs.
-
-Open the card pack at the workbench to obtain any Plant and Omni Cards. Plant and Omni Cards can be used to blend perfumes. You can obtain different grades of perfume based on the level of cards used.
-
-After successfully blending perfumes, you can obtain Primogems and other in-game rewards based on the total number of perfumes made. Meanwhile, you can give these perfumes to Furina, Navia, and Sigewinne, and they will provide different feedback and evaluations based on the perfumes gifted.
-
-You will receive fragrance reports from different companions for each bottle of perfume gifted. Give out perfume and share your fragrance report to obtain Primogems and other in-game rewards.
-
-〓Event Rewards〓
-
-Make a total of 12 bottles of perfume, successfully make 1 premium perfume, send 1 bottle of perfume to your companion, and share your fragrance report once to obtain a total of Primogems ×120, Mystic Enhancement Ore ×8, Hero's Wit ×8, and Mora ×90,000.
-
-*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Event Wish "Romaritime Meluserenity" - Boosted Drop Rate for "Wondrous Dragonheir" Sigewinne (Hydro)!](archive/20580.md)
 ## Event Wish - Romaritime Meluserenity
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/b709bd081249b54b1fcbd962eaf75d97_6956633587623974368.png)
@@ -956,20 +892,6 @@ And complete Neuvillette's Story Quest - Diluvies Chapter: Act I "The Remains of
 
 -----
 
-# [Genshin Impact Version 4.8Preview](archive/20614.md)
-## The Version 4.8"Summertide Scales and Tales" Preview page is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/05/cfd07f991b7450b6d305cb5ce9ec4b65_8685726993166298262.jpg)
-
-Dear Travelers,
-
-The Version 4.8"Summertide Scales and Tales" Preview page is here!
-
-[>>>>Go to V4.8"Summertide Scales and Tales" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240706preview-5y4ic7/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240706warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20610.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1019,62 +941,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [The Genshin Impact Version 4.7 Tools Update Is Here!](archive/20524.md)
-## New Feature "HoYoSketch" Now Available! Come check it out!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/9fc6938b9272c92376d8245acc77c79a_8151497624001083495.jpg)
-
-Dear Travelers,
-
-Genshin Impact Version 4.7 is here, heralding not only new adventures, but also the arrival of the legendary Champion Duelist Clorinde and the head nurse Sigewinne! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through Version 4.7. Let's take a look~
-
-| Otherworldly Encounters: Discover your other self in the world of Teyvat!
-
-New feature "HoYoSketch" is now available! By filling out your personal information and selecting your favorite stickers, you can customize your own unique personalized namecard.
-
-In the meantime, you can quickly find like-minded Travelers in the Friendship Plaza. Come and meet your future adventure companions!
-
-[>> Click to Create Namecard <<](https://act.hoyolab.com/ys/event/hoyosketch/?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame#/editor)
-
-| Character Building Guides: Adds the building guides for the drop-boosted characters in Version 4.7
-
-The building guides for Clorinde, Sethos, and other drop-boosted characters in Version 4.7 are now available. (The building guides for Sigewinne will be added when the Limited-Time Wish becomes available on June 25.)
-
-Click to view all-in-one image guides on Character Level-Up Materials, building tips, team composition recommendations, Artifact and Weapon suggestions, and more. Building characters has never been easier!
-
-(Building tips are selected from popular community guides and do not represent official views.)
-
-[>> Click to View Character Building Guides <<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| HoYoWiki: Adds new character information of Version 4.7 and top-quality UGC content
-
-With the update of version 4.7, the Wiki now includes basic information and voice lines of Clorinde and Sethos. (The character information of Sigewinne will be added when the Limited-Time Wish becomes available on June 25.)
-
-Meanwhile, entries on game mechanics and lores will be updated gradually. Stay tuned!
-
-(HoYoWiki is collectively created by HoYoLAB editors and does not represent official views.)
-
-[>> Click to Go to HoYoWiki <<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Battle Chronicle Update: Adds the Version 4.7 Events Battle Chronicle
-
-With the arrival of Version 4.7's new event, "Imaginarium Theater," the Battle Chronicle will also be updated so you can view your event records in the Event Review module.
-
-[>> Click to View Battle Chronicle <<](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&gid=2&utm_campaign=update&utm_content=battlechronicle&utm_id=2&utm_medium=notice&utm_source=ingame&v=108)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Clorinde and Sethos
-
-(The enhancement progression calculation for Sigewinne will be updated when the Limited-Time Wish becomes available on June 25.)
-
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Clorinde and Sethos
-
-(Lineup queries for Sigewinne will be updated when the Limited-Time Wish becomes available on June 25.)
-
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
 
 -----
 
