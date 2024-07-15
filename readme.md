@@ -1,3 +1,31 @@
+# [Version 4.8 Update Maintenance Preview](archive/20620.md)
+## Version 4.8 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/26/c941908b14dcaf160083796a10645f89_3127323237410943411.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at 2024/07/17 06:00:00 (global). Please stay tuned to related game update information.
+
+Feature Preview:
+
+Pre-installation function testing is estimated to start during Version 5.0 on Asia, Europe, and America servers on PS5™ and PS4™. During this time, when Travelers start playing on PS5™ or PS4™ and sufficient storage space is available, the device will automatically initiate pre-download of "Genshin Impact."
+
+<details open="true">
+<summary>Version 4.8 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/10/86c75a881bda5c7b6d236488150613f1_7205351394401691823.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/10/d77aab84a680a7746ac442a5ec748e73_7946918148853827016.jpg)
+
+</details>
+
+-----
+
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
