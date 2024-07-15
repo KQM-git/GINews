@@ -26,6 +26,245 @@ Pre-installation function testing is estimated to start during Version 5.0 on As
 
 -----
 
+# [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/20565.md)
+## Event Wish - In the Name of the Rosula
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/2d34c2d87cffc1572b7c821d804941a6_3112518427920149926.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 4.8 update  — 2024/08/06 17:59:00 (server) | "Helm of the Radiant Rose" Navia (Geo) | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Empyrean Reflection" Kaveh (Dendro)
+^ | ^ | "Eclipsing Star" Ningguang (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Helm of the Radiant Rose" Navia (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Empyrean Reflection" Kaveh (Dendro), and "Eclipsing Star" Ningguang (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Twirling Lotus" - Boosted Drop Rate for "Dance of Lotuslight" Nilou (Hydro)!](archive/20571.md)
+## Event Wish - Twirling Lotus
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b8d69a4165d3611b6628b81ed7b45c81_6705343779185689176.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 4.8 update  — 2024/08/06 17:59:00 (server) | "Dance of Lotuslight" Nilou (Hydro) | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Empyrean Reflection" Kaveh (Dendro)
+^ | ^ | "Eclipsing Star" Ningguang (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Dance of Lotuslight" Nilou (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Cat Upon the Eaves" Kirara (Dendro), "Empyrean Reflection" Kaveh (Dendro), and "Eclipsing Star" Ningguang (Geo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Verdict (Claymore) and Key of Khaj-Nisut (Sword)!](archive/20572.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b925a9f75d4d7d887be7088539600372_4521017155068115971.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 4.8 update  — 2024/08/06 17:59:00 (server) | Verdict (Claymore)  Key of Khaj-Nisut (Sword) | Xiphos' Moonlight (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Verdict (Claymore) and Key of Khaj-Nisut (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapon Xiphos' Moonlight (Sword) as well as the 4-star weapons The Bell (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Verdict (Claymore) or Key of Khaj-Nisut (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Summertide Scales and Tales" Event: Take Part to Obtain Kirara's Outfit and Invite "Cat Upon the Eaves" Kirara (Dendro)](archive/20573.md)
+## Summertide Scales and Tales
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/806c0439f5bba06fd297f182fc59e0c5_5405820862261307417.jpg)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Quest Duration | Page I | After the Version 4.8 update | End of Version 4.8
+^ | Page II | 2024/07/19 04:00:00 (server) | ^
+^ | Page III | 2024/07/21 04:00:00 (server) | ^
+^ | Appendix | 2024/07/23 04:00:00 (server) | ^
+Gameplay Duration | Boreal Flurry | After the Version 4.8 update | ^
+^ | Figurine Fabrication | After the Version 4.8 update | ^
+^ | Flying Hatter's Trick | 2024/07/19 04:00:00 (server) | ^
+^ | Metropole Trials | 2024/07/19 04:00:00 (server) | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/cd41b01f7e5c7e838c6e034724d127a1_6192647415932416829.png)
+
+〓Eligibility〓
+
+Adventure Rank 18 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quests Interlude Chapter: Act III "Inversion of Genesis" and Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, the following gameplay modes will unlock in sequence: "Boreal Flurry," "Flying Hatter's Trick," "Metropole Trials," and "Figurine Fabrication."
+
+● In the "Boreal Flurry" gameplay, you must follow the streaming current and fire at floating targets to complete timed challenges.
+
+● In the "Flying Hatter's Trick" gameplay, you must use a Flying Hat to attract toy figures and obtain ever higher scores according to different rules.
+
+● In the "Metropole Trials" gameplay, you can defeat opponents and fill your Valor bar to enter A Time For Valor, so as to complete the challenges more efficiently.
+
+● During the event, you can use Starsail Coins earned from playing other gameplay modes at the Fantastical Fabricators in each zone to obtain Fairytale Figurines, and place them on corresponding frames for display. Each time you create figurines a certain number of times, you will unlock the corresponding rewards. After creating figurines a specific number of times, you can invite "Cat Upon the Eaves" Kirara (Dendro).
+
+● In addition, as you explore Simulanka, you may gather Excerpts of Bliss by collecting Jubilant Feathers and opening Fairytale Troves, and by completing various challenges. Collect the specified number of Excerpts of Bliss to exchange for Kirara's outfit "Phantom in Boots."
+
+※ Kirara's outfit "Phantom in Boots" will be available for purchase in the Character Outfit Shop after the end of Version 4.8, which will be priced at 1,680 Genesis Crystals.
+
+-----
+
+# [Nilou's Outfit "Breeze of Sabaa" Available at a Limited-Time Discount](archive/20575.md)
+## Breeze of Sabaa
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/3bb41caaabe0f0199faf0bf01f10c2be_769150230038029586.jpg)
+
+Nilou's outfit "Breeze of Sabaa" is available at a limited-time discount in the Shop!
+
+〓Discount Period〓
+
+After the Version 4.8 update – 2024/08/26 03:59:59 (server)
+
+〓Outfit Details〓
+
+● Nilou's outfit "Breeze of Sabaa" will be permanently available in the Shop after the Version 4.8 update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Nilou can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+-----
+
+# ["Fanciful Fabrication" Event Details](archive/20576.md)
+## Fanciful Fabrication
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b20c00fd48ac0bb789c90724e6ea4b1b_7823117420742199652.jpg)
+
+Travelers can earn rich rewards in "Fanciful Fabrication" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Fanciful Fabrication" and Furnishing Blueprint "Magical Forest Hut."
+
+〓Event Duration〓
+
+After the Version 4.8 update – 2024/08/26 03:59:59 (server)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/08/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 33 Available for a Limited Time](archive/20574.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/2014d290a838e54b8fc540c28bb8ce79_4385946031380685938.jpg)
+
+Round 33 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 4.8 update – 2024/07/31 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 4.8 update – 2024/07/31 23:59:59 (server)
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20577.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/cf324597e5d687e26d86f297e59c9ebd_8978981353647020823.jpg)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 4.8
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/77bc8ce33030bc36a950e3ef25faf437_7458016612748660264.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
 # ["An Everlasting Dream Intertwined" Version 4.7 Update Details](archive/20551.md)
 ## Version 4.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/712414254e0a38cf74d9aa27e539efd5_1953908611020409641.jpg)
