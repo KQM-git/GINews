@@ -481,6 +481,20 @@ Fixes an issue whereby there was a chance that the positions of the special effe
 
 -----
 
+# [Version Details - What's New ](archive/20637.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is an error in the background image of Kirara's outfit "Phantom in Boots." This issue will be fixed in Version 5.0.
+
+-----
+
 # [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/20565.md)
 ## Event Wish - In the Name of the Rosula
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/2d34c2d87cffc1572b7c821d804941a6_3112518427920149926.jpg)
