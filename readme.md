@@ -495,6 +495,28 @@ There is an issue whereby there is an error in the background image of Kirara's 
 
 -----
 
+# [The Version 4.8 Submission Contest has begun!](archive/20612.md)
+## Version 4.8 Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/12/f60a7b3a0fe6c0d9a90f90b29899bba7_3843743322031793194.jpg)
+
+Hello, Traveler~
+
+The Genshin Impact Version 4.8 "Summertide Scales and Tales" Submission Contest has begun.
+
+From July 17, head to the official submission contest page to create fairy tales or summer-themed fan works, or create videos about the storyline and open world exploration based on Version 4.8 content for a chance to win up to 1,000 USD and Primogems ×5,000!
+
+For more details, please visit the official submission contest page:
+
+[Click to View](https://hoyo.link/dxljFLAL)
+
+From July 17, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to Primogems ×6,000, exquisite merchandise, and more!
+
+For more details, please visit:
+
+[Click to View](https://hoyo.link/egljFBAL)
+
+-----
+
 # [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/20565.md)
 ## Event Wish - In the Name of the Rosula
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/2d34c2d87cffc1572b7c821d804941a6_3112518427920149926.jpg)
