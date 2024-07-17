@@ -507,13 +507,13 @@ From July 17, head to the official submission contest page to create fairy tales
 
 For more details, please visit the official submission contest page:
 
-[Click to View](https://hoyo.link/dxljFLAL)
+[Click to View](https://act.hoyoverse.com/puzzle/hk4e/pz_Ix2jDa9QMC/index.html?utm_source=ingame&utm_medium=notice)
 
 From July 17, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to Primogems ×6,000, exquisite merchandise, and more!
 
 For more details, please visit:
 
-[Click to View](https://hoyo.link/egljFBAL)
+[Click to View](https://www.hoyolab.com/contribution/387?utm_source=ingame&utm_medium=notice&utm_id=2)
 
 -----
 
