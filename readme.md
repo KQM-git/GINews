@@ -497,6 +497,30 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 -----
 
+# [Genius Invokation TCG "The Prince Cup" Tournament 2024 Commemorative Card Back Distributed](archive/20640.md)
+## Genius Invokation TCG "The Prince Cup" Tournament 2024 Commemorative Card Back Distributed
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/17/ecdb67e3293ba39e2c399d0829affe63_5301022293604404137.jpg)
+
+Dear Traveler, the Genius Invokation TCG Card Back "Fonta" has been issued. Please claim it in your mailbox!
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓Collection Period〓
+
+<t class="t_gl" contenteditable="false"></t><t class="t_gl" contenteditable="false">2024/07/18 12:00</t> - <t class="t_gl" contenteditable="false">2024/08/17 12:00</t>
+
+The mail is valid for 30 days. Please claim it in time.
+
+The "Astra Carnival: The Prince Cup" is in full swing! Duels between the top players from all over the world have also begun!
+
+Equip the "Fonta" Card Back and have a refreshing game of Genius Invokation TCG!
+
+[Follow the Genshin Impact Astra Carnival account to learn more about the event~](https://www.hoyolab.com/accountCenter/postList?id=390027001)
+
+-----
+
 # [The Version 4.8 Submission Contest has begun!](archive/20612.md)
 ## Version 4.8 Submission Contest
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/12/f60a7b3a0fe6c0d9a90f90b29899bba7_3843743322031793194.jpg)
