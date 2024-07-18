@@ -495,6 +495,20 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - There is an issue whereby there is an error in the background image of Kirara's outfit "Phantom in Boots." This issue will be fixed in Version 5.0.
 
+〓<t class="t_gl" contenteditable="false">2024/07/18 17:10:00</t> Update Details〓
+
+Rolled back the fix to the issue whereby "Neuvillette could rotate at an unusually high speed when casting his Charged Attack, resulting in an abnormal attack range."
+
+▌ Compensation Details
+
+Primogems ×1,600
+
+▌ Eligibility
+
+Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2024/07/18 16:00</t>.
+
+Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</t>– <t class="t_gl" contenteditable="false">2024/08/28 06:00</t> to receive your compensation. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
 -----
 
 # [Genius Invokation TCG "The Prince Cup" Tournament 2024 Commemorative Card Back Distributed](archive/20640.md)
