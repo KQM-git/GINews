@@ -10,6 +10,38 @@
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20578.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/84e8646fe8e31af9058a8a815df33236_2376165780254980232.jpg)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+〓Event Duration〓
+
+2024/07/27 10:00:00 (server) – 2024/08/12 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/77bc8ce33030bc36a950e3ef25faf437_4962881324490799384.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
