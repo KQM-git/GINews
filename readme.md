@@ -481,72 +481,6 @@ Fixes an issue whereby there was a chance that the positions of the special effe
 
 -----
 
-# ["Outside the Canvas, Inside the Lens: Dew-Kissed Chapter" Event: A Photographic Journey in Search of Inspiration](archive/20579.md)
-## Outside the Canvas, Inside the Lens: Dew-Kissed Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b067caa0f03e983af00d4f0fef3aefc2_7931428103741569130.jpg)
-
-〓Event Duration〓
-
-2024/07/29 10:00:00 (server) – 2024/08/08 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/c91068c440593b52d69a3ea6a2e8e241_4764231103325590546.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the event begins, 2 new photo-taking spots will be unlocked every day for the first 7 days. There are a total of 14 photo-taking spots.
-
-● You must equip Asagiri's Dedicated Fontaine Kamera and interact with the photo-taking point(s) to enter Photo-Taking Mode.
-
-● In the Photo-Taking Mode, you can use the Settings button in the upper left corner to activate or deactivate Interval Timer Photography Mode and adjust the interval time.
-
-● If you wish to adjust your Kamera Settings again, you can tap Pause Challenge and return to your preset, thus starting the setting adjustment process over again. Once you have finished taking a photo, if you wish to continue taking pictures using the current settings, you can tap Keep Taking Photos to return to the photo-taking phase.
-
-● During the event, you can claim rewards the first time you complete the corresponding photo-taking objectives at each photo-taking spot.
-
-※ Recorded photos will not be stored in Photo Notes. You can save your favorite photos in your current personal devices by clicking on the larger image to save it.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20578.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/84e8646fe8e31af9058a8a815df33236_2376165780254980232.jpg)
-
-〓Special Rules〓
-
-● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
-
-〓Event Duration〓
-
-2024/07/27 10:00:00 (server) – 2024/08/12 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/77bc8ce33030bc36a950e3ef25faf437_4962881324490799384.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [Version Details - What's New ](archive/20637.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -628,6 +562,72 @@ Primogems ×1,600
 Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2024/07/18 16:00</t>.
 
 Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</t>– <t class="t_gl" contenteditable="false">2024/08/28 06:00</t> to receive your compensation. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# ["Outside the Canvas, Inside the Lens: Dew-Kissed Chapter" Event: A Photographic Journey in Search of Inspiration](archive/20579.md)
+## Outside the Canvas, Inside the Lens: Dew-Kissed Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b067caa0f03e983af00d4f0fef3aefc2_7931428103741569130.jpg)
+
+〓Event Duration〓
+
+2024/07/29 10:00:00 (server) – 2024/08/08 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/c91068c440593b52d69a3ea6a2e8e241_4764231103325590546.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● After the event begins, 2 new photo-taking spots will be unlocked every day for the first 7 days. There are a total of 14 photo-taking spots.
+
+● You must equip Asagiri's Dedicated Fontaine Kamera and interact with the photo-taking point(s) to enter Photo-Taking Mode.
+
+● In the Photo-Taking Mode, you can use the Settings button in the upper left corner to activate or deactivate Interval Timer Photography Mode and adjust the interval time.
+
+● If you wish to adjust your Kamera Settings again, you can tap Pause Challenge and return to your preset, thus starting the setting adjustment process over again. Once you have finished taking a photo, if you wish to continue taking pictures using the current settings, you can tap Keep Taking Photos to return to the photo-taking phase.
+
+● During the event, you can claim rewards the first time you complete the corresponding photo-taking objectives at each photo-taking spot.
+
+※ Recorded photos will not be stored in Photo Notes. You can save your favorite photos in your current personal devices by clicking on the larger image to save it.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20578.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/84e8646fe8e31af9058a8a815df33236_2376165780254980232.jpg)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+〓Event Duration〓
+
+2024/07/27 10:00:00 (server) – 2024/08/12 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/77bc8ce33030bc36a950e3ef25faf437_4962881324490799384.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
