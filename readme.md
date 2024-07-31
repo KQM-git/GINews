@@ -565,18 +565,6 @@ Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</
 
 -----
 
-# [Genshin Impact V4.0 Commemorative OST Album - "The Shimmering Voyage Vol. 4" Now Available](archive/20648.md)
-## Version 4.0 Commemorative OST Album Available Now
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/26/12f3d8e622900d63f19b94998064fc43_4347949775797071850.jpg)
-
-Dear Traveler,
-
-Genshin Impact's Version 4.0 Commemorative OST album "The Shimmering Voyage Vol. 4" is now available! The album's three discs "Summertime Excursion," "Romance Without Words," and "Curiosites Esthetiques" feature 67 remarkable tracks composed by the HOYO-MiX team, each one an original composition from Genshin Impact.
-
-Travelers can go to Apple Music or Spotify to listen to "The Shimmering Voyage Vol. 4."
-
------
-
 # ["Outside the Canvas, Inside the Lens: Dew-Kissed Chapter" Event: A Photographic Journey in Search of Inspiration](archive/20579.md)
 ## Outside the Canvas, Inside the Lens: Dew-Kissed Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b067caa0f03e983af00d4f0fef3aefc2_7931428103741569130.jpg)
