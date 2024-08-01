@@ -565,6 +565,42 @@ Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</
 
 -----
 
+# ["An Introduction to Perfumery" — The Web Event for Genshin Impact's new character: Emilie is now available.](archive/20642.md)
+## "An Introduction to Perfumery" — Emilie's Web Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/31/faad15d4ae308618d19bef207ff10243_3961573493270664064.png)
+
+Elegant ladies and gentlemen each have their own approach to "wearing" perfume.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240801emilie-kryavl/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240801emilie&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+<t class="t_gl" contenteditable="false">2024/08/01 12:00</t> – <t class="t_gl" contenteditable="false">2024/08/07 23:59</t>
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓In-Game Rewards〓
+
+Answer Emilie's scent selection questions to obtain Primogems, Character Ascension Materials, and other in-game rewards.
+
+〓Gameplay Details〓
+
+1. During the event, answer four scent selection questions from Emilie and receive the perfume recommended by Emilie along with its description card to obtain in-game rewards.
+
+2. After generating the perfume description card, you can select your favorite photo to save or share.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. The event wallpaper is not available after the event ends. Please save it in time.
+
+3. After generating the perfume description card, the in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+-----
+
 # ["Outside the Canvas, Inside the Lens: Dew-Kissed Chapter" Event: A Photographic Journey in Search of Inspiration](archive/20579.md)
 ## Outside the Canvas, Inside the Lens: Dew-Kissed Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b067caa0f03e983af00d4f0fef3aefc2_7931428103741569130.jpg)
