@@ -10,110 +10,6 @@
 
 -----
 
-# [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/20585.md)
-## Event Wish - Ambrosial Essence
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/53d9511f0c59836ed405819b23c350fc_8935895759103848090.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-2024/08/06 18:00:00 (server) — 2024/08/27 14:59:00 (server) | "A Thousand Scents Traced" Emilie (Dendro) | "Wise Innocence" Yanfei (Pyro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-^ | ^ | "Wolf Boy" Razor (Electro)
-
-● During this event wish, the event-exclusive 5-star character "A Thousand Scents Traced" Emilie (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Wise Innocence" Yanfei (Pyro), "Exquisite Delicacy" Xiangling (Pyro), and "Wolf Boy" Razor (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!](archive/20592.md)
-## Event Wish - Discerner of Enigmas
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/17d5ee62585f21f02b1f3b7bdc952edb_6592150645909876543.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-2024/08/06 18:00:00 (server) — 2024/08/27 14:59:00 (server) | "Valley Orchid" Yelan (Hydro) | "Wise Innocence" Yanfei (Pyro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-^ | ^ | "Wolf Boy" Razor (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Valley Orchid" Yelan (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Wise Innocence" Yanfei (Pyro), "Exquisite Delicacy" Xiangling (Pyro), and "Wolf Boy" Razor (Electro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Lumidouce Elegy (Polearm) and Aqua Simulacra (Bow)!](archive/20593.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/e69f812491b724c7bdcdabf2b622fad2_5105041182127900835.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-2024/08/06 18:00:00 (server) — 2024/08/27 14:59:00 (server) | Lumidouce Elegy (Polearm)  Aqua Simulacra (Bow) | Makhaira Aquamarine (Claymore)
-^ | ^ | Wandering Evenstar (Catalyst)
-^ | ^ | The Flute (Sword)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Warbow (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Lumidouce Elegy (Polearm) and Aqua Simulacra (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, the event-exclusive 4-star weapons Makhaira Aquamarine (Claymore) and Wandering Evenstar (Catalyst) as well as the 4-star weapons The Flute (Sword), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Lumidouce Elegy (Polearm) or Aqua Simulacra (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Pomum de Ambra Chapter" Story Quest Overview](archive/20594.md)
-## Pomum de Ambra Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/42470a97cc4c97a04fa0d1ee831ec6ee_1847599822391128441.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Emilie's Story Quest "Pomum de Ambra Chapter."
-
-The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
-
-〓Quest Start Time〓
-
-Permanently available after 2024/08/06 18:00:00 (server)
-
-〓Quest Unlock Criteria〓
-
-Adventure Rank 40 or above
-
-Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
-
------
-
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
@@ -582,6 +478,110 @@ Fixes an issue whereby there was a chance that the positions of the special effe
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/20585.md)
+## Event Wish - Ambrosial Essence
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/53d9511f0c59836ed405819b23c350fc_8935895759103848090.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+2024/08/06 18:00:00 (server) — 2024/08/27 14:59:00 (server) | "A Thousand Scents Traced" Emilie (Dendro) | "Wise Innocence" Yanfei (Pyro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Wolf Boy" Razor (Electro)
+
+● During this event wish, the event-exclusive 5-star character "A Thousand Scents Traced" Emilie (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wise Innocence" Yanfei (Pyro), "Exquisite Delicacy" Xiangling (Pyro), and "Wolf Boy" Razor (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!](archive/20592.md)
+## Event Wish - Discerner of Enigmas
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/17d5ee62585f21f02b1f3b7bdc952edb_6592150645909876543.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+2024/08/06 18:00:00 (server) — 2024/08/27 14:59:00 (server) | "Valley Orchid" Yelan (Hydro) | "Wise Innocence" Yanfei (Pyro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Wolf Boy" Razor (Electro)
+
+● During this event wish, the event-exclusive 5-star character "Valley Orchid" Yelan (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wise Innocence" Yanfei (Pyro), "Exquisite Delicacy" Xiangling (Pyro), and "Wolf Boy" Razor (Electro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Lumidouce Elegy (Polearm) and Aqua Simulacra (Bow)!](archive/20593.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/e69f812491b724c7bdcdabf2b622fad2_5105041182127900835.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+2024/08/06 18:00:00 (server) — 2024/08/27 14:59:00 (server) | Lumidouce Elegy (Polearm)  Aqua Simulacra (Bow) | Makhaira Aquamarine (Claymore)
+^ | ^ | Wandering Evenstar (Catalyst)
+^ | ^ | The Flute (Sword)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Warbow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Lumidouce Elegy (Polearm) and Aqua Simulacra (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Makhaira Aquamarine (Claymore) and Wandering Evenstar (Catalyst) as well as the 4-star weapons The Flute (Sword), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Lumidouce Elegy (Polearm) or Aqua Simulacra (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Pomum de Ambra Chapter" Story Quest Overview](archive/20594.md)
+## Pomum de Ambra Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/42470a97cc4c97a04fa0d1ee831ec6ee_1847599822391128441.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Emilie's Story Quest "Pomum de Ambra Chapter."
+
+The Story Quest feature is unlocked at Adventure Rank 26. Story Keys are obtained by claiming Daily Commission rewards (one Story Key is awarded for every eight Daily Commission rewards claimed).
+
+〓Quest Start Time〓
+
+Permanently available after 2024/08/06 18:00:00 (server)
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 -----
 
