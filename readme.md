@@ -709,6 +709,46 @@ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 -----
 
+# ["Stellar Reunion" Maintenance Details](archive/20643.md)
+## "Stellar Reunion" Maintenance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/16/6f51ba7219b3479aa7738e0deda6c575_6138217686743414303.jpg)
+
+Dear Travelers,
+
+To bring you the best-possible gaming experience, the "Stellar Reunion" system will be optimized and updated in Version 5.0. Before the Version 5.0 update takes place, the system requires maintenance that will temporarily make "Stellar Reunion" unavailable.
+
+〓Maintenance Duration〓
+
+2024/08/12 11:00:00 (global) – Before the Version 5.0 update is completed
+
+The maintenance start time may be adjusted according to the circumstances. We advise Travelers to activate the "Stellar Reunion" event when it becomes available.
+
+〓 "Stellar Reunion" Event Activation Requirements 〓
+
+1. Reach Adventure Rank 10 or above
+
+2. At least 14 days since last game login
+
+3. Over 45 days since last activating the "Stellar Reunion" event
+
+〓 Event Status After Meeting "Stellar Reunion" Activation Requirements at Different Times 〓
+
+● If Travelers have already activated "Stellar Reunion" before maintenance
+
+Travelers who have already activated the "Stellar Reunion" event before the maintenance begins will not be affected by the maintenance, and will be able to take part in related events as normal.
+
+● If Travelers meet the requirements for activating the "Stellar Reunion" event during the maintenance period
+
+After logging in, Travelers will be temporarily unable to activate the "Stellar Reunion" event. Once the Version 5.0 update is complete, log in to activate the "Stellar Reunion" event.
+
+● If Travelers meet the requirements for activating "Stellar Reunion" after the Version 5.0 update
+
+After the maintenance is complete, Travelers who meet the activation requirements will be able to activate the "Stellar Reunion" event as normal by logging into the game.
+
+Please take note of the maintenance time and schedule your game time accordingly. We hope Travelers will bear with us during the disruption.
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20673.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
