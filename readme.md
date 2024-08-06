@@ -1,15 +1,3 @@
-# [Version 4.8 New Content Overview](archive/20635.md)
-## Version 4.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/16/4a282615be0243e42ebd52d8e9d32f3f_7958629871392055951.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/16/f6f704bf1817e1a446fe1557ee2c273e_1009794899513293046.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/16/75bd9ffb0761fe5ed2aed16c5f1d0216_1905966060022056903.jpg)
-
------
-
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
