@@ -593,30 +593,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# [Events Survey Now Open](archive/20679.md)
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2024/08/09 10:00:00 (global) - 2024/08/12 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-R5qR-seXZlJUP2c9jilCrOMg8QFopeUBee3BBvNuO&game_biz=hk4e_global&surveyId=25128&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/20585.md)
 ## Event Wish - Ambrosial Essence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/53d9511f0c59836ed405819b23c350fc_8935895759103848090.jpg)
@@ -721,6 +697,30 @@ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
 
 -----
 
+# [Events Survey Now Open](archive/20679.md)
+## Events Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
+
+Dear Traveler,
+
+In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
+
+〓Survey Duration〓
+
+2024/08/09 10:00:00 (global) - 2024/08/12 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-R5qR-seXZlJUP2c9jilCrOMg8QFopeUBee3BBvNuO&game_biz=hk4e_global&surveyId=25128&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # ["Stellar Reunion" Maintenance Details](archive/20643.md)
 ## "Stellar Reunion" Maintenance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/16/6f51ba7219b3479aa7738e0deda6c575_6138217686743414303.jpg)
@@ -761,26 +761,6 @@ Please take note of the maintenance time and schedule your game time accordingly
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/20673.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20578.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/84e8646fe8e31af9058a8a815df33236_2376165780254980232.jpg)
@@ -810,6 +790,26 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
 
 ● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20673.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
