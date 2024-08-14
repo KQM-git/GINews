@@ -1,35 +1,3 @@
-# ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
-## Energy Amplifier: Lemma
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
-
-〓Event Duration〓
-
-2024/08/12 10:00:00 (server) – 2024/08/26 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/f058eaed7f237439f54cd5c8a1dd88b1_5936126086101857250.png)
-
-〓Eligibility〓
-
-Adventure Rank 27 or above
-
-〓Event Details〓
-
-● After the event begins, a new challenge stage will unlock every day. A total of 6 stages will be unlocked.
-
-● Each stage is comprised of 3 combat rounds, during which you must defeat as many opponents as possible within the time limit to score points.
-
-● Before any challenge begins, you will need to set your parties up. The same character can be placed into parties for all 3 rounds of combat.
-
-● Party members will gain Motive Force based on their adventuring prowess. Motive Force can be used to set Ley Line Effectors to help your party gain combat buffs. The same character can only grant Motive Force once per stage.
-
-● When configuring the Ley Line Effectors, the 3 parties will jointly contribute to the total Motive Force during challenges.
-
-● You cannot use Food or other items during the event challenges.
-
------
-
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
@@ -498,6 +466,38 @@ Fixes an issue whereby there was a chance that the positions of the special effe
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
+## Energy Amplifier: Lemma
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
+
+〓Event Duration〓
+
+2024/08/12 10:00:00 (server) – 2024/08/26 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/f058eaed7f237439f54cd5c8a1dd88b1_5936126086101857250.png)
+
+〓Eligibility〓
+
+Adventure Rank 27 or above
+
+〓Event Details〓
+
+● After the event begins, a new challenge stage will unlock every day. A total of 6 stages will be unlocked.
+
+● Each stage is comprised of 3 combat rounds, during which you must defeat as many opponents as possible within the time limit to score points.
+
+● Before any challenge begins, you will need to set your parties up. The same character can be placed into parties for all 3 rounds of combat.
+
+● Party members will gain Motive Force based on their adventuring prowess. Motive Force can be used to set Ley Line Effectors to help your party gain combat buffs. The same character can only grant Motive Force once per stage.
+
+● When configuring the Ley Line Effectors, the 3 parties will jointly contribute to the total Motive Force during challenges.
+
+● You cannot use Food or other items during the event challenges.
 
 -----
 
