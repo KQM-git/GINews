@@ -833,28 +833,6 @@ Equip the "Fonta" Card Back and have a refreshing game of Genius Invokation TCG!
 
 -----
 
-# [The Version 4.8 Submission Contest has begun!](archive/20612.md)
-## Version 4.8 Submission Contest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/12/f60a7b3a0fe6c0d9a90f90b29899bba7_3843743322031793194.jpg)
-
-Hello, Traveler~
-
-The Genshin Impact Version 4.8 "Summertide Scales and Tales" Submission Contest has begun.
-
-From July 17, head to the official submission contest page to create fairy tales or summer-themed fan works, or create videos about the storyline and open world exploration based on Version 4.8 content for a chance to win up to 1,000 USD and Primogems ×5,000!
-
-For more details, please visit the official submission contest page:
-
-[Click to View](https://act.hoyoverse.com/puzzle/hk4e/pz_Ix2jDa9QMC/index.html?utm_source=ingame&utm_medium=notice)
-
-From July 17, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to Primogems ×6,000, exquisite merchandise, and more!
-
-For more details, please visit:
-
-[Click to View](https://www.hoyolab.com/contribution/387?utm_source=ingame&utm_medium=notice&utm_id=2)
-
------
-
 # [The Genshin Impact Version 4.8 Tools Update Is Here!](archive/20598.md)
 ## View the Updated Interactive Map, Battle Chronicle, and Other Tools!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/17/fde98039c08ed3bf7df1859f448aa765_2948079212903495664.jpg)
