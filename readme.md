@@ -1,3 +1,35 @@
+# ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
+## Energy Amplifier: Lemma
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
+
+〓Event Duration〓
+
+2024/08/12 10:00:00 (server) – 2024/08/26 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/f058eaed7f237439f54cd5c8a1dd88b1_5936126086101857250.png)
+
+〓Eligibility〓
+
+Adventure Rank 27 or above
+
+〓Event Details〓
+
+● After the event begins, a new challenge stage will unlock every day. A total of 6 stages will be unlocked.
+
+● Each stage is comprised of 3 combat rounds, during which you must defeat as many opponents as possible within the time limit to score points.
+
+● Before any challenge begins, you will need to set your parties up. The same character can be placed into parties for all 3 rounds of combat.
+
+● Party members will gain Motive Force based on their adventuring prowess. Motive Force can be used to set Ley Line Effectors to help your party gain combat buffs. The same character can only grant Motive Force once per stage.
+
+● When configuring the Ley Line Effectors, the 3 parties will jointly contribute to the total Motive Force during challenges.
+
+● You cannot use Food or other items during the event challenges.
+
+-----
+
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
@@ -469,35 +501,33 @@ Fixes an issue whereby there was a chance that the positions of the special effe
 
 -----
 
-# ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
-## Energy Amplifier: Lemma
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
+# ["Bing-Bang Finchball" Event: Fun Ball Launching Challenges](archive/20595.md)
+## Bing-Bang Finchball
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/762d470a0db582ded7f18c14e30057bc_1915282163221257466.jpg)
 
 〓Event Duration〓
 
-2024/08/12 10:00:00 (server) – 2024/08/26 03:59:59 (server)
+2024/08/06 10:00:00 (server) – 2024/08/19 03:59:59 (server)
 
 〓Event Rewards〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/f058eaed7f237439f54cd5c8a1dd88b1_5936126086101857250.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/50b830b6a54fb7dd2defddf54198aab8_8433973983666159385.png)
 
 〓Eligibility〓
 
-Adventure Rank 27 or above
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 〓Event Details〓
 
-● After the event begins, a new challenge stage will unlock every day. A total of 6 stages will be unlocked.
+● After the event begins, a total of 8 stages in the "Free & Easy Fun" mode and 7 stages in the "Hardly Even Hardball" mode will unlock over the course of the first 4 days.
 
-● Each stage is comprised of 3 combat rounds, during which you must defeat as many opponents as possible within the time limit to score points.
+● In the "Free & Easy Fun" mode, some stages will have Rival Finchballs in them. You must accurately launch Finchballs to knock Rival Finchballs out of the scoring area. When some stages start, the field will have friendly Normal Finchballs. You must accurately launch Finchballs so that more of them can land in the scoring area to score more points.
 
-● Before any challenge begins, you will need to set your parties up. The same character can be placed into parties for all 3 rounds of combat.
+● In the "Hardly Even Hardball" mode, two players will square off against one another, taking turns to launch Finchballs. After the final round ends, the winner will be decided by tabulating the scores of the landing spots of each Finchball.
 
-● Party members will gain Motive Force based on their adventuring prowess. Motive Force can be used to set Ley Line Effectors to help your party gain combat buffs. The same character can only grant Motive Force once per stage.
-
-● When configuring the Ley Line Effectors, the 3 parties will jointly contribute to the total Motive Force during challenges.
-
-● You cannot use Food or other items during the event challenges.
+● After the event begins, the maximum number of Glittering Finch Coins obtainable will be increased by 500 for the first 4 days. Playing either the "Free & Easy Fun" mode or the "Hardly Even Hardball" mode will grant Glittering Finch Coins. Accumulate a certain number of Glittering Finch Coins to obtain the corresponding rewards.
 
 -----
 
@@ -595,56 +625,6 @@ Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</
 
 -----
 
-# ["Bing-Bang Finchball" Event: Fun Ball Launching Challenges](archive/20595.md)
-## Bing-Bang Finchball
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/762d470a0db582ded7f18c14e30057bc_1915282163221257466.jpg)
-
-〓Event Duration〓
-
-2024/08/06 10:00:00 (server) – 2024/08/19 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/50b830b6a54fb7dd2defddf54198aab8_8433973983666159385.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the event begins, a total of 8 stages in the "Free & Easy Fun" mode and 7 stages in the "Hardly Even Hardball" mode will unlock over the course of the first 4 days.
-
-● In the "Free & Easy Fun" mode, some stages will have Rival Finchballs in them. You must accurately launch Finchballs to knock Rival Finchballs out of the scoring area. When some stages start, the field will have friendly Normal Finchballs. You must accurately launch Finchballs so that more of them can land in the scoring area to score more points.
-
-● In the "Hardly Even Hardball" mode, two players will square off against one another, taking turns to launch Finchballs. After the final round ends, the winner will be decided by tabulating the scores of the landing spots of each Finchball.
-
-● After the event begins, the maximum number of Glittering Finch Coins obtainable will be increased by 500 for the first 4 days. Playing either the "Free & Easy Fun" mode or the "Hardly Even Hardball" mode will grant Glittering Finch Coins. Accumulate a certain number of Glittering Finch Coins to obtain the corresponding rewards.
-
------
-
-# [Genshin Impact Third Version Trailers OST Album "Footprints of the Traveler Vol. 3" Now Available](archive/20649.md)
-## Third Version Trailers OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/09/1086a5771e7b8cfb32551f24f65c8a26_6266059510320879872.jpg)
-
-Dear Traveler,
-
-Genshin Impact's third version trailers OST album "Footprints of the Traveler Vol. 3" is out now! The album features 9 splendid tracks composed by HOYO-MiX, each one an original composition for the version trailers of Genshin Impact from Version 4.0 to Version 4.8.
-
-Travelers can go to the following platforms to listen to "Footprints of the Traveler Vol. 3."
-
-Spotify:
-
-[Click here to listen to "Footprints of the Traveler Vol. 3"](https://open.spotify.com/album/3pPqMrF4WgdbneNirGiWwW)
-
-Apple Music:
-
-[Click here to listen to "Footprints of the Traveler Vol. 3"](https://music.apple.com/us/album/1760501453)
-
------
-
 # [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/20585.md)
 ## Event Wish - Ambrosial Essence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/53d9511f0c59836ed405819b23c350fc_8935895759103848090.jpg)
@@ -670,6 +650,26 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Genshin Impact Third Version Trailers OST Album "Footprints of the Traveler Vol. 3" Now Available](archive/20649.md)
+## Third Version Trailers OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/09/1086a5771e7b8cfb32551f24f65c8a26_6266059510320879872.jpg)
+
+Dear Traveler,
+
+Genshin Impact's third version trailers OST album "Footprints of the Traveler Vol. 3" is out now! The album features 9 splendid tracks composed by HOYO-MiX, each one an original composition for the version trailers of Genshin Impact from Version 4.0 to Version 4.8.
+
+Travelers can go to the following platforms to listen to "Footprints of the Traveler Vol. 3."
+
+Spotify:
+
+[Click here to listen to "Footprints of the Traveler Vol. 3"](https://open.spotify.com/album/3pPqMrF4WgdbneNirGiWwW)
+
+Apple Music:
+
+[Click here to listen to "Footprints of the Traveler Vol. 3"](https://music.apple.com/us/album/1760501453)
 
 -----
 
@@ -746,6 +746,53 @@ Permanently available after 2024/08/06 18:00:00 (server)
 Adventure Rank 40 or above
 
 Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+-----
+
+# ["Summertide Scales and Tales" Event: Take Part to Obtain Kirara's Outfit and Invite "Cat Upon the Eaves" Kirara (Dendro)](archive/20573.md)
+## Summertide Scales and Tales
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/806c0439f5bba06fd297f182fc59e0c5_5405820862261307417.jpg)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Quest Duration | Page I | After the Version 4.8 update | End of Version 4.8
+^ | Page II | 2024/07/19 04:00:00 (server) | ^
+^ | Page III | 2024/07/21 04:00:00 (server) | ^
+^ | Appendix | 2024/07/23 04:00:00 (server) | ^
+Gameplay Duration | Boreal Flurry | After the Version 4.8 update | ^
+^ | Figurine Fabrication | After the Version 4.8 update | ^
+^ | Flying Hatter's Trick | 2024/07/19 04:00:00 (server) | ^
+^ | Metropole Trials | 2024/07/19 04:00:00 (server) | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/cd41b01f7e5c7e838c6e034724d127a1_6192647415932416829.png)
+
+〓Eligibility〓
+
+Adventure Rank 18 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quests Interlude Chapter: Act III "Inversion of Genesis" and Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, the following gameplay modes will unlock in sequence: "Boreal Flurry," "Flying Hatter's Trick," "Metropole Trials," and "Figurine Fabrication."
+
+● In the "Boreal Flurry" gameplay, you must follow the streaming current and fire at floating targets to complete timed challenges.
+
+● In the "Flying Hatter's Trick" gameplay, you must use a Flying Hat to attract toy figures and obtain ever higher scores according to different rules.
+
+● In the "Metropole Trials" gameplay, you can defeat opponents and fill your Valor bar to enter A Time For Valor, so as to complete the challenges more efficiently.
+
+● During the event, you can use Starsail Coins earned from playing other gameplay modes at the Fantastical Fabricators in each zone to obtain Fairytale Figurines, and place them on corresponding frames for display. Each time you create figurines a certain number of times, you will unlock the corresponding rewards. After creating figurines a specific number of times, you can invite "Cat Upon the Eaves" Kirara (Dendro).
+
+● In addition, as you explore Simulanka, you may gather Excerpts of Bliss by collecting Jubilant Feathers and opening Fairytale Troves, and by completing various challenges. Collect the specified number of Excerpts of Bliss to exchange for Kirara's outfit "Phantom in Boots."
+
+※ Kirara's outfit "Phantom in Boots" will be available for purchase in the Character Outfit Shop after the end of Version 4.8, which will be priced at 1,680 Genesis Crystals.
 
 -----
 
@@ -888,53 +935,6 @@ Entries on game mechanics and lore will be updated on the Wiki with the Version 
 (Lineup queries for Emilie will be updated when the Limited-Time Wish becomes available on August 6.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
------
-
-# ["Summertide Scales and Tales" Event: Take Part to Obtain Kirara's Outfit and Invite "Cat Upon the Eaves" Kirara (Dendro)](archive/20573.md)
-## Summertide Scales and Tales
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/806c0439f5bba06fd297f182fc59e0c5_5405820862261307417.jpg)
-
-〓Event Duration〓
-
-Event Content | Event Content | Start Time | End Time
---- | --- | --- | ---
-Quest Duration | Page I | After the Version 4.8 update | End of Version 4.8
-^ | Page II | 2024/07/19 04:00:00 (server) | ^
-^ | Page III | 2024/07/21 04:00:00 (server) | ^
-^ | Appendix | 2024/07/23 04:00:00 (server) | ^
-Gameplay Duration | Boreal Flurry | After the Version 4.8 update | ^
-^ | Figurine Fabrication | After the Version 4.8 update | ^
-^ | Flying Hatter's Trick | 2024/07/19 04:00:00 (server) | ^
-^ | Metropole Trials | 2024/07/19 04:00:00 (server) | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/17/cd41b01f7e5c7e838c6e034724d127a1_6192647415932416829.png)
-
-〓Eligibility〓
-
-Adventure Rank 18 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quests Interlude Chapter: Act III "Inversion of Genesis" and Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, the following gameplay modes will unlock in sequence: "Boreal Flurry," "Flying Hatter's Trick," "Metropole Trials," and "Figurine Fabrication."
-
-● In the "Boreal Flurry" gameplay, you must follow the streaming current and fire at floating targets to complete timed challenges.
-
-● In the "Flying Hatter's Trick" gameplay, you must use a Flying Hat to attract toy figures and obtain ever higher scores according to different rules.
-
-● In the "Metropole Trials" gameplay, you can defeat opponents and fill your Valor bar to enter A Time For Valor, so as to complete the challenges more efficiently.
-
-● During the event, you can use Starsail Coins earned from playing other gameplay modes at the Fantastical Fabricators in each zone to obtain Fairytale Figurines, and place them on corresponding frames for display. Each time you create figurines a certain number of times, you will unlock the corresponding rewards. After creating figurines a specific number of times, you can invite "Cat Upon the Eaves" Kirara (Dendro).
-
-● In addition, as you explore Simulanka, you may gather Excerpts of Bliss by collecting Jubilant Feathers and opening Fairytale Troves, and by completing various challenges. Collect the specified number of Excerpts of Bliss to exchange for Kirara's outfit "Phantom in Boots."
-
-※ Kirara's outfit "Phantom in Boots" will be available for purchase in the Character Outfit Shop after the end of Version 4.8, which will be priced at 1,680 Genesis Crystals.
 
 -----
 
