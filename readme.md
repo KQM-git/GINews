@@ -501,36 +501,6 @@ Fixes an issue whereby there was a chance that the positions of the special effe
 
 -----
 
-# ["Bing-Bang Finchball" Event: Fun Ball Launching Challenges](archive/20595.md)
-## Bing-Bang Finchball
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/762d470a0db582ded7f18c14e30057bc_1915282163221257466.jpg)
-
-〓Event Duration〓
-
-2024/08/06 10:00:00 (server) – 2024/08/19 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/50b830b6a54fb7dd2defddf54198aab8_8433973983666159385.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the event begins, a total of 8 stages in the "Free & Easy Fun" mode and 7 stages in the "Hardly Even Hardball" mode will unlock over the course of the first 4 days.
-
-● In the "Free & Easy Fun" mode, some stages will have Rival Finchballs in them. You must accurately launch Finchballs to knock Rival Finchballs out of the scoring area. When some stages start, the field will have friendly Normal Finchballs. You must accurately launch Finchballs so that more of them can land in the scoring area to score more points.
-
-● In the "Hardly Even Hardball" mode, two players will square off against one another, taking turns to launch Finchballs. After the final round ends, the winner will be decided by tabulating the scores of the landing spots of each Finchball.
-
-● After the event begins, the maximum number of Glittering Finch Coins obtainable will be increased by 500 for the first 4 days. Playing either the "Free & Easy Fun" mode or the "Hardly Even Hardball" mode will grant Glittering Finch Coins. Accumulate a certain number of Glittering Finch Coins to obtain the corresponding rewards.
-
------
-
 # [Version Details - What's New ](archive/20637.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -622,6 +592,36 @@ Primogems ×1,600
 Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2024/07/18 16:00</t>.
 
 Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</t>– <t class="t_gl" contenteditable="false">2024/08/28 06:00</t> to receive your compensation. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+-----
+
+# ["Bing-Bang Finchball" Event: Fun Ball Launching Challenges](archive/20595.md)
+## Bing-Bang Finchball
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/762d470a0db582ded7f18c14e30057bc_1915282163221257466.jpg)
+
+〓Event Duration〓
+
+2024/08/06 10:00:00 (server) – 2024/08/19 03:59:59 (server)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/50b830b6a54fb7dd2defddf54198aab8_8433973983666159385.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● After the event begins, a total of 8 stages in the "Free & Easy Fun" mode and 7 stages in the "Hardly Even Hardball" mode will unlock over the course of the first 4 days.
+
+● In the "Free & Easy Fun" mode, some stages will have Rival Finchballs in them. You must accurately launch Finchballs to knock Rival Finchballs out of the scoring area. When some stages start, the field will have friendly Normal Finchballs. You must accurately launch Finchballs so that more of them can land in the scoring area to score more points.
+
+● In the "Hardly Even Hardball" mode, two players will square off against one another, taking turns to launch Finchballs. After the final round ends, the winner will be decided by tabulating the scores of the landing spots of each Finchball.
+
+● After the event begins, the maximum number of Glittering Finch Coins obtainable will be increased by 500 for the first 4 days. Playing either the "Free & Easy Fun" mode or the "Hardly Even Hardball" mode will grant Glittering Finch Coins. Accumulate a certain number of Glittering Finch Coins to obtain the corresponding rewards.
 
 -----
 
