@@ -625,6 +625,28 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [Genshin Impact Natlan Live Symphony Performance Now Available](archive/20689.md)
+## Natlan Live Symphony Performance Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/14/1cd044987f85c18f942cce08af769485_7444290058897428652.jpg)
+
+Dear Traveler,
+
+The Natlan Live Symphony Performance is now available.
+
+Conducted by Robert Ziegler, the Natlan Live Symphony Performance features the London Symphony Orchestra, London Voices choir, Vocal Shack choir, and top folk musicians performing two game soundtrack pieces produced by HOYO-MiX, "Natlan" and "Anthem of the Savannah."
+
+‌
+
+A big thank you to TAKEOFF Studios for providing collaboration support, and to Stagecast for their support with filming and production.
+
+Travelers can go to the following platform to watch the Genshin Impact Natlan Live Symphony Performance.
+
+YouTube:
+
+[Click here to watch the Genshin Impact Natlan Live Symphony Performance](https://youtu.be/TyCB25oXUA4)
+
+-----
+
 # [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/20585.md)
 ## Event Wish - Ambrosial Essence
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/53d9511f0c59836ed405819b23c350fc_8935895759103848090.jpg)
