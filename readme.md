@@ -675,26 +675,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Genshin Impact Third Version Trailers OST Album "Footprints of the Traveler Vol. 3" Now Available](archive/20649.md)
-## Third Version Trailers OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/09/1086a5771e7b8cfb32551f24f65c8a26_6266059510320879872.jpg)
-
-Dear Traveler,
-
-Genshin Impact's third version trailers OST album "Footprints of the Traveler Vol. 3" is out now! The album features 9 splendid tracks composed by HOYO-MiX, each one an original composition for the version trailers of Genshin Impact from Version 4.0 to Version 4.8.
-
-Travelers can go to the following platforms to listen to "Footprints of the Traveler Vol. 3."
-
-Spotify:
-
-[Click here to listen to "Footprints of the Traveler Vol. 3"](https://open.spotify.com/album/3pPqMrF4WgdbneNirGiWwW)
-
-Apple Music:
-
-[Click here to listen to "Footprints of the Traveler Vol. 3"](https://music.apple.com/us/album/1760501453)
-
------
-
 # [Event Wish "Discerner of Enigmas" - Boosted Drop Rate for "Valley Orchid" Yelan (Hydro)!](archive/20592.md)
 ## Event Wish - Discerner of Enigmas
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/17d5ee62585f21f02b1f3b7bdc952edb_6592150645909876543.jpg)
