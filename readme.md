@@ -1016,6 +1016,26 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
+# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
+## Initial Top-Up Bonus Reset
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/d062e1eb109c1fbf3e19a66ad5794fe0_5220428135262143118.jpg)
+
+After the Genshin Impact Version 5.0 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 5.0 update
+
+※ Version 5.0 Update Time: <t class="t_gl" contenteditable="false">2024/08/28 06:00</t>
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+-----
+
 # [Game Survey](archive/3770.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
