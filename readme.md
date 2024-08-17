@@ -595,6 +595,20 @@ Please log in between <t class="t_gl" contenteditable="false">2024/07/18 19:00</
 
 -----
 
+# [Genshin Impact Version 5.0Preview](archive/20698.md)
+## The Version 5.0"Flowers Resplendent on the Sun-Scorched Sojourn" Preview page is here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/522e8b47260db5e54a6ae2c39d603470_3922250100657865180.jpg)
+
+Dear Travelers,
+
+The Version 5.0"Flowers Resplendent on the Sun-Scorched Sojourn" Preview page is here!
+
+[>>>>Go to V5.0"Flowers Resplendent on the Sun-Scorched Sojourn" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240817preview-6y2ic4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240817warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
+
+-----
+
 # ["Bing-Bang Finchball" Event: Fun Ball Launching Challenges](archive/20595.md)
 ## Bing-Bang Finchball
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/762d470a0db582ded7f18c14e30057bc_1915282163221257466.jpg)
@@ -858,30 +872,6 @@ Permanent
 
 -----
 
-# [Genius Invokation TCG "The Prince Cup" Tournament 2024 Commemorative Card Back Distributed](archive/20640.md)
-## Genius Invokation TCG "The Prince Cup" Tournament 2024 Commemorative Card Back Distributed
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/17/ecdb67e3293ba39e2c399d0829affe63_5301022293604404137.jpg)
-
-Dear Traveler, the Genius Invokation TCG Card Back "Fonta" has been issued. Please claim it in your mailbox!
-
-〓Eligibility〓
-
-Reach Adventure Rank 10 or above
-
-〓Collection Period〓
-
-<t class="t_gl" contenteditable="false"></t><t class="t_gl" contenteditable="false">2024/07/18 12:00</t> - <t class="t_gl" contenteditable="false">2024/08/17 12:00</t>
-
-The mail is valid for 30 days. Please claim it in time.
-
-The "Astra Carnival: The Prince Cup" is in full swing! Duels between the top players from all over the world have also begun!
-
-Equip the "Fonta" Card Back and have a refreshing game of Genius Invokation TCG!
-
-[Follow the Genshin Impact Astra Carnival account to learn more about the event~](https://www.hoyolab.com/accountCenter/postList?id=390027001)
-
------
-
 # [The Genshin Impact Version 4.8 Tools Update Is Here!](archive/20598.md)
 ## View the Updated Interactive Map, Battle Chronicle, and Other Tools!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/17/fde98039c08ed3bf7df1859f448aa765_2948079212903495664.jpg)
@@ -1015,6 +1005,28 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/20597.md)
+## Overflowing Mastery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/d57d50a9b8fd0e6fc427f0f0b9e0f426_306292325370412821.jpg)
+
+During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
+
+〓Event Duration〓
+
+2024/08/19 04:00:00 (server) – 2024/08/26 03:59:59 (server)
+
+〓Eligibility〓
+
+Adventure Rank 25 or above
+
+And after activating corresponding Talent Level-Up Material Domains
+
+〓Event Details〓
+
+● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
