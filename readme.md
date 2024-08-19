@@ -1,17 +1,3 @@
-# [Login Failure Issue Fix Details](archive/20709.md)
-## Login Failure Issue Fix Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/8e60989f6665a150a0e7020459098b25_1167331821194732653.jpg)
-
-Dear Travelers,
-
-Due to an issue with Facebook services, some Travelers have been unable to log into the game normally.
-
-Related services have been restored.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
------
-
 # ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
 ## Energy Amplifier: Lemma
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
