@@ -1,16 +1,14 @@
-# [Login Failure Issue Summary](archive/20709.md)
-## Login Failure Issue Summary
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/fe7e72baa8e4ac5e237f027a819b212e_4308209705894113002.jpg)
+# [Login Failure Issue Fix Details](archive/20709.md)
+## Login Failure Issue Fix Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/8e60989f6665a150a0e7020459098b25_1167331821194732653.jpg)
 
 Dear Travelers,
 
 Due to an issue with Facebook services, some Travelers have been unable to log into the game normally.
 
-Travelers using applicable services can log in to the game using their linked HoYoverse Account.
+Related services have been restored.
 
-Once relevant services are restored, we will inform Travelers through official notices.
-
-We would like to express our utmost apologies for any inconvenience caused.
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
 
 -----
 
