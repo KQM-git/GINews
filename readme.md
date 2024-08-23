@@ -635,6 +635,30 @@ Adventure Rank 27 or above
 
 -----
 
+# [Version Satisfaction Survey Now Open](archive/20706.md)
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2024/08/23 10:00:00 (global) - 2024/08/26 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-B1sx-seXZlJUP2c9jil9_FMjjwlhErrhLPpMfJza8&game_biz=hk4e_global&surveyId=25562&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [Web Event "Off We Go to the Nation of Pyro!" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/20685.md)
 ## Web Event "Off We Go to the Nation of Pyro!" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/ed5a0cdd361910b932a2710aff293830_8382343593876026982.jpg)
