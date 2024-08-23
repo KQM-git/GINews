@@ -603,6 +603,44 @@ Please take note of the maintenance time and schedule your game time accordingly
 
 -----
 
+# ["Guide to Wondrous Sights" — The Web Event for Genshin Impact's new character: Mualani is now available.](archive/20692.md)
+## "Guide to Wondrous Sights" — The Web Event for Genshin Impact's new character: Mualani is now available.
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/21/1de0e2030371de9b5246f271d7c55ded_8490340347305254000.jpg)
+
+Traveler, are you ready to embark on a wonderful trip in Natlan?
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240823mualani-1889o1/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240823mualani&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
+
+〓Event Duration〓
+
+<t class="t_gl" contenteditable="false">2024/08/23 12:00</t> – <t class="t_gl" contenteditable="false">2024/08/30 23:59</t>
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓In-Game Rewards〓
+
+Follow Mualani to admire the sights of Natlan and take commemorative photos. Visit all the landscapes to obtain in-game rewards.
+
+〓Gameplay Details〓
+
+1. During the event, follow Mualani to visit the four Natlan scenic spots she recommends and take commemorative photos, and watch her surfing performance to obtain in-game rewards.
+
+2. Watch Mualani's surfing performance to obtain the event wallpaper.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. The event wallpaper is not available after the event ends. Please claim it in time.
+
+3. After visiting all the landscapes, the in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+4. Please note that the web event cannot be accessed during Version Update Maintenance. After Version Update Maintenance is completed, you will be able to access the web event as normal.
+
+-----
+
 # ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
 ## Energy Amplifier: Lemma
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
