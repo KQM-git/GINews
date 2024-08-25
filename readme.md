@@ -667,38 +667,6 @@ Follow Mualani to admire the sights of Natlan and take commemorative photos. Vis
 
 -----
 
-# ["Energy Amplifier: Lemma" Event: Use the New Energy Amplifier in Combat](archive/20596.md)
-## Energy Amplifier: Lemma
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/345272d721d1305c0a5d6b71220645fc_4389443216382562271.jpg)
-
-〓Event Duration〓
-
-2024/08/12 10:00:00 (server) – 2024/08/26 03:59:59 (server)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/20/f058eaed7f237439f54cd5c8a1dd88b1_5936126086101857250.png)
-
-〓Eligibility〓
-
-Adventure Rank 27 or above
-
-〓Event Details〓
-
-● After the event begins, a new challenge stage will unlock every day. A total of 6 stages will be unlocked.
-
-● Each stage is comprised of 3 combat rounds, during which you must defeat as many opponents as possible within the time limit to score points.
-
-● Before any challenge begins, you will need to set your parties up. The same character can be placed into parties for all 3 rounds of combat.
-
-● Party members will gain Motive Force based on their adventuring prowess. Motive Force can be used to set Ley Line Effectors to help your party gain combat buffs. The same character can only grant Motive Force once per stage.
-
-● When configuring the Ley Line Effectors, the 3 parties will jointly contribute to the total Motive Force during challenges.
-
-● You cannot use Food or other items during the event challenges.
-
------
-
 # [Version Satisfaction Survey Now Open](archive/20706.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
@@ -1006,52 +974,6 @@ Entries on game mechanics and lore will be updated on the Wiki with the Version 
 
 -----
 
-# [Nilou's Outfit "Breeze of Sabaa" Available at a Limited-Time Discount](archive/20575.md)
-## Breeze of Sabaa
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/3bb41caaabe0f0199faf0bf01f10c2be_769150230038029586.jpg)
-
-Nilou's outfit "Breeze of Sabaa" is available at a limited-time discount in the Shop!
-
-〓Discount Period〓
-
-After the Version 4.8 update – 2024/08/26 03:59:59 (server)
-
-〓Outfit Details〓
-
-● Nilou's outfit "Breeze of Sabaa" will be permanently available in the Shop after the Version 4.8 update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Nilou can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
-# ["Fanciful Fabrication" Event Details](archive/20576.md)
-## Fanciful Fabrication
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/b20c00fd48ac0bb789c90724e6ea4b1b_7823117420742199652.jpg)
-
-Travelers can earn rich rewards in "Fanciful Fabrication" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Fanciful Fabrication" and Furnishing Blueprint "Magical Forest Hut."
-
-〓Event Duration〓
-
-After the Version 4.8 update – 2024/08/26 03:59:59 (server)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on 2024/08/26 02:59:59 (server). Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20577.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/04/cf324597e5d687e26d86f297e59c9ebd_8978981353647020823.jpg)
@@ -1081,28 +1003,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# ["Overflowing Mastery" Event: Double Drops With Talent Level-Up Materials](archive/20597.md)
-## Overflowing Mastery
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/19/d57d50a9b8fd0e6fc427f0f0b9e0f426_306292325370412821.jpg)
-
-During the event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards.
-
-〓Event Duration〓
-
-2024/08/19 04:00:00 (server) – 2024/08/26 03:59:59 (server)
-
-〓Eligibility〓
-
-Adventure Rank 25 or above
-
-And after activating corresponding Talent Level-Up Material Domains
-
-〓Event Details〓
-
-● During the "Overflowing Mastery" event, successfully challenge Talent Level-Up Material Domains and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
