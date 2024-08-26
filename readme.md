@@ -1,3 +1,38 @@
+# [Version 5.0 Update Maintenance Preview](archive/20712.md)
+## Version 5.0 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/26/c941908b14dcaf160083796a10645f89_3127323237410943411.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2024/08/28 06:00:00</t>. Please stay tuned to related game update information.
+
+In Version 5.0, to optimize the update installation speed after pre-downloading on hard disk drives, the required space for PC pre-download is relatively large, and is approximately 26–38 GB (with the resource package occupying 16–23 GB).
+
+If your device has limited storage space, please reserve space for the resource package (approximately 16–23 GB) and wait until the version update maintenance period or after to perform the update directly.
+
+<details open="true">
+<summary>Version 5.0 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/21/fb8762d49183098debc226f1ce0bce88_2542423017529852258.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/21/839bd0d09fd8ddd68201bfe1e93f8f21_3717755162619650477.jpg)
+
+</details>
+
+<details open="true">
+<summary>Minimum Specifications and Recommended Specifications</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/21/adc06d39df4427385cb71464dc06c595_300317361447958442.jpg)
+
+</details>
+
+-----
+
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
