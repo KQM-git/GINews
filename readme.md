@@ -33,6 +33,418 @@ If your device has limited storage space, please reserve space for the resource 
 
 -----
 
+# [New Story Unlocked - Archon Quest Chapter V: Act I and Act II](archive/20676.md)
+## New Story Unlocked - Archon Quest Chapter V: Act I and Act II
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b424e39cfdfd88318ea3914f4e6e15b2_2353476358228129863.jpg)
+
+The nation of Saurians beckons — an all-new odyssey is about to begin.
+
+New adventures, new encounters, and a vast world that keeps unfurling like a neverending scroll.
+
+Standing silently in the midst of that strange land, the Stadium of the Sacred Flame awaits the arrival of heroes...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and Act II "Black Stone Under a White Stone" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 5.0 update, Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and Act II "Black Stone Under a White Stone" will be permanently available.
+
+〓Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act VI "Bedtime Story"
+
+〓Archon Quest Chapter V: Act II "Black Stone Under a White Stone" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn"
+
+Adds the "Quick Start" function:
+
+(1) Once unlocked, you can maintain your current Archon Quest progress, while accepting and progressing through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn." This function will be available until the Version 6.0 update.
+
+(2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["A Quest to Kindle Ancient Flames" Event: Invite a 5-Star Character of Your Choice From the Standard Wish "Wanderlust Invocation"](archive/20715.md)
+## A Quest to Kindle Ancient Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/22/0638f3abf870b26f7a4da88d0aa5fd56_5133632292992649127.png)
+
+〓Event Duration〓
+
+After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
+
+〓Eligibility〓
+
+After unlocking the Wish feature
+
+〓Event Details〓
+
+● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
+
+※ You can only invite 1 character during this event.
+
+-----
+
+# [Event Wish "Sharktacular Surfari" - Boosted Drop Rate for "Splish-Splash Wavechaser" Mualani (Hydro)!](archive/20653.md)
+## Event Wish - Sharktacular Surfari
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/a6d4019f1c5973b9ad3e8222b3aa38bd_1068621711551018144.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.0 update  —  <t class="t_lc" contenteditable="false">2024/09/17 17:59</t> | "Splish-Splash Wavechaser" Mualani (Hydro) | "Mottled Gold Yet Unsmelted" Kachina (Geo)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Splish-Splash Wavechaser" Mualani (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Mottled Gold Yet Unsmelted" Kachina (Geo), "Blazing Riff" Xinyan (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Mottled Gold Yet Unsmelted" Kachina (Geo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+● The new "Capturing Radiance" mechanic has been added since this phase of "Character Event Wish" and "Character Event Wish-2." If it is not guaranteed to win the promotional 5-star character during this event wish, when winning a 5-star character, there is a chance of triggering the "Capturing Radiance" mechanic. If "Capturing Radiance" is triggered, the 5-star character you win in this event wish will be the promotional 5-star character.
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Leaves in the Wind" - Boosted Drop Rate for "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo)!](archive/20654.md)
+## Event Wish - Leaves in the Wind
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/f91ab142e045d9052414776ed0597d95_1068617500121253196.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.0 update  —  <t class="t_lc" contenteditable="false">2024/09/17 17:59</t> | "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | "Mottled Gold Yet Unsmelted" Kachina (Geo)
+^ | ^ | "Blazing Riff" Xinyan (Pyro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Mottled Gold Yet Unsmelted" Kachina (Geo), "Blazing Riff" Xinyan (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Mottled Gold Yet Unsmelted" Kachina (Geo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+● The new "Capturing Radiance" mechanic has been added since this phase of "Character Event Wish" and "Character Event Wish-2." If it is not guaranteed to win the promotional 5-star character during this event wish, when winning a 5-star character, there is a chance of triggering the "Capturing Radiance" mechanic. If "Capturing Radiance" is triggered, the 5-star character you win in this event wish will be the promotional 5-star character.
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Surf's Up (Catalyst) and Freedom-Sworn (Sword)!](archive/20655.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/e5072a3ce1c5079d262ac9c945da4d09_3418888949322613954.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 5.0 update  — <t class="t_lc" contenteditable="false">2024/09/17 17:59</t> | Surf's Up (Catalyst)  Freedom-Sworn (Sword) | Favonius Sword (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Surf's Up (Catalyst) and Freedom-Sworn (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons Favonius Sword (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Surf's Up (Catalyst) or Freedom-Sworn (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+● Starting from this phase of "Epitome Invocation," the maximum amount of Fate Points for "Epitomized Path" will be reduced from 2 to 1. Once you've reached the maximum amount of Fate Points, the next 5-star weapon you win will be the one you have chosen through Epitomized Path.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Flowers Resplendent on the Sun-Scorched Sojourn" Event: Complete the Archon Quest Within the Specified Duration to Obtain an Additional Reward of Primogems ×500](archive/20658.md)
+## Flowers Resplendent on the Sun-Scorched Sojourn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/cba5657bd35d453106983c204c7967bb_2060593663904734495.jpg)
+
+After the Version 5.0 update, Archon Quests Chapter V: Act I and Act II will be permanently available. Meet the unlock criteria or use the "Quick Start" function via the event page to unlock said Archon Quests.
+
+Complete the corresponding Archon Quest within the specified duration to obtain an additional reward of Primogems ×500.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
+
+‍
+
+〓Quick Start Criteria〓
+
+Adventure Rank 28 or above
+
+Complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act VI "Bedtime Story"
+
+-----
+
+# ["Turbo Twirly!" Event: Progress Through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn" and Invite "Mottled Gold Yet Unsmelted" Kachina (Geo)](archive/20652.md)
+## Turbo Twirly!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/86bcf20a1a26cdd537626d000e627862_1854706427906153419.jpg)
+
+〓Event Duration〓
+
+Permanently available after the Version 5.0 update
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/61272ce6d6b3d89a64460198b892cf66_6120703833627412573.png)
+
+〓Eligibility〓
+
+Complete the Archon Quest "Bedtime Story"
+
+※ After completing the Archon Quest "A New Star Approaches," you can use the "Quick Start" function on the event page to begin the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn" directly.
+
+〓Event Details〓
+
+Progress through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn" to invite "Mottled Gold Yet Unsmelted" Kachina (Geo).
+
+※ You can only invite "Mottled Gold Yet Unsmelted" Kachina (Geo) once while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn." The event page will close once you have invited the character.
+
+※ Before you invite the character, the event page will be available before the Version 6.0 update. After the Version 6.0 update, the event page will close. Then you will no longer be able to use the "Quick Start" function via the event page, but you can still invite "Mottled Gold Yet Unsmelted" Kachina (Geo) while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn."
+
+-----
+
+# ["Where the Springs Return" Event: Complete the Tribal Chronicles Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/20656.md)
+## Where the Springs Return
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/916c7989eb8afae8eeaeccbfec8e3489_4050132178089021128.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock "Tribal Chronicles: People of the Springs."
+
+Complete the Tribal Chronicles within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Natlan regional specialties, and other rewards.
+
+〓Quest Start Time〓
+
+Act I and Act II: After the Version 5.0 update
+
+Act III: After the Version 5.0 update
+
+〓Specified Duration〓
+
+After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/09/17 17:59</t>
+
+〓Quest Unlock Criteria〓
+
+Act I and Act II:
+
+Adventure Rank 40 or above
+
+Complete "Pilgrimage of the Return of the Sacred Flame" in the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn"
+
+Act III:
+
+Adventure Rank 40 or above
+
+Complete "Into Eternal Night" in the Archon Quest "Black Stone Under a White Stone"
+
+The three acts must be experienced in sequence. You can only unlock the next act after completing the previous one and meeting the corresponding unlock criteria.
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn."
+
+-----
+
+# ["Yupanqui's Turnfire" Event: Complete the Tribal Chronicles Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/20657.md)
+## Yupanqui's Turnfire
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/2a8b337dfaa45394bbe0f4ee4bf971ba_5770372457951540517.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock "Tribal Chronicles: Scions of the Canopy."
+
+Complete the Tribal Chronicles within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Natlan regional specialties, and other rewards.
+
+〓Quest Start Time〓
+
+Act I and Act II: After the Version 5.0 update
+
+Act III: <t class="t_lc" contenteditable="false">2024/09/17 18:00</t>
+
+〓Specified Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/17 18:00</t> – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 or above
+
+Complete "Pilgrimage of the Return of the Sacred Flame" in the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn"
+
+The three acts must be experienced in sequence. You can only unlock the next act after completing the previous one and meeting the corresponding unlock criteria.
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn."
+
+-----
+
+# ["Traces of Artistry" Event: Take Part and Obtain the Event-Exclusive Weapon, Ash-Graven Drinking Horn (Catalyst)](archive/20662.md)
+## Traces of Artistry
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/20/427d42a93548521343da44b54ec097d9_1920257694852215887.jpg)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Gameplay Duration | Phase I: Children of Echoes | After the Version 5.0 update | <t class="t_lc" contenteditable="false">2024/09/16 03:59</t>
+^ | Phase II: Scions of the Canopy | <t class="t_lc" contenteditable="false">2024/08/30 04:00</t> | ^
+^ | Phase III: People of the Springs | <t class="t_lc" contenteditable="false">2024/09/01 04:00</t> | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/cfceaa0e71950bb9df93f2cd78076596_8655957237933525501.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter V: Act II "Black Stone Under a White Stone" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, head over to where Children of Echoes, People of the Springs, and Scions of the Canopy reside respectively in search of inspiration and unlock the following gameplay modes: "Flow's True Form," "Blazing Extremes," "Of Aspects Vivid."
+
+● In the "Flow's True Form" gameplay, you must use the skills and special traits of different Saurians to reach the destination within a time limit and collect as many Challenge Coins and Orbs of Inspiration as possible to increase your challenge rating and obtain better rewards.
+
+● In the "Blazing Extremes" gameplay, you must head to multiple arenas one by one to defeat the opponent(s) in a designated area and challenge powerful foes to complete special objectives.
+
+● In the "Of Aspects Vivid" gameplay, complete challenges including taking photos, picking regional specialties, unlocking Statues of The Seven and Viewpoints, etc. to obtain the corresponding rewards. After the event begins, picked regional specialties, unlocked Statues of The Seven and Viewpoints, etc. will all count towards challenge progress.
+
+● Complete the challenges in search of inspiration in different gameplay modes to gain Colorful Contemplations. Reach a certain amount of Colorful Contemplations to obtain Ash-Graven Drinking Horn (Catalyst), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
+
+-----
+
+# ["Primal Fire" Event Details](archive/20660.md)
+## Primal Fire
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/c73366d20c2b025d9e848b4868f0310b_2866445975027346119.jpg)
+
+Travelers can earn rich rewards in "Primal Fire" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Primal Fire" and Furnishing Blueprint "Even-Handed Judgment."
+
+〓Event Duration〓
+
+After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/07 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● Starting from this Battle Pass, you can choose 3 out of 4 types of rewards — Mora, Character EXP Materials, Enhancement Ores, and Artifact Enhancement Materials — to form you BP reward plan. You can change the reward plan at any time during the Battle Pass period. BP Rewards are divided into groups of 10 levels. If you have not claimed any rewards from a given group, you can change your reward selection in that group by changing your reward plan. If you have already claimed a reward in a group, you cannot change the rewards in the group it belongs to.
+
+● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guide to the Original Current" and "Guidance of the Land of Verdure" will be replaced with "Guides of a Journey," and "Philosophies of the Original Current" and "Philosophies of the Land of Verdure" will be replaced with "Philosophies of a Journey." You can select any one Character Talent Material from all the options available in the current Version.
+
+● Starting from this Battle Pass, reach Gnostic Hymn Level 26 to obtain Sanctifying Elixir from the BP Bounty.
+
+● Starting from this Battle Pass, certain Battle Pass Missions have been adjusted. In Battle Pass > Daily Missions, the Battle Pass EXP for completing "Claim Daily Commission Rewards 4 times" will be increased from 150 to 200. The weekly Reputation Quests "Complete 3 Requests" and "Complete 3 Bounties" have been removed from Battle Pass > Weekly Missions. In Battle Pass > This BP Period, complete the new mission "Complete the Act 8 Performance Challenge in Imaginarium Theater and finalize" to obtain Battle Pass EXP, and complete the new missions "Enhance 5-star artifacts a total of 30 levels," "Enhance 5-star artifacts a total of 60 levels," and "Enhance 5-star artifacts a total of 100 levels" to obtain Primogems, Sanctifying Unction, and Battle Pass EXP.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2024/10/07 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 34 Available for a Limited Time](archive/20659.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/8422167e11e392849be11887bf1fbd91_3526795316822075529.jpg)
+
+Round 34 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/09/11 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/09/11 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 5.0
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
 # ["Summertide Scales and Tales" Version 4.8 Update Details](archive/20628.md)
 ## Version 4.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/503dd2cb4d180c68f99d213f85b10f61_6337264382867601123.png)
