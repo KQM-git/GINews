@@ -1114,30 +1114,6 @@ Follow Mualani to admire the sights of Natlan and take commemorative photos. Vis
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/20706.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2024/08/23 10:00:00 (global) - 2024/08/26 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-B1sx-seXZlJUP2c9jil9_FMjjwlhErrhLPpMfJza8&game_biz=hk4e_global&surveyId=25562&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [Web Event "Off We Go to the Nation of Pyro!" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards](archive/20685.md)
 ## Web Event "Off We Go to the Nation of Pyro!" Now Online: Take Part to Obtain Primogems and Other In-Game Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/ed5a0cdd361910b932a2710aff293830_8382343593876026982.jpg)
@@ -1175,20 +1151,6 @@ Successfully share for the first time in the web event to obtain Mora ×20,000.
 *The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
-# [Genshin Impact Version 5.0Preview](archive/20698.md)
-## The Version 5.0"Flowers Resplendent on the Sun-Scorched Sojourn" Preview page is here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/522e8b47260db5e54a6ae2c39d603470_3922250100657865180.jpg)
-
-Dear Travelers,
-
-The Version 5.0"Flowers Resplendent on the Sun-Scorched Sojourn" Preview page is here!
-
-[>>>>Go to V5.0"Flowers Resplendent on the Sun-Scorched Sojourn" Preview Page<<<<](https://act.hoyoverse.com/ys/event/e20240817preview-6y2ic4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240817warm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-※ ※ Open the event webpage from within the game and share the page to get 20,000 Mora
 
 -----
 
