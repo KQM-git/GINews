@@ -886,6 +886,24 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
+# [The Version 5.0 Submission Contest has begun!](archive/20693.md)
+## Version 5.0 Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/21/465a077141ce595b770414201b310678_3583169290652333141.jpg)
+
+Hello, Traveler~
+
+The Genshin Impact Version 5.0 "Flowers Resplendent on the Sun-Scorched Sojourn" Submission Contest has begun!
+
+From August 28, head to the official submission contest page to create fan works featuring tribal styles or Saurian elements, create videos about the storyline and open world exploration, or submit beautiful in-game photos based on Version 5.0 content for a chance to win up to 1,000 USD and Primogems ×5,000! For more details, please visit the official submission contest page:
+
+[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_PaUfsunMMa/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202408218921&utm_source=ingame&utm_medium=notice)
+
+From August 28, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000! For more details, please visit:
+
+[>> Click to View <<](https://www.hoyolab.com/contribution/394)
+
+-----
+
 # [Game Survey](archive/20708.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -1319,6 +1337,34 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
+# ["Brilliant Dawn" Event: Log in on 7 Days in Total to Receive Intertwined Fate ×10](archive/20651.md)
+## Brilliant Dawn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/427eb930f369cef97ea963801e94e0c7_1959455945644465237.jpg)
+
+During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/08/30 04:00</t> – <t class="t_lc" contenteditable="false">2024/09/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 5 or above
+
+〓Event Details〓
+
+Total Login Days | Rewards
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Sanctifying Unction ×10
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
 
 -----
 
