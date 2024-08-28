@@ -886,6 +886,30 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
+# [Game Survey](archive/20708.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter V: Act I and Act II](archive/20676.md)
 ## New Story Unlocked - Archon Quest Chapter V: Act I and Act II
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b424e39cfdfd88318ea3914f4e6e15b2_2353476358228129863.jpg)
@@ -923,30 +947,6 @@ Adds the "Quick Start" function:
 (2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Game Survey](archive/20708.md)
-## Complete the Survey and Get Primogems
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
-
-Dear Travelers,
-
-A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
