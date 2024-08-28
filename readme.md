@@ -886,6 +886,22 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
+# [Version Details - What's New ](archive/20730.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2024/28/28 16:30:00</t> Update Details〓
+
+- Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
+
+- Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
+
+-----
+
 # [The Version 5.0 Submission Contest has begun!](archive/20693.md)
 ## Version 5.0 Submission Contest
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/21/465a077141ce595b770414201b310678_3583169290652333141.jpg)
