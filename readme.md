@@ -1,3 +1,23 @@
+# [Version 5.0 New Content Overview](archive/20726.md)
+## Version 5.0 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/a3e7c6f61827e74b872466a81dcb9d21_4409882528478980681.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/29cdc143a261dac6dfe3618718403f9f_4290717650955126220.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/5039ccbbd654a1b42700b3832720d720_1105182963141473266.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/6723c07dc7d019e13da52fc0b84c644a_2725939118245200247.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/a501bb5447e5abd856399bfd224ec217_1579552793755921855.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/2531b5dc6e51aa9a852700d71b60330a_2136410968528499659.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/5f90d4a199e5b7fed780b7a8b27efb51_1092546686897922912.jpg)
+
+-----
+
 # ["Flowers Resplendent on the Sun-Scorched Sojourn" Version 5.0 Update Details](archive/20723.md)
 ## Version 5.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/e830be0201055afbb30397cf1d3c7c13_187823289723409043.jpg)
@@ -903,6 +923,30 @@ Adds the "Quick Start" function:
 (2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Game Survey](archive/20708.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
