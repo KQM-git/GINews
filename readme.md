@@ -928,6 +928,26 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
+# ["A Quest to Kindle Ancient Flames" Event: Invite a 5-Star Character of Your Choice From the Standard Wish "Wanderlust Invocation"](archive/20715.md)
+## A Quest to Kindle Ancient Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/22/0638f3abf870b26f7a4da88d0aa5fd56_5133632292992649127.png)
+
+〓Event Duration〓
+
+After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
+
+〓Eligibility〓
+
+After unlocking the Wish feature
+
+〓Event Details〓
+
+● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
+
+※ You can only invite 1 character during this event.
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter V: Act I and Act II](archive/20676.md)
 ## New Story Unlocked - Archon Quest Chapter V: Act I and Act II
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b424e39cfdfd88318ea3914f4e6e15b2_2353476358228129863.jpg)
@@ -965,26 +985,6 @@ Adds the "Quick Start" function:
 (2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# ["A Quest to Kindle Ancient Flames" Event: Invite a 5-Star Character of Your Choice From the Standard Wish "Wanderlust Invocation"](archive/20715.md)
-## A Quest to Kindle Ancient Flames
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/22/0638f3abf870b26f7a4da88d0aa5fd56_5133632292992649127.png)
-
-〓Event Duration〓
-
-After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
-
-〓Eligibility〓
-
-After unlocking the Wish feature
-
-〓Event Details〓
-
-● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
-
-※ You can only invite 1 character during this event.
 
 -----
 
