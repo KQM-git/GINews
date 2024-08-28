@@ -948,46 +948,6 @@ After unlocking the Wish feature
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter V: Act I and Act II](archive/20676.md)
-## New Story Unlocked - Archon Quest Chapter V: Act I and Act II
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b424e39cfdfd88318ea3914f4e6e15b2_2353476358228129863.jpg)
-
-The nation of Saurians beckons — an all-new odyssey is about to begin.
-
-New adventures, new encounters, and a vast world that keeps unfurling like a neverending scroll.
-
-Standing silently in the midst of that strange land, the Stadium of the Sacred Flame awaits the arrival of heroes...
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and Act II "Black Stone Under a White Stone" will appear in the Quest Menu.
-
-(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
-
-〓Quest Start Time〓
-
-After the Version 5.0 update, Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and Act II "Black Stone Under a White Stone" will be permanently available.
-
-〓Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter IV: Act VI "Bedtime Story"
-
-〓Archon Quest Chapter V: Act II "Black Stone Under a White Stone" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn"
-
-Adds the "Quick Start" function:
-
-(1) Once unlocked, you can maintain your current Archon Quest progress, while accepting and progressing through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn." This function will be available until the Version 6.0 update.
-
-(2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # [Event Wish "Sharktacular Surfari" - Boosted Drop Rate for "Splish-Splash Wavechaser" Mualani (Hydro)!](archive/20653.md)
 ## Event Wish - Sharktacular Surfari
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/a6d4019f1c5973b9ad3e8222b3aa38bd_1068621711551018144.jpg)
@@ -1365,6 +1325,46 @@ Total Login Days | Rewards
 5 | Intertwined Fate ×2
 6 | Hero's Wit ×8
 7 | Intertwined Fate ×5
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter V: Act I and Act II](archive/20676.md)
+## New Story Unlocked - Archon Quest Chapter V: Act I and Act II
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b424e39cfdfd88318ea3914f4e6e15b2_2353476358228129863.jpg)
+
+The nation of Saurians beckons — an all-new odyssey is about to begin.
+
+New adventures, new encounters, and a vast world that keeps unfurling like a neverending scroll.
+
+Standing silently in the midst of that strange land, the Stadium of the Sacred Flame awaits the arrival of heroes...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and Act II "Black Stone Under a White Stone" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 5.0 update, Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and Act II "Black Stone Under a White Stone" will be permanently available.
+
+〓Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act VI "Bedtime Story"
+
+〓Archon Quest Chapter V: Act II "Black Stone Under a White Stone" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn"
+
+Adds the "Quick Start" function:
+
+(1) Once unlocked, you can maintain your current Archon Quest progress, while accepting and progressing through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn." This function will be available until the Version 6.0 update.
+
+(2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
