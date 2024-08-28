@@ -894,7 +894,7 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-〓<t class="t_gl" contenteditable="false">2024/28/28 16:30:00</t> Update Details〓
+〓<t class="t_gl" contenteditable="false">2024/08/28 16:30:00</t> Update Details〓
 
 - Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
 
