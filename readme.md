@@ -898,6 +898,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
 
+〓<t class="t_gl" contenteditable="false">2024/08/30 12:10:00</t> Update Details〓
+
+Fixes an issue whereby there was a chance that the achievement "Only the Night Breeze Can Be Heard" could not be completed. Travelers who encountered this issue can try again to complete the achievement normally once the issue has been fixed.
+
 〓<t class="t_gl" contenteditable="false">2024/08/30 11:10:00</t> Update Details〓
 
 - Fixes an issue whereby on certain devices with "Lowest" Graphic Quality settings, Kachina's expression would appear to be abnormal in the Archon Quest "Natlan! A New Adventure."
