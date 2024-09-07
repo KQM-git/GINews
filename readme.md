@@ -886,6 +886,34 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
+# ["Dodoco's Boom-Bastic Escapades" Event: Whimsical Fish Blasting Challenge](archive/20664.md)
+## Dodoco's Boom-Bastic Escapades
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/85b99bef9130af272256b1bfb879ae85_3260438017759127356.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/09 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/c73bb8b7ca39280ee065a85ca70b2e9a_4744675667326525655.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Command Dodoco to place bombs and detonate them to drive away all the Spikey Fish enemies, and earn resources and rewards!
+
+● If Dodoco's Vitality runs out during the challenge, opt for "Casual Mode" with unlimited Vitality to enjoy this tabletop game to your heart's content.
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
