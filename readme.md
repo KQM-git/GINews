@@ -1,3 +1,17 @@
+# [Payment System Maintenance Notice](archive/20761.md)
+## Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/09/6f51ba7219b3479aa7738e0deda6c575_9147673237464470965.jpg)
+
+Dear Traveler,
+
+The payment system for Genshin Impact's PC and web Top-Up Center will undergo maintenance starting at 07:00 (UTC+8) on September 10, 2024. The maintenance is expected to last for about half an hour, but the actual end time may be adjusted based on the circumstances.
+
+During the maintenance period, Travelers will be unable to purchase in-game items. Travelers who fail to make a purchase during this time can log back into the game after maintenance ends to reclaim the items.
+
+We would like to express our utmost apologies for any inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # [Version 5.0 New Content Overview](archive/20726.md)
 ## Version 5.0 New Content Overview
 
