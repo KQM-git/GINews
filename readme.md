@@ -886,70 +886,6 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
-# ["Dodoco's Boom-Bastic Escapades" Event: Whimsical Fish Blasting Challenge](archive/20664.md)
-## Dodoco's Boom-Bastic Escapades
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/85b99bef9130af272256b1bfb879ae85_3260438017759127356.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2024/09/09 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/c73bb8b7ca39280ee065a85ca70b2e9a_4744675667326525655.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
-
-● Command Dodoco to place bombs and detonate them to drive away all the Spikey Fish enemies, and earn resources and rewards!
-
-● If Dodoco's Vitality runs out during the challenge, opt for "Casual Mode" with unlimited Vitality to enjoy this tabletop game to your heart's content.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
-
-〓Special Rules〓
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2024/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_2595749569127770563.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [Version Details - What's New ](archive/20730.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -1021,6 +957,70 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 - Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
 
 - Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
+
+-----
+
+# ["Dodoco's Boom-Bastic Escapades" Event: Whimsical Fish Blasting Challenge](archive/20664.md)
+## Dodoco's Boom-Bastic Escapades
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/85b99bef9130af272256b1bfb879ae85_3260438017759127356.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/09 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/c73bb8b7ca39280ee065a85ca70b2e9a_4744675667326525655.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Command Dodoco to place bombs and detonate them to drive away all the Spikey Fish enemies, and earn resources and rewards!
+
+● If Dodoco's Vitality runs out during the challenge, opt for "Casual Mode" with unlimited Vitality to enjoy this tabletop game to your heart's content.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
+
+〓Special Rules〓
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_2595749569127770563.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
