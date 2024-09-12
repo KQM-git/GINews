@@ -960,6 +960,44 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
+# ["Saurian Egg Adventures" — The web event for the new character: Kinich is now available.](archive/20731.md)
+## "Saurian Egg Adventures" — The web event for the new character: Kinich is now available.
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/11/902ccb3c0f46c33ea5c1650282e5c8f5_6624812033537413086.jpg)
+
+Huh, I didn't expect a guy like Kinich to stick his nose into something that is none of his business.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240912kinich-c8eubx/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240912kinich&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
+
+〓Event Duration〓
+
+<t class="t_gl" contenteditable="false">2024/09/12 12:00</t> - <t class="t_gl" contenteditable="false">2024/09/19 23:59</t>
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓Event Summary〓
+
+During the event, help Kinich hatch the Saurian eggs. Successfully hatch a baby Saurian to receive in-game item rewards.
+
+〓Gameplay Details〓
+
+- During the event, help Kinich hatch the Saurian eggs. After hatching a baby Saurian for the first time, share the hatching results to receive in-game item rewards.
+
+- When hatching the eggs, completing three hatching operations will successfully hatch a baby creature. Different hatching operations can result in baby Saurians with different personalities.
+
+- Complete the specified missions within the event to unlock more hatching options. Selecting special hatching operations increases the chance of hatching unique baby Saurians.
+
+- You will receive in-game item rewards the first time you hatch a baby Saurian. After receiving the rewards, you can continue to hatch the remaining baby Saurians. Hatch a total of three baby Saurians to receive the event wallpaper.
+
+〓Event Notes〓
+
+- Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+- The event wallpaper is not available after the event ends. Please claim it in time.
+
+-----
+
 # ["Dodoco's Boom-Bastic Escapades" Event: Whimsical Fish Blasting Challenge](archive/20664.md)
 ## Dodoco's Boom-Bastic Escapades
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/85b99bef9130af272256b1bfb879ae85_3260438017759127356.jpg)
