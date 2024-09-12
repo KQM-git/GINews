@@ -18,6 +18,90 @@
 
 -----
 
+# [Event Wish "Seeker of Flame-Wrought Secrets" - Boosted Drop Rate for "Turnfire Hunt" Kinich (Dendro)!](archive/20665.md)
+## Event Wish - Seeker of Flame-Wrought Secrets
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/f36ec5b95e8de313796cb1eade66249d_3226944956801611892.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2024/09/17 18:00</t> —  <t class="t_lc" contenteditable="false">2024/10/08 14:59</t> | "Turnfire Hunt" Kinich (Dendro) | "Protector From Afar" Thoma (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Executor of Justice" Chevreuse (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Turnfire Hunt" Kinich (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Protector From Afar" Thoma (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Executor of Justice" Chevreuse (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/20666.md)
+## Event Wish - Reign of Serenity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/05323fa0b939180416a014a7eeb5bad2_530005239017799234.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2024/09/17 18:00</t> —  <t class="t_lc" contenteditable="false">2024/10/08 14:59</t> | "Plane of Euthymia" Raiden Shogun (Electro) | "Protector From Afar" Thoma (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Executor of Justice" Chevreuse (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Protector From Afar" Thoma (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Executor of Justice" Chevreuse (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm)!](archive/20680.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/8fc18e84136cf16f5eb25d008f0c30a3_7020986541243254106.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2024/09/17 18:00</t> — <t class="t_lc" contenteditable="false">2024/10/08 14:59</t> | Fang of the Mountain King (Claymore)  Engulfing Lightning (Polearm) | Sacrificial Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | The Widsith (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons Sacrificial Sword (Sword), Rainslasher (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Fang of the Mountain King (Claymore) or Engulfing Lightning (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # ["Flowers Resplendent on the Sun-Scorched Sojourn" Version 5.0 Update Details](archive/20723.md)
 ## Version 5.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/e830be0201055afbb30397cf1d3c7c13_187823289723409043.jpg)
