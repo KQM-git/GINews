@@ -982,6 +982,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
 
+〓<t class="t_gl" contenteditable="false">2024/09/12 16:20:00</t> Update Details〓
+
+Updates resources related to subsequent events.
+
 〓<t class="t_gl" contenteditable="false">2024/09/10 11:10:00</t> Update Details〓
 
 Fixes an issue whereby when indwelling a Yumkasaur and aiming, it is possible to tilt the game camera to unusual angles, causing the Yumkasaur to jump vertically.
