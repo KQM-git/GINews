@@ -1748,6 +1748,26 @@ Successfully share for the first time in the web event to obtain Mora ×20,000.
 
 -----
 
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+**〓Event Duration〓**
+
+<t class="t_lc" contenteditable="false">2024/09/16 04:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
+
+**〓Eligibility〓**
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+**〓Event Details〓**
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
 ## Initial Top-Up Bonus Reset
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/14/d062e1eb109c1fbf3e19a66ad5794fe0_5220428135262143118.jpg)
