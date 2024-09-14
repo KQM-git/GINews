@@ -886,6 +886,84 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
+# [Version Details - What's New ](archive/20730.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
+
+〓<t class="t_gl" contenteditable="false">2024/09/12 16:20:00</t> Update Details〓
+
+Updates resources related to subsequent events.
+
+〓<t class="t_gl" contenteditable="false">2024/09/10 11:10:00</t> Update Details〓
+
+Fixes an issue whereby when indwelling a Yumkasaur and aiming, it is possible to tilt the game camera to unusual angles, causing the Yumkasaur to jump vertically.
+
+〓<t class="t_gl" contenteditable="false">2024/09/05 16:15:00</t> Update Details〓
+
+- Fixes an issue under certain circumstances whereby when collecting local specialties in marked map areas, the indicator circle data did not update and the indicator circle continued to mark the map after collecting the local specialty in the corresponding area.
+
+- Fixes an issue under certain circumstances whereby players were unable to talk to the NPC "Orqo" after collecting all the required quest items.
+
+- Fixes a text error in Traditional Chinese in the "Hmm? Natlan?" Commission Quest description.
+
+- Fixes an issue under certain circumstances whereby a "Monetoo" in the "Natlan" and "Teticpac Peak" areas could not move properly, preventing the completion of related puzzle gameplay.
+
+- Fixes an issue whereby some scene objects would abnormally disappear on some Android devices with Mali G57 GPUs.
+
+- Improves an issue whereby the achievement "Polychrome Tri-Stars" could not be completed. Travelers who encountered this issue can achieve the accomplishment by re-completing the relevant challenges after the fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
+
+Currently, there is still a small chance that the achievement "Polychrome Tri-Stars" may not be completed in Co-Op Mode under certain circumstances. This issue will be fully resolved in a future update.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game, then log in again to resolve the issues.
+
+〓<t class="t_gl" contenteditable="false">2024/08/30 18:15:00</t> Update Details〓
+
+Fixes an issue under certain circumstances whereby some chests could not be opened after Travelers obtained them upon completing the "Chamber of Night's Trial" challenge.
+
+Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again to return to the "Chamber of Night's Trial" to open the relevant chests as normal.
+
+〓<t class="t_gl" contenteditable="false">2024/08/30 12:30:00</t> Update Details〓
+
+Fixes an issue whereby there was a chance that the achievement "Only the Night Breeze Can Be Heard" could not be completed. Travelers who encountered this issue can try again to complete the achievement normally once the issue has been fixed.
+
+〓<t class="t_gl" contenteditable="false">2024/08/30 11:10:00</t> Update Details〓
+
+- Fixes an issue whereby on certain devices with "Lowest" Graphic Quality settings, Kachina's expression would appear to be abnormal in the Archon Quest "Natlan! A New Adventure."
+
+- Fixes an issue under certain circumstances whereby some enemies would exhibit abnormal combat behavior if you carry out Indwelling in Domains.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game, then log in again to resolve the issues.
+
+- Fixes an issue under certain circumstances whereby some quest items are unable to be submitted to the NPC "Chanca." We will implement a fix for accounts who have encountered this issue before the update within 36 hours. Travelers can continue to progress in the game as normal after the fix.
+
+〓<t class="t_gl" contenteditable="false">2024/08/29 16:10:00</t> Update Details〓
+
+- Fixes an issue in the Version 5.0 update whereby in the World Levels 6, 7, and 9 of the "Midsummer Courtyard" Ascension Domain, Travelers were unable to open the corresponding reward chest if the challenge was completed but all characters in the party were defeated.
+
+We will send the corresponding chest rewards to Travelers who completed the domain but were unable to open the chest, via in-game mail within 72 hours after the issue is fixed.
+
+- Fixes an issue whereby in specific areas of "Natlan" and the "Children of Echoes," the game would incorrectly display the prompt "Indwell a Tepetlisaurus and attack to activate the resonant rocks" even when the current area's gameplay was unrelated to resonant rocks.
+
+- Fixes an issue in the Version 5.0 update whereby the refresh mechanic for some "Mystery Caches" in "Imaginarium Theater" would be abnormal.
+
+- Fixes an issue whereby in specific situations during the Archon Quest "Pilgrimage of the Return of the Sacred Flame," the NPC "Liliuo" might disappear unexpectedly.
+
+〓<t class="t_gl" contenteditable="false">2024/08/28 16:30:00</t> Update Details〓
+
+- Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
+
+- Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
+
+-----
+
 # [Event Wish "Seeker of Flame-Wrought Secrets" - Boosted Drop Rate for "Turnfire Hunt" Kinich (Dendro)!](archive/20665.md)
 ## Event Wish - Seeker of Flame-Wrought Secrets
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/f36ec5b95e8de313796cb1eade66249d_3226944956801611892.jpg)
@@ -967,84 +1045,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Version Details - What's New ](archive/20730.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
-
-〓<t class="t_gl" contenteditable="false">2024/09/12 16:20:00</t> Update Details〓
-
-Updates resources related to subsequent events.
-
-〓<t class="t_gl" contenteditable="false">2024/09/10 11:10:00</t> Update Details〓
-
-Fixes an issue whereby when indwelling a Yumkasaur and aiming, it is possible to tilt the game camera to unusual angles, causing the Yumkasaur to jump vertically.
-
-〓<t class="t_gl" contenteditable="false">2024/09/05 16:15:00</t> Update Details〓
-
-- Fixes an issue under certain circumstances whereby when collecting local specialties in marked map areas, the indicator circle data did not update and the indicator circle continued to mark the map after collecting the local specialty in the corresponding area.
-
-- Fixes an issue under certain circumstances whereby players were unable to talk to the NPC "Orqo" after collecting all the required quest items.
-
-- Fixes a text error in Traditional Chinese in the "Hmm? Natlan?" Commission Quest description.
-
-- Fixes an issue under certain circumstances whereby a "Monetoo" in the "Natlan" and "Teticpac Peak" areas could not move properly, preventing the completion of related puzzle gameplay.
-
-- Fixes an issue whereby some scene objects would abnormally disappear on some Android devices with Mali G57 GPUs.
-
-- Improves an issue whereby the achievement "Polychrome Tri-Stars" could not be completed. Travelers who encountered this issue can achieve the accomplishment by re-completing the relevant challenges after the fix. If the issue persists, Travelers can report the issue through the Feedback tab in the Paimon Menu.
-
-Currently, there is still a small chance that the achievement "Polychrome Tri-Stars" may not be completed in Co-Op Mode under certain circumstances. This issue will be fully resolved in a future update.
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game, then log in again to resolve the issues.
-
-〓<t class="t_gl" contenteditable="false">2024/08/30 18:15:00</t> Update Details〓
-
-Fixes an issue under certain circumstances whereby some chests could not be opened after Travelers obtained them upon completing the "Chamber of Night's Trial" challenge.
-
-Travelers who encountered this issue may exit the game via the Paimon Menu, close the game client, and log into the game again to return to the "Chamber of Night's Trial" to open the relevant chests as normal.
-
-〓<t class="t_gl" contenteditable="false">2024/08/30 12:30:00</t> Update Details〓
-
-Fixes an issue whereby there was a chance that the achievement "Only the Night Breeze Can Be Heard" could not be completed. Travelers who encountered this issue can try again to complete the achievement normally once the issue has been fixed.
-
-〓<t class="t_gl" contenteditable="false">2024/08/30 11:10:00</t> Update Details〓
-
-- Fixes an issue whereby on certain devices with "Lowest" Graphic Quality settings, Kachina's expression would appear to be abnormal in the Archon Quest "Natlan! A New Adventure."
-
-- Fixes an issue under certain circumstances whereby some enemies would exhibit abnormal combat behavior if you carry out Indwelling in Domains.
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game, then log in again to resolve the issues.
-
-- Fixes an issue under certain circumstances whereby some quest items are unable to be submitted to the NPC "Chanca." We will implement a fix for accounts who have encountered this issue before the update within 36 hours. Travelers can continue to progress in the game as normal after the fix.
-
-〓<t class="t_gl" contenteditable="false">2024/08/29 16:10:00</t> Update Details〓
-
-- Fixes an issue in the Version 5.0 update whereby in the World Levels 6, 7, and 9 of the "Midsummer Courtyard" Ascension Domain, Travelers were unable to open the corresponding reward chest if the challenge was completed but all characters in the party were defeated.
-
-We will send the corresponding chest rewards to Travelers who completed the domain but were unable to open the chest, via in-game mail within 72 hours after the issue is fixed.
-
-- Fixes an issue whereby in specific areas of "Natlan" and the "Children of Echoes," the game would incorrectly display the prompt "Indwell a Tepetlisaurus and attack to activate the resonant rocks" even when the current area's gameplay was unrelated to resonant rocks.
-
-- Fixes an issue in the Version 5.0 update whereby the refresh mechanic for some "Mystery Caches" in "Imaginarium Theater" would be abnormal.
-
-- Fixes an issue whereby in specific situations during the Archon Quest "Pilgrimage of the Return of the Sacred Flame," the NPC "Liliuo" might disappear unexpectedly.
-
-〓<t class="t_gl" contenteditable="false">2024/08/28 16:30:00</t> Update Details〓
-
-- Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
-
-- Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
 
 -----
 
