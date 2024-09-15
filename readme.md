@@ -1540,44 +1540,6 @@ The three acts must be experienced in sequence. You can only unlock the next act
 
 -----
 
-# ["Traces of Artistry" Event: Take Part and Obtain the Event-Exclusive Weapon, Ash-Graven Drinking Horn (Catalyst)](archive/20662.md)
-## Traces of Artistry
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/20/427d42a93548521343da44b54ec097d9_1920257694852215887.jpg)
-
-〓Event Duration〓
-
-Event Content | Event Content | Start Time | End Time
---- | --- | --- | ---
-Gameplay Duration | Phase I: Children of Echoes | After the Version 5.0 update | <t class="t_lc" contenteditable="false">2024/09/16 03:59</t>
-^ | Phase II: Scions of the Canopy | <t class="t_lc" contenteditable="false">2024/08/30 04:00</t> | ^
-^ | Phase III: People of the Springs | <t class="t_lc" contenteditable="false">2024/09/01 04:00</t> | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/cfceaa0e71950bb9df93f2cd78076596_8655957237933525501.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter V: Act II "Black Stone Under a White Stone" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, head over to where Children of Echoes, People of the Springs, and Scions of the Canopy reside respectively in search of inspiration and unlock the following gameplay modes: "Flow's True Form," "Blazing Extremes," "Of Aspects Vivid."
-
-● In the "Flow's True Form" gameplay, you must use the skills and special traits of different Saurians to reach the destination within a time limit and collect as many Challenge Coins and Orbs of Inspiration as possible to increase your challenge rating and obtain better rewards.
-
-● In the "Blazing Extremes" gameplay, you must head to multiple arenas one by one to defeat the opponent(s) in a designated area and challenge powerful foes to complete special objectives.
-
-● In the "Of Aspects Vivid" gameplay, complete challenges including taking photos, picking regional specialties, unlocking Statues of The Seven and Viewpoints, etc. to obtain the corresponding rewards. After the event begins, picked regional specialties, unlocked Statues of The Seven and Viewpoints, etc. will all count towards challenge progress.
-
-● Complete the challenges in search of inspiration in different gameplay modes to gain Colorful Contemplations. Reach a certain amount of Colorful Contemplations to obtain Ash-Graven Drinking Horn (Catalyst), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
-
------
-
 # ["Primal Fire" Event Details](archive/20660.md)
 ## Primal Fire
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/c73366d20c2b025d9e848b4868f0310b_2866445975027346119.jpg)
