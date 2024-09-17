@@ -1302,34 +1302,6 @@ After unlocking the Wish feature
 
 -----
 
-# ["Brilliant Dawn" Event: Log in on 7 Days in Total to Receive Intertwined Fate ×10](archive/20651.md)
-## Brilliant Dawn
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/427eb930f369cef97ea963801e94e0c7_1959455945644465237.jpg)
-
-During the event, log in on 7 days in total to receive Intertwined Fate ×10 and other rewards!
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2024/08/30 04:00</t> – <t class="t_lc" contenteditable="false">2024/09/18 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 5 or above
-
-〓Event Details〓
-
-Total Login Days | Rewards
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Sanctifying Unction ×10
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
 # ["Flowers Resplendent on the Sun-Scorched Sojourn" Event: Complete the Archon Quest Within the Specified Duration to Obtain an Additional Reward of Primogems ×500](archive/20658.md)
 ## Flowers Resplendent on the Sun-Scorched Sojourn
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/cba5657bd35d453106983c204c7967bb_2060593663904734495.jpg)
