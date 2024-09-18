@@ -866,36 +866,6 @@ b. Travelers who log into the web event "Off We Go to the Nation of Pyro!" and c
 
 -----
 
-# ["Of Thorns and Crowns" Event: Obtain Buffs and Defeat Enemies](archive/20667.md)
-## Of Thorns and Crowns
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/1fdb8fef78c3dba7b02d579f007d8af6_7486890943067388685.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2024/09/20 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/30 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/ff154f7fe296ce8ea2627e0e583cb82b_7314926566172402187.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And unlock a specific Statue of The Seven
-
-〓Event Details〓
-
-● There are a total of 5 challenges and a new challenge will unlock each day for the first 5 days of the event. The challenge is divided into two combat modes: "Trial of Thorns" and "Canticle of Crowns."
-
-● In "Trial of Thorns," you must complete challenge objectives via the stipulated methods. The better you do in "Trial of Thorns," the more buffs you'll receive in "Canticle of Crowns."
-
-● In "Canticle of Crowns," you must use the special buffs you gained to defeat as many foes as possible within the time limit to earn the highest score you can. Complete the challenge with sufficient points to reach the specified value to obtain the corresponding event rewards.
-
------
-
 # [Version Details - What's New ](archive/20730.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -971,6 +941,36 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 - Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
 
 - Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
+
+-----
+
+# ["Of Thorns and Crowns" Event: Obtain Buffs and Defeat Enemies](archive/20667.md)
+## Of Thorns and Crowns
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/1fdb8fef78c3dba7b02d579f007d8af6_7486890943067388685.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/20 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/30 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/ff154f7fe296ce8ea2627e0e583cb82b_7314926566172402187.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And unlock a specific Statue of The Seven
+
+〓Event Details〓
+
+● There are a total of 5 challenges and a new challenge will unlock each day for the first 5 days of the event. The challenge is divided into two combat modes: "Trial of Thorns" and "Canticle of Crowns."
+
+● In "Trial of Thorns," you must complete challenge objectives via the stipulated methods. The better you do in "Trial of Thorns," the more buffs you'll receive in "Canticle of Crowns."
+
+● In "Canticle of Crowns," you must use the special buffs you gained to defeat as many foes as possible within the time limit to earn the highest score you can. Complete the challenge with sufficient points to reach the specified value to obtain the corresponding event rewards.
 
 -----
 
