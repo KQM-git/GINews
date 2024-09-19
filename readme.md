@@ -1058,44 +1058,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
-# ["Saurian Egg Adventures" — The web event for the new character: Kinich is now available.](archive/20731.md)
-## "Saurian Egg Adventures" — The web event for the new character: Kinich is now available.
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/11/902ccb3c0f46c33ea5c1650282e5c8f5_6624812033537413086.jpg)
-
-Huh, I didn't expect a guy like Kinich to stick his nose into something that is none of his business.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240912kinich-c8eubx/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240912kinich&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
-
-〓Event Duration〓
-
-<t class="t_gl" contenteditable="false">2024/09/12 12:00</t> - <t class="t_gl" contenteditable="false">2024/09/19 23:59</t>
-
-〓Eligibility〓
-
-Reach Adventure Rank 10 or above
-
-〓Event Summary〓
-
-During the event, help Kinich hatch the Saurian eggs. Successfully hatch a baby Saurian to receive in-game item rewards.
-
-〓Gameplay Details〓
-
-- During the event, help Kinich hatch the Saurian eggs. After hatching a baby Saurian for the first time, share the hatching results to receive in-game item rewards.
-
-- When hatching the eggs, completing three hatching operations will successfully hatch a baby creature. Different hatching operations can result in baby Saurians with different personalities.
-
-- Complete the specified missions within the event to unlock more hatching options. Selecting special hatching operations increases the chance of hatching unique baby Saurians.
-
-- You will receive in-game item rewards the first time you hatch a baby Saurian. After receiving the rewards, you can continue to hatch the remaining baby Saurians. Hatch a total of three baby Saurians to receive the event wallpaper.
-
-〓Event Notes〓
-
-- Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-- The event wallpaper is not available after the event ends. Please claim it in time.
-
------
-
 # ["Dodoco's Boom-Bastic Escapades" Event: Whimsical Fish Blasting Challenge](archive/20664.md)
 ## Dodoco's Boom-Bastic Escapades
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/85b99bef9130af272256b1bfb879ae85_3260438017759127356.jpg)
@@ -1157,6 +1119,44 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
 
 ● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
+# ["Saurian Egg Adventures" — The web event for the new character: Kinich is now available.](archive/20731.md)
+## "Saurian Egg Adventures" — The web event for the new character: Kinich is now available.
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/11/902ccb3c0f46c33ea5c1650282e5c8f5_6624812033537413086.jpg)
+
+Huh, I didn't expect a guy like Kinich to stick his nose into something that is none of his business.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240912kinich-c8eubx/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240912kinich&authkey_ver=1&utm_source=ingame&utm_medium=announcement)
+
+〓Event Duration〓
+
+<t class="t_gl" contenteditable="false">2024/09/12 12:00</t> - <t class="t_gl" contenteditable="false">2024/09/19 23:59</t>
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓Event Summary〓
+
+During the event, help Kinich hatch the Saurian eggs. Successfully hatch a baby Saurian to receive in-game item rewards.
+
+〓Gameplay Details〓
+
+- During the event, help Kinich hatch the Saurian eggs. After hatching a baby Saurian for the first time, share the hatching results to receive in-game item rewards.
+
+- When hatching the eggs, completing three hatching operations will successfully hatch a baby creature. Different hatching operations can result in baby Saurians with different personalities.
+
+- Complete the specified missions within the event to unlock more hatching options. Selecting special hatching operations increases the chance of hatching unique baby Saurians.
+
+- You will receive in-game item rewards the first time you hatch a baby Saurian. After receiving the rewards, you can continue to hatch the remaining baby Saurians. Hatch a total of three baby Saurians to receive the event wallpaper.
+
+〓Event Notes〓
+
+- Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+- The event wallpaper is not available after the event ends. Please claim it in time.
 
 -----
 
@@ -1258,6 +1258,26 @@ From August 28, log into HoYoLAB and select the Genshin Impact Official Strategy
 
 -----
 
+# ["A Quest to Kindle Ancient Flames" Event: Invite a 5-Star Character of Your Choice From the Standard Wish "Wanderlust Invocation"](archive/20715.md)
+## A Quest to Kindle Ancient Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/22/0638f3abf870b26f7a4da88d0aa5fd56_5133632292992649127.png)
+
+〓Event Duration〓
+
+After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
+
+〓Eligibility〓
+
+After unlocking the Wish feature
+
+〓Event Details〓
+
+● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
+
+※ You can only invite 1 character during this event.
+
+-----
+
 # [Game Survey](archive/20708.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -1279,26 +1299,6 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# ["A Quest to Kindle Ancient Flames" Event: Invite a 5-Star Character of Your Choice From the Standard Wish "Wanderlust Invocation"](archive/20715.md)
-## A Quest to Kindle Ancient Flames
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/22/0638f3abf870b26f7a4da88d0aa5fd56_5133632292992649127.png)
-
-〓Event Duration〓
-
-After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/08 14:59</t>
-
-〓Eligibility〓
-
-After unlocking the Wish feature
-
-〓Event Details〓
-
-● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
-
-※ You can only invite 1 character during this event.
 
 -----
 
