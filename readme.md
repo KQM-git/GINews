@@ -944,30 +944,6 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
-# [Events Survey Now Open](archive/20770.md)
-## Events Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
-
-Dear Traveler,
-
-In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
-
-〓Survey Duration〓
-
-2024/09/20 10:00:00 (global) - 2024/09/23 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jEF0sB-seXZlJUP2c9jil9m4TbnKBpu_4LSaDqXACpi&game_biz=hk4e_global&surveyId=26471&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # ["Of Thorns and Crowns" Event: Obtain Buffs and Defeat Enemies](archive/20667.md)
 ## Of Thorns and Crowns
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/1fdb8fef78c3dba7b02d579f007d8af6_7486890943067388685.jpg)
@@ -998,53 +974,27 @@ And unlock a specific Statue of The Seven
 
 -----
 
-# [Genshin Impact 4th Anniversary Video & Photo Submission Contest! Take Part for a Chance to Win Primogems ×10,000!](archive/20687.md)
-## Genshin Impact 4th Anniversary Video & Photo Submission Contest Has Begun
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/b249ba90d9f40bf28e12180fc8664706_4229799573113235721.png)
+# [Events Survey Now Open](archive/20770.md)
+## Events Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/10/98d460422efb5939d804ccc942bc0f88_3539791342887213276.jpg)
 
 Dear Traveler,
 
-The Genshin Impact 4th Anniversary Video & Photo Submission Contest has begun! Take part for a chance to win Primogems ×10,000!
+In order to better understand how you feel about the events and to bring you a better gaming experience, Paimon has prepared a survey with rewards for you! You are invited to click on the link below to complete it.
 
-[Take Part in the Event >>](https://www.hoyolab.com/article_pre/16058?utm_medium=notice&utm_source=ingame)
+〓Survey Duration〓
 
-Event Duration
+2024/09/20 10:00:00 (global) - 2024/09/23 23:59:59 (global)
 
-2024/09/19 – <t class="t_gl" contenteditable="false">2024/10/18 23:59</t>
+〓Survey Address〓
 
-Track 1
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jEF0sB-seXZlJUP2c9jil9m4TbnKBpu_4LSaDqXACpi&game_biz=hk4e_global&surveyId=26471&format=1&sign_type=2&authkey_ver=1)
 
-How to Participate
+Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Events Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it again~
 
-Create and publish original videos themed around "Teyvat: A Trip Down Memory Lane."
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
-Event Rewards
-
-Best Creations (5 Winners): Primogems ×10,000
-
-Best Creativity (10 Winners): Primogems ×5,000
-
-Popularity Prize (100 Winners): Primogems ×500
-
-Take part to obtain a guaranteed Raiden Shogun Comment Decoration (Permanent)
-
-[Don't wanna wait? Get a 30-day free trial of the Character Comment Decoration now >>>](https://act.hoyolab.com/ys/event/bbs-event-20240828mimo/index.html?is_need_floating=true&hyl_presentation_style=fullscreen&isNeedFloating=true&utm_campaign=NataDragon&utm_id=2&utm_medium=notification&utm_source=ingame)
-
-Track 2
-
-How to Participate
-
-Using the theme "Happy 4th Anniversary, Genshin Impact," set off fireworks in any Teyvat scene and record a video or take photos of the fireworks display.
-
-Event Rewards
-
-Video Participation Prize (100 Winners): Primogems ×500
-
-Photo Participation Prize (500 Winners): Primogems ×100
-
-Take part to obtain a guaranteed Kaedehara Kazuha Comment Decoration (Permanent)
-
-[Don't wanna wait? Get a 30-day free trial of the Character Comment Decoration now >>>](https://act.hoyolab.com/ys/event/bbs-event-20240828mimo/index.html?is_need_floating=true&hyl_presentation_style=fullscreen&isNeedFloating=true&utm_campaign=NataDragon&utm_id=2&utm_medium=notification&utm_source=ingame)
+We thank all Travelers for your invaluable feedback!
 
 -----
 
@@ -1129,6 +1079,56 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Genshin Impact 4th Anniversary Video & Photo Submission Contest! Take Part for a Chance to Win Primogems ×10,000!](archive/20687.md)
+## Genshin Impact 4th Anniversary Video & Photo Submission Contest Has Begun
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/b249ba90d9f40bf28e12180fc8664706_4229799573113235721.png)
+
+Dear Traveler,
+
+The Genshin Impact 4th Anniversary Video & Photo Submission Contest has begun! Take part for a chance to win Primogems ×10,000!
+
+[Take Part in the Event >>](https://www.hoyolab.com/article_pre/16058?utm_medium=notice&utm_source=ingame)
+
+Event Duration
+
+2024/09/19 – <t class="t_gl" contenteditable="false">2024/10/18 23:59</t>
+
+Track 1
+
+How to Participate
+
+Create and publish original videos themed around "Teyvat: A Trip Down Memory Lane."
+
+Event Rewards
+
+Best Creations (5 Winners): Primogems ×10,000
+
+Best Creativity (10 Winners): Primogems ×5,000
+
+Popularity Prize (100 Winners): Primogems ×500
+
+Take part to obtain a guaranteed Raiden Shogun Comment Decoration (Permanent)
+
+[Don't wanna wait? Get a 30-day free trial of the Character Comment Decoration now >>>](https://act.hoyolab.com/ys/event/bbs-event-20240828mimo/index.html?is_need_floating=true&hyl_presentation_style=fullscreen&isNeedFloating=true&utm_campaign=NataDragon&utm_id=2&utm_medium=notification&utm_source=ingame)
+
+Track 2
+
+How to Participate
+
+Using the theme "Happy 4th Anniversary, Genshin Impact," set off fireworks in any Teyvat scene and record a video or take photos of the fireworks display.
+
+Event Rewards
+
+Video Participation Prize (100 Winners): Primogems ×500
+
+Photo Participation Prize (500 Winners): Primogems ×100
+
+Take part to obtain a guaranteed Kaedehara Kazuha Comment Decoration (Permanent)
+
+[Don't wanna wait? Get a 30-day free trial of the Character Comment Decoration now >>>](https://act.hoyolab.com/ys/event/bbs-event-20240828mimo/index.html?is_need_floating=true&hyl_presentation_style=fullscreen&isNeedFloating=true&utm_campaign=NataDragon&utm_id=2&utm_medium=notification&utm_source=ingame)
 
 -----
 
@@ -1276,24 +1276,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# [The Version 5.0 Submission Contest has begun!](archive/20693.md)
-## Version 5.0 Submission Contest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/21/465a077141ce595b770414201b310678_3583169290652333141.jpg)
-
-Hello, Traveler~
-
-The Genshin Impact Version 5.0 "Flowers Resplendent on the Sun-Scorched Sojourn" Submission Contest has begun!
-
-From August 28, head to the official submission contest page to create fan works featuring tribal styles or Saurian elements, create videos about the storyline and open world exploration, or submit beautiful in-game photos based on Version 5.0 content for a chance to win up to 1,000 USD and Primogems ×5,000! For more details, please visit the official submission contest page:
-
-[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_PaUfsunMMa/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202408218921&utm_source=ingame&utm_medium=notice)
-
-From August 28, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000! For more details, please visit:
-
-[>> Click to View <<](https://www.hoyolab.com/contribution/394)
-
------
-
 # ["A Quest to Kindle Ancient Flames" Event: Invite a 5-Star Character of Your Choice From the Standard Wish "Wanderlust Invocation"](archive/20715.md)
 ## A Quest to Kindle Ancient Flames
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/22/0638f3abf870b26f7a4da88d0aa5fd56_5133632292992649127.png)
@@ -1314,27 +1296,21 @@ After unlocking the Wish feature
 
 -----
 
-# [Game Survey](archive/20708.md)
-## Complete the Survey and Get Primogems
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+# [The Version 5.0 Submission Contest has begun!](archive/20693.md)
+## Version 5.0 Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/21/465a077141ce595b770414201b310678_3583169290652333141.jpg)
 
-Dear Travelers,
+Hello, Traveler~
 
-A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+The Genshin Impact Version 5.0 "Flowers Resplendent on the Sun-Scorched Sojourn" Submission Contest has begun!
 
-〓Survey Period〓
+From August 28, head to the official submission contest page to create fan works featuring tribal styles or Saurian elements, create videos about the storyline and open world exploration, or submit beautiful in-game photos based on Version 5.0 content for a chance to win up to 1,000 USD and Primogems ×5,000! For more details, please visit the official submission contest page:
 
-Long-term
+[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_PaUfsunMMa/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202408218921&utm_source=ingame&utm_medium=notice)
 
-〓Survey Link〓
+From August 28, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000! For more details, please visit:
 
-[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
+[>> Click to View <<](https://www.hoyolab.com/contribution/394)
 
 -----
 
@@ -1487,6 +1463,30 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
+# [Game Survey](archive/20708.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
