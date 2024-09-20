@@ -878,6 +878,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
 
+〓<t class="t_gl" contenteditable="false">2024/09/20 20:20:00</t> Update Details〓
+
+- Adds compatibility for the iPhone 16 series.
+
+- Fixes an issue with the event "Of Thorns and Crowns" whereby the "Party Setup" button was incorrectly displayed and allowed related party setup operations in the stages that had not yet been unlocked when using a controller.
+
 〓<t class="t_gl" contenteditable="false">2024/09/12 16:20:00</t> Update Details〓
 
 Updates resources related to subsequent events.
