@@ -1152,70 +1152,6 @@ Take part to obtain a guaranteed Kaedehara Kazuha Comment Decoration (Permanent)
 
 -----
 
-# ["Dodoco's Boom-Bastic Escapades" Event: Whimsical Fish Blasting Challenge](archive/20664.md)
-## Dodoco's Boom-Bastic Escapades
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/85b99bef9130af272256b1bfb879ae85_3260438017759127356.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2024/09/09 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/c73bb8b7ca39280ee065a85ca70b2e9a_4744675667326525655.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
-
-● Command Dodoco to place bombs and detonate them to drive away all the Spikey Fish enemies, and earn resources and rewards!
-
-● If Dodoco's Vitality runs out during the challenge, opt for "Casual Mode" with unlimited Vitality to enjoy this tabletop game to your heart's content.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
-
-〓Special Rules〓
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2024/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_2595749569127770563.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20732.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1613,26 +1549,6 @@ Successfully share for the first time in the web event to obtain Mora ×20,000.
 *The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-**〓Event Duration〓**
-
-<t class="t_lc" contenteditable="false">2024/09/16 04:00</t> – <t class="t_lc" contenteditable="false">2024/09/23 03:59</t>
-
-**〓Eligibility〓**
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-**〓Event Details〓**
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
