@@ -950,6 +950,20 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
+# [HoYoFair2024 "Flame Fusion Music and Art Festival" Genshin Impact Fan Art Special Program](archive/20754.md)
+## Genshin Impact Fan Art Special Program Now Online
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/12/4415bcd63ca80ff471c78d4114e1ee44_1106920294643646502.jpg)
+
+Hello, Traveler! The HoYoFair2024 "Flame Fusion Music and Art Festival," a fan art special program jointly produced by our creators, is now online!
+
+[>> Click to watch the program <<](https://youtu.be/WTPSY7f3m1M)
+
+A big thank you to all the creators for being so passionate about Genshin Impact and sharing such amazing works! Please go show your support by heading over to any major content platforms to like their works and leave your comments~
+
+*Fan works are derivative creations, and do not represent the actual plot and settings in the game.
+
+-----
+
 # ["Of Thorns and Crowns" Event: Obtain Buffs and Defeat Enemies](archive/20667.md)
 ## Of Thorns and Crowns
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/1fdb8fef78c3dba7b02d579f007d8af6_7486890943067388685.jpg)
