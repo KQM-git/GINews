@@ -876,7 +876,15 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
+- There is an issue whereby Kinich may be able to perform an abnormal vertical jump when using his Elemental Skill to swing in mid-air under certain specific circumstances.
+
+In Version 5.1, the developers will fix the following issue:
+
+When Kinich uses his Elemental Skill to swing in mid-air and simultaneously executes a Normal Attack, it can result in an abnormal vertical jump.
+
+The developers will continue to monitor other actions that may cause this character to perform abnormal vertical jumps. If there are any subsequent plans for adjustments and corrections, we will notify Travelers via announcements.
+
+- There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
 
 〓<t class="t_gl" contenteditable="false">2024/09/20 20:20:00</t> Update Details〓
 
