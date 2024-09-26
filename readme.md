@@ -1,3 +1,31 @@
+# ["Mementos of Teyvat" Event: A Journey of Memories Captured in Photos](archive/20668.md)
+## Mementos of Teyvat
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/973d8cc2e7d9e6d2d16bde4142f1ffbc_7101423822836578215.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/28 10:00</t> – <t class="t_lc" contenteditable="false">2024/10/08 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/28d29d00b057c572bf40ce43905cadb1_7594969002724939976.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● Two photo-taking spots recommended by Paimon will unlock on each of the first six days after the event starts.
+
+● Visit the designated photo-taking spots and use "Paimon's Kamera" to capture various scenes according to specific requirements.
+
+● During the event, you can claim rewards on the event menu the first time you complete the photo-taking at each photo-taking spot.
+
+-----
+
 # ["Flowers Resplendent on the Sun-Scorched Sojourn" Version 5.0 Update Details](archive/20723.md)
 ## Version 5.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/e830be0201055afbb30397cf1d3c7c13_187823289723409043.jpg)
@@ -955,6 +983,49 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 - Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
 
 - Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
+
+-----
+
+# ["Gift for a New Horizon" A Thank-You Gift: Log In to Claim Primogems ×1,600, Sanctifying Elixir, And Other Rewards](archive/20669.md)
+## Gift for a New Horizon
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/14d8f7bc888002a82449846457cf4242_148325254930934600.jpg)
+
+Hey, Traveler! Do you remember what special day is coming up soon?
+
+We've been traveling together for so long already. The stories from our journey feel like they happened just yesterday — Paimon can remember every bit of it!
+
+Recently, we've embarked on a new journey in Natlan, and Paimon can't help but think back to the very first day we began our adventure...
+
+You remember that day too, right? Happy Journey Anniversary!
+
+Paimon also heard that we'll receive some mysterious little gift. Let's open it together when it arrives!
+
+〓Event Details〓
+
+During the event, log in to the game to receive Primogems, Fragile Resin, gadgets, and other rewards!
+
+There is also a new Precious Item reward: Sanctifying Elixir! Sanctifying Elixir can be used to exchange for Artifacts with specific affixes.
+
+Each mail can be collected until the end of the event.
+
+The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/09/28 00:00</t> until the end of Version 5.0
+
+〓Eligibility〓
+
+Adventure Rank 2 or above
+
+〓Event Details〓
+
+Login Date | Reward 1 | Reward 2
+--- | --- | ---
+September 28 | Primogems ×400 | Firstborn Firesprite ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Sanctifying Elixir ×1
+October 1 | Primogems ×400 | Kaboom Box ×1
 
 -----
 
