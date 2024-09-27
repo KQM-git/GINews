@@ -914,6 +914,10 @@ The developers will continue to monitor other actions that may cause this charac
 
 - There is an issue under specific circumstances whereby the duration of Mualani and Kachina's special movement mode under the Nightsoul's Blessing state would be abnormal. This issue will be fixed in a subsequent update.
 
+〓<t class="t_gl" contenteditable="false">2024/09/27 11:10:00</t> Update Details〓
+
+Fixes an issue resulting in the red dot not displaying normally in the "Battle Pass" system when the mission reward for "Enhance 5-star artifacts" had not been collected in "Battle Pass > This BP Period" after reaching BP Level 50.
+
 〓<t class="t_gl" contenteditable="false">2024/09/20 20:20:00</t> Update Details〓
 
 - Adds compatibility for the iPhone 16 series.
