@@ -990,6 +990,18 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
+# [A First Look at Version 5.1 "The Rainbow Destined to Burn"!](archive/20736.md)
+## Genshin Impact Version 5.1 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/26/439bdb993d9a9663a209e1c552149e44_4602508620143380265.jpg)
+
+Dear Traveler,
+
+Here's a first look at Version 5.1 "The Rainbow Destined to Burn"!
+
+[Click to check out the latest info on Version 5.1 "The Rainbow Destined to Burn"](https://act.hoyoverse.com/puzzle/hk4e/pz_uqJ_R_Dbh9/index.html?utm_source=ingame&utm_medium=notice)
+
+-----
+
 # [The 4th Anniversary "Teyvat's Special Delivery" web event has begun. Take part to obtain Primogem rewards!](archive/20756.md)
 ## 4th Anniversary "Teyvat's Special Delivery" Web Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/18/5fa01048f6b75273a9f5342a9c7cde65_4032969196994894478.jpg)
