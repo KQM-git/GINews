@@ -990,6 +990,42 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
+# [The 4th Anniversary "Teyvat's Special Delivery" web event has begun. Take part to obtain Primogem rewards!](archive/20756.md)
+## 4th Anniversary "Teyvat's Special Delivery" Web Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/18/5fa01048f6b75273a9f5342a9c7cde65_4032969196994894478.jpg)
+
+Dear Traveler,
+
+Ding~ You have an anniversary package awaiting collection! Come and help Kirara deliver packages to share heartfelt wishes to everyone!
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/20240927gift-delivery-xmyq9b/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240927giftdelivery&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2024/09/27 - <t class="t_gl" contenteditable="false">2024/10/07 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description〓
+
+You can obtain packages by completing missions and choose the corresponding recipient to deliver the packages to different areas. When delivering the packages, you will also receive some gift from the recipient.
+
+Complete all the package deliveries to unlock your anniversary gift, which includes a reward of Primogems ×40 and an exclusive 4th anniversary recipe!
+
+〓Notes〓
+
+The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+More details about the rules of the event can be found on the event rules on the event page.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # ["Gift for a New Horizon" A Thank-You Gift: Log In to Claim Primogems ×1,600, Sanctifying Elixir, And Other Rewards](archive/20669.md)
 ## Gift for a New Horizon
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/14d8f7bc888002a82449846457cf4242_148325254930934600.jpg)
