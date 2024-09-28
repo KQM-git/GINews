@@ -26,6 +26,22 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [Take Part in "Gifts of Encounter" to Obtain Primogems!](archive/20793.md)
+## Take Part in "Gifts of Encounter" to Obtain Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/26/4761919c5f1c7f1d3f48e283f2b73b4c_5951900979852456278.png)
+
+Dear Traveler,
+
+The HoYoLAB "Gifts of Encounter" community event is now online!
+
+From September 28 to October 7, if you check in for 7 days in total, you can obtain an extra Primogems ×60!
+
+Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the check-in event!
+
+[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # ["Flowers Resplendent on the Sun-Scorched Sojourn" Version 5.0 Update Details](archive/20723.md)
 ## Version 5.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/e830be0201055afbb30397cf1d3c7c13_187823289723409043.jpg)
@@ -987,6 +1003,38 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 - Fixes an issue whereby Travelers could not properly control the character after entering Mualani and Kachina's "Test Run" stages if they have yet to complete Archon Quest Prologue: Act I "The Outlander Who Caught the Wind."
 
 - Fixes an issue whereby scenery anomalies would occur on Android devices using the MT6855 platform (i.e. Mediatek Dimensity 930 and Mediatek Dimensity 7020 SoCs), where the ground would disappear or flicker after the Version 5.0 update.
+
+-----
+
+# [Genshin Impact 4th Anniversary Forum Commenting Event! Take Part to Win a Blessing of the Welkin Moon!](archive/20688.md)
+## Genshin Impact's 4th Anniversary Forum Commenting Event Featuring Blessing of the Welkin Moon Begins!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/20/b82d0c72886b2a6ff1b7acaccfd24061_887573548386025571.png)
+
+Dear Traveler,
+
+The Genshin Impact 4th Anniversary Forum Commenting Event has begun! Leave a comment to obtain Mora ×100,000 and get a chance to win a Blessing of the Welkin Moon!
+
+This time, there'll be no limit on the number of rewards that will be given out! The more of you that participate, the more rewards there'll be!
+
+[Take Part in the Event >>](https://www.hoyolab.com/article_pre/16057?utm_medium=notice&utm_source=ingame)
+
+Event Duration
+
+September 28, 2024 – October 11, 2024 (UTC+8)
+
+How to Participate
+
+Share one or more photos of Teyvat locations that left the deepest impression on you.
+
+Event Rewards
+
+1. Travelers who successfully participate in the event will receive Mora ×100,000.
+
+2. 6,000 Travelers will be randomly chosen to receive Primogems ×100 each.
+
+3. All Travelers who commented will receive a Genshin Impact 4th Anniversary Avatar Frame.
+
+In addition, for every 10 valid comments, we will randomly select one Traveler from all successfully participating Travelers to have their Mora rewards upgraded to Blessing of the Welkin Moon ×1 (there is no limit on the number of additional winners).
 
 -----
 
