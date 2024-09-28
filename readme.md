@@ -1006,6 +1006,74 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
+# [Web Event "Starlight Reverie" Now Online: Take part to obtain Primogems and other rewards!](archive/20759.md)
+## "Starlight Reverie" Web Event Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/25/4fe19ec2931d0831c64c1f3062129f3c_5148404811470734224.jpg)
+
+Reminisce about the starlit journey together, and enjoy the beautiful sights of Teyvat~!
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20240928review-k6pzqq/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240928anniversary&authkey_ver=1&utm_source=ingame&utm_medium=notice&utm_id=2)
+
+〓Event Duration〓
+
+<t class="t_gl" contenteditable="false">2024/09/28 11:00</t>–<t class="t_gl" contenteditable="false">2024/10/12 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+*The data for the "Starlight Reverie" event will be collected up to <t class="t_gl" contenteditable="false">2024/09/25 00:00</t> (UTC+8) (there may be a margin of error of about 30 minutes) and is valid only for Travelers who have reached Adventure Rank 10 or above before the cut-off time.
+
+〓Event Description〓
+
+During the event, click to enter the data books of different regions and view your travel memories. Finish viewing them to obtain Primogems and other in-game rewards.
+
+You can also share the event and take part in the "Journey in the Akasha" to obtain in-game rewards.
+
+〓Event Rewards〓
+
+=Rewards for Viewing All Regional Data Books=
+
+Travelers can claim corresponding rewards by viewing different data sections in full. You can obtain a total of Primogems ×120.
+
+=Participating in the Journey in the Akasha=
+
+You'll be able to claim the corresponding rewards after you complete interactions in different Journey in the Akasha scenes.
+
+You can obtain a total of Primogems ×60, Hero's Wit ×3, Sanctifying Unction ×5, as well as various materials from Teyvat.
+
+=Sharing Rewards=
+
+Share a Data Review once in this web event to claim the corresponding rewards. You can obtain a total of Mora ×20,000.
+
+*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# [Genshin Impact 4th Anniversary Theme Song EP "Passing Memories" Now Available](archive/20768.md)
+## 4th Anniversary Theme Song EP "Passing Memories" Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/27/e518fc5935821724f5c32384e17c0fc3_8960913772030051078.jpg)
+
+Dear Traveler,
+
+The Genshin Impact 4th Anniversary theme song EP "Passing Memories" is now officially released. The album, produced by the HOYO-MiX music team, features Jason Zhang, Faouzia, and Nakashima Mika performing the track in Chinese, English, and Japanese, respectively.
+
+Travelers can go to the following platforms to listen to "Passing Memories."
+
+Spotify:
+
+[Click here to listen to "Passing Memories"](https://open.spotify.com/album/19NN3LBBxLNx21zxs1WBv2)
+
+Apple Music:
+
+[Click here to listen to "Passing Memories"](https://music.apple.com/us/album/1770448044)
+
+-----
+
 # [Genshin Impact 4th Anniversary Forum Commenting Event! Take Part to Win a Blessing of the Welkin Moon!](archive/20688.md)
 ## Genshin Impact's 4th Anniversary Forum Commenting Event Featuring Blessing of the Welkin Moon Begins!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/20/b82d0c72886b2a6ff1b7acaccfd24061_887573548386025571.png)
