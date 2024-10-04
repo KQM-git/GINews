@@ -1006,6 +1006,44 @@ We will send the corresponding chest rewards to Travelers who completed the doma
 
 -----
 
+# ["Urgent Orders" — The web event for the new character: Xilonen is now available.](archive/20780.md)
+## "Urgent Orders" — New Character: Xilonen
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/27/e2ad9cb683351721c870afdfdafd6179_8003188240416073228.jpg)
+
+Whether it's a precious "Ancient Name" or ordinary forged tools, they all embody the blacksmith's dedication and efforts.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20241004xilonen-aevsua/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20241004rolewarm&authkey_ver=1)
+
+〓Event Duration〓
+
+<t class="t_gl" contenteditable="false">2024/10/04 12:00</t> – <t class="t_gl" contenteditable="false">2024/10/11 23:59</t>
+
+〓Eligibility〓
+
+Reach Adventure Rank 10 or above
+
+〓Event Summary〓
+
+During the event, interact with objects in the environment to gather Inspiration. Help Xilonen complete all forging commissions on time and deliver the forged items to obtain in-game item rewards.
+
+〓Gameplay Details〓
+
+- During the event, interact with objects in the environment to gather Inspiration. Help Xilonen complete all forging commissions on time and let the Alpaca deliver the forged items to obtain in-game item rewards.
+
+- Complete all forging commissions to claim the event wallpaper.
+
+〓Event Notes〓
+
+- Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+- The event wallpaper is not available after the event ends. Please claim it in time.
+
+- After completing all forging commissions, the in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+- Please note that the web event cannot be accessed during Version Update Maintenance. After Version Update Maintenance is completed, you will be able to access the web event as normal.
+
+-----
+
 # [Version Satisfaction Survey Now Open](archive/20792.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
