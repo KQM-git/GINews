@@ -26,22 +26,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# [Take Part in "Gifts of Encounter" to Obtain Primogems!](archive/20793.md)
-## Take Part in "Gifts of Encounter" to Obtain Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/26/4761919c5f1c7f1d3f48e283f2b73b4c_5951900979852456278.png)
-
-Dear Traveler,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-From September 28 to October 7, if you check in for 7 days in total, you can obtain an extra Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the check-in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
 # ["Flowers Resplendent on the Sun-Scorched Sojourn" Version 5.0 Update Details](archive/20723.md)
 ## Version 5.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/e830be0201055afbb30397cf1d3c7c13_187823289723409043.jpg)
@@ -1153,6 +1137,22 @@ Spotify:
 Apple Music:
 
 [Click here to listen to "Passing Memories"](https://music.apple.com/us/album/1770448044)
+
+-----
+
+# [Take Part in "Gifts of Encounter" to Obtain Primogems!](archive/20793.md)
+## Take Part in "Gifts of Encounter" to Obtain Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/26/4761919c5f1c7f1d3f48e283f2b73b4c_5951900979852456278.png)
+
+Dear Traveler,
+
+The HoYoLAB "Gifts of Encounter" community event is now online!
+
+From September 28 to October 7, if you check in for 7 days in total, you can obtain an extra Primogems ×60!
+
+Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the check-in event!
+
+[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
