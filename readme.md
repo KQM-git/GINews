@@ -1581,38 +1581,6 @@ The three acts must be experienced in sequence. You can only unlock the next act
 
 -----
 
-# ["Primal Fire" Event Details](archive/20660.md)
-## Primal Fire
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/c73366d20c2b025d9e848b4868f0310b_2866445975027346119.jpg)
-
-Travelers can earn rich rewards in "Primal Fire" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Primal Fire" and Furnishing Blueprint "Even-Handed Judgment."
-
-〓Event Duration〓
-
-After the Version 5.0 update – <t class="t_lc" contenteditable="false">2024/10/07 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● Starting from this Battle Pass, you can choose 3 out of 4 types of rewards — Mora, Character EXP Materials, Enhancement Ores, and Artifact Enhancement Materials — to form you BP reward plan. You can change the reward plan at any time during the Battle Pass period. BP Rewards are divided into groups of 10 levels. If you have not claimed any rewards from a given group, you can change your reward selection in that group by changing your reward plan. If you have already claimed a reward in a group, you cannot change the rewards in the group it belongs to.
-
-● Starting from this Battle Pass, the Talent Level-Up Material bundles "Guide to the Original Current" and "Guidance of the Land of Verdure" will be replaced with "Guides of a Journey," and "Philosophies of the Original Current" and "Philosophies of the Land of Verdure" will be replaced with "Philosophies of a Journey." You can select any one Character Talent Material from all the options available in the current Version.
-
-● Starting from this Battle Pass, reach Gnostic Hymn Level 26 to obtain Sanctifying Elixir from the BP Bounty.
-
-● Starting from this Battle Pass, certain Battle Pass Missions have been adjusted. In Battle Pass > Daily Missions, the Battle Pass EXP for completing "Claim Daily Commission Rewards 4 times" will be increased from 150 to 200. The weekly Reputation Quests "Complete 3 Requests" and "Complete 3 Bounties" have been removed from Battle Pass > Weekly Missions. In Battle Pass > This BP Period, complete the new mission "Complete the Act 8 Performance Challenge in Imaginarium Theater and finalize" to obtain Battle Pass EXP, and complete the new missions "Enhance 5-star artifacts a total of 30 levels," "Enhance 5-star artifacts a total of 60 levels," and "Enhance 5-star artifacts a total of 100 levels" to obtain Primogems, Sanctifying Unction, and Battle Pass EXP.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2024/10/07 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
