@@ -1,3 +1,27 @@
+# [Version 5.1 Update Maintenance Preview](archive/20799.md)
+## Version 5.1 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/26/c941908b14dcaf160083796a10645f89_3127323237410943411.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2024/10/09 06:00:00</t>. Please stay tuned to related game update information.
+
+<details open="true">
+<summary>Version 5.1 Update Maintenance Preview</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/27/17b793a978ff51a942b7d92954231854_390283599006631462.jpg)
+
+</details>
+
+<details open="true">
+<summary>Pre-Installation Function Now Available</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/27/8d4e97a2f230341cdfe3ac0fd507d00e_6669618691519041992.jpg)
+
+</details>
+
+-----
+
 # ["Mementos of Teyvat" Event: A Journey of Memories Captured in Photos](archive/20668.md)
 ## Mementos of Teyvat
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/973d8cc2e7d9e6d2d16bde4142f1ffbc_7101423822836578215.jpg)
