@@ -22,6 +22,248 @@ Our developers are expected to begin performing update maintenance at <t class="
 
 -----
 
+# [New Story Unlocked - Archon Quest Chapter V: Act III and Act IV](archive/20752.md)
+## New Story Unlocked - Archon Quest Chapter V: Act III and Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/22/3bd9bbe015a966cb44e53cde12923c1b_1577379899708989009.png)
+
+The darkness of the Abyss draws near. People gaze into the rising smoke, as if gazing upon new possibilities.
+
+This world needs heroes. It needs a miraculous light to shatter the silence of death.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quests Chapter V: Act III "Beyond the Smoke and Mirrors" and Chapter V: Act IV "The Rainbow Destined to Burn" will appear in the Quest Menu.
+
+(After these quests are unlocked, access the Quest Menu by: pressing "J" on PC (default settings); tapping the Quest Menu icon in the top-left corner on mobile; or pressing and holding L1 on PS5™ or PS4™ to open the shortcut wheel and select the Quest Menu icon.)
+
+〓Quest Start Time〓
+
+After the Version 5.1 update, Archon Quests Chapter V: Act III "Beyond the Smoke and Mirrors" and Chapter V: Act IV "The Rainbow Destined to Burn" will be permanently available.
+
+〓Archon Quest Chapter V: Act III "Beyond the Smoke and Mirrors" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Act II "Black Stone Under a White Stone"
+
+〓Archon Quest Chapter V: Act IV "The Rainbow Destined to Burn" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Act III "Beyond the Smoke and Mirrors"
+
+You can use the "Quick Start" function to accept and progress through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" while maintaining your current progress in the existing Archon Quests. After using the "Quick Start" function to complete Archon Quest Chapter V: Act I, you can continue to accept and complete the subsequent Acts of Chapter V until you unlock the latest Archon Quest introduced in the current version update.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Event Wish "Forgefire's Blessing" - Boosted Drop Rate for "Ardent Flames Forge the Soul" Xilonen (Geo)!](archive/20737.md)
+## Event Wish - Forgefire's Blessing
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/29/7cafdf64aa18d40fab21ec68d02d5040_9037943992021708449.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.1 update  — <t class="t_lc" contenteditable="false">2024/10/29 17:59</t> | "Ardent Flames Forge the Soul" Xilonen (Geo) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Golden Vow" Candace (Hydro)
+^ | ^ | "Sprout of Rebirth" Collei (Dendro)
+
+● During this event wish, the event-exclusive 5-star character "Ardent Flames Forge the Soul" Xilonen (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Golden Vow" Candace (Hydro), and "Sprout of Rebirth" Collei (Dendro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Of Silken Clouds Woven" - Boosted Drop Rate for "The Thundering Seamstress" Chiori (Geo)!](archive/20738.md)
+## Event Wish - Of Silken Clouds Woven
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/e6c415833ea982039f80d4c899375be5_9073588001159703182.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.1 update  — <t class="t_lc" contenteditable="false">2024/10/29 17:59</t> | "The Thundering Seamstress" Chiori (Geo) | "Treasure of Dream Garden" Dori (Electro)
+^ | ^ | "Golden Vow" Candace (Hydro)
+^ | ^ | "Sprout of Rebirth" Collei (Dendro)
+
+● During this event wish, the event-exclusive 5-star character "The Thundering Seamstress" Chiori (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Treasure of Dream Garden" Dori (Electro), "Golden Vow" Candace (Hydro), and "Sprout of Rebirth" Collei (Dendro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Peak Patrol Song (Sword) and Uraku Misugiri (Sword)!](archive/20739.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/36487686d7e8694348a1548a894b3d6f_6152057339370209575.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 5.1 update  — <t class="t_lc" contenteditable="false">2024/10/29 17:59</t> | Peak Patrol Song (Sword)  Uraku Misugiri (Sword) | Sturdy Bone (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Mountain-Bracing Bolt (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Peak Patrol Song (Sword) and Uraku Misugiri (Sword) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Sturdy Bone (Sword) and Mountain-Bracing Bolt (Polearm) as well as the 4-star weapons Sacrificial Greatsword (Claymore), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Peak Patrol Song (Sword) or Uraku Misugiri (Sword). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["The Rainbow Destined to Burn" Event: Complete the Archon Quest Within the Specified Duration to Obtain an Additional Reward of Primogems ×500](archive/20741.md)
+## The Rainbow Destined to Burn
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/92c056d805e3b2991ea6bc2b1642ea2d_5044349615837446057.png)
+
+After the Version 5.1 update, Archon Quests Chapter V: Act III and Act IV will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
+
+Complete the corresponding Archon Quest within the specified duration to obtain an additional reward of Primogems ×500.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 5.1 update – <t class="t_lc" contenteditable="false">2024/11/19 14:59</t>
+
+‍
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 28 or above
+
+Complete Archon Quest Chapter V: Act II "Black Stone Under a White Stone"
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and continue progressing up to the latest Archon Quest introduced in the current version update.
+
+-----
+
+# ["A Prayer for Blessings, Told to Crested Peaks" Event: Complete the Tribal Chronicles Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/20740.md)
+## A Prayer for Blessings, Told to Crested Peaks
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/f12e22ed7c77e6d681541447a8539cb0_2831929998416861621.png)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock Act III of "Tribal Chronicles: Children of Echoes."
+
+Complete the Tribal Chronicles within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Natlan regional specialties, and other rewards.
+
+〓Quest Start Time〓
+
+Act III: After the Version 5.1 update
+
+〓Specified Duration〓
+
+After the Version 5.1 update – <t class="t_lc" contenteditable="false">2024/10/29 17:59</t>
+
+〓Quest Unlock Criteria〓
+
+Act III:
+
+Adventure Rank 28 or above
+
+Complete Archon Quest Chapter V: Act IV "The Rainbow Destined to Burn"
+
+And complete Act II "Hoarse Echoes" of "Tribal Chronicles: Children of Echoes"
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and continue progressing up to the latest Archon Quest introduced in the current version update.
+
+-----
+
+# [“Land of Vibrant Stone and Flaming Springs" Event: Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/20742.md)
+## Land of Vibrant Stone and Flaming Springs
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/3818115868926db41b2172ca0b619893_2403323801997145786.png)
+
+Areas in Natlan including Tequemecan Valley, Basin of Unnumbered Flames, Coatepec Mountain, and Toyac Springs are now available!
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+〓Specified Duration〓
+
+After the Version 5.1 update – <t class="t_lc" contenteditable="false">2024/12/31 14:59</t>
+
+-----
+
+# ["Sabzeruz" Event Details](archive/20744.md)
+## Sabzeruz
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/38c1da5ab72cc952d097c97cb6b7fc67_2002617996852322894.png)
+
+Travelers can earn rich rewards in "Sabzeruz" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Sabzeruz" and Furnishing Blueprint "Model Dish: Not to Be Missed."
+
+〓Event Duration〓
+
+After the Version 5.1 update – <t class="t_lc" contenteditable="false">2024/11/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2024/11/18 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 35 Available for a Limited Time](archive/20743.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/e0bfb830220f5a33a21619187f0ff973_5984588957499220738.png)
+
+Round 35 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.1 update – <t class="t_lc" contenteditable="false">2024/10/23 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.1 update – <t class="t_lc" contenteditable="false">2024/10/23 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
 # ["Mementos of Teyvat" Event: A Journey of Memories Captured in Photos](archive/20668.md)
 ## Mementos of Teyvat
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/02/973d8cc2e7d9e6d2d16bde4142f1ffbc_7101423822836578215.jpg)
@@ -1221,6 +1463,38 @@ Dear Traveler,
 Here's a first look at Version 5.1 "The Rainbow Destined to Burn"!
 
 [Click to check out the latest info on Version 5.1 "The Rainbow Destined to Burn"](https://act.hoyoverse.com/puzzle/hk4e/pz_uqJ_R_Dbh9/index.html?utm_source=ingame&utm_medium=notice)
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 5.1
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
