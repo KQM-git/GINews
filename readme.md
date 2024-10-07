@@ -1314,30 +1314,6 @@ During the event, interact with objects in the environment to gather Inspiration
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/20792.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2024/10/04 10:00:00 (global) - 2024/10/07 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jE3Ftx-seXZlJUP2c9jil3mhvvvy48Ttutvpo-qrQ6C&game_biz=hk4e_global&surveyId=26786&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [Web Event "Starlight Reverie" Now Online: Take part to obtain Primogems and other rewards!](archive/20759.md)
 ## "Starlight Reverie" Web Event Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/25/4fe19ec2931d0831c64c1f3062129f3c_5148404811470734224.jpg)
@@ -1403,22 +1379,6 @@ Spotify:
 Apple Music:
 
 [Click here to listen to "Passing Memories"](https://music.apple.com/us/album/1770448044)
-
------
-
-# [Take Part in "Gifts of Encounter" to Obtain Primogems!](archive/20793.md)
-## Take Part in "Gifts of Encounter" to Obtain Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/26/4761919c5f1c7f1d3f48e283f2b73b4c_5951900979852456278.png)
-
-Dear Traveler,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-From September 28 to October 7, if you check in for 7 days in total, you can obtain an extra Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the check-in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
@@ -1495,42 +1455,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [The 4th Anniversary "Teyvat's Special Delivery" web event has begun. Take part to obtain Primogem rewards!](archive/20756.md)
-## 4th Anniversary "Teyvat's Special Delivery" Web Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/18/5fa01048f6b75273a9f5342a9c7cde65_4032969196994894478.jpg)
-
-Dear Traveler,
-
-Ding~ You have an anniversary package awaiting collection! Come and help Kirara deliver packages to share heartfelt wishes to everyone!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/20240927gift-delivery-xmyq9b/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20240927giftdelivery&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2024/09/27 - <t class="t_gl" contenteditable="false">2024/10/07 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-You can obtain packages by completing missions and choose the corresponding recipient to deliver the packages to different areas. When delivering the packages, you will also receive some gift from the recipient.
-
-Complete all the package deliveries to unlock your anniversary gift, which includes a reward of Primogems ×40 and an exclusive 4th anniversary recipe!
-
-〓Notes〓
-
-The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-More details about the rules of the event can be found on the event rules on the event page.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
