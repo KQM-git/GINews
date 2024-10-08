@@ -56,6 +56,34 @@ You can use the "Quick Start" function to accept and progress through Archon Que
 
 -----
 
+# ["Aphid Treasure Trace" Event: Capture Phlogiston Aphids](archive/20746.md)
+## Aphid Treasure Trace
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/f72897fc630cefb3c97d0657b0e4f1c5_6462819061766601724.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2024/10/10 10:00</t> – <t class="t_lc" contenteditable="false">2024/10/21 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/a7db2c5dbee8aa13f71c6e8fee830858_1791767455590333140.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter V: Act IV "The Rainbow Destined to Burn" first to get the best experience from this event.
+
+〓Event Details〓
+
+● A new challenge will become available each day for the first 5 days of the event.
+
+● During the challenges, you must find, pursue, and attack Phlogiston Aphids that have been corroded by the Abyss, using insect nets to break their Wards and deplete the Abyssal energy within the time limit and catch them. Complete the challenge objectives to obtain Primogems, Weapon Ascension Materials, Sanctifying Unction, Mystic Enhancement Ore, Mora, and other rewards.
+
+-----
+
 # [Event Wish "Forgefire's Blessing" - Boosted Drop Rate for "Ardent Flames Forge the Soul" Xilonen (Geo)!](archive/20737.md)
 ## Event Wish - Forgefire's Blessing
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/29/7cafdf64aa18d40fab21ec68d02d5040_9037943992021708449.png)
@@ -1604,6 +1632,26 @@ Photo Participation Prize (500 Winners): Primogems ×100
 Take part to obtain a guaranteed Kaedehara Kazuha Comment Decoration (Permanent)
 
 [Don't wanna wait? Get a 30-day free trial of the Character Comment Decoration now >>>](https://act.hoyolab.com/ys/event/bbs-event-20240828mimo/index.html?is_need_floating=true&hyl_presentation_style=fullscreen&isNeedFloating=true&utm_campaign=NataDragon&utm_id=2&utm_medium=notification&utm_source=ingame)
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20734.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
