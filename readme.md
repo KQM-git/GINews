@@ -1260,20 +1260,6 @@ You can use the "Quick Start" function to accept and progress through Archon Que
 
 -----
 
-# [HoYoFair2025 New Year "Dimensional Detective Chronicles" Genshin Impact Fan Art Special Program](archive/20930.md)
-## Genshin Impact Fan Art Special Program Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/aab4bddd006994e324f92a834c4749fd_1921501143575178178.png)
-
-Hello, Traveler! The HoYoFair2025 New Year "Dimensional Detective Chronicles," a fan art special program jointly produced by our creators, is now online!
-
-[>> Click to watch the program <<](https://youtu.be/sc6-BNp8ADk)
-
-A big thank you to all the creators for being so passionate about Genshin Impact and sharing such amazing works! Please go show your support by heading over to any major content platforms to like their works and leave your comments~
-
-*Fan works are derivative creations, and do not represent the actual plot and settings in the game.
-
------
-
 # [Web Event "Stand With Mavuika" Now Online: Take Part to Obtain Primogems and Other Rewards!](archive/20917.md)
 ## Web Event "Stand With Mavuika" Now Online: Take Part to Obtain Primogems and Other Rewards!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/7c4c075eb6cc4d92ad63899813f09303_5180382301773296720.jpg)
