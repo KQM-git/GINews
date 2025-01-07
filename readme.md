@@ -1290,48 +1290,6 @@ You can use the "Quick Start" function to accept and progress through Archon Que
 
 -----
 
-# [Web Event "Stand With Mavuika" Now Online: Take Part to Obtain Primogems and Other Rewards!](archive/20917.md)
-## Web Event "Stand With Mavuika" Now Online: Take Part to Obtain Primogems and Other Rewards!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/7c4c075eb6cc4d92ad63899813f09303_5180382301773296720.jpg)
-
-The limited-time web event "Stand With Mavuika" has begun.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20241220preheat-thygrj/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20241220preheat&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2024/12/20 – <t class="t_lc" contenteditable="false">2025/01/08 03:59</t>
-
-*The event duration is based on the server time. Please remember to participate in the event in time.
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-- During the event, complete "Page Browsing," "Companion Missions," and "Invite Friends" missions to obtain Primogems and other in-game rewards.
-
-- During the event, you only need to complete the "Page Browsing" mission once to obtain the corresponding rewards. Complete the "Invite Friends" missions to obtain the corresponding in-game rewards.
-
-- "Companion Missions" will be unlocked in three phases and Phase 1 will be available from the start of the event. Phases 2 and 3 will unlock on <t class="t_lc" contenteditable="false">2024/12/25 04:00</t> and <t class="t_lc" contenteditable="false">2025/01/01 04:00</t> respectively. Once the event begins, you can complete all unlocked missions to receive rewards. You will need to complete the missions in the order corresponding to the phases (if the missions of the previous phase have not been completed, it will not be possible to start on the missions of the current phase).
-
-〓Event Rewards〓
-
-- During the event, complete the "Page Browsing" mission to obtain Hero's Wit ×3 and Sanctifying Unction ×3. Complete all the "Companion Missions" to obtain up to Primogems ×180.
-
-- Successfully invite a returning player during the event and have them log into the game once to receive Primogems ×60.
-
-- Share from anywhere within this web event to claim the corresponding rewards. You can obtain a total of Mora ×20,000.
-
-*The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
