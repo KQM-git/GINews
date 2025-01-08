@@ -1212,6 +1212,34 @@ Adventure Rank 20 or above
 
 -----
 
+# [New Story Unlocked - Archon Quest Chapter V: Act V](archive/20908.md)
+## New Story Unlocked - Archon Quest Chapter V: Act V
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/13/7e25f3294e1897edb7762329e7b289f0_6183065095270564423.jpg)
+
+The path of war approaches its end, all eyes fixed upon the hero's back.
+
+The crushing burden of "fate" and "rules" weighs heavy upon this place, making each step forward a staggering effort.
+
+Yet the sun has proclaimed its intention — to burn away both shackles and the self, and in their place, usher in a new chapter for humankind...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+After the Version 5.3 update, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will be permanently available.
+
+〓Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Interlude "All Fires Fuel the Flame"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+You can use the "Quick Start" function to accept and progress through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" while maintaining your current progress in the existing Archon Quests. After using the "Quick Start" function to complete Archon Quest Chapter V: Act I, you can continue to accept and complete the subsequent Acts of Chapter V until you unlock the latest Archon Quest introduced in the current version update.
+
+-----
+
 # ["Adventurer's Booster Bundles" - Round 37 Available for a Limited Time](archive/20906.md)
 ## Adventurer's Booster Bundles
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/d47cee12c525652c3e6e5c47335f41d2_8652968493052286515.png)
@@ -1239,34 +1267,6 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# [New Story Unlocked - Archon Quest Chapter V: Act V](archive/20908.md)
-## New Story Unlocked - Archon Quest Chapter V: Act V
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/13/7e25f3294e1897edb7762329e7b289f0_6183065095270564423.jpg)
-
-The path of war approaches its end, all eyes fixed upon the hero's back.
-
-The crushing burden of "fate" and "rules" weighs heavy upon this place, making each step forward a staggering effort.
-
-Yet the sun has proclaimed its intention — to burn away both shackles and the self, and in their place, usher in a new chapter for humankind...
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will appear in the Quest Menu.
-
-〓Quest Start Time〓
-
-After the Version 5.3 update, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will be permanently available.
-
-〓Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" Unlock Criteria〓
-
-• Reach Adventure Rank 28 or above
-
-• Complete Archon Quest Chapter V: Interlude "All Fires Fuel the Flame"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-You can use the "Quick Start" function to accept and progress through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" while maintaining your current progress in the existing Archon Quests. After using the "Quick Start" function to complete Archon Quest Chapter V: Act I, you can continue to accept and complete the subsequent Acts of Chapter V until you unlock the latest Archon Quest introduced in the current version update.
 
 -----
 
