@@ -680,26 +680,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# [Genshin Impact Mavuika's Character Trailer EP "Blazing Heart" Now Available](archive/20942.md)
-## Mavuika's Character Trailer EP Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/20/0ce05537b4fd1b6eec12e8654c6eed12_7699293439296653512.jpg)
-
-Dear Traveler,
-
-Genshin Impact Mavuika's Character Trailer EP "Blazing Heart" is now officially released. The album, produced by the HOYO-MiX music team, features Tia Ray, Chrissy Costanza, Mikako Komatsu, and MIYEON((G)I-DLE) performing the track in Chinese, English, Japanese, and Korean respectively.
-
-Travelers can go to the following platforms to listen to "Blazing Heart."
-
-Spotify:
-
-[Click here to listen to "Blazing Heart"](https://open.spotify.com/album/6DnItmT5fmEApgbGMWYa2X)
-
-Apple Music:
-
-[Click here to listen to "Blazing Heart"](https://music.apple.com/us/album/1786732284)
-
------
-
 # [The "Repertoire of Myriad Melodies" Interaction Platform is now available! Showcase your wonderful imagination and exchange composition inspirations with other creators!](archive/20919.md)
 ## "Repertoire of Myriad Melodies" Interaction Platform Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/17/8358e05bb9835feae0e6a033d9678f95_6200385300947695753.png)
