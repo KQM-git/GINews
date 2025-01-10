@@ -624,6 +624,26 @@ Travelers who encounter this issue can exit the game via the Paimon Menu, end th
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/20973.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [The Version 5.3 Submission Contest has begun!](archive/20921.md)
 ## Version 5.3 Submission Contest
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/b9b3bd9683f318b306c980554031b3c0_666056688544077172.jpg)
@@ -771,22 +791,6 @@ You can add works you are interested in to your favorites on the "Repertoire of 
 *More details about the rules of the Interaction Platform can be found on the platform rules on the Interaction Platform page.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
-# [Take Part in "Gifts of Encounter" to Obtain Primogems!](archive/20972.md)
-## Take Part in "Gifts of Encounter" to Obtain Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/26/4761919c5f1c7f1d3f48e283f2b73b4c_5951900979852456278.png)
-
-Dear Traveler,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-From January 1 to 10, if you check in for 7 days in total, you can obtain an extra Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the check-in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 -----
 
