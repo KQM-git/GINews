@@ -892,36 +892,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Shuyu's Baffling Beetle Battle Bowl" Event: Fun Beetle Fighting Challenges](archive/20901.md)
-## Shuyu's Baffling Beetle Battle Bowl
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/9f3c7b5f9c858a5bfe33a26c6af78f80_5846633347961396122.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/01/03 10:00</t> – <t class="t_lc" contenteditable="false">2025/01/13 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/11/28/423a51a8bf009e14686e248b06a29344_6351869403483464012.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Story Quest "Grus Serena Chapter: Act I" first to get the best experience from this event.
-
-〓Event Details〓
-
-● From the first day of the event, a new beetle battle challenge will unlock every day. A total of five challenges will be unlocked.
-
-● There are 3 levels of difficulty in each beetle battle challenge: Friendly Spar, Focused Fight, and Utmost Might. After the challenge begins, Friendly Spar and Focused Fight difficulties will be unlocked. Utmost Might can only be unlocked after successfully challenging Focused Fight.
-
-● Take on your opponents and achieve corresponding criteria to claim rewards in the event page. By completing challenges on a higher difficulty setting, you can directly claim rewards at lower difficulties as well.
-
------
-
 # [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/20889.md)
 ## Event Wish - Ancient Flame Ablaze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/6f87a74f331f03cbc5b69a29788b9cec_1555236082359125703.png)
