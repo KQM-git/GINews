@@ -596,6 +596,10 @@ The quest items "Saurus Crackers" that can be obtained from the Archon Quest Cha
 
 After the Version 5.4 update, Travelers who missed out on the relevant quest items can purchase them from the NPC "Cipac" after completing the corresponding Archon Quest.
 
+〓<t class="t_gl" contenteditable="false">2025/01/16 17:45</t> Update Details〓
+
+Updates resources related to subsequent events.
+
 〓<t class="t_gl" contenteditable="false">2025/01/16 16:15</t> Update Details〓
 
 - Fixes an issue whereby the model of Citlali's waist would display abnormally under certain conditions.
