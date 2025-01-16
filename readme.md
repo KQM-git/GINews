@@ -596,6 +596,16 @@ The quest items "Saurus Crackers" that can be obtained from the Archon Quest Cha
 
 After the Version 5.4 update, Travelers who missed out on the relevant quest items can purchase them from the NPC "Cipac" after completing the corresponding Archon Quest.
 
+〓<t class="t_gl" contenteditable="false">2025/01/16 16:15</t> Update Details〓
+
+- Fixes an issue whereby the model of Citlali's waist would display abnormally under certain conditions.
+
+- Fixes an issue whereby a black screen issue would occur on certain iOS devices when participating in the Co-Op challenge of "On the Trail of Behemoths."
+
+- Fixes an issue whereby the Traveler's elemental type was displayed incorrectly in the commemorative reward "Emblem of Valor" from the "Emblem of Steadfast Valor" event.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game, then log in again to resolve the issues.
+
 〓<t class="t_gl" contenteditable="false">2025/01/09 16:15</t> Update Details〓
 
 - Fixes an issue whereby some background music was missing during the phase transition of the enemy "Guardian of Apep's Oasis" after the Version 5.3 update.
