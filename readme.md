@@ -896,36 +896,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Emblem of Steadfast Valor" Event: Tribal Valorous Challenges](archive/20899.md)
-## Emblem of Steadfast Valor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/8b09b382ce8eabad24a9e8c059a62175_3704076638546707649.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/01/09 10:00</t> – <t class="t_lc" contenteditable="false">2025/01/20 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/11/28/744986a704c0d02c9f850bd553d37df4_5308522346183187008.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "Incandescent Ode of Resurrection" first to get the best experience from this event.
-
-〓Event Details〓
-
-● There are a total of 6 challenges and 2 new challenges related to specific tribes will be unlocked on the first, third, and fifth days of the event.
-
-● There are additional Tune-Up Goals within the challenges. Complete at least 1 Tune-Up Goal in the challenges for each of the tribes to earn special Commemorative Gifts.
-
-● Complete the Archon Quest "Incandescent Ode of Resurrection" to view the contents of the Commemorative Gifts.
-
------
-
 # [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/20889.md)
 ## Event Wish - Ancient Flame Ablaze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/6f87a74f331f03cbc5b69a29788b9cec_1555236082359125703.png)
