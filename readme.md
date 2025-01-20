@@ -828,6 +828,54 @@ You can add works you are interested in to your favorites on the "Repertoire of 
 
 -----
 
+# ["May Fortune Find You: Spring's Premonition" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/20892.md)
+## May Fortune Find You: Spring's Premonition
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/abf663f402d18efb51010eee1202dad0_2850578114982894177.png)
+
+It's that time of the year again! This year's Lantern Rite is sure to be super lively. Hehe, Paimon's so excited!
+
+Ahem! Then let Paimon be the one to say it:
+
+Traveler, how about we take a trip back to Liyue Harbor together? Who knows, we might just stumble upon something wonderful~
+
+During the event, the "Fortune's Coming - Daily Login Event" and "'Old Memories, New Beginnings' - Lantern Rite Gifts" will be available.
+
+The rewards include: Primogems ×1,600, Intertwined Fate ×10, Crown of Insight, Sanctifying Elixir, etc.
+
+〓Fortune's Coming - Daily Login Event〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2025/01/22 04:00</t> – <t class="t_lc" contenteditable="false">2025/02/11 14:59</t>
+
+Eligibility: Adventure Rank 5 or above
+
+Total Login Days | Rewards
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Mystic Enhancement Ore ×18
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+〓"Old Memories, New Beginnings" - Lantern Rite Gifts〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2025/02/01 00:00</t> until the end of Version 5.3
+
+Eligibility: Adventure Rank 2 or above
+
+Event Details: Each mail can be collected until the end of the "'Old Memories, New Beginnings' - Lantern Rite Gifts" event. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+Login Date | Reward 1 | Reward 2 | Reward 3 | Reward 4
+--- | --- | --- | --- | ---
+February 1 | Primogems ×300 | Bountiful Year ×5 | Universal Peace ×5 | Sanctifying Unction ×6
+February 2 | Primogems ×300 | Fragile Resin ×1 | Drunken Plums in Snow ×5 | Hero's Wit ×5
+February 3 | Primogems ×300 | Crown of Insight ×1 | Guide to Diligence ×3 | Mystic Enhancement Ore ×10
+February 4 | Primogems ×300 | Fragile Resin ×1 | Guide to Gold ×3 | Mora ×50,000
+February 5 | Primogems ×400 | Sanctifying Elixir ×1 | Guide to Prosperity ×3 | Sanctifying Unction ×6
+
+-----
+
 # ["On the Trail of Behemoths" Event: Surveillance Commissions for Formidable Foes](archive/20897.md)
 ## On the Trail of Behemoths
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/56d94828cc092726baab51db679c2138_9167732796854839522.png)
