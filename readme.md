@@ -1,15 +1,3 @@
-# [Version 5.3 New Content Overview](archive/20965.md)
-## Version 5.3 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/12/30/60314c75a76c2f3fe177d407f332a4b9_2655055594187875935.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/12/30/2be5acb87f88129f329b33c1f970f70e_7113639463463343426.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/12/30/8880d7f2998bdb1c76357efa8e5ffc24_1303632542861596878.jpg)
-
------
-
 # ["Incandescent Ode of Resurrection" Version 5.3 Update Details](archive/20907.md)
 ## Version 5.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/20/cf271c43ebff6921c5f5943073b5e55e_8427908743529159183.jpg)
