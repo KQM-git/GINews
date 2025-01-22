@@ -626,26 +626,6 @@ Travelers who encounter this issue can exit the game via the Paimon Menu, end th
 
 -----
 
-# [Genshin Impact 5th Character OST Album "The Stellar Moments Vol. 5" Now Available](archive/20967.md)
-## 5th Character OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/13/d908913a9d485e5d1f27912601eb4588_3882421743308172882.jpg)
-
-Dear Traveler,
-
-Genshin Impact's fifth character album "The Stellar Moments Vol. 5" is out now! Featuring 32 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.
-
-Travelers can go to the following platforms to listen to "The Stellar Moments Vol. 5."
-
-Spotify:
-
-[Click here to listen to "The Stellar Moments Vol. 5"](https://open.spotify.com/album/5TUrOWH08Gm3qSag812ZDg)
-
-Apple Music:
-
-[Click here to listen to "The Stellar Moments Vol. 5"](https://music.apple.com/us/album/1790106354)
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20973.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
