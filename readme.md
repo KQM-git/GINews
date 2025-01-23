@@ -716,86 +716,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# [The "Repertoire of Myriad Melodies" Interaction Platform is now available! Showcase your wonderful imagination and exchange composition inspirations with other creators!](archive/20919.md)
-## "Repertoire of Myriad Melodies" Interaction Platform Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/17/8358e05bb9835feae0e6a033d9678f95_6200385300947695753.png)
-
-Sansa from Mondstadt has her heart set on becoming a bard. As part of her training, she has given you a collection of musical scores from all over Teyvat — the "Repertoire of Myriad Melodies."
-
-Aside from enjoying the songs of each region in the collection, you can also cook up your own musical scores, using all manner of musical instruments to play freely, and share your freedom and felicity with fellow Travelers!
-
-Show your fellow Travelers what you've got! Share your custom tracks, challenge outstanding musical scores, showcase your freestyle performances, and exchange composition inspirations!
-
-[>> Enter Interaction Platform <<](https://act.hoyoverse.com/ys/event/ugc-music-stable/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=musicugc&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Submission Period〓
-
-Submissions will be open from 2025/01/01.
-
-〓Platform Introduction〓
-
-On the "Repertoire of Myriad Melodies" Interaction Platform, you can share your own custom musical scores by uploading videos and images of your scores to the platform. You can also view other creators' scores and select your favorite scores to challenge them in-game. You can even upload the recordings of your challenges, freestyle performances, and tutorial guides to share them with other Travelers!
-
-〓Limited-Time Reward Event〓
-
-▌Event Duration
-
-2025/01/01 to <t class="t_gl" contenteditable="false">2025/01/31 23:59</t>
-
-▌How to Participate
-
-During the event, successfully submit your work to the Interaction Platform and have it approved, then post it under the topic #Repertoire of Myriad Melodies on HoYoLAB. The post must include the submission link from the Interaction Platform.
-
-[>> Click to View Event Details <<](https://www.hoyolab.com/article/36006749)
-
-▌Event Rewards
-
-First Prize (1 Winner):
-
-Primogems ×1,300
-
-Second Prize (3 Winners):
-
-Primogems ×1,100
-
-Third Prize (5 Winners):
-
-Primogems ×800
-
-Lucky Prize (100 Winners):
-
-Primogems ×160
-
-〓Custom Score Submissions〓
-
-You can publish on the platform the arrangements you have successfully created in-game, upload videos and images, and edit the titles, descriptions, and labels of your submission to introduce your works. You cannot make more than one submission for the same musical score.
-
-Once your entry is posted and approved, it can be searched for and viewed by others. You can also choose to remove your entry.
-
-〓Challenge Video Submissions〓
-
-You can enter the sharing code of a playable score posted by others in the same regional server, and upload videos and pictures to show your challenge record of that musical score. You cannot submit more than one challenge record for the same musical score.
-
-Once your entry is posted and approved, it can be searched for and viewed by others. You can also choose to remove your entry.
-
-〓Freestyle Performance Submissions〓
-
-You can upload original videos of your original freestyle performances using certain gadgets. These submissions can only be made under the "Freestyle Performance" category. You can only upload 1 video per submission. Submissions with incorrect submission categories will not be approved.
-
-〓Tutorials and General Content Submissions〓
-
-You can upload original videos featuring tutorials or other Genshin Impact music-related content. These submissions can only be made under the "Tutorials and General Content" category. You can only upload 1 video per submission. Submissions with incorrect submission categories will not be approved.
-
-〓My Favorites〓
-
-You can add works you are interested in to your favorites on the "Repertoire of Myriad Melodies" Interaction Platform. A maximum of 99 works can be favorited.
-
-*More details about the rules of the Interaction Platform can be found on the platform rules on the Interaction Platform page.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # ["Springtime Charms" Event: Take Part to Obtain Xiangling's Outfit and a 4-Star Character From Liyue of Your Choice](archive/20891.md)
 ## Springtime Charms
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/e6fdeaaac1a2698a4c867a2cbc1e9549_7196995549027955618.png)
@@ -1186,31 +1106,83 @@ Adventure Rank 20 or above
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter V: Act V](archive/20908.md)
-## New Story Unlocked - Archon Quest Chapter V: Act V
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/13/7e25f3294e1897edb7762329e7b289f0_6183065095270564423.jpg)
+# [The "Repertoire of Myriad Melodies" Interaction Platform is now available! Showcase your wonderful imagination and exchange composition inspirations with other creators!](archive/20919.md)
+## "Repertoire of Myriad Melodies" Interaction Platform Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/17/8358e05bb9835feae0e6a033d9678f95_6200385300947695753.png)
 
-The path of war approaches its end, all eyes fixed upon the hero's back.
+Sansa from Mondstadt has her heart set on becoming a bard. As part of her training, she has given you a collection of musical scores from all over Teyvat — the "Repertoire of Myriad Melodies."
 
-The crushing burden of "fate" and "rules" weighs heavy upon this place, making each step forward a staggering effort.
+Aside from enjoying the songs of each region in the collection, you can also cook up your own musical scores, using all manner of musical instruments to play freely, and share your freedom and felicity with fellow Travelers!
 
-Yet the sun has proclaimed its intention — to burn away both shackles and the self, and in their place, usher in a new chapter for humankind...
+Show your fellow Travelers what you've got! Share your custom tracks, challenge outstanding musical scores, showcase your freestyle performances, and exchange composition inspirations!
 
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will appear in the Quest Menu.
+[>> Enter Interaction Platform <<](https://act.hoyoverse.com/ys/event/ugc-music-stable/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=musicugc&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
-〓Quest Start Time〓
+〓Submission Period〓
 
-After the Version 5.3 update, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will be permanently available.
+Submissions will be open from 2025/01/01.
 
-〓Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" Unlock Criteria〓
+〓Platform Introduction〓
 
-• Reach Adventure Rank 28 or above
+On the "Repertoire of Myriad Melodies" Interaction Platform, you can share your own custom musical scores by uploading videos and images of your scores to the platform. You can also view other creators' scores and select your favorite scores to challenge them in-game. You can even upload the recordings of your challenges, freestyle performances, and tutorial guides to share them with other Travelers!
 
-• Complete Archon Quest Chapter V: Interlude "All Fires Fuel the Flame"
+〓Limited-Time Reward Event〓
 
-• The "Focused Experience Mode" function is available for this quest.
+▌Event Duration
 
-You can use the "Quick Start" function to accept and progress through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" while maintaining your current progress in the existing Archon Quests. After using the "Quick Start" function to complete Archon Quest Chapter V: Act I, you can continue to accept and complete the subsequent Acts of Chapter V until you unlock the latest Archon Quest introduced in the current version update.
+2025/01/01 to <t class="t_gl" contenteditable="false">2025/01/31 23:59</t>
+
+▌How to Participate
+
+During the event, successfully submit your work to the Interaction Platform and have it approved, then post it under the topic #Repertoire of Myriad Melodies on HoYoLAB. The post must include the submission link from the Interaction Platform.
+
+[>> Click to View Event Details <<](https://www.hoyolab.com/article/36006749)
+
+▌Event Rewards
+
+First Prize (1 Winner):
+
+Primogems ×1,300
+
+Second Prize (3 Winners):
+
+Primogems ×1,100
+
+Third Prize (5 Winners):
+
+Primogems ×800
+
+Lucky Prize (100 Winners):
+
+Primogems ×160
+
+〓Custom Score Submissions〓
+
+You can publish on the platform the arrangements you have successfully created in-game, upload videos and images, and edit the titles, descriptions, and labels of your submission to introduce your works. You cannot make more than one submission for the same musical score.
+
+Once your entry is posted and approved, it can be searched for and viewed by others. You can also choose to remove your entry.
+
+〓Challenge Video Submissions〓
+
+You can enter the sharing code of a playable score posted by others in the same regional server, and upload videos and pictures to show your challenge record of that musical score. You cannot submit more than one challenge record for the same musical score.
+
+Once your entry is posted and approved, it can be searched for and viewed by others. You can also choose to remove your entry.
+
+〓Freestyle Performance Submissions〓
+
+You can upload original videos of your original freestyle performances using certain gadgets. These submissions can only be made under the "Freestyle Performance" category. You can only upload 1 video per submission. Submissions with incorrect submission categories will not be approved.
+
+〓Tutorials and General Content Submissions〓
+
+You can upload original videos featuring tutorials or other Genshin Impact music-related content. These submissions can only be made under the "Tutorials and General Content" category. You can only upload 1 video per submission. Submissions with incorrect submission categories will not be approved.
+
+〓My Favorites〓
+
+You can add works you are interested in to your favorites on the "Repertoire of Myriad Melodies" Interaction Platform. A maximum of 99 works can be favorited.
+
+*More details about the rules of the Interaction Platform can be found on the platform rules on the Interaction Platform page.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
@@ -1243,6 +1215,34 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter V: Act V](archive/20908.md)
+## New Story Unlocked - Archon Quest Chapter V: Act V
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/13/7e25f3294e1897edb7762329e7b289f0_6183065095270564423.jpg)
+
+The path of war approaches its end, all eyes fixed upon the hero's back.
+
+The crushing burden of "fate" and "rules" weighs heavy upon this place, making each step forward a staggering effort.
+
+Yet the sun has proclaimed its intention — to burn away both shackles and the self, and in their place, usher in a new chapter for humankind...
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+After the Version 5.3 update, Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" will be permanently available.
+
+〓Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Interlude "All Fires Fuel the Flame"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+You can use the "Quick Start" function to accept and progress through Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" while maintaining your current progress in the existing Archon Quests. After using the "Quick Start" function to complete Archon Quest Chapter V: Act I, you can continue to accept and complete the subsequent Acts of Chapter V until you unlock the latest Archon Quest introduced in the current version update.
 
 -----
 
