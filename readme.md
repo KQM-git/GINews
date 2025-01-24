@@ -626,6 +626,18 @@ Travelers who encounter this issue can exit the game via the Paimon Menu, end th
 
 -----
 
+# [A First Look at Version 5.4 "Moonlight Amidst Dreams"!](archive/21011.md)
+## Genshin Impact Version 5.4 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/17/35a0f7ce81eddee5848d7484245a640a_8290975681956211810.jpg)
+
+Dear Traveler,
+
+Here's a first look at Version 5.4 "Moonlight Amidst Dreams"!
+
+[Click to check out the latest info on Version 5.4 "Moonlight Amidst Dreams"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_mDZ7Xhhdj3&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # [The Lantern Rite Discussion Event Has Begun! Take Part to Win Primogems and Obtain Mora Rewards](archive/20923.md)
 ## The Lantern Rite Discussion Event Has Begun! Take Part for Guaranteed Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/34bd9243dbf8da0fb503a18e6d6bff41_7621308707238895510.jpg)
