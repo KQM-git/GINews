@@ -730,24 +730,6 @@ Permanent
 
 -----
 
-# [The Version 5.3 Submission Contest has begun!](archive/20921.md)
-## Version 5.3 Submission Contest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/b9b3bd9683f318b306c980554031b3c0_666056688544077172.jpg)
-
-Hello, Traveler~
-
-The Genshin Impact Version 5.3 "Incandescent Ode of Resurrection" Submission Contest has begun!
-
-From January 2, head to the official Creator Incentive Program page to create fan art or videos related to the characters, storyline, or events from Version 5.3 for a chance to win up to Primogems ×5,000 and 1,200 USD! For more details, please visit the official Creator Incentive Program page:
-
-[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_GHoTG2ipoR/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202412111211)
-
-From January 1, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, new maps, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000! For more details, please visit:
-
-[>> Click to View <<](https://www.hoyolab.com/contribution/418)
-
------
-
 # [View the Updated Interactive Map and Other Tools!](archive/20932.md)
 ## The Genshin Impact Version 5.3 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/31/b107a1fd664c94f37dc7074a5f95b2c3_5344137134613338597.png)
