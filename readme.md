@@ -628,6 +628,30 @@ Travelers who encounter this issue can exit the game via the Paimon Menu, end th
 
 -----
 
+# [Version Satisfaction Survey Now Open](archive/21019.md)
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2025/02/07 10:00:00 (global) - 2025/02/10 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-k-71sR-seXZlJUP2c9jil7uGL4oTm0w1f8rDIn81DbO&game_biz=hk4e_global&surveyId=29660&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/20974.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
