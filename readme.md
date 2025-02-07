@@ -724,36 +724,6 @@ Here's a first look at Version 5.4 "Moonlight Amidst Dreams"!
 
 -----
 
-# [The Lantern Rite Discussion Event Has Begun! Take Part to Win Primogems and Obtain Mora Rewards](archive/20923.md)
-## The Lantern Rite Discussion Event Has Begun! Take Part for Guaranteed Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/34bd9243dbf8da0fb503a18e6d6bff41_7621308707238895510.jpg)
-
-Dear Traveler,
-
-The HoYoLAB Community Forum Commenting Event has begun! Take part in the discussion to obtain Mora ×50,000 and get a chance to win one of 5,000 Primogem prizes!
-
-[Take Part in the Event >>](https://www.hoyolab.com/article_pre/17478?utm_medium=notice&utm_source=ingame)
-
-Event Duration
-
-2025/01/24 – <t class="t_gl" contenteditable="false">2025/02/09 23:59</t>
-
-Event Theme
-
-1. Create a Lantern Rite-themed gift envelope in the "Springtime Charms" in-game event.
-
-2. Share a screenshot of your gift envelope in the comments and you will be considered a successful participant.
-
-Event Rewards
-
-Guaranteed: Join the discussion for a guaranteed Mora ×50,000 as well as a Lantern Rite Avatar Frame (Permanent)
-
-Raffle: 5,000 winners will be randomly chosen to receive Primogems ×100!
-
-[Want to be among the first to try out the Lantern Rite Avatar Frame? Head to the web event to claim a 30-day free trial now >>>](https://act.hoyolab.com/ys/event/bbs-event-20240828mimo/index.html?is_need_floating=true&hyl_presentation_style=fullscreen&version=5.3&utm_campaign=NataDragon&utm_id=2&utm_medium=notification&utm_source=ingame)
-
------
-
 # [View the Updated Interactive Map and Other Tools!](archive/20932.md)
 ## The Genshin Impact Version 5.3 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/31/b107a1fd664c94f37dc7074a5f95b2c3_5344137134613338597.png)
