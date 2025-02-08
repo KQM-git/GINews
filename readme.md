@@ -800,48 +800,6 @@ Domains of Forgery: Reach Adventure Rank 15 or above and after activating corres
 
 -----
 
-# ["Springtime Charms" Event: Take Part to Obtain Xiangling's Outfit and a 4-Star Character From Liyue of Your Choice](archive/20891.md)
-## Springtime Charms
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/e6fdeaaac1a2698a4c867a2cbc1e9549_7196995549027955618.png)
-
-〓Event Duration〓
-
-Event Content | Event Content | Start Time | End Time
---- | --- | --- | ---
-Gameplay Duration | Phase I | <t class="t_lc" contenteditable="false">2025/01/24 10:00</t> | <t class="t_lc" contenteditable="false">2025/02/09 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2025/01/26 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2025/01/28 04:00</t> | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/11/28/7956546e954456ea5e27f4147c69ebb9_520819962359382257.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "Incandescent Ode of Resurrection," and the Story Quests "Lagenaria Chapter: Act I" and "Papilio Charontis Chapter: Act I" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, the following gameplay modes will unlock in sequence: "Immortal Combat," "Drills by Lamplight," "Custom Gift Envelopes," and "Festive Travel Journal."
-
-● In the "Immortal Combat" gameplay, you must destroy the blocks on your side by cleverly adjusting the falling blocks' positions and angles to grant buffs to your own rattan figure and defeat your opponent's one.
-
-● In the "Drills by Lamplight" gameplay, you must complete the drill while using various Secret Stratagems to increase your team's combat prowess and ability to score points.
-
-● In the "Custom Gift Envelopes" gameplay, you must help your companions complete their gift envelopes to their specifications. You can also initiate gift envelope creation yourself and give the completed envelopes to your companions and also to other players, or exhibit them publicly on a celebratory board.
-
-● In the "Festive Travel Journal" gameplay, you must visit various festive toy locations around Liyue Harbor during Lantern Rite and increase your visit progress.
-
-● Complete the event's various gameplay modes to gain Festive Fever. Reach a certain amount of Festive Fever to obtain Xiangling's outfit "New Year's Cheer" and a 4-star character from Liyue of your choice.
-
-※ Xiangling's outfit "New Year's Cheer" will be available for purchase in the Character Outfit Shop after the end of Version 5.3, which will be priced at 1,680 Genesis Crystals.
-
------
-
 # ["May Fortune Find You: Spring's Premonition" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/20892.md)
 ## May Fortune Find You: Spring's Premonition
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/abf663f402d18efb51010eee1202dad0_2850578114982894177.png)
