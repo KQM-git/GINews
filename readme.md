@@ -672,46 +672,6 @@ Permanent
 
 -----
 
-# [Web Event "Rattan Immortals" Now Online: Take part and celebrate Lantern Rite to obtain Primogems](archive/20953.md)
-## Web Event "Rattan Immortals" Now Online: Take part and celebrate Lantern Rite to obtain Primogems
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/f13e0a97a9b2223d0cc6d6c3daa96ad8_3847739968087429757.jpg)
-
-The limited-time web event "Rattan Immortals" has begun! Re-enact the story of the Eight Adepts with rattan figures and celebrate Lantern Rite!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250126lantern-a862tu/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250126lantern&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2025/01/26 – <t class="t_gl" contenteditable="false">2025/02/09 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, log into Genshin Impact daily, claim Daily Commission Rewards, and complete other missions to obtain Knots.
-
-Each stage of Immortal Tale requires spending Knots to take part. After completing the 3 stages for all Immortal Tales, you can obtain Primogems, Sanctifying Unction, and other in-game rewards as well as outfits for your rattan figure in this event.
-
-After completing each stage, you can obtain Story Inspiration. Accumulate a certain amount of Story Inspiration to obtain Primogems, Hero's Wit, and other rewards.
-
-〓Event Rewards〓
-
-Complete all Immortal Tales to obtain a total of Primogems ×40, Sanctifying Unction ×3, Hero's Wit ×3, Mystic Enhancement Ore ×8, and Mora ×10,000.
-
-Accumulate a certain amount of Story Inspiration to obtain a total of Primogems ×80 and Hero's Wit ×3.
-
-Share your Fortune Slip daily to obtain a total of Mora ×15,000.
-
-Share the stage you created for the first time to obtain Mora ×5,000.
-
-*After the event ends, you will no longer be able to claim the rewards, so remember to take part in time.
-
------
-
 # [A First Look at Version 5.4 "Moonlight Amidst Dreams"!](archive/21011.md)
 ## Genshin Impact Version 5.4 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/17/35a0f7ce81eddee5848d7484245a640a_8290975681956211810.jpg)
