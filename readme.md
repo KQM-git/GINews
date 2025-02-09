@@ -736,30 +736,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
-## Overflowing Abundance
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/0cbb92a688176995a17c7bd41045dc2a_2224453158799685257.png)
-
-During the event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/02/03 04:00</t> – <t class="t_lc" contenteditable="false">2025/02/10 03:59</t>
-
-〓Eligibility〓
-
-Domains of Mastery: Reach Adventure Rank 25 or above and after activating corresponding Domains of Mastery
-
-Domains of Forgery: Reach Adventure Rank 15 or above and after activating corresponding Domains of Forgery
-
-〓Event Details〓
-
-● During the "Overflowing Abundance" event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
-● All unlocked reward options for Domains of Mastery and Forgery will be available until the event ends. Please make sure you complete the challenge in time.
-
------
-
 # ["May Fortune Find You: Spring's Premonition" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/20892.md)
 ## May Fortune Find You: Spring's Premonition
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/abf663f402d18efb51010eee1202dad0_2850578114982894177.png)
@@ -991,52 +967,6 @@ Adventure Rank 28 or above
 Complete Archon Quest Chapter V: Interlude "All Fires Fuel the Flame"
 
 ※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and continue progressing up to the latest Archon Quest introduced in the current version update.
-
------
-
-# [Hu Tao's Outfit "Cherries Snow-Laden" Available at a Limited-Time Discount](archive/20905.md)
-## Cherries Snow-Laden
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/1e7aea73a96e66be6047a03121ffa20b_3635160715140961765.png)
-
-Hu Tao's outfit "Cherries Snow-Laden" is available at a limited-time discount in the Shop!
-
-〓Discount Period〓
-
-After the Version 5.3 update – <t class="t_lc" contenteditable="false">2025/02/10 03:59</t>
-
-〓Outfit Details〓
-
-● Hu Tao's outfit "Cherries Snow-Laden" will be permanently available in the Shop after the Version 5.3 update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Hu Tao can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
-# ["Soulblaze" Event Details](archive/20903.md)
-## Soulblaze
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/5ee481e4f15dfe33ea254a75dd407624_6292873462438683586.png)
-
-Travelers can earn rich rewards in "Soulblaze" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: The Flame Renewed" and Furnishing Blueprint "By Cinder City's Glowing Light."
-
-〓Event Duration〓
-
-After the Version 5.3 update – <t class="t_lc" contenteditable="false">2025/02/10 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/02/10 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
