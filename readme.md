@@ -1,3 +1,42 @@
+# [Version 5.4 Update Maintenance Preview](archive/21024.md)
+## Version 5.4 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/03/c941908b14dcaf160083796a10645f89_6996385689272608266.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2025/02/12 06:00</t>. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please stay tuned to related game update information.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+Pre-installation is now available on mobile, PC, and PlayStation®.
+
+〓Update Maintenance Duration〓
+
+Update maintenance begins at  <t class="t_gl" contenteditable="false">2025/02/12 06:00</t> and is estimated to take 5 hours.
+
+〓Update Maintenance Compensation〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Update Maintenance Compensation Eligibility〓
+
+Maintenance Compensation: Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2025/02/12 06:00</t>.
+
+Compensation must be claimed before the end of Version 5.4.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2025/02/12 07:00</t>.
+
+<details open="true">
+<summary>Summary of Update Methods</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/12/06/c32f0738ec9c9c4aaf00d6ff1cb827a5_3654854005027638960.jpg)
+
+</details>
+
+-----
+
 # ["Incandescent Ode of Resurrection" Version 5.3 Update Details](archive/20907.md)
 ## Version 5.3 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/20/cf271c43ebff6921c5f5943073b5e55e_8427908743529159183.jpg)
