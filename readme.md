@@ -467,6 +467,20 @@ Fixes an issue whereby under certain circumstances, a rock near the "Coatepec Mo
 
 -----
 
+# [Version Details - What's New ](archive/21038.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2025/02/12 22:15</t> Update Details〓
+
+Fixes an issue whereby in certain situations, clicking on an icon on the map would prevent the information bar on the right side of the map interface from displaying, resulting in the inability to use functions such as teleportation and tracking.
+
+-----
+
 # [Event Wish "Dawn's Drifting Reverie" - Boosted Drop Rate for "Embrace of Enchanting Dreams" Yumemizuki Mizuki (Anemo)!](archive/20990.md)
 ## Event Wish - Dawn's Drifting Reverie
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/848e5f941eb73d5397b69f88fd30f26f_1826312517045285958.jpg)
