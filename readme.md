@@ -475,6 +475,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓<t class="t_gl" contenteditable="false">2025/02/13 16:20</t> Update Details〓
+
+Fixes an issue whereby Hu Tao's wrist did not display correctly while performing a Charged Attack when wearing the outfit "Cherries Snow-Laden."
+
 〓<t class="t_gl" contenteditable="false">2025/02/12 22:15</t> Update Details〓
 
 Fixes an issue whereby in certain situations, clicking on an icon on the map would prevent the information bar on the right side of the map interface from displaying, resulting in the inability to use functions such as teleportation and tracking.
