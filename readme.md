@@ -437,6 +437,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓<t class="t_gl" contenteditable="false">2025/02/14 17:30</t> Update Details〓
+
+Fixes an issue whereby after changing the "Pick Up/Interact" key setting, the interaction key for the "A Little Fox's Daydream" gameplay in the "Enchanted Tales of the Mikawa Festival" event will be displayed as an incorrect key.
+
 〓<t class="t_gl" contenteditable="false">2025/02/13 16:20</t> Update Details〓
 
 Fixes an issue whereby Hu Tao's wrist did not display correctly while performing a Charged Attack when wearing the outfit "Cherries Snow-Laden."
