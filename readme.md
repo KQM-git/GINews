@@ -8,44 +8,6 @@
 
 -----
 
-# ["Enchanted Tales of the Mikawa Festival" Event: Take Part and Obtain the Event-Exclusive Weapon, Tamayuratei no Ohanashi (Polearm)](archive/20997.md)
-## Enchanted Tales of the Mikawa Festival
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/2e2e1c2a90626351ce213cd6caeda5a5_8518782720163560100.jpg)
-
-〓Event Duration〓
-
-Event Content | Event Content | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/02/14 10:00</t> | <t class="t_lc" contenteditable="false">2025/03/03 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2025/02/16 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2025/02/18 04:00</t> | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/929b1b4a3322c054f50590be0588064d_4182641611842653245.png)
-
-〓Eligibility〓
-
-Adventure Rank 30 or above
-
-And complete the Archon Quest "Ritou Escape Plan"
-
-※ Complete the Story Quests "Imperatrix Umbrosa Chapter: Act II," "Tapirus Somniator Chapter: Act I," "Dracaena Somnolenta Chapter: Act I," and "Carassius Auratus Chapter: Act II," as well as Hangout Event: Sayu and the World Quest "Sacred Sakura Cleansing Ritual" to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, the following gameplay modes will unlock in sequence: "Akitsu Harpastum: Dreams Doubled," "A Little Fox's Daydream," and "Bunshin Phantasm."
-
-● In the "Akitsu Harpastum: Dreams Doubled" gameplay, you must return harpasta fired at you by the Harpastum Youkai and defeat them under various conditions.
-
-● In the "A Little Fox's Daydream" gameplay, by switching between dreamscape types and altering the terrain, you must navigate your way past perils and guide the little kitsune to gather Fried Tofu and reach the ramen stall.
-
-● In the "Bunshin Phantasm" gameplay, you must use a mysterious doppelganger wisely to solve various problems and find your way to the destination.
-
-● Complete the event's various gameplay modes to gain Festival Stamps. Reach a certain amount of Festival Stamps to obtain Tamayuratei no Ohanashi (Polearm), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
-
------
-
 # ["Moonlight Amidst Dreams" Version 5.4 Update Details](archive/20988.md)
 ## Version 5.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/a9715a636ef3b59c0e7fc81ff0ab4731_3821635496197143143.jpg)
@@ -485,6 +447,44 @@ Fixes an issue whereby in certain situations, clicking on an icon on the map wou
 
 -----
 
+# ["Enchanted Tales of the Mikawa Festival" Event: Take Part and Obtain the Event-Exclusive Weapon, Tamayuratei no Ohanashi (Polearm)](archive/20997.md)
+## Enchanted Tales of the Mikawa Festival
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/2e2e1c2a90626351ce213cd6caeda5a5_8518782720163560100.jpg)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/02/14 10:00</t> | <t class="t_lc" contenteditable="false">2025/03/03 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2025/02/16 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2025/02/18 04:00</t> | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/929b1b4a3322c054f50590be0588064d_4182641611842653245.png)
+
+〓Eligibility〓
+
+Adventure Rank 30 or above
+
+And complete the Archon Quest "Ritou Escape Plan"
+
+※ Complete the Story Quests "Imperatrix Umbrosa Chapter: Act II," "Tapirus Somniator Chapter: Act I," "Dracaena Somnolenta Chapter: Act I," and "Carassius Auratus Chapter: Act II," as well as Hangout Event: Sayu and the World Quest "Sacred Sakura Cleansing Ritual" to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, the following gameplay modes will unlock in sequence: "Akitsu Harpastum: Dreams Doubled," "A Little Fox's Daydream," and "Bunshin Phantasm."
+
+● In the "Akitsu Harpastum: Dreams Doubled" gameplay, you must return harpasta fired at you by the Harpastum Youkai and defeat them under various conditions.
+
+● In the "A Little Fox's Daydream" gameplay, by switching between dreamscape types and altering the terrain, you must navigate your way past perils and guide the little kitsune to gather Fried Tofu and reach the ramen stall.
+
+● In the "Bunshin Phantasm" gameplay, you must use a mysterious doppelganger wisely to solve various problems and find your way to the destination.
+
+● Complete the event's various gameplay modes to gain Festival Stamps. Reach a certain amount of Festival Stamps to obtain Tamayuratei no Ohanashi (Polearm), Primogems, Crown of Insight, event-exclusive Weapon Refinement Materials, and other rewards.
+
+-----
+
 # [Event Wish "Dawn's Drifting Reverie" - Boosted Drop Rate for "Embrace of Enchanting Dreams" Yumemizuki Mizuki (Anemo)!](archive/20990.md)
 ## Event Wish - Dawn's Drifting Reverie
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/848e5f941eb73d5397b69f88fd30f26f_1826312517045285958.jpg)
@@ -657,30 +657,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["Wondrous Reverie" Event Details](archive/20995.md)
-## Wondrous Reverie
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/f7c6042a3b30eee9c3cf3d2ca394c386_799654040771614672.jpg)
-
-Travelers can earn rich rewards in "Wondrous Reverie" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Reverie" and Furnishing Blueprint "Sweet Dreams."
-
-〓Event Duration〓
-
-After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/03/24 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # [View the Updated Interactive Map and Other Tools!](archive/21009.md)
 ## The Genshin Impact Version 5.4 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/10/67180751b3da1c89ab969a4403ab18c4_46894715936287973.png)
@@ -744,6 +720,30 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Wondrous Reverie" Event Details](archive/20995.md)
+## Wondrous Reverie
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/f7c6042a3b30eee9c3cf3d2ca394c386_799654040771614672.jpg)
+
+Travelers can earn rich rewards in "Wondrous Reverie" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Reverie" and Furnishing Blueprint "Sweet Dreams."
+
+〓Event Duration〓
+
+After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/03/24 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
