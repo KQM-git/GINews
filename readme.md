@@ -8,6 +8,44 @@
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/20837.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/a066dbf310d6c4a5e2c22b1f8324b732_3665361427247703676.jpg)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
+
+● Character Cards now have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
+
+● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the Character Cards.
+
+● After the battle begins, characters from both sides will automatically take actions in order from left to right.
+
+● In this edition of Heated Battle Mode, the effects of certain Elemental reactions and cards will be adjusted.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/02/21 10:00</t> - <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_1684210566592387154.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
+
+-----
+
 # ["Moonlight Amidst Dreams" Version 5.4 Update Details](archive/20988.md)
 ## Version 5.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/a9715a636ef3b59c0e7fc81ff0ab4731_3821635496197143143.jpg)
