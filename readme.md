@@ -827,36 +827,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 38 Available for a Limited Time](archive/20994.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/2a8361cf82074ea0538bcdc14a7ccdb7_4966007256094991161.jpg)
-
-Round 38 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/02/26 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/02/26 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # ["Turbo Twirly!" Event: Progress Through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn" and Invite "Mottled Gold Yet Unsmelted" Kachina (Geo)](archive/20652.md)
 ## Turbo Twirly!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/86bcf20a1a26cdd537626d000e627862_1854706427906153419.jpg)
