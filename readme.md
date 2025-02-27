@@ -589,6 +589,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓<t class="t_gl" contenteditable="false">2025/02/27 16:15</t> Update Details〓
+
+Updates resources related to subsequent events.
+
 〓<t class="t_gl" contenteditable="false">2025/02/20 16:10</t> Update Details〓
 
 - Fixes an issue whereby after changing the "Pick Up/Interact" key to "Left Shift," the interaction key for the "A Little Fox's Daydream" gameplay in the "Enchanted Tales of the Mikawa Festival" event could not be used.
