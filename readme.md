@@ -1,3 +1,13 @@
+# [Version 5.4 New Content Overview](archive/21031.md)
+## Version 5.4 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/11/b225a14e6d0d4f0ee2413793bf7522ce_6528409225469909951.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/11/67a79e65f6fa0677986dfc3f5440e0f8_5728694451478334693.jpg)
+
+-----
+
 # [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/21000.md)
 ## Event Wish - Chanson of Many Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/57c98a056786904ff200eb0856180cf8_2721514544911797564.jpg)
@@ -109,54 +119,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● Finish a stage within 30s to clear it and continue to challenge the next one.
 
 ● If one of your Friends clears Floor 20 in a single-player challenge, you can receive a Boon of Friendship from them.
-
------
-
-# [Version 5.4 New Content Overview](archive/21031.md)
-## Version 5.4 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/11/b225a14e6d0d4f0ee2413793bf7522ce_6528409225469909951.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/11/67a79e65f6fa0677986dfc3f5440e0f8_5728694451478334693.jpg)
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/20837.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/a066dbf310d6c4a5e2c22b1f8324b732_3665361427247703676.jpg)
-
-〓Special Rules〓
-
-● In this edition of Heated Battle Mode, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
-
-● Character Cards now have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
-
-● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the Character Cards.
-
-● After the battle begins, characters from both sides will automatically take actions in order from left to right.
-
-● In this edition of Heated Battle Mode, the effects of certain Elemental reactions and cards will be adjusted.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/02/21 10:00</t> - <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_1684210566592387154.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
 -----
 
@@ -612,6 +574,44 @@ Fixes an issue whereby Hu Tao's wrist did not display correctly while performing
 〓<t class="t_gl" contenteditable="false">2025/02/12 22:15</t> Update Details〓
 
 Fixes an issue whereby in certain situations, clicking on an icon on the map would prevent the information bar on the right side of the map interface from displaying, resulting in the inability to use functions such as teleportation and tracking.
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/20837.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/a066dbf310d6c4a5e2c22b1f8324b732_3665361427247703676.jpg)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
+
+● Character Cards now have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
+
+● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the Character Cards.
+
+● After the battle begins, characters from both sides will automatically take actions in order from left to right.
+
+● In this edition of Heated Battle Mode, the effects of certain Elemental reactions and cards will be adjusted.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/02/21 10:00</t> - <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_1684210566592387154.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
 -----
 
