@@ -8,6 +8,38 @@
 
 -----
 
+# ["Invasive Fish Wrangler" Event: Capture Invasive Fish](archive/21002.md)
+## Invasive Fish Wrangler
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/1cda836c2019234d5f77ba9d8ac16759_8949709102362486292.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/03/05 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/643050ef878f6a1a6313ead97d697e99_4111733177228003859.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● During the event, you must use action points to throw fishing nets in order to catch various types of invasive fish.
+
+● During the first 5 days of the event, the limit on the max amount of Wrangler Points you can earn will increase by 1,000 every 2 days. You can earn Wrangler Points or complete special actions to claim the corresponding rewards.
+
+● The event features two modes: Co-Op Mode and Fish-Off Mode. In both modes, you can obtain Wrangler Points.
+
+● Co-Op Mode: A certain amount of action points are provided at the start of the challenge and players have to work together to catch fish.
+
+● Fish-Off Mode: Based on their current accumulated action points, players will compete against evenly-matched anglers to decide who the better fish-wrangler is.
+
+-----
+
 # [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/21000.md)
 ## Event Wish - Chanson of Many Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/57c98a056786904ff200eb0856180cf8_2721514544911797564.jpg)
@@ -615,6 +647,26 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21055.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Event Wish "Dawn's Drifting Reverie" - Boosted Drop Rate for "Embrace of Enchanting Dreams" Yumemizuki Mizuki (Anemo)!](archive/20990.md)
 ## Event Wish - Dawn's Drifting Reverie
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/848e5f941eb73d5397b69f88fd30f26f_1826312517045285958.jpg)
@@ -830,26 +882,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 (Check out the party lineup recommendations for the new season's Spiral Abyss.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/20974.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
