@@ -1,13 +1,3 @@
-# [Version 5.4 New Content Overview](archive/21031.md)
-## Version 5.4 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/11/b225a14e6d0d4f0ee2413793bf7522ce_6528409225469909951.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/11/67a79e65f6fa0677986dfc3f5440e0f8_5728694451478334693.jpg)
-
------
-
 # ["Invasive Fish Wrangler" Event: Capture Invasive Fish](archive/21002.md)
 ## Invasive Fish Wrangler
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/1cda836c2019234d5f77ba9d8ac16759_8949709102362486292.jpg)
