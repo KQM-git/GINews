@@ -1,35 +1,3 @@
-# ["Invasive Fish Wrangler" Event: Capture Invasive Fish](archive/21002.md)
-## Invasive Fish Wrangler
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/1cda836c2019234d5f77ba9d8ac16759_8949709102362486292.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/03/05 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/643050ef878f6a1a6313ead97d697e99_4111733177228003859.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● During the event, you must use action points to throw fishing nets in order to catch various types of invasive fish.
-
-● During the first 5 days of the event, the limit on the max amount of Wrangler Points you can earn will increase by 1,000 every 2 days. You can earn Wrangler Points or complete special actions to claim the corresponding rewards.
-
-● The event features two modes: Co-Op Mode and Fish-Off Mode. In both modes, you can obtain Wrangler Points.
-
-● Co-Op Mode: A certain amount of action points are provided at the start of the challenge and players have to work together to catch fish.
-
-● Fish-Off Mode: Based on their current accumulated action points, players will compete against evenly-matched anglers to decide who the better fish-wrangler is.
-
------
-
 # ["Moonlight Amidst Dreams" Version 5.4 Update Details](archive/20988.md)
 ## Version 5.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/a9715a636ef3b59c0e7fc81ff0ab4731_3821635496197143143.jpg)
@@ -451,6 +419,72 @@ Fixes an issue whereby under certain circumstances, a rock near the "Coatepec Mo
 
 -----
 
+# [Version Details - What's New ](archive/21038.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2025/02/27 16:15</t> Update Details〓
+
+Updates resources related to subsequent events.
+
+〓<t class="t_gl" contenteditable="false">2025/02/20 16:10</t> Update Details〓
+
+- Fixes an issue whereby after changing the "Pick Up/Interact" key to "Left Shift," the interaction key for the "A Little Fox's Daydream" gameplay in the "Enchanted Tales of the Mikawa Festival" event could not be used.
+
+Travelers affected by the above issue can log out via the Paimon Menu and close the game, then log in again to resolve the issue. After completing the relevant resource download at the login screen, repeat the process of exiting and logging back into the game to resolve the issue.
+
+- Fixes an issue whereby under specific circumstances, when near a wall and triggering Nightsoul Transmission to switch to the character Xilonen, Xilonen would fail to climb walls while in the Nightsoul's Blessing state.
+
+〓<t class="t_gl" contenteditable="false">2025/02/14 17:30</t> Update Details〓
+
+Fixes an issue whereby after changing the "Pick Up/Interact" key setting, the interaction key for the "A Little Fox's Daydream" gameplay in the "Enchanted Tales of the Mikawa Festival" event will be displayed as an incorrect key.
+
+〓<t class="t_gl" contenteditable="false">2025/02/13 16:20</t> Update Details〓
+
+Fixes an issue whereby Hu Tao's wrist did not display correctly while performing a Charged Attack when wearing the outfit "Cherries Snow-Laden."
+
+〓<t class="t_gl" contenteditable="false">2025/02/12 22:15</t> Update Details〓
+
+Fixes an issue whereby in certain situations, clicking on an icon on the map would prevent the information bar on the right side of the map interface from displaying, resulting in the inability to use functions such as teleportation and tracking.
+
+-----
+
+# ["Invasive Fish Wrangler" Event: Capture Invasive Fish](archive/21002.md)
+## Invasive Fish Wrangler
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/1cda836c2019234d5f77ba9d8ac16759_8949709102362486292.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/03/05 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/643050ef878f6a1a6313ead97d697e99_4111733177228003859.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● During the event, you must use action points to throw fishing nets in order to catch various types of invasive fish.
+
+● During the first 5 days of the event, the limit on the max amount of Wrangler Points you can earn will increase by 1,000 every 2 days. You can earn Wrangler Points or complete special actions to claim the corresponding rewards.
+
+● The event features two modes: Co-Op Mode and Fish-Off Mode. In both modes, you can obtain Wrangler Points.
+
+● Co-Op Mode: A certain amount of action points are provided at the start of the challenge and players have to work together to catch fish.
+
+● Fish-Off Mode: Based on their current accumulated action points, players will compete against evenly-matched anglers to decide who the better fish-wrangler is.
+
+-----
+
 # [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/21000.md)
 ## Event Wish - Chanson of Many Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/57c98a056786904ff200eb0856180cf8_2721514544911797564.jpg)
@@ -562,40 +596,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● Finish a stage within 30s to clear it and continue to challenge the next one.
 
 ● If one of your Friends clears Floor 20 in a single-player challenge, you can receive a Boon of Friendship from them.
-
------
-
-# [Version Details - What's New ](archive/21038.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓<t class="t_gl" contenteditable="false">2025/02/27 16:15</t> Update Details〓
-
-Updates resources related to subsequent events.
-
-〓<t class="t_gl" contenteditable="false">2025/02/20 16:10</t> Update Details〓
-
-- Fixes an issue whereby after changing the "Pick Up/Interact" key to "Left Shift," the interaction key for the "A Little Fox's Daydream" gameplay in the "Enchanted Tales of the Mikawa Festival" event could not be used.
-
-Travelers affected by the above issue can log out via the Paimon Menu and close the game, then log in again to resolve the issue. After completing the relevant resource download at the login screen, repeat the process of exiting and logging back into the game to resolve the issue.
-
-- Fixes an issue whereby under specific circumstances, when near a wall and triggering Nightsoul Transmission to switch to the character Xilonen, Xilonen would fail to climb walls while in the Nightsoul's Blessing state.
-
-〓<t class="t_gl" contenteditable="false">2025/02/14 17:30</t> Update Details〓
-
-Fixes an issue whereby after changing the "Pick Up/Interact" key setting, the interaction key for the "A Little Fox's Daydream" gameplay in the "Enchanted Tales of the Mikawa Festival" event will be displayed as an incorrect key.
-
-〓<t class="t_gl" contenteditable="false">2025/02/13 16:20</t> Update Details〓
-
-Fixes an issue whereby Hu Tao's wrist did not display correctly while performing a Charged Attack when wearing the outfit "Cherries Snow-Laden."
-
-〓<t class="t_gl" contenteditable="false">2025/02/12 22:15</t> Update Details〓
-
-Fixes an issue whereby in certain situations, clicking on an icon on the map would prevent the information bar on the right side of the map interface from displaying, resulting in the inability to use functions such as teleportation and tracking.
 
 -----
 
