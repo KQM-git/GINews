@@ -597,36 +597,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
-# ["Realm of Tempered Valor" Event: Conquer Trials to Obtain a Namecard](archive/20998.md)
-## Realm of Tempered Valor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/16b0fc5903cc50477b1c8c1f677865ed_8155685571586502604.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/02/24 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/10 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/f3a4c6de4415b1c379cd257b6b74a0be_2913886315757810620.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● From the first day of the event, a new challenge will unlock every day. A total of five challenges will be unlocked.
-
-● Every challenge comprises 25 floors' worth of combat stages. The Level and HP of opponents within each challenge will increase as you ascend from floor to floor.
-
-● Finish a stage within 30s to clear it and continue to challenge the next one.
-
-● If one of your Friends clears Floor 20 in a single-player challenge, you can receive a Boon of Friendship from them.
-
------
-
 # ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/20837.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/a066dbf310d6c4a5e2c22b1f8324b732_3665361427247703676.jpg)
