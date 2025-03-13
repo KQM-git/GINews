@@ -1,35 +1,3 @@
-# ["Reel Ad-Venture" Event: Creative Advertisement Edits](archive/21003.md)
-## Reel Ad-Venture
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/335bc4f74bdf93c4ee3e94934d651045_537707605014959419.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/03/12 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/80e8b5ad1b13c3edb696a3bc6d5ab4b3_4652939758327085025.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the World Quest "Tatara Tales" first to get the best experience from this event.
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
-
-● Following the synopses, you must select appropriate assets for each shot, then compile them into a complete sequence and finish editing. Each asset can be used a maximum of 3 times for the same script.
-
-● By editing in line with the Synopsis, you can earn Rave reviews.
-
-● Once you've received a Rave review, you'll no longer be restricted by the script limitations, enabling you to decide the total number of assets you use and experiment freely by creating Final Cuts of different lengths.
-
------
-
 # ["Moonlight Amidst Dreams" Version 5.4 Update Details](archive/20988.md)
 ## Version 5.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/a9715a636ef3b59c0e7fc81ff0ab4731_3821635496197143143.jpg)
@@ -489,6 +457,38 @@ Fixes an issue whereby in certain situations, clicking on an icon on the map wou
 
 -----
 
+# ["Reel Ad-Venture" Event: Creative Advertisement Edits](archive/21003.md)
+## Reel Ad-Venture
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/335bc4f74bdf93c4ee3e94934d651045_537707605014959419.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/03/12 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/80e8b5ad1b13c3edb696a3bc6d5ab4b3_4652939758327085025.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the World Quest "Tatara Tales" first to get the best experience from this event.
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
+
+● Following the synopses, you must select appropriate assets for each shot, then compile them into a complete sequence and finish editing. Each asset can be used a maximum of 3 times for the same script.
+
+● By editing in line with the Synopsis, you can earn Rave reviews.
+
+● Once you've received a Rave review, you'll no longer be restricted by the script limitations, enabling you to decide the total number of assets you use and experiment freely by creating Final Cuts of different lengths.
+
+-----
+
 # ["Invasive Fish Wrangler" Event: Capture Invasive Fish](archive/21002.md)
 ## Invasive Fish Wrangler
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/1cda836c2019234d5f77ba9d8ac16759_8949709102362486292.jpg)
@@ -605,6 +605,26 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21055.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/20837.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/a066dbf310d6c4a5e2c22b1f8324b732_3665361427247703676.jpg)
@@ -643,26 +663,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21055.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Travelers' Tales: Anthology Chapter" Event: Visit Your Companions and Chat About Interesting Anecdotes](archive/20996.md)
 ## Travelers' Tales: Anthology Chapter
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/cce56ff3e92964effb2165f152cd1ff5_8973446315910257985.jpg)
@@ -690,38 +690,6 @@ And complete Archon Quest Chapter I: Act III "A New Star Approaches"
 ● Complete the specified number of anecdotes to claim rewards in the event interface.
 
 ※ There is a limit to the number of anecdotes you can experience each day. If the map no longer shows any companions to visit, try coming back another day.
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version 5.4
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
@@ -771,6 +739,38 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 5.4
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
 # ["Wondrous Reverie" Event Details](archive/20995.md)
 ## Wondrous Reverie
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/f7c6042a3b30eee9c3cf3d2ca394c386_799654040771614672.jpg)
@@ -792,6 +792,30 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/03/24 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# [Game Survey](archive/20708.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
 
 -----
 
@@ -820,30 +844,6 @@ Progress through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojou
 ※ You can only invite "Mottled Gold Yet Unsmelted" Kachina (Geo) once while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn." The event page will close once you have invited the character.
 
 ※ Before you invite the character, the event page will be available before the Version 6.0 update. After the Version 6.0 update, the event page will close. Then you will no longer be able to use the "Quick Start" function via the event page, but you can still invite "Mottled Gold Yet Unsmelted" Kachina (Geo) while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn."
-
------
-
-# [Game Survey](archive/20708.md)
-## Complete the Survey and Get Primogems
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
-
-Dear Travelers,
-
-A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-F2sx-seXZlJUP2c9jil8J2cTjdwzMiei0cTdTLaIK&game_biz=hk4e_global&surveyId=25452&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
