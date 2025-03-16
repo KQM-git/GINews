@@ -525,38 +525,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Invasive Fish Wrangler" Event: Capture Invasive Fish](archive/21002.md)
-## Invasive Fish Wrangler
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/1cda836c2019234d5f77ba9d8ac16759_8949709102362486292.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/03/05 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/643050ef878f6a1a6313ead97d697e99_4111733177228003859.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● During the event, you must use action points to throw fishing nets in order to catch various types of invasive fish.
-
-● During the first 5 days of the event, the limit on the max amount of Wrangler Points you can earn will increase by 1,000 every 2 days. You can earn Wrangler Points or complete special actions to claim the corresponding rewards.
-
-● The event features two modes: Co-Op Mode and Fish-Off Mode. In both modes, you can obtain Wrangler Points.
-
-● Co-Op Mode: A certain amount of action points are provided at the start of the challenge and players have to work together to catch fish.
-
-● Fish-Off Mode: Based on their current accumulated action points, players will compete against evenly-matched anglers to decide who the better fish-wrangler is.
-
------
-
 # [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/21000.md)
 ## Event Wish - Chanson of Many Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/57c98a056786904ff200eb0856180cf8_2721514544911797564.jpg)
@@ -658,44 +626,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/20837.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/a066dbf310d6c4a5e2c22b1f8324b732_3665361427247703676.jpg)
-
-〓Special Rules〓
-
-● In this edition of Heated Battle Mode, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
-
-● Character Cards now have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
-
-● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the Character Cards.
-
-● After the battle begins, characters from both sides will automatically take actions in order from left to right.
-
-● In this edition of Heated Battle Mode, the effects of certain Elemental reactions and cards will be adjusted.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/02/21 10:00</t> - <t class="t_lc" contenteditable="false">2025/03/17 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_1684210566592387154.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in Genius Invokation TCG duels under the special rules of "Heated Battle Mode."
 
 -----
 
