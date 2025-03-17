@@ -481,18 +481,6 @@ Fixes an issue whereby in certain situations, clicking on an icon on the map wou
 
 -----
 
-# [A First Look at Version 5.5 "Day of the Flame's Return"!](archive/21061.md)
-## Genshin Impact Version 5.5 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/05/6cb83eca36c9f07a3b8ad3c9806296fe_7661278391493111281.jpg)
-
-Dear Traveler,
-
-Here's a first look at Version 5.5 "Day of the Flame's Return"!
-
-[Click to check out the latest info on Version 5.5 "Day of the Flame's Return"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_MfTXnpAAy6&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
------
-
 # ["Reel Ad-Venture" Event: Creative Advertisement Edits](archive/21003.md)
 ## Reel Ad-Venture
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/335bc4f74bdf93c4ee3e94934d651045_537707605014959419.jpg)
@@ -606,6 +594,18 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [A First Look at Version 5.5 "Day of the Flame's Return"!](archive/21061.md)
+## Genshin Impact Version 5.5 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/05/6cb83eca36c9f07a3b8ad3c9806296fe_7661278391493111281.jpg)
+
+Dear Traveler,
+
+Here's a first look at Version 5.5 "Day of the Flame's Return"!
+
+[Click to check out the latest info on Version 5.5 "Day of the Flame's Return"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_MfTXnpAAy6&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
 -----
 
