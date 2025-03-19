@@ -419,26 +419,6 @@ Fixes an issue whereby under certain circumstances, a rock near the "Coatepec Mo
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/03/17 04:00</t> - <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [Version Details - What's New ](archive/21038.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -478,6 +458,26 @@ Fixes an issue whereby Hu Tao's wrist did not display correctly while performing
 〓<t class="t_gl" contenteditable="false">2025/02/12 22:15</t> Update Details〓
 
 Fixes an issue whereby in certain situations, clicking on an icon on the map would prevent the information bar on the right side of the map interface from displaying, resulting in the inability to use functions such as teleportation and tracking.
+
+-----
+
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/03/17 04:00</t> - <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
+
+〓Eligibility〓
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+〓Event Details〓
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
@@ -569,34 +569,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Splendor of Tranquil Waters (Sword) and Cashflow Supervision (Catalyst)!](archive/21001.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/686b4e8b68ddd84c21243a31023aae13_2605793345326987447.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/03/04 18:00</t> —  <t class="t_lc" contenteditable="false">2025/03/25 14:59</t> | Splendor of Tranquil Waters (Sword)  Cashflow Supervision (Catalyst) | Favonius Sword (Sword)
-^ | ^ | Sacrificial Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Splendor of Tranquil Waters (Sword) and Cashflow Supervision (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons Favonius Sword (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Splendor of Tranquil Waters (Sword) or Cashflow Supervision (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [A First Look at Version 5.5 "Day of the Flame's Return"!](archive/21061.md)
 ## Genshin Impact Version 5.5 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/05/6cb83eca36c9f07a3b8ad3c9806296fe_7661278391493111281.jpg)
@@ -629,33 +601,31 @@ Permanent
 
 -----
 
-# ["Travelers' Tales: Anthology Chapter" Event: Visit Your Companions and Chat About Interesting Anecdotes](archive/20996.md)
-## Travelers' Tales: Anthology Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/cce56ff3e92964effb2165f152cd1ff5_8973446315910257985.jpg)
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Splendor of Tranquil Waters (Sword) and Cashflow Supervision (Catalyst)!](archive/21001.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/686b4e8b68ddd84c21243a31023aae13_2605793345326987447.jpg)
 
-〓Event Duration〓
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
-After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/03/25 14:59</t>
+〓Event Wish Details〓
 
-〓Event Rewards〓
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/03/04 18:00</t> —  <t class="t_lc" contenteditable="false">2025/03/25 14:59</t> | Splendor of Tranquil Waters (Sword)  Cashflow Supervision (Catalyst) | Favonius Sword (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Rust (Bow)
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/0d971ecaf06b3b4fb8d05d5b7c06013e_7965486283741863806.png)
+● During this event wish, the event-exclusive 5-star weapons Splendor of Tranquil Waters (Sword) and Cashflow Supervision (Catalyst) will receive a huge drop-rate boost!
 
-〓Eligibility〓
+● During this event wish, the 4-star weapons Favonius Sword (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
 
-Adventure Rank 28 or above
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Splendor of Tranquil Waters (Sword) or Cashflow Supervision (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
 
-And complete Archon Quest Chapter I: Act III "A New Star Approaches"
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
-※ Complete Archon Quests Interlude Chapter: Act I "The Crane Returns on the Wind" and Chapter II: Act III "Omnipresence Over Mortals," and the Story Quests "Grus Serena Chapter: Act I" and "Dracaena Somnolenta Chapter: Act I" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, you can locate your companions on the map, visit them in different regions, and listen as they share tales from their daily lives, or while away a lazy day by their sides.
-
-● Complete the specified number of anecdotes to claim rewards in the event interface.
-
-※ There is a limit to the number of anecdotes you can experience each day. If the map no longer shows any companions to visit, try coming back another day.
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -702,6 +672,36 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 (Check out the party lineup recommendations for the new season's Spiral Abyss.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
+# ["Travelers' Tales: Anthology Chapter" Event: Visit Your Companions and Chat About Interesting Anecdotes](archive/20996.md)
+## Travelers' Tales: Anthology Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/cce56ff3e92964effb2165f152cd1ff5_8973446315910257985.jpg)
+
+〓Event Duration〓
+
+After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/03/25 14:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/0d971ecaf06b3b4fb8d05d5b7c06013e_7965486283741863806.png)
+
+〓Eligibility〓
+
+Adventure Rank 28 or above
+
+And complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+※ Complete Archon Quests Interlude Chapter: Act I "The Crane Returns on the Wind" and Chapter II: Act III "Omnipresence Over Mortals," and the Story Quests "Grus Serena Chapter: Act I" and "Dracaena Somnolenta Chapter: Act I" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, you can locate your companions on the map, visit them in different regions, and listen as they share tales from their daily lives, or while away a lazy day by their sides.
+
+● Complete the specified number of anecdotes to claim rewards in the event interface.
+
+※ There is a limit to the number of anecdotes you can experience each day. If the map no longer shows any companions to visit, try coming back another day.
 
 -----
 
