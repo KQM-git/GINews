@@ -485,58 +485,6 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/03/17 04:00</t> - <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# ["Reel Ad-Venture" Event: Creative Advertisement Edits](archive/21003.md)
-## Reel Ad-Venture
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/335bc4f74bdf93c4ee3e94934d651045_537707605014959419.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/03/12 10:00</t> – <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/80e8b5ad1b13c3edb696a3bc6d5ab4b3_4652939758327085025.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the World Quest "Tatara Tales" first to get the best experience from this event.
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
-
-● Following the synopses, you must select appropriate assets for each shot, then compile them into a complete sequence and finish editing. Each asset can be used a maximum of 3 times for the same script.
-
-● By editing in line with the Synopsis, you can earn Rave reviews.
-
-● Once you've received a Rave review, you'll no longer be restricted by the script limitations, enabling you to decide the total number of assets you use and experiment freely by creating Final Cuts of different lengths.
-
------
-
 # [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/21000.md)
 ## Event Wish - Chanson of Many Waters
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/57c98a056786904ff200eb0856180cf8_2721514544911797564.jpg)
@@ -758,30 +706,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# ["Wondrous Reverie" Event Details](archive/20995.md)
-## Wondrous Reverie
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/f7c6042a3b30eee9c3cf3d2ca394c386_799654040771614672.jpg)
-
-Travelers can earn rich rewards in "Wondrous Reverie" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Reverie" and Furnishing Blueprint "Sweet Dreams."
-
-〓Event Duration〓
-
-After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/03/24 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/03/24 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
