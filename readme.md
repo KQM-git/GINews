@@ -1,3 +1,46 @@
+# [Version 5.5 Update Maintenance Preview](archive/21067.md)
+## Version 5.5 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/03/c941908b14dcaf160083796a10645f89_6996385689272608266.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2025/03/26 06:00</t>. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please stay tuned to related game update information.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+Pre-installation is now available on mobile, PC, and PlayStation®.
+
+Additionally, this update introduces support for the pre-download function on Xbox, which has been enabled simultaneously. To access this feature, open the system main menu, select "My games & apps," select the "Manage" tab, and finally select the "Updates" page. If the page shows that the Genshin Impact pre-download is available, it means your device has received the pre-download notification. Travelers can then select the Genshin Impact game on this page to complete the pre-download.
+
+If the pre-download prompt does not appear on the page, Travelers can wait for a while and then return to the page to check; or try restarting their device to receive the pre-download update notification.
+
+〓Update Maintenance Duration〓
+
+Update maintenance begins at <t class="t_gl" contenteditable="false">2025/03/26 06:00</t> and is estimated to take 5 hours.
+
+〓Update Maintenance Compensation〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Update Maintenance Compensation Eligibility〓
+
+Maintenance Compensation: Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2025/03/26 06:00</t>.
+
+Compensation must be claimed before the end of Version 5.5.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2025/03/26 07:00</t>.
+
+<details open="true">
+<summary>Summary of Update Methods</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/03/11/6a422ae2be4f5a53ec82e1e4c72991b6_8709402559341004025.jpg)
+
+</details>
+
+-----
+
 # ["Moonlight Amidst Dreams" Version 5.4 Update Details](archive/20988.md)
 ## Version 5.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/a9715a636ef3b59c0e7fc81ff0ab4731_3821635496197143143.jpg)
