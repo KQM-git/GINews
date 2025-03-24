@@ -41,6 +41,204 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [Event Wish "Cornucopia of Contention" - Boosted Drop Rate for "Strength in Serenity" Varesa (Electro)!](archive/21039.md)
+## Event Wish - Cornucopia of Contention
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/c7399ece4f644bfb0666bd193d51ccb3_4251447303676231350.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.5 update  —  <t class="t_lc" contenteditable="false">2025/04/15 17:59</t> | "Strength in Serenity" Varesa (Electro) | "Tempered in Molten Stone" Iansan (Electro)
+^ | ^ | "Executor of Justice" Chevreuse (Pyro)
+^ | ^ | "Leonine Vanguard" Gaming (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Strength in Serenity" Varesa (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Executor of Justice" Chevreuse (Pyro), and "Leonine Vanguard" Gaming (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Tempered in Molten Stone" Iansan (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "The Crane Soars Skyward" - Boosted Drop Rate for "Passerine Herald" Xianyun (Anemo)!](archive/21040.md)
+## Event Wish "The Crane Soars Skyward"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/a8bd9dbeab45af4dcbe5e29fc7a067d6_569474837074220825.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.5 update  —  <t class="t_lc" contenteditable="false">2025/04/15 17:59</t> | "Passerine Herald" Xianyun (Anemo) | "Tempered in Molten Stone" Iansan (Electro)
+^ | ^ | "Executor of Justice" Chevreuse (Pyro)
+^ | ^ | "Leonine Vanguard" Gaming (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Passerine Herald" Xianyun (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Executor of Justice" Chevreuse (Pyro), and "Leonine Vanguard" Gaming (Pyro) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Tempered in Molten Stone" Iansan (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Vivid Notions (Catalyst) and Crane's Echoing Call (Catalyst)!](archive/21041.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/4aa399bbace81fe4f909f42f635aab2d_498854876480637042.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 5.5 update  —  <t class="t_lc" contenteditable="false">2025/04/15 17:59</t> | Vivid Notions (Catalyst)  Crane's Echoing Call (Catalyst) | Sturdy Bone (Sword)
+^ | ^ | Fruitful Hook (Claymore)
+^ | ^ | Mountain-Bracing Bolt (Polearm)
+^ | ^ | Waveriding Whirl (Catalyst)
+^ | ^ | Flower-Wreathed Feathers (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Vivid Notions (Catalyst) and Crane's Echoing Call (Catalyst) will receive a huge drop-rate boost!
+
+● During the event, the event-exclusive 4-star weapons Sturdy Bone (Sword), Fruitful Hook (Claymore), Mountain-Bracing Bolt (Polearm), Waveriding Whirl (Catalyst) and Flower-Wreathed Feathers (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Vivid Notions (Catalyst) or Crane's Echoing Call (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Complete the Tribal Chronicles Quest Within the "Mushroom Realm Mystery" Event Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21042.md)
+## Mushroom Realm Mystery
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/e0a8cc3268bc9e8c10957d88da88e9c5_5453931344744601712.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock "Tribal Chronicles: Collective of Plenty."
+
+Complete the quest within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Natlan regional specialties, and other rewards.
+
+〓Quest Start Time〓
+
+Act I & Act II: After the Version 5.5 Update
+
+Act III: After the Version 5.5 update
+
+〓Specified Duration〓
+
+After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/15 17:59</t>
+
+〓Quest Unlock Criteria〓
+
+Act I and Act II:
+
+Adventure Rank 28 or above
+
+Complete "Pilgrimage of the Return of the Sacred Flame" in the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn"
+
+Act III:
+
+Adventure Rank 28 or above
+
+Complete Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection"
+
+The three acts must be experienced in sequence. You can only unlock the next act after completing the previous one and meeting the corresponding unlock criteria.
+
+※ During the reward collection period, if you have completed Acts I and II but haven't met the requirements yet, you can use the "Quick Start" function to unlock Act III.
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn" and continue progressing up to the latest Archon Quest in the current version.
+
+-----
+
+# ["The Sacred Mountain and Sanctified Land" Event: Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21043.md)
+## The Sacred Mountain and Sanctified Land
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/12/01e4affc46dd4bb62688aa8998304f79_8079145875989756532.jpg)
+
+New areas in Natlan including Atocpan and Ancient Sacred Mountain will be available after the Version 5.5 update.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/06/17 14:59</t>
+
+-----
+
+# ["Floral Odyssey" Event Details](archive/21045.md)
+## Floral Odyssey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/b3db743de1ad5384a17fe7c52c3a2531_3715139273539408026.jpg)
+
+Travelers can earn rich rewards in "Floral Odyssey" during the event. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Blooming Glory" and Furnishing Blueprint "Model Dish: Saurus Crackers."
+
+〓Event Duration〓
+
+After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/05/05 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/05/05 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 39 Available for a Limited Time](archive/21044.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/185cd41da26f79132f6ff883c8b94d91_7202220738405254432.jpg)
+
+Round 39 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/09 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/09 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
 # ["Moonlight Amidst Dreams" Version 5.4 Update Details](archive/20988.md)
 ## Version 5.4 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/20/a9715a636ef3b59c0e7fc81ff0ab4731_3821635496197143143.jpg)
@@ -525,6 +723,38 @@ Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction S
 Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 5.5
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
