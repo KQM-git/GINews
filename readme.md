@@ -734,18 +734,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [A First Look at Version 5.5 "Day of the Flame's Return"!](archive/21061.md)
-## Genshin Impact Version 5.5 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/05/6cb83eca36c9f07a3b8ad3c9806296fe_7661278391493111281.jpg)
-
-Dear Traveler,
-
-Here's a first look at Version 5.5 "Day of the Flame's Return"!
-
-[Click to check out the latest info on Version 5.5 "Day of the Flame's Return"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_MfTXnpAAy6&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21055.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -763,52 +751,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# [View the Updated Interactive Map and Other Tools!](archive/21009.md)
-## The Genshin Impact Version 5.4 Tools Update Is Here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/10/67180751b3da1c89ab969a4403ab18c4_46894715936287973.png)
-
-Dear Traveler,
-
-Genshin Impact Version 5.4 is now live, and the clinical psychologist of Aisa Bathhouse, Yumemizuki Mizuki, has made her debut! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through the new version.
-
-| Teyvat Interactive Map Update: Adds recommended Ascension Material harvest routes for the new character
-
-Recommended Ascension Material harvest routes for the new character Yumemizuki Mizuki in Version 5.4 have been updated.
-
-[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-
-| Character Building Guides: Adds the building guides for the drop-boosted characters in Version 5.4
-
-The building guides for the new character Yumemizuki Mizuki and characters that appear in Version 5.4's Event Wishes are now available.
-
-Click to view all-in-one image guides on Character Level-Up Materials, building tips, team composition recommendations, Artifact and Weapon suggestions, and more. Building characters has never been easier!
-
-(Building tips are selected from popular community guides and do not represent official views.)
-
-[>> Click to View Character Building Guides <<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| HoYoWiki: Adds new character information of Version 5.4 and top-quality UGC content
-
-With the update of Version 5.4, the Wiki now includes basic information and voice lines of Yumemizuki Mizuki.
-
-Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tuned!
-
-(HoYoWiki is collectively created by HoYoLAB editors and does not represent official views.)
-
-[>> Click to Go to HoYoWiki <<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new character Yumemizuki Mizuki
-
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new character Yumemizuki Mizuki
-
-(Check out the party lineup recommendations for the new season's Spiral Abyss.)
-
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
 
 -----
 
