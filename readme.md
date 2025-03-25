@@ -734,62 +734,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [Event Wish "Chanson of Many Waters" - Boosted Drop Rate for "Endless Solo of Solitude" Furina (Hydro)!](archive/21000.md)
-## Event Wish - Chanson of Many Waters
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/57c98a056786904ff200eb0856180cf8_2721514544911797564.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/03/04 18:00</t> —  <t class="t_lc" contenteditable="false">2025/03/25 14:59</t> | "Endless Solo of Solitude" Furina (Hydro) | "Lens of Verity" Charlotte (Cryo)
-^ | ^ | "Frozen Ardor" Chongyun (Cryo)
-^ | ^ | "Coordinates of Clear Frost" Mika (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Endless Solo of Solitude" Furina (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Lens of Verity" Charlotte (Cryo), "Frozen Ardor" Chongyun (Cryo), and "Coordinates of Clear Frost" Mika (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Tempestuous Destiny" - Boosted Drop Rate for "Emissary of Solitary Iniquity" Wriothesley (Cryo)!](archive/20999.md)
-## Event Wish - Tempestuous Destiny
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/d1e4a3d9c9ebe74a6ab3f433e7e6026c_5630147225967522055.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/03/04 18:00</t> —  <t class="t_lc" contenteditable="false">2025/03/25 14:59</t> | "Emissary of Solitary Iniquity" Wriothesley (Cryo) | "Lens of Verity" Charlotte (Cryo)
-^ | ^ | "Frozen Ardor" Chongyun (Cryo)
-^ | ^ | "Coordinates of Clear Frost" Mika (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Emissary of Solitary Iniquity" Wriothesley (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Lens of Verity" Charlotte (Cryo), "Frozen Ardor" Chongyun (Cryo), and "Coordinates of Clear Frost" Mika (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [A First Look at Version 5.5 "Day of the Flame's Return"!](archive/21061.md)
 ## Genshin Impact Version 5.5 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/05/6cb83eca36c9f07a3b8ad3c9806296fe_7661278391493111281.jpg)
@@ -819,34 +763,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Splendor of Tranquil Waters (Sword) and Cashflow Supervision (Catalyst)!](archive/21001.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/17/686b4e8b68ddd84c21243a31023aae13_2605793345326987447.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/03/04 18:00</t> —  <t class="t_lc" contenteditable="false">2025/03/25 14:59</t> | Splendor of Tranquil Waters (Sword)  Cashflow Supervision (Catalyst) | Favonius Sword (Sword)
-^ | ^ | Sacrificial Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Splendor of Tranquil Waters (Sword) and Cashflow Supervision (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons Favonius Sword (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Splendor of Tranquil Waters (Sword) or Cashflow Supervision (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -893,36 +809,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 (Check out the party lineup recommendations for the new season's Spiral Abyss.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
------
-
-# ["Travelers' Tales: Anthology Chapter" Event: Visit Your Companions and Chat About Interesting Anecdotes](archive/20996.md)
-## Travelers' Tales: Anthology Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/21/cce56ff3e92964effb2165f152cd1ff5_8973446315910257985.jpg)
-
-〓Event Duration〓
-
-After the Version 5.4 update – <t class="t_lc" contenteditable="false">2025/03/25 14:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/08/0d971ecaf06b3b4fb8d05d5b7c06013e_7965486283741863806.png)
-
-〓Eligibility〓
-
-Adventure Rank 28 or above
-
-And complete Archon Quest Chapter I: Act III "A New Star Approaches"
-
-※ Complete Archon Quests Interlude Chapter: Act I "The Crane Returns on the Wind" and Chapter II: Act III "Omnipresence Over Mortals," and the Story Quests "Grus Serena Chapter: Act I" and "Dracaena Somnolenta Chapter: Act I" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, you can locate your companions on the map, visit them in different regions, and listen as they share tales from their daily lives, or while away a lazy day by their sides.
-
-● Complete the specified number of anecdotes to claim rewards in the event interface.
-
-※ There is a limit to the number of anecdotes you can experience each day. If the map no longer shows any companions to visit, try coming back another day.
 
 -----
 
