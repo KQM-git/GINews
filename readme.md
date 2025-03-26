@@ -603,6 +603,20 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [Version Details - What's New ](archive/21094.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2025/03/26 21:25</t> Update Details〓
+
+Fixes an issue whereby the game would crash abnormally when launched if the in-game language on PC was set to Thai after the Version 5.5 update.
+
+-----
+
 # [View the Updated Interactive Map and Other Tools!](archive/21057.md)
 ## The Genshin Impact Version 5.5 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/25/5d82477e59e0f6d9e7c9340cfa20f6ac_6843245133442585719.png)
