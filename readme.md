@@ -603,6 +603,54 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [View the Updated Interactive Map and Other Tools!](archive/21057.md)
+## The Genshin Impact Version 5.5 Tools Update Is Here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/25/5d82477e59e0f6d9e7c9340cfa20f6ac_6843245133442585719.png)
+
+Dear Traveler,
+
+Genshin Impact Version 5.5 is now live, featuring the renowned Natlan fitness coach Iansan and her disciple Varesa~ Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through the new version.
+
+| Teyvat Interactive Map Update: Adds the new Natlan regions and corresponding location pins!
+
+New areas Atocpan and Ancient Sacred Mountain have become available in Version 5.5. Pins and other information for said areas will also be added to the Interactive Map.
+
+Recommended Ascension Material harvest routes for new characters Varesa and Iansan have been updated.
+
+[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Character Building Guides: Adds the building guides for the drop-boosted characters in Version 5.5
+
+The building guides for the new characters Varesa, Iansan, and characters that appear in Version 5.5's Event Wishes are now available.
+
+Click to view all-in-one image guides on Character Level-Up Materials, building tips, team composition recommendations, Artifact and Weapon suggestions, and more. Building characters has never been easier!
+
+(Building tips are selected from popular community guides and do not represent official views.)
+
+[>> Click to View Character Building Guides <<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| HoYoWiki: Adds new character information of Version 5.5 and top-quality UGC content
+
+With the update of Version 5.5, the Wiki now includes basic information and voice lines of Varesa and Iansan.
+
+Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tuned!
+
+(HoYoWiki is collectively created by HoYoLAB editors and does not represent official views.)
+
+[>> Click to Go to HoYoWiki <<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Varesa and Iansan
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Varesa and Iansan
+
+(Check out the party lineup recommendations for the new season's Spiral Abyss.)
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
 # [Event Wish "Cornucopia of Contention" - Boosted Drop Rate for "Strength in Serenity" Varesa (Electro)!](archive/21039.md)
 ## Event Wish - Cornucopia of Contention
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/c7399ece4f644bfb0666bd193d51ccb3_4251447303676231350.jpg)
