@@ -567,6 +567,42 @@ Fixes an issue whereby the head model of certain "Sauroform Tribal Warriors" wou
 
 -----
 
+# ["Tournament of Glory in Bloom" Event: Take Part to Invite "Shadow of the Night-Wind" Ororon (Electro)](archive/21046.md)
+## "Tournament of Glory in Bloom" Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/0fd771a441eb117717ae7f9ead135b54_7344579089682613676.jpg)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/03/28 10:00</t> | <t class="t_lc" contenteditable="false">2025/04/14 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2025/03/30 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2025/04/01 04:00</t> | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/20/d0b161cce8fa25b4b8a06d61a0c47fb4_7359644399151934621.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Mavuika's Story Quest "Sol Invictus Chapter: Act I" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event period, the "Bloomflower Trials" and "Saurian Treasure Seeker" gameplay modes will be available, with event stages unlocking progressively throughout different phases of the event.
+
+● During the "Bloomflower Trials" event, compete in war games between the six tribes where you can test your offensive and defensive skills. Fight shoulder to shoulder and achieve various objectives to attain honor and triumph.
+
+● In "Saurian Treasure Seeker," you must plan the route properly, thus leading the saurian whelps onward to accomplish the stages' treasure hunt objectives.
+
+● Complete the event's various gameplay modes to invite "Shadow of the Night-Wind" Ororon (Electro), as well as obtain Primogems, Crown of Insight and other rewards.
+
+-----
+
 # [Event Wish "Cornucopia of Contention" - Boosted Drop Rate for "Strength in Serenity" Varesa (Electro)!](archive/21039.md)
 ## Event Wish - Cornucopia of Contention
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/c7399ece4f644bfb0666bd193d51ccb3_4251447303676231350.jpg)
