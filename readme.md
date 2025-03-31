@@ -567,42 +567,6 @@ Fixes an issue whereby the head model of certain "Sauroform Tribal Warriors" wou
 
 -----
 
-# ["Tournament of Glory in Bloom" Event: Take Part to Invite "Shadow of the Night-Wind" Ororon (Electro)](archive/21046.md)
-## "Tournament of Glory in Bloom" Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/0fd771a441eb117717ae7f9ead135b54_7344579089682613676.jpg)
-
-〓Event Duration〓
-
-Event Content | Event Content | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/03/28 10:00</t> | <t class="t_lc" contenteditable="false">2025/04/14 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2025/03/30 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2025/04/01 04:00</t> | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/20/d0b161cce8fa25b4b8a06d61a0c47fb4_7359644399151934621.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Mavuika's Story Quest "Sol Invictus Chapter: Act I" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event period, the "Bloomflower Trials" and "Saurian Treasure Seeker" gameplay modes will be available, with event stages unlocking progressively throughout different phases of the event.
-
-● During the "Bloomflower Trials" event, compete in war games between the six tribes where you can test your offensive and defensive skills. Fight shoulder to shoulder and achieve various objectives to attain honor and triumph.
-
-● In "Saurian Treasure Seeker," you must plan the route properly, thus leading the saurian whelps onward to accomplish the stages' treasure hunt objectives.
-
-● Complete the event's various gameplay modes to invite "Shadow of the Night-Wind" Ororon (Electro), as well as obtain Primogems, Crown of Insight and other rewards.
-
------
-
 # [Version Details - What's New ](archive/21094.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -676,6 +640,42 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 (Check out the party lineup recommendations for the new season's Spiral Abyss.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
+# ["Tournament of Glory in Bloom" Event: Take Part to Invite "Shadow of the Night-Wind" Ororon (Electro)](archive/21046.md)
+## "Tournament of Glory in Bloom" Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/0fd771a441eb117717ae7f9ead135b54_7344579089682613676.jpg)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/03/28 10:00</t> | <t class="t_lc" contenteditable="false">2025/04/14 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2025/03/30 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2025/04/01 04:00</t> | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/20/d0b161cce8fa25b4b8a06d61a0c47fb4_7359644399151934621.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Mavuika's Story Quest "Sol Invictus Chapter: Act I" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event period, the "Bloomflower Trials" and "Saurian Treasure Seeker" gameplay modes will be available, with event stages unlocking progressively throughout different phases of the event.
+
+● During the "Bloomflower Trials" event, compete in war games between the six tribes where you can test your offensive and defensive skills. Fight shoulder to shoulder and achieve various objectives to attain honor and triumph.
+
+● In "Saurian Treasure Seeker," you must plan the route properly, thus leading the saurian whelps onward to accomplish the stages' treasure hunt objectives.
+
+● Complete the event's various gameplay modes to invite "Shadow of the Night-Wind" Ororon (Electro), as well as obtain Primogems, Crown of Insight and other rewards.
 
 -----
 
@@ -847,36 +847,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 39 Available for a Limited Time](archive/21044.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/185cd41da26f79132f6ff883c8b94d91_7202220738405254432.jpg)
-
-Round 39 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/09 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/09 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [A "Tranquil" Day web event is now available! Participate to earn Primogems!](archive/21064.md)
 ## A "Tranquil" Day — Genshin Impact Web Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/19/63642036062bac515e8a24c462b7a0f6_222461824139126658.jpg)
@@ -913,6 +883,56 @@ More details about the rules of the event can be found on the event rules on the
 
 -----
 
+# ["Adventurer's Booster Bundles" - Round 39 Available for a Limited Time](archive/21044.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/185cd41da26f79132f6ff883c8b94d91_7202220738405254432.jpg)
+
+Round 39 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/09 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.5 update – <t class="t_lc" contenteditable="false">2025/04/09 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21055.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
@@ -942,26 +962,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21055.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
