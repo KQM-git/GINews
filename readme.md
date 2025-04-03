@@ -575,11 +575,35 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-〓Known Issues〓
+〓<t class="t_gl" contenteditable="false">2025/04/03 11:10</t> Update Details〓
 
-- There is an issue whereby the achievement "Questioning the Heart of Flames" cannot be completed. This issue will be fixed in a future update. Please stay tuned for future notices.
+- Fixes an issue whereby indwelling a Tatankasaurus and ramming opponent(s) would push them back an abnormally large amount under certain circumstances.
 
-- There is an issue whereby indwelling a Tatankasaurus and ramming opponent(s) would push them back an abnormally large amount under certain circumstances. This issue will be fixed in a future update. Please stay tuned for future notices.
+- Fixes an issue under certain circumstances whereby certain puzzle mechanics in Atocpan and Ancient Mountain Path could not be solved.
+
+- Fixes an issue under certain circumstances whereby the Traveler could not enter the quest area when carrying out the quest objective "Make your final decision" during the World Quest "An Omen of Annihilation and the Final Entreaty," and the quest could not continue.
+
+- Fixes an issue under certain circumstances whereby when clicking the "Ley Line Outcrop" icon on the Map screen, incorrect text and buttons would appear in the right sidebar.
+
+- Adjusts the collision effect inflicted on characters by the enemy "Lava Dragon Statue" when it unleashes its Crystal Whirl Slam ability to ensure that the character is not pushed too far during combat.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game, then log in again to resolve the issues.
+
+- Fixes an issue whereby the achievement "Questioning the Heart of Flames" cannot be completed.
+
+Travelers affected by the above issue can log out via the Paimon Menu and close the game, then log in again. After logging in again, teleport to the Teleport Waypoint near the "Ruined Armament Workshop" of the "Ancient Sacred Mountain" to trigger the achievement.
+
+- Fixes an issue under certain circumstances whereby the quest "Someday, We All Must Walk Alone" could not be accepted.
+
+If the Traveler has completed all the prerequisites for this quest, please teleport to the Teleport Waypoint to the westernmost (leftmost) of the "Heart of Force Inversion" located in the "Ancient Sacred Mountain," exit the game via the Paimon Menu, close the game, and log in again to accept the quest.
+
+- Fixes an issue under certain circumstances whereby it was not possible to start the gameplay mode "The Great Buoy Retrieval" by the NPC Kulemana in Atocpan.
+
+Travelers affected by this issue can teleport to the Teleport Waypoint near the NPC Kulemana and exit the game via the Paimon Menu. Close the game, log in again and talk to the NPC to start the relevant gameplay.
+
+- Fixes an issue under certain circumstances whereby the Traveler could not complete the quest objective "Follow the path as it lights up" during the World Quest "The Frozen, Rekindling Land" after entering the quest area, and the quest could not continue.
+
+Travelers affected by the above issue can log out via the Paimon Menu and close the game, then log in again. After logging in again, teleport to the Teleport Waypoint at the "Ancient Sacred Mountain," then teleport to any area of Natlan's open world other than the "Ancient Sacred Mountain," and finally teleport back to the Teleport Waypoint at the "Ancient Sacred Mountain." You may continue to progress in the quest after arriving at the quest destination.
 
 〓<t class="t_gl" contenteditable="false">2025/03/28 20:20</t> Update Details〓
 
