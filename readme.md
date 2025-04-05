@@ -12,6 +12,34 @@
 
 -----
 
+# ["Unlimited Fighting Championship" Event: Underground Combat Challenges](archive/21047.md)
+## Unlimited Fighting Championship
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/a24d08503f6dacd1d32bada5cc522b8c_3519890817035305002.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/04/07 10:00</t> – <t class="t_lc" contenteditable="false">2025/04/21 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/20/206bcc9dabd8354e9eb7107bab57cf6c_2731127427893668615.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● After the start of the event, new stages will be unlocked each day. There are 5 stages in total. Each challenge has two stages: The "first half" and "second half."
+
+● In the "first half" of the battle, Travelers need to level up in the manner specified by the arena rules and try to increase their "Support Level." The higher the Support Level achieved, the greater the buffs available during the second half.
+
+● In the "second half" of the battle, you have a limited time to utilize the special buffs you gained to deplete as many of the boss's HP bars as possible, in order to earn higher-level medals and rewards.
+
+-----
+
 # ["Day of the Flame's Return" Version 5.5 Update Details](archive/21054.md)
 ## Version 5.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/17/e64a289eaa46755bcd48870311fc1ab1_5392209129189863835.jpg)
