@@ -687,6 +687,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓Known Issues〓
+
+There is an issue under certain circumstances whereby there is a chance that Varesa's Passive Talent "Tag-Team Triple Jump!" might fail to take effect after she unleashes her special Elemental Burst, followed by an Elemental Skill and a Plunging Attack. This issue will be fixed in a subsequent update.
+
 〓<t class="t_gl" contenteditable="false">2025/04/10 16:15</t> Update Details〓
 
 Updates resources related to subsequent events.
