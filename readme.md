@@ -1,17 +1,3 @@
-# [Version 5.5 New Content Overview](archive/21082.md)
-## Version 5.5 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/03/25/013294f600761145914d52570b6702ba_7494614722530128843.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/03/25/50ea84776b0a94e451c10f8ed0431af6_2883383273456771833.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/03/25/fb792b1c8d5d63dc7b4c4aefc83e42bd_2246867435571071479.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/03/25/6223cb05be5d7d24dba7348aedd9e1c7_3603833221899116671.jpg)
-
------
-
 # ["Overflowing Favor" Event: Double Drops With Artifacts](archive/21053.md)
 ## Overflowing Favor
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/1ddc986fae163777ccc8bda6967288d0_8798461575237814249.jpg)
