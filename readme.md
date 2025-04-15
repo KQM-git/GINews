@@ -1,25 +1,3 @@
-# ["Overflowing Favor" Event: Double Drops With Artifacts](archive/21053.md)
-## Overflowing Favor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/1ddc986fae163777ccc8bda6967288d0_8798461575237814249.jpg)
-
-During the event, successfully challenge "Domain of Blessing" and consume "Original Resin" to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/04/14 04:00</t> - <t class="t_lc" contenteditable="false">2025/04/21 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and after activating the corresponding "Domain of Blessing"
-
-〓Event Details〓
-
-● During the "Overflowing Favor" event, successfully challenge "Domain of Blessing" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [Event Wish "Forgefire's Blessing" - Boosted Drop Rate for "Ardent Flames Forge the Soul" Xilonen (Geo)!](archive/21048.md)
 ## Event Wish "Forgefire's Blessing"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/868defa0d72ebf13be738b87fb598127_8561659585436084932.jpg)
@@ -101,6 +79,28 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Overflowing Favor" Event: Double Drops With Artifacts](archive/21053.md)
+## Overflowing Favor
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/1ddc986fae163777ccc8bda6967288d0_8798461575237814249.jpg)
+
+During the event, successfully challenge "Domain of Blessing" and consume "Original Resin" to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/04/14 04:00</t> - <t class="t_lc" contenteditable="false">2025/04/21 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and after activating the corresponding "Domain of Blessing"
+
+〓Event Details〓
+
+● During the "Overflowing Favor" event, successfully challenge "Domain of Blessing" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
