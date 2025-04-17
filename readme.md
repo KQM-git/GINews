@@ -699,6 +699,14 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue under certain circumstances whereby there is a chance that Varesa's Passive Talent "Tag-Team Triple Jump!" might fail to take effect after she unleashes her special Elemental Burst, followed by an Elemental Skill and a Plunging Attack. This issue will be fixed in a subsequent update.
 
+〓<t class="t_gl" contenteditable="false">2025/04/17 16:10</t> Update Details〓
+
+Fixes an issue whereby there is a localization error in Traditional Chinese, German, English, Spanish, Indonesian, Italian, Japanese, Portuguese, Thai, Turkish, and Vietnamese in the description of the Genius Invokation TCG Event Card "Elemental Resonance: Soothing Water."
+
+Text before: Choose one of your characters to gain 1 extra Max HP, then all your characters gain 1 Max HP. Heal your active character for 2 HP and all your characters on standby for 1 HP.(You must have at least 2 Hydro characters in your deck to add this card to your deck.)
+
+Text after: Heal your active character for 2 HP and all your characters on standby for 1 HP. (You must have at least 2 Hydro characters in your deck to add this card to your deck.)
+
 〓<t class="t_gl" contenteditable="false">2025/04/14 17:25</t> Update Details〓
 
 Fixes an issue in the event "Unlimited Fighting Championship" whereby the buff "The CD of "Nightsoul Burst" is reduced to 50% of its original duration" for the second half of the "Showdown: Apex Adversary" challenge did not take effect normally.
