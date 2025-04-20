@@ -26,28 +26,6 @@ Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Overflowing Favor" Event: Double Drops With Artifacts](archive/21053.md)
-## Overflowing Favor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/1ddc986fae163777ccc8bda6967288d0_8798461575237814249.jpg)
-
-During the event, successfully challenge "Domain of Blessing" and consume "Original Resin" to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/04/14 04:00</t> - <t class="t_lc" contenteditable="false">2025/04/21 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and after activating the corresponding "Domain of Blessing"
-
-〓Event Details〓
-
-● During the "Overflowing Favor" event, successfully challenge "Domain of Blessing" and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # ["Day of the Flame's Return" Version 5.5 Update Details](archive/21054.md)
 ## Version 5.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/17/e64a289eaa46755bcd48870311fc1ab1_5392209129189863835.jpg)
@@ -687,34 +665,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
-# ["Unlimited Fighting Championship" Event: Underground Combat Challenges](archive/21047.md)
-## Unlimited Fighting Championship
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/11/a24d08503f6dacd1d32bada5cc522b8c_3519890817035305002.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/04/07 10:00</t> – <t class="t_lc" contenteditable="false">2025/04/21 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/20/206bcc9dabd8354e9eb7107bab57cf6c_2731127427893668615.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the start of the event, new stages will be unlocked each day. There are 5 stages in total. Each challenge has two stages: The "first half" and "second half."
-
-● In the "first half" of the battle, Travelers need to level up in the manner specified by the arena rules and try to increase their "Support Level." The higher the Support Level achieved, the greater the buffs available during the second half.
-
-● In the "second half" of the battle, you have a limited time to utilize the special buffs you gained to deplete as many of the boss's HP bars as possible, in order to earn higher-level medals and rewards.
-
------
-
 # [Version Details - What's New ](archive/21094.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -814,38 +764,6 @@ Travelers can also open the link via Paimon Menu > Mail > Events Survey > Survey
 Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20748.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/84e8646fe8e31af9058a8a815df33236_9059115913235512770.jpg)
-
-〓Special Rules〓
-
-● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/04/05 10:00</t> - <t class="t_lc" contenteditable="false">2025/04/21 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_3453988695430769322.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
