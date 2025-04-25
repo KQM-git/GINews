@@ -743,6 +743,18 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
+# [A First Look at Version 5.6 "Paralogism"!](archive/21121.md)
+## Genshin Impact Version 5.6 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/14/07300c718186def48a655753842ba36b_8275229890635586138.jpg)
+
+Dear Traveler,
+
+Here's a first look at Version 5.6 "Paralogism"!
+
+[Click to check out the latest info on Version 5.6 "Paralogism"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_R3gMgfQpo1&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21097.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
