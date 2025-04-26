@@ -1,3 +1,35 @@
+# ["Rhythm Ball Meztli" Event: Elemental <br />Ball-Hitting Challenges](archive/21051.md)
+## Rhythm Ball Meztli
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/4939383f492c048b0640ae5601e142d4_7288486440227558627.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/04/28 10:00</t> - <t class="t_lc" contenteditable="false">2025/05/06 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/26/f3e24a06b096203351d103ce29036ab5_2199244057520559390.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "Incandescent Ode of Resurrection" first to get the best experience from this event.
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Traveler needs to control the bar to return incoming balls and break various bricks.
+
+● By using the Elemental Type of your character, you can imbue the bar with the corresponding element, altering the ball's Elemental Type to trigger reactions to clear challenges more effectively.
+
+● Achieve higher scores within the time limit or defeat Rhythm Bosses as quickly as possible to earn resources and rewards.
+
+-----
+
 # ["Day of the Flame's Return" Version 5.5 Update Details](archive/21054.md)
 ## Version 5.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/17/e64a289eaa46755bcd48870311fc1ab1_5392209129189863835.jpg)
