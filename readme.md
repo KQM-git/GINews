@@ -1,35 +1,3 @@
-# ["Rhythm Ball Meztli" Event: Elemental <br />Ball-Hitting Challenges](archive/21051.md)
-## Rhythm Ball Meztli
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/4939383f492c048b0640ae5601e142d4_7288486440227558627.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/04/28 10:00</t> - <t class="t_lc" contenteditable="false">2025/05/06 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/26/f3e24a06b096203351d103ce29036ab5_2199244057520559390.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "Incandescent Ode of Resurrection" first to get the best experience from this event.
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
-
-● Traveler needs to control the bar to return incoming balls and break various bricks.
-
-● By using the Elemental Type of your character, you can imbue the bar with the corresponding element, altering the ball's Elemental Type to trigger reactions to clear challenges more effectively.
-
-● Achieve higher scores within the time limit or defeat Rhythm Bosses as quickly as possible to earn resources and rewards.
-
------
-
 # ["Day of the Flame's Return" Version 5.5 Update Details](archive/21054.md)
 ## Version 5.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/17/e64a289eaa46755bcd48870311fc1ab1_5392209129189863835.jpg)
@@ -663,6 +631,38 @@ Fixes an issue whereby the game would crash abnormally when launched if the in-g
 
 -----
 
+# ["Rhythm Ball Meztli" Event: Elemental <br />Ball-Hitting Challenges](archive/21051.md)
+## Rhythm Ball Meztli
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/4939383f492c048b0640ae5601e142d4_7288486440227558627.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/04/28 10:00</t> - <t class="t_lc" contenteditable="false">2025/05/06 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/02/26/f3e24a06b096203351d103ce29036ab5_2199244057520559390.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "Incandescent Ode of Resurrection" first to get the best experience from this event.
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Traveler needs to control the bar to return incoming balls and break various bricks.
+
+● By using the Elemental Type of your character, you can imbue the bar with the corresponding element, altering the ball's Elemental Type to trigger reactions to clear challenges more effectively.
+
+● Achieve higher scores within the time limit or defeat Rhythm Bosses as quickly as possible to earn resources and rewards.
+
+-----
+
 # ["Quirky Quaking Arena" Event: Fun Co-Op Challenges](archive/21052.md)
 ## Quirky Quaking Arena
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/72793a6a992ee56981cc331cd78ddd73_5340525091174565779.jpg)
@@ -747,34 +747,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Peak Patrol Song (Sword) and Elegy for the End (Bow)!](archive/21050.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/625b67f8e269adbc4400814ec879f702_3688619599527504594.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/04/15 18:00</t> —  <t class="t_lc" contenteditable="false">2025/05/06 14:59</t> | Peak Patrol Song (Sword)  Elegy for the End (Bow) | Sacrificial Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Peak Patrol Song (Sword) and Elegy for the End (Bow) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Sacrificial Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Peak Patrol Song (Sword) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [A First Look at Version 5.6 "Paralogism"!](archive/21121.md)
 ## Genshin Impact Version 5.6 Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/14/07300c718186def48a655753842ba36b_8275229890635586138.jpg)
@@ -852,6 +824,34 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 (Check out the party lineup recommendations for the new season's Spiral Abyss.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Peak Patrol Song (Sword) and Elegy for the End (Bow)!](archive/21050.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/625b67f8e269adbc4400814ec879f702_3688619599527504594.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/04/15 18:00</t> —  <t class="t_lc" contenteditable="false">2025/05/06 14:59</t> | Peak Patrol Song (Sword)  Elegy for the End (Bow) | Sacrificial Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During the event, the event-exclusive 5-star weapons Peak Patrol Song (Sword) and Elegy for the End (Bow) will receive a huge drop-rate boost!
+
+● During the event, the 4-star weapons Sacrificial Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Peak Patrol Song (Sword) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
