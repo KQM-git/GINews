@@ -631,6 +631,26 @@ Fixes an issue whereby the game would crash abnormally when launched if the in-g
 
 -----
 
+# [Genshin Impact's Third Natlan OST Album "Radiance Aflame" Now Available](archive/21127.md)
+## Third Natlan OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/23/b54541007b6ee9b55e6e7f340e432ef8_5061111086961299284.jpg)
+
+Dear Traveler,
+
+Genshin Impact's third Natlan OST album "Radiance Aflame" is now available! The album's three discs "Where the Sacred Mountain Shelters the Fields," "In Noiseless Dreams Hundreds of Battle-Flags," and "To Strive and Not Yield" feature 58 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Natlan's Collective of Plenty and other areas.
+
+Travelers can go to the following platforms to listen to "Radiance Aflame."
+
+Spotify:
+
+[Click here to listen to "Radiance Aflame"](https://open.spotify.com/album/787prlbdaHbaYtqyytzqaJ)
+
+Apple Music:
+
+[Click here to listen to "Radiance Aflame"](https://music.apple.com/us/album/1810699371)
+
+-----
+
 # ["Rhythm Ball Meztli" Event: Elemental <br />Ball-Hitting Challenges](archive/21051.md)
 ## Rhythm Ball Meztli
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/4939383f492c048b0640ae5601e142d4_7288486440227558627.jpg)
