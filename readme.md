@@ -683,34 +683,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Quirky Quaking Arena" Event: Fun Co-Op Challenges](archive/21052.md)
-## Quirky Quaking Arena
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/72793a6a992ee56981cc331cd78ddd73_5340525091174565779.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/04/21 10:00</t> - <t class="t_lc" contenteditable="false">2025/05/02 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/02/20/2bd871e2983939c4f1977fe51898a863_3862109293889287526.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● In the first three days after the event starts, a new trial will be unlocked each day. You can play the unlocked trials through either solo or team matching.
-
-● In each trial, use designated trial characters and collect as many Adventure Coins as possible within the time limit. Complete a trial stage for the first time to obtain the corresponding rewards.
-
-● After completing a trial, you will earn Craft Points based on your performance. During the first three days of the event, the maximum number of Craft Points you can obtain will gradually increase, capping at 4,000 points. Collect the specified amount of Craft Points to claim corresponding rewards.
-
------
-
 # [Event Wish "Forgefire's Blessing" - Boosted Drop Rate for "Ardent Flames Forge the Soul" Xilonen (Geo)!](archive/21048.md)
 ## Event Wish "Forgefire's Blessing"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/868defa0d72ebf13be738b87fb598127_8561659585436084932.jpg)
