@@ -1,3 +1,42 @@
+# [Version 5.6 Update Maintenance Preview](archive/21129.md)
+## Version 5.6 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/03/c941908b14dcaf160083796a10645f89_6996385689272608266.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2025/05/07 06:00</t>. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please stay tuned to related game update information.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+Pre-installation is now available on mobile, PC, PlayStation®, and Xbox Series X|S.
+
+〓Update Maintenance Duration〓
+
+Update maintenance begins at <t class="t_gl" contenteditable="false">2025/05/07 06:00</t> and is estimated to take 5 hours.
+
+〓Update Maintenance Compensation〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Update Maintenance Compensation Eligibility〓
+
+Maintenance Compensation: Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2025/05/07 06:00</t>.
+
+Compensation must be claimed before the end of Version 5.6.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2025/05/07 07:00</t>.
+
+<details open="true">
+<summary>Summary of Update Methods</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/03/11/6a422ae2be4f5a53ec82e1e4c72991b6_8709402559341004025.jpg)
+
+</details>
+
+-----
+
 # ["Day of the Flame's Return" Version 5.5 Update Details](archive/21054.md)
 ## Version 5.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/17/e64a289eaa46755bcd48870311fc1ab1_5392209129189863835.jpg)
