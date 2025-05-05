@@ -904,30 +904,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/21134.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2025/05/02 10:00:00 (global) - 2025/05/05 23:59:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_i-N5qR-seXZlJUP2c9jil0KgbTESoec8xzdzpQWc7uu&game_biz=hk4e_global&surveyId=31228&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21098.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1053,18 +1029,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [A First Look at Version 5.6 "Paralogism"!](archive/21121.md)
-## Genshin Impact Version 5.6 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/14/07300c718186def48a655753842ba36b_8275229890635586138.jpg)
-
-Dear Traveler,
-
-Here's a first look at Version 5.6 "Paralogism"!
-
-[Click to check out the latest info on Version 5.6 "Paralogism"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_R3gMgfQpo1&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
 -----
 
