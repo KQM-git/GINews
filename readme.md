@@ -37,6 +37,208 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
+## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
+
+Greatness, created in the moment where miracles met life.
+
+Neither mundane knowledge nor earthly compassion could hope to reach that light.
+
+The arrogant slither forth from the darkness, hypocrisy draped in virtue and reason.
+
+Their gnashing maws devour all — brothers and mothers alike.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act IV "Paralogism" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently available after the Version 5.6 update
+
+〓Archon Quest Interlude Chapter: Act IV "Paralogism" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
+
+• Complete Story Quest "Princeps Cretaceus Chapter: Act I - Traveler Observation Report"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21103.md)
+## Event Wish "La Chanson Cerise"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/99ed4a2d97a5bad80557f8fa03585ecc_4077315105398769273.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.6 update  —  <t class="t_lc" contenteditable="false">2025/05/27 17:59</t> | "Tasteful Excellence" Escoffier (Cryo) | "In the Wake of Wandering Winds" Ifa (Anemo)
+^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
+^ | ^ | "Fantastical Evening Star" Layla (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Tasteful Excellence" Escoffier (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Fantastical Evening Star" Layla (Cryo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "In the Wake of Wandering Winds" Ifa (Anemo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "In the Name of the Rosula" - Boosted Drop Rate for "Helm of the Radiant Rose" Navia (Geo)!](archive/21104.md)
+## Event Wish "In the Name of the Rosula"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/c79936587a498eadae87aa44e8454e93_5460900096961694092.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 5.6 update  —  <t class="t_lc" contenteditable="false">2025/05/27 17:59</t> | "Helm of the Radiant Rose" Navia (Geo) | "In the Wake of Wandering Winds" Ifa (Anemo)
+^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
+^ | ^ | "Fantastical Evening Star" Layla (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Helm of the Radiant Rose" Navia (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Fantastical Evening Star" Layla (Cryo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "In the Wake of Wandering Winds" Ifa (Anemo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Symphonist of Scents (Polearm) and Verdict (Claymore)!](archive/21105.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/e3f43a0c59e75204b5e0621ad8121629_353502271720390361.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 5.6 update  —  <t class="t_lc" contenteditable="false">2025/05/27 17:59</t> | Symphonist of Scents (Polearm)  Verdict (Claymore) | The Dockhand's Assistant (Sword)
+^ | ^ | Portable Power Saw (Claymore)
+^ | ^ | Prospector's Drill (Polearm)
+^ | ^ | Range Gauge (Bow)
+^ | ^ | The Widsith (Catalyst)
+
+● During this event wish, the event-exclusive 5-star weapons Symphonist of Scents (Polearm) and Verdict (Claymore) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons The Dockhand's Assistant (Sword), Portable Power Saw (Claymore), Prospector's Drill (Polearm), and Range Gauge (Bow) as well as the 4-star weapon The Widsith (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Symphonist of Scents (Polearm) or Verdict (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Treasured Above All" Event: Complete the Story Quest within the specified duration to obtain additional Primogems, Character Ascension Materials, and other rewards](archive/21107.md)
+## Treasured Above All
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/1a17b761e55c25c6f92e2f7f2420c018_1191188737535864164.png)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock Escoffier's Story Quest "Dulciaria Structura Chapter."
+
+Complete the quest within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Fontaine regional specialties, and other rewards.
+
+〓Quest Start Time〓
+
+After the Version 5.6 update
+
+〓Specified Duration〓
+
+After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/05/27 17:59</t>
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 or above
+
+Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+※ Within the time limit, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Escoffier's Story Quest "Dulciaria Structura Chapter."
+
+-----
+
+# ["Balletica" Event Details](archive/21109.md)
+## Balletica
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/6cfd8014fa969076fffbc32a10e14857_9220327536345565458.png)
+
+Travelers can earn rich rewards in "Balletica" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Balletica" and Furnishing Blueprint "Exquisite Carving."
+
+〓Event Duration〓
+
+After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/06/16 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 40 Available for a Limited Time](archive/21108.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/7acdac782b72ebe6b953796404c1e343_6159279512063232244.png)
+
+Round 40 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/05/21 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/05/21 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
 # ["Day of the Flame's Return" Version 5.5 Update Details](archive/21054.md)
 ## Version 5.5 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/17/e64a289eaa46755bcd48870311fc1ab1_5392209129189863835.jpg)
@@ -667,6 +869,38 @@ Fixes an issue whereby the Statues of The Seven would flicker abnormally and rep
 〓<t class="t_gl" contenteditable="false">2025/03/26 21:25</t> Update Details〓
 
 Fixes an issue whereby the game would crash abnormally when launched if the in-game language on PC was set to Thai after the Version 5.5 update.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 5.6
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
