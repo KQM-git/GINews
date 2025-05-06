@@ -944,62 +944,6 @@ Apple Music:
 
 -----
 
-# [Event Wish "Forgefire's Blessing" - Boosted Drop Rate for "Ardent Flames Forge the Soul" Xilonen (Geo)!](archive/21048.md)
-## Event Wish "Forgefire's Blessing"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/868defa0d72ebf13be738b87fb598127_8561659585436084932.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/04/15 18:00</t> —  <t class="t_lc" contenteditable="false">2025/05/06 14:59</t> | "Ardent Flames Forge the Soul" Xilonen (Geo) | "Enigmatic Machinist" Faruzan (Anemo)
-^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
-^ | ^ | "Wise Innocence" Yanfei (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Ardent Flames Forge the Soul" Xilonen (Geo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Uncrowned Lord of the Ocean" Beidou (Electro), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Ballad in Goblets" - Boosted Drop Rate for "Windborne Bard" Venti (Anemo)!](archive/21049.md)
-## Event Wish - Ballad in Goblets
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/f66a6f5c133c9bd80b87294bc335b3d6_8741773759092542384.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/04/15 18:00</t> —  <t class="t_lc" contenteditable="false">2025/05/06 14:59</t> | "Windborne Bard" Venti (Anemo) | "Enigmatic Machinist" Faruzan (Anemo)
-^ | ^ | "Uncrowned Lord of the Ocean" Beidou (Electro)
-^ | ^ | "Wise Innocence" Yanfei (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Windborne Bard" Venti (Anemo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Enigmatic Machinist" Faruzan (Anemo), "Uncrowned Lord of the Ocean" Beidou (Electro), and "Wise Innocence" Yanfei (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [View the Updated Interactive Map and Other Tools!](archive/21057.md)
 ## The Genshin Impact Version 5.5 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/25/5d82477e59e0f6d9e7c9340cfa20f6ac_6843245133442585719.png)
@@ -1045,34 +989,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 (Check out the party lineup recommendations for the new season's Spiral Abyss.)
 
 [>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Peak Patrol Song (Sword) and Elegy for the End (Bow)!](archive/21050.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/625b67f8e269adbc4400814ec879f702_3688619599527504594.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/04/15 18:00</t> —  <t class="t_lc" contenteditable="false">2025/05/06 14:59</t> | Peak Patrol Song (Sword)  Elegy for the End (Bow) | Sacrificial Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Favonius Warbow (Bow)
-
-● During the event, the event-exclusive 5-star weapons Peak Patrol Song (Sword) and Elegy for the End (Bow) will receive a huge drop-rate boost!
-
-● During the event, the 4-star weapons Sacrificial Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Peak Patrol Song (Sword) or Elegy for the End (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
