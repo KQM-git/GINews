@@ -451,6 +451,18 @@ b. When materials are obtained, if the required materials can be crafted to meet
 
 -----
 
+# [Version 5.6 New Content Overview](archive/21148.md)
+## Version 5.6 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/c2254a240588a5abe1222abb2218680b_5195691731803340922.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/3c8b2169c802afafd784cc0197763b0d_9037270564541546815.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/1e2e7ec608e749e5705386d4f5f4a90c_737386757185492531.jpg)
+
+-----
+
 # [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21103.md)
 ## Event Wish "La Chanson Cerise"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/99ed4a2d97a5bad80557f8fa03585ecc_4077315105398769273.png)
