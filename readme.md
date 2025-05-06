@@ -1,76 +1,3 @@
-# [Version 5.6 Update Maintenance Preview](archive/21129.md)
-## Version 5.6 Update Maintenance Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/03/c941908b14dcaf160083796a10645f89_6996385689272608266.jpg)
-
-Dear Travelers,
-
-Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2025/05/07 06:00</t>. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please stay tuned to related game update information.
-
-After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
-
-Pre-installation is now available on mobile, PC, PlayStation®, and Xbox Series X|S.
-
-〓Update Maintenance Duration〓
-
-Update maintenance begins at <t class="t_gl" contenteditable="false">2025/05/07 06:00</t> and is estimated to take 5 hours.
-
-〓Update Maintenance Compensation〓
-
-Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
-
-〓Update Maintenance Compensation Eligibility〓
-
-Maintenance Compensation: Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2025/05/07 06:00</t>.
-
-Compensation must be claimed before the end of Version 5.6.
-
-Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
-
-For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2025/05/07 07:00</t>.
-
-<details open="true">
-<summary>Summary of Update Methods</summary>
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/03/11/6a422ae2be4f5a53ec82e1e4c72991b6_8709402559341004025.jpg)
-
-</details>
-
------
-
-# [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
-## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
-
-Greatness, created in the moment where miracles met life.
-
-Neither mundane knowledge nor earthly compassion could hope to reach that light.
-
-The arrogant slither forth from the darkness, hypocrisy draped in virtue and reason.
-
-Their gnashing maws devour all — brothers and mothers alike.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act IV "Paralogism" will appear in the Quest Menu.
-
-〓Quest Start Time〓
-
-Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently available after the Version 5.6 update
-
-〓Archon Quest Interlude Chapter: Act IV "Paralogism" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
-
-• Complete Story Quest "Princeps Cretaceus Chapter: Act I - Traveler Observation Report"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21103.md)
 ## Event Wish "La Chanson Cerise"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/99ed4a2d97a5bad80557f8fa03585ecc_4077315105398769273.png)
@@ -236,6 +163,79 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [Version 5.6 Update Maintenance Preview](archive/21129.md)
+## Version 5.6 Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/03/c941908b14dcaf160083796a10645f89_6996385689272608266.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2025/05/07 06:00</t>. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please stay tuned to related game update information.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+Pre-installation is now available on mobile, PC, PlayStation®, and Xbox Series X|S.
+
+〓Update Maintenance Duration〓
+
+Update maintenance begins at <t class="t_gl" contenteditable="false">2025/05/07 06:00</t> and is estimated to take 5 hours.
+
+〓Update Maintenance Compensation〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Update Maintenance Compensation Eligibility〓
+
+Maintenance Compensation: Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2025/05/07 06:00</t>.
+
+Compensation must be claimed before the end of Version 5.6.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2025/05/07 07:00</t>.
+
+<details open="true">
+<summary>Summary of Update Methods</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/03/11/6a422ae2be4f5a53ec82e1e4c72991b6_8709402559341004025.jpg)
+
+</details>
+
+-----
+
+# [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
+## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
+
+Greatness, created in the moment where miracles met life.
+
+Neither mundane knowledge nor earthly compassion could hope to reach that light.
+
+The arrogant slither forth from the darkness, hypocrisy draped in virtue and reason.
+
+Their gnashing maws devour all — brothers and mothers alike.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act IV "Paralogism" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently available after the Version 5.6 update
+
+〓Archon Quest Interlude Chapter: Act IV "Paralogism" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
+
+• Complete Story Quest "Princeps Cretaceus Chapter: Act I - Traveler Observation Report"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
