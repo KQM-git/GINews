@@ -1,3 +1,15 @@
+# [Version 5.6 New Content Overview](archive/21148.md)
+## Version 5.6 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/c2254a240588a5abe1222abb2218680b_5195691731803340922.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/3c8b2169c802afafd784cc0197763b0d_9037270564541546815.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/1e2e7ec608e749e5705386d4f5f4a90c_737386757185492531.jpg)
+
+-----
+
 # ["Paralogism" Version 5.6 Update Details](archive/21101.md)
 ## Version 5.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/f924146e8d091da9be9352aecb56eec5_7680030187984510577.jpg)
@@ -448,18 +460,6 @@ b. When materials are obtained, if the required materials can be crafted to meet
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [Version 5.6 New Content Overview](archive/21148.md)
-## Version 5.6 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/c2254a240588a5abe1222abb2218680b_5195691731803340922.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/3c8b2169c802afafd784cc0197763b0d_9037270564541546815.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/1e2e7ec608e749e5705386d4f5f4a90c_737386757185492531.jpg)
 
 -----
 
