@@ -463,6 +463,22 @@ b. When materials are obtained, if the required materials can be crafted to meet
 
 -----
 
+# [Version Details - What's New ](archive/21156.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- There is an issue whereby there is a chance that Ororon's Nightsoul Points would be abnormally consumed multiple times when his Hypersense effect deals an instance of DMG to an opponent. This issue will be fixed in a subsequent update.
+
+- There is an issue whereby abnormalities would occur when Escoffier performs certain actions (such as sitting down or playing an instrument). This issue will be fixed in a subsequent update.
+
+-----
+
 # ["Whirling Waltz" Event: Take part and obtain the event-exclusive weapon, Sequence of Solitude (Bow)](archive/21110.md)
 ## Whirling Waltz
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/bc3e87e75d680ecba3dc463d2f2ec43e_3773328008051223902.png)
