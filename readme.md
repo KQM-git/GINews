@@ -753,26 +753,6 @@ Permanent
 
 -----
 
-# [Genshin Impact's Third Natlan OST Album "Radiance Aflame" Now Available](archive/21127.md)
-## Third Natlan OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/23/b54541007b6ee9b55e6e7f340e432ef8_5061111086961299284.jpg)
-
-Dear Traveler,
-
-Genshin Impact's third Natlan OST album "Radiance Aflame" is now available! The album's three discs "Where the Sacred Mountain Shelters the Fields," "In Noiseless Dreams Hundreds of Battle-Flags," and "To Strive and Not Yield" feature 58 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Natlan's Collective of Plenty and other areas.
-
-Travelers can go to the following platforms to listen to "Radiance Aflame."
-
-Spotify:
-
-[Click here to listen to "Radiance Aflame"](https://open.spotify.com/album/787prlbdaHbaYtqyytzqaJ)
-
-Apple Music:
-
-[Click here to listen to "Radiance Aflame"](https://music.apple.com/us/album/1810699371)
-
------
-
 # ["The Sacred Mountain and Sanctified Land" Event: Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21043.md)
 ## The Sacred Mountain and Sanctified Land
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/12/01e4affc46dd4bb62688aa8998304f79_8079145875989756532.jpg)
