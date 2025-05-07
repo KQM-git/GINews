@@ -479,6 +479,52 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 -----
 
+# [View the Updated Exclusive Genshin Impact Tools!](archive/21124.md)
+## The Genshin Impact Version 5.6 Tools Update Is Here!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/aadc2b32e8c31d5bed7ba605c64c112d_7731546591194349686.png)
+
+Dear Traveler,
+
+Genshin Impact Version 5.6 is now live, and Fontaine's genius chef, Escoffier, has made her debut! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through the new version.
+
+| Teyvat Interactive Map Update: Adds recommended Ascension Material harvest routes for the new characters
+
+Recommended Ascension Material harvest routes for Version 5.6's new character Escoffier have been updated.
+
+[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+
+| Character Building Guides: Adds the building guides for the drop-boosted characters in Version 5.6
+
+The building guides for the new character Escoffier and characters that appear in Version 5.6's Event Wishes are now available.
+
+Click to view all-in-one image guides on Character Level-Up Materials, building tips, team composition recommendations, Artifact and Weapon suggestions, and more. Building characters has never been easier!
+
+(Building tips are selected from popular community guides and do not represent official views.)
+
+[>> Click to View Character Building Guides <<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| HoYoWiki: Adds new character information of Version 5.6 and top-quality UGC content
+
+With the update of Version 5.6, the Wiki now includes basic information and voice lines of Escoffier.
+
+Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tuned!
+
+(HoYoWiki is collectively created by HoYoLAB editors and does not represent official views.)
+
+[>> Click to Go to HoYoWiki <<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new character Escoffier
+
+[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+| Lineup Simulator Update: Supports related lineup queries and posts for the new character Escoffier
+
+(Check out the party lineup recommendations for the new season's Spiral Abyss.)
+
+[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+
+-----
+
 # ["Whirling Waltz" Event: Take part and obtain the event-exclusive weapon, Sequence of Solitude (Bow)](archive/21110.md)
 ## Whirling Waltz
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/bc3e87e75d680ecba3dc463d2f2ec43e_3773328008051223902.png)
