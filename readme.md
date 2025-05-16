@@ -513,6 +513,10 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓<t class="t_gl" contenteditable="false">2025/05/16 11:10</t> Update Details〓
+
+Fixes an issue whereby there is a chance that the game would crash when you teleport from a certain area in Fontaine to the Stadium of the Sacred Flame in Natlan and open the game interface.
+
 〓<t class="t_gl" contenteditable="false">2025/05/15 16:25</t> Update Details〓
 
 - Fixes an issue whereby players could not claim the corresponding Mondstadt Reputation reward after completing the World Quest "The Festering Fang" under certain circumstances.
