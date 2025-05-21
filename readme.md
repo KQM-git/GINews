@@ -789,36 +789,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 40 Available for a Limited Time](archive/21108.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/7acdac782b72ebe6b953796404c1e343_6159279512063232244.png)
-
-Round 40 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/05/21 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/05/21 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
 ## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
