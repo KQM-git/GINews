@@ -1,17 +1,3 @@
-# [Login Failure Issue Fix Details](archive/21177.md)
-## Login Failure Issue Fix Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/24/8e60989f6665a150a0e7020459098b25_8114754336857614345.jpg)
-
-Dear Travelers,
-
-Due to an issue with X (Twitter) services, some Travelers have been unable to log into the game normally.
-
-Related services have been restored.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
------
-
 # [Version 5.6 New Content Overview](archive/21148.md)
 ## Version 5.6 New Content Overview
 
