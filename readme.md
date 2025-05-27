@@ -1,15 +1,3 @@
-# [Version 5.6 New Content Overview](archive/21148.md)
-## Version 5.6 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/c2254a240588a5abe1222abb2218680b_5195691731803340922.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/3c8b2169c802afafd784cc0197763b0d_9037270564541546815.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/07/1e2e7ec608e749e5705386d4f5f4a90c_737386757185492531.jpg)
-
------
-
 # [Chronicle of Shifting Stratagems – Themed Party Setup Challenges](archive/21116.md)
 ## Chronicle of Shifting Stratagems
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/bb1c471e83ea32c83d6ab1446f70e98e_9126725391784778180.png)
