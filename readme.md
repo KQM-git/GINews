@@ -451,6 +451,50 @@ b. When materials are obtained, if the required materials can be crafted to meet
 
 -----
 
+# [Version Details - What's New ](archive/21156.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby there is a small chance that players are unable to deploy units in the "Confrontation Scenario" mode in the "Operation Downpour Simulation" event under certain circumstances. Travelers who encounter this can try matching again for the challenge as a temporary fix for this issue.
+
+〓<t class="t_gl" contenteditable="false">2025/05/22 16:15</t> Update Details〓
+
+- Fixes an issue that caused the quest tracking info or challenge info on the left side of the main game menu to abnormally disappear after returning to the open world from a stage in the "Operation Downpour Simulation" event.
+
+- Updates resources related to subsequent events.
+
+〓<t class="t_gl" contenteditable="false">2025/05/16 11:10</t> Update Details〓
+
+Fixes an issue whereby there is a chance that the game would crash when you teleport from a certain area in Fontaine to the Stadium of the Sacred Flame in Natlan and open the game interface.
+
+〓<t class="t_gl" contenteditable="false">2025/05/15 16:25</t> Update Details〓
+
+- Fixes an issue whereby players could not claim the corresponding Mondstadt Reputation reward after completing the World Quest "The Festering Fang" under certain circumstances.
+
+- Fixes an issue whereby there is a small chance that character skill icons and chest interaction buttons would be displayed abnormally under certain circumstances.
+
+- Fixes an issue whereby the bake-danuki would sometimes disappear abnormally after being attacked.
+
+- Fixes an issue whereby the cutscene audio would be missing abnormally during quests on some PC devices that do not support spatial sound effects.
+
+- Fixes an issue in Genius Invokation TCG whereby after playing the Action Card "Collective of Plenty" and gaining 5 stacks of the "Workout" status, the attached character would incorrectly gain a Bonus DMG effect when dealing Swirl DMG.
+
+〓<t class="t_gl" contenteditable="false">2025/05/08 16:10</t> Update Details〓
+
+- Fixes an issue whereby there is a chance that Ororon's Nightsoul Points would be abnormally consumed multiple times when his Hypersense effect deals an instance of DMG to an opponent.
+
+- Fixes an issue whereby abnormalities would occur when Escoffier performs certain actions (such as sitting down or playing an instrument).
+
+- Fixes an issue in Genius Invokation TCG whereby after playing the card "Collective of Plenty," the opposing player's character would gain the "Workout" status abnormally when preparing their Skill.
+
+-----
+
 # [Chronicle of Shifting Stratagems – Themed Party Setup Challenges](archive/21116.md)
 ## Chronicle of Shifting Stratagems
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/bb1c471e83ea32c83d6ab1446f70e98e_9126725391784778180.png)
@@ -629,50 +673,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● In Preset Scenario challenges, Travelers will use designated game pieces to simulate battles. Victory is achieved when your pieces destroy all enemy pieces and installations.
 
 ● Before Travelers can engage in Confrontation Scenarios, Travelers must first deploy their defensive lineup. After that is done, Travelers can select their offensive lineup, and then they can start PvP matching. Once Travelers are successfully matched, the two sides will attack the opposing defensive lineup with their pieces. The side that makes greater offensive progress within the time limit or hits 100% progress first will claim victory.
-
------
-
-# [Version Details - What's New ](archive/21156.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby there is a small chance that players are unable to deploy units in the "Confrontation Scenario" mode in the "Operation Downpour Simulation" event under certain circumstances. Travelers who encounter this can try matching again for the challenge as a temporary fix for this issue.
-
-〓<t class="t_gl" contenteditable="false">2025/05/22 16:15</t> Update Details〓
-
-- Fixes an issue that caused the quest tracking info or challenge info on the left side of the main game menu to abnormally disappear after returning to the open world from a stage in the "Operation Downpour Simulation" event.
-
-- Updates resources related to subsequent events.
-
-〓<t class="t_gl" contenteditable="false">2025/05/16 11:10</t> Update Details〓
-
-Fixes an issue whereby there is a chance that the game would crash when you teleport from a certain area in Fontaine to the Stadium of the Sacred Flame in Natlan and open the game interface.
-
-〓<t class="t_gl" contenteditable="false">2025/05/15 16:25</t> Update Details〓
-
-- Fixes an issue whereby players could not claim the corresponding Mondstadt Reputation reward after completing the World Quest "The Festering Fang" under certain circumstances.
-
-- Fixes an issue whereby there is a small chance that character skill icons and chest interaction buttons would be displayed abnormally under certain circumstances.
-
-- Fixes an issue whereby the bake-danuki would sometimes disappear abnormally after being attacked.
-
-- Fixes an issue whereby the cutscene audio would be missing abnormally during quests on some PC devices that do not support spatial sound effects.
-
-- Fixes an issue in Genius Invokation TCG whereby after playing the Action Card "Collective of Plenty" and gaining 5 stacks of the "Workout" status, the attached character would incorrectly gain a Bonus DMG effect when dealing Swirl DMG.
-
-〓<t class="t_gl" contenteditable="false">2025/05/08 16:10</t> Update Details〓
-
-- Fixes an issue whereby there is a chance that Ororon's Nightsoul Points would be abnormally consumed multiple times when his Hypersense effect deals an instance of DMG to an opponent.
-
-- Fixes an issue whereby abnormalities would occur when Escoffier performs certain actions (such as sitting down or playing an instrument).
-
-- Fixes an issue in Genius Invokation TCG whereby after playing the card "Collective of Plenty," the opposing player's character would gain the "Workout" status abnormally when preparing their Skill.
 
 -----
 
