@@ -1,184 +1,3 @@
-# [Chronicle of Shifting Stratagems – Themed Party Setup Challenges](archive/21116.md)
-## Chronicle of Shifting Stratagems
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/bb1c471e83ea32c83d6ab1446f70e98e_9126725391784778180.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/05/27 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/09 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/7d496d186bcb32498666cccd264c3330_306615596164221538.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
-
-● Each stage has a featured character and is divided into two halves. During the challenge, you need to set up two different teams based on the featured character and defeat enemies in two separate battles to score points and claim victory.
-
-● Note: In "Chronicle of Shifting Stratagems," food or other items cannot be used during the challenges.
-
------
-
-# [Event Wish "Seeker of Flame-Wrought Secrets" - Boosted Drop Rate for "Turnfire Hunt" Kinich (Dendro)!](archive/21113.md)
-## Event Wish "Seeker of Flame-Wrought Secrets"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | "Turnfire Hunt" Kinich (Dendro) | "Protector From Afar" Thoma (Pyro)
-^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
-^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Turnfire Hunt" Kinich (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Protector From Afar" Thoma (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Elegance in the Shadows" Lynette (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/21114.md)
-## Event Wish - Reign of Serenity
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/a750ad8202ac92b3f01fb02ae6da1d1f_9110865902514023838.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | "Plane of Euthymia" Raiden Shogun (Electro) | "Protector From Afar" Thoma (Pyro)
-^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
-^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Protector From Afar" Thoma (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Elegance in the Shadows" Lynette (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm)!](archive/21115.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | Fang of the Mountain King (Claymore)  Engulfing Lightning (Polearm) | Lion's Roar (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Fang of the Mountain King (Claymore) or Engulfing Lightning (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Thunder Rends the Plains on High" - Chronicled Wish Now Available!](archive/21106.md)
-## Event Wish "Thunder Rends the Plains on High"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png)
-
-Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t>    | "Frostflake Heron" Kamisato Ayaka (Cryo)  "Pillar of Fortitude" Kamisato Ayato (Hydro)  "Frolicking Flames" Yoimiya (Pyro)  "The Thundering Seamstress" Chiori (Geo)   "Astute Amusement" Yae Miko (Electro)  "Hanamizaka Heroics" Arataki Itto (Geo)  "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)  "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | Uraku Misugiri (Sword)
-^ | ^ | Haran Geppaku Futsu (Sword)
-^ | ^ | Mistsplitter Reforged (Sword)
-^ | ^ | Freedom-Sworn (Sword)
-^ | ^ | Redhorn Stonethresher (Claymore)
-^ | ^ | Kagura's Verity (Catalyst)
-^ | ^ | Everlasting Moonglow (Catalyst)
-^ | ^ | Thundering Pulse (Bow)
-
-● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Thunder Rends the Plains on High" Event Wish of this period!
-
-● During this event wish, the event-exclusive 5-star characters "Frostflake Heron" Kamisato Ayaka (Cryo), "Pillar of Fortitude" Kamisato Ayato (Hydro), "Frolicking Flames" Yoimiya (Pyro), "The Thundering Seamstress" Chiori (Geo), "Astute Amusement" Yae Miko (Electro), "Hanamizaka Heroics" Arataki Itto (Geo), "Pearl of Wisdom" Sangonomiya Kokomi (Hydro), and "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo), the event-exclusive 5-star weapons Uraku Misugiri (Sword), Haran Geppaku Futsu (Sword), Mistsplitter Reforged (Sword), Freedom-Sworn (Sword), Redhorn Stonethresher (Claymore), Kagura's Verity (Catalyst), Everlasting Moonglow (Catalyst), and Thundering Pulse (Bow), as well as the event-exclusive 4-star weapons Akuoumaru (Claymore), Wavebreaker's Fin (Polearm), and Mouun's Moon (Bow) will be available for a limited time.
-
-● All 5-star and 4-star items in this Chronicled Wish:
-
-5-Star Characters: Kamisato Ayaka, Kamisato Ayato, Yoimiya, Chiori, Yae Miko, Arataki Itto, Sangonomiya Kokomi, and Kaedehara Kazuha
-
-5-Star Weapons: Uraku Misugiri, Haran Geppaku Futsu, Mistsplitter Reforged, Freedom-Sworn, Redhorn Stonethresher, Kagura's Verity, Everlasting Moonglow, and Thundering Pulse
-
-4-Star Characters: Kuki Shinobu, Kirara, Shikanoin Heizou, Kujou Sara, Gorou, Sayu, and Thoma
-
-4-Star Weapons: Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Akuoumaru, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Wavebreaker's Fin, Favonius Lance, Dragon's Bane, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Mouun's Moon, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
-
-※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Operation Downpour Simulation" Event: Tabletop Wargame](archive/21112.md)
-## Operation Downpour Simulation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/0b1cdd901fdb7f7be0bc7e993454561a_8244846900106965455.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/05/19 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/03 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/fb95d11dcdc635b05267a035e868ce0e_8240620466431664948.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest "Masquerade of the Guilty" first to get the best experience from this event.
-
-〓Event Details〓
-
-● The event consists of two types of challenges: Preset Scenario and Confrontation Scenario. After the event starts, 4, 4, and 3 Preset Scenario stages will be unlocked respectively on the first, third, and fifth day. The Confrontation Scenario will be unlocked on the fifth day.
-
-● In Preset Scenario challenges, Travelers will use designated game pieces to simulate battles. Victory is achieved when your pieces destroy all enemy pieces and installations.
-
-● Before Travelers can engage in Confrontation Scenarios, Travelers must first deploy their defensive lineup. After that is done, Travelers can select their offensive lineup, and then they can start PvP matching. Once Travelers are successfully matched, the two sides will attack the opposing defensive lineup with their pieces. The side that makes greater offensive progress within the time limit or hits 100% progress first will claim victory.
-
------
-
 # ["Paralogism" Version 5.6 Update Details](archive/21101.md)
 ## Version 5.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/f924146e8d091da9be9352aecb56eec5_7680030187984510577.jpg)
@@ -629,6 +448,187 @@ b. When materials are obtained, if the required materials can be crafted to meet
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [Chronicle of Shifting Stratagems – Themed Party Setup Challenges](archive/21116.md)
+## Chronicle of Shifting Stratagems
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/bb1c471e83ea32c83d6ab1446f70e98e_9126725391784778180.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/05/27 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/09 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/7d496d186bcb32498666cccd264c3330_306615596164221538.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
+
+● Each stage has a featured character and is divided into two halves. During the challenge, you need to set up two different teams based on the featured character and defeat enemies in two separate battles to score points and claim victory.
+
+● Note: In "Chronicle of Shifting Stratagems," food or other items cannot be used during the challenges.
+
+-----
+
+# [Event Wish "Seeker of Flame-Wrought Secrets" - Boosted Drop Rate for "Turnfire Hunt" Kinich (Dendro)!](archive/21113.md)
+## Event Wish "Seeker of Flame-Wrought Secrets"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | "Turnfire Hunt" Kinich (Dendro) | "Protector From Afar" Thoma (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Turnfire Hunt" Kinich (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Protector From Afar" Thoma (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Elegance in the Shadows" Lynette (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/21114.md)
+## Event Wish - Reign of Serenity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/a750ad8202ac92b3f01fb02ae6da1d1f_9110865902514023838.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | "Plane of Euthymia" Raiden Shogun (Electro) | "Protector From Afar" Thoma (Pyro)
+^ | ^ | "Crowfeather Kaburaya" Kujou Sara (Electro)
+^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Protector From Afar" Thoma (Pyro), "Crowfeather Kaburaya" Kujou Sara (Electro), and "Elegance in the Shadows" Lynette (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm)!](archive/21115.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | Fang of the Mountain King (Claymore)  Engulfing Lightning (Polearm) | Lion's Roar (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Fang of the Mountain King (Claymore) or Engulfing Lightning (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Thunder Rends the Plains on High" - Chronicled Wish Now Available!](archive/21106.md)
+## Event Wish "Thunder Rends the Plains on High"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png)
+
+Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t>    | "Frostflake Heron" Kamisato Ayaka (Cryo)  "Pillar of Fortitude" Kamisato Ayato (Hydro)  "Frolicking Flames" Yoimiya (Pyro)  "The Thundering Seamstress" Chiori (Geo)   "Astute Amusement" Yae Miko (Electro)  "Hanamizaka Heroics" Arataki Itto (Geo)  "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)  "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | Uraku Misugiri (Sword)
+^ | ^ | Haran Geppaku Futsu (Sword)
+^ | ^ | Mistsplitter Reforged (Sword)
+^ | ^ | Freedom-Sworn (Sword)
+^ | ^ | Redhorn Stonethresher (Claymore)
+^ | ^ | Kagura's Verity (Catalyst)
+^ | ^ | Everlasting Moonglow (Catalyst)
+^ | ^ | Thundering Pulse (Bow)
+
+● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Thunder Rends the Plains on High" Event Wish of this period!
+
+● During this event wish, the event-exclusive 5-star characters "Frostflake Heron" Kamisato Ayaka (Cryo), "Pillar of Fortitude" Kamisato Ayato (Hydro), "Frolicking Flames" Yoimiya (Pyro), "The Thundering Seamstress" Chiori (Geo), "Astute Amusement" Yae Miko (Electro), "Hanamizaka Heroics" Arataki Itto (Geo), "Pearl of Wisdom" Sangonomiya Kokomi (Hydro), and "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo), the event-exclusive 5-star weapons Uraku Misugiri (Sword), Haran Geppaku Futsu (Sword), Mistsplitter Reforged (Sword), Freedom-Sworn (Sword), Redhorn Stonethresher (Claymore), Kagura's Verity (Catalyst), Everlasting Moonglow (Catalyst), and Thundering Pulse (Bow), as well as the event-exclusive 4-star weapons Akuoumaru (Claymore), Wavebreaker's Fin (Polearm), and Mouun's Moon (Bow) will be available for a limited time.
+
+● All 5-star and 4-star items in this Chronicled Wish:
+
+5-Star Characters: Kamisato Ayaka, Kamisato Ayato, Yoimiya, Chiori, Yae Miko, Arataki Itto, Sangonomiya Kokomi, and Kaedehara Kazuha
+
+5-Star Weapons: Uraku Misugiri, Haran Geppaku Futsu, Mistsplitter Reforged, Freedom-Sworn, Redhorn Stonethresher, Kagura's Verity, Everlasting Moonglow, and Thundering Pulse
+
+4-Star Characters: Kuki Shinobu, Kirara, Shikanoin Heizou, Kujou Sara, Gorou, Sayu, and Thoma
+
+4-Star Weapons: Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Akuoumaru, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Wavebreaker's Fin, Favonius Lance, Dragon's Bane, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Mouun's Moon, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
+
+※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Operation Downpour Simulation" Event: Tabletop Wargame](archive/21112.md)
+## Operation Downpour Simulation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/0b1cdd901fdb7f7be0bc7e993454561a_8244846900106965455.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/05/19 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/03 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/fb95d11dcdc635b05267a035e868ce0e_8240620466431664948.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest "Masquerade of the Guilty" first to get the best experience from this event.
+
+〓Event Details〓
+
+● The event consists of two types of challenges: Preset Scenario and Confrontation Scenario. After the event starts, 4, 4, and 3 Preset Scenario stages will be unlocked respectively on the first, third, and fifth day. The Confrontation Scenario will be unlocked on the fifth day.
+
+● In Preset Scenario challenges, Travelers will use designated game pieces to simulate battles. Victory is achieved when your pieces destroy all enemy pieces and installations.
+
+● Before Travelers can engage in Confrontation Scenarios, Travelers must first deploy their defensive lineup. After that is done, Travelers can select their offensive lineup, and then they can start PvP matching. Once Travelers are successfully matched, the two sides will attack the opposing defensive lineup with their pieces. The side that makes greater offensive progress within the time limit or hits 100% progress first will claim victory.
 
 -----
 
