@@ -646,36 +646,6 @@ Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapo
 
 -----
 
-# ["Operation Downpour Simulation" Event: Tabletop Wargame](archive/21112.md)
-## Operation Downpour Simulation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/0b1cdd901fdb7f7be0bc7e993454561a_8244846900106965455.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/05/19 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/03 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/fb95d11dcdc635b05267a035e868ce0e_8240620466431664948.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest "Masquerade of the Guilty" first to get the best experience from this event.
-
-〓Event Details〓
-
-● The event consists of two types of challenges: Preset Scenario and Confrontation Scenario. After the event starts, 4, 4, and 3 Preset Scenario stages will be unlocked respectively on the first, third, and fifth day. The Confrontation Scenario will be unlocked on the fifth day.
-
-● In Preset Scenario challenges, Travelers will use designated game pieces to simulate battles. Victory is achieved when your pieces destroy all enemy pieces and installations.
-
-● Before Travelers can engage in Confrontation Scenarios, Travelers must first deploy their defensive lineup. After that is done, Travelers can select their offensive lineup, and then they can start PvP matching. Once Travelers are successfully matched, the two sides will attack the opposing defensive lineup with their pieces. The side that makes greater offensive progress within the time limit or hits 100% progress first will claim victory.
-
------
-
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21124.md)
 ## The Genshin Impact Version 5.6 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/aadc2b32e8c31d5bed7ba605c64c112d_7731546591194349686.png)
