@@ -495,6 +495,54 @@ Fixes an issue whereby there is a chance that the game would crash when you tele
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
+# [Legends Ablaze: Cross-Border Brawl – Fun Co-Op Crossover Challenges](archive/21117.md)
+## Legends Ablaze: Cross-Border Brawl
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/3079e4a072d5f6838ad22ac56b296698_8517486675935663044.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/06/05 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/b593739d67d493918e804af51fad4e3b_1145490516690196611.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● At the start of the event, all five challenge types will be unlocked on the first day. Each time you start a challenge, you will be matched with 3 other players and enter a random type of challenge.
+
+● Each challenge is split into 3 rounds, and each round into 2 phases: Gold Rush and Saurian Assault. You must get as many Trial Coins as possible in the 2 phases, thus scoring the highest number of points.
+
+● After completing a challenge, you will receive a score based on your performance. During the first 5 days of the event, a 2,000-point score limit is unlocked every 2 days, with a maximum cap of 6,000 points. Accumulate a certain total score to claim corresponding rewards.
+
+-----
+
 # [Chronicle of Shifting Stratagems – Themed Party Setup Challenges](archive/21116.md)
 ## Chronicle of Shifting Stratagems
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/bb1c471e83ea32c83d6ab1446f70e98e_9126725391784778180.png)
@@ -779,26 +827,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21098.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
