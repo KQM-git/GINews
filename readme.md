@@ -655,45 +655,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
-# [Event Wish "Thunder Rends the Plains on High" - Chronicled Wish Now Available!](archive/21106.md)
-## Event Wish "Thunder Rends the Plains on High"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png)
-
-Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t>    | "Frostflake Heron" Kamisato Ayaka (Cryo)  "Pillar of Fortitude" Kamisato Ayato (Hydro)  "Frolicking Flames" Yoimiya (Pyro)  "The Thundering Seamstress" Chiori (Geo)   "Astute Amusement" Yae Miko (Electro)  "Hanamizaka Heroics" Arataki Itto (Geo)  "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)  "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | Uraku Misugiri (Sword)
-^ | ^ | Haran Geppaku Futsu (Sword)
-^ | ^ | Mistsplitter Reforged (Sword)
-^ | ^ | Freedom-Sworn (Sword)
-^ | ^ | Redhorn Stonethresher (Claymore)
-^ | ^ | Kagura's Verity (Catalyst)
-^ | ^ | Everlasting Moonglow (Catalyst)
-^ | ^ | Thundering Pulse (Bow)
-
-● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Thunder Rends the Plains on High" Event Wish of this period!
-
-● During this event wish, the event-exclusive 5-star characters "Frostflake Heron" Kamisato Ayaka (Cryo), "Pillar of Fortitude" Kamisato Ayato (Hydro), "Frolicking Flames" Yoimiya (Pyro), "The Thundering Seamstress" Chiori (Geo), "Astute Amusement" Yae Miko (Electro), "Hanamizaka Heroics" Arataki Itto (Geo), "Pearl of Wisdom" Sangonomiya Kokomi (Hydro), and "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo), the event-exclusive 5-star weapons Uraku Misugiri (Sword), Haran Geppaku Futsu (Sword), Mistsplitter Reforged (Sword), Freedom-Sworn (Sword), Redhorn Stonethresher (Claymore), Kagura's Verity (Catalyst), Everlasting Moonglow (Catalyst), and Thundering Pulse (Bow), as well as the event-exclusive 4-star weapons Akuoumaru (Claymore), Wavebreaker's Fin (Polearm), and Mouun's Moon (Bow) will be available for a limited time.
-
-● All 5-star and 4-star items in this Chronicled Wish:
-
-5-Star Characters: Kamisato Ayaka, Kamisato Ayato, Yoimiya, Chiori, Yae Miko, Arataki Itto, Sangonomiya Kokomi, and Kaedehara Kazuha
-
-5-Star Weapons: Uraku Misugiri, Haran Geppaku Futsu, Mistsplitter Reforged, Freedom-Sworn, Redhorn Stonethresher, Kagura's Verity, Everlasting Moonglow, and Thundering Pulse
-
-4-Star Characters: Kuki Shinobu, Kirara, Shikanoin Heizou, Kujou Sara, Gorou, Sayu, and Thoma
-
-4-Star Weapons: Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Akuoumaru, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Wavebreaker's Fin, Favonius Lance, Dragon's Bane, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Mouun's Moon, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
-
-※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21124.md)
 ## The Genshin Impact Version 5.6 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/aadc2b32e8c31d5bed7ba605c64c112d_7731546591194349686.png)
@@ -740,27 +701,42 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# ["Balletica" Event Details](archive/21109.md)
-## Balletica
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/6cfd8014fa969076fffbc32a10e14857_9220327536345565458.png)
+# [Event Wish "Thunder Rends the Plains on High" - Chronicled Wish Now Available!](archive/21106.md)
+## Event Wish "Thunder Rends the Plains on High"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png)
 
-Travelers can earn rich rewards in "Balletica" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Balletica" and Furnishing Blueprint "Exquisite Carving."
+Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
 
-〓Event Duration〓
+〓Event Wish Details〓
 
-After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
+Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t>    | "Frostflake Heron" Kamisato Ayaka (Cryo)  "Pillar of Fortitude" Kamisato Ayato (Hydro)  "Frolicking Flames" Yoimiya (Pyro)  "The Thundering Seamstress" Chiori (Geo)   "Astute Amusement" Yae Miko (Electro)  "Hanamizaka Heroics" Arataki Itto (Geo)  "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)  "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) | Uraku Misugiri (Sword)
+^ | ^ | Haran Geppaku Futsu (Sword)
+^ | ^ | Mistsplitter Reforged (Sword)
+^ | ^ | Freedom-Sworn (Sword)
+^ | ^ | Redhorn Stonethresher (Claymore)
+^ | ^ | Kagura's Verity (Catalyst)
+^ | ^ | Everlasting Moonglow (Catalyst)
+^ | ^ | Thundering Pulse (Bow)
 
-〓Eligibility〓
+● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Thunder Rends the Plains on High" Event Wish of this period!
 
-Adventure Rank 20 or above
+● During this event wish, the event-exclusive 5-star characters "Frostflake Heron" Kamisato Ayaka (Cryo), "Pillar of Fortitude" Kamisato Ayato (Hydro), "Frolicking Flames" Yoimiya (Pyro), "The Thundering Seamstress" Chiori (Geo), "Astute Amusement" Yae Miko (Electro), "Hanamizaka Heroics" Arataki Itto (Geo), "Pearl of Wisdom" Sangonomiya Kokomi (Hydro), and "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo), the event-exclusive 5-star weapons Uraku Misugiri (Sword), Haran Geppaku Futsu (Sword), Mistsplitter Reforged (Sword), Freedom-Sworn (Sword), Redhorn Stonethresher (Claymore), Kagura's Verity (Catalyst), Everlasting Moonglow (Catalyst), and Thundering Pulse (Bow), as well as the event-exclusive 4-star weapons Akuoumaru (Claymore), Wavebreaker's Fin (Polearm), and Mouun's Moon (Bow) will be available for a limited time.
 
-〓Event Details〓
+● All 5-star and 4-star items in this Chronicled Wish:
 
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+5-Star Characters: Kamisato Ayaka, Kamisato Ayato, Yoimiya, Chiori, Yae Miko, Arataki Itto, Sangonomiya Kokomi, and Kaedehara Kazuha
 
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+5-Star Weapons: Uraku Misugiri, Haran Geppaku Futsu, Mistsplitter Reforged, Freedom-Sworn, Redhorn Stonethresher, Kagura's Verity, Everlasting Moonglow, and Thundering Pulse
 
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/06/16 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+4-Star Characters: Kuki Shinobu, Kirara, Shikanoin Heizou, Kujou Sara, Gorou, Sayu, and Thoma
+
+4-Star Weapons: Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Akuoumaru, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Wavebreaker's Fin, Favonius Lance, Dragon's Bane, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Mouun's Moon, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
+
+※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -795,6 +771,30 @@ Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently availabl
 After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Balletica" Event Details](archive/21109.md)
+## Balletica
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/6cfd8014fa969076fffbc32a10e14857_9220327536345565458.png)
+
+Travelers can earn rich rewards in "Balletica" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Balletica" and Furnishing Blueprint "Exquisite Carving."
+
+〓Event Duration〓
+
+After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/06/16 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
