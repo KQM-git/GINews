@@ -495,6 +495,20 @@ Fixes an issue whereby there is a chance that the game would crash when you tele
 
 -----
 
+# [A First Look at Version 5.7 "A Space and Time for You"!](archive/21195.md)
+## Genshin Impact Version 5.7 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/30/f5e3edf088597197388dea14c0818386_2910669707835314028.jpg)
+
+Dear Traveler,
+
+Here's a first look at Version 5.7 "A Space and Time for You"!
+
+Go to the "Version Pre-Registration" event page to get Primogems and materials as rewards!
+
+[Click to check out the latest info on Version 5.7 "A Space and Time for You"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_EG5wNuW5DL&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
