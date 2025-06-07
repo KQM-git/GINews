@@ -529,6 +529,26 @@ Permanent
 
 -----
 
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/06/09 04:00</t> - <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
+
+〓Eligibility〓
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+〓Event Details〓
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # [Legends Ablaze: Cross-Border Brawl – Fun Co-Op Crossover Challenges](archive/21117.md)
 ## Legends Ablaze: Cross-Border Brawl
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/3079e4a072d5f6838ad22ac56b296698_8517486675935663044.png)
