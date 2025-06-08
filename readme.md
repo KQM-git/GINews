@@ -577,34 +577,6 @@ Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# [Chronicle of Shifting Stratagems – Themed Party Setup Challenges](archive/21116.md)
-## Chronicle of Shifting Stratagems
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/bb1c471e83ea32c83d6ab1446f70e98e_9126725391784778180.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/05/27 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/09 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/7d496d186bcb32498666cccd264c3330_306615596164221538.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of six stages will be unlocked.
-
-● Each stage has a featured character and is divided into two halves. During the challenge, you need to set up two different teams based on the featured character and defeat enemies in two separate battles to score points and claim victory.
-
-● Note: In "Chronicle of Shifting Stratagems," food or other items cannot be used during the challenges.
-
------
-
 # [Event Wish "Seeker of Flame-Wrought Secrets" - Boosted Drop Rate for "Turnfire Hunt" Kinich (Dendro)!](archive/21113.md)
 ## Event Wish "Seeker of Flame-Wrought Secrets"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png)
