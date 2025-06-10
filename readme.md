@@ -509,26 +509,6 @@ Go to the "Version Pre-Registration" event page to get Primogems and materials a
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
 ## Ley Line Overflow
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
@@ -661,6 +641,26 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21124.md)
 ## The Genshin Impact Version 5.6 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/aadc2b32e8c31d5bed7ba605c64c112d_7731546591194349686.png)
@@ -746,40 +746,6 @@ Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapo
 
 -----
 
-# [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
-## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
-
-Greatness, created in the moment where miracles met life.
-
-Neither mundane knowledge nor earthly compassion could hope to reach that light.
-
-The arrogant slither forth from the darkness, hypocrisy draped in virtue and reason.
-
-Their gnashing maws devour all — brothers and mothers alike.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act IV "Paralogism" will appear in the Quest Menu.
-
-〓Quest Start Time〓
-
-Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently available after the Version 5.6 update
-
-〓Archon Quest Interlude Chapter: Act IV "Paralogism" Unlock Criteria〓
-
-• Reach Adventure Rank 40 or above
-
-• Complete Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
-
-• Complete Story Quest "Princeps Cretaceus Chapter: Act I - Traveler Observation Report"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
-
-"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
 # ["Balletica" Event Details](archive/21109.md)
 ## Balletica
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/6cfd8014fa969076fffbc32a10e14857_9220327536345565458.png)
@@ -833,6 +799,40 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
+## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
+
+Greatness, created in the moment where miracles met life.
+
+Neither mundane knowledge nor earthly compassion could hope to reach that light.
+
+The arrogant slither forth from the darkness, hypocrisy draped in virtue and reason.
+
+Their gnashing maws devour all — brothers and mothers alike.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Interlude Chapter: Act IV "Paralogism" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently available after the Version 5.6 update
+
+〓Archon Quest Interlude Chapter: Act IV "Paralogism" Unlock Criteria〓
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Interlude Chapter: Act III "Inversion of Genesis"
+
+• Complete Story Quest "Princeps Cretaceus Chapter: Act I - Traveler Observation Report"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 
 -----
 
