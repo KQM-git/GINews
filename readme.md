@@ -613,34 +613,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm)!](archive/21115.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | Fang of the Mountain King (Claymore)  Engulfing Lightning (Polearm) | Lion's Roar (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Fang of the Mountain King (Claymore) or Engulfing Lightning (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -707,6 +679,34 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm)!](archive/21115.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/05/27 18:00</t> —  <t class="t_lc" contenteditable="false">2025/06/17 14:59</t> | Fang of the Mountain King (Claymore)  Engulfing Lightning (Polearm) | Lion's Roar (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Fang of the Mountain King (Claymore) and Engulfing Lightning (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons Lion's Roar (Sword), Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Fang of the Mountain King (Claymore) or Engulfing Lightning (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Event Wish "Thunder Rends the Plains on High" - Chronicled Wish Now Available!](archive/21106.md)
 ## Event Wish "Thunder Rends the Plains on High"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png)
@@ -770,38 +770,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version 5.6
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # [New Story Unlocked - Archon Quest Interlude Chapter: Act IV](archive/21102.md)
 ## New Story Unlocked - Archon Quest Interlude Chapter: Act IV
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/24/a1f4917dd580231439a8578cb5875ee3_8917273051185243279.jpg)
@@ -833,6 +801,38 @@ Archon Quest Interlude Chapter: Act IV "Paralogism" will be permanently availabl
 After the Version 5.6 update and before the Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Interlude Chapter: Act IV "Paralogism."
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 5.6
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
