@@ -499,6 +499,26 @@ Fixes an issue whereby there is a chance that the game would crash when you tele
 
 -----
 
+# [Genshin Impact "Star Odyssey" EP Album Now Available](archive/21189.md)
+## EP Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/11/a6863cd383d6f4566bb723ab5aba6005_4005103764476026213.jpg)
+
+Dear Traveler,
+
+Genshin Impact's "Star Odyssey" EP Album is now available. The album, produced by the HOYO-MiX music team, features Suzuki Airi performing the track.
+
+Travelers can go to the following platforms to listen to "Star Odyssey."
+
+Spotify:
+
+[Click here to listen to "Star Odyssey"](https://open.spotify.com/album/2Tajd9RcAXPUS0JLV0Ht8Q)
+
+Apple Music:
+
+[Click here to listen to "Star Odyssey"](https://music.apple.com/us/album/1819456274)
+
+-----
+
 # [Version Satisfaction Survey Now Open](archive/21203.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
