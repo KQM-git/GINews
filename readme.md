@@ -557,54 +557,6 @@ Go to the "Version Pre-Registration" event page to get Primogems and materials a
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/06/09 04:00</t> - <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# [Legends Ablaze: Cross-Border Brawl – Fun Co-Op Crossover Challenges](archive/21117.md)
-## Legends Ablaze: Cross-Border Brawl
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/3079e4a072d5f6838ad22ac56b296698_8517486675935663044.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/06/05 10:00</t> – <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/b593739d67d493918e804af51fad4e3b_1145490516690196611.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● At the start of the event, all five challenge types will be unlocked on the first day. Each time you start a challenge, you will be matched with 3 other players and enter a random type of challenge.
-
-● Each challenge is split into 3 rounds, and each round into 2 phases: Gold Rush and Saurian Assault. You must get as many Trial Coins as possible in the 2 phases, thus scoring the highest number of points.
-
-● After completing a challenge, you will receive a score based on your performance. During the first 5 days of the event, a 2,000-point score limit is unlocked every 2 days, with a maximum cap of 6,000 points. Accumulate a certain total score to claim corresponding rewards.
-
------
-
 # [Event Wish "Seeker of Flame-Wrought Secrets" - Boosted Drop Rate for "Turnfire Hunt" Kinich (Dendro)!](archive/21113.md)
 ## Event Wish "Seeker of Flame-Wrought Secrets"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png)
@@ -791,30 +743,6 @@ Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapo
 ※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Balletica" Event Details](archive/21109.md)
-## Balletica
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/6cfd8014fa969076fffbc32a10e14857_9220327536345565458.png)
-
-Travelers can earn rich rewards in "Balletica" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Balletica" and Furnishing Blueprint "Exquisite Carving."
-
-〓Event Duration〓
-
-After the Version 5.6 update – <t class="t_lc" contenteditable="false">2025/06/16 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/06/16 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
