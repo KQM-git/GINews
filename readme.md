@@ -1,3 +1,469 @@
+# [Version 5.7 New Content Overview](archive/21217.md)
+## Version 5.7 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/17/acf8d67f4e4cd4461143e9e160fe3eba_4752805912147663962.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/17/d8d6219158ddd4fd00d1e82a9f06cf8a_6171067154839799154.jpg)
+
+-----
+
+# ["A Space and Time for You" Version 5.7 Update Details](archive/21175.md)
+## Version 5.7 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/b7a8e19df253c5191797bb2ef26a4430_6547775574113915152.jpg)
+
+Dear Traveler,
+
+Below are the details of the Version 5.7 update "A Space and Time for You" and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/06/18 06:00</t>.
+
+Compensation must be claimed before the end of Version 5.7.
+
+Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/06/18 06:00</t>.
+
+Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2025/06/21 06:00</t>.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins
+
+<t class="t_gl" contenteditable="false">2025/06/18 06:00</t> and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PS5™ and PS4™: Highlight Genshin Impact from the Home Screen, press the OPTIONS button and select "Check for Update."
+
+Xbox Series X|S: Open the system main menu, select "My games & apps," select the "Manage" tab, and on the "Updates" page, find "Genshin Impact" and confirm to update.
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Characters
+
+<details open="true">
+<summary><span style="color:rgba(53,170,204,1)"><span>5-Star Character "Void Star" Skirk (Cryo)</span></span></summary>
+
+◇ The Seven-Shifting Serpent: Cryo
+
+◇ Weapon: Sword
+
+◇ A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.
+
+◆ Skirk is a flexible Cryo DPS who performs well both on-field and in quick-swap rotations.
+
+She can obtain special energy by triggering certain Cryo reactions via party members and releasing Elemental Skills.
+
+By tapping the skill button, she will continuously consume this special energy, causing her Normal Attacks to deal Cryo DMG for sustained combat.
+
+When sufficient special energy is accumulated, she can consume it all to unleash her Elemental Burst, dealing massive AoE Cryo DMG instantly.
+
+</details>
+
+<details open="true">
+<summary><span style="color:rgba(73,143,204,1)"><span>4-Star Character "Ode and Oblation" Dahlia (Hydro)</span></span></summary>
+
+◇ Vision: Hydro
+
+◇ Weapon: Sword
+
+◇ Deacon of the Church of Favonius and the Anemo Archon's representative in the church.
+
+◆ Dahlia is a Hydro support character who provides shields and ATK SPD buffs for his teammates.
+
+When releasing his Elemental Skill, Dahlia summons "Sacramental Shower" that can launch characters upward or deal AoE Hydro DMG to enemies.
+
+His Elemental Burst summons a Shield of Sacred Favor and increases the ATK SPD of the active character.
+
+</details>
+II. New Equipment
+
+New Weapon (Examples based on Refinement Rank 1)
+
+<details open="true">
+<summary><span>Azurelight (5-Star Sword)</span></summary>
+
+Within 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Elemental Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%.
+
+◆ The event-exclusive 5-star weapon "Azurelight" (Sword) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
+
+</details>
+III. New Main Story
+
+1. New Archon Quest
+
+<details open="true">
+<summary><span>Archon Quest Chapter V: Act VI "A Space and Time for You"</span></summary>
+
+Permanently available after the Version 5.7 update
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+• Use the "Quick Start" function to immediately begin the prerequisite quest: Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn."
+
+</details>
+2. New Story Quest
+
+<details open="true">
+<summary><span>Skirk's Story Quest "Crystallina Chapter: Act I - Whispers Betwixt Stars and Night"</span></summary>
+
+Permanently available after the Version 5.7 update
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 40 or above
+
+• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+Additionally, after the Version 5.7 update until <t class="t_lc" contenteditable="false">2025/07/08 17:59</t>, the "Quick Start" function will be available for Skirk's Story Quest - "Crystallina Chapter: Act I - Whispers Betwixt Stars and Night."
+
+</details>
+IV. Function Iterations
+
+<details open="true">
+<summary><span>Quest Resource Management Update</span></summary>
+
+After the Version 5.7 update, when first launching the game on mobile, Travelers need to select their preferred resource update option:
+
+◇ Full Resources
+
+Download all resources. Future version updates will automatically update related resources.
+
+*Recommended to select "Full Resources."
+
+◇ Basic Resources
+
+Only downloads essential resources for gameplay, excluding optional content like some Archon Quests, Story Quests, and Hangout Events. Locally downloaded related resources will be automatically cleared. Optional content will not be automatically downloaded in future updates. To experience related quests, you'll need to manually download missing resources first.
+
+After initial selection, you can change your option or manually download needed resources via Settings > Resources.
+
+*This function is only available on mobile devices.
+
+</details>
+V. Genius Invokation TCG
+
+<details open="true">
+<summary><span>Genius Invokation TCG Gameplay Update</span></summary>
+
+New Character Cards: Chasca, Citlali, Mavuika, and their corresponding Talent cards. Corresponding invitation duel and guest challenges have been added to the Player List.
+
+New Action Cards "The Dockhand's Assistant," "Crown of the Saints," "Scroll of the Hero of Cinder City," "Rawr! Rawr!," "Fight for Death," "Fire and War," "Flying Squad, Attack!," "Fruits of Training," and "Harvest's Boon" have been added which can be purchased from Prince at The Cat's Tail.
+
+The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Endless Swarm":
+
+(1) Defeat endless waves of enemies during the rounds in "The Forge Realm's Temper: Endless Swarm" to accrue score.
+
+(2) After you complete the stage battle, you will gain a score and the corresponding rewards based on the highest score you got in the stage.
+
+(3) Different stages will contain different special rules that grant buffs. Use these rules well to fight more effectively.
+
+</details>
+VI. Imaginarium Theater
+
+<details open="true">
+<summary><span>Imaginarium Theater Update</span></summary>
+
+After the Version 5.7 update, the first season of "Imaginarium Theater" will be available on July 1, 2025.
+
+Required Elemental Types: Pyro, Hydro, and Cryo
+
+Opening Characters: Lyney, Xiangling, Tartaglia, Dahlia, Wriothesley, and Rosaria
+
+When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
+
+Special Guest Stars: Emilie, Kinich, Lan Yan, and Noelle
+
+After the first season of Imaginarium Theater begins, the characters Mualani, Lyney, Yaoyao, and Charlotte will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
+
+</details>
+
+<details open="true">
+<summary><span>Envisaged Echoes Update</span></summary>
+
+After the Version 5.7 update, new challenge stages and Echo cosmetics for Raiden Shogun and Shenhe will be added.
+
+</details>
+VII. Spiral Abyss
+
+<details open="true">
+<summary><span>Spiral Abyss Update</span></summary>
+
+◇ After the Version 5.7 update, Phase 1 of the Spiral Abyss will be updated on July 16.
+
+◆ Floor 11 Ley Line Disorder changed to:
+
+All party members receive a 60% Cryo DMG Bonus.
+
+All party members gain a 60% Pyro DMG Bonus.
+
+◆ Floor 12 Ley Line Disorders changed to:
+
+First Half: Cryo DMG dealt by all party members increased by 75%.
+
+Second Half: All party members' Nightsoul-aligned DMG increased by 75%.
+
+◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+◆ Blessing of the Abyssal Moon:
+
+Bitterfreeze Moon
+
+When a character triggers Cryo-related reactions, a shockwave will be released at the opponent's position, dealing True DMG to nearby opponents. This effect can be triggered once every 2.5s.
+
+</details>
+VIII. Other Update Details
+
+- New Character Specialty Dishes:
+
+○ Skirk's specialty: "Abyssal Bounty"
+
+○ Dahlia's specialty: "Chatter of Joyful Nights"
+
+- New Collaboration Recipes:
+
+○ Obtainable via Mail: "Meat-Lover's Feast," "Nine-Fruit Nectar," and "Bubblemilk Pie"
+
+Travelers who have reached Adventure Rank 2 or above can log in after <t class="t_gl" contenteditable="false">2025/07/11 12:00</t> – before Version 5.8 maintenance to claim these via mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+- Adds new Achievements to the "Wonders of the World" category.
+
+- Adds Set 41 of "Paimon's Paintings" chat emojis.
+
+- Adds some prompts for loading screens.
+
+- New Namecards:
+
+"Skirk: Lone Shadow": Reward for reaching Friendship Lv. 10 with Skirk
+
+"Dahlia: Sacred Duty": Reward for reaching Friendship Lv. 10 with Dahlia
+
+"Travel Notes: Speculation": Reward obtained via the BP system
+
+- Adds a new consumable "Dust of Enlightenment" to the Artifacts system. Travelers can now consume Dust of Enlightenment to randomly reallocate the enhancements of Minor Affixes on a fully-leveled 5-star Artifact.
+
+〓Adjustments & Optimizations〓
+
+● Enemies
+
+Abyss enemies, such as Abyss Lectors and Abyss Heralds will now activate their Wards shortly after their HP falls below a certain percentage and are Frozen. (Previously, they remained frozen for an extended duration without activating their Wards, making them difficult to defeat. With this change, they will now activate Wards more quickly, allowing them to be defeated normally.)
+
+● Chat
+
+- Optimizes the display and interaction experience of the chat interface.
+
+- Adds the "Manage Emoji Group" feature, allowing you to customize which emojis and emoji groups are shown and how they are sorted.
+
+- Adds interaction options for individual chat messages, such as tagging other Travelers in non-private chats.
+
+- Optimizes the block function. Blocking settings will no longer reset when switching devices. A "Mute List" has also been added under "Manage Blocklist."
+
+● "Character" > "Artifact" Interface
+
+- Adjusts the "Fast Equip" interface and optimizes the algorithm for configuration recommendations.
+
+- The "Recommended Configurations" function now includes a "Check Alternatives" feature, allowing you to swap Artifacts with other suggested options.
+
+- You can now select two preset configurations in "Custom Configuration."
+
+- Adds a new "Recommended Order Scope of Effect" setting to the sorting function, which can be set to "Current Slot" or "All Slots."
+
+● Crafting
+
+- The "Crafting" > "Convert" interface now includes a "Filter by Character" feature, and a "View Characters" button has been added to the top-right corner of the screen.
+
+- The "Crafting" > "Mystic Offering" screen will now remember the last selected Artifact Strongbox and automatically select it the next time the screen is opened.
+
+- The number of Condensed Resin in your inventory is now displayed on the "Map" and "Domain Entrance" screens.
+
+● Domains
+
+- After completing a Domain, you can now select "Skip Reward Cutscene" from the top-left corner of the reward screen.
+
+- If you exit a Domain before starting the challenge, the "Challenge Failed" screen will no longer appear.
+
+● Adventurer Handbook
+
+- Added a tracking option for Ley Line Outcrops in the Enemies tab.
+
+- You can now click the question mark icon when selecting certain enemies in the "Enemies" tab to view the relevant tutorial.
+
+- Adjusts enemy order in the "Enemies" tab based on update timing.
+
+- The "Domains" page of the Adventurer Handbook and the corresponding Trounce Domain entrance interfaces now show "First-Clear Rewards" for Trounce Domains. These rewards can be claimed upon clearing the Trounce Domain on highest difficulty, whether in Single Player Mode or in Co-Op Mode. Travelers who already cleared the relevant Trounce Domains on highest difficulty before the update can claim the rewards directly afterward.
+
+● Spiral Abyss
+
+- Optimizes the UI and user experience for the Spiral Abyss interface.
+
+- When restarting a floor or entering the next floor after completion, the "Start Challenge" screen will retain the previous team configuration. A button that clears all current Party Setups has also been added to this screen.
+
+- If you complete a chamber but fail to earn all Abyssal Stars, the results screen will now include a "Retry Challenge" option.
+
+- After completing Floor 12 Chamber 3, the results screen will display your total Abyssal Stars for this season, and all unclaimed Star's Bounty will be automatically distributed by the system.
+
+● Other Character Enhancement interfaces
+
+- In the source info for "Character Ascension Materials" and "Character Level-Up Materials," clicking "Obtained from the Crafting Bench Conversion Tab" will open the Crafting Bench on the Map.
+
+- The source info for 3-star and above "Character and Weapon Enhancement Materials" now includes a shortcut to Stardust Exchange.
+
+- For Local Specialties that can be farmed via gardening, their source info will now indicate "Grown in the Serenitea Pot."
+
+- In certain interfaces that recommend development stats (e.g., recommended Character - Artifacts, talent priorities, etc.), preset data will be used for recommendations when player data is insufficient.
+
+- Adjusts the display and interaction of the "Character" > "Talents" interface. If enough materials are available, talents can now be leveled up consecutively in the confirmation screen.
+
+- Starting from Version 5.7, the "Character" > "Talents" interface and the "Test Run" event will feature the "Talent Demo" button, which includes character role descriptions and some skill descriptions.
+
+- Optimizes the UI for claiming rewards after completing a Domain or Ley Line Outcrop. A new option to consume Fragile Resin or Transient Resin to receive triple rewards has been added. This option will only appear when you own these resin types.
+
+● Genius Invokation TCG
+
+Optimizes the matchmaking mechanism for Genius Invokation TCG co-op matches. The opponent's ready status will now be hidden once matched.
+
+● Quests
+
+- Adjusts the unlock requirements for the Genius Invokation TCG tutorial quest: now requires Adventure Rank 30 and completion of the Archon Quest "Song of the Dragon and Freedom."
+
+- Optimizes the order and display of World Level Ascension Quests.
+
+- New dialogue options have been added to NPC Orban. These options become available after completing the Archon Quest "Paralogism" and the World Quest "The Festering Fang."
+
+● Audio
+
+- Optimizes fade and transition sound effects when interacting with the "Sweet Dreams" furnishing.
+
+- Optimizes Ifa's "Hello" voice-over in Japanese.
+
+- Adds and replaces some of Kinich's English voice lines in content from previous versions. (Now, all of Kinich's voice lines have been replaced.)
+
+- Supplements some of Hu Tao and Venti's English voice lines in content from previous versions.
+
+- After Version 5.7 is updated, Keqing and Paimon's English VAs will be updated (this change only applies to new content in Version 5.7, historical content will be gradually updated in subsequent versions).
+
+● Other
+
+- After consuming food with a duration-based effect, a notification will now appear on the game interface.
+
+- Adjusts the trigger conditions for the blue-highlighted guidance box in "Craft" > "Convert." (Travelers who have already triggered it will not see it again.)
+
+- Increases the daily forging limit for Weapon Enhancement Materials on the Forge page. For example, the daily cap for Mystic Enhancement Ore has been raised from 30 to 40.
+
+- Adds one "Dust of Enlightenment" to both Gnostic Hymn and Gnostic Chorus in the Battle Pass system.
+
+〓Bug Fixes〓
+
+● Quests
+
+- Fixes an issue whereby under specific conditions during Escoffier's Story Quest "Treasured Above All," the cooking screen displayed abnormally.
+
+- Fixes an issue whereby the quest objective "Try to activate the Astral Assemblage(s)" in the World Quest "The Forsaken Sea of Wisdom" could not be completed under certain conditions.
+
+● Enemies
+
+- Fixes an issue whereby the attack range of the enemy "Lava Dragon Statue"'s magma strike did not match the actual animation.
+
+- Fixes an issue whereby the enemy "Local Legend: The Peak" behaved abnormally in combat and remained immobile for a period of time after using its skill under certain circumstances.
+
+- Fixes an issue whereby during some attack animations, character attacks failed to deal damage to the "Secret Source Automaton: Overseer Device" even when the enemy was within the player's attack range.
+
+- Fixes an issue whereby the enemy "Ferocious Warrior: Human Ram"'s eyes displayed abnormally while casting a skill.
+
+- Fixes an issue whereby during the "The Game Before the Gate" challenge, the Ascended King had a small chance to fail to revive properly after being resurrected by the Sublimated Queen.
+
+- Fixes a discrepancy between the hit location and model position of the enemy "Chess Game: Queen Piece" after being defeated.
+
+- Fixes an issue whereby some enemies could not exit combat after leaving the battle zone.
+
+● Characters
+
+- Fixes an issue whereby Ifa had a small chance of not triggering the "Hypersense" effect of Ororon's Ascension Talent "Nightshade Synesthesia" when continuously attacking from a distance and approaching the enemy.
+
+- Fixes an issue whereby characters revived using food was brought back with 0 HP under certain conditions.
+
+- Fixes an issue whereby there was a small chance that Escoffier's nose highlight could sometimes display abnormally under shadowed lighting conditions.
+
+- Fixes an issue whereby Iansan could move horizontally through the air under certain circumstances.
+
+● System
+
+- Fixes an issue whereby there was a small possibility that co-op Travelers who are not in your Friends list might not appear in the "Friends / Recent Co-Op Players" interface.
+
+- Fixes an issue whereby the map of Natlan may display abnormally under specific conditions.
+
+- Fixes an issue whereby the quantity of certain rewards on the "Domains" tab of the Adventurer Handbook were displayed incorrectly on Sundays.
+
+- Fixes an issue in the Travel Log/Tribal Chronicles interface whereby certain content in the quest "Orchard Repose" was displayed incorrectly.
+
+● Genius Invokation TCG
+
+Fixes an issue whereby after reviving a friendly character, if Bond of Life was attached and then removed, Sigewinne's Character Card passive skill "Detailed Diagnosis, Thorough Treatment" would not trigger as expected.
+
+● Other
+
+- Fixes an issue whereby the number of characters calculated that met the effect conditions of the "Chain Breaker" weapon did not match the actual number under certain circumstances.
+
+- Fixes an issue whereby when using the "Take Photo" function with Lynette while the character was active, her face would be displayed abnormally when switching to another character and then switching back to Lynette.
+
+- Fixes an issue whereby the Statue of The Seven could restore fallen characters' HP when the characters had not been revived under certain circumstances.
+
+- Fixes an issue whereby teleporting to the Trounce Domain "Unresolved Chess Game" on PS5 under certain conditions would result in a scene loading error.
+
+- Fixes an issue whereby after switching characters while collecting treasure, certain actions of Cloud Retainer's Damasked Device, Itty Bitty Octobaby, or Firstborn Firesprite would fail to trigger.
+
+- Fixes text errors in certain screens and descriptions.
+
+- Fixes some text errors in certain languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+◆ Optimizes inconsistencies between certain voice-overs and the corresponding lines.
+
+◆ Optimizes certain English translations.
+
+〓Genius Invokation TCG Balance Adjustment〓
+
+- Adjusts the Elemental Dice cost for Kachina's Character Card Technique "Twirly Twirly Bam Bam" from 1 Die of any element to 1 Geo Die.
+
+- Adjusts the effect of Zhongli's Character Card "Dominance of Earth": adds a limit of "Max 3 times per Round" to the "Geo DMG +1" effect.
+
+- Increases the starting Max HP of Albedo's Character Card from 10 to 12.
+
+- Increases the starting Max HP of Neuvillette, Beidou, Candace, Baizhu, and Hydro Hilichurl Rogue Character Cards from 10 to 11.
+
+- Adjusts the Elemental Burst DMG of the Hydro Hilichurl Rogue Character Card: Hydro DMG dealt is adjusted from 3 to 4.
+
+- Reduces the Elemental Dice cost of Raiden Shogun's Elemental Burst and Talent Card "Wishes Unnumbered": the Electro Dice cost is adjusted from 4 to 3.
+
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter V: Act VI](archive/21176.md)
 ## New Story Unlocked - Archon Quest Chapter V: Act VI
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/29/05b8235d8d033881713259de70a99605_2332431796895191388.jpg)
@@ -295,38 +761,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version 5.6
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
