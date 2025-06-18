@@ -464,6 +464,68 @@ Fixes an issue whereby after reviving a friendly character, if Bond of Life was 
 
 -----
 
+# [The "Through Yesterdays, to Today" web event is available. Relive your Teyvat journey to obtain Primogems!](archive/21184.md)
+## "Through Yesterdays, to Today" — Genshin Impact Web Event Now Online!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/10/c8d9f9f04ccc5f08731b2ff97a08d30b_7340013420603157453.jpg)
+
+The limited-time web event "Through Yesterdays, to Today" has begun.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250618return-lw5jy8/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250618return&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2025/06/18 to <t class="t_gl" contenteditable="false">2025/07/02 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event, complete missions in "Travel Journal" and "Promise of Reunion" to obtain Primogems, Gears of Destiny, and other rewards.
+
+1. Travel Journal: Earn up to Primogems ×40 and Gears of Destiny ×10. See the quest page for details.
+
+2. Promise of Reunion: Earn up to Primogems ×120. See the quest page for details.
+
+3. Share your exclusive link to invite friends and earn up to Gears of Destiny ×10. See the quest page for details.
+
+*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# [The Version 5.7 Submission Contest has begun!](archive/21186.md)
+## Version 5.7 Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/12/43e5d9d2d216ff50461a1794be51e1d8_8325375374443238202.jpg)
+
+Hello, Traveler~
+
+The Genshin Impact Version 5.7 "A Space and Time for You" Submission Contest has begun!
+
+From June 18, head to the official Creator Incentive Program page to create videos or fan art related to the characters, storyline, or events from Version 5.7 for a chance to win up to Primogems ×5,000 and 1,200 USD!
+
+For more details, please visit the official Incentive Program page:
+
+[Click to View](https://act.hoyoverse.com/puzzle/hk4e/pz_aXxhxsZT9v/index.html?sign_type=2&authkey_ver=1&auth_appid=e202505081243)
+
+From June 18, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, version events, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000!
+
+For more details, please visit:
+
+[Click to View](https://www.hoyolab.com/contribution/433)
+
+-----
+
 # [New Story Unlocked - Archon Quest Chapter V: Act VI](archive/21176.md)
 ## New Story Unlocked - Archon Quest Chapter V: Act VI
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/29/05b8235d8d033881713259de70a99605_2332431796895191388.jpg)
