@@ -464,6 +464,30 @@ Fixes an issue whereby after reviving a friendly character, if Bond of Life was 
 
 -----
 
+# [Version Details - What's New ](archive/21228.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is an issue whereby after completing the Archon Quest "A Space and Time for You," a Domain entrance will appear in the open world abnormally. This issue will be fixed in a future update.
+
+〓<t class="t_gl" contenteditable="false">2025/06/19 16:10</t> Update Details〓
+
+- Fixes an issue whereby the game interface would freeze abnormally when reading the quest item "Mementos of Teyvat Album" after the Version 5.7 update.
+
+- Fixes a text error in Korean for the Archon Quest "A Space and Time for You."
+
+- Fixes an issue whereby under certain circumstances, chat bubbles would not display normally on mobile devices.
+
+Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
+
+-----
+
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21191.md)
 ## The Genshin Impact Version 5.7 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/17/aadc2b32e8c31d5bed7ba605c64c112d_4629116313739312661.png)
