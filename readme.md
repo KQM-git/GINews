@@ -856,26 +856,6 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 -----
 
-# [Genshin Impact "Star Odyssey" EP Album Now Available](archive/21189.md)
-## EP Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/11/a6863cd383d6f4566bb723ab5aba6005_4005103764476026213.jpg)
-
-Dear Traveler,
-
-Genshin Impact's "Star Odyssey" EP Album is now available. The album, produced by the HOYO-MiX music team, features Suzuki Airi performing the track.
-
-Travelers can go to the following platforms to listen to "Star Odyssey."
-
-Spotify:
-
-[Click here to listen to "Star Odyssey"](https://open.spotify.com/album/2Tajd9RcAXPUS0JLV0Ht8Q)
-
-Apple Music:
-
-[Click here to listen to "Star Odyssey"](https://music.apple.com/us/album/1819456274)
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
