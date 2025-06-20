@@ -488,6 +488,38 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
+# ["Battle of Imagined Arrays" Event: Take part to invite "Wisdom's Measure" Sethos (Electro)](archive/21167.md)
+## Battle of Imagined Arrays
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/6e1762ae09a9e0ef6b3acd5bb99f5beb_2303926597123835412.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/06/20 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/07 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/3fd4f668fec70be6c07611d3cec14235_585698485160322587.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● During the event period, you can take part in two gameplay modes: "Fruit Supplement Survey" and "Companion Caper Chronicles."
+
+● In "Fruit Supplement Survey," you must direct Paimon to plan fruit-harvesting routes and pick fruit to complete objectives. Each of the first 3 days will also see 2 "Fruit Supplement Survey" stages unlocked.
+
+● In "Companion Caper Chronicles," you will go on an adventurous journey. You must select corresponding Companion Pieces to form teams that you will then enhance to challenge ever-more-powerful opponents. New "Companion Caper Chronicles" stages will unlock on the 1st and 4th days of the event.
+
+● Complete various challenges to obtain Speculative Records. These can be used to increase your Speculation Level, which can grant you buffs in the "Companion Caper Chronicles" event.
+
+● Reach a certain amount of Speculative Records to invite "Wisdom's Measure" Sethos (Electro), and to receive Primogems, Crown of Insight, and other rewards.
+
+-----
+
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21191.md)
 ## The Genshin Impact Version 5.7 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/17/aadc2b32e8c31d5bed7ba605c64c112d_4629116313739312661.png)
@@ -534,38 +566,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# ["Battle of Imagined Arrays" Event: Take part to invite "Wisdom's Measure" Sethos (Electro)](archive/21167.md)
-## Battle of Imagined Arrays
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/6e1762ae09a9e0ef6b3acd5bb99f5beb_2303926597123835412.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/06/20 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/07 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/3fd4f668fec70be6c07611d3cec14235_585698485160322587.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● During the event period, you can take part in two gameplay modes: "Fruit Supplement Survey" and "Companion Caper Chronicles."
-
-● In "Fruit Supplement Survey," you must direct Paimon to plan fruit-harvesting routes and pick fruit to complete objectives. Each of the first 3 days will also see 2 "Fruit Supplement Survey" stages unlocked.
-
-● In "Companion Caper Chronicles," you will go on an adventurous journey. You must select corresponding Companion Pieces to form teams that you will then enhance to challenge ever-more-powerful opponents. New "Companion Caper Chronicles" stages will unlock on the 1st and 4th days of the event.
-
-● Complete various challenges to obtain Speculative Records. These can be used to increase your Speculation Level, which can grant you buffs in the "Companion Caper Chronicles" event.
-
-● Reach a certain amount of Speculative Records to invite "Wisdom's Measure" Sethos (Electro), and to receive Primogems, Crown of Insight, and other rewards.
-
------
-
 # [The "Through Yesterdays, to Today" web event is available. Relive your Teyvat journey to obtain Primogems!](archive/21184.md)
 ## "Through Yesterdays, to Today" — Genshin Impact Web Event Now Online!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/10/c8d9f9f04ccc5f08731b2ff97a08d30b_7340013420603157453.jpg)
@@ -603,56 +603,6 @@ After the event ends, you will no longer be able to take part and claim the rewa
 The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
-# [The Version 5.7 Submission Contest has begun!](archive/21186.md)
-## Version 5.7 Submission Contest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/12/43e5d9d2d216ff50461a1794be51e1d8_8325375374443238202.jpg)
-
-Hello, Traveler~
-
-The Genshin Impact Version 5.7 "A Space and Time for You" Submission Contest has begun!
-
-From June 18, head to the official Creator Incentive Program page to create videos or fan art related to the characters, storyline, or events from Version 5.7 for a chance to win up to Primogems ×5,000 and 1,200 USD!
-
-For more details, please visit the official Incentive Program page:
-
-[Click to View](https://act.hoyoverse.com/puzzle/hk4e/pz_aXxhxsZT9v/index.html?sign_type=2&authkey_ver=1&auth_appid=e202505081243)
-
-From June 18, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, version events, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000!
-
-For more details, please visit:
-
-[Click to View](https://www.hoyolab.com/contribution/433)
-
------
-
-# [New Story Unlocked - Archon Quest Chapter V: Act VI](archive/21176.md)
-## New Story Unlocked - Archon Quest Chapter V: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/29/05b8235d8d033881713259de70a99605_2332431796895191388.jpg)
-
-The end of a journey is also its beginning. Time is meaningless.
-
-You and I are clearly looking at the same view. Space is meaningless.
-
-...Until your destiny and mine collide, and twine all those threads together.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter V: Act VI "A Space and Time for You" will appear in the Quest Menu.
-
-〓Quest Start Time〓
-
-After the Version 5.7 update, Archon Quest Chapter V: Act VI "A Space and Time for You" will be permanently available.
-
-〓Archon Quest Chapter V: Act VI "A Space and Time for You" Unlock Criteria〓
-
-• Reach Adventure Rank 28 or above
-
-• Complete Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-Before Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn." After using the "Quick Start" feature to complete the quest, you may proceed to accept and finish subsequent acts of Chapter V until reaching the latest Archon Quest in this version update.
 
 -----
 
@@ -853,6 +803,56 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [The Version 5.7 Submission Contest has begun!](archive/21186.md)
+## Version 5.7 Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/12/43e5d9d2d216ff50461a1794be51e1d8_8325375374443238202.jpg)
+
+Hello, Traveler~
+
+The Genshin Impact Version 5.7 "A Space and Time for You" Submission Contest has begun!
+
+From June 18, head to the official Creator Incentive Program page to create videos or fan art related to the characters, storyline, or events from Version 5.7 for a chance to win up to Primogems ×5,000 and 1,200 USD!
+
+For more details, please visit the official Incentive Program page:
+
+[Click to View](https://act.hoyoverse.com/puzzle/hk4e/pz_aXxhxsZT9v/index.html?sign_type=2&authkey_ver=1&auth_appid=e202505081243)
+
+From June 18, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, version events, and other aspects of the current version to participate. Winning creators can receive up to 600 USD and Primogems ×6,000!
+
+For more details, please visit:
+
+[Click to View](https://www.hoyolab.com/contribution/433)
+
+-----
+
+# [New Story Unlocked - Archon Quest Chapter V: Act VI](archive/21176.md)
+## New Story Unlocked - Archon Quest Chapter V: Act VI
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/29/05b8235d8d033881713259de70a99605_2332431796895191388.jpg)
+
+The end of a journey is also its beginning. Time is meaningless.
+
+You and I are clearly looking at the same view. Space is meaningless.
+
+...Until your destiny and mine collide, and twine all those threads together.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter V: Act VI "A Space and Time for You" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+After the Version 5.7 update, Archon Quest Chapter V: Act VI "A Space and Time for You" will be permanently available.
+
+〓Archon Quest Chapter V: Act VI "A Space and Time for You" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+Before Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn." After using the "Quick Start" feature to complete the quest, you may proceed to accept and finish subsequent acts of Chapter V until reaching the latest Archon Quest in this version update.
 
 -----
 
