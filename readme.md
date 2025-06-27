@@ -560,38 +560,6 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
-# ["Unlimited Throwing Simulation" – The Web Event for Genshin Impact’s New Character: Skirk Is Now Available](archive/21182.md)
-## "Unlimited Throwing Simulation" – The Web Event for Genshin Impact’s New Character: Skirk Is Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/10/62d6bbb0a06a4a1b9f07e3c31e56f303_2430864241939072428.jpg)
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250620skk-fboy94/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250620rolewarm&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2025/06/20 to <t class="t_gl" contenteditable="false">2025/06/27 23:59</t>
-
-〓Eligibility〓
-
-Reach Adventure Rank 10 or above
-
-〓Event Summary〓
-
-During the event, you will need to help Skirk defeat Riftwolves and complete designated missions. Upon completion, you will receive in-game items as rewards.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. The event wallpaper is not available after the event ends. Please download and save it in time.
-
-3. After completing the designated missions, the in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. After checking the box to agree to publicize your in-game nickname and corresponding scores, you can view the leaderboard (note: leaderboard updates may be delayed).
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # ["Battle of Imagined Arrays" Event: Take part to invite "Wisdom's Measure" Sethos (Electro)](archive/21167.md)
 ## Battle of Imagined Arrays
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/6e1762ae09a9e0ef6b3acd5bb99f5beb_2303926597123835412.jpg)
