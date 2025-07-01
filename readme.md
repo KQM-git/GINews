@@ -1,63 +1,3 @@
-# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
-## Stygian Onslaught
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
-
-Disturbance Outbreak: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/05 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
-
-● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
-
-The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
-
-From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
-
-● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
-
-"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
-
-There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
-
-Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
-
-● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
-
-During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
-
-Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
-
-After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
-
-● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
-
-Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
-
-● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
-
-"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
-
-"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
 # [Version 5.7 New Content Overview](archive/21217.md)
 ## Version 5.7 New Content Overview
 
@@ -560,35 +500,63 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
-# ["Battle of Imagined Arrays" Event: Take part to invite "Wisdom's Measure" Sethos (Electro)](archive/21167.md)
-## Battle of Imagined Arrays
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/6e1762ae09a9e0ef6b3acd5bb99f5beb_2303926597123835412.jpg)
+# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
+## Stygian Onslaught
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
 
 〓Event Duration〓
 
-<t class="t_lc" contenteditable="false">2025/06/20 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/07 03:59</t>
+Event Duration: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
+
+Disturbance Outbreak: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/05 03:59</t>
 
 〓Event Rewards〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/3fd4f668fec70be6c07611d3cec14235_585698485160322587.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
 
 〓Eligibility〓
 
 Adventure Rank 20 or above
 
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
 
 〓Event Details〓
 
-● During the event period, you can take part in two gameplay modes: "Fruit Supplement Survey" and "Companion Caper Chronicles."
+● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
 
-● In "Fruit Supplement Survey," you must direct Paimon to plan fruit-harvesting routes and pick fruit to complete objectives. Each of the first 3 days will also see 2 "Fruit Supplement Survey" stages unlocked.
+● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
 
-● In "Companion Caper Chronicles," you will go on an adventurous journey. You must select corresponding Companion Pieces to form teams that you will then enhance to challenge ever-more-powerful opponents. New "Companion Caper Chronicles" stages will unlock on the 1st and 4th days of the event.
+The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
 
-● Complete various challenges to obtain Speculative Records. These can be used to increase your Speculation Level, which can grant you buffs in the "Companion Caper Chronicles" event.
+From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
 
-● Reach a certain amount of Speculative Records to invite "Wisdom's Measure" Sethos (Electro), and to receive Primogems, Crown of Insight, and other rewards.
+● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
+
+"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
+
+There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
+
+Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
+
+● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
+
+During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
+
+Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
+
+After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
+
+● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
+
+Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
+
+● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
+
+"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
+
+"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
 
 -----
 
@@ -675,6 +643,38 @@ After the event ends, you will no longer be able to take part and claim the rewa
 The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# ["Battle of Imagined Arrays" Event: Take part to invite "Wisdom's Measure" Sethos (Electro)](archive/21167.md)
+## Battle of Imagined Arrays
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/6e1762ae09a9e0ef6b3acd5bb99f5beb_2303926597123835412.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/06/20 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/07 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/3fd4f668fec70be6c07611d3cec14235_585698485160322587.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● During the event period, you can take part in two gameplay modes: "Fruit Supplement Survey" and "Companion Caper Chronicles."
+
+● In "Fruit Supplement Survey," you must direct Paimon to plan fruit-harvesting routes and pick fruit to complete objectives. Each of the first 3 days will also see 2 "Fruit Supplement Survey" stages unlocked.
+
+● In "Companion Caper Chronicles," you will go on an adventurous journey. You must select corresponding Companion Pieces to form teams that you will then enhance to challenge ever-more-powerful opponents. New "Companion Caper Chronicles" stages will unlock on the 1st and 4th days of the event.
+
+● Complete various challenges to obtain Speculative Records. These can be used to increase your Speculation Level, which can grant you buffs in the "Companion Caper Chronicles" event.
+
+● Reach a certain amount of Speculative Records to invite "Wisdom's Measure" Sethos (Electro), and to receive Primogems, Crown of Insight, and other rewards.
 
 -----
 
@@ -848,36 +848,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 41 Available for a Limited Time](archive/21165.md)
-## Adventurer's Booster Bundle
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/00c6b646bf9764aec0f881bc747bf82b_7930583183509359801.jpg)
-
-Round 41 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/02 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/02 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [The Version 5.7 Submission Contest has begun!](archive/21186.md)
 ## Version 5.7 Submission Contest
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/12/43e5d9d2d216ff50461a1794be51e1d8_8325375374443238202.jpg)
@@ -928,6 +898,56 @@ Before Version 6.0 update, once you reach Adventure Rank 28 and complete Archon 
 
 -----
 
+# ["Adventurer's Booster Bundles" - Round 41 Available for a Limited Time](archive/21165.md)
+## Adventurer's Booster Bundle
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/00c6b646bf9764aec0f881bc747bf82b_7930583183509359801.jpg)
+
+Round 41 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/02 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/02 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
@@ -957,26 +977,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
