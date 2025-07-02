@@ -546,46 +546,6 @@ Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tu
 
 -----
 
-# [The "Through Yesterdays, to Today" web event is available. Relive your Teyvat journey to obtain Primogems!](archive/21184.md)
-## "Through Yesterdays, to Today" — Genshin Impact Web Event Now Online!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/10/c8d9f9f04ccc5f08731b2ff97a08d30b_7340013420603157453.jpg)
-
-The limited-time web event "Through Yesterdays, to Today" has begun.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250618return-lw5jy8/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250618return&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2025/06/18 to <t class="t_gl" contenteditable="false">2025/07/02 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event, complete missions in "Travel Journal" and "Promise of Reunion" to obtain Primogems, Gears of Destiny, and other rewards.
-
-1. Travel Journal: Earn up to Primogems ×40 and Gears of Destiny ×10. See the quest page for details.
-
-2. Promise of Reunion: Earn up to Primogems ×120. See the quest page for details.
-
-3. Share your exclusive link to invite friends and earn up to Gears of Destiny ×10. See the quest page for details.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
@@ -915,36 +875,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Adventurer's Booster Bundles" - Round 41 Available for a Limited Time](archive/21165.md)
-## Adventurer's Booster Bundle
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/00c6b646bf9764aec0f881bc747bf82b_7930583183509359801.jpg)
-
-Round 41 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/02 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/02 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
