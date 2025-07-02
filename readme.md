@@ -500,66 +500,6 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
-# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
-## Stygian Onslaught
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
-
-Disturbance Outbreak: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/05 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
-
-● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
-
-The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
-
-From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
-
-● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
-
-"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
-
-There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
-
-Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
-
-● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
-
-During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
-
-Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
-
-After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
-
-● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
-
-Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
-
-● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
-
-"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
-
-"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21191.md)
 ## The Genshin Impact Version 5.7 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/17/aadc2b32e8c31d5bed7ba605c64c112d_4629116313739312661.png)
@@ -643,6 +583,66 @@ After the event ends, you will no longer be able to take part and claim the rewa
 The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
+## Stygian Onslaught
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
+
+Disturbance Outbreak: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/05 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
+
+〓Event Details〓
+
+● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
+
+● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
+
+The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
+
+From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
+
+● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
+
+"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
+
+There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
+
+Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
+
+● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
+
+During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
+
+Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
+
+After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
+
+● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
+
+Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
+
+● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
+
+"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
+
+"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
 
 -----
 
@@ -822,32 +822,6 @@ And complete Archon Quest Chapter I: Act III "A New Star Approaches"
 
 -----
 
-# ["Speculation" Event Details](archive/21166.md)
-## Speculation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/e8e5412881e9baf844e642d78264e703_2920489129441799664.jpg)
-
-Travelers can earn rich rewards in "Speculation" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Speculation" and Furnishing Blueprint "Peaceful Forest Dream" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/28 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● Starting from this Battle Pass, reach Gnostic Hymn Level 38 to obtain Dust of Enlightenment from the BP Bounty.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/07/28 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
 # [The Version 5.7 Submission Contest has begun!](archive/21186.md)
 ## Version 5.7 Submission Contest
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/12/43e5d9d2d216ff50461a1794be51e1d8_8325375374443238202.jpg)
@@ -898,6 +872,52 @@ Before Version 6.0 update, once you reach Adventure Rank 28 and complete Archon 
 
 -----
 
+# ["Speculation" Event Details](archive/21166.md)
+## Speculation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/e8e5412881e9baf844e642d78264e703_2920489129441799664.jpg)
+
+Travelers can earn rich rewards in "Speculation" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Speculation" and Furnishing Blueprint "Peaceful Forest Dream" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/28 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● Starting from this Battle Pass, reach Gnostic Hymn Level 38 to obtain Dust of Enlightenment from the BP Bounty.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/07/28 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Adventurer's Booster Bundles" - Round 41 Available for a Limited Time](archive/21165.md)
 ## Adventurer's Booster Bundle
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/00c6b646bf9764aec0f881bc747bf82b_7930583183509359801.jpg)
@@ -925,26 +945,6 @@ Purchase Requirements: Adventure Rank 25 or above
 Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
 
 Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
