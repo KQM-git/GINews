@@ -500,6 +500,42 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
+
+〓Special Rules〓
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/07/05 10:00</t> - <t class="t_lc" contenteditable="false">2025/07/21 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_2595749569127770563.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # [View the Updated Exclusive Genshin Impact Tools!](archive/21191.md)
 ## The Genshin Impact Version 5.7 Tools Update Is Here!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/17/aadc2b32e8c31d5bed7ba605c64c112d_4629116313739312661.png)
@@ -855,26 +891,6 @@ Adventure Rank 20 or above
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
 
 ※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/07/28 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21193.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
