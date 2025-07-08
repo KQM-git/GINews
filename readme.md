@@ -106,16 +106,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
-# [Version 5.7 New Content Overview](archive/21217.md)
-## Version 5.7 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/17/acf8d67f4e4cd4461143e9e160fe3eba_4752805912147663962.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/17/d8d6219158ddd4fd00d1e82a9f06cf8a_6171067154839799154.jpg)
-
------
-
 # ["A Space and Time for You" Version 5.7 Update Details](archive/21175.md)
 ## Version 5.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/b7a8e19df253c5191797bb2ef26a4430_6547775574113915152.jpg)
