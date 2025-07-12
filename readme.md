@@ -1,3 +1,33 @@
+# ["Reminiscent Regimen: Frenzy" Event: Fun Co-Op Challenges](archive/21172.md)
+## Reminiscent Regimen: Frenzy
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/5b8bc6a779aee360716bd407b673183c_4784567358735880756.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/07/14 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/24 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/70705239d3c88f4eb4391b83fbfa4159_9064333951615760752.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● After the event begins, the maximum number of Frenzy Stars obtainable from challenges will increase by 200 every 2 days, starting from 300, up to 700.
+
+● Travelers can play Reminiscent Regimen: Frenzy challenges through Single-Player Matchmaking or Team Matchmaking, and each challenge has 3 stages.
+
+● Each time a challenge begins, a random Regimen Reaction Theme will be applied, granting additional buff effects for certain Elemental reactions. Travelers can then choose characters that are suited to the challenge and select additional buff effects from the available Reminiscence Reinforcements to enhance them further.
+
+● After successfully completing a challenge, Travelers will gain Frenzy Stars based on their performance and can claim the corresponding rewards based on their Frenzy Stars.
+
+-----
+
 # ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
 ## Overflowing Abundance
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/24/0cbb92a688176995a17c7bd41045dc2a_2224453158799685257.png)
