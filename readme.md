@@ -1,117 +1,3 @@
-# ["Reminiscent Regimen: Frenzy" Event: Fun Co-Op Challenges](archive/21172.md)
-## Reminiscent Regimen: Frenzy
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/5b8bc6a779aee360716bd407b673183c_4784567358735880756.jpg)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/07/14 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/24 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/70705239d3c88f4eb4391b83fbfa4159_9064333951615760752.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● After the event begins, the maximum number of Frenzy Stars obtainable from challenges will increase by 200 every 2 days, starting from 300, up to 700.
-
-● Travelers can play Reminiscent Regimen: Frenzy challenges through Single-Player Matchmaking or Team Matchmaking, and each challenge has 3 stages.
-
-● Each time a challenge begins, a random Regimen Reaction Theme will be applied, granting additional buff effects for certain Elemental reactions. Travelers can then choose characters that are suited to the challenge and select additional buff effects from the available Reminiscence Reinforcements to enhance them further.
-
-● After successfully completing a challenge, Travelers will gain Frenzy Stars based on their performance and can claim the corresponding rewards based on their Frenzy Stars.
-
------
-
-# [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21169.md)
-## Event Wish "Ancient Flame Ablaze"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/5de8594db70d2ee75357159e8eaf3a48_6369404053710062047.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | "Night-Igniting Flame" Mavuika (Pyro) | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Burgeoning Grace" Yaoyao (Dendro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Night-Igniting Flame" Mavuika (Pyro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Burgeoning Grace" Yaoyao (Dendro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/21170.md)
-## Event Wish "Ambrosial Essence"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/f0392358930b742536b52f19ab000449_7835193329905978929.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | "A Thousand Scents Traced" Emilie (Dendro) | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Burgeoning Grace" Yaoyao (Dendro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "A Thousand Scents Traced" Emilie (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Burgeoning Grace" Yaoyao (Dendro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for A Thousand Blazing Suns (Claymore) and Lumidouce Elegy (Polearm)!](archive/21171.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/0cb66f624f8c8e9f002b9cc3bac14ed5_5313608444485568904.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | A Thousand Blazing Suns (Claymore)  Lumidouce Elegy (Polearm) | The Flute (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons A Thousand Blazing Suns (Claymore) and Lumidouce Elegy (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), Rainslasher (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as A Thousand Blazing Suns (Claymore) or Lumidouce Elegy (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["A Space and Time for You" Version 5.7 Update Details](archive/21175.md)
 ## Version 5.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/b7a8e19df253c5191797bb2ef26a4430_6547775574113915152.jpg)
@@ -565,6 +451,120 @@ Fixes an issue whereby after reviving a friendly character, if Bond of Life was 
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Reminiscent Regimen: Frenzy" Event: Fun Co-Op Challenges](archive/21172.md)
+## Reminiscent Regimen: Frenzy
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/5b8bc6a779aee360716bd407b673183c_4784567358735880756.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/07/14 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/24 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/70705239d3c88f4eb4391b83fbfa4159_9064333951615760752.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● After the event begins, the maximum number of Frenzy Stars obtainable from challenges will increase by 200 every 2 days, starting from 300, up to 700.
+
+● Travelers can play Reminiscent Regimen: Frenzy challenges through Single-Player Matchmaking or Team Matchmaking, and each challenge has 3 stages.
+
+● Each time a challenge begins, a random Regimen Reaction Theme will be applied, granting additional buff effects for certain Elemental reactions. Travelers can then choose characters that are suited to the challenge and select additional buff effects from the available Reminiscence Reinforcements to enhance them further.
+
+● After successfully completing a challenge, Travelers will gain Frenzy Stars based on their performance and can claim the corresponding rewards based on their Frenzy Stars.
+
+-----
+
+# [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21169.md)
+## Event Wish "Ancient Flame Ablaze"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/5de8594db70d2ee75357159e8eaf3a48_6369404053710062047.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | "Night-Igniting Flame" Mavuika (Pyro) | "Tempered in Molten Stone" Iansan (Electro)
+^ | ^ | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Night-Igniting Flame" Mavuika (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Burgeoning Grace" Yaoyao (Dendro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/21170.md)
+## Event Wish "Ambrosial Essence"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/f0392358930b742536b52f19ab000449_7835193329905978929.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | "A Thousand Scents Traced" Emilie (Dendro) | "Tempered in Molten Stone" Iansan (Electro)
+^ | ^ | "Burgeoning Grace" Yaoyao (Dendro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "A Thousand Scents Traced" Emilie (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Burgeoning Grace" Yaoyao (Dendro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for A Thousand Blazing Suns (Claymore) and Lumidouce Elegy (Polearm)!](archive/21171.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/0cb66f624f8c8e9f002b9cc3bac14ed5_5313608444485568904.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | A Thousand Blazing Suns (Claymore)  Lumidouce Elegy (Polearm) | The Flute (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons A Thousand Blazing Suns (Claymore) and Lumidouce Elegy (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons The Flute (Sword), Rainslasher (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as A Thousand Blazing Suns (Claymore) or Lumidouce Elegy (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
