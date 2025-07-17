@@ -580,6 +580,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is an issue whereby after exiting Co-Op Mode, there is a small chance that Skirk's Passive Talent "Mutual Weapons Mentorship" will fail to take effect. Travelers encountering this issue can temporarily resolve it by switching to another party in the "Party Setup" interface, entering combat, and then switching back to the original party. This issue is expected to be fixed in Version 5.8.
 
+〓<t class="t_gl" contenteditable="false">2025/07/17 16:10</t> Update Details〓
+
+Fixes an issue whereby the stage challenge objectives in the event "Reminiscent Regimen: Combat" had a small chance of overlapping.
+
 〓<t class="t_gl" contenteditable="false">2025/07/03 16:10</t> Update Details〓
 
 - Fixes an issue in Co-Op Mode whereby if a Traveler quits during the "Stygian Onslaught" challenge, the Co-Op Challenge Records screen may display incorrectly upon completion, resulting in abnormal interface overlap.
