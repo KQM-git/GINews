@@ -614,6 +614,18 @@ Travelers affected by the above issues can log out via the Paimon Menu and close
 
 -----
 
+# [A First Look at Version 5.8 "Sunspray Summer Resort"!](archive/21251.md)
+## Genshin Impact Version 5.8 Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/11/c64ee0e9f49d4c77e511042559574b2e_2468034449737666969.jpg)
+
+Dear Traveler,
+
+Here's a first look at Version 5.8 "Sunspray Summer Resort"!
+
+[Click to check out the latest info on Version 5.8 "Sunspray Summer Resort"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_9LuGk_WEfM&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
