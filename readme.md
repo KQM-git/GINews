@@ -1,3 +1,31 @@
+# ["Fearsome Ferocious Firepower" Event: Control a cannon to defeat monsters](archive/21173.md)
+## Fearsome Ferocious Firepower
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/664c449545442278c9ee0c56b3ee7aff_3588608849140405271.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/07/21 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/a70c45d7ad65f36b5ee1acf7d2e53d15_4255570538995361509.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
+
+● Travelers must control the turret and, with limited ammunition, make use of a variety of different ammunition types to effectively deal with opponents.
+
+● After successfully passing the stages, corresponding rewards can be obtained based on the Traveler's challenge performance.
+
+-----
+
 # ["A Space and Time for You" Version 5.7 Update Details](archive/21175.md)
 ## Version 5.7 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/b7a8e19df253c5191797bb2ef26a4430_6547775574113915152.jpg)
