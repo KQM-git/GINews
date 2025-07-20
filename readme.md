@@ -654,42 +654,6 @@ Here's a first look at Version 5.8 "Sunspray Summer Resort"!
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
-
-〓Special Rules〓
-
-During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
-
-The first Action Card played each Round will cost 2 fewer Elemental Dice.
-
-Switching Character Cards is always a Fast Action.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/07/05 10:00</t> - <t class="t_lc" contenteditable="false">2025/07/21 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_2595749569127770563.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
-
------
-
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
