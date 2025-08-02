@@ -1,38 +1,24 @@
-# ["Fearsome Ferocious Firepower" Event: Control a cannon to defeat monsters](archive/21173.md)
-## Fearsome Ferocious Firepower
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/664c449545442278c9ee0c56b3ee7aff_3588608849140405271.jpg)
+# [Version 5.8 New Content Overview](archive/21267.md)
+## Version 5.8 New Content Overview
 
-〓Event Duration〓
 
-<t class="t_lc" contenteditable="false">2025/07/21 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/16c8fb609a8e2ff1b6ea05e8814fde3d_892512013489393628.jpg)
 
-〓Event Rewards〓
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/391595979fef3f4eaabf422c4b8ea8c9_1598567971245679311.jpg)
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/a70c45d7ad65f36b5ee1acf7d2e53d15_4255570538995361509.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/3664a3819f3108eac6b53db82c69582a_1295697891352751000.jpg)
 
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● From the first day of the event, a new stage will unlock every day. A total of five stages will be unlocked.
-
-● Travelers must control the turret and, with limited ammunition, make use of a variety of different ammunition types to effectively deal with opponents.
-
-● After successfully passing the stages, corresponding rewards can be obtained based on the Traveler's challenge performance.
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/a7a39846bb56886d709d5b7acf8c85f5_3377533522088017782.jpg)
 
 -----
 
-# ["A Space and Time for You" Version 5.7 Update Details](archive/21175.md)
-## Version 5.7 Update Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/b7a8e19df253c5191797bb2ef26a4430_6547775574113915152.jpg)
+# ["Sunspray Summer Resort" Version 5.8 Update Details](archive/21244.md)
+## Version 5.8 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/21/5ccd9d14b3a3c5144f525e2b45988446_4427208086912003314.png)
 
 Dear Traveler,
 
-Below are the details of the Version 5.7 update "A Space and Time for You" and the update compensation.
+Below are the details of the Version 5.8 update "Sunspray Summer Resort" and the update compensation.
 
 〓Compensation Details〓
 
@@ -42,13 +28,13 @@ Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensati
 
 〓Scope of Compensation〓
 
-Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/06/18 06:00</t>.
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/07/30 06:00</t>.
 
-Compensation must be claimed before the end of Version 5.7.
+Compensation must be claimed before the end of Version 5.8.
 
-Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/06/18 06:00</t>.
+Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/07/30 06:00</t>.
 
-Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2025/06/21 06:00</t>.
+Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2025/08/02 06:00</t>.
 
 Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
 
@@ -56,7 +42,7 @@ Our developers will distribute compensation to Travelers via in-game mail within
 
 Update maintenance begins
 
-<t class="t_gl" contenteditable="false">2025/06/18 06:00</t> and is estimated to take 5 hours.
+<t class="t_gl" contenteditable="false">2025/07/30 06:00</t> and is estimated to take 5 hours.
 
 〓How to Update Game Client〓
 
@@ -74,387 +60,379 @@ Please do not hesitate to contact Customer Service if you encounter any issues i
 
 〓Update Details〓
 
-I. New Characters
+I. New Areas
 
 <details open="true">
-<summary><span style="color:rgba(53,170,204,1)"><span>5-Star Character "Void Star" Skirk (Cryo)</span></span></summary>
+<summary><span>New Area Now Available</span></summary>
 
-◇ The Seven-Shifting Serpent: Cryo
+◇ In Version 5.8, the following area in Natlan will become available: Easybreeze Holiday Resort.
 
-◇ Weapon: Sword
+※ As long as you have completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom," a Teleport Waypoint will be automatically unlocked near Natlan's Easybreeze Holiday Resort (If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update). You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
 
-◇ A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.
-
-◆ Skirk is a flexible Cryo DPS who performs well both on-field and in quick-swap rotations.
-
-She can obtain special energy by triggering certain Cryo reactions via party members and releasing Elemental Skills.
-
-By tapping the skill button, she will continuously consume this special energy, causing her Normal Attacks to deal Cryo DMG for sustained combat.
-
-When sufficient special energy is accumulated, she can consume it all to unleash her Elemental Burst, dealing massive AoE Cryo DMG instantly.
+In addition, there will be new Fishing Points and "Radiant Spincrystals" in Natlan.
 
 </details>
+II. New Character
 
 <details open="true">
-<summary><span style="color:rgba(73,143,204,1)"><span>4-Star Character "Ode and Oblation" Dahlia (Hydro)</span></span></summary>
+<summary><span style="color:rgba(105,87,194,1)"><span>5-Star Character "Boom Boom Thunderwave" Ineffa (Electro)</span></span></summary>
 
-◇ Vision: Hydro
+◇ ???: Electro
 
-◇ Weapon: Sword
+◇ Weapon: Polearm
 
-◇ Deacon of the Church of Favonius and the Anemo Archon's representative in the church.
+A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.
 
-◆ Dahlia is a Hydro support character who provides shields and ATK SPD buffs for his teammates.
+◆ Ineffa is an Electro support character who provides protective Shields for her teammates and allows them to trigger Lunar-Charged reactions.
 
-When releasing his Elemental Skill, Dahlia summons "Sacramental Shower" that can launch characters upward or deal AoE Hydro DMG to enemies.
+When Ineffa uses her Elemental Skill, she activates her Optical Flow Shield Barrier and summons "Birgitta" to continuously attack enemies.
 
-His Elemental Burst summons a Shield of Sacred Favor and increases the ATK SPD of the active character.
+Ineffa's Elemental Burst launches Birgitta forward, dealing AoE Electro DMG and keeping Birgitta on the field.
 
 </details>
-II. New Equipment
+III. New Equipment
 
 New Weapon (Examples based on Refinement Rank 1)
 
 <details open="true">
-<summary><span>Azurelight (5-Star Sword)</span></summary>
+<summary><span>Fractured Halo (5-Star Polearm)</span></summary>
 
-Within 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Elemental Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%.
+After an Elemental Skill or Elemental Burst is used, ATK is increased by 24% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 40% more Lunar-Charged DMG.
 
-◆ The event-exclusive 5-star weapon "Azurelight" (Sword) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
+◆ The event-exclusive 5-star weapon "Fractured Halo" (Polearm) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
 
 </details>
-III. New Main Story
+
+<details open="true">
+<summary><span>Flame-Forged Insight (4-Star Claymore)</span></summary>
+
+When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore 12 Elemental Energy and increase Elemental Mastery by 60 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.
+
+◆ Flame-Forged Insight (Claymore) and its refinement materials can be redeemed in the event "Sunspray Summer Resort."
+
+</details>
+IV. New Outfits
+
+<details open="true">
+<summary><span>Yelan - "Tranquil Banquet"</span></summary>
+
+◇ The outfit Yelan has prepared for her holiday. Elegant yet neat, it conveys a sense of leisure while somehow still carrying a hint of concealed aggression...
+
+◆ After the Version 5.8 update to <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>, Yelan's outfit "Tranquil Banquet" will be available for purchase in the Character Outfit Shop at a limited-time discount! During the discount period, the price of the outfit is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+</details>
+
+<details open="true">
+<summary><span>Bennett - "Adventures in Blazing Hue"</span></summary>
+
+◇ Bennett's traveling attire for his journeys in Natlan. Dyed lucky lakewater blue with hints of blazing orange, these clothes emanate an overflowing vitality that matches the land in which they are worn.
+
+◆ In Version 5.8, you will be able to get Bennett's outfit "Adventures in Blazing Hue" for free by participating in the limited-time "Sunspray Summer Resort" event.
+
+◆ After Version 5.8 is over, Travelers can buy the outfit in the Character Outfit Shop.
+
+</details>
+V. New Main Story
 
 1. New Archon Quest
 
 <details open="true">
-<summary><span>Archon Quest Chapter V: Act VI "A Space and Time for You"</span></summary>
+<summary><span>Song of the Welkin Moon — Prelude "The Journey Home"</span></summary>
 
-Permanently available after the Version 5.7 update
+Permanently available after the Version 5.8 update
 
 ◆ Quest Unlock Criteria:
 
 • Reach Adventure Rank 28 or above
 
-• Complete Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection"
+• Complete Archon Quest Chapter V: Act VI "A Space and Time for You"
 
 • The "Focused Experience Mode" function is available for this quest.
-
-• Use the "Quick Start" function to immediately begin the prerequisite quest: Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn."
 
 </details>
 2. New Story Quest
 
 <details open="true">
-<summary><span>Skirk's Story Quest "Crystallina Chapter: Act I - Whispers Betwixt Stars and Night"</span></summary>
+<summary><span>"Sunspray Summer Resort" Chain Quests</span></summary>
 
-Permanently available after the Version 5.7 update
+Quests will be unlocked after the "Sunspray Summer Resort" event phase begins.
 
 ◆ Quest Unlock Criteria:
 
-• Reach Adventure Rank 40 or above
+• Adventure Rank 18 or above
 
-• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+• Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 • The "Focused Experience Mode" function is available for this quest.
 
-Additionally, after the Version 5.7 update until <t class="t_lc" contenteditable="false">2025/07/08 17:59</t>, the "Quick Start" function will be available for Skirk's Story Quest - "Crystallina Chapter: Act I - Whispers Betwixt Stars and Night."
+After the events ends, the Story Quest "Sunspray Summer Resort" will become a permanent quest. Travelers who meet the requirements can accept the quest at the "Easybreeze Holiday Resort" in Natlan.
 
 </details>
-IV. Function Iterations
+3. New World Quest
 
 <details open="true">
-<summary><span>Quest Resource Management Update</span></summary>
+<summary><span>New World Quests</span></summary>
 
-After the Version 5.7 update, when first launching the game on mobile, Travelers need to select their preferred resource update option:
+"The Last Survivor of Tenochtzitoc," "Dreamy Paititi," "Traces of Chroma," and "Shine On, Pipilpan Idol!," etc.
 
-◇ Full Resources
-
-Download all resources. Future version updates will automatically update related resources.
-
-*Recommended to select "Full Resources."
-
-◇ Basic Resources
-
-Only downloads essential resources for gameplay, excluding optional content like some Archon Quests, Story Quests, and Hangout Events. Locally downloaded related resources will be automatically cleared. Optional content will not be automatically downloaded in future updates. To experience related quests, you'll need to manually download missing resources first.
-
-After initial selection, you can change your option or manually download needed resources via Settings > Resources.
-
-*This function is only available on mobile devices.
+"The Last Survivor of Tenochtzitoc" and "Dreamy Paititi" Unlock Criteria: Complete certain phases of the "Sunspray Summer Resort" quest chain.
 
 </details>
-V. Genius Invokation TCG
+VI. Elemental Reaction
+
+<details open="true">
+<summary><span>Lunar-Charged</span></summary>
+
+When Electro meets Hydro, and certain other conditions are met, a special Lunar-Charged reaction occurs, and a thundercloud forms. This thundercloud will continuously release bursts of lightning at nearby targets who are affected by both Electro and Hydro, dealing Electro DMG.
+
+This DMG can trigger CRIT Hits, and the DMG dealt is based on all characters who have applied elements during the reaction.
+
+</details>
+VII. Genius Invokation TCG
 
 <details open="true">
 <summary><span>Genius Invokation TCG Gameplay Update</span></summary>
 
-New Character Cards: Chasca, Citlali, Mavuika, and their corresponding Talent cards. Corresponding invitation duel and guest challenges have been added to the Player List.
+New Character Cards: Lan Yan, Shikanoin Heizou, and their corresponding Talent card. Corresponding invitation duel and guest challenges have been added to the Player List.
 
-New Action Cards "The Dockhand's Assistant," "Crown of the Saints," "Scroll of the Hero of Cinder City," "Rawr! Rawr!," "Fight for Death," "Fire and War," "Flying Squad, Attack!," "Fruits of Training," and "Harvest's Boon" have been added which can be purchased from Prince at The Cat's Tail.
+New Character Card: Gluttonous Yumkasaur Mountain King and the corresponding Talent card. The Tavern Challenge has also been added.
 
-The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Endless Swarm":
+New Action Cards "Crownless Crown," "Whimsical Dance of the Withered," "Calligraphy Tavern," "Constellation Metropole," "Forest Blessing," "Gift of the Goddess of Prophecy," "Harvest Time," and "Awesome, Bro" have been added which can be purchased from Prince at The Cat's Tail.
 
-(1) Defeat endless waves of enemies during the rounds in "The Forge Realm's Temper: Endless Swarm" to accrue score.
+Reach Player Level 10 to unlock 14 new Open World Players located at Natlan's tribes and Easybreeze Holiday Resort.
 
-(2) After you complete the stage battle, you will gain a score and the corresponding rewards based on the highest score you got in the stage.
+The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Game of Wits":
 
-(3) Different stages will contain different special rules that grant buffs. Use these rules well to fight more effectively.
+(1) During The Forge Realm's Temper: Game of Wits, some stages will have special victory and defeat conditions or unique Special Rules. Adeptly adapt your tactics to complete the challenge and avoid the conditions for defeat!
+
+(2) Within The Forge Realm's Temper: Game of Wits event stages, there will also be special victory or defeat rules that can easily exert influence on the tempo of the match. Fully utilizing these special rules will contribute greatly to your success.
 
 </details>
-VI. Imaginarium Theater
+VIII. Imaginarium Theater
 
 <details open="true">
 <summary><span>Imaginarium Theater Update</span></summary>
 
-After the Version 5.7 update, the first season of "Imaginarium Theater" will be available on July 1, 2025.
+After the Version 5.8 update, the two Imaginarium Theater seasons will be as follows:
 
-Required Elemental Types: Pyro, Hydro, and Cryo
+○ The first season of "Imaginarium Theater" will be available on August 1, 2025.
 
-Opening Characters: Lyney, Xiangling, Tartaglia, Dahlia, Wriothesley, and Rosaria
+Required Elemental Types: Electro, Cryo, and Anemo
+
+Opening Characters: Yae Miko, Kuki Shinobu, Ganyu, Layla, Yumemizuki Mizuki, and Sucrose
 
 When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
 
-Special Guest Stars: Emilie, Kinich, Lan Yan, and Noelle
+Special Guest Stars: Neuvillette, Xingqiu, Nahida, and Gaming
 
-After the first season of Imaginarium Theater begins, the characters Mualani, Lyney, Yaoyao, and Charlotte will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
+After the first season of Imaginarium Theater begins, the characters Yelan, Wriothesley, Bennett, and Fischl will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
+
+○ The second season of "Imaginarium Theater" will be available on September 1, 2025.
+
+Required Elemental Types: Pyro, Hydro, and Dendro
+
+Opening Characters: Hu Tao, Thoma, Nilou, Xingqiu, Baizhu, and Collei
+
+When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
+
+Special Guest Stars: Chasca, Citlali, Ineffa, and Iansan
+
+After the second season of Imaginarium Theater begins, the characters Chasca, Alhaitham, Razor, and Yun Jin will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
 
 </details>
-
-<details open="true">
-<summary><span>Envisaged Echoes Update</span></summary>
-
-After the Version 5.7 update, new challenge stages and Echo cosmetics for Raiden Shogun and Shenhe will be added.
-
-</details>
-VII. Spiral Abyss
+IX. Spiral Abyss
 
 <details open="true">
 <summary><span>Spiral Abyss Update</span></summary>
 
-◇ After the Version 5.7 update, Phase 1 of the Spiral Abyss will be updated on July 16.
+After the Version 5.8 update, Phase 1 of the Spiral Abyss will be updated on August 16.
 
 ◆ Floor 11 Ley Line Disorder changed to:
 
-All party members receive a 60% Cryo DMG Bonus.
-
-All party members gain a 60% Pyro DMG Bonus.
+• All characters in the party gain a 75% Electro DMG Bonus.
 
 ◆ Floor 12 Ley Line Disorders changed to:
 
-First Half: Cryo DMG dealt by all party members increased by 75%.
+• First Half: Characters' Electro-Charged and Lunar-Charged DMG increased by 75%.
 
-Second Half: All party members' Nightsoul-aligned DMG increased by 75%.
+• Second Half: Characters' Nightsoul-aligned DMG dealt to opponents increased by 75%.
 
 ◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
 
 ◆ Blessing of the Abyssal Moon:
 
-Bitterfreeze Moon
+Wavering Moon
 
-When a character triggers Cryo-related reactions, a shockwave will be released at the opponent's position, dealing True DMG to nearby opponents. This effect can be triggered once every 2.5s.
+When a character triggers Hydro-related reactions (including Lunar-Charged), a shockwave will be released at the opponent's position, dealing True DMG. This effect can be triggered once every 3s.
 
 </details>
-VIII. Other Update Details
+X. Other Update Details
 
-- New Character Specialty Dishes:
+- New Recipes:
 
-○ Skirk's specialty: "Abyssal Bounty"
+○ Exploration or Quest Rewards: "Gentle Sea Breeze," "Shrimp Bisque," and "Mini Asha Pockets," etc.
 
-○ Dahlia's specialty: "Chatter of Joyful Nights"
+- Adds new "A Summer of Ash and Prickly Pears" Achievement category, and adds new Achievements to the "Wonders of the World" category.
 
-- New Collaboration Recipes:
-
-○ Obtainable via Mail: "Meat-Lover's Feast," "Nine-Fruit Nectar," and "Bubblemilk Pie"
-
-Travelers who have reached Adventure Rank 2 or above can log in after <t class="t_gl" contenteditable="false">2025/07/11 12:00</t> – before Version 5.8 maintenance to claim these via mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-- Adds new Achievements to the "Wonders of the World" category.
-
-- Adds Set 41 of "Paimon's Paintings" chat emojis.
+- Adds Set 42 of "Paimon's Paintings" chat emojis.
 
 - Adds some prompts for loading screens.
 
 - New Namecards:
 
-"Skirk: Lone Shadow": Reward for reaching Friendship Lv. 10 with Skirk
+"Ineffa: Command": Reward for reaching Friendship Lv. 10 with Ineffa
 
-"Dahlia: Sacred Duty": Reward for reaching Friendship Lv. 10 with Dahlia
+Natlan: Wheel of Flame: Reward for reaching Tona's Flame Level 48
 
-"Travel Notes: Speculation": Reward obtained via the BP system
+"Natlan: Chasing the Wind": Reward for completing all achievements under "A Summer of Ash and Prickly Pears"
 
-- Adds a new consumable "Dust of Enlightenment" to the Artifacts system. Travelers can now consume Dust of Enlightenment to randomly reallocate the enhancements of Minor Affixes on a fully-leveled 5-star Artifact.
+"Travel Notes: Easy Breezy": Reward obtained via the BP system
+
+- Tona's Flame: Increase in the Level Cap of Tona's Flame to Level 50. After Tona's Flame reaches its maximum level, Pyro Sigils can be exchanged with Siyah at Natlan's Saurian Relics Association.
+
+- Repertoire of Myriad Melodies Update:
+
+Adds new music album "Natlan: Plains of Flowing Flames."
+
+Adds new score themes "Blazing Sunfire Scours the Gloom" and "Eternal Dreams of Serenity."
+
+Adds new instrument "Leaping Spirit Piano" that can be purchased from the Djembe Studios.
 
 〓Adjustments & Optimizations〓
 
 ● Enemies
 
-Abyss enemies, such as Abyss Lectors and Abyss Heralds will now activate their Wards shortly after their HP falls below a certain percentage and are Frozen. (Previously, they remained frozen for an extended duration without activating their Wards, making them difficult to defeat. With this change, they will now activate Wards more quickly, allowing them to be defeated normally.)
+- Increases the combat area boundary for the enemy Lava Dragon Statue in the open world to reduce instances of its unintended combat disengagement.
 
-● Chat
-
-- Optimizes the display and interaction experience of the chat interface.
-
-- Adds the "Manage Emoji Group" feature, allowing you to customize which emojis and emoji groups are shown and how they are sorted.
-
-- Adds interaction options for individual chat messages, such as tagging other Travelers in non-private chats.
-
-- Optimizes the block function. Blocking settings will no longer reset when switching devices. A "Mute List" has also been added under "Manage Blocklist."
-
-● "Character" > "Artifact" Interface
-
-- Adjusts the "Fast Equip" interface and optimizes the algorithm for configuration recommendations.
-
-- The "Recommended Configurations" function now includes a "Check Alternatives" feature, allowing you to swap Artifacts with other suggested options.
-
-- You can now select two preset configurations in "Custom Configuration."
-
-- Adds a new "Recommended Order Scope of Effect" setting to the sorting function, which can be set to "Current Slot" or "All Slots."
-
-● Crafting
-
-- The "Crafting" > "Convert" interface now includes a "Filter by Character" feature, and a "View Characters" button has been added to the top-right corner of the screen.
-
-- The "Crafting" > "Mystic Offering" screen will now remember the last selected Artifact Strongbox and automatically select it the next time the screen is opened.
-
-- The number of Condensed Resin in your inventory is now displayed on the "Map" and "Domain Entrance" screens.
-
-● Domains
-
-- After completing a Domain, you can now select "Skip Reward Cutscene" from the top-left corner of the reward screen.
-
-- If you exit a Domain before starting the challenge, the "Challenge Failed" screen will no longer appear.
-
-● Adventurer Handbook
-
-- Added a tracking option for Ley Line Outcrops in the Enemies tab.
-
-- You can now click the question mark icon when selecting certain enemies in the "Enemies" tab to view the relevant tutorial.
-
-- Adjusts enemy order in the "Enemies" tab based on update timing.
-
-- The "Domains" page of the Adventurer Handbook and the corresponding Trounce Domain entrance interfaces now show "First-Clear Rewards" for Trounce Domains. These rewards can be claimed upon clearing the Trounce Domain on highest difficulty, whether in Single Player Mode or in Co-Op Mode. Travelers who already cleared the relevant Trounce Domains on highest difficulty before the update can claim the rewards directly afterward.
-
-● Spiral Abyss
-
-- Optimizes the UI and user experience for the Spiral Abyss interface.
-
-- When restarting a floor or entering the next floor after completion, the "Start Challenge" screen will retain the previous team configuration. A button that clears all current Party Setups has also been added to this screen.
-
-- If you complete a chamber but fail to earn all Abyssal Stars, the results screen will now include a "Retry Challenge" option.
-
-- After completing Floor 12 Chamber 3, the results screen will display your total Abyssal Stars for this season, and all unclaimed Star's Bounty will be automatically distributed by the system.
-
-● Other Character Enhancement interfaces
-
-- In the source info for "Character Ascension Materials" and "Character Level-Up Materials," clicking "Obtained from the Crafting Bench Conversion Tab" will open the Crafting Bench on the Map.
-
-- The source info for 3-star and above "Character and Weapon Enhancement Materials" now includes a shortcut to Stardust Exchange.
-
-- For Local Specialties that can be farmed via gardening, their source info will now indicate "Grown in the Serenitea Pot."
-
-- In certain interfaces that recommend development stats (e.g., recommended Character - Artifacts, talent priorities, etc.), preset data will be used for recommendations when player data is insufficient.
-
-- Adjusts the display and interaction of the "Character" > "Talents" interface. If enough materials are available, talents can now be leveled up consecutively in the confirmation screen.
-
-- Starting from Version 5.7, the "Character" > "Talents" interface and the "Test Run" event will feature the "Talent Demo" button, which includes character role descriptions and some skill descriptions.
-
-- Optimizes the UI for claiming rewards after completing a Domain or Ley Line Outcrop. A new option to consume Fragile Resin or Transient Resin to receive triple rewards has been added. This option will only appear when you own these resin types.
-
-● Genius Invokation TCG
-
-Optimizes the matchmaking mechanism for Genius Invokation TCG co-op matches. The opponent's ready status will now be hidden once matched.
+- Fixes an issue whereby under certain circumstances, Skirk would fail to gain Serpent's Subtlety after purifying the Totem Poles during the "Lord of Eroded Primal Fire" challenge.
 
 ● Quests
 
-- Adjusts the unlock requirements for the Genius Invokation TCG tutorial quest: now requires Adventure Rank 30 and completion of the Archon Quest "Song of the Dragon and Freedom."
+In certain quests, Traveler's trial Artifact set has been updated to better match the intended attribute scaling.
 
-- Optimizes the order and display of World Level Ascension Quests.
+● Map
 
-- New dialogue options have been added to NPC Orban. These options become available after completing the Archon Quest "Paralogism" and the World Quest "The Festering Fang."
+When tracking local specialties in a region, the sidebar on the Map screen will display characters who can reveal the locations of that region's specialties.
+
+● Enhancement
+
+- When Domains of Forgery or Domains of Mastery are available, teleporting to a domain via the Training Guide or a material's Source section now automatically selects the corresponding challenge upon interacting with the domain entrance. For example, entering the Domain for "Philosophies of Contention" through the methods above auto-selects the Domain of Mastery stages that drop Teachings of Contention, Philosophies of Contention, or Guide to Contention.
+
+- Adjusts the unlock conditions for Ley Line Outcrops in regions outside Mondstadt and Liyue: previously requiring specific Adventure Ranks per region, they now unlock upon reaching Adventure Rank 18 and activating at least one Statue of The Seven in the relevant region (this may alter available region options for Ley Line Outcrops in the Adventurer Handbook's "Enemies" tab).
+
+- Starting from characters released in Version 5.7, the Character > Talents > Talent Demo screen and the Test Run stage will feature demo videos.
+
+- Optimizes the calculation logic for Character EXP Materials and Mora in the "Level-Up Plan" feature under the Training Guide section.
+
+- Adds a "Challenge Invitation" filter option to the character selection interface in the Training Guide, allowing Travelers to filter characters based on the current available Imaginarium Theater roster.
+
+● Items
+
+- After collecting a Crystal Core from the Crystalfly Trap, the gadget will now remain in place and no longer needs to be redeployed.
+
+- Starting from this Version update, the Crystalfly Trap will now remember the materials used during activation. The next time it is activated, those materials will be automatically selected.
+
+- Oculus Resonance Stone can now be reused after cooldown to abandon the current target and mark a different Oculus, as long as there is more than one Oculus available to mark in the current region. The previously abandoned Oculus will have its marking priority adjusted to the lowest.
+
+- Clicking "Blossom of Revelation Revitalization Reward" in the "Source" section of Hero's Wit or Adventurer's Experience now automatically selects the Ley Line Outcrop: Blossom of Revelation on the "Adventurer Handbook > Enemies" tab.
+
+- The "Source" description for the Mora item has been expanded with additional details. Clicking "Blossom of Wealth Revitalization Reward" now also automatically selects the Ley Line Outcrop: Blossom of Wealth on the "Adventurer Handbook > Enemies" tab.
+
+● Time Interface
+
+If the currently tracked quest has time requirements, the specified time will now be displayed in the Paimon Menu > Time interface. Additionally, clicking the quest objective or using the navigate quest objective hotkey (default key: V) will directly open the Time menu and automatically select the corresponding time.
+
+● Other Interfaces
+
+- Adds audio settings shortcut to the dialogue interface.
+
+- In the Inventory > Artifacts interface, after enabling the feature of showing 5-star Artifacts in the order of when they were obtained, Artifact Enhancement Materials will still be displayed and will no longer be hidden.
+
+- When you view a 5-star Artifact in the Character Menu, if the Artifact has a highlighted Main Affix and possesses at least 5 highlighted Minor Affixes (including enhanced Minor Affixes), then this Artifact will display a special mark. This feature can be toggled on and off in Settings > Other.
+
+- Adjusts the sorting of Trounce Domains in the Adventurer Handbook > Domain interface. Trounce Domains that are eligible for Quick Challenge or are already unlocked will now be sorted by update time (newest to oldest). In previous versions, Domains eligible for Quick Challenge but haven't been unlocked were displayed further down the list.
 
 ● Audio
 
-- Optimizes fade and transition sound effects when interacting with the "Sweet Dreams" furnishing.
+- Supplements some English voice-over resources for Xilonen, Yelan, Aether, and Lumine in Version 5.7.
 
-- Optimizes Ifa's "Hello" voice-over in Japanese.
+- Sucrose's English VA will be updated. Historical content will be gradually updated in subsequent versions.
 
-- Adds and replaces some of Kinich's English voice lines in content from previous versions. (Now, all of Kinich's voice lines have been replaced.)
+● Graphics API
 
-- Supplements some of Hu Tao and Venti's English voice lines in content from previous versions.
+After the update, Android devices with the following SoC models will use the Vulkan graphics API:
 
-- After Version 5.7 is updated, Keqing and Paimon's English VAs will be updated (this change only applies to new content in Version 5.7, historical content will be gradually updated in subsequent versions).
+Snapdragon 8 Elite, Snapdragon 8s Gen 4, Snapdragon 8 Gen 3 (GPU driver version 744.12 or above), Snapdragon 8 Gen 2 (GPU driver version 676.3 or above), Snapdragon 8s Gen 3, Snapdragon 8+ Gen 1 / Snapdragon 8 Gen 1 (excluding GPU driver versions 615.82 to 615.94), Dimensity 9000 / Dimensity 9000+, Dimensity 9200 / Dimensity 9200+, Dimensity 9300 / Dimensity 9300+, Dimensity 9400, Exynos 2200, Exynos 2400, and Exynos 2500.
+
+*Travelers using Android devices can check the current graphics API in use by navigating to Settings > Graphics.
+
+**We recommend Travelers who use a compatible Android device to update their device's system to the latest version.
 
 ● Other
 
-- After consuming food with a duration-based effect, a notification will now appear on the game interface.
+- After this version update, Genesis Crystals on PlayStation® and other platforms will become shared and interchangeable. They will be displayed together and can be used across platforms without discrimination. Any remaining Genesis Crystals recharged on PlayStation® and other platforms before the update will be merged into a single total.
 
-- Adjusts the trigger conditions for the blue-highlighted guidance box in "Craft" > "Convert." (Travelers who have already triggered it will not see it again.)
+- After this version update, "Gnostic Hymn" or "Gnostic Chorus" unlocked on PlayStation® will allow rewards to be claimed on other platforms and vice versa — those unlocked on other platforms can also claim rewards on PlayStation®. The two will no longer be kept separate.
 
-- Increases the daily forging limit for Weapon Enhancement Materials on the Forge page. For example, the daily cap for Mystic Enhancement Ore has been raised from 30 to 40.
+- Visual effect for the 4-Piece Set effect of the Artifact "Finale of the Deep Galleries" has been adjusted as an icon displayed above the HP bar instead of around the character model.
 
-- Adds one "Dust of Enlightenment" to both Gnostic Hymn and Gnostic Chorus in the Battle Pass system.
+- Optimizes the operation process during character outfit purchases.
+
+- Optimizes certain interface elements in "Repertoire of Myriad Melodies."
+
+- Optimizes the interface performance on mobile during resource download, update, and verification when launching the game. When these processes are expected to take a long time, unrelated in-game visuals will be paused to reduce device power consumption.
 
 〓Bug Fixes〓
 
-● Quests
-
-- Fixes an issue whereby under specific conditions during Escoffier's Story Quest "Treasured Above All," the cooking screen displayed abnormally.
-
-- Fixes an issue whereby the quest objective "Try to activate the Astral Assemblage(s)" in the World Quest "The Forsaken Sea of Wisdom" could not be completed under certain conditions.
-
 ● Enemies
 
-- Fixes an issue whereby the attack range of the enemy "Lava Dragon Statue"'s magma strike did not match the actual animation.
+- Fixes an issue where, under certain circumstances, the deployment progress of the Thunderthorn Ward would briefly reappear after being fully charged through attacks following the destruction of the Thunderthorn Ward on the Battle-Hardened Tent Tortoise or Local Legend: Cocijo.
 
-- Fixes an issue whereby the enemy "Local Legend: The Peak" behaved abnormally in combat and remained immobile for a period of time after using its skill under certain circumstances.
+- Fixes an issue whereby the enemy "Tenebrous Papilla" could occasionally exhibit abnormal behavior when challenged by characters at specific locations in the open world.
 
-- Fixes an issue whereby during some attack animations, character attacks failed to deal damage to the "Secret Source Automaton: Overseer Device" even when the enemy was within the player's attack range.
-
-- Fixes an issue whereby the enemy "Ferocious Warrior: Human Ram"'s eyes displayed abnormally while casting a skill.
-
-- Fixes an issue whereby during the "The Game Before the Gate" challenge, the Ascended King had a small chance to fail to revive properly after being resurrected by the Sublimated Queen.
-
-- Fixes a discrepancy between the hit location and model position of the enemy "Chess Game: Queen Piece" after being defeated.
-
-- Fixes an issue whereby some enemies could not exit combat after leaving the battle zone.
-
-● Characters
-
-- Fixes an issue whereby Ifa had a small chance of not triggering the "Hypersense" effect of Ororon's Ascension Talent "Nightshade Synesthesia" when continuously attacking from a distance and approaching the enemy.
-
-- Fixes an issue whereby characters revived using food was brought back with 0 HP under certain conditions.
-
-- Fixes an issue whereby there was a small chance that Escoffier's nose highlight could sometimes display abnormally under shadowed lighting conditions.
-
-- Fixes an issue whereby Iansan could move horizontally through the air under certain circumstances.
+- Fixes an issue whereby the enemy "Furnace Shell Mountain Weasel" could occasionally exhibit abnormal behavior in Co-Op Mode.
 
 ● System
 
-- Fixes an issue whereby there was a small possibility that co-op Travelers who are not in your Friends list might not appear in the "Friends / Recent Co-Op Players" interface.
+- Fixes certain text display errors for the Archon Quest "Paralogism" in the "Travel Log/Archon Quests" interface.
 
-- Fixes an issue whereby the map of Natlan may display abnormally under specific conditions.
+- Fixes an issue where the cursor would disappear when closing certain side panels in the Map interface while using a controller.
 
-- Fixes an issue whereby the quantity of certain rewards on the "Domains" tab of the Adventurer Handbook were displayed incorrectly on Sundays.
+● Characters
 
-- Fixes an issue in the Travel Log/Tribal Chronicles interface whereby certain content in the quest "Orchard Repose" was displayed incorrectly.
+- Fixes an issue where, under certain circumstances, characters could perform Plunging Attacks at a non-vertical angle after interacting with a Phlogiston Wind Tunnel.
+
+- Fixes an issue whereby after exiting Co-Op Mode, Skirk's Passive Talent "Mutual Weapons Mentorship" may occasionally fail to activate.
+
+- Fixes an issue whereby during the second hit of Dahlia's Normal Attack, certain blur distortion effects would display in an incorrect position.
+
+- Fixes an issue whereby certain characters' Nightsoul's Blessing trailing effects would become abnormally elongated during character switching.
+
+- Fixes an issue whereby elemental attribute icons on character models could exhibit abnormal flickering under specific conditions.
+
+● Audio
+
+- Fixes errors with the Chinese voice-overs for certain quests.
+
+- Fixes an issue whereby character chat voice lines and related sound effects would unexpectedly play when opening the "Training Guide" from the "Character > Attribute" interface.
+
+- Fixes an issue whereby some interaction sound effects could be missing abnormally in certain interfaces.
+
+- Fixes an issue whereby background music would unexpectedly play during instrument performance under specific circumstances.
 
 ● Genius Invokation TCG
 
-Fixes an issue whereby after reviving a friendly character, if Bond of Life was attached and then removed, Sigewinne's Character Card passive skill "Detailed Diagnosis, Thorough Treatment" would not trigger as expected.
+Fixes an issue whereby the Character Card "Mavuika" abnormally triggers the effect of the Support Card "Treasure-Seeking Seelie" when preparing the skill "Flamestrider: Full Throttle."
 
 ● Other
 
-- Fixes an issue whereby the number of characters calculated that met the effect conditions of the "Chain Breaker" weapon did not match the actual number under certain circumstances.
+- Fixes an abnormal display issue on mobile with the lighting effect in an office in the Knights of Favonius headquarters.
 
-- Fixes an issue whereby when using the "Take Photo" function with Lynette while the character was active, her face would be displayed abnormally when switching to another character and then switching back to Lynette.
-
-- Fixes an issue whereby the Statue of The Seven could restore fallen characters' HP when the characters had not been revived under certain circumstances.
-
-- Fixes an issue whereby teleporting to the Trounce Domain "Unresolved Chess Game" on PS5 under certain conditions would result in a scene loading error.
-
-- Fixes an issue whereby after switching characters while collecting treasure, certain actions of Cloud Retainer's Damasked Device, Itty Bitty Octobaby, or Firstborn Firesprite would fail to trigger.
+- Fixes the issue where there is a chance that Phase 2 of the achievement "Reji" could not be completed.
 
 - Fixes text errors in certain screens and descriptions.
+
+- Fixes an issue whereby the ornamental fish "Secret Source Scout Sweeper" exhibits abnormal behavior patterns in the Serenitea Pot.
 
 - Fixes some text errors in certain languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
 
@@ -464,17 +442,23 @@ Fixes an issue whereby after reviving a friendly character, if Bond of Life was 
 
 〓Genius Invokation TCG Balance Adjustment〓
 
-- Adjusts the Elemental Dice cost for Kachina's Character Card Technique "Twirly Twirly Bam Bam" from 1 Die of any element to 1 Geo Die.
+- Increases the starting Max HP of the Character Card "Frost Operative" from 10 to 11.
 
-- Adjusts the effect of Zhongli's Character Card "Dominance of Earth": adds a limit of "Max 3 times per Round" to the "Geo DMG +1" effect.
+- Adjusts the Elemental Dice cost for Mavuika's Character Card Elemental Skill: The Pyro Dice cost is adjusted from 2 to 3.
 
-- Increases the starting Max HP of Albedo's Character Card from 10 to 12.
+- Adjusts the effect of the Talent Card "Night Realm's Gift: Heart of Unity" of the Character Card "Kachina": The effect's maximum triggers per round is adjusted from 2 to 1.
 
-- Increases the starting Max HP of Neuvillette, Beidou, Candace, Baizhu, and Hydro Hilichurl Rogue Character Cards from 10 to 11.
+- Adjusts the Elemental Skill DMG of the Character Card "Kinich": Dendro DMG dealt is adjusted from 2 to 1.
 
-- Adjusts the Elemental Burst DMG of the Hydro Hilichurl Rogue Character Card: Hydro DMG dealt is adjusted from 3 to 4.
+- Adjusts the Elemental Dice cost of Talent Card "Marcotte Sillage" of Character Card "Emilie": The Dendro Dice cost is adjusted from 1 to 2.
 
-- Reduces the Elemental Dice cost of Raiden Shogun's Elemental Burst and Talent Card "Wishes Unnumbered": the Electro Dice cost is adjusted from 4 to 3.
+- Adjusts the Elemental Dice cost of the Talent Card "All Reprisals and Arrears, Mine to Bear" of the Character Card "Arlecchino": The Pyro Dice cost is adjusted from 2 to 1.
+
+- Adjusts the Elemental Burst DMG of the Character Card "Frost Operative": Cryo DMG dealt is adjusted from 4 to 5.
+
+- Adjusts the Elemental Dice cost of Talent Card "Mamaloaco's Frigid Rain" of Character Card "Citlali": The Cryo Dice cost is adjusted from 1 to 2.
+
+- Adjusts the Elemental Dice cost and effect of the Event Card "Edict of Absolution": The Elemental Dice cost has been adjusted from 0 to 1 of the same element. The effect has been adjusted to "Heal the target character for 2 HP. The target character is immune to Frozen, Stun, Petrification, and other effects that prevent the use of Skills. Also, if this character is the active character, they will not be switched out due to effects. This effect persists for 2 Rounds."
 
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
@@ -482,39 +466,71 @@ Fixes an issue whereby after reviving a friendly character, if Bond of Life was 
 
 -----
 
-# ["Reminiscent Regimen: Frenzy" Event: Fun Co-Op Challenges](archive/21172.md)
-## Reminiscent Regimen: Frenzy
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/5b8bc6a779aee360716bd407b673183c_4784567358735880756.jpg)
+# [Version Details - What's New ](archive/21274.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
 
-〓Event Duration〓
+Dear Travelers:
 
-<t class="t_lc" contenteditable="false">2025/07/14 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/24 03:59</t>
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-〓Event Rewards〓
+〓Known Issues〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/70705239d3c88f4eb4391b83fbfa4159_9064333951615760752.png)
+- There is an issue whereby Yelan's model will display abnormally when wearing the "Tranquil Banquet" outfit and selecting "Leisure Time" or "Alpha Pose" in "Take Photo > Pose." This issue will be fixed in a future update.
 
-〓Eligibility〓
+- There is an issue in some language versions of the game client whereby subtitles were missing from cutscenes during the Archon Quest "A Space and Time for You" or the Story Quest "Whispers Betwixt Stars and Night." This issue will be fixed in a future update, please stay tuned for an official announcement.
 
-Adventure Rank 20 or above
+〓<t class="t_gl" contenteditable="false">2025/08/01 20:00</t> Update Details〓
 
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+Fixes an issue whereby when carrying out the Story Quest "The World Is Your Canvas!," there is a small chance that the gameplay related to the quest objective "Operate the Dance-Off Stage and complete the performance" would not be enabled, resulting in the quest being unable to continue.
 
-〓Event Details〓
+Travelers who encounter this issue can exit the game via the Paimon Menu, end the game client, and log in again to resolve the issue.
 
-● After the event begins, the maximum number of Frenzy Stars obtainable from challenges will increase by 200 every 2 days, starting from 300, up to 700.
+〓<t class="t_gl" contenteditable="false">2025/08/01 11:10</t> Update Details〓
 
-● Travelers can play Reminiscent Regimen: Frenzy challenges through Single-Player Matchmaking or Team Matchmaking, and each challenge has 3 stages.
+Fixes an issue whereby the "Mora Chest" rewards did not appear after completing the graffiti mini-game at "Wavey Bay" in Easybreeze Holiday Resort.
 
-● Each time a challenge begins, a random Regimen Reaction Theme will be applied, granting additional buff effects for certain Elemental reactions. Travelers can then choose characters that are suited to the challenge and select additional buff effects from the available Reminiscence Reinforcements to enhance them further.
+Travelers who encountered this issue before the update can return to the gameplay area to obtain the rewards as normal.
 
-● After successfully completing a challenge, Travelers will gain Frenzy Stars based on their performance and can claim the corresponding rewards based on their Frenzy Stars.
+〓<t class="t_gl" contenteditable="false">2025/07/31 21:00</t> Update Details〓
+
+Fixes an issue whereby when carrying out the Story Quest "To Colorfall Cliffs!," there is a small chance that the quest objective "Return to the 'Airborne Asha'" could not be completed and quest progress would be rolled back abnormally.
+
+Travelers who encounter this issue can exit the game via the Paimon Menu, end the game client, and log in again to resolve the issue.
 
 -----
 
-# [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21169.md)
-## Event Wish "Ancient Flame Ablaze"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/5de8594db70d2ee75357159e8eaf3a48_6369404053710062047.jpg)
+# [New Story Unlocked: Song of the Welkin Moon — Prelude "The Journey Home"](archive/21245.md)
+## New Story Unlocked: Song of the Welkin Moon — Prelude "The Journey Home"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/11/13e88aedc1db217421381dc846f48a76_9009340664316761499.png)
+
+Moonlight paves the path ahead, and a new journey is about to unfold.
+
+Yet before you cross the sea to Nod-Krai, an unexpected visitor arrives in Natlan...
+
+All things are but wayfarers in this world — no place is their home. A thousand years pass, yet all remain transient.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Song of the Welkin Moon — Prelude "The Journey Home" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+Song of the Welkin Moon — Prelude "The Journey Home" will be permanently available after the Version 5.8 update.
+
+〓Song of the Welkin Moon — Prelude "The Journey Home" Quest Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Act VI "A Space and Time for You"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+※ In the current Version, Travelers who reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches" can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home."
+
+-----
+
+# [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21229.md)
+## Event Wish - Astral Actuation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/ea66423cf5bfa4532cd187024e0ec963_1742456203209396674.png)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -522,13 +538,13 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 --- | --- | ---
-<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | "Night-Igniting Flame" Mavuika (Pyro) | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Burgeoning Grace" Yaoyao (Dendro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+After the Version 5.8 update  —  <t class="t_lc" contenteditable="false">2025/08/19 17:59</t> | "Boom Boom Thunderwave" Ineffa (Electro) | "Wisdom's Measure" Sethos (Electro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Prinzessin der Verurteilung!" Fischl (Electro)
 
-● During this event wish, the event-exclusive 5-star character "Night-Igniting Flame" Mavuika (Pyro) will receive a huge drop-rate boost!
+● During this event wish, the event-exclusive 5-star character "Boom Boom Thunderwave" Ineffa (Electro) will receive a huge drop-rate boost!
 
-● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Burgeoning Grace" Yaoyao (Dendro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+● During this event wish, the 4-star characters "Wisdom's Measure" Sethos (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
 
 ※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
@@ -540,9 +556,9 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Ambrosial Essence" - Boosted Drop Rate for "A Thousand Scents Traced" Emilie (Dendro)!](archive/21170.md)
-## Event Wish "Ambrosial Essence"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/f0392358930b742536b52f19ab000449_7835193329905978929.jpg)
+# [Event Wish "Starry Night's Whispers" - Boosted Drop Rate for "Obsidian Opalstar" Citlali (Cryo)!](archive/21230.md)
+## Event Wish - Starry Night's Whispers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/b3de5fa588c04edd0c0bf8d5e24a5bc2_3626501735223661262.png)
 
 Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
@@ -550,13 +566,13 @@ Travelers, stock up on weapons and characters in the event wish to make your par
 
 Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 --- | --- | ---
-<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | "A Thousand Scents Traced" Emilie (Dendro) | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Burgeoning Grace" Yaoyao (Dendro)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+After the Version 5.8 update  —  <t class="t_lc" contenteditable="false">2025/08/19 17:59</t> | "Obsidian Opalstar" Citlali (Cryo) | "Wisdom's Measure" Sethos (Electro)
+^ | ^ | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Prinzessin der Verurteilung!" Fischl (Electro)
 
-● During this event wish, the event-exclusive 5-star character "A Thousand Scents Traced" Emilie (Dendro) will receive a huge drop-rate boost!
+● During this event wish, the event-exclusive 5-star character "Obsidian Opalstar" Citlali (Cryo) will receive a huge drop-rate boost!
 
-● During this event wish, the 4-star characters "Tempered in Molten Stone" Iansan (Electro), "Burgeoning Grace" Yaoyao (Dendro), and "Exquisite Delicacy" Xiangling (Pyro) will receive a huge drop-rate boost!
+● During this event wish, the 4-star characters "Wisdom's Measure" Sethos (Electro), "Juvenile Galant" Xingqiu (Hydro), and "Prinzessin der Verurteilung!" Fischl (Electro) will receive a huge drop-rate boost!
 
 ※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
@@ -568,9 +584,9 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for A Thousand Blazing Suns (Claymore) and Lumidouce Elegy (Polearm)!](archive/21171.md)
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Fractured Halo (Polearm) and Starcaller's Watch (Catalyst)!](archive/21231.md)
 ## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/23/0cb66f624f8c8e9f002b9cc3bac14ed5_5313608444485568904.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/304f1e5f03315c8431914051d9cc14cc_5083138894497451692.png)
 
 Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
@@ -578,17 +594,17 @@ Travelers, stock up on weapons and characters in "Epitome Invocation" to make yo
 
 Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 --- | --- | ---
-<t class="t_lc" contenteditable="false">2025/07/08 18:00</t> —  <t class="t_lc" contenteditable="false">2025/07/29 14:59</t> | A Thousand Blazing Suns (Claymore)  Lumidouce Elegy (Polearm) | The Flute (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-^ | ^ | Rust (Bow)
+After the Version 5.8 update  —  <t class="t_lc" contenteditable="false">2025/08/19 17:59</t> | Fractured Halo (Polearm)  Starcaller's Watch (Catalyst) | Sturdy Bone (Sword)
+^ | ^ | Mountain-Bracing Bolt (Polearm)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
 
-● During this event wish, the event-exclusive 5-star weapons A Thousand Blazing Suns (Claymore) and Lumidouce Elegy (Polearm) will receive a huge drop-rate boost!
+● During this event wish, the event-exclusive 5-star weapons Fractured Halo (Polearm) and Starcaller's Watch (Catalyst) will receive a huge drop-rate boost!
 
-● During this event wish, the 4-star weapons The Flute (Sword), Rainslasher (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+● During this event wish, the event-exclusive 4-star weapons Sturdy Bone (Sword) and Mountain-Bracing Bolt (Polearm) as well as the 4-star weapons Sacrificial Greatsword (Claymore), Favonius Codex (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
 
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as A Thousand Blazing Suns (Claymore) or Lumidouce Elegy (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Fractured Halo (Polearm) or Starcaller's Watch (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
 
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
@@ -596,237 +612,143 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
-# [Version Details - What's New ](archive/21228.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓Known Issues〓
-
-There is an issue whereby after exiting Co-Op Mode, there is a small chance that Skirk's Passive Talent "Mutual Weapons Mentorship" will fail to take effect. Travelers encountering this issue can temporarily resolve it by switching to another party in the "Party Setup" interface, entering combat, and then switching back to the original party. This issue is expected to be fixed in Version 5.8.
-
-〓<t class="t_gl" contenteditable="false">2025/07/17 16:10</t> Update Details〓
-
-Fixes an issue whereby the stage challenge objectives in the event "Reminiscent Regimen: Combat" had a small chance of overlapping.
-
-〓<t class="t_gl" contenteditable="false">2025/07/03 16:10</t> Update Details〓
-
-- Fixes an issue in Co-Op Mode whereby if a Traveler quits during the "Stygian Onslaught" challenge, the Co-Op Challenge Records screen may display incorrectly upon completion, resulting in abnormal interface overlap.
-
-- Updates resources related to subsequent events.
-
-〓<t class="t_gl" contenteditable="false">2025/06/26 16:10</t> Update Details〓
-
-- Fixes an issue whereby switching between multi-window mode and full-screen mode on Android devices could occasionally cause the game's resolution to abnormally decrease.
-
-- Fixes an issue whereby under certain circumstances, a Domain entrance would incorrectly appear in the open world after completing the Archon Quest "A Space and Time for You."
-
-- Fixes an issue in Spanish and German whereby some event option text in the "Battle of Imagined Arrays" event was not fully displayed.
-
-- Fixes an issue in the "Companion Caper Chronicles" mode of the "Battle of Imagined Arrays" event whereby under certain circumstances, "Floating Anemo Fungi" and "Floating Hydro Fungi" would occasionally behave abnormally and fail to attack "Tumors of the Withering."
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
-〓<t class="t_gl" contenteditable="false">2025/06/19 16:10</t> Update Details〓
-
-- Fixes an issue whereby the game interface would freeze abnormally when reading the quest item "Mementos of Teyvat Album" after the Version 5.7 update.
-
-- Fixes a text error in Korean for the Archon Quest "A Space and Time for You."
-
-- Fixes an issue whereby under certain circumstances, chat bubbles would not display normally on mobile devices.
-
-Travelers affected by the above issues can log out via the Paimon Menu and close the game client, then log in again to continue the game as normal.
-
------
-
-# [A First Look at Version 5.8 "Sunspray Summer Resort"!](archive/21251.md)
-## Genshin Impact Version 5.8 Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/11/c64ee0e9f49d4c77e511042559574b2e_2468034449737666969.jpg)
-
-Dear Traveler,
-
-Here's a first look at Version 5.8 "Sunspray Summer Resort"!
-
-[Click to check out the latest info on Version 5.8 "Sunspray Summer Resort"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_9LuGk_WEfM&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
------
-
-# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
-## Stygian Onslaught
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
+# ["Sunspray Summer Resort" Event: Take part and obtain Bennett's outfit and the event-exclusive weapon, Flame-Forged Insight (Claymore)](archive/21232.md)
+## Sunspray Summer Resort
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/e656613a56d9d5d1b58d826c8d681c7a_2232649304065772350.png)
 
 〓Event Duration〓
 
-Event Duration: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/29 03:59</t>
-
-Disturbance Outbreak: <t class="t_lc" contenteditable="false">2025/06/25 10:00</t> – <t class="t_lc" contenteditable="false">2025/07/05 03:59</t>
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Plot Phases | Phase I and II | After the Version 5.8 update | <t class="t_lc" contenteditable="false">2025/08/18 03:59</t>
+^ | Phase III | <t class="t_lc" contenteditable="false">2025/08/01 04:00</t> | ^
+^ | Ending Phase | <t class="t_lc" contenteditable="false">2025/08/03 04:00</t> | ^
+Gameplay Phases | Phase I | After the Version 5.8 update | <t class="t_lc" contenteditable="false">2025/08/18 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2025/08/01 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2025/08/03 04:00</t> | ^
+^ | Phase IV | <t class="t_lc" contenteditable="false">2025/08/05 04:00</t> | ^
 
 〓Event Rewards〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/27/2831eb8aaa78ec4bee34300c4bed8f39_5180849364035653321.png)
 
 〓Eligibility〓
 
-Adventure Rank 20 or above
+Adventure Rank 18 or above
 
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
-※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
+※ Complete the Archon Quest "Incandescent Ode of Resurrection" first to get the best experience from this event.
 
 〓Event Details〓
 
-● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
+● During the event, Travelers will be able to experience the following four gameplay modes: With Flying (Graffiti) Colors, Travels Are Fuller With Friends, Strikers Through the Storm, and A Feast for the Senses.
 
-● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
+● During the "With Flying (Graffiti) Colors" challenge, make the most of the Ashas' abilities to paint objects in the scene and achieve a higher score.
 
-The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
+● In the "Travels Are Fuller With Friends" gameplay, Travelers will need to control the Traveler and their saurian buddies. Use their abilities to work together to collect Nanas Cakes and head to the destination.
 
-From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
+● In the "Strikers Through the Storm" gameplay, Travelers will use a special contraption to aim at and fire upon ruffians in each stage to complete the shooting challenge.
 
-● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
+● In the "A Feast for the Senses" gameplay, defeat enemies in specified ways to charge the sound system's "Lightburst Shockwave Mode." In this mode, unleash "Lightburst Shockwaves" in time with the music to defeat endless waves of enemies.
 
-"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
+● Complete the event's various challenges to obtain "Sunspray Spirit." Reach a certain amount of "Sunspray Spirit" to obtain rewards such as Bennett's outfit "Adventures in Blazing Hue," "Flame-Forged Insight (Claymore)," Primogems, Crown of Insight, and the event-exclusive Weapon Refinement Materials
 
-There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
+● Bennett's outfit "Adventures in Blazing Hue" will be available for purchase in the Character Outfit Shop after the end of Version 5.8, which will be priced at 1,680 Genesis Crystals.
 
-Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
-
-● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
-
-During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
-
-Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
-
-After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
-
-● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
-
-Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
-
-● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
-
-"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
-
-"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
+※ After this event ends, the Story Quest "Sunspray Summer Resort" can still be accepted and completed normally.
 
 -----
 
-# ["Travelers' Tales: Gilded Chapter" Event: Visit Your Companions and Chat About Interesting Anecdotes](archive/21164.md)
-## Travelers' Tales: Gilded Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/5696e06ad367a9edaa99a8cfb76c7157_3745135397705170810.jpg)
+# ["An Easy-Breezy Natlan in an Easy-Breezy Summer!" Event: Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21234.md)
+## An Easy-Breezy Natlan in an Easy-Breezy Summer!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/7b55a137e3e73cb85bd72cf64dc8f26a_6352439278775698650.png)
 
-〓Event Duration〓
+A new area in Natlan: Easybreeze Holiday Resort will be available after the Version 5.8 update.
 
-After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/29 14:59</t>
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
 
-〓Event Rewards〓
+‍
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/05/15/0d971ecaf06b3b4fb8d05d5b7c06013e_3924488047609649355.png)
+〓Specified Duration〓
 
-〓Eligibility〓
+After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
+
+-----
+
+# [Complete the Archon Quest "The Journey Home" within the specified duration to obtain additional Primogems, Character Ascension Materials, and other rewards](archive/21233.md)
+## The Journey Home
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/8b4c0fea7383e2c832dc473eb9bfd9f4_1192448000618865277.png)
+
+After the Version update, Archon Quest: Song of the Welkin Moon — Prelude will be permanently available. Meet the unlock criteria to unlock said Archon Quest.
+
+Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Natlan regional specialties, and other rewards.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/09 14:59</t>
+
+‍
+
+〓Archon Quest Unlock Criteria〓
 
 Adventure Rank 28 or above
 
-And complete Archon Quest Chapter I: Act III "A New Star Approaches"
+Complete Archon Quest Chapter V: Act VI "A Space and Time for You"
 
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" and Raiden Shogun's Story Quest "Imperatrix Umbrosa Chapter: Act II" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, you can locate your companions on the map, visit them in different regions, and listen as they share tales from their daily lives, or while away a lazy day by their sides.
-
-● Complete the specified number of anecdotes to claim rewards in the event interface.
-
-※ There is a limit to the number of anecdotes you can experience each day. If the map no longer shows any companions to visit, try coming back another day.
+※ In the current Version, Travelers who reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches" can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home."
 
 -----
 
-# [View the Updated Exclusive Genshin Impact Tools!](archive/21191.md)
-## The Genshin Impact Version 5.7 Tools Update Is Here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/17/aadc2b32e8c31d5bed7ba605c64c112d_4629116313739312661.png)
+# ["Tranquil Banquet" Outfit Available at a Limited-Time Discount](archive/21236.md)
+## Tranquil Banquet
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/73be62fc8999dceb0f934110b0adc4ec_4594972552830721029.png)
 
-Dear Traveler,
+Yelan's outfit "Tranquil Banquet" will be available at a limited-time discount in the Shop!
 
-Genshin Impact Version 5.7 is now live, and the sinner's pupil, fool's master, Skirk, has made her debut! Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through the new version.
+〓Discount Period〓
 
-| Teyvat Interactive Map Update: Adds recommended Ascension Material harvest routes for the new character
+After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
 
-Recommended Ascension Material harvest routes for Version 5.7's new characters Skirk and Dahlia have been updated.
+〓Outfit Details〓
 
-[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
+● Yelan's outfit "Tranquil Banquet" will be permanently available in the Shop after the Version 5.8 update.
 
-| Character Building Guides: Adds the building guides for the drop-boosted characters in Version 5.7
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
 
-The building guides for the new characters Skirk, Dahlia, and characters that appear in Version 5.7's Event Wishes are now available.
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
 
-Click to view all-in-one image guides on Character Level-Up Materials, building tips, team composition recommendations, Artifact and Weapon suggestions, and more. Building characters has never been easier!
-
-(Building tips are selected from popular community guides and do not represent official views.)
-
-[>> Click to View Character Building Guides <<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| HoYoWiki: Adds new character information of Version 5.7 and top-quality UGC content
-
-With the update of Version 5.7, the Wiki now includes basic information and voice lines of Skirk and Dahlia.
-
-Meanwhile, entries on game mechanics and lore will be updated gradually. Stay tuned!
-
-(HoYoWiki is collectively created by HoYoLAB editors and does not represent official views.)
-
-[>> Click to Go to HoYoWiki <<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Skirk and Dahlia
-
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new characters Skirk and Dahlia.
-
-(Check out the party lineup recommendations for the new season's Spiral Abyss.)
-
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+● Travelers who do not have Yelan can still purchase the outfit, which can be viewed in the Character Archive after purchase.
 
 -----
 
-# [New Story Unlocked - Archon Quest Chapter V: Act VI](archive/21176.md)
-## New Story Unlocked - Archon Quest Chapter V: Act VI
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/29/05b8235d8d033881713259de70a99605_2332431796895191388.jpg)
+# ["Natlan: Plains of Flowing Flames": Repertoire of Myriad Melodies Update](archive/21238.md)
+## Natlan: Plains of Flowing Flames
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/a3cad3d2883473ff92db92066602ec78_1753710403838575960.png)
 
-The end of a journey is also its beginning. Time is meaningless.
+After the Version 5.8 update, the new album "Natlan: Plains of Flowing Flames" will be added to Repertoire of Myriad Melodies.
 
-You and I are clearly looking at the same view. Space is meaningless.
+Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
 
-...Until your destiny and mine collide, and twine all those threads together.
+‍
 
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Chapter V: Act VI "A Space and Time for You" will appear in the Quest Menu.
+〓Specified Duration〓
 
-〓Quest Start Time〓
-
-After the Version 5.7 update, Archon Quest Chapter V: Act VI "A Space and Time for You" will be permanently available.
-
-〓Archon Quest Chapter V: Act VI "A Space and Time for You" Unlock Criteria〓
-
-• Reach Adventure Rank 28 or above
-
-• Complete Archon Quest Chapter V: Act V "Incandescent Ode of Resurrection"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-Before Version 6.0 update, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest Chapter V: Act I "Flowers Resplendent on the Sun-Scorched Sojourn." After using the "Quick Start" feature to complete the quest, you may proceed to accept and finish subsequent acts of Chapter V until reaching the latest Archon Quest in this version update.
+After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/09 14:59</t>
 
 -----
 
-# ["Speculation" Event Details](archive/21166.md)
-## Speculation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/e8e5412881e9baf844e642d78264e703_2920489129441799664.jpg)
+# ["Easy Breezy Holidays" Event Details](archive/21237.md)
+## Easy Breezy Holidays
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/5b91127d6dd38a89518e8d890d110bb7_2682689729703851262.png)
 
-Travelers can earn rich rewards in "Speculation" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Speculation" and Furnishing Blueprint "Peaceful Forest Dream" and Dust of Enlightenment.
+Travelers can earn rich rewards in "Easy Breezy Holidays" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Easy Breezy" and Furnishing Blueprint "Dance-Off Stage: Revelrous Rhythm" and Dust of Enlightenment.
 
 〓Event Duration〓
 
-After the Version 5.7 update – <t class="t_lc" contenteditable="false">2025/07/28 03:59</t>
+After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
 
 〓Eligibility〓
 
@@ -836,25 +758,53 @@ Adventure Rank 20 or above
 
 ● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
 
-● Starting from this Battle Pass, reach Gnostic Hymn Level 38 to obtain Dust of Enlightenment from the BP Bounty.
-
 ※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
 
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/07/28 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/09/08 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
+# ["Adventurer's Booster Bundles" - Round 42 Available for a Limited Time](archive/21235.md)
+## Adventurer's Booster Bundle
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/f475c48df16c8f1baf6a555e86401d9b_8949384845139258550.png)
+
+Round 42 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/08/13 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/08/13 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
 
 〓Event Duration〓
 
-Available throughout the entirety of Version 5.7
+Available throughout the entirety of Version 5.8
 
 〓Event Rewards〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
 
 〓Eligibility〓
 
@@ -868,11 +818,11 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 ● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
 
-● This event includes 4 stages and each stage has its distinctive challenge rules.
+● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
 
-● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
-● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
