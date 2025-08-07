@@ -972,7 +972,7 @@ Progress through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojou
 
 ※ You can only invite "Mottled Gold Yet Unsmelted" Kachina (Geo) once while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn." The event page will close once you have invited the character.
 
-※ Before you invite the character, the event page will be available before the Version 6.0 update. After the Version 6.0 update, the event page will close. Then you will no longer be able to use the "Quick Start" function via the event page, but you can still invite "Mottled Gold Yet Unsmelted" Kachina (Geo) while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn."
+※ Before you invite the character, the event page will be available before the "Song of the Welkin Moon" version update. After the "Song of the Welkin Moon" version update, the event page will close. Then you will no longer be able to use the "Quick Start" function via the event page, but you can still invite "Mottled Gold Yet Unsmelted" Kachina (Geo) while progressing through the Archon Quest "Flowers Resplendent on the Sun-Scorched Sojourn."
 
 -----
 
