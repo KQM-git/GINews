@@ -1,3 +1,17 @@
+# [Version 5.8 New Content Overview](archive/21267.md)
+## Version 5.8 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/16c8fb609a8e2ff1b6ea05e8814fde3d_892512013489393628.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/391595979fef3f4eaabf422c4b8ea8c9_1598567971245679311.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/3664a3819f3108eac6b53db82c69582a_1295697891352751000.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/a7a39846bb56886d709d5b7acf8c85f5_3377533522088017782.jpg)
+
+-----
+
 # ["Tracing Vanishing Trails" Event: Hunt Down the Crime Syndicate](archive/21239.md)
 ## Tracing Vanishing Trails
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/492d1a1950ccee56a12ded94e0cb799c_8472467872766145835.png)
@@ -23,20 +37,6 @@ And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● On the first, third, or fifth day after the event begins, two new stages will be unlocked. These stages will be unlocked gradually, and new stages will only be unlocked after Travelers complete the prerequisite quests and investigations.
 
 ● During the event, Travelers need to work closely with Yelan and hunt down the head of a crime syndicate. Use the gadget "Forensic Imaging Device" and Yelan's hints to collect intel and capture the target.
-
------
-
-# [Version 5.8 New Content Overview](archive/21267.md)
-## Version 5.8 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/16c8fb609a8e2ff1b6ea05e8814fde3d_892512013489393628.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/391595979fef3f4eaabf422c4b8ea8c9_1598567971245679311.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/3664a3819f3108eac6b53db82c69582a_1295697891352751000.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/07/29/a7a39846bb56886d709d5b7acf8c85f5_3377533522088017782.jpg)
 
 -----
 
