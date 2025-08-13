@@ -914,36 +914,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 42 Available for a Limited Time](archive/21235.md)
-## Adventurer's Booster Bundle
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/f475c48df16c8f1baf6a555e86401d9b_8949384845139258550.png)
-
-Round 42 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/08/13 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/08/13 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
