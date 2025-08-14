@@ -1,3 +1,87 @@
+# [Event Wish "Sharktacular Surfari" - Boosted Drop Rate for "Splish-Splash Wavechaser" Mualani (Hydro)!](archive/21240.md)
+## Event Wish - Sharktacular Surfari
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/3f45483e750a4a39606463026449db72_1770359936838894842_transformed.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | "Splish-Splash Wavechaser" Mualani (Hydro) | "In the Wake of Wandering Winds" Ifa (Anemo)
+^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Splish-Splash Wavechaser" Mualani (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Piercing Shot's Crimson Wake" - Boosted Drop Rate for "Skyborne Arbiter" Chasca (Anemo)!](archive/21241.md)
+## Event Wish - Piercing Shot's Crimson Wake
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/ca27d8de15cb2015d5aa521b2042845c_4794194632897594792_transformed.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | "Skyborne Arbiter" Chasca (Anemo) | "In the Wake of Wandering Winds" Ifa (Anemo)
+^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Skyborne Arbiter" Chasca (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Surf's Up (Catalyst) and Astral Vulture's Crimson Plumage (Bow)!](archive/21242.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/f435b6ca09760062109e8c14763de3df_6304332934385054846_transformed.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | Surf's Up (Catalyst)  Astral Vulture's Crimson Plumage (Bow) | Fruitful Hook (Claymore)
+^ | ^ | Waveriding Whirl (Catalyst)
+^ | ^ | Flower-Wreathed Feathers (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Favonius Lance (Polearm)
+
+● During this event wish, the event-exclusive 5-star weapons Surf's Up (Catalyst) and Astral Vulture's Crimson Plumage (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Fruitful Hook (Claymore), Waveriding Whirl (Catalyst), and Flower-Wreathed Feathers (Bow) as well as the 4-star weapons Favonius Sword (Sword) and Favonius Lance (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Surf's Up (Catalyst) or Astral Vulture's Crimson Plumage (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Version 5.8 New Content Overview](archive/21267.md)
 ## Version 5.8 New Content Overview
 
