@@ -12,6 +12,48 @@
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21111.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/22/a066dbf310d6c4a5e2c22b1f8324b732_5159185445040236819.jpg)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
+
+● Character Cards now have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
+
+● Character Cards now have both levels and ranks. You can increase your characters' levels by selecting duplicate characters from the available rewards. Leveling up a character increases their ATK and Max HP. When your characters reach certain levels, you can upgrade their ranks. After ranking up, characters can gain rank rewards or enhance their skills.
+
+● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the Character Cards.
+
+● After the battle begins, characters from both sides will automatically take actions in order from left to right.
+
+● In this edition of Heated Battle Mode, the effects of certain Elemental reactions and cards will be adjusted. A new Elemental Mastery attribute has been added, increasing it will significantly boost Elemental Reaction effects.
+
+● You can check out some of the other new mechanics and rules added to this Heated Battle Mode in the rulebook.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/08/16 10:00</t> – <t class="t_lc" contenteditable="false">2025/09/01 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/04/03/77bc8ce33030bc36a950e3ef25faf437_5213417407796630017.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+-----
+
 # ["Sunspray Summer Resort" Version 5.8 Update Details](archive/21244.md)
 ## Version 5.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/21/5ccd9d14b3a3c5144f525e2b45988446_4427208086912003314.png)
