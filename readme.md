@@ -894,54 +894,6 @@ After the Version 5.8 update  —  <t class="t_lc" contenteditable="false">2025/
 
 -----
 
-# ["Sunspray Summer Resort" Event: Take part and obtain Bennett's outfit and the event-exclusive weapon, Flame-Forged Insight (Claymore)](archive/21232.md)
-## Sunspray Summer Resort
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/e656613a56d9d5d1b58d826c8d681c7a_2232649304065772350.png)
-
-〓Event Duration〓
-
-Event Content | Event Content | Start Time | End Time
---- | --- | --- | ---
-Plot Phases | Phase I and II | After the Version 5.8 update | <t class="t_lc" contenteditable="false">2025/08/18 03:59</t>
-^ | Phase III | <t class="t_lc" contenteditable="false">2025/08/01 04:00</t> | ^
-^ | Ending Phase | <t class="t_lc" contenteditable="false">2025/08/03 04:00</t> | ^
-Gameplay Phases | Phase I | After the Version 5.8 update | <t class="t_lc" contenteditable="false">2025/08/18 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2025/08/01 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2025/08/03 04:00</t> | ^
-^ | Phase IV | <t class="t_lc" contenteditable="false">2025/08/05 04:00</t> | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/27/2831eb8aaa78ec4bee34300c4bed8f39_5180849364035653321.png)
-
-〓Eligibility〓
-
-Adventure Rank 18 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "Incandescent Ode of Resurrection" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, Travelers will be able to experience the following four gameplay modes: With Flying (Graffiti) Colors, Travels Are Fuller With Friends, Strikers Through the Storm, and A Feast for the Senses.
-
-● During the "With Flying (Graffiti) Colors" challenge, make the most of the Ashas' abilities to paint objects in the scene and achieve a higher score.
-
-● In the "Travels Are Fuller With Friends" gameplay, Travelers will need to control the Traveler and their saurian buddies. Use their abilities to work together to collect Nanas Cakes and head to the destination.
-
-● In the "Strikers Through the Storm" gameplay, Travelers will use a special contraption to aim at and fire upon ruffians in each stage to complete the shooting challenge.
-
-● In the "A Feast for the Senses" gameplay, defeat enemies in specified ways to charge the sound system's "Lightburst Shockwave Mode." In this mode, unleash "Lightburst Shockwaves" in time with the music to defeat endless waves of enemies.
-
-● Complete the event's various challenges to obtain "Sunspray Spirit." Reach a certain amount of "Sunspray Spirit" to obtain rewards such as Bennett's outfit "Adventures in Blazing Hue," "Flame-Forged Insight (Claymore)," Primogems, Crown of Insight, and the event-exclusive Weapon Refinement Materials
-
-● Bennett's outfit "Adventures in Blazing Hue" will be available for purchase in the Character Outfit Shop after the end of Version 5.8, which will be priced at 1,680 Genesis Crystals.
-
-※ After this event ends, the Story Quest "Sunspray Summer Resort" can still be accepted and completed normally.
-
------
-
 # ["An Easy-Breezy Natlan in an Easy-Breezy Summer!" Event: Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21234.md)
 ## An Easy-Breezy Natlan in an Easy-Breezy Summer!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/7b55a137e3e73cb85bd72cf64dc8f26a_6352439278775698650.png)
