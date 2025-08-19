@@ -1,3 +1,31 @@
+# ["Mementos of Teyvat: Prelude of the Frozen Veil" Event: A Journey of Memories Captured in Photos](archive/21243.md)
+## Mementos of Teyvat: Prelude of the Frozen Veil
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/48a5472c16bb56fe66f96308852848bd_6776148658465984572_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/08/21 10:00</t> – <t class="t_lc" contenteditable="false">2025/09/01 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/26/5d3f05dc32f3a1a5b75a5de8e9df7771_2712872871927862853.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● Two photo-taking spots recommended by Paimon will unlock on each of the first six days after the event starts.
+
+● Visit the designated photo-taking spots and use "Paimon's Kamera" to capture various scenes according to specific requirements.
+
+● During the event, you can claim rewards on the event menu the first time you complete the photo-taking at each photo-taking spot.
+
+-----
+
 # [Event Wish "Sharktacular Surfari" - Boosted Drop Rate for "Splish-Splash Wavechaser" Mualani (Hydro)!](archive/21240.md)
 ## Event Wish - Sharktacular Surfari
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/3f45483e750a4a39606463026449db72_1770359936838894842_transformed.png)
