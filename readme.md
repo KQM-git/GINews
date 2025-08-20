@@ -668,26 +668,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [Genshin Impact V5.0 Commemorative OST Album - "The Shimmering Voyage Vol. 5" Now Available](archive/21265.md)
-## Version 5.0 Commemorative OST Album Available Now
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/05/0330e874d4bb5216e16f1283104f90ae_6008609536424855010_transformed.png)
-
-Dear Traveler,
-
-Genshin Impact's Version 5.0 Commemorative OST album "The Shimmering Voyage Vol. 5" is now available! The album's three discs "Joy Upon the Endless Summer Draft," "Fate Drawn Asunder," and "Luck That Leaps Through the Doom" feature 59 remarkable tracks composed by the HOYO-MiX team, each one an original composition from Genshin Impact.
-
-Travelers can go to the following platforms to listen to "The Shimmering Voyage Vol. 5."
-
-Spotify:
-
-[Click here to listen to "The Shimmering Voyage Vol. 5"](https://open.spotify.com/album/6UtZ9pjeafbumbZ1RDoUyZ)
-
-Apple Music:
-
-[Click here to listen to "The Shimmering Voyage Vol. 5"](https://music.apple.com/us/album/1830468472)
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21272.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
