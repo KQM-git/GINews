@@ -746,34 +746,6 @@ Song of the Welkin Moon — Prelude "The Journey Home" will be permanently avail
 
 -----
 
-# ["Tracing Vanishing Trails" Event: Hunt Down the Crime Syndicate](archive/21239.md)
-## Tracing Vanishing Trails
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/492d1a1950ccee56a12ded94e0cb799c_8472467872766145835.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/08/14 10:00</t> – <t class="t_lc" contenteditable="false">2025/08/25 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/26/c03fd21fa88348407646c8aca767dfcb_3322384520528044955.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" and Story Quest "Umbrabilis Orchis Chapter: Act I" first to get the best experience from this event.
-
-〓Event Details〓
-
-● On the first, third, or fifth day after the event begins, two new stages will be unlocked. These stages will be unlocked gradually, and new stages will only be unlocked after Travelers complete the prerequisite quests and investigations.
-
-● During the event, Travelers need to work closely with Yelan and hunt down the head of a crime syndicate. Use the gadget "Forensic Imaging Device" and Yelan's hints to collect intel and capture the target.
-
------
-
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/04/1c9dc6a18a915c0756cf14277e4e16ab_3634979653024653379.jpg)
