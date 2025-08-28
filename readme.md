@@ -1,87 +1,3 @@
-# ["Mementos of Teyvat: Prelude of the Frozen Veil" Event: A Journey of Memories Captured in Photos](archive/21243.md)
-## Mementos of Teyvat: Prelude of the Frozen Veil
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/48a5472c16bb56fe66f96308852848bd_6776148658465984572_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/08/21 10:00</t> – <t class="t_lc" contenteditable="false">2025/09/01 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/26/5d3f05dc32f3a1a5b75a5de8e9df7771_2712872871927862853.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● Two photo-taking spots recommended by Paimon will unlock on each of the first six days after the event starts.
-
-● Visit the designated photo-taking spots and use "Paimon's Kamera" to capture various scenes according to specific requirements.
-
-● During the event, you can claim rewards on the event menu the first time you complete the photo-taking at each photo-taking spot.
-
------
-
-# [Event Wish "Sharktacular Surfari" - Boosted Drop Rate for "Splish-Splash Wavechaser" Mualani (Hydro)!](archive/21240.md)
-## Event Wish - Sharktacular Surfari
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/3f45483e750a4a39606463026449db72_1770359936838894842_transformed.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | "Splish-Splash Wavechaser" Mualani (Hydro) | "In the Wake of Wandering Winds" Ifa (Anemo)
-^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Splish-Splash Wavechaser" Mualani (Hydro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Piercing Shot's Crimson Wake" - Boosted Drop Rate for "Skyborne Arbiter" Chasca (Anemo)!](archive/21241.md)
-## Event Wish - Piercing Shot's Crimson Wake
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/ca27d8de15cb2015d5aa521b2042845c_4794194632897594792_transformed.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | "Skyborne Arbiter" Chasca (Anemo) | "In the Wake of Wandering Winds" Ifa (Anemo)
-^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Skyborne Arbiter" Chasca (Anemo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Sunspray Summer Resort" Version 5.8 Update Details](archive/21244.md)
 ## Version 5.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/21/5ccd9d14b3a3c5144f525e2b45988446_4427208086912003314.png)
@@ -601,6 +517,90 @@ Travelers who encountered this issue before the update can return to the gamepla
 Fixes an issue whereby when carrying out the Story Quest "To Colorfall Cliffs!," there is a small chance that the quest objective "Return to the 'Airborne Asha'" could not be completed and quest progress would be rolled back abnormally.
 
 Travelers who encounter this issue can exit the game via the Paimon Menu, end the game client, and log in again to resolve the issue.
+
+-----
+
+# ["Mementos of Teyvat: Prelude of the Frozen Veil" Event: A Journey of Memories Captured in Photos](archive/21243.md)
+## Mementos of Teyvat: Prelude of the Frozen Veil
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/48a5472c16bb56fe66f96308852848bd_6776148658465984572_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/08/21 10:00</t> – <t class="t_lc" contenteditable="false">2025/09/01 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/26/5d3f05dc32f3a1a5b75a5de8e9df7771_2712872871927862853.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● Two photo-taking spots recommended by Paimon will unlock on each of the first six days after the event starts.
+
+● Visit the designated photo-taking spots and use "Paimon's Kamera" to capture various scenes according to specific requirements.
+
+● During the event, you can claim rewards on the event menu the first time you complete the photo-taking at each photo-taking spot.
+
+-----
+
+# [Event Wish "Sharktacular Surfari" - Boosted Drop Rate for "Splish-Splash Wavechaser" Mualani (Hydro)!](archive/21240.md)
+## Event Wish - Sharktacular Surfari
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/3f45483e750a4a39606463026449db72_1770359936838894842_transformed.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | "Splish-Splash Wavechaser" Mualani (Hydro) | "In the Wake of Wandering Winds" Ifa (Anemo)
+^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Splish-Splash Wavechaser" Mualani (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Piercing Shot's Crimson Wake" - Boosted Drop Rate for "Skyborne Arbiter" Chasca (Anemo)!](archive/21241.md)
+## Event Wish - Piercing Shot's Crimson Wake
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/ca27d8de15cb2015d5aa521b2042845c_4794194632897594792_transformed.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | "Skyborne Arbiter" Chasca (Anemo) | "In the Wake of Wandering Winds" Ifa (Anemo)
+^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Skyborne Arbiter" Chasca (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "In the Wake of Wandering Winds" Ifa (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
