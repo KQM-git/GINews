@@ -540,6 +540,26 @@ Revitalize a Blossom of Wealth or a Blossom of Revelation
 
 -----
 
+# [Genshin Impact Nod-Krai Live Performance Now Available](archive/21311.md)
+## Nod-Krai Live Performance Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/27/6ac50fe30954cb710c811a42273e72f0_355206379456104391_transformed.jpg)
+
+Dear Traveler,
+
+The Nod-Krai Live Performance is now available.
+
+The Nod-Krai Live Performance features "Nod-Krai" and "To Light the Aeon Dark," two game soundtrack pieces produced by HOYO-MiX and brought to life by singers AURORA and Clara Sorace, the London Symphony Orchestra, the London Voices choir, and renowned folk musicians.
+
+A big thank you to Stagecast for their support with filming and production, and TAKEOFF Studios for providing collaboration support.
+
+Travelers can go to the following platform to watch the Genshin Impact Nod-Krai Live Performance.
+
+YouTube:
+
+[Click here to watch the Genshin Impact Nod-Krai Live Performance](https://youtu.be/RuXa_yxZMGI)
+
+-----
+
 # [Genshin Impact Web Event: "It Starts in Nod-Krai" Now On!](archive/21300.md)
 ## Web Event "It Starts in Nod-Krai" Now On: Participate to Earn Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/25/ad5bbefaa89dabf1ef8f8e062efe17be_1411982857208479657_transformed.jpg)
