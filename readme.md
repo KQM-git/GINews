@@ -540,26 +540,6 @@ Permanent
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/09/01 04:00</t> - <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [Genshin Impact Nod-Krai Live Performance Now Available](archive/21311.md)
 ## Nod-Krai Live Performance Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/27/6ac50fe30954cb710c811a42273e72f0_355206379456104391_transformed.jpg)
@@ -620,6 +600,26 @@ During the event, complete missions in "New Version 'Luna I' Pre-Registration" a
 
 -----
 
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/09/01 04:00</t> - <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
+
+〓Eligibility〓
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+〓Event Details〓
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # [Genshin Impact - Initial Top-Up Bonus Reset](archive/21275.md)
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_2539419748432367586_transformed.jpg)
@@ -668,6 +668,18 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
+# [Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!](archive/21314.md)
+## Genshin Impact Version "Luna I" Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/5cdcfdc761fd731b2f14bdbec7aeef45_4321888464159126133_transformed.jpg)
+
+Dear Traveler,
+
+Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!
+
+[Click to check out the latest info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_6UDde01Ygr&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # [Event Wish "Piercing Shot's Crimson Wake" - Boosted Drop Rate for "Skyborne Arbiter" Chasca (Anemo)!](archive/21241.md)
 ## Event Wish - Piercing Shot's Crimson Wake
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/ca27d8de15cb2015d5aa521b2042845c_4794194632897594792_transformed.png)
@@ -691,46 +703,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 ※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
 
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!](archive/21314.md)
-## Genshin Impact Version "Luna I" Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/5cdcfdc761fd731b2f14bdbec7aeef45_4321888464159126133_transformed.jpg)
-
-Dear Traveler,
-
-Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!
-
-[Click to check out the latest info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_6UDde01Ygr&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Surf's Up (Catalyst) and Astral Vulture's Crimson Plumage (Bow)!](archive/21242.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/f435b6ca09760062109e8c14763de3df_6304332934385054846_transformed.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | Surf's Up (Catalyst)  Astral Vulture's Crimson Plumage (Bow) | Fruitful Hook (Claymore)
-^ | ^ | Waveriding Whirl (Catalyst)
-^ | ^ | Flower-Wreathed Feathers (Bow)
-^ | ^ | Favonius Sword (Sword)
-^ | ^ | Favonius Lance (Polearm)
-
-● During this event wish, the event-exclusive 5-star weapons Surf's Up (Catalyst) and Astral Vulture's Crimson Plumage (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, the event-exclusive 4-star weapons Fruitful Hook (Claymore), Waveriding Whirl (Catalyst), and Flower-Wreathed Feathers (Bow) as well as the 4-star weapons Favonius Sword (Sword) and Favonius Lance (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Surf's Up (Catalyst) or Astral Vulture's Crimson Plumage (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
@@ -761,6 +733,34 @@ Song of the Welkin Moon — Prelude "The Journey Home" will be permanently avail
 • The "Focused Experience Mode" function is available for this quest.
 
 ※ In the current Version, Travelers who reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches" can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home."
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Surf's Up (Catalyst) and Astral Vulture's Crimson Plumage (Bow)!](archive/21242.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/f435b6ca09760062109e8c14763de3df_6304332934385054846_transformed.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2025/08/19 18:00</t> —  <t class="t_lc" contenteditable="false">2025/09/09 14:59</t> | Surf's Up (Catalyst)  Astral Vulture's Crimson Plumage (Bow) | Fruitful Hook (Claymore)
+^ | ^ | Waveriding Whirl (Catalyst)
+^ | ^ | Flower-Wreathed Feathers (Bow)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Favonius Lance (Polearm)
+
+● During this event wish, the event-exclusive 5-star weapons Surf's Up (Catalyst) and Astral Vulture's Crimson Plumage (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Fruitful Hook (Claymore), Waveriding Whirl (Catalyst), and Flower-Wreathed Feathers (Bow) as well as the 4-star weapons Favonius Sword (Sword) and Favonius Lance (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Surf's Up (Catalyst) or Astral Vulture's Crimson Plumage (Bow). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
