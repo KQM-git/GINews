@@ -604,26 +604,6 @@ During the event, complete missions in "New Version 'Luna I' Pre-Registration" a
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2025/09/01 04:00</t> - <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [Genshin Impact - Initial Top-Up Bonus Reset](archive/21275.md)
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_2539419748432367586_transformed.jpg)
@@ -870,28 +850,6 @@ Complete Archon Quest Chapter V: Act VI "A Space and Time for You"
 
 -----
 
-# ["Tranquil Banquet" Outfit Available at a Limited-Time Discount](archive/21236.md)
-## Tranquil Banquet
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/73be62fc8999dceb0f934110b0adc4ec_4594972552830721029.png)
-
-Yelan's outfit "Tranquil Banquet" will be available at a limited-time discount in the Shop!
-
-〓Discount Period〓
-
-After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
-
-〓Outfit Details〓
-
-● Yelan's outfit "Tranquil Banquet" will be permanently available in the Shop after the Version 5.8 update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Yelan can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
 # ["Natlan: Plains of Flowing Flames": Repertoire of Myriad Melodies Update](archive/21238.md)
 ## Natlan: Plains of Flowing Flames
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/a3cad3d2883473ff92db92066602ec78_1753710403838575960.png)
@@ -905,30 +863,6 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/09 14:59</t>
-
------
-
-# ["Easy Breezy Holidays" Event Details](archive/21237.md)
-## Easy Breezy Holidays
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/5b91127d6dd38a89518e8d890d110bb7_2682689729703851262.png)
-
-Travelers can earn rich rewards in "Easy Breezy Holidays" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Easy Breezy" and Furnishing Blueprint "Dance-Off Stage: Revelrous Rhythm" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/09/08 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/09/08 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
 
 -----
 
