@@ -46,6 +46,408 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [New Story Unlocked - "Song of the Welkin Moon": Act I and Act II](archive/21303.md)
+## New Story Unlocked - "Song of the Welkin Moon": Act I and Act II
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/27/ed71ed7468fd7a18bb9ee228eecbb1d2_1009695205359762179_transformed.jpg)
+
+This is where the moon rises — an "elysium" for adventurers.
+
+The moon's radiance is distant, the snow-ashen groves are lush, and secrets echo throughout the land like an ancient song.
+
+Go forth now and listen to the melody beneath the moonlight.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quests Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves" and Act II — "Elegy of Dust and Lamplight" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+After the Version "Luna I" update, Archon Quests Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves" and Act II — "Elegy of Dust and Lamplight" will be permanently available.
+
+〓Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Song of the Welkin Moon — Prelude: "The Journey Home"
+
+• Complete Archon Quest Interlude Chapter: Act IV "Paralogism"
+
+〓Song of the Welkin Moon: Act II — "Elegy of Dust and Lamplight" Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves"
+
+Before the Song of the Welkin Moon version ends, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves."
+
+-----
+
+# [Event Wish "Moonsong of the Groves" - Boosted Drop Rate for "Evermoon's Sacrament Song" Lauma (Dendro)!](archive/21276.md)
+## Event Wish "Moonsong of the Groves"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/72ae04314a0c192aa82e06f503f1ba02_2049673528724919503_transformed.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the "Luna I" version update  —  <t class="t_lc" contenteditable="false">2025/09/30 17:59</t> | "Evermoon's Sacrament Song" Lauma (Dendro) | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Empyrean Reflection" Kaveh (Dendro)
+
+● During this event wish, the event-exclusive 5-star character "Evermoon's Sacrament Song" Lauma (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Mender of Tribulations" Kuki Shinobu (Electo), and "Empyrean Reflection" Kaveh (Dendro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!](archive/21277.md)
+## Event Wish "The Moongrass' Enlightenment"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/b11f825d1403b108c1c3f573c30896be_4178420121783098958_transformed.png)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the "Luna I" version update  —  <t class="t_lc" contenteditable="false">2025/09/30 17:59</t> | "Physic of Purity" Nahida (Dendro) | "Shining Idol" Barbara (Hydro)
+^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
+^ | ^ | "Empyrean Reflection" Kaveh (Dendro)
+
+● During this event wish, the event-exclusive 5-star character "Physic of Purity" Nahida (Dendro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Mender of Tribulations" Kuki Shinobu (Electo), and "Empyrean Reflection" Kaveh (Dendro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and A Thousand Floating Dreams (Catalyst)!](archive/21278.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/0eebd542fc494c326f6c870e0a23a100_7655416930538229859_transformed.png)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the "Luna I" version update – 
+
+<t class="t_lc" contenteditable="false">2025/09/30 17:59</t> | Nightweaver's Looking Glass (Catalyst)  A Thousand Floating Dreams (Catalyst) | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During the event wish, the event-exclusive 5-star weapons Nightweaver's Looking Glass (Catalyst) and A Thousand Floating Dreams (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nightweaver's Looking Glass (Catalyst) or A Thousand Floating Dreams (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Roving Chalice of Dewgrass" - Chronicled Wish Now Available!](archive/21279.md)
+## Event Wish "Roving Chalice of Dewgrass"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/5ee9d4243d7ea791755aefc93e9b15a2_4665389879740662837_transformed.png)
+
+Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+--- | --- | ---
+After the "Luna I" version update —  <t class="t_lc" contenteditable="false">2025/09/30 17:59</t>    | "Flame-Mane" Dehya (Pyro)  "Admonishing Instruction" Alhaitham (Dendro)  "Eons Adrift" Wanderer (Anemo)  "Judicator of Secrets" Cyno (Electro)   "Dance of Lotuslight" Nilou (Hydro)  "Verdant Strider" Tighnari (Dendro) | Light of Foliar Incision (Sword)
+^ | ^ | Key of Khaj-Nisut (Sword)
+^ | ^ | Beacon of the Reed Sea (Claymore)
+^ | ^ | Staff of the Scarlet Sands (Polearm)
+^ | ^ | Tulaytullah's Remembrance (Catalyst)
+^ | ^ | Hunter's Path (Bow)
+
+● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Roving Chalice of Dewgrass" Event Wish of this period!
+
+● During the event, the event-exclusive 5-star characters "Admonishing Instruction" Alhaitham (Dendro), "Eons Adrift" Wanderer (Anemo), "Judicator of Secrets" Cyno (Electro), and "Dance of Lotuslight" Nilou (Hydro), the event-exclusive 5-star weapons Light of Foliar Incision (Sword), Key of Khaj-Nisut (Sword), Beacon of the Reed Sea (Claymore), Staff of the Scarlet Sands (Polearm), Tulaytullah's Remembrance (Catalyst), Hunter's Path (Bow), as well as the event-exclusive 4-star weapons Xiphos' Moonlight (Sword), Makhaira Aquamarine (Claymore), and Wandering Evenstar (Catalyst) will be available for a limited time only.
+
+● All 5-star and 4-star items in this Chronicled Wish:
+
+5-star characters: Dehya, Alhaitham, Wanderer, Cyno, Nilou, Tighnari
+
+5-star weapons: Light of Foliar Incision, Key of Khaj-Nisut, Beacon of the Reed Sea, Staff of the Scarlet Sands, Tulaytullah's Remembrance, Hunter's Path
+
+4-star characters: Sethos, Kaveh, Faruzan, Layla, Candace, Dori, Collei
+
+4-star weapons: Xiphos' Moonlight, Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Makhaira Aquamarine, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Favonius Lance, Dragon's Bane, Wandering Evenstar, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
+
+※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21325.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/01/f77abe8a6f4104f1229db987e2c4280a_1133717824570622248_transformed.png)
+
+〓Event Duration〓
+
+After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/12/01 03:59</t>
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/4ab069134e2bd6faa694dbbf2c2f3086_5649709177953287127_transformed.png)
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● After the Version "Luna I" update – <t class="t_lc" contenteditable="false">2025/09/15 03:59</t>, weekly training goal progress will be calculated starting from 2/5.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
+
+-----
+
+# ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: Invite Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21288.md)
+## Uncover Lunar Realms, Hone the Eventide Radiance
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/d4053c3066e59589d5f437c824eff79b_9030084075505715803_transformed.png)
+
+〓Event Duration〓
+
+After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
+
+〓Eligibility〓
+
+After unlocking the Wish feature
+
+〓Event Details〓
+
+● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
+
+● When you invite a character, you also receive Ascension Level-Up Materials for the same character.
+
+※ You can invite a character only once during the event.
+
+※ During the "Song of the Welkin Moon" version, Travelers who register after Version "Luna I" ends can invite a standard 5-star character of their choice in the subsequent "Uncover Lunar Realms, Hone the Eventide Radiance" event. Further details will be available in future announcements.
+
+-----
+
+# ["Rainbow's End: Silvery Flux" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21280.md)
+## Rainbow's End: Silvery Flux
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/a0d3db1ac468fba59df62ddbfd54c7b5_4177731238986392648_transformed.png)
+
+There are three parts to this event: Crystal Top-Up Bonus Reset, Missive of Grace: A Thank-You Gift, and Silvery Flux (Daily Login).
+
+Rewards include Primogems ×1,600, Intertwined Fate ×10, Dust of Enlightenment, Sanctifying Elixir, and Commemorative Gadgets.
+
+〓Missive of Grace: A Thank-You Gift〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2025/09/28 00:00</t> until the end of Version "Luna I"
+
+Eligibility: Adventure Rank 2 or above
+
+Event Details: Each mail can be collected until the end of the "Missive of Grace: A Thank-You Gift" event. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+Login Date | Reward 1 | Reward 2
+--- | --- | ---
+September 28 | Primogems ×400 | Ujola Cat ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Sanctifying Elixir ×1
+October 1 | Primogems ×400 | Rotor Hovering Daybed ×1
+
+〓Silvery Flux (Daily Login)〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2025/10/01 04:00</t> – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
+
+Eligibility: Adventure Rank 5 or above
+
+Total Login Days | Rewards
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Dust of Enlightenment ×1
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
+# [Complete the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" within the specified duration to obtain additional Primogems, Character Ascension Materials, and other rewards](archive/21283.md)
+## A Dance of Snowy Tides and Hoarfrost Groves
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/17b66fba78bf7778f9d36b722ebe91a8_4313697920508900830_transformed.png)
+
+After the Version update, Archon Quest: Song of the Welkin Moon — Act I and Act II will be permanently available. Meet the unlock criteria to unlock said Archon Quest.
+
+Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Nod-Krai regional specialties, and other rewards.
+
+‍
+
+〓Specified Duration〓
+
+After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
+
+‍
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 28 or above
+
+Complete Archon Quest Interlude Chapter: Act IV "Paralogism"
+
+And complete the Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home"
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves."
+
+-----
+
+# ["The Clink Clank Whiz-Kid!" Event: Progress the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" and invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)](archive/21282.md)
+## The Clink Clank Whiz-Kid!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/8dbda65d63a584a0eaedee3fed63c0c4_4369780166988778346_transformed.png)
+
+〓Event Duration〓
+
+Permanently available after the Version "Luna I" update
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/28/ebe0f6b67f4964d2d589465e2b03cfd7_2162350746605326539_transformed.png)
+
+〓Eligibility〓
+
+Complete the Archon Quest "The Journey Home"
+
+※ After completing the Archon Quest "A New Star Approaches," you can use the "Quick Start" function on the event page to begin the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" directly.
+
+〓Event Details〓
+
+Progress through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" to invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro).
+
+※ You can only invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro) once while progressing through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves." The event page will close once you have invited the character.
+
+※ Before you invite the character, the event page will be available throughout the "Song of the Welkin Moon" game version, and the event page will close once the "Song of the Welkin Moon" version ends. Then you will no longer be able to use the "Quick Start" function via the event page, but you can still invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro) while progressing through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves."
+
+-----
+
+# ["The Isle of Cold Moonlight": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21284.md)
+## The Isle of Cold Moonlight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/760697cccb7dd7f5f9e2aa1c807c6519_8256348523963269994_transformed.png)
+
+In Version "Luna I," the areas Paha Isle, Lempo Isle, and Hiisi Island in the Nod-Krai region will be available.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/12/02 14:59</t>
+
+-----
+
+# [Repertoire of Myriad Melodies Update - Encounter: Memories of a Boundless Journey](archive/21285.md)
+## Encounter: Memories of a Boundless Journey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/22be30649ea0f56874268e8a35d6fe66_7177387167826399621_transformed.png)
+
+After the "Luna I" version update, the new album "Encounter: Memories of a Boundless Journey" will be added to Repertoire of Myriad Melodies.
+
+Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
+
+‍
+
+〓Specified Duration〓
+
+After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 43 Available for a Limited Time](archive/21287.md)
+## Adventurer's Booster Bundle
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/732084232d5d3b9585d1e66c8e4b94b9_3080319497305847129_transformed.png)
+
+Round 43 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/09/24 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/09/24 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Glacial Moon" Event Details](archive/21286.md)
+## Glacial Moon
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/12925966b0021c0874eec24eb08cdf70_5580594023779632054_transformed.png)
+
+Travelers can earn rich rewards in "Glacial Moon" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Glacial Moon," Furnishing Blueprint "Porky-Worky Chef," and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/20 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● From this BP season on, there will be a new regional specialty bundle for Gnostic Hymn: Traveling Bounties. You may choose any one of the regional specialties available at collection.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/10/20 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+-----
+
 # ["Sunspray Summer Resort" Version 5.8 Update Details](archive/21244.md)
 ## Version 5.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/21/5ccd9d14b3a3c5144f525e2b45988446_4427208086912003314.png)
@@ -609,6 +1011,38 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna I"
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
