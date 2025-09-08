@@ -1,3 +1,51 @@
+# [Version "Luna I" Update Maintenance Preview](archive/21315.md)
+## Version "Luna I" Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/03/c941908b14dcaf160083796a10645f89_6996385689272608266.jpg)
+
+Dear Travelers,
+
+Our developers are expected to begin performing update maintenance at <t class="t_gl" contenteditable="false">2025/09/10 06:00</t>. While the update maintenance is in progress, Travelers will be unable to log in to the game. Please stay tuned to related game update information.
+
+After this is complete, the game will update to a new version. We recommend that Travelers install this update over a Wi-Fi connection.
+
+Pre-installation is now available on mobile, PC, PlayStation®, and Xbox Series X|S.
+
+After the version update, the PS4® version of Genshin Impact will be delisted from the PlayStation® Store and will no longer be available for download. However, Travelers who have already obtained the PS4® version of Genshin Impact will still be able to update and play the game on PS4® after the version update.
+
+〓Update Maintenance Duration〓
+
+Update maintenance begins at <t class="t_gl" contenteditable="false">2025/09/10 06:00</t> and is estimated to take 5 hours.
+
+〓Update Maintenance Compensation〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Update Maintenance Compensation Eligibility〓
+
+Maintenance Compensation: Travelers who reached Adventure Rank 5 and above before <t class="t_gl" contenteditable="false">2025/09/10 06:00</t>.
+
+Compensation must be claimed before the end of Version "Luna I."
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2025/09/10 07:00</t>.
+
+<details open="true">
+<summary>Summary of Update Methods</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/22/5cc66e13de22c7282901d132ea4432e9_2120255156160679073_transformed.jpg)
+
+</details>
+
+<details open="true">
+<summary>Minimum Specifications and Recommended Specifications</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/09/05/8f74ee79b5f20e2726b0f59124f94055_930901570965202647_transformed.jpg)
+
+</details>
+
+-----
+
 # ["Sunspray Summer Resort" Version 5.8 Update Details](archive/21244.md)
 ## Version 5.8 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/21/5ccd9d14b3a3c5144f525e2b45988446_4427208086912003314.png)
