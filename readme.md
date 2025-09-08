@@ -994,26 +994,6 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21322.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
@@ -1043,6 +1023,26 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21322.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
@@ -1134,18 +1134,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!](archive/21314.md)
-## Genshin Impact Version "Luna I" Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/5cdcfdc761fd731b2f14bdbec7aeef45_4321888464159126133_transformed.jpg)
-
-Dear Traveler,
-
-Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!
-
-[Click to check out the latest info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_6UDde01Ygr&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
------
-
 # [Event Wish "Piercing Shot's Crimson Wake" - Boosted Drop Rate for "Skyborne Arbiter" Chasca (Anemo)!](archive/21241.md)
 ## Event Wish - Piercing Shot's Crimson Wake
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/04/ca27d8de15cb2015d5aa521b2042845c_4794194632897594792_transformed.png)
@@ -1174,31 +1162,15 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [New Story Unlocked: Song of the Welkin Moon — Prelude "The Journey Home"](archive/21245.md)
-## New Story Unlocked: Song of the Welkin Moon — Prelude "The Journey Home"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/11/13e88aedc1db217421381dc846f48a76_9009340664316761499.png)
+# [Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!](archive/21314.md)
+## Genshin Impact Version "Luna I" Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/5cdcfdc761fd731b2f14bdbec7aeef45_4321888464159126133_transformed.jpg)
 
-Moonlight paves the path ahead, and a new journey is about to unfold.
+Dear Traveler,
 
-Yet before you cross the sea to Nod-Krai, an unexpected visitor arrives in Natlan...
+Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!
 
-All things are but wayfarers in this world — no place is their home. A thousand years pass, yet all remain transient.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Song of the Welkin Moon — Prelude "The Journey Home" will appear in the Quest Menu.
-
-〓Quest Start Time〓
-
-Song of the Welkin Moon — Prelude "The Journey Home" will be permanently available after the Version 5.8 update.
-
-〓Song of the Welkin Moon — Prelude "The Journey Home" Quest Unlock Criteria〓
-
-• Reach Adventure Rank 28 or above
-
-• Complete Archon Quest Chapter V: Act VI "A Space and Time for You"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-※ In the current Version, Travelers who reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches" can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home."
+[Click to check out the latest info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_6UDde01Ygr&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
 -----
 
@@ -1377,6 +1349,34 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
+
+-----
+
+# [New Story Unlocked: Song of the Welkin Moon — Prelude "The Journey Home"](archive/21245.md)
+## New Story Unlocked: Song of the Welkin Moon — Prelude "The Journey Home"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/11/13e88aedc1db217421381dc846f48a76_9009340664316761499.png)
+
+Moonlight paves the path ahead, and a new journey is about to unfold.
+
+Yet before you cross the sea to Nod-Krai, an unexpected visitor arrives in Natlan...
+
+All things are but wayfarers in this world — no place is their home. A thousand years pass, yet all remain transient.
+
+After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quest Song of the Welkin Moon — Prelude "The Journey Home" will appear in the Quest Menu.
+
+〓Quest Start Time〓
+
+Song of the Welkin Moon — Prelude "The Journey Home" will be permanently available after the Version 5.8 update.
+
+〓Song of the Welkin Moon — Prelude "The Journey Home" Quest Unlock Criteria〓
+
+• Reach Adventure Rank 28 or above
+
+• Complete Archon Quest Chapter V: Act VI "A Space and Time for You"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+※ In the current Version, Travelers who reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches" can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home."
 
 -----
 
