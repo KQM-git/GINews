@@ -1022,46 +1022,6 @@ Permanent
 
 -----
 
-# [Genshin Impact Web Event: "It Starts in Nod-Krai" Now On!](archive/21300.md)
-## Web Event "It Starts in Nod-Krai" Now On: Participate to Earn Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/25/ad5bbefaa89dabf1ef8f8e062efe17be_1411982857208479657_transformed.jpg)
-
-The "It Starts in Nod-Krai" web event is now open for a limited time.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250829reserve-6htzhx/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250829return&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2025/08/29 – <t class="t_gl" contenteditable="false">2025/09/24 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event, complete missions in "New Version 'Luna I' Pre-Registration" and "Journey Invitation" to obtain Primogems, Coins of Destiny, and other rewards.
-
-1. New Version "Luna I" Pre-Registration: The section is available from 2025/08/29 to <t class="t_gl" contenteditable="false">2025/09/10 05:59</t>. Completing the missions will earn you a total of Primogems ×100 and other in-game rewards. Please see the page for details.
-
-2. Journey Invitation: The section is available from 2025/09/10 to <t class="t_gl" contenteditable="false">2025/09/24 23:59</t>. Completing the missions will earn you a maximum of Coins of Destiny ×54. Please see the page for mission details.
-
-3. When the "Journey Invitation" section is available, you can use "Coins of Destiny" to flip over cards and receive various in-game rewards. Details of the rewards and the probability of receiving them can be found on the event page.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Genshin Impact - Initial Top-Up Bonus Reset](archive/21275.md)
 ## Initial Top-Up Reset
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_2539419748432367586_transformed.jpg)
@@ -1079,18 +1039,6 @@ After the Version "Luna I" update
 ● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
 
 ● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
------
-
-# [Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!](archive/21314.md)
-## Genshin Impact Version "Luna I" Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/5cdcfdc761fd731b2f14bdbec7aeef45_4321888464159126133_transformed.jpg)
-
-Dear Traveler,
-
-Latest Info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"!
-
-[Click to check out the latest info on Version "Luna I": "A Dance of Snowy Tides and Hoarfrost Groves"](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_6UDde01Ygr&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
 -----
 
