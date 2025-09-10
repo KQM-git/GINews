@@ -985,6 +985,30 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Game Survey](archive/21330.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_iU35tR-seXZlJUP2c9jil7WNuIr9U0rl87YRTGSoYiW&game_biz=hk4e_global&surveyId=33724&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [New Story Unlocked - "Song of the Welkin Moon": Act I and Act II](archive/21303.md)
 ## New Story Unlocked - "Song of the Welkin Moon": Act I and Act II
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/27/ed71ed7468fd7a18bb9ee228eecbb1d2_1009695205359762179_transformed.jpg)
