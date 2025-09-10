@@ -995,9 +995,17 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-- There's an issue in the "Switch Choice" screen of the event To Temper Thyself and Journey Far, whereby under certain circumstances the Constellation level shown on the final character's icon may display incorrectly if there are characters you have not yet obtained. This issue will be fixed in a future update, please stay tuned for an official announcement.
+There's an issue in Events Overview whereby the eligibility for "The Clink Clank Whiz-Kid!" and for "A Dance of Snowy Tides and Hoarfrost Groves" (as displayed in both Events Overview and Homeward Path) are not fully shown. The actual requirements are: Complete Song of the Welkin Moon — Prelude "The Journey Home" and Archon Quest Interlude Chapter: Act IV "Paralogism." This issue will be fixed in a future update, please stay tuned for an official announcement.
 
-- There's an issue in Events Overview whereby the eligibility for "The Clink Clank Whiz-Kid!" and for "A Dance of Snowy Tides and Hoarfrost Groves" (as displayed in both Events Overview and Homeward Path) are not fully shown. The actual requirements are: Complete Song of the Welkin Moon — Prelude "The Journey Home" and Archon Quest Interlude Chapter: Act IV "Paralogism." This issue will be fixed in a future update, please stay tuned for an official announcement.
+〓<t class="t_gl" contenteditable="false">2025/09/10 22:40</t> Update Details〓
+
+- Fixes an issue in the "Switch Choice" screen of the event "To Temper Thyself and Journey Far," whereby under certain circumstances, the Constellation level displayed on the final character's icon may display incorrectly if there are characters you have not yet obtained.
+
+- Fixes an issue whereby after opening the "Switch Choice" screen of the event "To Temper Thyself and Journey Far," the red notification dot would not disappear under certain circumstances.
+
+- Fixes an issue under certain circumstances whereby when using a controller to open the "Traveling Bounties" bundle (obtained from the Battle Pass) and selecting "Moonfall Silver" would incorrectly grant "Wolfhook" instead.
+
+- Fixes an issue in the Battle Pass "Unlock Gnostic Hymn" screen whereby the "Traveling Bounties" bundle was missing from the displayed rewards of "Gnostic Hymn."
 
 -----
 
