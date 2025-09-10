@@ -985,6 +985,28 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [The Version "Luna I" Submission Contest has begun!](archive/21299.md)
+## Version "Luna I" Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/671b26c661dc37800d769d378992f36b_5393396552647336931_transformed.jpg)
+
+Hello, Traveler~
+
+The Genshin Impact Version "Luna I" "A Dance of Snowy Tides and Hoarfrost Groves" Submission Contest has begun!
+
+From September 10, head to the official Creator Incentive Program page to create videos or fan art related to the storyline, map, or characters from Version "Luna I" for a chance to win up to Primogems ×5,000 and 1,200 USD!
+
+For more details, please visit the official Incentive Program page:
+
+[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_ZJmJ0wsaHe/index.html?sign_type=2&authkey_ver=1&auth_appid=e202506048014)
+
+From September 10, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, and other aspects of Version "Luna I" to participate. Winning creators can receive up to 600 USD and Primogems ×6,000!
+
+For more details, please visit:
+
+[>> Click to View <<](https://www.hoyolab.com/contribution/437)
+
+-----
+
 # [Game Survey](archive/21330.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
