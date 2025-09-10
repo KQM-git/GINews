@@ -985,6 +985,22 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/21347.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- There's an issue in the "Switch Choice" screen of the event To Temper Thyself and Journey Far, whereby under certain circumstances the Constellation level shown on the final character's icon may display incorrectly if there are characters you have not yet obtained. This issue will be fixed in a future update, please stay tuned for an official announcement.
+
+- There's an issue in Events Overview whereby the eligibility for "The Clink Clank Whiz-Kid!" and for "A Dance of Snowy Tides and Hoarfrost Groves" (as displayed in both Events Overview and Homeward Path) are not fully shown. The actual requirements are: Complete Song of the Welkin Moon — Prelude "The Journey Home" and Archon Quest Interlude Chapter: Act IV "Paralogism." This issue will be fixed in a future update, please stay tuned for an official announcement.
+
+-----
+
 # ["Journey Invitation" — Genshin Impact Web Event "It Starts in Nod-Krai" Update!](archive/21304.md)
 ## Phase II of "It Starts in Nod-Krai" Web Event - "Journey Invitation" Now On: Participate to Earn Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/03/c494071584348fc249dfbd21a1cb227f_6087804265995542152_transformed.jpg)
