@@ -985,6 +985,68 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# ["Journey Invitation" — Genshin Impact Web Event "It Starts in Nod-Krai" Update!](archive/21304.md)
+## Phase II of "It Starts in Nod-Krai" Web Event - "Journey Invitation" Now On: Participate to Earn Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/03/c494071584348fc249dfbd21a1cb227f_6087804265995542152_transformed.jpg)
+
+Phase II of "It Starts in Nod-Krai" Web Event - "Journey Invitation" is now on.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250829reserve-6htzhx/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250829return&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2025/08/29 – <t class="t_gl" contenteditable="false">2025/09/24 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 10 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event, complete missions in "New Version 'Luna I' Pre-Registration" and "Journey Invitation" to obtain Primogems, Coins of Destiny, and other rewards.
+
+1. New Version "Luna I" Pre-Registration: The section is available from 2025/08/29 to <t class="t_gl" contenteditable="false">2025/09/10 05:59</t>. Completing the missions will earn you a total of Primogems ×100 and other in-game rewards. Please see the page for details.
+
+2. Journey Invitation: The section is available from 2025/09/10 to <t class="t_gl" contenteditable="false">2025/09/24 23:59</t>. Completing the missions will earn you a maximum of Coins of Destiny ×54. Please see the page for mission details.
+
+3. When the "Journey Invitation" section is available, you can use "Coins of Destiny" to flip over cards and receive various in-game rewards. Details of the rewards and the probability of receiving them can be found on the event page.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# [The Version "Luna I" Submission Contest has begun!](archive/21299.md)
+## Version "Luna I" Submission Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/671b26c661dc37800d769d378992f36b_5393396552647336931_transformed.jpg)
+
+Hello, Traveler~
+
+The Genshin Impact Version "Luna I" "A Dance of Snowy Tides and Hoarfrost Groves" Submission Contest has begun!
+
+From September 10, head to the official Creator Incentive Program page to create videos or fan art related to the storyline, map, or characters from Version "Luna I" for a chance to win up to Primogems ×5,000 and 1,200 USD!
+
+For more details, please visit the official Incentive Program page:
+
+[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_ZJmJ0wsaHe/index.html?sign_type=2&authkey_ver=1&auth_appid=e202506048014)
+
+From September 10, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, and other aspects of Version "Luna I" to participate. Winning creators can receive up to 600 USD and Primogems ×6,000!
+
+For more details, please visit:
+
+[>> Click to View <<](https://www.hoyolab.com/contribution/437)
+
+-----
+
 # [Game Survey](archive/21330.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -1040,6 +1102,46 @@ After the Version "Luna I" update, Archon Quests Song of the Welkin Moon: Act I 
 • Complete Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves"
 
 Before the Song of the Welkin Moon version ends, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves."
+
+-----
+
+# ["Clink Clank Clash" Event: Take Part for the Event-Exclusive Weapon, Etherlight Spindlelute (Catalyst)](archive/21281.md)
+## "Clink Clank Clash"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/1d1cc474127da6d15e2b580a147392a5_6394547250667983232_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/09/12 10:00</t> | <t class="t_lc" contenteditable="false">2025/09/29 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2025/09/14 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2025/09/16 04:00</t> | ^
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/185734aa1d18ba40b4aac346d6927ba2_6262296005789116948_transformed.png)
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Song of the Welkin Moon: Act II - "Elegy of Dust and Lamplight" first to get the best experience from this event.
+
+〓Event Details〓
+
+● Four gameplay formats will be made available during the event: "Pursue and Strike! The Out-of-Control Flier!", "Boom! Blast! Power Test!", "Seek and Find! Machines on the Fritz!", and "Quietly Now! Sneaky Sneaking Sneaks!".
+
+● "Pursue and Strike! The Out-of-Control Flier!": With the help of the kuuhenki, collect Moonlit Particles while chasing and shooting down rogue recon bots along the Moonlanes.
+
+● "Boom! Blast! Power Test!": Stamp out enemies all over Nod-Krai with the help of the self-defense device. Remember to pick up those battle trophies!
+
+● "Seek and Find! Machines on the Fritz!": Use the kuuvahki remnant to locate the malfunctioning robots scattered all over the designated zone.
+
+● "Quietly Now! Sneaky Sneaking Sneaks!": Operate the stealth robot "Zip-zap Spy-bot Number 1" to collect ID cards as you make your way to the destination.
+
+● Complete the event's various challenges to obtain Legion Morale. Reach a certain amount of Legion Morale to obtain rewards such as Etherlight Spindlelute (Catalyst), Primogems, Crown of Insight, and the event-exclusive Weapon Refinement Materials.
 
 -----
 
