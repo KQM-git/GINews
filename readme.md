@@ -1,26 +1,22 @@
-# [Version "Luna I" New Content Overview](archive/21343.md)
-## Version "Luna I" New Content Overview
+# [Version "Luna IV" New Content Overview](archive/21569.md)
+## Version "Luna IV" New Content Overview
 
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/09/3b80da1439424b9f3e2a45ccb88fa8ff_8407109694645222469.jpg)
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/fb7b55520fc5cf287a309a5eec146c75_7660873324735009153_transformed.jpg)
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/09/54aacf21a706164f0258d9fde42da02d_6980240437751965159.jpg)
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/ca545626543b511fe5bc95104e895a61_5539726856084368200_transformed.jpg)
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/09/8658d41e6a250fec05bbaabc49ff0dfb_3092845103924856512.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/09/f4b3f10a51d1b9820382115e2aa75958_3922225656909940818.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/09/84f01f66301b0f8f55c96fc7c43b2d06_8623071607855111386_transformed.jpg)
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/25864f633ce375241183090b4f33da23_750249803508918586_transformed.jpg)
 
 -----
 
-# ["Song of the Welkin Moon: Segue - 'A Dance of Snowy Tides and Hoarfrost Groves'": Version Luna I Update Details](archive/21302.md)
-## Version Luna I Update Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/27/1e5ea3cc079aba062cb18b33ed9ba0e2_8285015458981665329_transformed.jpg)
+# [Song of the Welkin Moon: Postlude — "A Traveler on a Winter's Night": Version "Luna IV" Update Details](archive/21567.md)
+## Version "Luna IV" Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/31/15d32017a01328b22e8c741a372fd117_7593813936451383365_transformed.jpg)
 
 Dear Traveler,
 
-Below are the details of the Version Luna I update "Song of the Welkin Moon: Segue - 'A Dance of Snowy Tides and Hoarfrost Groves'" and the update compensation.
+Below are the details of the Version "Luna IV" update "Song of the Welkin Moon: Postlude — A Traveler on a Winter's Night" and the update compensation.
 
 〓Compensation Details〓
 
@@ -30,19 +26,19 @@ Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensati
 
 〓Scope of Compensation〓
 
-Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/09/10 06:00</t>.
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/01/14 06:00</t>.
 
-Compensation must be claimed before the end of Version "Luna I."
+Compensation must be claimed before the end of Version "Luna IV."
 
-Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2025/09/10 06:00</t>.
+Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/01/14 06:00</t>.
 
-Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2025/09/13 06:00</t>.
+Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2026/01/17 06:00</t>.
 
 Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
 
 〓Update Schedule〓
 
-Update maintenance begins <t class="t_gl" contenteditable="false">2025/09/10 06:00</t> and is estimated to take 5 hours.
+Update maintenance begins <t class="t_gl" contenteditable="false">2026/01/14 06:00</t> and is estimated to take 5 hours.
 
 〓How to Update Game Client〓
 
@@ -63,49 +59,19 @@ Please do not hesitate to contact Customer Service if you encounter any issues i
 I. New Areas
 
 <details open="true">
-<summary><span>New Region - Nod-Krai</span></summary>
+<summary><span style="font-size: 0.1rem;">New Areas Now Available</span></summary>
 
-Ancient ruins sleep beneath the tides of time, where ocean winds whisper across lonely shores. Beneath the purest moonlight, a land of chance and wonder awaits.
+◇ In Version "Luna IV," the areas Voidsea Outlook, Wavechaser Plain, and Ashveil Peak in the Nod-Krai region will be available.
 
-Through drifting fog and hidden valleys, trace the dancing moonbeams to where all journeys begin.
+※ As long as you have completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom," a Teleport Waypoint will be automatically unlocked at Voidsea Outlook in the southwest of Nod-Krai's Piramida. (If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update.) You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
 
-◇ New Areas: In Version "Luna I," the areas Lempo Isle, Hiisi Island, and Paha Isle in the Nod-Krai region will be available.
-
-※ Completing Archon Quest Prologue: Act III "Song of the Dragon and Freedom" will automatically unlock a Teleport Waypoint south of Nasha Town in Nod-Krai (If you have already completed this Archon Quest, the Teleport Waypoint will be unlocked after the update). You can use this Teleport Waypoint to head over to Nod-Krai. You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
-
-▌New System in Nod-Krai
-
-◇ "Meeting Point"
-
-You can obtain Luna Sigils during your adventures in Nod-Krai. Sharing these sigils with companions will level up the Meeting Points, "Final Night Cemetery," "Clink-Clank Krumkake Craftshop," and "Frostmoon Enclave," granting valuable resources.
-
-Adds a new Nod-Krai Reward Gadget: Luna Treasure Compass. As Meeting Point Levels increase, the Luna Treasure Compass will gradually unlock exploration abilities, allowing it to display Oculi, treasures, and relevant clues.
+◇ Nod-Krai Meeting Point Update: With the opening of new areas, the following new Meeting Points will be added to Nod-Krai: Meeting Point: The Witch's Garden, Meeting Point: Favonius Keep, and Meeting Point: Cliffwatch Camp.
 
 ◆ Unlock Criteria:
 
 • Complete "Where the Moon Rises," part of Song of the Welkin Moon: Act I - "A Dance of Snowy Tides and Hoarfrost Groves."
 
-After meeting the required unlock conditions, visit the Meeting Points, "Final Night Cemetery," "Clink-Clank Krumkake Craftshop," and "Frostmoon Enclave," to begin the associated World Quests: "To the Lighthouse," "Problem-Sorting Robot," and "Blessings of the Frost Moon." Upon completing these quests, construction of the corresponding Meeting Points can begin.
-
-◇ Silvermoon Hall: Selenic Chronicles
-
-You can visit Silvermoon Hall from time to time to meet The Damselette.
-
-For a certain time after completing the quest, your party will gain the New Moon's Embrace effect: When in Nod-Krai, your party's Moonsign Level will always be Ascendant Gleam. Additionally, after completing a certain number of quests, you can claim a variety of other rewards, such as furniture, namecards, and a wind glider.
-
-◆ Unlock Criteria:
-
-Complete "The Dark Side of Memory" in the Archon Quest Song of the Welkin Moon: Act II - "Elegy of Dust and Lamplight."
-
-Expeditions, Daily Commissions, and other new content will also be added in Nod-Krai.
-
-◇ Nod-Krai Daily Commissions Unlock Criteria:
-
-• Complete "Where the Moon Rises," part of Song of the Welkin Moon: Act I - "A Dance of Snowy Tides and Hoarfrost Groves."
-
-• Complete the World Quest "Venture Towards the Moonlight."
-
-Adds the Nod-Krai Fishing Association, where Travelers can exchange for new items here.
+After meeting the required unlock conditions, visit the Meeting Points "The Witch's Garden," "Favonius Keep," and "Cliffwatch Camp," to begin the associated World Quests "Witch's Lodge," "On This Intoxicating Night," and "The Moonlit Watcher." Upon completing these quests, construction of the corresponding Meeting Points can begin.
 
 In addition, there will be new Fishing Points and "Radiant Spincrystals" in Nod-Krai.
 
@@ -113,101 +79,81 @@ In addition, there will be new Fishing Points and "Radiant Spincrystals" in Nod-
 II. New Characters
 
 <details open="true">
-<summary><span style="color:rgba(102,173,22,1)"><span>5-Star Character "Evermoon Rite" Lauma (Dendro)</span></span></summary>
+<summary><span style="color: rgb(73, 143, 204);"><span style="font-size: 0.1rem;">"Welkin Moon's Homecoming" Columbina (Hydro) </span></span><span style="font-size: 0.1rem;">(5-Star)</span></summary>
 
-◇ Moon Wheel: Dendro
+◇ ???: Hydro
 
 ◇ Weapon: Catalyst
 
-◇ A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.
+◇ The Moon Maiden born in Nod-Krai, and also the welkin moon returning home.
 
-◆ Lauma is a Dendro support character who enhances Bloom-related reactions and enables her teammates to trigger Lunar-Bloom reactions.
+◆ Columbina is a Hydro character who enables the team to simultaneously trigger Lunar-Charged, Lunar-Bloom, and Lunar-Crystallize reactions, while providing sustained off-field damage and support.
 
-Lauma's Elemental Skill inflicts sustained AoE Dendro DMG while lowering Dendro and Hydro RES of affected opponents. When Verdant Dew is available, holding the Elemental Skill triggers Lunar-Bloom DMG.
+When Columbina casts her Elemental Skill, she summons a Gravity Ripple that follows the active character and continuously deals Hydro AoE DMG. While the Gravity Ripple is active, Gravity is accumulated whenever nearby characters trigger or deal Lunar Reaction DMG. When Gravity reaches its maximum, damage is dealt based on the Lunar reaction type that contributed the most Gravity.
 
-After Lauma uses her Elemental Burst, her party members gain increased DMG for Bloom, Hyperbloom, Burgeon, and Lunar-Bloom reactions.
+Her Elemental Burst creates a Lunar Domain that enhances Lunar reactions triggered within it to varying degrees, and increases Lunar Reaction DMG dealt by all characters inside.
 
-◇ Unlocking Moonsign: Nascent Gleam allows Bloom, Burgeon, and Hyperbloom reactions triggered by the party to deal CRIT Hits.
+◇ Moonsign: Ascendant Gleam:
 
-◇ Unlocking Moonsign: Ascendant Gleam increases the CRIT Rate and CRIT DMG of Lunar-Bloom reactions triggered by the party.
-
-※ The enhancement effects provided by different Moonsign levels cannot stack.
+"Gravity Ripple" deals Hydro AoE DMG in a larger area.
 
 </details>
 
 <details open="true">
-<summary><span style="color:rgba(105,87,194,1)"><span>5-Star Character "Shadowy Lights, Stranger Wights" Flins (Electro)</span></span></summary>
+<summary><span style="color: rgb(204, 144, 70);"><span style="font-size: 0.1rem;">"White Horse's Fleeting Spring" Zibai (Geo) </span></span><span style="font-size: 0.1rem;">(5-Star)</span></summary>
 
-◇ Moon Wheel: Electro
+◇ Moon Wheel: Geo
+
+◇ Weapon: Sword
+
+◇ The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.
+
+◆ Zibai is a Geo DPS character who can trigger Lunar-Crystallize reactions for the team and also directly deal Lunar-Crystallize DMG with her skills.
+
+When Zibai casts her Elemental Skill, she enters Lunar Phase Shift. While in this state, her Normal and Charged Attack damage is converted to Geo DMG, and she can accumulate Phase Shift Radiance in combat. Consuming accumulated Phase Shift Radiance allows her to unleash a special Elemental Skill that deals Lunar-Crystallize DMG to enemies.
+
+With her Elemental Burst, Zibai can deal AoE Lunar-Crystallize DMG to enemies in front of her.
+
+◇ Moonsign: Ascendant Gleam:
+
+While in Lunar Phase Shift, Zibai's fourth Normal Attack hit will deal one-time additional Geo DMG, which will be considered as Lunar-Crystallize DNG.
+
+</details>
+
+<details open="true">
+<summary><span style="color: rgb(204, 144, 70);"><span style="font-size: 0.1rem;">"Nightmare's Burning Heart" Illuga (Geo) </span></span><span style="font-size: 0.1rem;">(4-Star)</span></summary>
+
+◇ Vision: Geo
 
 ◇ Weapon: Polearm
 
-◇ A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.
+◇ Member of the investigation squad, the Nightmare Orioles. The youngest squad leader among the Lightkeepers.
 
-◆ Flins is an Electro DMG dealer who deals Lunar-Charged DMG directly and enables his teammates to trigger Lunar-Charged reactions.
+◆ Illuga is a support character who can provide Geo DMG and Lunar-Crystallize DMG bonuses for the team.
 
-When Flins uses his Elemental Skill, he enters the Manifest Flame form, infusing his Normal Attacks with Electro DMG and increasing his resistance to interruption. While in this form, he gains access to an enhanced Elemental Skill. After using the enhanced skill, a special Elemental Burst becomes available.
+His Elemental Skill summons a messenger bird that deals Geo DMG to enemies it comes in contact with.
 
-◇ When the party unlocks Moonsign: Ascendant Gleam and there are thunderclouds nearby, Flins's Elemental Burst and special Elemental Burst will be further enhanced.
+Upon casting his Elemental Burst, he gains Nightingale's Song, which increases the Geo DMG and Lunar-Crystallize DMG of certain attacks by on-field party members (bonus scaling is based on his Elemental Mastery).
 
-</details>
+After Illuga uses his Elemental Skill or Elemental Burst, nearby party members gain the "Lightkeeper's Oath" effect: Increases CRIT Rate and CRIT DMG for Geo DMG dealt to enemies.
 
-<details open="true">
-<summary><span style="color:rgba(73,143,204,1)"><span>4-Star Character "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)</span></span></summary>
+◇ Moonsign: Ascendant Gleam:
 
-◇ Vision: Hydro
-
-◇ Weapon: Claymore
-
-◇ A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.
-
-◆ Aino is a Hydro support character who provides sustained off-field DMG for the party.
-
-Upon using her Elemental Skill, Aino charges forward, dealing AoE Hydro DMG to opponents.
-
-Her Elemental Burst creates a field that continuously deals Hydro DMG to opponents within its area.
-
-◇ When the party unlocks Moonsign: Ascendant Gleam, Aino's Elemental Burst will be further enhanced.
+Characters affected by "Lightkeeper's Oath" gain increased Elemental Mastery.
 
 </details>
 III. New Domain
 
 <details open="true">
-<summary><span>Domain of Forgery: Lost Mooncourt</span></summary>
-
-◇ Challenge the Domain to obtain Weapon Ascension Materials.
+<summary><span style="font-size: 0.1rem;">Domain of Blessing: Moonchild's Treasures</span></summary>
 
 ◇ Unlock Criteria (satisfy any one of the criteria below to unlock):
 
-• Reach Adventure Rank 16 or above
+• Reach Adventure Rank 10 or above
 
-• Complete Archon Quest Prologue: Act II "For a Tomorrow Without Tears"
+• Complete Archon Quest Prologue: Act III - "Song of the Dragon and Freedom"
 
-</details>
-
-<details open="true">
-<summary><span>Domain of Mastery: Lightless Capital</span></summary>
-
-◇ Challenge the Domain to obtain Character Talent Materials.
-
-◇ Unlock Criteria (satisfy any one of the criteria below to unlock):
-
-• Reach Adventure Rank 27 or above
-
-• Complete Archon Quest Chapter I: Act I "Of the Land Amidst Monoliths"
-
-</details>
-
-<details open="true">
-<summary><span>Domain of Blessing: Frostladen Machinery</span></summary>
-
-◇ Challenge the Domain to obtain artifacts in the "Night of the Sky's Unveiling" and "Silken Moon's Serenade" sets.
-
-◇ Unlock Criteria (satisfy any one of the criteria below to unlock):
-
-• Reach Adventure Rank 22 or above
-
-• Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+◆ Challenge the Domain to obtain Artifacts such as "Aubade of Morningstar and Moon" and "A Day Carved from Rising Winds."
 
 </details>
 IV. New Equipment
@@ -215,186 +161,184 @@ IV. New Equipment
 1. New Weapons (Examples based on Refinement Rank 1)
 
 <details open="true">
-<summary><span>Nightweaver's Looking Glass (5-Star Catalyst)</span></summary>
+<summary><span style="font-size: 0.1rem;">Nocturne's Curtain Call (5-Star Catalyst)</span></summary>
 
-When the equipping character's Elemental Skill deals Hydro or Dendro DMG, they will gain Prayer of the Far North: Elemental Mastery is increased by 60 for 4.5s. When nearby party members trigger Lunar-Bloom reactions, the equipping character gains New Moon Verse: Elemental Mastery is increased by 60 for 10s. When both Prayer of the Far North and New Moon Verse are in effect, all nearby party members' Bloom DMG is increased by 120%, their Hyperbloom and Burgeon DMG is increased by 80%, and their Lunar-Bloom DMG is increased by 40%. This effect cannot stack. The aforementioned effects can be triggered even if the equipping character is off-field.
+Max HP increases by 10%. After triggering Lunar reactions or inflicting Lunar Reaction DMG on opponents, the equipping character will recover 14 Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional 14%, CRIT DMG from Lunar Reaction DMG increases by 60%. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field.
 
-◆ The event-exclusive 5-star weapon "Nightweaver's Looking Glass" (Catalyst) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
-
-</details>
-
-<details open="true">
-<summary><span>Bloodsoaked Ruins (5-Star Polearm)</span></summary>
-
-For 3.5s after using an Elemental Burst, the equipping character's Lunar-Charged DMG dealt to opponents is increased by 36%. Additionally, after triggering a Lunar-Charged reaction, the equipping character will gain Requiem of Ruin: CRIT DMG is increased by 28% for 6s. They will also regain 12 Elemental Energy. Elemental Energy can be restored this way once every 14s.
-
-◆ The event-exclusive 5-star weapon "Bloodsoaked Ruins" (Polearm) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
+◆ The event-exclusive 5-star weapon Nocturne's Curtain Call (Catalyst) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
 
 </details>
 
 <details open="true">
-<summary><span>Etherlight Spindlelute (4-Star Catalyst)</span></summary>
+<summary><span style="font-size: 0.1rem;">Lightbearing Moonshard (5-Star Sword)</span></summary>
 
-For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 100.
+Increases DEF by 20%. DMG inflicted by Lunar-Crystallize reactions increases by 64% for 5s after the equipping character uses an Elemental Skill.
 
-◆ Etherlight Spindlelute (Catalyst) and its refinement materials can be redeemed in the "Clink Clank Clash" event.
-
-</details>
-▌Forgeable Weapons
-
-<details open="true">
-<summary><span>Serenity's Call (4-Star Sword)</span></summary>
-
-Upon causing an Elemental Reaction, increases Max HP by 16% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 16%. This effect can be triggered even if the equipping character is off-field.
+◆ The event-exclusive 5-star weapon Lightbearing Moonshard (Sword) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
 
 </details>
-
-<details open="true">
-<summary><span>Master Key (4-Star Claymore)</span></summary>
-
-Upon causing an Elemental Reaction, increases Elemental Mastery by 60 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 60. This effect can be triggered even if the equipping character is off-field.
-
-</details>
-
-<details open="true">
-<summary><span>Prospector's Shovel (4-Star Polearm)</span></summary>
-
-Electro-Charged DMG is increased by 48%, and Lunar-Charged DMG is increased by 12%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 12%.
-
-</details>
-
-<details open="true">
-<summary><span>Blackmarrow Lantern (4-Star Catalyst)</span></summary>
-
-Bloom DMG is increased by 48%, and Lunar-Bloom DMG is increased by 12%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 12%.
-
-</details>
-
-<details open="true">
-<summary><span>Snare Hook (4-Star Bow)</span></summary>
-
-Upon causing an Elemental Reaction, increases Elemental Mastery by 60 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 60. This effect can be triggered even if the equipping character is off-field.
-
-</details>
-◆ You can exchange for Weapon Forging Blueprints from Lyulka in the Nasha Town by consuming certain amounts and types of materials.
-
 2. New Artifact Sets
 
 <details open="true">
-<summary><span>Night of the Sky's Unveiling (4-Star and 5-Star)</span></summary>
+<summary><span style="font-size: 0.1rem;">Aubade of Morningstar and Moon (4-Star and 5-Star)</span></summary>
 
 ◇ 2-Piece Set: Elemental Mastery +80.
 
-◇ 4-Piece Set: When nearby party members trigger Lunar Reactions, if the equipping character is on the field, gain the Gleaming Moon: Intent effect for 4s: Increases CRIT Rate by 15%/30% when the party's Moonsign is Nascent Gleam/Ascendant Gleam. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.
+◇ 4-Piece Set: When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s.
 
 </details>
 
 <details open="true">
-<summary><span>Silken Moon's Serenade (4-Star and 5-Star)</span></summary>
+<summary><span style="font-size: 0.1rem;">A Day Carved from Rising Winds (4-Star and 5-Star)</span></summary>
 
-◇ 2-Piece Set: Energy Recharge +20%.
+◇ 2-Piece Set: ATK +18%.
 
-◇ 4-Piece Set: When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. The equipping character can trigger this effect while off-field. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.
+◇ 4-Piece Set: After a Normal Attack, Charged Attack, Elemental Skill, or Elemental Burst hits an opponent, gain the Blessing of Pastoral Winds effect for 6s: ATK is increased by 25%. If the equipping character has completed Witch's Homework, Blessing of Pastoral Winds will be upgraded to Resolve of Pastoral Winds, which also increases the CRIT Rate of the equipping character by an additional 20%. This effect can be triggered even when the character is off-field.
 
 </details>
-V. New Main Story
+V. New Outfits
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Neuvillette - "Melusent Gift"</span></summary>
+
+◇ A surprise gift for Neuvillette. The delight comes not just from the gift itself, but from every little hand that helped make it. Like rivers merge into the boundless sea, so too can dewdrops come together to create a miracle that shimmers with iridescent light.
+
+◆ Following the Version "Luna IV" update to <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>, Neuvillette's outfit "Melusent Gift" will be available for purchase in the Character Outfit Shop at a limited-time discount! During the discount period, the price of the outfit is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+A new World Quest, "A Gift From the Sea Spirits," will be permanently available after the Version "Luna IV" update.
+
+◆ Quest Unlock Criteria:
+
+• Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty"
+
+• Complete the World Quest "Strange Stone Chronicle"
+
+• Complete the World Quest "The Wild Fairy of Erinnyes"
+
+During the Version "Luna IV" period, Travelers who have reached Adventure Rank 28 or above and have completed Archon Quest Chapter I: Act III "A New Star Approaches" may access this quest via the event interface and learn more about the theme outfit.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Yaoyao - "Rainlit Bamboo Reverie"</span></summary>
+
+Yaoyao's outfit. New shoots cast shifting shadows on the desk in disarray, at times the guest who enters is not the wind at play.
+
+◆ During the Version "Luna IV" period, Travelers can obtain Yaoyao's outfit "Rainlit Bamboo Reverie" for free through the limited-time event "A Lanternlit Ode to the Silver Moon."
+
+◆ Once the Version "Luna IV" period is over, Travelers may buy the outfit from the Character Outfit Shop.
+
+</details>
+VI. New Main Story
 
 1. New Archon Quest
 
 <details open="true">
-<summary><span>Song of the Welkin Moon: Act I - "A Dance of Snowy Tides and Hoarfrost Groves"</span></summary>
+<summary><span style="font-size: 0.1rem;">Song of the Welkin Moon: Act VII "A Traveler on a Winter's Night"</span></summary>
 
-Permanently available after the Version Luna I update
-
-◆ Quest Unlock Criteria:
-
-• Reach Adventure Rank 28 or above
-
-• Complete Song of the Welkin Moon: Prelude - "The Journey Home"
-
-• Complete Archon Quest Interlude Chapter: Act IV "Paralogism"
-
-• The "Focused Experience Mode" function is available for this quest.
-
-• The "Quick Start" function is available for this quest.
-
-(1) Once unlocked, you can maintain your current Archon Quest progress, while accepting and progressing through Song of the Welkin Moon: Act I - "A Dance of Snowy Tides and Hoarfrost Groves." This function will be available until the Song of the Welkin Moon version ends.
-
-(2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
-
-</details>
-
-<details open="true">
-<summary><span>Song of the Welkin Moon: Act II - "Elegy of Dust and Lamplight"</span></summary>
-
-Permanently available after the Version Luna I update
+Permanently available after the Version "Luna IV" update
 
 ◆ Quest Unlock Criteria:
 
 • Reach Adventure Rank 28 or above
 
-• Complete Song of the Welkin Moon: Act I - "A Dance of Snowy Tides and Hoarfrost Groves"
+• Complete Song of the Welkin Moon: Act VI - "Melting Moonlight in the Morning Mist"
 
 • The "Focused Experience Mode" function is available for this quest.
 
 </details>
-2. New World Quests
 
 <details open="true">
-<summary><span>New World Quests</span></summary>
+<summary><span style="font-size: 0.1rem;">Song of the Welkin Moon: Act VIII - "True Moon"</span></summary>
 
-"East of the Moon, West of the Sun" quest series, "Polkka Beneath the Moon's Oracle" quest series, "Colors of Emptiness" quest series, "The Bell of Mourning Echoes," "Priorities First," "Drifting Toward a Promised Sky," "Team Rigor, or Team Intuition?," "The Power of Research," "The Stress of Changing Careers," "Friends of Moleyvalley," etc.
+Permanently available after the Version "Luna IV" update
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 28 or above
+
+• Complete Song of the Welkin Moon: Act VII "A Traveler on a Winter's Night"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+After completing Song of the Welkin Moon: Act VIII "True Moon," the Traveler can draw new power from their past journeys to enhance their combat abilities. Additionally, the Traveler will receive a special quest reward: the Traveler outfit "As Heaven and Earth Are Made Anew."
 
 </details>
-VI. Elemental Reaction
+2. New Story Quests
 
 <details open="true">
-<summary><span>Lunar Reaction: Lunar-Bloom</span></summary>
+<summary><span style="font-size: 0.1rem;">"A Lanternlit Ode to the Silver Moon" Quests</span></summary>
 
-When Dendro meets Hydro, and certain other conditions are met, a special Lunar-Bloom reaction occurs. In addition to the standard Bloom reaction effects, this also provides the party with valuable "Verdant Dew."
+Quests will be unlocked after the "A Lanternlit Ode to the Silver Moon" event phase begins.
 
-Certain characters can consume "Verdant Dew" or utilize their Talents to deal Lunar-Bloom DMG to enemies. This DMG can trigger CRIT Hits.
+◆ Quest Unlock Criteria During Event:
+
+• Reach Adventure Rank 20 or above
+
+• Complete Archon Quest Prologue: Act III - "Song of the Dragon and Freedom"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+After the event ends, the Story Quest "A Lanternlit Ode to the Silver Moon" will become permanently available. Travelers who have reached Adventure Rank 26 or higher and completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom" may accept this quest via Quest Overview > Event Quests.
 
 </details>
-VII. New Enemies
+3. New World Quests
 
 <details open="true">
-<summary><span>Knuckle Duckle</span></summary>
+<summary><span style="font-size: 0.1rem;">New World Quests</span></summary>
 
-◇ A kuuvahki mechanism of peculiar make, made from scrap metal and mechanical bearings.
+The "Nightingale's Song" quest series, "To the Rightful Owner, Returned," "Punishment Befits the Guilty," "Echoes of a Forsaken Song," "The Raven Legacy," and "Reverberation of Heroic Spirits," etc.
 
-Once combat progresses to a certain point, it will enter Duckstruction Mode, becoming more aggressive, generating a Shield for itself, and summoning floating Stamping Devices to harass you. When this happens, you must first deal with the Stamping Devices. Deal DMG with Electro-Charged or Lunar-Charged reactions, or destroy them directly, to fry their circuits and cause them to attack Knuckle Duckle's Shield instead.
+Quest unlock criteria for "The Raven Legacy": Complete the "East of the Moon, West of the Sun" quest series and obtain four key items: Inscripta-Cognoscenti's Feather, Weavenexa-Cognoscenti's Intoxication, Stratagema-Cognoscenti's Mask, and Devocina-Cognoscenti's Sorrow.
 
-Located at Lempo Isle
+</details>
+VII. Elemental Reaction
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Lunar Reaction: Lunar-Crystallize</span></summary>
+
+When Geo meets Hydro, and certain other conditions are met, a special Lunar-Crystallize reaction occurs, and three Moondrifts will form near the target. Triggering the Lunar-Crystallize reaction three times will initiate Moondrift Harmony, which deals Geo DMG to nearby opponents. This DMG can trigger CRIT Hits, and the DMG dealt is based on all characters who have applied elements during the reaction.
+
+</details>
+VIII. New Enemies
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">The Doctor</span></summary>
+
+Reviled far and wide as a heretic, The Doctor has seized the authority of the moons and now ascends the long steps toward the divine throne of the "new world."
+
+The authority bestowed by Moon Marrow allows The Doctor to bend the rules and set forth prohibitions. To overcome him, one must abide by these for a short time, or face punishment for defying them. Additionally, The Doctor also manipulates the rift from beyond this world to endanger those who oppose him. Step into the rift and eliminate the source of his power to neutralize the threat.
+
+Located in the Ashveil Peak area
+
+Once you reach Adventure Rank 40, you can Quick Challenge the new boss's Trounce Domain through your Adventurer Handbook in Single Player Mode.
 
 </details>
 
 <details open="true">
-<summary><span>Radiant Moonfly</span></summary>
+<summary><span style="font-size: 0.1rem;">Lord of the Hidden Depths: Whisperer of Nightmares</span></summary>
 
-◇ The moon's ancient power has seeped into these illusory wings, and the butterfly-shaped monster now dances lightly in the moonlight.
+◇ Lord of the swarm of monsters that surged through the Rift of Hidden Depths.
 
-These monsters can wield their innate powers to capture their enemies in a Radiant Cocoon. Under specific conditions, they can even change their own Elemental Type. Once captured, both the amount of DMG taken and the strength of healing received will be affected. However, you can escape from a Radiant Cocoon by being healed to your Max HP, granting you the Disentangled effect, which boosts your abilities for a short period of time.
+Lord of the Hidden Depths: Whisperer of Nightmares will deploy the Deepdark Shield in combat, summoning several Fishers of Hidden Depths. The shield can only be broken by Elemental Attacks or reaction DMG. Lunar Reaction DMG is especially effective at breaking the shield. Additionally, defeating a summoned Fisher of Hidden Depths will also deal damage to its shield.
 
-Located at Lempo Isle
-
-</details>
-
-<details open="true">
-<summary><span>Wilderness Ghouls...</span></summary>
-
-"Wilderness Hunter" and "Wilderness Exile"
-
-◇ Ghouls corrupted by the taint of the Abyss, doomed to stalk the frozen wilderness for all eternity.
-
-Those who march beneath the banner of the Wild Hunt can only be truly defeated by reducing their Max HP to zero. Drain its HP completely or use Skills enhanced by Moonsign: Ascendant Gleam to send it into a brief Grief-Stricken state, only during which you can deal DMG to reduce its Max HP and suppress it completely.
+Located in the Ashveil Peak area
 
 </details>
 
 <details open="true">
-<summary><span>Frostnight Scions</span></summary>
+<summary><span style="font-size: 0.1rem;">Fishers of Hidden Depths</span></summary>
 
-Gleaming Charge: Frostnight Scion, Tangled Vines: Frostnight Scion, Blazing Brilliance: Frostnight Scion, and Icy Crystal: Frostnight Scion
+◇ The swarm of monsters that surged through the Rift of Hidden Depths.
+
+When several Fishers of Hidden Depths are present on-field, their connections to one another will form Deepdark Shields that can only be broken by Elemental Attacks or reaction DMG. Lunar Reaction DMG is especially effective at breaking these shields. When the Deepdark Shield of one of the Fishers of Hidden Depths is broken, the monsters' shared connection causes all Deepdark Shields within the swarm to shatter. The entire swarm will then be grouped around the Fisher whose shield was broken.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Frostnight Scions</span></summary>
+
+Surging Currents: Frostnight Scion, Veiled Cloudchaser: Frostnight Scion, Gilded Sunshard: Frostnight Scion
 
 ◇ An elemental lifeform that has gained an extremely high elemental affinity over long years of exposure to the moonlight.
 
@@ -403,123 +347,59 @@ In battle, Frostnight Scions can convert themselves to enter a Gloomveiled state
 </details>
 
 <details open="true">
-<summary><span>Radiant Beasts...</span></summary>
+<summary><span style="font-size: 0.1rem;">Radiant Beasts...</span></summary>
 
-Radiant Antelope, Radiant Bladehorn, and Radiant Lunapod
+Radiant Glacial Wolf
 
 ◇ Monsters that have undergone a unique evolution due to age-long immersion in the ancient moon's power.
 
 These monsters can wield their innate powers to capture their enemies in a Radiant Cocoon. Once captured, both the amount of DMG taken and the strength of healing received will be affected. However, you can escape from a Radiant Cocoon by being healed to your Max HP, granting you the Disentangled effect which boosts your abilities for a short period of time.
 
 </details>
+IX. Miliastra Wonderland
 
 <details open="true">
-<summary><span>Fatui Oprichniki</span></summary>
+<summary><span style="font-size: 0.1rem;">Miliastra Wonderland Update</span></summary>
 
-Oprichniki Fireblade Shock Trooper, Oprichniki Hailstorm Cannoneer, Oprichniki Thunderblitz Gvardiya, Oprichniki Line Trooper, Oprichniki Support Trooper, Oprichniki Grenadier, Oprichniki Vanguard, Oprichniki Medic, and Oprichniki Bombardier
+◆ Cosmetic Sets
 
-◇ Members of the Fatui's elite Oprichniki forces tasked with maintaining the line of battle. They wield powerful, modified weapons that harness the power of kuuvahki.
+With the "Star of Auspicious Fortune" Event Wish comes four new sets: "Morning's Dawn and Dew," "Cerulean Tidestrike," "Peaceful Warm Night," and "Sunwarmed Malt."
 
-Because of this, you might be able to effectively target them with kuuvahki-based attacks while they're charging up their weapons to unleash powerful attacks.
+Chronicles of the Realms/Epic of the Realms: Three new sets are now available. They are "Scarlet Cloudfall," "Sunlit Fieldscape," and "Loyal Companion."
+
+Available for a limited time only from the Miliastra Shop: Three new sets. They are "Grace in Motion," "Sweet Purple Melon," and "Free Silver Star."
+
+"Encounter Echoes" Standard Ode: One new Set Catalog, "Boundless Resolve," is available.
+
+Take part in the "Raiment Collection: Moonlit Hour" event to obtain the new "Noble Grace" Set.
+
+◆ Lobby
+
+With the new version update, the Public Lobby will be changed to a new theme: "Festive Market: Renewal of All Things."
+
+Travelers can obtain the new Public Lobby template "Festive Market: Chimes Ring in the New Year" through Epic of the Realms.
+
+◆ Wonderlands
+
+Adds Classic Mode stages, allowing Travelers to select Classic Mode when creating a new stage save. Classic Mode lets you build Wonderlands for Teyvat characters, design custom stage logic, and create unique character interaction mechanics. It also supports accessing Wonderlands using Teyvat characters.
+
+Adds the Colorful Surprise Box. The contents of this box are determined by the Craftspeople themselves, and may include exclusive content such as Wonderland expansion content, landscape skins, weapons, etc. Travelers can support their favorite Wonderlands and Craftspeople by redeeming this gift box.
+
+The new version also adds additional cosmetic components, expressions, special effects, and actions, as well as optimizes certain parts of the interface layout.
+
+For updates regarding the "Miliastra Wonderland" stage editor and Miliastra Sandbox, Travelers can check "My Miliastra Wonderland" > "Notices."
 
 </details>
+X. Genius Invokation TCG
 
 <details open="true">
-<summary><span>Landcruisers</span></summary>
+<summary><span style="font-size: 0.1rem;">Genius Invokation TCG Gameplay Update</span></summary>
 
-Cutting Edge All-Purpose Storm Landcruiser, Cutting Edge All-Purpose Scout Landcruiser, Cutting Edge Fire Support Ground Effect Landcruiser, Close Combat Storm Landcruiser, Close Combat Scout Landcruiser, Force Recon Storm Landcruiser, Force Recon Scout Landcruiser, and Force Recon Ground Effect Landcruiser
+New Character Cards: Skirk and Ororon, plus the corresponding Talent Cards. The related invitation duel and guest challenges have been added to the Player List.
 
-◇ Heavily armed ships that cruise on land and, thanks to certain modifications, can harness the power of kuuvahki to deploy special functions.
+New Character Card: Consecrated Horned Crocodile and the corresponding Talent Card. The related Tavern Challenge has also been added.
 
-Attack them a certain number of times with Electro-Charged or Lunar-Charged reactions while they're using kuuvahki to stop them in their tracks. Because of their reliance on kuuvahki, you might be able to make use of the properties of kuuvahki to attack more effectively.
-
-</details>
-VIII. System Update
-
-1. New Team Bonus Effect
-
-<details open="true">
-<summary><span>Moonsign</span></summary>
-
-Adding Moonsign characters to the party increases the Moonsign Level. Including one/two Moonsign characters in your party will grant Nascent Gleam / Ascendant Gleam, respectively.
-
-When the party's Moonsign Level reaches Moonsign: Ascendant Gleam, Moonsign characters will be enhanced, and non-Moonsign characters can increase the Lunar Reaction DMG dealt by all nearby characters for a period of time after using their Elemental Skill or Elemental Burst.
-
-</details>
-2. New Event
-
-<details open="true">
-<summary><span>"To Temper Thyself and Journey Far": Rewards of Dedication</span></summary>
-
-◇ 5-Star Character Stella Fortuna Reward
-
-Complete the corresponding training goals to obtain Dust of Enlightenment, Sanctifying Elixir, Crown of Insight, and other rewards. During this event, complete 8 weekly training goals to obtain a 5-star character's Stella Fortuna.
-
-Travelers can select the character they wish to obtain from the character list on the event page. Before the exchange is complete, Travelers can visit the character list to change the selected character at any time.
-
-※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
-
-※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
-
-※ The "To Temper Thyself and Journey Far" event is a permanent, periodic event, with each cycle lasting approximately 12 weeks. After the current cycle concludes, the next cycle will begin on the following Monday.
-
-First Cycle of "To Temper Thyself and Journey Far": After the Version "Luna I" update – <t class="t_lc" contenteditable="false">2025/12/01 03:59</t>.
-
-◇ Daily Training Goals
-
-• Claim Daily Commission Rewards 4 times
-
-• Use a total of 120 Original Resin
-
-Complete 5 Daily Training Goals every week to achieve the Weekly Training Goal. During this event, the weekly training goal progress on the first week will be calculated starting from 2/5.
-
-◇ Eligibility:
-
-• Adventure Rank 14 and above
-
-• Complete "Knights of Favonius" in Archon Quest Prologue: Act I "The Outlander Who Caught the Wind"
-
-• Complete the World Quest "Welcome to the Adventurers' Guild"
-
-</details>
-3. New Item
-
-<details open="true">
-<summary><span>Masterless Stella Fortuna</span></summary>
-
-When you acquire a Stella Fortuna for a 5-star character who is already at Constellation Level 6, you can obtain the new item Masterless Stella Fortuna. Consuming Masterless Stella Fortuna allows any level 90 character to break their level cap (up to level 100) and increase their stats without requiring additional materials. Use 1 "Masterless Stella Fortuna" to increase a character's ascension limit and level to Lv. 95, and use 2 "Masterless Stella Fortuna" to increase the ascension limit and level from Lv. 95 to Lv. 100.
-
-※ If you redeem a Stella Fortuna of a character whose constellations have reached the maximum level during the "To Temper Thyself and Journey Far" event, you will receive Masterless Stella Fortuna.
-
-※ After the Version "Luna I" update, Masterless Stella Fortuna will be issued based on the number of maxed Constellation 5-star characters obtained in previous versions. Travelers can view them in their Inventory when they log in.
-
-</details>
-4. Local Legends Update
-
-<details open="true">
-<summary><span>Valiant Chronicles: Local Legends</span></summary>
-
-Local Legends are formidable foes spread out throughout the world, combatants whose abilities far outstrip those of an ordinary stripe. Take care when engaging them!
-
-Starting from Version "Luna I," all newly added Local Legends you encounter will be recorded in the Adventurers' Guild's "Valiant Chronicles," where you can view their details.
-
-Defeating Local Legends under specific conditions grants rewards and Commemorative Stamps.
-
-◇ Unlock Criteria:
-
-• Reach Adventure Rank 55 or above
-
-</details>
-IX. Genius Invokation TCG
-
-<details open="true">
-<summary><span>Genius Invokation TCG Gameplay Update</span></summary>
-
-Adds new Character Cards: Iansan, Yumemizuki Mizuki, and their corresponding Talent cards. Corresponding invitation duels and guest challenges have been added to the Player List.
-
-Adds new Character Card: Lord of Eroded Primal Fire and the corresponding Talent card. The Tavern Challenge has also been added.
-
-Adds new Action Cards "Aqua Simulacra," "Royal Masque," "Unfinished Reverie," "Fragment of Harmonic Whimsy," "Fell Dragon's Awakening," "Narration Footnotes," "A Blessing From 'M'," and "Revelrous Beats." They can be purchased from Prince at The Cat's Tail.
+The new Action Cards "Starcaller's Watch, "Flame-Forged Insight," "Dyed Tassel," "Bona and Cocouik," "Broken Sea," and "An Adventure Through the Morning Mist" can now be purchased from NPC "Prince" at The Cat's Tail.
 
 The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Clever Stratagems":
 
@@ -528,456 +408,330 @@ The Forge Realm's Temper is once again available. The theme of this edition is "
 2. After completing the challenge, points will be obtained based on the difficulty completed for each parameter. The best score obtained for each stage will be recorded, and will allow you to claim rewards that correspond to certain scores.
 
 </details>
-X. Imaginarium Theater
+XI. Imaginarium Theater
 
 <details open="true">
-<summary><span>Imaginarium Theater Update</span></summary>
+<summary><span style="font-size: 0.1rem;">Update Scheduled for February 1</span></summary>
 
-After the Version Luna I update, a new season of "Imaginarium Theater" will be available on October 1, 2025.
+After the Version "Luna IV" update, a new season of Imaginarium Theater will be available on February 1, 2026.
 
-Required Elemental Types: Hydro, Electro, and Geo
+Beginning this season, the Pyro Crystal Blessing and Hydro Crystal Blessing in "Brilliant Blessing" will be enhanced.
 
-Opening Characters: Yelan, Aino, Varesa, Iansan, Arataki Itto, and Gorou
+Required Elemental Types: Pyro, Hydro, and Geo
+
+Opening Characters: Yoimiya, Gaming, Yelan, Barbara, Chiori, and Yun Jin
 
 When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
 
-Special Guest Stars: Lauma, Baizhu, Charlotte, and Ifa
+Special Guest Stars: Ineffa, Flins, Nefer, and Lauma
 
-After the new season of Imaginarium Theater begins, the characters Clorinde, Qiqi, Xingqiu, and Sucrose will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
-
-After the new season of Imaginarium Theater begins, the following adjustments will be made:
-
-(1) The Debut Performance Gift and Performance Tour Rewards will be updated with some new reward content.
-
-(2) In Visionary Mode, character selection after Battle: Climactic Showdown will be adjusted to a "choose 1 out of 3" format.
-
-(3) Some Mystery Cache effects will be updated.
+After the new season of Imaginarium Theater begins, the characters Xianyun, Shenhe, Albedo, and Yanfei will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
 
 </details>
+XII. Spiral Abyss
 
 <details open="true">
-<summary><span>New Mode: Imaginarium Theater Lunar Mode (starting October 1, 2025)</span></summary>
+<summary><span style="font-size: 0.1rem;">Update Scheduled for January 16</span></summary>
 
-◇ After the new season of Imaginarium Theater (starting October 1, 2025) begins, the new gameplay mode "Imaginarium Theater Lunar Mode" will be added.
-
-During the performance, after participating characters consume a certain amount of Vigor, Arcana Challenge events will appear, with up to 2 such events being available at the same time. These events will remain available for the duration of the Performance Challenge and will not be affected by your performance progress, allowing you to challenge them at any time. If you find your challenge progress stymied, you can return to the event selection phase and choose a more suitable time to start the challenge again.
-
-You can gain additional rewards after successfully completing Arcana Challenge events and completing the Act 10 Performance Challenge.
-
-Once you have completed all Arcana Challenge events, you can draw Lunar Arcana after completing the Act 10 Performance Challenge.
-
-The Lunar Arcana that can be drawn will be determined to some degree by the characters taking part in the performance. You can only draw 1 Lunar Arcanum per Imaginarium Theater season, so choose wisely.
-
-◇ Lunar Arcana Case
-
-◆ After completing the challenge and settlement in Imaginarium Theater: Visionary Mode, complete the related quest in the Theater Lobby to obtain it.
-
-A card box given to you by a certain witch proficient in divination. It can be used to store the Lunar Arcana you find during your performances, cards which may also be exchanged with friends in Co-Op Mode.
-
-Each world defines divination differently, but one thing remains constant — the use of "here" and "now" as anchors to unravel the unknown. Thus, the more Arcana one hoards within this box, the brighter the lantern of understanding burns...
-
-◇ Lunar Arcana Collection
-
-Acquired Lunar Arcana can be viewed via the Lunar Arcana Case or the Lunar Archosphere by the challenge entrance in the Theater Lobby.
-
-◇ Lunar Arcana Exchange
-
-In Co-Op Mode outside the Serenitea Pot, you can use the Lunar Arcana Case to send invitations to friends to exchange Lunar Arcana with them.
-
-◇ Unlock Criteria
-
-• Clear Imaginarium Theater on Visionary Mode difficulty
-
-• Include 28 or more characters that fit this season's theme in your lineup
-
-</details>
-
-<details open="true">
-<summary><span>Envisaged Echoes Update</span></summary>
-
-After the Version Luna I update, new challenge stages and Echo cosmetics for Nahida and Yelan will be added.
-
-</details>
-XI. Spiral Abyss
-
-<details open="true">
-<summary><span>Update Scheduled for September 16</span></summary>
-
-◇ After the Version Luna I update, Phase 1 of the Spiral Abyss will be updated on September 16.
-
-◆ Floor 9 Ley Line Disorder changed to:
-
-Lunar Reaction DMG is increased by 50%.
-
-◆ Floor 10 Ley Line Disorder changed to:
-
-Lunar Reaction DMG is increased by 50%.
+◇ After the Version Luna IV update, Phase 1 of the Spiral Abyss will be updated on January 16.
 
 ◆ Floor 11 Ley Line Disorder changed to:
 
-• All characters in the party gain a 60% Electro DMG Bonus.
+All party members gain a 60% Electro DMG Bonus.
 
-• All characters in the party gain a 60% Dendro DMG Bonus.
-
-◆ Floor 12 Ley Line Disorders changed to:
-
-First Half: Characters' Electro-Charged DMG increased by 200% and Lunar-Charged DMG increased by 75%.
-
-Second Half: Characters' Bloom DMG increased by 200% and Lunar-Bloom DMG increased by 75%.
-
-◆ Updated the monster lineup on Floors 9 – 12 of the Spiral Abyss.
-
-◆ Starting from this phase, the "Long Night's Oath" and "Finale of the Deep Galleries" Artifact set rewards in Domain Reliquary: Tier I and Domain Reliquary: Tier II for Spiral Abyss Floors 9–12 will be replaced with the "Night of the Sky's Unveiling" and the "Silken Moon's Serenade" sets.
-
-◆ Blessing of the Abyssal Moon:
-
-Surging Moon
-
-When a character triggers Hydro-related reactions, a shockwave will be released at the opponent's position, dealing True DMG. This effect can be triggered once every 2s.
-
-</details>
-
-<details open="true">
-<summary><span>Update Scheduled for October 16</span></summary>
-
-◇ After the Version Luna I update, Phase 2 of the Spiral Abyss will be updated on October 16.
+All party members gain a 60% Hydro DMG Bonus.
 
 ◆ Floor 12 Ley Line Disorders changed to:
 
-First Half: Characters' Bloom DMG increased by 200% and Lunar-Bloom DMG increased by 75%.
+First half: The active character's Charged Attack DMG is increased by 75%.
 
-Second Half: Characters' Electro-Charged DMG increased by 200% and Lunar-Charged DMG increased by 75%.
+Second half: Lunar Reaction DMG is increased by 75%.
 
 ◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
 
 ◆ Blessing of the Abyssal Moon:
 
-Abundant Moon
+Surgestrike Moon
 
-When a character triggers Dendro-related reactions, a shockwave will be released at the opponent's position, dealing True DMG. This effect can be triggered once every 3s.
+When a character triggers a Lunar reaction (Lunar-Bloom, Lunar-Charged, or Lunar-Crystallize) on an opponent, a shockwave will be unleashed at the opponent's position, dealing True DMG. This effect can be triggered once every 3s.
 
 </details>
-XII. Travelers' Tales
 
 <details open="true">
-<summary><span>New Permanent Gameplay for "Travelers' Tales"</span></summary>
+<summary><span style="font-size: 0.1rem;">Update Scheduled for February 16</span></summary>
 
-◇ After the Version Luna I update, the new item "Travel Accounts" will be added.
+◇ After the Version Luna IV update, Phase 2 of the Spiral Abyss will be updated on February 16.
 
-◆ Travel Accounts
+◆ Floor 11 Ley Line Disorder changed to:
 
-A notebook filled with various anecdotes and amusing tales.
+All party members gain a 60% Geo DMG Bonus.
 
-Open it to browse the stories recorded within. With the fortune slip tucked inside, you can also make a simple wish via Destiny Drawn.
+All party members gain a 60% Hydro DMG Bonus.
 
-◇ After obtaining Travel Accounts, you can visit your companions in different regions and listen as they share tales from their daily lives, or while away a lazy day by their sides.
+◆ Floor 12 Ley Line Disorders changed to:
 
-There is a limit to the random number of anecdotes you can experience each day. If the map no longer shows any companions to visit, try coming back another day.
+First half: Lunar-Charged DMG is increased by 75%.
 
-If you miss a certain companion and wish on them using the "Destiny Drawn" mechanic, this will increase the chances of meeting them for a period of time.
+Second half: Lunar-Crystallize DMG is increased by 75%.
 
-◇ Unlock Criteria
+◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
 
-• Reach Adventure Rank 28 or above
+◆ Blessing of the Abyssal Moon:
 
-• Complete Archon Quest Chapter I: Act III "A New Star Approaches"
+Stonehold Moon
 
-• Complete the World Quest "The Many Matters Learned in One's Travels"
-
-• Complete "Reunion Beneath the Moonlight" in the Archon Quest Song of the Welkin Moon: Act I - "A Dance of Snowy Tides and Hoarfrost Groves" to unlock Nod-Krai's "Travelers' Tales."
-
-※ Complete the Archon Quest Chapter III: Act V "Akasha Pulses, the Kalpa Flame Rises" and Skirk's Story Quest "Crystallina Chapter: Act I - Whispers Betwixt Stars and Night" first to get the best experience from this event.
+When a character deals Lunar-Crystallize DMG to an opponent, a shockwave will be unleashed at the opponent's position, dealing True DMG. This effect can be triggered once every 3s.
 
 </details>
 XIII. Other Update Details
 
 - New Recipes:
 
-○ Exploration or Quest Rewards: "Smoked Fish Steak," "Borderland Crispbread," "Today's Boon," and "Lakkaberry Krumkake"
+○ Exploration or Quest Rewards: "Crispy Spring Rolls," "Veggie Pot Soup," "Mushroom Phantasm," "Fireside Merriment," and "Lucky Snow Delight"
 
-○ Nod-Krai NPC Katya: "Lakkaberry Madame," "Nod-Krai Hot Dog," "Midsommar Torte," and "Crispy Roast"
-
-○ Nod-Krai NPC Demyan: "Berries and Fried Meat," and "Roulette Special"
-
-○ Nod-Krai NPC Limppu: "Fruit Tandem Turnovers"
+○ From Nod-Krai NPC Katya: "Berry Herbal Candy"
 
 - New Character Specialty Dishes:
 
-○ Ineffa's specialty: "Thunderclap Slash!"
+○ Columbina's specialty: Moonlit Mirage
 
-○ Lauma's specialty: "Whisper in the Woods"
+○ Zibai's specialty: Flavor of Spring
 
-○ Flins's specialty: "Long Night Alight"
+○ Illuga's specialty: Nightwatch Soup
 
-○ Aino's specialty: "Clink-Clank Confectionery Cup"
+- Adds the "Nod-Krai: An Elysium of Moonlight and Wanderings (II)" and "Mortal Travails: Series VI" Achievement categories, as well as new Achievements to the "Wonders of the World" category.
 
-- Adds "Nod-Krai: An Elysium of Moonlight and Wanderings (I)" and "Meetings in Outrealm: Series VI" Achievement categories, and adds new Achievements to the "Wonders of the World" category.
-
-- Adds Set 43 of "Paimon's Paintings" chat emojis.
+- Adds Set 46 of "Paimon's Paintings" chat emojis.
 
 - Adds some prompts for loading screens.
 
 - New Namecards:
 
-"Lauma: Branched Antlers": Reward for reaching Friendship Lv. 10 with Lauma
+"Columbina: Someday": Reward for reaching Friendship Lv. 10 with Columbina.
 
-"Flins: Oathkeeper's Lantern": Reward for reaching Friendship Lv. 10 with Flins
+"Zibai: Veiled Vista": Reward for reaching Friendship Lv. 10 with Zibai.
 
-"Aino: Whoopsie Ducksie": Reward for reaching Friendship Lv. 10 with Aino
+"Illuga: Nightmare Songbird": Reward for reaching Friendship Lv. 10 with Illuga.
 
-"Nod-Krai: Moonlight": Reward for completing all quests under "Selenic Chronicles: Part II"
+"Achievement: Far-Sighted": Reward for completing all achievements under "Mortal Travails: Series VI."
 
-"Nod-Krai: Sacred Realm": Reward for completing all achievements under "Nod-Krai: An Elysium of Moonlight and Wanderings (I)"
+"Nod-Krai: Lantern of Longest Night": Reward for completing all achievements under "Nod-Krai: An Elysium of Moonlight and Wanderings (II)."
 
-"Achievement: Time Apart": Reward for completing all achievements under "Meetings in Outrealm: Series VI"
+"Travel Notes: Lanternlit Ode": Reward obtained via the BP system.
 
-"Travel Notes: Glacial Moon": Reward obtained via the BP system
+- Adds new wildlife: Thornback Gecko, Crowned Eagle, and Cinderneck Stork. You can use the Omni-Ubiquity Net to capture certain Nod-Krai creatures.
 
-- Another 2 sets of Artifacts are available to exchange in the Mystic Offering system: Scroll of the Hero of Cinder City and Obsidian Codex.
+- "Silvermoon Hall: Selenic Chronicles": Adds Quest series and rewards for Selenic Chronicles: Part III.
 
-- Adds new Gadgets: Rotor Hovering Daybed and Ujola Cat. (Please refer to the official Event Notices for acquisition details.)
-
-- Adds new Wildlife: Dualblaze Longplume Ibis, Puffin, Dusky Goat, Chestnut Goat, Chic Badger, Blunthorn Rhino, Atapetra Conch, Rimehorn Deer, Frostfin Whale, Moonglow Firefly, and Rock Crab. You can use the Omni-Ubiquity Net to capture certain Nod-Krai creatures.
-
-- Adds new Fish: Common Axehead Fish, Frosted Axehead Fish, Blazing Axehead Fish, Veggie Mauler Shark, Neon Mauler Shark, Azuregaze Crystal-Eye, and Nightgaze Crystal-Eye.
+- Adds the following Local Legends and the corresponding challenges: Hexadecatonic Mandragora, Hiljetta, and The Homesick Lone Wolf. Complete a certain number of challenges following this update to obtain the "First Light" avatar frame.
 
 - Adds some of the Harvestable seeds from Nod-Krai to the Seed Dispensary.
 
-- Repertoire of Myriad Melodies Update:
-
-Adds new music album "Encounter: Memories of a Boundless Journey."
-
-Adds new score themes "Wisdom of Cherried Frost," "Red-Hot Meter," and "Falcon Wings Ablaze."
-
-After the Version Luna I update, "Long-Term Encounter Points" will be reset.
-
 〓Adjustments & Optimizations〓
 
-● Test Run and Trial Characters
+● Quests
 
-- A basic tutorial inside the Test Run feature will be available for certain new characters to be added in the new version update.
+- Adds more guidance within the Domain of the Archon Quest "For a Tomorrow Without Tears."
 
-- Following the new version update, Travelers who already own a specific character and have completed their Test Run will be able to claim the corresponding challenge rewards automatically.
+- The "Travel Log" interface now includes the "Recollection" feature, enabling cutscene playback for relevant quests.
 
-- Enhances the bonus stats of certain trial characters' Artifacts. In upcoming combat gameplay available after the version update (such as the updated Imaginarium Theater coming to you on October 1 and certain event modes), the level of trial characters and weapons will be adjusted to 90.
+- In the "Quests" interface, the original "Story Quests" and "Travel Log" buttons are now combined into a single "Quest Overview" button.
+
+- Adds a new "Quest Overview" interface, which integrates four sections: "Travel Log," "Story Quests," "Event Quests," and "Travelers' Tales," while also displaying the currently recommended quests.
+
+a. Adds the "Travel Log" interface: Allows you to view all Archon Quests, Story Quests, Hangout Events, and Event Quests in the game. You can now view the Travel Log for completed quests or check the unlock criteria for unlocked quests.
+
+b. "Story Quests" interface: Optimizes the display order for this interface, which will now display completed Story Quests. Adds new filters to sort by character element and quest completion status.
+
+c. Adds the "Event Quests" interface: Allows you to view permanent event storylines and related quests (such as the "Easybreeze Holiday Resort" quest series). In this interface, Travelers can accept permanent event storylines that they've missed.
+
+d. "Travelers' Tales" interface: Displays after unlocking Travelers' Tales. Allows you to view recorded Travelers' Tales, with the same functionality as the Travel Accounts gadget.
 
 ● Exploration
 
-- Collect three obsidian rings, which are used to unlock Tribal Secret Spaces, and craft with them to reveal the locations of the relevant space in items and interfaces. Locations are shown as red dots.
+Starting from Version Luna IV, Teleport Waypoints that unlock automatically with new areas will now also appear on the map when zoomed out.
 
-- Increases the amount of Adventure EXP obtainable for certain exploration content:
+● Miliastra Wonderland
 
-a. Shrine of Depths chests will give 90 instead of 60 Adventure EXP, while Remarkable Chests will give 30 Adventure EXP instead of 0. Chests of all other grades will now give a standard 30 Adventure EXP.
+- Adjusts the lighting effect for the interface of "Miliastra Information" in Miliastra Wonderland.
 
-b. Visions will give 60 instead of 0 Adventure EXP.
+- In the "Wonderland Collection" interface of Miliastra Wonderland, when selecting multiple types for the filter, the relationship between the different types has been changed from "or" to "and".
 
-● Battle Pass
+- Adds a "Return to Teyvat" button to the "Paimon Menu" in the Miliastra Wonderland lobby.
 
-- Adds the new Traveling Bounties gift box in Gnostic Hymn. Travelers may claim this box when their Gnostic Hymn Level reaches Lv. 1 and 3. Open this box to get 15 local specialties of your choice.
+- Optimizes the icon visuals for "Popular Miliastra Wonderlands," "My Miliastra Wonderland," "Miliastra Pass," and "Odes" in the "Miliastra Wonderland" interface.
 
-- Lowers the following challenge objectives for the two Weekly Missions in the Battle Pass system:
+- Optimizes the display of certain interfaces in Miliastra Wonderland.
 
-a. The "Complete 15 Domain Challenges" objective is now lowered to 10.
+- In "Miliastra Wonderland," some headwear cosmetics now have an adjustable "Angle" option.
 
-b. The "Complete Ley Line deposit challenges 20 times" objective is now lowered to 15 times.
+- Adjusts the facial lighting effects for Manekins in the "Character" interface.
 
-● Inventory
-
-- Adds an "Offer" button to Offering items such as the Oculus and City States Sigils in your Inventory. When you have enough of them to increase the offering level and claim rewards, a red dot notification will appear.
-
-- Increases the maximum number of character development items, foods, materials, gadgets, quests, and Precious Items that can be stored in Inventory by 300, to 2,300.
-
-● Serenitea Pot
-
-- Increases the Replica Capacity of the Serenitea Pot by 10, to 20.
-
-- Increases the maximum number of furnishings that can be held in Inventory from 2,200 to 2,600.
-
-● Quests
-
-Adjusts the acceptance conditions for the World Quest "The Long-Failed 'Graph Adversarial Technology'..." to prevent Travelers from triggering the quest too early during their gameplay.
-
-● Artifacts
-
-- Increases the extraction progress gained from higher-grade Artifacts in the Artifact Extraction feature. This feature will now also support the use of Artifact Enhancement Materials.
-
-- Increases the number of Artifacts that can be stored in Inventory by 300, to 2,400.
-
-- After the version update, you will be able to preview the fourth minor affix on 5-star Artifacts with three initial minor affixes. The corresponding preview function will also be available for the Lock Assistance and Sort features.
-
-*After the version update, the existing Artifacts of this type you already own will have their fourth Minor Affix revealed upon your first login.
-
-● Tutorials
-
-The Tutorial title will now be displayed with the Tutorial icon. The triggering logic and sorting display have also been optimized:
-
-a. If you do not read the tutorial after triggering it, and when you encounter the corresponding gameplay or opponents again, the tutorial prompt will appear once more on the main interface.
-
-b. After the Traveler opens the Tutorials interface, the system will identify the tutorials near your location, and list them at the top within the interface.
-
-c. The triggering logic and display sorting optimizations will be implemented in the new tutorial after the version update. These optimizations will also be gradually supported in the tutorials introduced in older versions.
-
-● Domains
-
-In the first week of the character/weapon Wishes, Domain: Weapon Ascension Materials and Domain: Talent Ascension Materials will be available round the clock as long as they are unlocked. (To take the first Wish after the version update as an example: it will be available from after the version update to September 17, 2025, 03:59 server time.)
-
-*You can look up the time remaining by going to the Domains tab in the Adventurer Handbook.
-
-● Original Resin
-
-- The consumable Condensed Resin will now require Original Resin ×60 to craft. It can be used to claim rewards up to three times. (Any Condensed Resin left over from before the version update will remain available and can be used to obtain triple the rewards.)
-
-- In the interface where you use 20 Original Resin to claim rewards:
-
-a. A new option has been added: You can now use 40 Original Resin to claim 2× rewards.
-
-b. A new option has been added: You can now use Primogems to quickly purchase Original Resin and claim up to 3× rewards.
-
-c. The option to use Transient Resin or Fragile Resin will become available when the quantity of Condensed Resin is 0.
+- Adds a new keybinding for "Open Switch Character Page" in Miliastra Wonderland. If the "I" key is already assigned to another action, this keybinding will be set to "Unassigned" after the update.
 
 ● Audio
 
-- Supplements some English voice-over resources for Nahida in "About Haborym..."
+- Reduces the volume of sound effects related to the enemies "Wilderness Exile" and "Wilderness Hunter."
 
-- Supplements some English voice-over resources for Mika in Version 5.6's Archon Quest "Paralogism."
+- Optimizes the sound effects of certain interfaces and quests.
 
-- Supplements some English voice-over resources for Traveler - Lumine in Version 5.7's Archon Quest "A Space and Time for You" and Skirk's Story Quest.
+- After the version update, the English voice actors for Ganyu and Charlotte will be replaced.
 
-- Optimizes fade and transition sound effects when interacting with the furnishings "Sweet Dreams" and "Sleepless."
+● Other Systems
 
-● System
+- On the treasure collection screen where 20 Original Resin is required, clicking "Transient Resin" now also displays its remaining duration.
 
-- Certain Party interfaces (such as "Spiral Abyss" and "Stygian Onslaught") now have a "Preset Teams" entry when Traveler starts the challenge solo. This interface shares the same Principal Cast data as set in the Party Setup screen. Traveler can use this feature to save their current party as a preset, or apply a previously saved preset to the current party.
+- When a tutorial appears, clicking to open the Tutorials interface now highlights the corresponding entry by default. (Previously, it would always select the first tutorial.)
 
-- Adds the new option: "Clear the shader cache" under the Graphics tab in Settings. (This feature helps to resolve rendering issues caused by shader compilation errors.)
+- Friend nicknames are now displayed across all chat interfaces, not just in "Friend Chat" interface.
 
-● Other
-
-- Lowers the DMG ratio dealt to characters by Dendro Cores created by characters through Bloom reactions. (DMG dealt is now at 40% of the original.)
-
-- Optimizes the activation logic of Food effects: When a character enters a Domain that disables Food effects, any of those effects active will now pause instead of being canceled entirely. The effects will resume once the character exits the Domain, as long as they haven't expired.
-
-- The Reputation Reward blueprints "Instructions: Condensed Resin" and "Diagram: NRE (Menu 30)," as well as the gadgets Crystalfly Trap and The Boon of the Elder Tree, can now be purchased from the blacksmith at Mondstadt or Liyue.
-
-- Adjusts the order of Character Ascension Material sources.
-
-- Increases the maximum number of certain 2-star Character and Weapon Enhancement Materials that may be redeemed at Stardust Exchange each month from 70 to 120.
-
-- Increases the number of Encounter Points that can be obtained from event rewards and by completing event Story Quests.
-
-- Lowers the difficulty levels of open-world enemies, as well as enemies in Domain: Artifacts, Domain: Weapon Ascension Materials, and Domain: Talent Ascension Materials, in co-op mode.
+- Optimizes the notification dot display logic for the "To Temper Thyself and Journey Far" event: The notification dot will no longer appear after claiming all rewards from the current event.
 
 〓Bug Fixes〓
 
-● Enemies
-
-- Fixes an issue whereby, under certain circumstances in Co-Op Mode, enemies behave abnormally and do not engage in combat.
-
-- Fixes an issue whereby the enemy "Aeonblight Drake" abnormally deals multiple instances of damage to nearby characters when sprinting to the mines created by Klee's Elemental Skill.
-
-- Fixes an issue whereby, under certain conditions, the enemy Bakunawa can be abnormally pushed by the character after being defeated and re-sealed, thereby causing the character's model to shift.
-
 ● Quests
 
-- Fixes an issue whereby, under certain circumstances in the Archon Quest "Searing," if the character misses the access module or falls from it while attempting the objective "Ride the access module," the quest cannot continue forward.
+- Fixes an issue whereby some objects would abnormally remain in the "Frostmoon Enclave" area after completing the Archon Quest "Melting Moonlight in the Morning Mist."
 
-- Fixes an issue whereby, in the Archon Quest "Bird's Eye View," if the character drowns, they are abnormally teleported to Liyue upon revival.
+- Fixes an issue under certain circumstances where some NPCs would abnormally rise during the Archon Quest "Melting Moonlight in the Morning Mist."
 
-- Fixes an issue whereby, in the Story Quest "The Surprise That Awaits Us All!" and the gadget Easybreeze Album, there is a minor display error with a certain photo.
+- Fixes an issue in the Archon Quest "Melting Moonlight in the Morning Mist" whereby certain visual effects at The Damselette's feet would persist for too long when fading out.
 
-- Fixes an issue whereby, in the Story Quest "The Magician's Secret," the objective "Find Edmondo" displays an incorrect quest guidance point location.
+- Fixes an issue in Jean's Story Quest "Master's Day Off" whereby duplicate characters would appear during the objective "Go to the second-floor terrace and look for Jean.”
 
-- Fixes an issue whereby, under certain circumstances, the follow-up quest for the commission "Pigeons Go AWOL" cannot be triggered.
+- Fixes an issue whereby, under certain circumstances, the objective location for "Reclaim your true self" in Durin's Story Quest "The Magic Known as Storytelling" could not be reached, preventing quest progression.
 
-- Fixes an issue whereby, under certain conditions, the game has a small chance of freezing with a black screen during the World Quest "Road to the Singularity" at the objective "Work with Paimon to open the cell."
+- Fixes an issue whereby, under certain circumstances, some characters would move to abnormal positions in Durin's Story Quest "The Magic Known as Storytelling."
+
+- Fixes an issue whereby, under certain circumstances, after defeating enemies in the objective "Defeat the opponents blocking your path" in Durin's Story Quest "Fate's Accursed Wiles," you couldn't continue this quest.
+
+● Enemies
+
+- Fixes an issue whereby the visual effects would display abnormally when the enemies "Frostnight Scion" and "Frostnight Herra" are hit by Hu Tao's Elemental Burst.
+
+- Fixes an issue in Phase 2 of the "The Game Before the Gate" challenge whereby, after executing "Lethal Blow," character attacks could not lock onto the Ascended King.
+
+- Fixes an issue whereby damage numbers would not display when the enemy "Fatui Skirmisher - Cryogunner Legionnaire" lands a jumping attack that deals damage to characters.
 
 ● Characters
 
-- Fixes an issue whereby the character model for Yelan presents with minor visual anomalies after the outfit "Tranquil Banquet" is equipped.
+- Fixes an issue where the Traveler (Electro)'s Ascension Talent "Resounding Roar" would incorrectly increase the Energy Recharge provided by Lightning Blade's Abundance Amulet based on the Traveler's "Base Energy Recharge" (after the fix, it will increase based on the Traveler's "Energy Recharge").
 
-- Fixes an issue whereby, after the character Yelan equips her outfit "Tranquil Banquet," minor visual anomalies occur when selecting the Leisure Time or Alpha Pose options in Photo Mode – Poses.
+- Fixes an issue under certain circumstances where, if the game reconnects to the server, the effects of Fischl's additional talent "Witch's Eve Rite: Phantasmal Nocturne" and the "Favonian Favor" effect granted by Dahlia's Elemental Burst would abnormally fail to take effect.
 
-- Fixes an issue whereby minor visual anomalies occur in Ineffa's model when she sprints.
+- Fixes an issue whereby, under certain circumstances, the visual effects of the Sourcewater Droplets generated by Neuvillette's Lv.4 Constellation would display abnormally.
+
+- Fixes an issue where, when Neuvillette used his Elemental Burst after switching to the outfit "Melusent Gift," his fingers would display abnormally and the ribbons on his outfit were in the wrong place.
+
+- Fixes an issue under certain circumstances where Jahoda had abnormal facial expressions on mobile devices.
+
+- Fixes an issue whereby shadow effects would persist abnormally after certain characters were incapacitated.
+
+● Miliastra Wonderland
+
+- Fixes an issue in the Miliastra Wonderland lobby whereby Wonderland Manekins could still use skills while performing actions.
+
+- Fixes an issue whereby Wonderland Manekins could still perform the "Switch Manekin" action while frozen in the Miliastra Wonderland lobby.
+
+- Fixes an issue whereby, under certain circumstances, the Popularity and Recommendation Rate values for "Wonderland to Play" would appear blank on the Miliastra Wonderland stage results screen.
+
+- Fixes an issue in "Miliastra Wonderland > Odes > Cosmetic Preview" whereby the set icon didn't update when switching a cosmetic's Ascension Effect.
+
+- Fixes an issue in Miliastra Wonderland whereby the search bar in the "Search Wonderlands" interface was unresponsive under certain circumstances.
+
+- Fixes an issue whereby the cosmetic "Wildpeak Echoes Shorts (Bottoms)" would display incorrectly under certain circumstances.
+
+- Fixes an issue where certain cosmetics would display abnormally at the joints of Wonderland Manekins.
+
+- Fixes an issue where some cosmetic icons were displayed incorrectly and did not match the actual cosmetics.
+
+- Fixes an issue whereby the cosmetic "Dewdrop Shadows (Eye Shape)" would display incorrectly under certain circumstances.
+
+- Fixes an issue whereby, when the hairstyle "Candlelit Wizard: Pumpkin Candy" is equipped on the Manekina, equipping additional headwear while "Hide Back of Hair" is enabled in the component adjustment settings would cause the bun color to display incorrectly.
+
+- Fixes an issue whereby, under certain circumstances, the Manekin would display abnormally when wearing the "Frosty Plume Formals."
+
+- Fixes an issue whereby, under certain circumstances, the Manekin would display abnormally when wearing the "Prelude to Spring" Set.
+
+● Equipment
+
+Fixes an issue whereby, after the party gains the "Hexerei: Secret Rite" effect, visual effects from the weapons "Athame Artis" or "The Daybreak Chronicles" would abnormally appear on other weapons under certain circumstances.
 
 ● Audio
 
-- Fixes an issue whereby skill sound effects and character voices cannot be heard in the Photo Mode interface.
+- Fixes an issue where the sound effects of certain objects or actions were abnormal.
 
-- Fixes an issue whereby the sound effects and animations for the furnishing "Crackle-Clatter Cryptex" are mismatched.
+- Fixes an issue where background music was missing when characters entered combat in certain areas.
 
-- Fixes an issue whereby Chinese voice-overs do not function correctly in certain quests.
+- Fixes an issue where, after completing the World Quest "The Empty Courtyard," some background music would overlap while heading to the "Silvermoon Hall."
 
-● Genius Invokation TCG
+- Fixes an issue where Neuvillette's voice-over "When Thunder Strikes" could not be triggered during open world exploration.
 
-Fixes text display errors on certain cards and optimizes card descriptions.
+- Fixes an issue in the "Character" interface where Lumine's voice-over "About 100 Things You Never Knew About Varka" and Flins' voice-over "More About Flins: V" both had an error in their Chinese voice-over.
+
+- Fixes an issue in the quest "Witch's Homework: Of the Unexpected" whereby a Chinese voice line did not match the corresponding on-screen performance.
 
 ● System
 
-- Fixes an issue whereby, in the Artifact Reshaping interface, the artifact highlighting feature does not promptly update based on the newly added Minor Affixes post-reshaping.
+- Fixes an issue in Co-Op Mode where the screen would get stuck abnormally when adding a defeated character to the party in the Party Setup screen and reviving them.
 
-- Fixes an issue whereby the number of Minor Affix rolls in the "Sanctifying Elixir Definition" pop-up window, located in the top-right corner of the Artifact Reshaping interface, is not being updated promptly based on the reshaped Artifact's Minor Affixes.
+- Fixes an issue where, under certain circumstances, the highlight effect on character skill buttons would not display.
 
-- Fixes an issue whereby, under certain conditions, the number of Furnishings displayed in the Inventory does not match the actual count.
+- Fixes an issue whereby, under certain circumstances, a pop-up would repeatedly appear when claiming Commission Rewards redeemed with Encounter Points from Katheryne.
 
-- Fixes an issue whereby, in the Character – Constellation interface, certain effects of Skirk's third and fifth Constellations are not properly linked to their corresponding effect descriptions.
+- Fixes an issue whereby an avatar icon would display abnormally when included as an attachment in the "Mail" interface.
 
-- Fixes an issue whereby, in the Character interface, certain effects of Dahlia's Ascension Talents and Constellations are not properly linked to their corresponding effect descriptions.
+- Fixes an issue whereby the Traveler's avatar icon would display as a specific elemental version.
 
-- Fixes an issue whereby, under certain circumstances, after switching tabs multiple times in Shop and purchasing an item, the item actually purchased may occasionally not match the item shown.
+- Fixes an issue whereby, under certain circumstances, players were unable to change the tracked region for "Ley Line Outcrops" from "Natlan" to "Nod-Krai" in the "Enemies" tab of the Adventurer Handbook.
 
-- Fixes an issue whereby, in Co-Op Mode, using a controller allows the abnormal tracking of certain quests that cannot be completed in Co-Op.
+- Fixed an issue whereby game time would not pause when using the Take Photo feature for the first time after logging in.
 
-- Fixes an issue whereby, under certain circumstances, the "Spiral Abyss" party setup interface incorrectly includes the same character in both the first-half and second-half teams.
+- Fixes an issue whereby certain animation effects were missing when adding Varesa to the party in the "Party Setup" screen.
 
 ● Other
 
-- Fixes an issue whereby certain birds are abnormally obstructed by the environment when taking off.
+- Fixes an issue where, when Neuvillette used his Elemental Burst after switching to the outfit "Melusent Gift," the game scene would appear abnormally overexposed, causing abnormal display of the character's body proportions.
 
-- Fixes an issue whereby, after equipping the Seed Dispensary, collecting Cacahuatl seeds at Easybreeze Holiday Resort does not yield the corresponding seed.
+- Fixes an issue where, under certain circumstances, the camera would clip through the character model when Jahoda was in the "Shadow Pursuit" state.
 
-- Fixes text errors in certain quests, interfaces, and descriptions.
+- Fixes an issue whereby, in certain areas, the lighting effects of Escoffier's Elemental Burst would display abnormally.
+
+- Fixes an issue whereby the "Dynamic Character Resolution" option would abnormally appear in "Settings > Graphics" on some devices that do not support this feature.
+
+- Fixes an issue whereby enabling "Dynamic Character Resolution" would cause the game to lag or crash when switching between certain characters.
+
+- Fixes an issue whereby a gameplay icon displayed incorrectly during the objective "Brew the potion" in the quest "Witch's Homework: Of Wonderland Flowers."
+
+- Fixes text errors in certain quests, interfaces, dialogues and descriptions.
 
 - Fixes some text errors in certain languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
 
-Text-related fixes and optimizations in English include:
+◆ Optimizes the English texts for some World Quests.
 
-◆ Optimizes certain English translations.
+◆ Optimizes an issue where certain voiceovers were out of sync with their texts.
 
-◆ Optimizes inconsistencies between certain voice-overs and the corresponding lines.
+〓Genius Invokation TCG Balance Adjustment〓
 
-◆ Optimizes some World Quest terms.
+- The Character Cards "Skirk" and "All-Devouring Narwhal" are now assigned to the "Cosmic Calamity" faction.
 
-◆ Supplements Version 5.7 voice-over lines in English for Lumine.
+- Adjusts the starting Max HP values for Character Cards: "Charlotte," "Collei," and "Kamisato Ayato" are adjusted from 10 to 11, "Thoma" from 10 to 12, and "Hydro Tulpa" and "Lord of Eroded Primal Fire" from 12 to 11.
 
-◆ Supplements a Version 5.3 voice-over line in English for Nahida.
+- Adjusts the effect of the Support Card "Chenyu Vale": The effect that previously triggered "when Adventure Experience reaches 7" now triggers at 8 instead.
 
-◆ Supplements Version 5.6 voice-over lines in English for Mika.
+- Adjusts the effect of Equipment Card "Ultimate Overlord's Mega Magic Sword": The original effect "...If this card's Support value is at least 2/4/8..." has been adjusted to "...If this card's Support value is at least 2/4/9..."
 
-〓Genius Invokation TCG Balance Adjustments〓
+- Adjusts the effect of the Event Card "Ultimate Surfing Buddy!": Playing this card will now be considered a "Combat Action."
 
-- Adjusts the starting Max HP of the "Amber," "Kaveh," "Xilonen," and "Diona" Character Cards from 10 to 12; adjusts the starting Max HP of "Rhodeia of Loch" from 10 to 11; and adjusts the starting Max HP of "Gluttonous Yumkasaur Mountain King" from 7 to 8.
+- Adjusts the Elemental Dice cost and effects of the Event Card "Machine Assembly Line": Now, 1 Elemental Die is needed instead of 0. Also, card effect is changed to "Deal 1 Physical DMG to your active character. Draw 1 random Artifact Card from your deck."
 
-- Adjusts the "Well Fed and Strong" effect for the Character Card "Gluttonous Yumkasaur Mountain King": Now, each stack causes the character to deal +1 DMG the next time they deal DMG. (Can stack, no stack limit, max 2 stacks each time)
+- Adjusts the effect of the Event Card "I'd Rather Lose Money Myself...": Card effect is changed to "Each time your opponent gains 1 Elemental Die during this Round: If you have not declared the end of your Round, you gain 1 Omni Die. Otherwise, grant 1 Shield point to your deployment area. (Usages: 3)."
 
-- Adjusts the effects of the Character Card "Kamisato Ayaka"'s passive skill "Kamisato Art: Senho": This effect will be adjusted to "(Passive) When switched to be the active character, this character gains Cryo Elemental Infusion. The next Normal Attack during this Round deals +1 DMG. (Twice per Round)."
+- Adjusts the Elemental Burst DMG of the Character Card "Yanfei": Pyro DMG dealt is adjusted from 3 to 4.
 
-- Adjusts the Elemental Dice cost of the Talent Card "Strategic Reserve" of the Character Card "Ningguang": The Geo Dice cost is adjusted from 4 to 3.
+- Adjusts the Elemental Dice cost of Talent Card "Floral Sidewinder" of Character Card "Collei": The Dendro Dice cost is adjusted from 4 to 3.
 
-- Adjusts the Elemental Dice cost of Talent Card "Cold-Blooded Strike" of Character Card "Kaeya": The Cryo Dice cost is adjusted from 4 to 3.
-
-- Adjusts the Elemental Dice cost for the Support Card "Dawn Winery": The Elemental Dice cost will be adjusted from 2 Dice of the same element to 3 Dice of any element.
-
-- Adjusts the Elemental Skill DMG of the Character Card "Golden Wolflord": Geo DMG dealt is adjusted from 1 to 2.
-
-- Adjusts the summon effects of the Character Card "Rhodeia of Loch": the restriction of having at most 2 types of Oceanic Mimic existing simultaneously in the summons area has been removed.
-
-- Adjusts the Elemental Die cost and effects of the Equipment Card "Amethyst Crown": Now, 0 Elemental Dice are needed instead of 1. Also, card effect is changed to: "After an opponent takes DMG: If this DMG is Dendro DMG or triggers Dendro-Related Reactions, gain 1 Crowning Crystal. (Max 2 stacks.) When the Action Phase begins: If your Crowning Crystal count is 2, the next Elemental Reaction you trigger deals +2 DMG during this Round."
-
-- Adjusts the effects of the Equipment Card "Flower of Paradise Lost": Card effect is changed to: "After an opponent takes DMG: If this DMG is Dendro DMG or triggers Dendro-Related Reactions, gain 1 Crowning Crystal. (Max 5 stacks.) When the Action Phase begins or when your character triggers an Elemental Reaction: If your Crowning Crystal count is 5, create 1 Omni Die and draw 1 card. (Twice per round)"
-
-- Adjusts the Elemental Dice cost and effects of the Support Card "Chinju Forest": Now, 2 Elemental Dice of the same element are needed instead of 1. Also, card effect is changed to: "Before you choose your action: If the current total number of Elemental Dice is even, your character's Normal Attacks will cost 1 fewer Unaligned Elemental Die. Usage(s): 4."
-
-- Adjusts the Elemental Dice cost and effects of the Support Card "Grand Narukami Shrine": Now, 3 Elemental Dice of any element are needed instead of 2 of the same element. Also, card effect is changed to: "After your character uses a skill: If the total number of Elemental Dice is odd, create 1 Omni Die. (Twice per round)"
+- Adjusts the effect of Talent Card "Kyouka Fuushi" of Character Card "Kamisato Ayato": The effect "When your Kamisato Ayato, who has this card equipped, triggers the effects of Takimeguri Kanka, deal +2 additional DMG if the target's remaining HP is equal to or less than 6" is changed to "After Kamisato Ayato, who has Takimeguri Kanka attached, uses a Normal Attack: The character to which this is attached spends 2 fewer Unaligned Element the next time they use a Normal Attack this Round. (That Normal Attack will not trigger this card's effect)."
 
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
@@ -985,7 +739,7 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# [Version Details - What's New ](archive/21347.md)
+# [Version Details - What's New ](archive/21570.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
 
@@ -995,137 +749,700 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There's an issue in Events Overview whereby the eligibility for "The Clink Clank Whiz-Kid!" and for "A Dance of Snowy Tides and Hoarfrost Groves" (as displayed in both Events Overview and Homeward Path) are not fully shown. The actual requirements are: Complete Song of the Welkin Moon — Prelude "The Journey Home" and Archon Quest Interlude Chapter: Act IV "Paralogism." This issue will be fixed in a future update, please stay tuned for an official announcement.
+- There is an issue whereby under certain circumstances, after achieving victory in the Trounce Domain "False Moon Institute," Travelers may still find the "The Doctor" entry locked in the "Living Beings" section of the Archive.
 
-〓<t class="t_gl" contenteditable="false">2025/09/10 22:40</t> Update Details〓
+Travelers affected by the above issue can defeat The Doctor outside the rift from beyond this world to unlock the entry as intended. This issue will be fixed in a future update.
 
-- Fixes an issue in the "Switch Choice" screen of the event "To Temper Thyself and Journey Far," whereby under certain circumstances, the Constellation level displayed on the final character's icon may display incorrectly if there are characters you have not yet obtained.
+- The devs will optimize the background music for a cutscene animation in the Archon Quest "True Moon" after the "Luna V" update. This optimized version of the background music will also be used in the upcoming official cutscene animation video.
 
-- Fixes an issue whereby after opening the "Switch Choice" screen of the event "To Temper Thyself and Journey Far," the red notification dot would not disappear under certain circumstances.
+- Currently, when Neuvillette performed certain actions (such as moving, Normal Attacks, etc.) after using his Elemental Burst while wearing to the outfit "Melusent Gift," the back of the outfit lacks the fluttering effect. This issue will be fixed in the Version "Luna V" update.
 
-- Fixes an issue under certain circumstances whereby when using a controller to open the "Traveling Bounties" bundle (obtained from the Battle Pass) and selecting "Moonfall Silver" would incorrectly grant "Wolfhook" instead.
+〓<t class="t_gl" contenteditable="false">2026/01/16 12:10</t> Update Details〓
 
-- Fixes an issue in the Battle Pass "Unlock Gnostic Hymn" screen whereby the "Traveling Bounties" bundle was missing from the displayed rewards of "Gnostic Hymn."
+Fixes an issue whereby after the "Traveler" resonated with multiple elements and unlocked additional Talents, in certain scenarios, the additional Talents would only provide attribute boosts based on the current resonating element.
 
------
+〓<t class="t_gl" contenteditable="false">2026/01/16 11:10</t> Update Details〓
 
-# [View the Updated Exclusive Genshin Impact Tools!](archive/21306.md)
-## The Genshin Impact Version Luna I Tools Update Is Here!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/10/aadc2b32e8c31d5bed7ba605c64c112d_4711928860817074195_transformed.png)
+Fixes an issue whereby the game scene might become abnormal when carrying out the quest objective "Enter the world in the mirror" in the Archon Quest "A Traveler on a Winter's Night" on certain devices, resulting in the quest not being able to proceed.
 
-Dear Traveler,
+〓<t class="t_gl" contenteditable="false">2026/01/14 20:45</t> Update Details〓
 
-Genshin Impact Version "Luna I" is now live, and the gates of Nod-Krai are open to all Travelers! A new adventure is about to begin!
+- Fixes an issue after the Version "Luna IV" update whereby some characters' Passive Talent effects such as "some creatures will not be startled when approached" and other similar effects could fail to take effect abnormally.
 
-Genshin Impact's tools in HoYoLAB have also been updated with a load of new content to help you on your journey through the new version.
-
-| Teyvat Interactive Map Update: Adds the new Nod-Krai region and corresponding location pins!
-
-New areas related to Nod-Krai have become available in Version "Luna I." Pins and other information for said areas will also be added to the Interactive Map.
-
-Recommended Ascension Material harvest routes for Version "Luna I"'s new characters Lauma and Aino have been updated.
-
-[>> Click to View the Teyvat Interactive Map <<](https://act.hoyolab.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&utm_campaign=update&utm_content=map&utm_id=2&utm_medium=notice&utm_source=ingame#/map/2)
-
-| Character Building Guides: Adds the building guides for the drop-boosted characters in Version "Luna I"
-
-The building guides for the new characters Lauma, Aino, and characters that appear in Version "Luna I"'s Event Wishes are now available.
-
-(The character building guides of Flins will be added when the Limited-Time Wish becomes available on September 30)
-
-Click to view all-in-one image guides on Character Level-Up Materials, building tips, team composition recommendations, Artifact and Weapon suggestions, and more. Building characters has never been easier!
-
-(Building tips are selected from popular community guides and do not represent official views.)
-
-[>> Click to View Character Building Guides <<](https://wiki.hoyolab.com/pc/genshin/entry/4808?utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| HoYoWiki: Adds new character information of Version "Luna I" and top-quality UGC content
-
-With the update of Version "Luna I," the Wiki now includes basic information and voice lines of Lauma and Aino.
-
-Meanwhile, entries on game mechanics, lore, and version quest guides will be updated gradually. Stay tuned!
-
-(The character information of Flins will be added when the Limited-Time Wish becomes available on September 30.)
-
-(HoYoWiki is collectively created by HoYoLAB editors and does not represent official views.)
-
-[>> Click to Go to HoYoWiki <<](https://wiki.hoyolab.com/pc/genshin/home?bbs_presentation_style=fullscreen&utm_campaign=update&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Enhancement Progression Calculator Update: Supports calculating level-up materials for the new characters Lauma and Aino
-
-(The enhancement progression calculation for Flins will be updated when the Limited-Time Wish becomes available on September 30.)
-
-[>> Click to Use the Enhancement Progression Calculator <<](https://act.hoyolab.com/ys/event/calculator-sea/index.html?bbs_auth_required=true&bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=calculator&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-| Lineup Simulator Update: Supports related lineup queries and posts for the new character Lauma
-
-(Check out the party lineup recommendations for the new season's Spiral Abyss.)
-
-(Lineup queries for Flins will be updated when the Limited-Time Wish becomes available on September 30.)
-
-[>> Click to Use the Lineup Simulator <<](https://act.hoyolab.com/ys/event/bbs-lineup-ys-sea/index.html?bbs_presentation_style=fullscreen&utm_campaign=update&utm_content=lineup&utm_id=2&utm_medium=notice&utm_source=ingame#/m/home/rec)
+- Fixes an issue that caused the number of "Arcane Keystones" and "Geodes of Replication" to be displayed incorrectly on the "Ode" button after changing pages in the “Ode” screen in “Miliastra Wonderland” when using a controller.
 
 -----
 
-# ["Journey Invitation" — Genshin Impact Web Event "It Starts in Nod-Krai" Update!](archive/21304.md)
-## Phase II of "It Starts in Nod-Krai" Web Event - "Journey Invitation" Now On: Participate to Earn Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/03/c494071584348fc249dfbd21a1cb227f_6087804265995542152_transformed.jpg)
+# [Web Event "Where the Moon Returns" Now Live: Participate to Obtain Primogems!](archive/21535.md)
+## "Where the Moon Returns" — Genshin Impact Web Event Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/a4c5ba31f6d12b79cdede6ef82b50c9d_7211191492513107203_transformed.jpg)
 
-Phase II of "It Starts in Nod-Krai" Web Event - "Journey Invitation" is now on.
+The new limited-time web event "Where the Moon Returns" is now available.
 
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20250829reserve-6htzhx/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20250829return&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260114invite-kst075/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260114campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
 
 〓Event Duration〓
 
-2025/08/29 – <t class="t_gl" contenteditable="false">2025/09/24 23:59</t>
+2026/01/14 to <t class="t_gl" contenteditable="false">2026/01/28 23:59</t>
 
 *Rewards cannot be claimed after the event ends. Please claim them in time.
 
 〓Eligibility〓
 
-Travelers who have reached Adventure Rank 10 or above can participate in this event.
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
 
 〓Event Description and Rewards〓
 
-During the event, complete missions in "New Version 'Luna I' Pre-Registration" and "Journey Invitation" to obtain Primogems, Coins of Destiny, and other rewards.
+During the event period, Travelers who complete the "Moon Goddess's Gift" and "Invitation of the Welkin Moon" quests can obtain Primogems and Feathers. Consume Feathers to participate in lucky draws for more rewards!
 
-1. New Version "Luna I" Pre-Registration: The section is available from 2025/08/29 to <t class="t_gl" contenteditable="false">2025/09/10 05:59</t>. Completing the missions will earn you a total of Primogems ×100 and other in-game rewards. Please see the page for details.
+1. Moon Goddess's Gift: Earn up to Primogems ×20 and Feathers ×8. See the quest page for details.
 
-2. Journey Invitation: The section is available from 2025/09/10 to <t class="t_gl" contenteditable="false">2025/09/24 23:59</t>. Completing the missions will earn you a maximum of Coins of Destiny ×54. Please see the page for mission details.
+2. Invitation of the Welkin Moon: You can earn up to Feathers ×15. Returning players who successfully link with another player via an invitation link will receive an additional 20 Primogems and 2 Feathers. See the quest page for details.
 
-3. When the "Journey Invitation" section is available, you can use "Coins of Destiny" to flip over cards and receive various in-game rewards. Details of the rewards and the probability of receiving them can be found on the event page.
+3. Share your exclusive invitation link to invite friends and earn up to Feathers ×10. See the quest page for details.
+
+*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
 
 〓Event Notes〓
 
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
 
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
-# [The Version "Luna I" Submission Contest has begun!](archive/21299.md)
-## Version "Luna I" Submission Contest
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/671b26c661dc37800d769d378992f36b_5393396552647336931_transformed.jpg)
+# ["May Fortune Find You: Spring's Premonition" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21523.md)
+## May Fortune Find You: Spring's Premonition
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/c2e838cbaffe273a74460d51c40fb795_228399991432069432_transformed.jpg)
 
-Hello, Traveler~
+During the event, the "Fortune's Coming - Daily Login Event" and "'Serene Moonlit Nights' - Lantern Rite Gifts" will be available.
 
-The Genshin Impact Version "Luna I" "A Dance of Snowy Tides and Hoarfrost Groves" Submission Contest has begun!
+The rewards include: Primogems ×1,600, Intertwined Fate ×10, Crown of Insight, Sanctifying Elixir, Dust of Enlightenment, etc.
 
-From September 10, head to the official Creator Incentive Program page to create videos or fan art related to the storyline, map, or characters from Version "Luna I" for a chance to win up to Primogems ×5,000 and 1,200 USD!
+〓Fortune's Coming - Daily Login Event〓
 
-For more details, please visit the official Incentive Program page:
+Event Duration: <t class="t_lc" contenteditable="false">2026/01/16 04:00</t> – <t class="t_lc" contenteditable="false">2026/02/03 03:59</t>
 
-[>> Click to View <<](https://act.hoyoverse.com/puzzle/hk4e/pz_ZJmJ0wsaHe/index.html?sign_type=2&authkey_ver=1&auth_appid=e202506048014)
+Eligibility: Adventure Rank 5 or above
 
-From September 10, log into HoYoLAB and select the Genshin Impact Official Strategy Guides Contest in the Interest Group. Submit guides related to characters, events, and other aspects of Version "Luna I" to participate. Winning creators can receive up to 600 USD and Primogems ×6,000!
+Total Login Days | Rewards
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Dust of Enlightenment ×1
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
 
-For more details, please visit:
+〓"Serene Moonlit Nights" - Lantern Rite Gifts〓
 
-[>> Click to View <<](https://www.hoyolab.com/contribution/437)
+Event Duration: <t class="t_lc" contenteditable="false">2026/01/30 00:00</t> until the end of Version "Luna IV"
+
+Eligibility: Adventure Rank 2 or above
+
+Event Details:
+
+● Each mail can be collected until the end of the "'Serene Moonlit Nights' - Lantern Rite Gifts" event. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+Login Date | Reward 1 | Reward 2 | Reward 3 | Reward 4
+--- | --- | --- | --- | ---
+January 30 | Primogems ×300 | Hero's Wit ×5 | Eight-Treasure Duck ×5 | Slow-Cooked Bamboo Shoot Soup ×5
+January 31 | Primogems ×300 | Fragile Resin ×1 | Sanctifying Unction ×6 | "My Way" ×5
+February 1 | Primogems ×300 | Crown of Insight ×1 | Guide to Diligence ×3 | Mystic Enhancement Ore ×10
+February 2 | Primogems ×300 | Fragile Resin ×1 | Guide to Gold ×3 | Mora ×50,000
+February 3 | Primogems ×400 | Sanctifying Elixir ×1 | Guide to Prosperity ×3 | Sanctifying Unction ×6
+
+-----
+
+# ["Shutterflash Memory Hunt" Event: Capture the "moments that make them who they are"!](archive/21522.md)
+## "Shutterflash Memory Hunt"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/f282a9e993dc0af1d8ae93a84c6b113f_4597963710878219601_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/12/10/aa68b0815cb2019b3adbe23912503f9c_1715897546416280656_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/01/16 10:00</t> – <t class="t_lc" contenteditable="false">2026/01/26 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "Incandescent Ode of Resurrection," Tribal Chronicles "Memories Flowing With Color: Act III," and Story Quests "Crystallina Chapter: Act I," "Dulciaria Structura Chapter: Act I," and "Aphros Delos Chapter: Act I" first to get the best experience from this event.
+
+〓Event Details〓
+
+● Travelers need to visit the designated photo-taking spots to complete photo-taking challenges. Two new photo-taking spots will be added each day for the first five days of the event.
+
+● In the first phase of the challenge, make the correct poses based on the silhouettes provided. Use the "Shutterflash" Kamera to capture the moment that matches the silhouette.
+
+● In the second phase of the challenge, the camera needs to be adjusted to complete the composition of the picture. When the character and the silhouette provided are aligned to a certain extent, a picture may be taken to complete the challenge.
+
+● During the event, you can claim rewards on the event menu the first time you complete the photo-taking at each photo-taking spot.
+
+-----
+
+# [Event Wish "Somnias a Luna" - Boosted drop rate for Welkin Moon's Homecoming: Columbina (Hydro)!](archive/21511.md)
+## Event Wish "Somnias a Luna"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/ff5781c3b5452b416f9c9c108edca271_8175063569260730573_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version "Luna IV" update  —  <t class="t_lc" contenteditable="false">2026/02/03 17:59</t> | "Welkin Moon's Homecoming" Columbina (Hydro) | "Wisdom's Measure" Sethos (Electro)
+^ | ^ | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "In the Wake of Wandering Winds" Ifa (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Welkin Moon's Homecoming" Columbina (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wisdom's Measure" Sethos (Electro), "Prinzessin der Verurteilung!" Fischl (Electro), and "In the Wake of Wandering Winds" Ifa (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21512.md)
+## Event Wish - Astral Actuation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/b20986f853742c65b713990304b8ab4d_1355567831582918822_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version "Luna IV" update  —  <t class="t_lc" contenteditable="false">2026/02/03 17:59</t> | "Boom Boom Thunderwave" Ineffa (Electro) | "Wisdom's Measure" Sethos (Electro)
+^ | ^ | "Prinzessin der Verurteilung!" Fischl (Electro)
+^ | ^ | "In the Wake of Wandering Winds" Ifa (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Boom Boom Thunderwave" Ineffa (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Wisdom's Measure" Sethos (Electro), "Prinzessin der Verurteilung!" Fischl (Electro), and "In the Wake of Wandering Winds" Ifa (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nocturne's Curtain Call (Catalyst) and Fractured Halo (Polearm)!](archive/21515.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/1c32fae90cb387c246376448b6b9b97b_7585053120088318926_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version "Luna IV" update  —  <t class="t_lc" contenteditable="false">2026/02/03 17:59</t> | Nocturne's Curtain Call (Catalyst)  Fractured Halo (Polearm) | Mountain-Bracing Bolt (Polearm)
+^ | ^ | Waveriding Whirl (Catalyst)
+^ | ^ | Mitternachts Waltz (Bow)
+^ | ^ | The Flute (Sword)
+^ | ^ | Sacrificial Greatsword (Claymore)
+
+● During this event wish, the event-exclusive 5-star weapons Nocturne's Curtain Call (Catalyst) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons Mountain-Bracing Bolt (Polearm), Waveriding Whirl (Catalyst), and Mitternachts Waltz (Bow), as well as 4-star weapons The Flute (Sword) and Sacrificial Greatsword (Claymore) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nocturne's Curtain Call (Catalyst) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Harmonious Abundance" - Boosted Drop Rate for White Horse's Fleeting Spring: Zibai (Geo)!](archive/21513.md)
+## Event Wish "Harmonious Abundance"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/05/a1d3d7f3746a6f73d6794ec3e19839c2_8270946235259825469_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/02/03 18:00</t> —  <t class="t_lc" contenteditable="false">2026/02/24 14:59</t> | "White Horse's Fleeting Spring" Zibai (Geo) | "Nightmare's Burning Heart" Illuga (Geo)
+^ | ^ | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
+^ | ^ | "Canine Warrior" Gorou (Geo)
+
+● During this event wish, the event-exclusive 5-star character "White Horse's Fleeting Spring" Zibai (Geo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Nightmare's Burning Heart" Illuga (Geo), "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), and "Canine Warrior" Gorou (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Nightmare's Burning Heart" Illuga (Geo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Decree of the Deeps" - Boosted Drop Rate for "Ordainer of Inexorable Judgment" Neuvillette (Hydro)!](archive/21514.md)
+## Event Wish - Decree of the Deeps
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/05/05c949c9277556636313e7c15c1fa556_1514197719254044596_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/02/03 18:00</t> —  <t class="t_lc" contenteditable="false">2026/02/24 14:59</t> | "Ordainer of Inexorable Judgment" Neuvillette (Hydro) | "Nightmare's Burning Heart" Illuga (Geo)
+^ | ^ | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
+^ | ^ | "Canine Warrior" Gorou (Geo)
+
+● During this event wish, the event-exclusive 5-star character "Ordainer of Inexorable Judgment" Neuvillette (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Nightmare's Burning Heart" Illuga (Geo), "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), and "Canine Warrior" Gorou (Geo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Nightmare's Burning Heart" Illuga (Geo) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Lightbearing Moonshard (Sword) and Tome of the Eternal Flow (Catalyst)!](archive/21516.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/895f37fb0e8739937b8d788f1640241f_9186143978409111714_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/02/03 18:00</t> –  <t class="t_lc" contenteditable="false">2026/02/24 14:59</t> | Lightbearing Moonshard (Sword)  Tome of the Eternal Flow (Catalyst) | Xiphos' Moonlight (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | Favonius Warbow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Lightbearing Moonshard (Sword) and Tome of the Eternal Flow (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapon Xiphos' Moonlight (Sword) as well as the 4-star weapons Favonius Greatsword (Claymore), Dragon's Bane (Polearm), Eye of Perception (Catalyst), and Favonius Warbow (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Lightbearing Moonshard (Sword) or Tome of the Eternal Flow (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Complete the Archon Quest "A Traveler on a Winter's Night" within the specified duration to obtain additional Primogems, Character Ascension Materials, and other rewards](archive/21517.md)
+## A Traveler on a Winter's Night
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/35c849dcb029614e1515182401871d23_7614065714560445746_transformed.jpg)
+
+After the Version update, Archon Quest: Song of the Welkin Moon — Act VII and Act VIII will be permanently available. Meet the unlock criteria to unlock said Archon Quest.
+
+Complete the Archon Quest: Song of the Welkin Moon: Act VIII — "True Moon" to obtain the Traveler's outfit "As Heaven and Earth Are Made Anew."
+
+Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Nod-Krai regional specialties, and other rewards.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/24 14:59</t>
+
+‍
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 28 or above
+
+Complete Archon Quest: Song of the Welkin Moon: Act VI — "Melting Moonlight in the Morning Mist"
+
+※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves."
+
+-----
+
+# [Complete the "The Lament of the Cliff-Shadowed Hollow" exploration missions within the specified duration to obtain an additional reward of Primogems ×400](archive/21518.md)
+## The Lament of the Cliff-Shadowed Hollow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/d01cf07303da19e3772e3526b77eac49_4587984498578287948_transformed.jpg)
+
+In Version "Luna IV," the areas Voidsea Outlook, Wavechaser Plain, and Ashveil Peak in the Nod-Krai region will be available.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
+
+-----
+
+# ["Melusent Gift" Outfit Limited-Time Discount and Themed Quest Available](archive/21519.md)
+## Melusent Gift
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/89af89bb16397b499269544a3538548a_4863100101532379851_transformed.jpg)
+
+Neuvillette's outfit "Melusent Gift" is available at a limited-time discount in the Shop!
+
+A new World Quest, "A Gift From the Sea Spirits," will be permanently available after the version update. You can experience this quest via Quick Start from the event page during the version and discover the story behind the new outfit.
+
+〓"Melusent Gift" Outfit Discount〓
+
+● Discount Period: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+● Neuvillette's outfit "Melusent Gift" will be permanently available in the Shop after the Version "Luna IV" update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Neuvillette can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+〓World Quest "A Gift From the Sea Spirits"〓
+
+● During Version "Luna IV", you can access the World Quest "A Gift From the Sea Spirits" via Quick Start.
+
+● Quick Start Requirements: Reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches"
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 46 Available for a Limited Time](archive/21520.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/ea9186f7eb926f7999f24836c703153e_3016031298209780534_transformed.jpg)
+
+Round 46 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [New Year Cosmetic: Delivered to Everyone's Mailbox!](archive/21538.md)
+## New Year's Gift
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/9e40057101112895a8e6451e2f638385_5511427840068814190_transformed.jpg)
+
+Event Duration: During Version Luna IV
+
+Event Details:
+
+● During the event, Travelers can obtain the Set Gift Box - "Gallop" via Mail. Open this Set Gift Box to unlock one cosmetic set of your choice: "Lucky Gallop" or "Witty Gallop."
+
+※ The mail will expire after 42 days, so don't forget to claim the rewards in time.
+
+※ The Manekin Cosmetic Sets "Lucky Gallop" and "Witty Gallop" will be available for a limited time in the Miliastra Shop after Version "Luna IV" ends. Please visit the Miliastra Shop for more details.
+
+-----
+
+# ["Wonderland Treasures: Star of Auspicious Fortune" – New Manekin Cosmetics Now Available](archive/21527.md)
+## Wonderland Treasures: Star of Auspicious Fortune
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/4808fc62827c19fbdd5bc94f679f3424_5828812454075370596_transformed.jpg)
+
+During the event, Travelers can obtain desired Manekin Cosmetics via the Event Ode "Star of Auspicious Fortune," "Auspicious Chronicle," or the Miliastra Shop!
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetic
+--- | --- | ---
+After the Version "Luna IV" update  —  <t class="t_lc" contenteditable="false">2026/02/24 14:59</t> | Morning's Dawn and Dew | Cerulean Tidestrike
+^ | ^ | Peaceful Warm Night
+^ | ^ | Sunwarmed Malt
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Morning's Dawn and Dew" and Elite (4-Star) Cosmetics "Cerulean Tidestrike," "Peaceful Warm Night," and "Sunwarmed Malt" will be available in the Manekin Cosmetic Event Ode!
+
+● During the event, upon obtaining the limited Legendary (5-Star) Cosmetic "Morning's Dawn and Dew" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the shop, or received as a gift), you will unlock its Ascension "Morning's Dawn and Dew: Inked Eclipse."
+
+※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+〓Miliastra Shop〓
+
+Cosmetic Availability Period | Cosmetic Availability Period
+--- | ---
+After the Version "Luna IV" update  Available for 3 consecutive versions | After the Version "Luna IV" update  Available for 3 consecutive versions
+Limited-Time Discount Period | Limited-Time Discount Period
+After the Version "Luna IV" update  —  <t class="t_lc" contenteditable="false">2026/02/23 03:59</t> | After the Version "Luna IV" update  —  <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+Elite (4-Star) Cosmetic | Exceptional (3-Star) Cosmetic
+Manekin Cosmetic "Grace in Motion" 
+
+Manekina Cosmetic "Grace in Motion" | Manekin Cosmetic "Sweet Purple Melon" 
+
+Manekina Cosmetic "Sweet Purple Melon"
+^ | Manekin Cosmetic "Free Silver Star" 
+
+Manekina Cosmetic "Free Silver Star"
+
+● After the Version "Luna IV" update, a total of 2 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
+
+● New sets released in Version "Luna IV" are available at 40% off for a limited time. For the current event, the featured Elite (4-Star) Cosmetic Sets are priced at 720 Chronal Nexus during the discount period and will revert to 1,200 Chronal Nexus once the offer ends. The featured Exceptional (3-Star) Cosmetic Sets are priced at 120 Chronal Nexus during the discount period and will revert to 200 Chronal Nexus once the offer ends. In subsequent versions, the limited-time discount will return to 20% off.
+
+● Ta-da! The Miliastra Shop now offers Cosmetic Bundles! New themed cosmetic sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at 1,080 Chronal Nexus and the featured Exceptional (3-Star) Cosmetic Bundle is priced at 180 Chronal Nexus. These cosmetic bundles are only available during the limited-time discount period for the corresponding cosmetic sets. For more details about cosmetic bundles, please visit the Miliastra Shop.
+
+● After the Version "Luna IV" update, more information on available Facial Makeup will be provided in the Miliastra Shop.
+
+● You can check your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
+
+〓Auspicious Chronicle〓
+
+● Event Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Scarlet Cloudfall"! Those who purchase "Epic of the Realms" directly will also receive the Miliastra Pass-exclusive lobby "Festive Market: Chimes Ring in the New Year."
+
+※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
+
+※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/02/23 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
+
+● After unlocking "Chronicles of the Realms" or "Epic of the Realms," you will unlock the Battle Pass Boon effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking "Gnostic Hymn" or "Gnostic Chorus" will grant the Chronicle Boon effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+〓New Standard Ode Set Catalog〓
+
+● After the Version "Luna IV" update, a new Elite (4-Star) Set Catalog "Boundless Resolve" will be added to the Standard Ode "Encounter Echoes."
+
+※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# [Participate in "Raiment Collection: Moonlit Hour" to obtain the "Noble Grace" Manekin Cosmetics Set of your choice](archive/21528.md)
+## Raiment Collection: Moonlit Hour
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/7ac0515a003f3a68240b01e0995208a6_2466868348610971057_transformed.jpg)
+
+〓Event Duration〓
+
+After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/25 05:59</t>
+
+〓Event Rewards〓
+
+A "Noble Grace" Manekin Cosmetics Set of your choice and Geodes of Replication
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
+
+● During the event, once your total accumulated "Treasured Insights" reach the required amount, you can claim the Manekin Cosmetics Set "Noble Grace."
+
+● Before claiming your first component of the "Noble Grace" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
+
+※ The Manekin Cosmetics Set "Noble Grace" will be available for a limited time in the Miliastra Shop after Version "Luna IV" ends. Please visit the Miliastra Shop for more details.
+
+-----
+
+# ["Season of Prosperity" Season Opening Announcement](archive/21530.md)
+## Season of Prosperity
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/a57a4b5f8a28a55babbe269c4e846f77_7935535659586295180_transformed.jpg)
+
+〓Season Duration〓
+
+Preparation Phase: After Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/15 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/01/15 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/24 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/02/24 04:00</t> – End of Version "Luna IV"
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season consists of three phases: Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# ["Lanternlit Ode" Event Details](archive/21521.md)
+## Lanternlit Ode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/378684845e15d968109293f3f3544523_4060955754206307474_transformed.jpg)
+
+Travelers can earn rich rewards in "Lanternlit Ode" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Lanternlit Ode" and Furnishing Blueprint "Starshyna Walking" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/02/23 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking "Gnostic Hymn" or "Gnostic Chorus," you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking "Chronicles of the Realms" or "Epic of the Realms" will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21548.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna IV"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21429.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/27/f77abe8a6f4104f1229db987e2c4280a_6677451974699247462_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/4ab069134e2bd6faa694dbbf2c2f3086_5649709177953287127_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2025/12/01 04:00</t> - <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
+
+-----
+
+# ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: New Travelers Can Invite a Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21364.md)
+## Uncover Lunar Realms, Hone the Eventide Radiance
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/d123dfbb81d6f730a5eeba577d493dad_490588338024917172_transformed.jpg)
+
+〓Event Duration〓
+
+After the Version "Luna II" update and until the end of the "Song of the Welkin Moon" Version
+
+〓Eligibility〓
+
+Travelers who have completed registration and unlocked the Wish feature after the Version Luna II update
+
+〓Event Details〓
+
+● New Travelers who register after the Version "Luna II" update are eligible to participate in the "Uncover Lunar Realms, Hone the Eventide Radiance" event. The event will be available within 42 days after registration.
+
+● New Travelers can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation"to join your party via the event interface. When you invite a character, you also receive Ascension Level-Up Materials for the same character.
+
+※ For Travelers who register near the end of Version "Song of the Welkin Moon," the event duration may run shorter than 42 days. Please refer to the remaining time displayed on the event page for the exact duration.
+
+※ Travelers can invite a character only once during the event. Once the event is over, you will be unable to invite characters. Please make sure you invite them in time.
 
 -----
 
@@ -1150,332 +1467,6 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# [New Story Unlocked - "Song of the Welkin Moon": Act I and Act II](archive/21303.md)
-## New Story Unlocked - "Song of the Welkin Moon": Act I and Act II
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/27/ed71ed7468fd7a18bb9ee228eecbb1d2_1009695205359762179_transformed.jpg)
-
-This is where the moon rises — an "elysium" for adventurers.
-
-The moon's radiance is distant, the snow-ashen groves are lush, and secrets echo throughout the land like an ancient song.
-
-Go forth now and listen to the melody beneath the moonlight.
-
-After reaching the corresponding Adventure Rank and completing the prerequisite quests, the Archon Quests Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves" and Act II — "Elegy of Dust and Lamplight" will appear in the Quest Menu.
-
-〓Quest Start Time〓
-
-After the Version "Luna I" update, Archon Quests Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves" and Act II — "Elegy of Dust and Lamplight" will be permanently available.
-
-〓Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves" Unlock Criteria〓
-
-• Reach Adventure Rank 28 or above
-
-• Complete Song of the Welkin Moon — Prelude: "The Journey Home"
-
-• Complete Archon Quest Interlude Chapter: Act IV "Paralogism"
-
-〓Song of the Welkin Moon: Act II — "Elegy of Dust and Lamplight" Unlock Criteria〓
-
-• Reach Adventure Rank 28 or above
-
-• Complete Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves"
-
-Before the Song of the Welkin Moon version ends, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves."
-
------
-
-# ["Clink Clank Clash" Event: Take Part for the Event-Exclusive Weapon, Etherlight Spindlelute (Catalyst)](archive/21281.md)
-## "Clink Clank Clash"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/1d1cc474127da6d15e2b580a147392a5_6394547250667983232_transformed.png)
-
-〓Event Duration〓
-
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2025/09/12 10:00</t> | <t class="t_lc" contenteditable="false">2025/09/29 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2025/09/14 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2025/09/16 04:00</t> | ^
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/185734aa1d18ba40b4aac346d6927ba2_6262296005789116948_transformed.png)
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Song of the Welkin Moon: Act II - "Elegy of Dust and Lamplight" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Four gameplay formats will be made available during the event: "Pursue and Strike! The Out-of-Control Flier!", "Boom! Blast! Power Test!", "Seek and Find! Machines on the Fritz!", and "Quietly Now! Sneaky Sneaking Sneaks!".
-
-● "Pursue and Strike! The Out-of-Control Flier!": With the help of the kuuhenki, collect Moonlit Particles while chasing and shooting down rogue recon bots along the Moonlanes.
-
-● "Boom! Blast! Power Test!": Stamp out enemies all over Nod-Krai with the help of the self-defense device. Remember to pick up those battle trophies!
-
-● "Seek and Find! Machines on the Fritz!": Use the kuuvahki remnant to locate the malfunctioning robots scattered all over the designated zone.
-
-● "Quietly Now! Sneaky Sneaking Sneaks!": Operate the stealth robot "Zip-zap Spy-bot Number 1" to collect ID cards as you make your way to the destination.
-
-● Complete the event's various challenges to obtain Legion Morale. Reach a certain amount of Legion Morale to obtain rewards such as Etherlight Spindlelute (Catalyst), Primogems, Crown of Insight, and the event-exclusive Weapon Refinement Materials.
-
------
-
-# [Event Wish "Moonsong of the Groves" - Boosted Drop Rate for "Evermoon's Sacrament Song" Lauma (Dendro)!](archive/21276.md)
-## Event Wish "Moonsong of the Groves"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/72ae04314a0c192aa82e06f503f1ba02_2049673528724919503_transformed.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-After the "Luna I" version update  —  <t class="t_lc" contenteditable="false">2025/09/30 17:59</t> | "Evermoon's Sacrament Song" Lauma (Dendro) | "Shining Idol" Barbara (Hydro)
-^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
-^ | ^ | "Empyrean Reflection" Kaveh (Dendro)
-
-● During this event wish, the event-exclusive 5-star character "Evermoon's Sacrament Song" Lauma (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Mender of Tribulations" Kuki Shinobu (Electo), and "Empyrean Reflection" Kaveh (Dendro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "The Moongrass' Enlightenment" - Boosted Drop Rate for "Physic of Purity" Nahida (Dendro)!](archive/21277.md)
-## Event Wish "The Moongrass' Enlightenment"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/b11f825d1403b108c1c3f573c30896be_4178420121783098958_transformed.png)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-After the "Luna I" version update  —  <t class="t_lc" contenteditable="false">2025/09/30 17:59</t> | "Physic of Purity" Nahida (Dendro) | "Shining Idol" Barbara (Hydro)
-^ | ^ | "Mender of Tribulations" Kuki Shinobu (Electro)
-^ | ^ | "Empyrean Reflection" Kaveh (Dendro)
-
-● During this event wish, the event-exclusive 5-star character "Physic of Purity" Nahida (Dendro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Shining Idol" Barbara (Hydro), "Mender of Tribulations" Kuki Shinobu (Electo), and "Empyrean Reflection" Kaveh (Dendro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and A Thousand Floating Dreams (Catalyst)!](archive/21278.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/0eebd542fc494c326f6c870e0a23a100_7655416930538229859_transformed.png)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-After the "Luna I" version update – 
-
-<t class="t_lc" contenteditable="false">2025/09/30 17:59</t> | Nightweaver's Looking Glass (Catalyst)  A Thousand Floating Dreams (Catalyst) | The Flute (Sword)
-^ | ^ | Sacrificial Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-^ | ^ | Sacrificial Fragments (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During the event wish, the event-exclusive 5-star weapons Nightweaver's Looking Glass (Catalyst) and A Thousand Floating Dreams (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), Sacrificial Greatsword (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During the event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nightweaver's Looking Glass (Catalyst) or A Thousand Floating Dreams (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Roving Chalice of Dewgrass" - Chronicled Wish Now Available!](archive/21279.md)
-## Event Wish "Roving Chalice of Dewgrass"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/5ee9d4243d7ea791755aefc93e9b15a2_4665389879740662837_transformed.png)
-
-Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
---- | --- | ---
-After the "Luna I" version update —  <t class="t_lc" contenteditable="false">2025/09/30 17:59</t>    | "Flame-Mane" Dehya (Pyro)  "Admonishing Instruction" Alhaitham (Dendro)  "Eons Adrift" Wanderer (Anemo)  "Judicator of Secrets" Cyno (Electro)   "Dance of Lotuslight" Nilou (Hydro)  "Verdant Strider" Tighnari (Dendro) | Light of Foliar Incision (Sword)
-^ | ^ | Key of Khaj-Nisut (Sword)
-^ | ^ | Beacon of the Reed Sea (Claymore)
-^ | ^ | Staff of the Scarlet Sands (Polearm)
-^ | ^ | Tulaytullah's Remembrance (Catalyst)
-^ | ^ | Hunter's Path (Bow)
-
-● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Roving Chalice of Dewgrass" Event Wish of this period!
-
-● During the event, the event-exclusive 5-star characters "Admonishing Instruction" Alhaitham (Dendro), "Eons Adrift" Wanderer (Anemo), "Judicator of Secrets" Cyno (Electro), and "Dance of Lotuslight" Nilou (Hydro), the event-exclusive 5-star weapons Light of Foliar Incision (Sword), Key of Khaj-Nisut (Sword), Beacon of the Reed Sea (Claymore), Staff of the Scarlet Sands (Polearm), Tulaytullah's Remembrance (Catalyst), Hunter's Path (Bow), as well as the event-exclusive 4-star weapons Xiphos' Moonlight (Sword), Makhaira Aquamarine (Claymore), and Wandering Evenstar (Catalyst) will be available for a limited time only.
-
-● All 5-star and 4-star items in this Chronicled Wish:
-
-5-star characters: Dehya, Alhaitham, Wanderer, Cyno, Nilou, Tighnari
-
-5-star weapons: Light of Foliar Incision, Key of Khaj-Nisut, Beacon of the Reed Sea, Staff of the Scarlet Sands, Tulaytullah's Remembrance, Hunter's Path
-
-4-star characters: Sethos, Kaveh, Faruzan, Layla, Candace, Dori, Collei
-
-4-star weapons: Xiphos' Moonlight, Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Makhaira Aquamarine, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Favonius Lance, Dragon's Bane, Wandering Evenstar, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
-
-※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21325.md)
-## To Temper Thyself and Journey Far
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/01/f77abe8a6f4104f1229db987e2c4280a_1133717824570622248_transformed.png)
-
-〓Event Duration〓
-
-After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/12/01 03:59</t>
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/4ab069134e2bd6faa694dbbf2c2f3086_5649709177953287127_transformed.png)
-
-〓Eligibility〓
-
-Adventure Rank 14 or above
-
-Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
-
-Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
-
-〓Event Details〓
-
-● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
-
-● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
-
-※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
-
-※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
-
-● After the Version "Luna I" update – <t class="t_lc" contenteditable="false">2025/09/15 03:59</t>, weekly training goal progress will be calculated starting from 2/5.
-
-● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
------
-
-# ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: Invite Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21288.md)
-## Uncover Lunar Realms, Hone the Eventide Radiance
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/d4053c3066e59589d5f437c824eff79b_9030084075505715803_transformed.png)
-
-〓Event Duration〓
-
-After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
-
-〓Eligibility〓
-
-After unlocking the Wish feature
-
-〓Event Details〓
-
-● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
-
-● When you invite a character, you also receive Ascension Level-Up Materials for the same character.
-
-※ You can invite a character only once during the event.
-
-※ During the "Song of the Welkin Moon" version, Travelers who register after Version "Luna I" ends can invite a standard 5-star character of their choice in the subsequent "Uncover Lunar Realms, Hone the Eventide Radiance" event. Further details will be available in future announcements.
-
------
-
-# ["Rainbow's End: Silvery Flux" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21280.md)
-## Rainbow's End: Silvery Flux
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/a0d3db1ac468fba59df62ddbfd54c7b5_4177731238986392648_transformed.png)
-
-There are three parts to this event: Crystal Top-Up Bonus Reset, Missive of Grace: A Thank-You Gift, and Silvery Flux (Daily Login).
-
-Rewards include Primogems ×1,600, Intertwined Fate ×10, Dust of Enlightenment, Sanctifying Elixir, and Commemorative Gadgets.
-
-〓Missive of Grace: A Thank-You Gift〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2025/09/28 00:00</t> until the end of Version "Luna I"
-
-Eligibility: Adventure Rank 2 or above
-
-Event Details: Each mail can be collected until the end of the "Missive of Grace: A Thank-You Gift" event. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-Login Date | Reward 1 | Reward 2
---- | --- | ---
-September 28 | Primogems ×400 | Ujola Cat ×1
-September 29 | Primogems ×400 | Fragile Resin ×2
-September 30 | Primogems ×400 | Sanctifying Elixir ×1
-October 1 | Primogems ×400 | Rotor Hovering Daybed ×1
-
-〓Silvery Flux (Daily Login)〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2025/10/01 04:00</t> – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
-
-Eligibility: Adventure Rank 5 or above
-
-Total Login Days | Rewards
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Dust of Enlightenment ×1
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
-# [Complete the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" within the specified duration to obtain additional Primogems, Character Ascension Materials, and other rewards](archive/21283.md)
-## A Dance of Snowy Tides and Hoarfrost Groves
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/17b66fba78bf7778f9d36b722ebe91a8_4313697920508900830_transformed.png)
-
-After the Version update, Archon Quest: Song of the Welkin Moon — Act I and Act II will be permanently available. Meet the unlock criteria to unlock said Archon Quest.
-
-Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Nod-Krai regional specialties, and other rewards.
-
-‍
-
-〓Specified Duration〓
-
-After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
-
-‍
-
-〓Archon Quest Unlock Criteria〓
-
-Adventure Rank 28 or above
-
-Complete Archon Quest Interlude Chapter: Act IV "Paralogism"
-
-And complete the Archon Quest: Song of the Welkin Moon — Prelude "The Journey Home"
-
-※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act I — "A Dance of Snowy Tides and Hoarfrost Groves."
 
 -----
 
@@ -1507,182 +1498,6 @@ Progress through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" 
 
 -----
 
-# ["The Isle of Cold Moonlight": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21284.md)
-## The Isle of Cold Moonlight
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/760697cccb7dd7f5f9e2aa1c807c6519_8256348523963269994_transformed.png)
-
-In Version "Luna I," the areas Paha Isle, Lempo Isle, and Hiisi Island in the Nod-Krai region will be available.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/12/02 14:59</t>
-
------
-
-# [Repertoire of Myriad Melodies Update - Encounter: Memories of a Boundless Journey](archive/21285.md)
-## Encounter: Memories of a Boundless Journey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/22be30649ea0f56874268e8a35d6fe66_7177387167826399621_transformed.png)
-
-After the "Luna I" version update, the new album "Encounter: Memories of a Boundless Journey" will be added to Repertoire of Myriad Melodies.
-
-Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
-
-‍
-
-〓Specified Duration〓
-
-After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
-
------
-
-# ["Adventurer's Booster Bundles" - Round 43 Available for a Limited Time](archive/21287.md)
-## Adventurer's Booster Bundle
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/732084232d5d3b9585d1e66c8e4b94b9_3080319497305847129_transformed.png)
-
-Round 43 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/09/24 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/09/24 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
-# ["Glacial Moon" Event Details](archive/21286.md)
-## Glacial Moon
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/12925966b0021c0874eec24eb08cdf70_5580594023779632054_transformed.png)
-
-Travelers can earn rich rewards in "Glacial Moon" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Glacial Moon," Furnishing Blueprint "Porky-Worky Chef," and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the "Luna I" version update – <t class="t_lc" contenteditable="false">2025/10/20 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● From this BP season on, there will be a new regional specialty bundle for Gnostic Hymn: Traveling Bounties. You may choose any one of the regional specialties available at collection.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2025/10/20 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21322.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2&lang=zh-cn&device_type=pc&game_version=OSRELWin3.8.0_R16698153_S16388687_D16388687&plat_type=pc)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna I"
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [Genshin Impact - Initial Top-Up Bonus Reset](archive/21275.md)
-## Initial Top-Up Reset
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_2539419748432367586_transformed.jpg)
-
-After the Genshin Impact Version "Luna I" update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-〓Reset Time〓
-
-After the Version "Luna I" update
-
-※ Version "Luna I" Update Time: <t class="t_gl" contenteditable="false">2025/09/10 06:00</t>
-
-〓Reset Details〓
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
------
-
-# ["An Easy-Breezy Natlan in an Easy-Breezy Summer!" Event: Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21234.md)
-## An Easy-Breezy Natlan in an Easy-Breezy Summer!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/18/7b55a137e3e73cb85bd72cf64dc8f26a_6352439278775698650.png)
-
-A new area in Natlan: Easybreeze Holiday Resort will be available after the Version 5.8 update.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version 5.8 update – <t class="t_lc" contenteditable="false">2025/10/21 14:59</t>
-
------
-
 # [Details of the Feedback on Special Categories Function](archive/2871.md)
 ## Feedback on Special Categories
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
@@ -1695,9 +1510,7 @@ At the same time, we will update the content of our different surveys regularly 
 
 〓Enter Feedback〓
 
-[Click Here to Fill Out](https://webstatic-sea.hoyoverse.com/csc-service-center-fe/index.html?page_id=1&sign_type=2&auth_appid=csc&authkey_ver=1&win_direction=portrait)
-
-Or open the Paimon Menu, click on the "Feedback" button to enter "Feedback on Special Categories" to fill out the survey.
+Open the Paimon Menu, click on the "Version Highlights" button, then go to "Specialized Feedback" to fill out the survey.
 
 〓Duration〓
 
@@ -1826,6 +1639,104 @@ Daily check-in rewards, interactive map, Wiki, quality guides... You'll find eve
 〓Customer Service〓
 
 genshin_cs@hoyoverse.com
+
+-----
+
+# [Miliastra Wonderland Gameplay Rules](archive/21455.md)
+## Miliastra Wonderland Gameplay Rules
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/11/12/2841d88b21b44138ba5b8c43f0e2c6d0_8337744188972442878_transformed.jpg)
+
+Dear Traveler, welcome to Genshin Impact Miliastra Wonderland.
+
+To ensure a positive community and that you have a safe, enjoyable, and healthy experience, please review the following rules before you begin. By entering Miliastra Wonderland, you agree to comply with these rules. If your behavior or speech violates them, we may restrict your access to certain services.
+
+Please note: these rules may be updated from time to time to comply with laws or to maintain a healthy community environment in Miliastra Wonderland, and updates take immediate effect once they are published through in-game notices. Your continued access will be regarded as acceptance of the latest version.
+
+Safety
+
+(1) Impersonation: It is strictly forbidden to impersonate other Travelers or official staff by using similar nicknames, signatures, or content. Such behavior can cause others financial loss or even personal harm.
+
+(2) Advertising and Phishing: Posting any third-party advertisements or phishing content, including unauthorized top-up services and "free currency" offers, is prohibited. Be especially cautious of links that ask for your account or banking details, such as UID and password, or bank information. We are not responsible for any losses resulting from actions on unofficial third-party platforms.
+
+(3) Abuse and Threats: Bullying or attacking others in any form is not permitted. This includes insults, harassment, violent threats, or any other abusive behavior targeting individuals or groups.
+
+(4) Harmful or Sensitive Content: Miliastra Wonderland is a place for friendly interaction among players from a wide spectrum of cultures. Content or conduct involving pornography, terrorism, extremism, self-harm or suicide, graphic violence, illegal or controlled substances, sensitive real-world events, political figures or entities, gambling, or any other unlawful activity is strictly prohibited.
+
+(5) Protection of Minors: Any content or conduct that endangers or exploits minors is strictly prohibited. This includes, but is not limited to: infringing on the privacy of minors; distributing, soliciting, or discussing child sexual abuse material; grooming or engaging in other inappropriate interactions with minors; sexualizing minors or engaging in sexual extortion; and trafficking or attempting to traffic minors. If you discover any of the above content or behavior, please do not spread such content, but instead use "Paimon Menu > Feedback > Issue Feedback" to send your feedback or seek assistance. Should you encounter content that may constitute child sexual exploitation (or CSAM - Child Sexual Abuse Material), we also encourage you to lodge reports with the following organizations collaborating with global law enforcement agencies: The US National Center for Missing & Exploited Children's CyberTipline, INHOPE, and the International Centre for Missing and Exploited Children.
+
+(6) Protection of Personal Information: To safeguard the security of personal data, do not disclose, publish, or transmit any content containing personal or private information of themselves or others.
+
+(7) Protection of Property: Fraudulent acquisition of others' property, funds, or lawful rights is strictly prohibited. Do not publish or promote, either directly or implicitly, any crowdfunding or fundraising activities.
+
+(8) Other Harmful Conduct: Exploitation of bugs, glitches, or other technical vulnerabilities for personal or collective gain is prohibited, as is any conduct deemed harmful to the security or stability of Miliastra Wonderland.
+
+Civility
+
+(1) Relevance and Accuracy: To preserve a fair and enjoyable environment, do not misuse the comments or chat functions. The following are prohibited: posting repetitive, offensive, or irrelevant content; and fabricating or intentionally spreading false or misleading information.
+
+(2) Appropriate Language: Use civil and respectful language, and avoid expressions that are offensive, abusive, or misleading.
+
+(3) Respectful Communication: Maintain a courteous and constructive attitude in interactions. The following are prohibited: provoking disputes, mocking others, or expressing hostility; using vulgar language, insults, and engaging in verbal harassment.
+
+(4) Respect for Creative Works: Unwarranted attacks or disparagement of others' stages or creations are prohibited. Players who find content unsatisfactory are encouraged to provide feedback or suggestions in a rational and constructive manner.
+
+(5) Respect for Diversity: Players must recognize and respect differences in interests and habits. It is prohibited to disparage others' preferences or to impose one's own preferences on others.
+
+(6) Safeguarding the Game Environment: Players must not disrupt others' normal gameplay in Miliastra Wonderland. Content that could cause discomfort, or that infringes upon the dignity or rights of others, is strictly prohibited.
+
+(7) No Discrimination: All forms of discriminatory conduct or expression are strictly prohibited. This includes, but is not limited to, discrimination on the basis of race, gender, religion, sexual orientation, ethnicity, governmental affiliation, and geographic region.
+
+(8) Civil Conduct in Competition: Players shall maintain civility during competitive play. Personal attacks or harassment arising from match outcomes or other players' mistakes are expressly forbidden.
+
+Respect for Intellectual Property
+
+Players may not upload, publish, or otherwise use any content without the authorization of the rights holder. This prohibition includes, but is not limited to, reproducing third-party creations or using such content beyond the scope of the granted license.
+
+Maintaining a Fair and Healthy Game Environment
+
+(1) No False or Misleading Promotion: The publication of misleading or inaccurate promotional content is prohibited. This includes attempts to artificially depress evaluations of other stages or inducing others, through monetary or other compensation, to publish false reviews.
+
+(2) Prohibition of Conduct Affecting Fairness or Player Experience: The following conduct, among others, is strictly prohibited.
+
+(1) Using alternate accounts to harass or exploit new players.
+
+(2) Frequently or repeatedly refusing to confirm readiness or start matches, deliberately forcing restarts, or otherwise manipulating match results by irregular means.
+
+(3) In team-based stages, disconnecting without reconnection, quitting without cause, idling, intentionally refusing to participate, obstructing teammates, or otherwise engaging in negative play.
+
+(4) Maliciously following, harassing, or obstructing other players for personal reasons in a manner that prevents normal gameplay.
+
+(5) Intentionally throwing matches, disclosing team information, or otherwise manipulating outcomes to ensure defeat or predetermined results.
+
+(6) Misusing the reporting feature, including but not limited to spamming reports against normal players or content, rallying others to submit false reports, or using alternate accounts to file repeated or malicious reports.
+
+(7) Utilizing cheats, hacks, bots, or any other unauthorized programs or tools.
+
+(8) Engaging in any other conduct that undermines the fairness of the game or adversely affects the experience of other players.
+
+Disciplinary Measures
+
+Violations of these provisions may result, depending on severity, in one or more of the following measures being imposed:
+
+(1) Issuance of a warning.
+
+(2) Removal of completion records, leaderboard entries, or other gameplay data.
+
+(3) Restriction, modification, or removal of non-compliant content.
+
+(4) Restriction or termination of other players' access to your content, with possible requirement to make adjustments within a prescribed period.
+
+(5) Restriction of access to social features, including comments and chat functions.
+
+(6) Restriction of access to matchmaking functions.
+
+(7) Restriction of access to some or all features of Miliastra Wonderland.
+
+(8) Suspension or permanent banning of the account.
+
+Contact Us
+
+Should you become aware of content or conduct within Miliastra Wonderland that violates these Rules, you may report it to us using the in-game reporting function, or submit a report through Paimon Menu > Feedback > Issue Feedback.
 
 -----
 
