@@ -773,6 +773,26 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
+# [Genshin Impact 6th Character OST Album "The Stellar Moments Vol. 6" Now Available](archive/21561.md)
+## Character OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/14/fc12cf0485c7a3734039c366462c17f6_3647567196785537006_transformed.jpg)
+
+Dear Traveler,
+
+Genshin Impact's sixth character album "The Stellar Moments Vol. 6" is out now! Featuring 30 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.
+
+Travelers can go to the following platforms to listen to "The Stellar Moments Vol. 6."
+
+Spotify:
+
+[Click here to listen to "The Stellar Moments Vol. 6"](https://open.spotify.com/album/7t3E0WfNfpRe7etbUmrisq)
+
+Apple Music:
+
+[Click here to listen to "The Stellar Moments Vol. 6"](https://music.apple.com/us/album/1869512043)
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
