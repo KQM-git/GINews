@@ -757,6 +757,28 @@ Travelers affected by the above issue can defeat The Doctor outside the rift fro
 
 - Currently, when Neuvillette performed certain actions (such as moving, Normal Attacks, etc.) after using his Elemental Burst while wearing to the outfit "Melusent Gift," the back of the outfit lacks the fluttering effect. This issue will be fixed in the Version "Luna V" update.
 
+〓<t class="t_gl" contenteditable="false">2026/01/22 16:15</t> Update Details〓
+
+- Fixes an issue whereby, under certain circumstances, a chest in the Special Territory Research Institute of Nod-Krai would abnormally disappear.
+
+- Fixes an issue whereby, under certain circumstances, characters could become stuck floating after interacting with Cottonspring Flowers.
+
+- Fixes an issue whereby certain glow effects were missing on Neuvillette's eyes and other luminous areas while wearing the "Melusent Gift" outfit at 3 stacks of Past Draconic Glories.
+
+- Fixes an issue whereby, under certain circumstances, the ribbons on the weapon "Nocturne's Curtain Call" could appear abnormally elongated when viewed in the Character > Weapon screen.
+
+- Fixes an issue in Stygian Onslaught whereby the challenge time for Battlefield 1 and Battlefield 3 on Normal, Advancing, and Hard difficulties was incorrectly set to 120s. The time has now been corrected to 600s.
+
+- Fixes an issue in Portuguese whereby there was a localization error in the effect description of the weapon "Bloodsoaked Ruins."
+
+- Fixes an issue in Russian whereby there were localization errors in the names of Constellation Levels 1–5 for Illuga.
+
+- Fixes an issue whereby the game could crash on Android devices equipped with the UNISOC T606 processor when compiling shaders during startup.
+
+Note: Android devices equipped with the UNISOC T606 processor fall below the game's current supported specifications. Even if the game can launch on these devices, performance may be unstable, and issues such as frequent crashes or lag may occur.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
+
 〓<t class="t_gl" contenteditable="false">2026/01/16 12:10</t> Update Details〓
 
 Fixes an issue whereby after the "Traveler" resonated with multiple elements and unlocked additional Talents, in certain scenarios, the additional Talents would only provide attribute boosts based on the current resonating element.
