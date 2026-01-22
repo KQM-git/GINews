@@ -757,6 +757,10 @@ Travelers affected by the above issue can defeat The Doctor outside the rift fro
 
 - Currently, when Neuvillette performed certain actions (such as moving, Normal Attacks, etc.) after using his Elemental Burst while wearing to the outfit "Melusent Gift," the back of the outfit lacks the fluttering effect. This issue will be fixed in the Version "Luna V" update.
 
+〓<t class="t_gl" contenteditable="false">2026/01/22 17:45</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, the "Character Selection Channel" would abnormally appear in the chat interface during Miliastra Wonderland stages.
+
 〓<t class="t_gl" contenteditable="false">2026/01/22 16:15</t> Update Details〓
 
 - Fixes an issue whereby, under certain circumstances, a chest in the Special Territory Research Institute of Nod-Krai would abnormally disappear.
