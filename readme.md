@@ -879,6 +879,46 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 
 -----
 
+# [Web Event "Where the Moon Returns" Now Live: Participate to Obtain Primogems!](archive/21535.md)
+## "Where the Moon Returns" — Genshin Impact Web Event Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/a4c5ba31f6d12b79cdede6ef82b50c9d_7211191492513107203_transformed.jpg)
+
+The new limited-time web event "Where the Moon Returns" is now available.
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260114invite-kst075/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260114campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/01/14 to <t class="t_gl" contenteditable="false">2026/01/28 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event period, Travelers who complete the "Moon Goddess's Gift" and "Invitation of the Welkin Moon" quests can obtain Primogems and Feathers. Consume Feathers to participate in lucky draws for more rewards!
+
+1. Moon Goddess's Gift: Earn up to Primogems ×20 and Feathers ×8. See the quest page for details.
+
+2. Invitation of the Welkin Moon: You can earn up to Feathers ×15. Returning players who successfully link with another player via an invitation link will receive an additional 20 Primogems and 2 Feathers. See the quest page for details.
+
+3. Share your exclusive invitation link to invite friends and earn up to Feathers ×10. See the quest page for details.
+
+*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # ["May Fortune Find You: Spring's Premonition" Event: Log in to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21523.md)
 ## May Fortune Find You: Spring's Premonition
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/c2e838cbaffe273a74460d51c40fb795_228399991432069432_transformed.jpg)
@@ -920,46 +960,6 @@ January 31 | Primogems ×300 | Fragile Resin ×1 | Sanctifying Unction ×6 | "My
 February 1 | Primogems ×300 | Crown of Insight ×1 | Guide to Diligence ×3 | Mystic Enhancement Ore ×10
 February 2 | Primogems ×300 | Fragile Resin ×1 | Guide to Gold ×3 | Mora ×50,000
 February 3 | Primogems ×400 | Sanctifying Elixir ×1 | Guide to Prosperity ×3 | Sanctifying Unction ×6
-
------
-
-# [Web Event "Where the Moon Returns" Now Live: Participate to Obtain Primogems!](archive/21535.md)
-## "Where the Moon Returns" — Genshin Impact Web Event Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/a4c5ba31f6d12b79cdede6ef82b50c9d_7211191492513107203_transformed.jpg)
-
-The new limited-time web event "Where the Moon Returns" is now available.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260114invite-kst075/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260114campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/01/14 to <t class="t_gl" contenteditable="false">2026/01/28 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event period, Travelers who complete the "Moon Goddess's Gift" and "Invitation of the Welkin Moon" quests can obtain Primogems and Feathers. Consume Feathers to participate in lucky draws for more rewards!
-
-1. Moon Goddess's Gift: Earn up to Primogems ×20 and Feathers ×8. See the quest page for details.
-
-2. Invitation of the Welkin Moon: You can earn up to Feathers ×15. Returning players who successfully link with another player via an invitation link will receive an additional 20 Primogems and 2 Feathers. See the quest page for details.
-
-3. Share your exclusive invitation link to invite friends and earn up to Feathers ×10. See the quest page for details.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
@@ -1207,36 +1207,6 @@ A new World Quest, "A Gift From the Sea Spirits," will be permanently available 
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 46 Available for a Limited Time](archive/21520.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/ea9186f7eb926f7999f24836c703153e_3016031298209780534_transformed.jpg)
-
-Round 46 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [New Year Cosmetic: Delivered to Everyone's Mailbox!](archive/21538.md)
 ## New Year's Gift
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/9e40057101112895a8e6451e2f638385_5511427840068814190_transformed.jpg)
@@ -1382,6 +1352,56 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
+# ["Adventurer's Booster Bundles" - Round 46 Available for a Limited Time](archive/21520.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/ea9186f7eb926f7999f24836c703153e_3016031298209780534_transformed.jpg)
+
+Round 46 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21548.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Lanternlit Ode" Event Details](archive/21521.md)
 ## Lanternlit Ode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/378684845e15d968109293f3f3544523_4060955754206307474_transformed.jpg)
@@ -1407,26 +1427,6 @@ Adventure Rank 20 or above
 ● After unlocking "Gnostic Hymn" or "Gnostic Chorus," you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking "Chronicles of the Realms" or "Epic of the Realms" will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
 
 ● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21548.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
