@@ -819,6 +819,53 @@ Apple Music:
 
 -----
 
+# ["A Lanternlit Ode to the Silver Moon" Event: Participate to obtain Yaoyao's outfit and a 4-star character from Liyue of your choice](archive/21524.md)
+## A Lanternlit Ode to the Silver Moon
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f28613608ec65af105180537d08c5654_3842213208808811965_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/19/d653cb196bc2884a3d0a5419946731ea_2545036143725504034_transformed.png)
+
+〓Event Duration〓
+
+Event Content | Event Content | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/01/30 10:00</t>  | <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/02/01 04:00</t>  | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/02/03 04:00</t> | ^
+Event Shop | Event Shop | <t class="t_lc" contenteditable="false">2026/01/30 10:00</t> | <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest Song of the Welkin Moon - Act VIII "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event period, four gameplay modes will be available: "Vigorous Brushstrokes," "Wishes Contended, Fortunes Won," "The Moonlit Adeptus's Trail," and "Bright Moon, Lantern Glow."
+
+● In "Vigorous Brushstrokes," Travelers can recreate their companions' agility through memories. Within the stage, your companions will maintain a continuous running state, and can use Elemental Skills to overcome obstacles. Collect as much jade as possible within the time limit and reach the destination.
+
+● In "Wishes Contended, Fortunes Won," defeated enemies will drop Charm Coins. Traveler needs to defeat as many enemies as possible within the time limit to obtain more Charm Coins.
+
+● In "The Moonlit Adeptus's Trail," the Traveler becomes an Adeptus in the Storyteller's tale and battles against Zhanzhus. By defeating enemies and lighting Xiao Lanterns, you'll grow stronger to ultimately defeat three great Zhanzhus and protect everyone's wishes.
+
+● In "Bright Moon, Lantern Glow," Travelers can obtain special "Gift Xiao Lanterns" and "Celebratory Xiao Lanterns," which can be placed anywhere in Liyue Harbor along with blessings. During the event, "Auspicious Treasure Trees" will be set up throughout Liyue Harbor. Trim the branches of these trees to obtain Fortune Coins.
+
+● Participate in various activities to obtain Fortune Coins, which can be exchanged for rewards in the event shop "Festival Shopping." Spend Fortune Coins to obtain Yaoyao's outfit "Rainlit Bamboo Reverie," and select one 4-star Liyue character of your choice.
+
+● Yaoyao's outfit "Rainlit Bamboo Reverie" will be available for purchase in the Character Outfit Shop after the end of Version "Luna IV," which will be priced at 1,680 Genesis Crystals.
+
+● During the event, complete the Story Quest "A Lanternlit Ode to the Silver Moon" to obtain additional rewards including Primogems, Character Ascension Materials, Character Level-Up Materials, and Local Specialties (Liyue).
+
+※ After the event ends, the Story Quest "A Lanternlit Ode to the Silver Moon" can still be accepted and completed. Travelers can accept this quest from Quest Overview - Event Quests.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
