@@ -799,26 +799,6 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
-# [Genshin Impact 6th Character OST Album "The Stellar Moments Vol. 6" Now Available](archive/21561.md)
-## Character OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/14/fc12cf0485c7a3734039c366462c17f6_3647567196785537006_transformed.jpg)
-
-Dear Traveler,
-
-Genshin Impact's sixth character album "The Stellar Moments Vol. 6" is out now! Featuring 30 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.
-
-Travelers can go to the following platforms to listen to "The Stellar Moments Vol. 6."
-
-Spotify:
-
-[Click here to listen to "The Stellar Moments Vol. 6"](https://open.spotify.com/album/7t3E0WfNfpRe7etbUmrisq)
-
-Apple Music:
-
-[Click here to listen to "The Stellar Moments Vol. 6"](https://music.apple.com/us/album/1869512043)
-
------
-
 # ["A Lanternlit Ode to the Silver Moon" Event: Participate to obtain Yaoyao's outfit and a 4-star character from Liyue of your choice](archive/21524.md)
 ## A Lanternlit Ode to the Silver Moon
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f28613608ec65af105180537d08c5654_3842213208808811965_transformed.jpg)
@@ -923,46 +903,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
 
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
-# [Web Event "Where the Moon Returns" Now Live: Participate to Obtain Primogems!](archive/21535.md)
-## "Where the Moon Returns" — Genshin Impact Web Event Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/a4c5ba31f6d12b79cdede6ef82b50c9d_7211191492513107203_transformed.jpg)
-
-The new limited-time web event "Where the Moon Returns" is now available.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260114invite-kst075/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260114campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/01/14 to <t class="t_gl" contenteditable="false">2026/01/28 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event period, Travelers who complete the "Moon Goddess's Gift" and "Invitation of the Welkin Moon" quests can obtain Primogems and Feathers. Consume Feathers to participate in lucky draws for more rewards!
-
-1. Moon Goddess's Gift: Earn up to Primogems ×20 and Feathers ×8. See the quest page for details.
-
-2. Invitation of the Welkin Moon: You can earn up to Feathers ×15. Returning players who successfully link with another player via an invitation link will receive an additional 20 Primogems and 2 Feathers. See the quest page for details.
-
-3. Share your exclusive invitation link to invite friends and earn up to Feathers ×10. See the quest page for details.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
@@ -1396,36 +1336,6 @@ After awakening your Miliastra Wonderland Manekin
 ● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
 
 ● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
-
------
-
-# ["Adventurer's Booster Bundles" - Round 46 Available for a Limited Time](archive/21520.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/ea9186f7eb926f7999f24836c703153e_3016031298209780534_transformed.jpg)
-
-Round 46 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/01/28 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
 
 -----
 
