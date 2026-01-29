@@ -1,3 +1,45 @@
+# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21368.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/a066dbf310d6c4a5e2c22b1f8324b732_1404755613436123246_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/09/18/77bc8ce33030bc36a950e3ef25faf437_8514401496547702025_transformed.png)
+
+〓Special Rules〓
+
+● In Heated Battle Mode: Automatic Artistry, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
+
+● In Automatic Artistry, Character Cards have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
+
+● In Automatic Artistry, Character Cards have both levels and ranks. You can increase your characters' levels by selecting duplicate characters from the available rewards. Leveling up a character increases their ATK and Max HP. When your characters reach certain levels, you can ascend their ranks. After ranking up, characters can gain rank rewards or enhance their skills.
+
+● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the characters.
+
+● After the battle begins, characters from both sides will automatically take actions in order from left to right.
+
+● In Automatic Artistry, the effects of certain Elemental reactions and cards will be adjusted. A Special Entry for Elemental Mastery is included in Automatic Artistry, increasing it will significantly boost Elemental Reaction effects.
+
+● You can check out the special mechanics and rules of Automatic Artistry in the rulebook.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/01/31 10:00</t> - <t class="t_lc" contenteditable="false">2026/02/16 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+-----
+
 # [Version "Luna IV" New Content Overview](archive/21569.md)
 ## Version "Luna IV" New Content Overview
 
