@@ -1381,26 +1381,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21548.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Lanternlit Ode" Event Details](archive/21521.md)
 ## Lanternlit Ode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/378684845e15d968109293f3f3544523_4060955754206307474_transformed.jpg)
