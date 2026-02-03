@@ -1,3 +1,15 @@
+# [Version "Luna IV" New Content Overview](archive/21569.md)
+## Version "Luna IV" New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/fb7b55520fc5cf287a309a5eec146c75_7660873324735009153_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/ca545626543b511fe5bc95104e895a61_5539726856084368200_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/25864f633ce375241183090b4f33da23_750249803508918586_transformed.jpg)
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21368.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/a066dbf310d6c4a5e2c22b1f8324b732_1404755613436123246_transformed.jpg)
@@ -37,18 +49,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 〓Event Details〓
 
 ● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
------
-
-# [Version "Luna IV" New Content Overview](archive/21569.md)
-## Version "Luna IV" New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/fb7b55520fc5cf287a309a5eec146c75_7660873324735009153_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/ca545626543b511fe5bc95104e895a61_5539726856084368200_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/13/25864f633ce375241183090b4f33da23_750249803508918586_transformed.jpg)
 
 -----
 
