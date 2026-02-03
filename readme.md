@@ -841,6 +841,22 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
+# [Take part in "Gifts of Encounter" to win Primogems!](archive/21599.md)
+## Take part in "Gifts of Encounter" to win Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/19/e5aa664204f71a57e74ea80f4ff530ee_7870366528359481941_transformed.jpg)
+
+Dear Travelers,
+
+The HoYoLAB "Gifts of Encounter" community event is now online!
+
+Check In for 7 Days to Obtain Primogems ×60!
+
+Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign in event!
+
+[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # ["A Lanternlit Ode to the Silver Moon" Event: Participate to obtain Yaoyao's outfit and a 4-star character from Liyue of your choice](archive/21524.md)
 ## A Lanternlit Ode to the Silver Moon
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f28613608ec65af105180537d08c5654_3842213208808811965_transformed.jpg)
