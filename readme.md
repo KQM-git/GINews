@@ -787,6 +787,20 @@ Travelers affected by the above issue can defeat The Doctor outside the rift fro
 
 - Currently, when Neuvillette performed certain actions (such as moving, Normal Attacks, etc.) after using his Elemental Burst while wearing to the outfit "Melusent Gift," the back of the outfit lacks the fluttering effect. This issue will be fixed in the Version "Luna V" update.
 
+〓<t class="t_gl" contenteditable="false">2026/02/05 16:15</t> Update Details〓
+
+- Fixes an issue whereby the Battle Pass Quest "Successfully complete 'Memory of Wind-Reaping Exorcism' in 'Vigorous Brushstrokes' during the 'A Lanternlit Ode to the Silver Moon' event" would be completed abnormally when the Traveler completes "Memory of the Thundering Dash."
+
+- Fixes an issue under specific circumstances whereby the interact button for the "Bulletin Board" would be missing when trying to complete the "Read the Bulletin Board" objective in the World Quest "Wishing Wonderful Wishes."
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
+
+- Fixes an issue under certain circumstances whereby the quest objective "Escape the onrushing torrent of time" in the Story Quest "A Lanternlit Ode to the Silver Moon" could not be completed, preventing quest progression.
+
+Travelers affected by this issue can close the game client and end the game process, then log in again to resolve the issue.
+
+If the problem persists after logging in again, Travelers can contact Customer Service to provide feedback.
+
 〓<t class="t_gl" contenteditable="false">2026/01/22 17:45</t> Update Details〓
 
 Fixes an issue whereby, under certain circumstances, the "Character Selection Channel" would abnormally appear in the chat interface during Miliastra Wonderland stages.
