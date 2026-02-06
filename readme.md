@@ -843,6 +843,26 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
+# [Genshin Impact "When Lanterns Echo the Moon" EP Album Now Available](archive/21594.md)
+## EP Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/30/c7c14107e29bf6235660f0fc797160b8_977794637332854065_transformed.jpg)
+
+Dear Traveler,
+
+Genshin Impact's "When Lanterns Echo the Moon" EP Album is now available. The album features nine original tracks composed by the HOYO-MiX team for Version Luna IV's Lantern Rite and the character Zibai.
+
+Travelers can go to the following platforms to listen to "When Lanterns Echo the Moon."
+
+Spotify:
+
+[Click here to listen to "When Lanterns Echo the Moon"](https://open.spotify.com/album/622iid1X75qwUljmqbgQck)
+
+Apple Music:
+
+[Click here to listen to "When Lanterns Echo the Moon"](https://music.apple.com/us/album/1873909321)
+
+-----
+
 # [Take part in "Gifts of Encounter" to win Primogems!](archive/21599.md)
 ## Take part in "Gifts of Encounter" to win Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/19/e5aa664204f71a57e74ea80f4ff530ee_7870366528359481941_transformed.jpg)
