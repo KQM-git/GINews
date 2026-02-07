@@ -1,3 +1,31 @@
+# ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
+## "Moonlit Patrol Exercise"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/12/10/24203d60a2a496b4d5da022e8b7d1f16_5728728830396561860_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● During "Moonlit Patrol Exercise," you will need to select a Frontline Captain and combat units, creating a lineup to deploy against the opposing formation. At the start of each Wargame, you will select a Frontline Captain. During each round, you will select a certain number of combat units and stratagems, and then fight a simulated wargame with a designated opponent.
+
+● The simulation ends after completing 10 rounds or losing 4 rounds. If you win at least 7 rounds when the simulation concludes, you will enter Endless Wargame. After all simulations are finished, you will earn "Wargame Points" based on the number of your wins and overall performance.
+
+● "Wargame Points" have a cap. When the event begins, the cap is 2,000. The cap will increase starting the fourth day of the event, up to a maximum of 4,000.
+
+-----
+
 # [Song of the Welkin Moon: Postlude — "A Traveler on a Winter's Night": Version "Luna IV" Update Details](archive/21567.md)
 ## Version "Luna IV" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/31/15d32017a01328b22e8c741a372fd117_7593813936451383365_transformed.jpg)
@@ -1332,6 +1360,36 @@ After awakening your Miliastra Wonderland Manekin
 ● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
 
 ● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Participate in "Starlight Voyage: Departure" to obtain "Prismatic Crystals," the token for Colorful Surprise Box](archive/21529.md)
+## Starlight Voyage: Departure
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/c3aac94b035fedbe79c6cc3e55d6d306_7897151294106985865_transformed.jpg)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+Quest Completion Period: <t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/19 04:00</t>
+
+〓Event Rewards〓
+
+Prismatic Crystal
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
+
+● After the event begins, the available stages in Starlight Voyage and the maximum obtainable "Sightseeing Experiences" will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
+
+● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
+
+※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
 
 -----
 
