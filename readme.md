@@ -727,34 +727,6 @@ Fixes an issue whereby, after the party gains the "Hexerei: Secret Rite" effect,
 
 -----
 
-# ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
-## "Moonlit Patrol Exercise"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/12/10/24203d60a2a496b4d5da022e8b7d1f16_5728728830396561860_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● During "Moonlit Patrol Exercise," you will need to select a Frontline Captain and combat units, creating a lineup to deploy against the opposing formation. At the start of each Wargame, you will select a Frontline Captain. During each round, you will select a certain number of combat units and stratagems, and then fight a simulated wargame with a designated opponent.
-
-● The simulation ends after completing 10 rounds or losing 4 rounds. If you win at least 7 rounds when the simulation concludes, you will enter Endless Wargame. After all simulations are finished, you will earn "Wargame Points" based on the number of your wins and overall performance.
-
-● "Wargame Points" have a cap. When the event begins, the cap is 2,000. The cap will increase starting the fourth day of the event, up to a maximum of 4,000.
-
------
-
 # [Version Details - What's New ](archive/21570.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -835,45 +807,31 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21368.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/a066dbf310d6c4a5e2c22b1f8324b732_1404755613436123246_transformed.jpg)
+# ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
+## "Moonlit Patrol Exercise"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
 
 〓Event Rewards〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/18/77bc8ce33030bc36a950e3ef25faf437_8514401496547702025_transformed.png)
-
-〓Special Rules〓
-
-● In Heated Battle Mode: Automatic Artistry, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
-
-● In Automatic Artistry, Character Cards have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
-
-● In Automatic Artistry, Character Cards have both levels and ranks. You can increase your characters' levels by selecting duplicate characters from the available rewards. Leveling up a character increases their ATK and Max HP. When your characters reach certain levels, you can ascend their ranks. After ranking up, characters can gain rank rewards or enhance their skills.
-
-● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the characters.
-
-● After the battle begins, characters from both sides will automatically take actions in order from left to right.
-
-● In Automatic Artistry, the effects of certain Elemental reactions and cards will be adjusted. A Special Entry for Elemental Mastery is included in Automatic Artistry, increasing it will significantly boost Elemental Reaction effects.
-
-● You can check out the special mechanics and rules of Automatic Artistry in the rulebook.
+![img](https://sdk.hoyoverse.com/upload/ann/2025/12/10/24203d60a2a496b4d5da022e8b7d1f16_5728728830396561860_transformed.png)
 
 〓Event Duration〓
 
-<t class="t_lc" contenteditable="false">2026/01/31 10:00</t> - <t class="t_lc" contenteditable="false">2026/02/16 03:59</t>
+<t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
 
 〓Eligibility〓
 
-Adventure Rank 32 or above
+Adventure Rank 20 or above
 
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 〓Event Details〓
 
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+● During "Moonlit Patrol Exercise," you will need to select a Frontline Captain and combat units, creating a lineup to deploy against the opposing formation. At the start of each Wargame, you will select a Frontline Captain. During each round, you will select a certain number of combat units and stratagems, and then fight a simulated wargame with a designated opponent.
+
+● The simulation ends after completing 10 rounds or losing 4 rounds. If you win at least 7 rounds when the simulation concludes, you will enter Endless Wargame. After all simulations are finished, you will earn "Wargame Points" based on the number of your wins and overall performance.
+
+● "Wargame Points" have a cap. When the event begins, the cap is 2,000. The cap will increase starting the fourth day of the event, up to a maximum of 4,000.
 
 -----
 
@@ -940,6 +898,48 @@ Check In for 7 Days to Obtain Primogems ×60!
 Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign in event!
 
 [>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21368.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/a066dbf310d6c4a5e2c22b1f8324b732_1404755613436123246_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/09/18/77bc8ce33030bc36a950e3ef25faf437_8514401496547702025_transformed.png)
+
+〓Special Rules〓
+
+● In Heated Battle Mode: Automatic Artistry, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
+
+● In Automatic Artistry, Character Cards have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
+
+● In Automatic Artistry, Character Cards have both levels and ranks. You can increase your characters' levels by selecting duplicate characters from the available rewards. Leveling up a character increases their ATK and Max HP. When your characters reach certain levels, you can ascend their ranks. After ranking up, characters can gain rank rewards or enhance their skills.
+
+● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the characters.
+
+● After the battle begins, characters from both sides will automatically take actions in order from left to right.
+
+● In Automatic Artistry, the effects of certain Elemental reactions and cards will be adjusted. A Special Entry for Elemental Mastery is included in Automatic Artistry, increasing it will significantly boost Elemental Reaction effects.
+
+● You can check out the special mechanics and rules of Automatic Artistry in the rulebook.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/01/31 10:00</t> - <t class="t_lc" contenteditable="false">2026/02/16 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
 
 -----
 
@@ -1226,34 +1226,6 @@ After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2
 
 -----
 
-# ["Melusent Gift" Outfit Limited-Time Discount and Themed Quest Available](archive/21519.md)
-## Melusent Gift
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/89af89bb16397b499269544a3538548a_4863100101532379851_transformed.jpg)
-
-Neuvillette's outfit "Melusent Gift" is available at a limited-time discount in the Shop!
-
-A new World Quest, "A Gift From the Sea Spirits," will be permanently available after the version update. You can experience this quest via Quick Start from the event page during the version and discover the story behind the new outfit.
-
-〓"Melusent Gift" Outfit Discount〓
-
-● Discount Period: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
-
-● Neuvillette's outfit "Melusent Gift" will be permanently available in the Shop after the Version "Luna IV" update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Neuvillette can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
-〓World Quest "A Gift From the Sea Spirits"〓
-
-● During Version "Luna IV", you can access the World Quest "A Gift From the Sea Spirits" via Quick Start.
-
-● Quick Start Requirements: Reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches"
-
------
-
 # [New Year Cosmetic: Delivered to Everyone's Mailbox!](archive/21538.md)
 ## New Year's Gift
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/9e40057101112895a8e6451e2f638385_5511427840068814190_transformed.jpg)
@@ -1426,6 +1398,34 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
 
 ※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
+
+-----
+
+# ["Melusent Gift" Outfit Limited-Time Discount and Themed Quest Available](archive/21519.md)
+## Melusent Gift
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/89af89bb16397b499269544a3538548a_4863100101532379851_transformed.jpg)
+
+Neuvillette's outfit "Melusent Gift" is available at a limited-time discount in the Shop!
+
+A new World Quest, "A Gift From the Sea Spirits," will be permanently available after the version update. You can experience this quest via Quick Start from the event page during the version and discover the story behind the new outfit.
+
+〓"Melusent Gift" Outfit Discount〓
+
+● Discount Period: After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+● Neuvillette's outfit "Melusent Gift" will be permanently available in the Shop after the Version "Luna IV" update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Neuvillette can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+〓World Quest "A Gift From the Sea Spirits"〓
+
+● During Version "Luna IV", you can access the World Quest "A Gift From the Sea Spirits" via Quick Start.
+
+● Quick Start Requirements: Reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches"
 
 -----
 
