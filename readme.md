@@ -807,34 +807,6 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
-# ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
-## "Moonlit Patrol Exercise"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/12/10/24203d60a2a496b4d5da022e8b7d1f16_5728728830396561860_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● During "Moonlit Patrol Exercise," you will need to select a Frontline Captain and combat units, creating a lineup to deploy against the opposing formation. At the start of each Wargame, you will select a Frontline Captain. During each round, you will select a certain number of combat units and stratagems, and then fight a simulated wargame with a designated opponent.
-
-● The simulation ends after completing 10 rounds or losing 4 rounds. If you win at least 7 rounds when the simulation concludes, you will enter Endless Wargame. After all simulations are finished, you will earn "Wargame Points" based on the number of your wins and overall performance.
-
-● "Wargame Points" have a cap. When the event begins, the cap is 2,000. The cap will increase starting the fourth day of the event, up to a maximum of 4,000.
-
------
-
 # [Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!](archive/21542.md)
 ## Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/05/e1fc5f5ad508c4a665874cbc3e2644be_438348598953460012_transformed.jpg)
@@ -898,6 +870,34 @@ Check In for 7 Days to Obtain Primogems ×60!
 Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign in event!
 
 [>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
+
+-----
+
+# ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
+## "Moonlit Patrol Exercise"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/12/10/24203d60a2a496b4d5da022e8b7d1f16_5728728830396561860_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/02/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● During "Moonlit Patrol Exercise," you will need to select a Frontline Captain and combat units, creating a lineup to deploy against the opposing formation. At the start of each Wargame, you will select a Frontline Captain. During each round, you will select a certain number of combat units and stratagems, and then fight a simulated wargame with a designated opponent.
+
+● The simulation ends after completing 10 rounds or losing 4 rounds. If you win at least 7 rounds when the simulation concludes, you will enter Endless Wargame. After all simulations are finished, you will earn "Wargame Points" based on the number of your wins and overall performance.
+
+● "Wargame Points" have a cap. When the event begins, the cap is 2,000. The cap will increase starting the fourth day of the event, up to a maximum of 4,000.
 
 -----
 
@@ -1210,22 +1210,6 @@ Complete Archon Quest: Song of the Welkin Moon: Act VI — "Melting Moonlight in
 
 -----
 
-# [Complete the "The Lament of the Cliff-Shadowed Hollow" exploration missions within the specified duration to obtain an additional reward of Primogems ×400](archive/21518.md)
-## The Lament of the Cliff-Shadowed Hollow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/d01cf07303da19e3772e3526b77eac49_4587984498578287948_transformed.jpg)
-
-In Version "Luna IV," the areas Voidsea Outlook, Wavechaser Plain, and Ashveil Peak in the Nod-Krai region will be available.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
-
------
-
 # [New Year Cosmetic: Delivered to Everyone's Mailbox!](archive/21538.md)
 ## New Year's Gift
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/08/9e40057101112895a8e6451e2f638385_5511427840068814190_transformed.jpg)
@@ -1398,6 +1382,22 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
 
 ※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
+
+-----
+
+# [Complete the "The Lament of the Cliff-Shadowed Hollow" exploration missions within the specified duration to obtain an additional reward of Primogems ×400](archive/21518.md)
+## The Lament of the Cliff-Shadowed Hollow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/d01cf07303da19e3772e3526b77eac49_4587984498578287948_transformed.jpg)
+
+In Version "Luna IV," the areas Voidsea Outlook, Wavechaser Plain, and Ashveil Peak in the Nod-Krai region will be available.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
 
 -----
 
