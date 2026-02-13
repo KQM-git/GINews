@@ -807,6 +807,18 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
+# [Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!](archive/21597.md)
+## Genshin Impact Version "Luna V" Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/03/05b8aaf532469d86faabd8780fbd725b_5486249450424984963_transformed.jpg)
+
+Dear Traveler,
+
+Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!
+
+[Click here to check out the latest info on Version Luna V: Homeward, He Who Caught the Wind!](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_myGzVjTyki&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
 # [Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!](archive/21542.md)
 ## Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/05/e1fc5f5ad508c4a665874cbc3e2644be_438348598953460012_transformed.jpg)
