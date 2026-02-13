@@ -849,42 +849,6 @@ Guaranteed: Leave a comment in the comments section to obtain a "Lantern Rite Av
 
 -----
 
-# [Genshin Impact "When Lanterns Echo the Moon" EP Album Now Available](archive/21594.md)
-## EP Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/30/c7c14107e29bf6235660f0fc797160b8_977794637332854065_transformed.jpg)
-
-Dear Traveler,
-
-Genshin Impact's "When Lanterns Echo the Moon" EP Album is now available. The album features nine original tracks composed by the HOYO-MiX team for Version Luna IV's Lantern Rite and the character Zibai.
-
-Travelers can go to the following platforms to listen to "When Lanterns Echo the Moon."
-
-Spotify:
-
-[Click here to listen to "When Lanterns Echo the Moon"](https://open.spotify.com/album/622iid1X75qwUljmqbgQck)
-
-Apple Music:
-
-[Click here to listen to "When Lanterns Echo the Moon"](https://music.apple.com/us/album/1873909321)
-
------
-
-# [Take part in "Gifts of Encounter" to win Primogems!](archive/21599.md)
-## Take part in "Gifts of Encounter" to win Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/09/19/e5aa664204f71a57e74ea80f4ff530ee_7870366528359481941_transformed.jpg)
-
-Dear Travelers,
-
-The HoYoLAB "Gifts of Encounter" community event is now online!
-
-Check In for 7 Days to Obtain Primogems ×60!
-
-Go to HoYoLAB Community > Tools > Genshin Impact > Check-In to participate in the sign in event!
-
-[>> Click to check in at HoYoLAB <<](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=update&utm_content=checkin&utm_id=2&utm_medium=notice&utm_source=ingame)
-
------
-
 # ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
 ## "Moonlit Patrol Exercise"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
