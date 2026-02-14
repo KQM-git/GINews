@@ -819,6 +819,26 @@ Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!
 
 -----
 
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/02/16 04:00</t> - <t class="t_lc" contenteditable="false">2026/02/23 03:59</t>
+
+〓Eligibility〓
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+〓Event Details〓
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
 # [Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!](archive/21542.md)
 ## Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/05/e1fc5f5ad508c4a665874cbc3e2644be_438348598953460012_transformed.jpg)
