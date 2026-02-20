@@ -807,6 +807,30 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
+# [Version Satisfaction Survey Now Open](archive/21606.md)
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2026/02/20 10:00:00 (global) - 2026/02/23 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_jEREsB-seXZlJUP2c9jilCAVIztO1vcwsOz4EXDvhpq&game_biz=hk4e_global&surveyId=36191&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!](archive/21597.md)
 ## Genshin Impact Version "Luna V" Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/03/05b8aaf532469d86faabd8780fbd725b_5486249450424984963_transformed.jpg)
