@@ -807,6 +807,40 @@ Fixes an issue whereby the game scene might become abnormal when carrying out th
 
 -----
 
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21575.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f77abe8a6f4104f1229db987e2c4280a_1002103533037462100_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/4ab069134e2bd6faa694dbbf2c2f3086_5649709177953287127_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/02/23 04:00</t> - <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
+
+-----
+
 # [Version Satisfaction Survey Now Open](archive/21606.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
