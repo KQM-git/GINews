@@ -897,36 +897,6 @@ Revitalize a Blossom of Wealth or a Blossom of Revelation
 
 -----
 
-# [Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!](archive/21542.md)
-## Celebrate the Lantern Rite and Join the Discussion for a Guaranteed Reward!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/05/e1fc5f5ad508c4a665874cbc3e2644be_438348598953460012_transformed.jpg)
-
-Dear Traveler,
-
-The HoYoLAB Community Forum Commenting Event has begun! Take part in the discussion to obtain Mora ×50,000 and get a chance to win one of 5,000 Primogem prizes!
-
-[Go to Event >>](https://www.hoyolab.com/article_pre/18014398241024983)
-
-Event Duration
-
-2026/02/09 – <t class="t_gl" contenteditable="false">2026/02/22 23:59</t>
-
-Event Theme
-
-Head to Liyue Harbor and discover Xiao Lanterns left by fellow Travelers. Tell us which one you found in the comments and leave behind a wish of your own~
-
-Event Rewards
-
-Guaranteed: Leave a comment below for a guaranteed reward of Mora ×50,000.
-
-Raffle: 5,000 winners will be randomly chosen to receive Primogems ×100.
-
-Guaranteed: Leave a comment in the comments section to obtain a "Lantern Rite Avatar Frame" (Permanent)
-
-[Want to be among the first to try out an amazing Avatar Frame? Head to the "Hilichurls' Machine Workshop" web event to claim a 30-day free trial now >>>](https://act.hoyolab.com/ys/event/bbs-event-20251029points/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&utm_id=2&utm_source=h5&utm_medium=task&utm_campaign=QiuQiuRen)
-
------
-
 # ["Moonlit Patrol Exercise" Event: Wargame Simulation Battle](archive/21525.md)
 ## "Moonlit Patrol Exercise"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f6560258fdc6eff48fbbbdad74917317_4887853559095178973_transformed.jpg)
