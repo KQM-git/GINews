@@ -43,6 +43,261 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [Event Wish "The Northerly Wind's Song of Triumph": Boosted Drop Rate for "Knight of Boreas" Varka (Anemo)!](archive/21576.md)
+## Event Wish "The Northerly Wind's Song of Triumph"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/06/b43efc5dc431deedf16516c933503aae_3145084250866232251_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version "Luna V" update  —  <t class="t_lc" contenteditable="false">2026/03/17 17:59</t> | "Knight of Boreas" Varka (Anemo) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Knight of Boreas" Varka (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Exquisite Delicacy" Xiangling (Pyro), and "Harmless Sweetie" Sucrose (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial will also run alongside this Event Wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "The Lone Light Knocks at Night" - Boosted Drop Rate for "Shadowy Lights, Stranger Wights" Flins (Electro)!](archive/21578.md)
+## Event Wish "The Lone Light Knocks at Night"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/590e74cdf3cdc716a93f804205f3ca1c_3615431462163325960_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version "Luna V" update  —  <t class="t_lc" contenteditable="false">2026/03/17 17:59</t> | "Shadowy Lights, Stranger Wights" Flins (Electro) | "Trial by Fire" Bennett (Pyro)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Shadowy Lights, Stranger Wights" Flins (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Trial by Fire" Bennett (Pyro), "Exquisite Delicacy" Xiangling (Pyro), and "Harmless Sweetie" Sucrose (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial will also run alongside this Event Wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Gest of the Mighty Wolf (Claymore) and Bloodsoaked Ruins (Polearm)!](archive/21581.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/cade7abd771a5007af2a2ce5d15db2a3_8044200641316346610_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version "Luna V" update  —  <t class="t_lc" contenteditable="false">2026/03/17 17:59</t> | Gest of the Mighty Wolf (Claymore)  Bloodsoaked Ruins (Polearm) | Sacrificer's Staff (Polearm)
+^ | ^ | Favonius Sword (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Gest of the Mighty Wolf (Claymore) and Bloodsoaked Ruins (Polearm) will receive a huge drop-rate boost!
+
+● During the event wish, the event-exclusive 4-star weapon Sacrificer's Staff (Polearm) as well as the 4-star weapons Favonius Sword (Sword), Favonius Greatsword (Claymore), Sacrificial Fragments (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Gest of the Mighty Wolf (Claymore) or Bloodsoaked Ruins (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Ode to the Dawn Breeze" - Chronicled Wish Now Available!](archive/21613.md)
+## Event Wish "Ode to the Dawn Breeze"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/12/fa615846fcca2d8877a5cdade31c3214_8927704578565856173_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+--- | --- | ---
+After the Version "Luna V" update  —  <t class="t_lc" contenteditable="false">2026/03/17 17:59</t>    | "Dance of the Shimmering Wave" Eula (Cryo)  "Astral Reflection" Mona (Hydro)  "Kreideprinz" Albedo (Geo)  "Fleeing Sunlight" Klee (Pyro)   "Dark Side of Dawn" Diluc (Pyro)  "Dandelion Knight" Jean (Anemo) | Skyward Blade (Sword)
+^ | ^ | Aquila Favonia (Sword)
+^ | ^ | Song of Broken Pines (Claymore) 
+^ | ^ | Wolf's Gravestone (Claymore)
+^ | ^ | Skyward Pride (Claymore)
+^ | ^ | Skyward Spine (Polearm)
+^ | ^ | Lost Prayer to the Sacred Winds (Catalyst)
+^ | ^ | Skyward Atlas (Catalyst)
+^ | ^ | Elegy for the End (Bow)
+^ | ^ | Skyward Harp (Bow)
+
+● During this event wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Ode to the Dawn Breeze" Event Wish of this period!
+
+● During this event wish, the event-exclusive 5-star characters "Dance of the Shimmering Wave" Eula (Cryo), "Kreideprinz" Albedo (Geo), and "Fleeing Sunlight" Klee (Pyro), the event-exclusive 5-star weapons Song of Broken Pines (Claymore) and Elegy for the End (Bow), as well as the event-exclusive 4-star weapons The Alley Flash (Sword), Wine and Song (Catalyst), Mitternachts Waltz (Bow), and Alley Hunter (Bow) will be available for a limited time.
+
+● All 5-star and 4-star items in this Chronicled Wish:
+
+5-Star Characters: Eula, Mona, Albedo, Klee, Diluc, and Jean
+
+5-Star Weapons: Skyward Blade, Aquila Favonia, Song of Broken Pines, Wolf's Gravestone, Skyward Pride, Skyward Spine, Lost Prayer to the Sacred Winds, Skyward Atlas, Elegy for the End, and Skyward Harp
+
+4-Star Characters: Dahlia, Mika, Rosaria, Sucrose, Diona, Noelle, Bennett, Fischl, Amber, Razor, Kaeya, Barbara, and Lisa
+
+4-Star Weapons: The Alley Flash, Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Favonius Lance, Dragon's Bane, Wine and Song, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Mitternachts Waltz, Alley Hunter, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
+
+※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Lupus Majoris Chapter" Event: Complete the Story Quest Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21584.md)
+## Lupus Majoris Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/a6eacf5e37f79d0863539c44c1b5d44b_3629139223407948371_transformed.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock Varka's Story Quest "Lupus Majoris Chapter."
+
+Complete the quest within the specified duration to obtain additional rewards: Primogems, Character Ascension Materials, Character Level-Up Materials, Mondstadt regional specialties, and more.
+
+〓Quest Start Time〓
+
+Permanently available after the Version "Luna V" update
+
+〓Additional Reward Availability Duration〓
+
+After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/03/17 17:59</t>
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 and above
+
+Complete Archon Quest Song of the Welkin Moon: Act VIII "True Moon."
+
+※ While the additional rewards are available, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Varka's Story Quest "Lupus Majoris Chapter."
+
+-----
+
+# [Repertoire of Myriad Melodies Update - Nod-Krai: Gateway to the Borderland Elysium](archive/21585.md)
+## Nod-Krai: Gateway to the Borderland Elysium
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/82dfed0b04718abedefbe549acf435a7_2907353690949912343_transformed.jpg)
+
+After the "Luna V" version update, the new album "Nod-Krai: Gateway to the Borderland Elysium" will be added to Repertoire of Myriad Melodies.
+
+Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
+
+〓Specified Duration〓
+
+After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 47 Available for a Limited Time](archive/21586.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/7bcee65cf59fca25245a5237988f560d_3958857835116831415_transformed.jpg)
+
+Round 47 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/03/11 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/03/11 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Northerly Winds" Event Details](archive/21587.md)
+## Northerly Winds
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/09a2b9e97a4487428b4645d9cc770683_1226105949198876098_transformed.jpg)
+
+Travelers can earn rich rewards in "Northerly Winds" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Northerly Winds" and Furnishing Blueprint "Jumbo Sparks 'n' Splash Statue" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 and above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/04/06 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna V"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
 # [Song of the Welkin Moon: Postlude — "A Traveler on a Winter's Night": Version "Luna IV" Update Details](archive/21567.md)
 ## Version "Luna IV" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/31/15d32017a01328b22e8c741a372fd117_7593813936451383365_transformed.jpg)
@@ -919,6 +1174,139 @@ Dear Traveler,
 Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!
 
 [Click here to check out the latest info on Version Luna V: Homeward, He Who Caught the Wind!](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_myGzVjTyki&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+-----
+
+# ["Wonderland Treasures: Cloudglow in the Drifting Mist" – New Manekin Cosmetics Now Available](archive/21582.md)
+## Wonderland Treasures: Cloudglow in the Drifting Mist
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/cbc2087a89cd7a9ad1b0b3c7e9f1fd60_6599307591204551639_transformed.png)
+
+During the event, you can obtain your favorite Manekin Cosmetics through the "Cloudglow in the Drifting Mist" Event Ode, Cloudglow Chronicles, or the Miliastra Shop.
+
+Play Popular Miliastra Wonderland stages with your new Sets or Try-on Capes equipped, and who knows, you might even earn yourself a Primogems ×60 reward!
+
+〓Event Ode Details〓
+
+Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetic
+--- | --- | ---
+After the Version Luna V update  —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Cloud Edge's Glory | Divine Providence
+^ | ^ | Grand Slam Passion
+^ | ^ | Drip-Drop Ribbit
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Cloud Edge's Glory" and Elite (4-Star) Cosmetics "Divine Providence," "Grand Slam Passion," and "Drip-Drop Ribbit" will be available in the Manekin Cosmetic Event Ode!
+
+● During the event, upon obtaining the limited Legendary (5-Star) Cosmetic "Cloud Edge's Glory" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Cloud Edge's Glory: Blazing Radiance."
+
+※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+〓Miliastra Shop〓
+
+Cosmetic Availability Period | Cosmetic Availability Period
+--- | ---
+After the Version Luna V update  Available for 3 consecutive versions | After the Version Luna V update  Available for 3 consecutive versions
+Limited-Time Discount Period | Limited-Time Discount Period
+After the Version Luna V update  —  <t class="t_lc" contenteditable="false">2026/04/06 03:59</t> | After the Version Luna V update  —  <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
+Elite (4-Star) Cosmetic | Exceptional (3-Star) Cosmetic
+Manekin Cosmetic "Comedy Performance"
+
+Manekina Cosmetic "Comedy Performance" | Manekin Cosmetic "Triumphal Golden Apple" 
+
+Manekina Cosmetic "Triumphal Golden Apple"
+Manekin Cosmetic "Noble Grace"
+
+Manekina Cosmetic "Noble Grace" | Manekin Cosmetic "Lucky Gallop" 
+
+Manekina Cosmetic "Witty Gallop"
+
+● After the Version Luna V update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
+
+● New Cosmetic Sets for Version Luna V! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Triumphal Golden Apple" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Lucky Gallop" and "Witty Gallop" Cosmetic Sets are available for Chronal Nexus ×240 during the discount period and will revert to Chronal Nexus ×300 once the offer ends.
+
+● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Triumphal Golden Apple" is priced at Chronal Nexus ×240.  In addition, the "Lucky Gallop" and "Witty Gallop" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
+
+● After the Version Luna V update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
+
+● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
+
+〓Cloudglow Chronicles〓
+
+● Event Duration: After the Version Luna V update – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
+
+● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Galaxy Wanderer"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Skyward Citadel: Magnificent Pillars."
+
+※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
+
+※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/04/06 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
+
+● After unlocking "Chronicles of the Realms" or "Epic of the Realms," you will unlock the Battle Pass Boon effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking "Gnostic Hymn" or "Gnostic Chorus" will grant the Chronicle Boon effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+〓New Standard Ode Set Catalog〓
+
+● After the Version Luna V update, a new Elite (4-Star) Set Catalog "Chromatic Mist" will be added to the Standard Ode "Encounter Echoes."
+
+※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# [Take part in "Raiment Collection: Dawn Breeze" to obtain the "Owl Envoy" Manekin Cosmetic Set of your choice](archive/21580.md)
+## Raiment Collection: Dawn Breeze
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/b7d132f0aba91b57cec4fbbb3b060ba8_5435621111576884526_transformed.png)
+
+〓Event Duration〓
+
+After the Version Luna V update – <t class="t_lc" contenteditable="false">2026/04/08 05:59</t>
+
+〓Event Rewards〓
+
+An "Owl Envoy" Manekin Cosmetic Set of your choice and Geodes of Replication
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
+
+● During the event, once your total accumulated "Treasured Insights" reach the required amount, you can claim the Manekin Cosmetic Set "Owl Envoy."
+
+● Before claiming your first component of the "Owl Envoy" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked in and cannot be changed.
+
+※ The Manekin Cosmetic Set "Owl Envoy" will be available for a limited time in the Miliastra Shop after Version Luna V ends. Please visit the Miliastra Shop for more details.
+
+-----
+
+# ["Cloudglow Season" Season Opening Announcement](archive/21577.md)
+## Cloudglow Season
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/a46b8a6da2d6435c09a9594a883012d3_76956324337163280_transformed.png)
+
+〓Season Duration〓
+
+Preparation Phase: After the Version Luna V update – <t class="t_lc" contenteditable="false">2026/02/26 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/02/26 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/07 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/04/07 04:00</t> – End of Version Luna V
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season consists of three phases: Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
 
 -----
 
