@@ -1141,18 +1141,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 
 -----
 
-# [Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!](archive/21597.md)
-## Genshin Impact Version "Luna V" Preview
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/03/05b8aaf532469d86faabd8780fbd725b_5486249450424984963_transformed.jpg)
-
-Dear Traveler,
-
-Latest Info on Version "Luna V": "Homeward, He Who Caught the Wind"!
-
-[Click here to check out the latest info on Version Luna V: Homeward, He Who Caught the Wind!](https://genshin.hoyoverse.com/?sign_type=2&auth_appid=pz_myGzVjTyki&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
------
-
 # ["Wonderland Treasures: Cloudglow in the Drifting Mist" – New Manekin Cosmetics Now Available](archive/21582.md)
 ## Wonderland Treasures: Cloudglow in the Drifting Mist
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/cbc2087a89cd7a9ad1b0b3c7e9f1fd60_6599307591204551639_transformed.png)
