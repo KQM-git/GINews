@@ -1196,26 +1196,6 @@ Progress through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" 
 
 -----
 
-# [Details of the Feedback on Special Categories Function](archive/2871.md)
-## Feedback on Special Categories
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/02/23/4d8d8305686aec10047dc3341b583bac_6183272339246996881.jpg)
-
-Dear Travelers,
-
-To enhance everyone's game experience, the team has opened a new channel for "Feedback on Special Categories." Travelers can send their opinions and suggestions through this channel, and we will listen carefully to your feedback.
-
-At the same time, we will update the content of our different surveys regularly to collect your various suggestions on our new content~
-
-〓Enter Feedback〓
-
-Open the Paimon Menu, click on the "Version Highlights" button, then go to "Specialized Feedback" to fill out the survey.
-
-〓Duration〓
-
-Permanently Available
-
------
-
 # [HoYoLAB Community - Genshin Impact Exclusive Tools Overview](archive/2795.md)
 ## Genshin Impact Exclusive Tools Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/23/ca52254dfa3b189a219100fe58bc0e20_4310229147167924893.jpg)
