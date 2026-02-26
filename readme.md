@@ -877,40 +877,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21575.md)
-## To Temper Thyself and Journey Far
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f77abe8a6f4104f1229db987e2c4280a_1002103533037462100_transformed.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/4ab069134e2bd6faa694dbbf2c2f3086_5649709177953287127_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/02/23 04:00</t> - <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 14 or above
-
-Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
-
-Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
-
-〓Event Details〓
-
-● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
-
-● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
-
-※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
-
-※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
-
-● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
------
-
 # ["Wonderland Treasures: Cloudglow in the Drifting Mist" – New Manekin Cosmetics Now Available](archive/21582.md)
 ## Wonderland Treasures: Cloudglow in the Drifting Mist
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/cbc2087a89cd7a9ad1b0b3c7e9f1fd60_6599307591204551639_transformed.png)
@@ -1041,6 +1007,40 @@ After awakening your Miliastra Wonderland Manekin
 ● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
 
 ● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21575.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/f77abe8a6f4104f1229db987e2c4280a_1002103533037462100_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/4ab069134e2bd6faa694dbbf2c2f3086_5649709177953287127_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/02/23 04:00</t> - <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
 
 -----
 
