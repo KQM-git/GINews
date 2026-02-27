@@ -580,6 +580,20 @@ Affected Character Cards: Character Card "Ororon"'s Passive Skill effect; Charac
 
 -----
 
+# [Version Details - What's New ](archive/21626.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
+
+Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
+
+-----
+
 # ["Homeward, He Who Caught the Wind" Event: Take part and obtain the event-exclusive weapon appearance "Phantasmal Gift: Star Omen"](archive/21588.md)
 ## Homeward, He Who Caught the Wind
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/e5a7972f6b0e2e500c6b00cf522290a7_2574256705959556531_transformed.jpg)
