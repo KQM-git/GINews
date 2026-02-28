@@ -588,6 +588,12 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
+
+Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
+
+Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
+
 〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
 
 Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
