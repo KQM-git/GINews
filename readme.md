@@ -1250,7 +1250,7 @@ Daily check-in rewards, interactive map, Wiki, quality guides... You'll find eve
 
 [HoYoLAB Community](https://www.hoyolab.com/home?lang=en-us&utm_source=ingame&utm_medium=notice&utm_campaign=pcm&from_id=2)
 
-[Click to Download the HoYoLAB App](https://app.adjust.com/wm812yf?engagement_type=fallback_click&fallback=https%3A%2F%2Fwww.hoyolab.com%2Fhome&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mihoyo.hoyolab&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1559483982)
+[Click to Download the HoYoLAB App](https://www.hoyolab.com/download.html?gid=2&utm_id=2&utm_medium=notice&utm_source=ingame)
 
 〓Official Site〓
 
