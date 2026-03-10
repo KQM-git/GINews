@@ -580,6 +580,30 @@ Affected Character Cards: Character Card "Ororon"'s Passive Skill effect; Charac
 
 -----
 
+# [Version Details - What's New ](archive/21626.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2026/03/05 16:10</t> Update Details〓
+
+Fixes an issue whereby the Void Wards of certain enemies do not display under certain circumstances.
+
+〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
+
+Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
+
+Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
+
+〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
+
+Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
@@ -637,30 +661,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
 
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
-# [Version Details - What's New ](archive/21626.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓<t class="t_gl" contenteditable="false">2026/03/05 16:10</t> Update Details〓
-
-Fixes an issue whereby the Void Wards of certain enemies do not display under certain circumstances.
-
-〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
-
-Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
-
-Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
-
-〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
-
-Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
 
 -----
 
@@ -929,38 +929,6 @@ Adventure Rank 20 and above
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna V"
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
-
-● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # ["Wonderland Treasures: Cloudglow in the Drifting Mist" – New Manekin Cosmetics Now Available](archive/21582.md)
 ## Wonderland Treasures: Cloudglow in the Drifting Mist
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/cbc2087a89cd7a9ad1b0b3c7e9f1fd60_6599307591204551639_transformed.png)
@@ -1091,6 +1059,38 @@ After awakening your Miliastra Wonderland Manekin
 ● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
 
 ● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna V"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
