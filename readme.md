@@ -891,36 +891,6 @@ After the Version "Luna V" update – <t class="t_lc" contenteditable="false">20
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 47 Available for a Limited Time](archive/21586.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/7bcee65cf59fca25245a5237988f560d_3958857835116831415_transformed.jpg)
-
-Round 47 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/03/11 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/03/11 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # ["Northerly Winds" Event Details](archive/21587.md)
 ## Northerly Winds
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/09a2b9e97a4487428b4645d9cc770683_1226105949198876098_transformed.jpg)
