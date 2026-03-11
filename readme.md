@@ -604,6 +604,26 @@ Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" wh
 
 -----
 
+# [Genshin Impact's Second Nod-Krai OST Album "Where Roads Are Pledged to Cross" Now Available](archive/21627.md)
+## Second Nod-Krai OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/09/dc89a5f6a2510a3714df01f37d795173_3915363514598895139_transformed.jpg)
+
+Dear Traveler,
+
+Genshin Impact's second Nod-Krai OST album "Where Roads Are Pledged to Cross" is now available! The album's three discs "Nordic Spring," "Tidig Gryning," and "Requiem for the Living," feature 73 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Nod-Krai.
+
+Travelers can go to the following platforms to listen to "Where Roads Are Pledged to Cross."
+
+Spotify:
+
+[Click here to listen to "Where Roads Are Pledged to Cross"](https://open.spotify.com/album/3luqRtSzgwPHNNIvayJcrn)
+
+Apple Music:
+
+[Click here to listen to "Where Roads Are Pledged to Cross"](https://music.apple.com/us/album/1882965785)
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
