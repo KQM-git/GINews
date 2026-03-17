@@ -1,13 +1,3 @@
-# [New Content Overview](archive/21618.md)
-## Version "Luna V" Now Available
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/24/aa270e23d17206e712c27c1e58eaae98_8894614483947914825_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/24/ba621c40898a52d503b38109e2fa93ac_5886149479949594513_transformed.jpg)
-
------
-
 # ["Song of the Welkin Moon: Variation — Homeward, He Who Caught the Wind": Version "Luna V" Update Details](archive/21617.md)
 ## Version "Luna V" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/10/c43e921d7d89af20faa47533db69a0f6_7150641099223383768_transformed.png)
@@ -577,6 +567,16 @@ Affected Character Cards: Character Card "Ororon"'s Passive Skill effect; Charac
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# [New Content Overview](archive/21618.md)
+## Version "Luna V" Now Available
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/24/aa270e23d17206e712c27c1e58eaae98_8894614483947914825_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/24/ba621c40898a52d503b38109e2fa93ac_5886149479949594513_transformed.jpg)
 
 -----
 
