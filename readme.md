@@ -1,3 +1,31 @@
+# ["Operation Stronghold Defense" Event: Stronghold Defense Challenge](archive/21593.md)
+## Operation Stronghold Defense
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/22d67fa04b6cbf1709605d64d5827aab_5732767626729186762_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/635c8f0bb4510fabc6a0d36b92b4858b_3554434141758849072_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/02 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
+
+● During the event period, complete the corresponding stage challenges to obtain the respective rewards.
+
+-----
+
 # ["Sightseeing With Friends" Event: Interesting Scenic Tour](archive/21589.md)
 ## Sightseeing With Friends
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/c26f35a7680bb830089935753642405e_2253730380954821255_transformed.jpg)
@@ -960,6 +988,36 @@ After awakening your Miliastra Wonderland Manekin
 ● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
 
 ● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Take part in "Starlight Voyage: Gallant Stride" to obtain Prismatic Crystals, the token for the Colorful Surprise Box](archive/21579.md)
+## Starlight Voyage: Gallant Stride
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/0f56fa7c8486be1e7f2b8923d9bc25cf_2550000355392318951_transformed.png)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
+
+Quest Completion Period: <t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/02 04:00</t>
+
+〓Event Rewards〓
+
+Prismatic Crystal
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
+
+● After the event begins, the available stages in Starlight Voyage and the maximum obtainable "Sightseeing Experiences" will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
+
+● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
+
+※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
 
 -----
 
