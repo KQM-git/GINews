@@ -36,38 +36,6 @@ and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Sightseeing With Friends" Event: Interesting Scenic Tour](archive/21589.md)
-## Sightseeing With Friends
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/c26f35a7680bb830089935753642405e_2253730380954821255_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/dbc3704d6337d843e0bc8deb84723572_4901162433417957495_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/03/16 10:00</t> – <t class="t_lc" contenteditable="false">2026/03/26 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Two game modes will be available during the event: "A Closer Look" and "Photo-Fun Tour." Go sightseeing with your your Fungi companions and capture various scenes according to specific requirements.
-
-● In "A Closer Look," compare the paintings with the scenery in front of you to locate the missing scenery objects.
-
-● In "Photo-Fun Tour," you take pictures of the creatures you encounter during your sightseeing. The more creatures you capture in a single photograph, the higher your Fun Score.
-
-● A total of six new stages will be made available during the event, with two stages unlocked on Days 1, 3, and 5 respectively.
-
------
-
 # [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21590.md)
 ## Event Wish - Void Star's Advent
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6591b129037c94502b9f5307bfd789df_2965258981833218846_transformed.jpg)
