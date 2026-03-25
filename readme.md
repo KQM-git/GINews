@@ -1,147 +1,3 @@
-# ["Operation Stronghold Defense" Event: Stronghold Defense Challenge](archive/21593.md)
-## Operation Stronghold Defense
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/22d67fa04b6cbf1709605d64d5827aab_5732767626729186762_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/635c8f0bb4510fabc6a0d36b92b4858b_3554434141758849072_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/02 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
-
-● During the event period, complete the corresponding stage challenges to obtain the respective rewards.
-
------
-
-# ["Sightseeing With Friends" Event: Interesting Scenic Tour](archive/21589.md)
-## Sightseeing With Friends
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/c26f35a7680bb830089935753642405e_2253730380954821255_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/dbc3704d6337d843e0bc8deb84723572_4901162433417957495_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/03/16 10:00</t> – <t class="t_lc" contenteditable="false">2026/03/26 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Two game modes will be available during the event: "A Closer Look" and "Photo-Fun Tour." Go sightseeing with your your Fungi companions and capture various scenes according to specific requirements.
-
-● In "A Closer Look," compare the paintings with the scenery in front of you to locate the missing scenery objects.
-
-● In "Photo-Fun Tour," you take pictures of the creatures you encounter during your sightseeing. The more creatures you capture in a single photograph, the higher your Fun Score.
-
-● A total of six new stages will be made available during the event, with two stages unlocked on Days 1, 3, and 5 respectively.
-
------
-
-# [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21590.md)
-## Event Wish - Void Star's Advent
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6591b129037c94502b9f5307bfd789df_2965258981833218846_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | "Void Star" Skirk (Cryo) | "Ode and Oblation" Dahlia (Hydro)
-^ | ^ | "Golden Vow" Candace (Hydro)
-^ | ^ | "Lens of Verity" Charlotte (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Void Star" Skirk (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Lens of Verity" Charlotte (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21591.md)
-## Event Wish - La Chanson Cerise
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/a3a403ad865255847e45e3f0bd68787a_7018239280582819903_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | "Tasteful Excellence" Escoffier (Cryo) | "Ode and Oblation" Dahlia (Hydro)
-^ | ^ | "Golden Vow" Candace (Hydro)
-^ | ^ | "Lens of Verity" Charlotte (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Tasteful Excellence" Escoffier (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Lens of Verity" Charlotte (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Azurelight (Sword) and Symphonist of Scents (Polearm)!](archive/21592.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/cc237ecb97064a744d0a6bb807193e96_8607462818549271335_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Azurelight (Sword)  Symphonist of Scents (Polearm) | The Flute (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Azurelight (Sword) and Symphonist of Scents (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Azurelight (Sword) or Symphonist of Scents (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Song of the Welkin Moon: Variation — Homeward, He Who Caught the Wind": Version "Luna V" Update Details](archive/21617.md)
 ## Version "Luna V" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/10/c43e921d7d89af20faa47533db69a0f6_7150641099223383768_transformed.png)
@@ -714,6 +570,150 @@ Affected Character Cards: Character Card "Ororon"'s Passive Skill effect; Charac
 
 -----
 
+# ["Operation Stronghold Defense" Event: Stronghold Defense Challenge](archive/21593.md)
+## Operation Stronghold Defense
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/22d67fa04b6cbf1709605d64d5827aab_5732767626729186762_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/635c8f0bb4510fabc6a0d36b92b4858b_3554434141758849072_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/02 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
+
+● During the event period, complete the corresponding stage challenges to obtain the respective rewards.
+
+-----
+
+# ["Sightseeing With Friends" Event: Interesting Scenic Tour](archive/21589.md)
+## Sightseeing With Friends
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/c26f35a7680bb830089935753642405e_2253730380954821255_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/dbc3704d6337d843e0bc8deb84723572_4901162433417957495_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/03/16 10:00</t> – <t class="t_lc" contenteditable="false">2026/03/26 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● Two game modes will be available during the event: "A Closer Look" and "Photo-Fun Tour." Go sightseeing with your your Fungi companions and capture various scenes according to specific requirements.
+
+● In "A Closer Look," compare the paintings with the scenery in front of you to locate the missing scenery objects.
+
+● In "Photo-Fun Tour," you take pictures of the creatures you encounter during your sightseeing. The more creatures you capture in a single photograph, the higher your Fun Score.
+
+● A total of six new stages will be made available during the event, with two stages unlocked on Days 1, 3, and 5 respectively.
+
+-----
+
+# [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21590.md)
+## Event Wish - Void Star's Advent
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6591b129037c94502b9f5307bfd789df_2965258981833218846_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | "Void Star" Skirk (Cryo) | "Ode and Oblation" Dahlia (Hydro)
+^ | ^ | "Golden Vow" Candace (Hydro)
+^ | ^ | "Lens of Verity" Charlotte (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Void Star" Skirk (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Lens of Verity" Charlotte (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21591.md)
+## Event Wish - La Chanson Cerise
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/a3a403ad865255847e45e3f0bd68787a_7018239280582819903_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | "Tasteful Excellence" Escoffier (Cryo) | "Ode and Oblation" Dahlia (Hydro)
+^ | ^ | "Golden Vow" Candace (Hydro)
+^ | ^ | "Lens of Verity" Charlotte (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Tasteful Excellence" Escoffier (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Lens of Verity" Charlotte (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Azurelight (Sword) and Symphonist of Scents (Polearm)!](archive/21592.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/cc237ecb97064a744d0a6bb807193e96_8607462818549271335_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Azurelight (Sword)  Symphonist of Scents (Polearm) | The Flute (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Azurelight (Sword) and Symphonist of Scents (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons The Flute (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Azurelight (Sword) or Symphonist of Scents (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [New Content Overview](archive/21618.md)
 ## Version "Luna V" Now Available
 
@@ -721,6 +721,38 @@ Affected Character Cards: Character Card "Ororon"'s Passive Skill effect; Charac
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/02/24/aa270e23d17206e712c27c1e58eaae98_8894614483947914825_transformed.jpg)
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/02/24/ba621c40898a52d503b38109e2fa93ac_5886149479949594513_transformed.jpg)
+
+-----
+
+# [Version Details - What's New ](archive/21626.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2026/03/19 16:10</t> Update Details〓
+
+Adds compatibility support for iPhone 17e and iPad Air (M4) series devices.
+
+〓<t class="t_gl" contenteditable="false">2026/03/12 16:15</t> Update Details〓
+
+Updates resources related to subsequent events.
+
+〓<t class="t_gl" contenteditable="false">2026/03/05 16:10</t> Update Details〓
+
+Fixes an issue whereby the Void Wards of certain enemies do not display under certain circumstances.
+
+〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
+
+Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
+
+Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
+
+〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
+
+Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
 
 -----
 
@@ -1084,38 +1116,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 ※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
 
 ● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
------
-
-# [Version Details - What's New ](archive/21626.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓<t class="t_gl" contenteditable="false">2026/03/19 16:10</t> Update Details〓
-
-Adds compatibility support for iPhone 17e and iPad Air (M4) series devices.
-
-〓<t class="t_gl" contenteditable="false">2026/03/12 16:15</t> Update Details〓
-
-Updates resources related to subsequent events.
-
-〓<t class="t_gl" contenteditable="false">2026/03/05 16:10</t> Update Details〓
-
-Fixes an issue whereby the Void Wards of certain enemies do not display under certain circumstances.
-
-〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
-
-Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
-
-Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
-
-〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
-
-Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
 
 -----
 
