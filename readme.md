@@ -92,34 +92,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Azurelight (Sword) and Symphonist of Scents (Polearm)!](archive/21592.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/cc237ecb97064a744d0a6bb807193e96_8607462818549271335_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Azurelight (Sword)  Symphonist of Scents (Polearm) | The Flute (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Azurelight (Sword) and Symphonist of Scents (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Azurelight (Sword) or Symphonist of Scents (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Song of the Welkin Moon: Variation — Homeward, He Who Caught the Wind": Version "Luna V" Update Details](archive/21617.md)
 ## Version "Luna V" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/10/c43e921d7d89af20faa47533db69a0f6_7150641099223383768_transformed.png)
@@ -724,6 +696,34 @@ Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" wh
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Azurelight (Sword) and Symphonist of Scents (Polearm)!](archive/21592.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/cc237ecb97064a744d0a6bb807193e96_8607462818549271335_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Azurelight (Sword)  Symphonist of Scents (Polearm) | The Flute (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Codex (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Azurelight (Sword) and Symphonist of Scents (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons The Flute (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Azurelight (Sword) or Symphonist of Scents (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20748.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/84e8646fe8e31af9058a8a815df33236_9059115913235512770.jpg)
@@ -827,34 +827,6 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
-
------
-
-# ["Northerly Winds" Event Details](archive/21587.md)
-## Northerly Winds
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/09a2b9e97a4487428b4645d9cc770683_1226105949198876098_transformed.jpg)
-
-Travelers can earn rich rewards in "Northerly Winds" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Northerly Winds" and Furnishing Blueprint "Jumbo Sparks 'n' Splash Statue" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 and above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/04/06 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
 
 -----
 
@@ -1018,6 +990,34 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
 
 ※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
+
+-----
+
+# ["Northerly Winds" Event Details](archive/21587.md)
+## Northerly Winds
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/09a2b9e97a4487428b4645d9cc770683_1226105949198876098_transformed.jpg)
+
+Travelers can earn rich rewards in "Northerly Winds" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Northerly Winds" and Furnishing Blueprint "Jumbo Sparks 'n' Splash Statue" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 and above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/04/06 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
 
 -----
 
