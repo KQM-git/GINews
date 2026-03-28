@@ -8,6 +8,30 @@
 
 -----
 
+# ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
+## Overflowing Abundance
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/11/20/ca162891b57c2a91239dd5599ee6871a_9149657025412718861_transformed.jpg)
+
+During the event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/03/30 04:00</t> - <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
+
+〓Eligibility〓
+
+Domains of Mastery: Reach Adventure Rank 25 or above and after activating corresponding Domains of Mastery
+
+Domains of Forgery: Reach Adventure Rank 15 or above and after activating corresponding Domains of Forgery
+
+〓Event Details〓
+
+● During the "Overflowing Abundance" event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
+
+● All unlocked reward options for Domains of Mastery and Forgery will be available until the event ends. Please make sure you complete the challenge in time.
+
+-----
+
 # ["Operation Stronghold Defense" Event: Stronghold Defense Challenge](archive/21593.md)
 ## Operation Stronghold Defense
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/22d67fa04b6cbf1709605d64d5827aab_5732767626729186762_transformed.jpg)
