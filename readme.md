@@ -580,6 +580,38 @@ Affected Character Cards: Character Card "Ororon"'s Passive Skill effect; Charac
 
 -----
 
+# [Version Details - What's New ](archive/21626.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2026/03/19 16:10</t> Update Details〓
+
+Adds compatibility support for iPhone 17e and iPad Air (M4) series devices.
+
+〓<t class="t_gl" contenteditable="false">2026/03/12 16:15</t> Update Details〓
+
+Updates resources related to subsequent events.
+
+〓<t class="t_gl" contenteditable="false">2026/03/05 16:10</t> Update Details〓
+
+Fixes an issue whereby the Void Wards of certain enemies do not display under certain circumstances.
+
+〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
+
+Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
+
+Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
+
+〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
+
+Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
+
+-----
+
 # ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
 ## Overflowing Abundance
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/11/20/ca162891b57c2a91239dd5599ee6871a_9149657025412718861_transformed.jpg)
@@ -685,38 +717,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Version Details - What's New ](archive/21626.md)
-## Update Summary
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
-
-Dear Travelers:
-
-To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
-
-〓<t class="t_gl" contenteditable="false">2026/03/19 16:10</t> Update Details〓
-
-Adds compatibility support for iPhone 17e and iPad Air (M4) series devices.
-
-〓<t class="t_gl" contenteditable="false">2026/03/12 16:15</t> Update Details〓
-
-Updates resources related to subsequent events.
-
-〓<t class="t_gl" contenteditable="false">2026/03/05 16:10</t> Update Details〓
-
-Fixes an issue whereby the Void Wards of certain enemies do not display under certain circumstances.
-
-〓<t class="t_gl" contenteditable="false">2026/02/28 14:10</t> Update Details〓
-
-Fixes an issue on the Europe server whereby after clicking to claim rewards in the event "Raiment Collection: Dawn Breeze," the interface would display the rewards as claimed, but the rewards would fail to be delivered normally under certain circumstances.
-
-Within 72 hours, the development team will re-issue the corresponding event rewards to Travelers who encountered this issue. The rewards will be sent directly to the affected game accounts and a notification will be delivered via in-game mail.
-
-〓<t class="t_gl" contenteditable="false">2026/02/27 11:10</t> Update Details〓
-
-Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" whereby the quest objective could not be completed as there is a small chance that the character would not be able to attack opponents in the "Lonely Warrior" domain under certain circumstances.
 
 -----
 
