@@ -636,34 +636,6 @@ Domains of Forgery: Reach Adventure Rank 15 or above and after activating corres
 
 -----
 
-# ["Operation Stronghold Defense" Event: Stronghold Defense Challenge](archive/21593.md)
-## Operation Stronghold Defense
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/22d67fa04b6cbf1709605d64d5827aab_5732767626729186762_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/01/21/635c8f0bb4510fabc6a0d36b92b4858b_3554434141758849072_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/02 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
-
-● During the event period, complete the corresponding stage challenges to obtain the respective rewards.
-
------
-
 # [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21590.md)
 ## Event Wish - Void Star's Advent
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6591b129037c94502b9f5307bfd789df_2965258981833218846_transformed.jpg)
