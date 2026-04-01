@@ -808,6 +808,26 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21661.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Repertoire of Myriad Melodies Update - Nod-Krai: Gateway to the Borderland Elysium](archive/21585.md)
 ## Nod-Krai: Gateway to the Borderland Elysium
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/82dfed0b04718abedefbe549acf435a7_2907353690949912343_transformed.jpg)
