@@ -720,6 +720,26 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21661.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
@@ -777,40 +797,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
 
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21661.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-[Click here to access the feature](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=notice&utm_campaign=checkin&utm_id=2)
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# [Repertoire of Myriad Melodies Update - Nod-Krai: Gateway to the Borderland Elysium](archive/21585.md)
-## Nod-Krai: Gateway to the Borderland Elysium
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/82dfed0b04718abedefbe549acf435a7_2907353690949912343_transformed.jpg)
-
-After the "Luna V" version update, the new album "Nod-Krai: Gateway to the Borderland Elysium" will be added to Repertoire of Myriad Melodies.
-
-Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
-
-〓Specified Duration〓
-
-After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
 
 -----
 
@@ -974,6 +960,20 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
 
 ※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
+
+-----
+
+# [Repertoire of Myriad Melodies Update - Nod-Krai: Gateway to the Borderland Elysium](archive/21585.md)
+## Nod-Krai: Gateway to the Borderland Elysium
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/82dfed0b04718abedefbe549acf435a7_2907353690949912343_transformed.jpg)
+
+After the "Luna V" version update, the new album "Nod-Krai: Gateway to the Borderland Elysium" will be added to Repertoire of Myriad Melodies.
+
+Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
+
+〓Specified Duration〓
+
+After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
 
 -----
 
