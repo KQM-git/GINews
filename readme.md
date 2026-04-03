@@ -664,6 +664,30 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
+# [Version Satisfaction Survey Now Open](archive/21660.md)
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2026/04/03 10:00:00 (global) - 2026/04/06 23:59:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_jE_0tx-seXZlJUP2c9jilDro3g7Y4lOMLH2_ux0kVce&game_biz=hk4e_global&surveyId=36876&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21591.md)
 ## Event Wish - La Chanson Cerise
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/a3a403ad865255847e45e3f0bd68787a_7018239280582819903_transformed.jpg)
