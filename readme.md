@@ -1,19 +1,3 @@
-# [Login Failure Issue Summary](archive/21668.md)
-## Login Failure Issue Summary
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/03/fe7e72baa8e4ac5e237f027a819b212e_3026251019770690539_transformed.jpg)
-
-Dear Travelers,
-
-Due to an issue with Facebook services, some Travelers have been unable to log into the game normally.
-
-Travelers using applicable services can log in to the game using their linked HoYoverse Account.
-
-Once relevant services are restored, we will inform Travelers through official notices.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
------
-
 # [New Content Overview](archive/21618.md)
 ## Version "Luna V" Now Available
 
