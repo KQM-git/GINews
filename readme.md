@@ -612,30 +612,6 @@ Fixes an issue in Varka's Story Quest "To Those Who Embark on the Expedition" wh
 
 -----
 
-# ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
-## Overflowing Abundance
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/11/20/ca162891b57c2a91239dd5599ee6871a_9149657025412718861_transformed.jpg)
-
-During the event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/03/30 04:00</t> - <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
-
-〓Eligibility〓
-
-Domains of Mastery: Reach Adventure Rank 25 or above and after activating corresponding Domains of Mastery
-
-Domains of Forgery: Reach Adventure Rank 15 or above and after activating corresponding Domains of Forgery
-
-〓Event Details〓
-
-● During the "Overflowing Abundance" event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
-● All unlocked reward options for Domains of Mastery and Forgery will be available until the event ends. Please make sure you complete the challenge in time.
-
------
-
 # [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21590.md)
 ## Event Wish - Void Star's Advent
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6591b129037c94502b9f5307bfd789df_2965258981833218846_transformed.jpg)
@@ -824,81 +800,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 
 -----
 
-# ["Wonderland Treasures: Cloudglow in the Drifting Mist" – New Manekin Cosmetics Now Available](archive/21582.md)
-## Wonderland Treasures: Cloudglow in the Drifting Mist
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/cbc2087a89cd7a9ad1b0b3c7e9f1fd60_6599307591204551639_transformed.png)
-
-During the event, you can obtain your favorite Manekin Cosmetics through the "Cloudglow in the Drifting Mist" Event Ode, Cloudglow Chronicles, or the Miliastra Shop.
-
-Play Popular Miliastra Wonderland stages with your new Sets or Try-on Capes equipped, and who knows, you might even earn yourself a Primogems ×60 reward!
-
-〓Event Ode Details〓
-
-Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetic
---- | --- | ---
-After the Version Luna V update  —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Cloud Edge's Glory | Divine Providence
-^ | ^ | Grand Slam Passion
-^ | ^ | Drip-Drop Ribbit
-
-● During the event, the limited Legendary (5-Star) Cosmetic "Cloud Edge's Glory" and Elite (4-Star) Cosmetics "Divine Providence," "Grand Slam Passion," and "Drip-Drop Ribbit" will be available in the Manekin Cosmetic Event Ode!
-
-● During the event, upon obtaining the limited Legendary (5-Star) Cosmetic "Cloud Edge's Glory" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Cloud Edge's Glory: Blazing Radiance."
-
-※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
-
-※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
-
-〓Miliastra Shop〓
-
-Cosmetic Availability Period | Cosmetic Availability Period
---- | ---
-After the Version Luna V update  Available for 3 consecutive versions | After the Version Luna V update  Available for 3 consecutive versions
-Limited-Time Discount Period | Limited-Time Discount Period
-After the Version Luna V update  —  <t class="t_lc" contenteditable="false">2026/04/06 03:59</t> | After the Version Luna V update  —  <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
-Elite (4-Star) Cosmetic | Exceptional (3-Star) Cosmetic
-Manekin Cosmetic "Comedy Performance"
-
-Manekina Cosmetic "Comedy Performance" | Manekin Cosmetic "Triumphal Golden Apple" 
-
-Manekina Cosmetic "Triumphal Golden Apple"
-Manekin Cosmetic "Noble Grace"
-
-Manekina Cosmetic "Noble Grace" | Manekin Cosmetic "Lucky Gallop" 
-
-Manekina Cosmetic "Witty Gallop"
-
-● After the Version Luna V update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
-
-● New Cosmetic Sets for Version Luna V! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Triumphal Golden Apple" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Lucky Gallop" and "Witty Gallop" Cosmetic Sets are available for Chronal Nexus ×240 during the discount period and will revert to Chronal Nexus ×300 once the offer ends.
-
-● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Triumphal Golden Apple" is priced at Chronal Nexus ×240.  In addition, the "Lucky Gallop" and "Witty Gallop" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
-
-● After the Version Luna V update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
-
-● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
-
-〓Cloudglow Chronicles〓
-
-● Event Duration: After the Version Luna V update – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
-
-● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Galaxy Wanderer"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Skyward Citadel: Magnificent Pillars."
-
-※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
-
-※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/04/06 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
-
-● After unlocking "Chronicles of the Realms" or "Epic of the Realms," you will unlock the Battle Pass Boon effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking "Gnostic Hymn" or "Gnostic Chorus" will grant the Chronicle Boon effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
-〓New Standard Ode Set Catalog〓
-
-● After the Version Luna V update, a new Elite (4-Star) Set Catalog "Chromatic Mist" will be added to the Standard Ode "Encounter Echoes."
-
-※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
-
------
-
 # [Take part in "Raiment Collection: Dawn Breeze" to obtain the "Owl Envoy" Manekin Cosmetic Set of your choice](archive/21580.md)
 ## Raiment Collection: Dawn Breeze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/b7d132f0aba91b57cec4fbbb3b060ba8_5435621111576884526_transformed.png)
@@ -957,36 +858,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [Take part in "Starlight Voyage: Gallant Stride" to obtain Prismatic Crystals, the token for the Colorful Surprise Box](archive/21579.md)
-## Starlight Voyage: Gallant Stride
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/11/0f56fa7c8486be1e7f2b8923d9bc25cf_2550000355392318951_transformed.png)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
-
-Quest Completion Period: <t class="t_lc" contenteditable="false">2026/03/23 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/02 04:00</t>
-
-〓Event Rewards〓
-
-Prismatic Crystal
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
-
-● After the event begins, the available stages in Starlight Voyage and the maximum obtainable "Sightseeing Experiences" will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
-
-● During the event, Travelers can obtain the corresponding event reward "Prismatic Crystals" by completing quests and accumulating "Sightseeing Experiences."
-
-※ "Prismatic Crystals" obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
-
------
-
 # [Repertoire of Myriad Melodies Update - Nod-Krai: Gateway to the Borderland Elysium](archive/21585.md)
 ## Nod-Krai: Gateway to the Borderland Elysium
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/82dfed0b04718abedefbe549acf435a7_2907353690949912343_transformed.jpg)
@@ -998,34 +869,6 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
-
------
-
-# ["Northerly Winds" Event Details](archive/21587.md)
-## Northerly Winds
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/09a2b9e97a4487428b4645d9cc770683_1226105949198876098_transformed.jpg)
-
-Travelers can earn rich rewards in "Northerly Winds" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Northerly Winds" and Furnishing Blueprint "Jumbo Sparks 'n' Splash Statue" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/06 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 and above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/04/06 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
 
 -----
 
