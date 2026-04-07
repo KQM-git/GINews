@@ -873,34 +873,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21590.md)
-## Event Wish - Void Star's Advent
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6591b129037c94502b9f5307bfd789df_2965258981833218846_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | "Void Star" Skirk (Cryo) | "Ode and Oblation" Dahlia (Hydro)
-^ | ^ | "Golden Vow" Candace (Hydro)
-^ | ^ | "Lens of Verity" Charlotte (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Void Star" Skirk (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Lens of Verity" Charlotte (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Scaled Edge Season" Season Opening Announcement](archive/21653.md)
 ## Scaled Edge Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/605b443bff6ee1a789185c4d922ff7c2_2747880350692533336.jpg)
@@ -1034,62 +1006,6 @@ Manekina Cosmetic "Frosty Roar"
 
 -----
 
-# [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21591.md)
-## Event Wish - La Chanson Cerise
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/a3a403ad865255847e45e3f0bd68787a_7018239280582819903_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | "Tasteful Excellence" Escoffier (Cryo) | "Ode and Oblation" Dahlia (Hydro)
-^ | ^ | "Golden Vow" Candace (Hydro)
-^ | ^ | "Lens of Verity" Charlotte (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Tasteful Excellence" Escoffier (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Lens of Verity" Charlotte (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Azurelight (Sword) and Symphonist of Scents (Polearm)!](archive/21592.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/cc237ecb97064a744d0a6bb807193e96_8607462818549271335_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/03/17 18:00</t> —  <t class="t_lc" contenteditable="false">2026/04/07 14:59</t> | Azurelight (Sword)  Symphonist of Scents (Polearm) | The Flute (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Codex (Catalyst)
-^ | ^ | Rust (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Azurelight (Sword) and Symphonist of Scents (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), The Bell (Claymore), Favonius Lance (Polearm), Favonius Codex (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Azurelight (Sword) or Symphonist of Scents (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21661.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1168,20 +1084,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [Repertoire of Myriad Melodies Update - Nod-Krai: Gateway to the Borderland Elysium](archive/21585.md)
-## Nod-Krai: Gateway to the Borderland Elysium
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/05/82dfed0b04718abedefbe549acf435a7_2907353690949912343_transformed.jpg)
-
-After the "Luna V" version update, the new album "Nod-Krai: Gateway to the Borderland Elysium" will be added to Repertoire of Myriad Melodies.
-
-Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
-
-〓Specified Duration〓
-
-After the Version "Luna V" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
-
------
-
 # ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
@@ -1245,22 +1147,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 ※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
 
 ● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
------
-
-# [Complete the "The Lament of the Cliff-Shadowed Hollow" exploration missions within the specified duration to obtain an additional reward of Primogems ×400](archive/21518.md)
-## The Lament of the Cliff-Shadowed Hollow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/30/d01cf07303da19e3772e3526b77eac49_4587984498578287948_transformed.jpg)
-
-In Version "Luna IV," the areas Voidsea Outlook, Wavechaser Plain, and Ashveil Peak in the Nod-Krai region will be available.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna IV" update – <t class="t_lc" contenteditable="false">2026/04/07 14:59</t>
 
 -----
 
