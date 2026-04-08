@@ -586,6 +586,70 @@ Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of
 
 -----
 
+# ["Surveying & Mapping Studies" Event: A Fun Surveying Challenge](archive/21639.md)
+## Surveying & Mapping Studies
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/43b94660bb1e24bceec03dfe19efc2d4_2129404444544383903_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/25/f6ac2f188625b1b0915c690e60f322d4_6381747608011888584_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/04/10 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/20 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● In the challenge, Travelers need to locate the calibration target through methods such as activating the compass and finding reference points, then mark its position as accurately as possible on the special map.
+
+● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
+
+-----
+
+# [The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~](archive/21656.md)
+## "Trail of Footsteps" — Genshin Impact Web Event Update!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/06bf1115b057f9a3fcbb07bea3d38858_1539629029696382482_transformed.jpg)
+
+The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260408land-gmdt0n/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260408tile&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/04/08 – <t class="t_gl" contenteditable="false">2026/04/21 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, Travelers can complete web tasks to claim rewards such as Primogems and in-game scene wallpapers. For specific quest details, please refer to the event page.
+
+※ There may be a delay of 1 to 2 hours in the data collection process. If the mission progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # [Event Wish "Ya-hoho! Compendium" - Boosted Drop Rate for "Augur of Wonders" Linnea (Geo)!](archive/21632.md)
 ## Event Wish - Ya-hoho! Compendium
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/dedbc6e9ac1001f40ad19d3041e1f292_1032846630611093680_transformed.jpg)
