@@ -568,6 +568,24 @@ Text-related fixes and optimizations in English include:
 
 -----
 
+# [Version Details - What's New ](archive/21682.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+Currently, under specific circumstances, when using voice features in Miliastra Wonderland on mobile or console devices, there is a chance that game audio may abnormally stutter or cut out. This issue will be fixed in a subsequent update.
+
+〓Version Update Bug Fixes〓
+
+Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of "Fisher of Hidden Depths" or "Lord of the Hidden Depths: Whisperer of Nightmares" took damage, there was a small chance that the DMG value would appear abnormal.
+
+-----
+
 # [Event Wish "Ya-hoho! Compendium" - Boosted Drop Rate for "Augur of Wonders" Linnea (Geo)!](archive/21632.md)
 ## Event Wish - Ya-hoho! Compendium
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/dedbc6e9ac1001f40ad19d3041e1f292_1032846630611093680_transformed.jpg)
