@@ -590,34 +590,6 @@ Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of
 
 -----
 
-# ["Surveying & Mapping Studies" Event: A Fun Surveying Challenge](archive/21639.md)
-## Surveying & Mapping Studies
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/43b94660bb1e24bceec03dfe19efc2d4_2129404444544383903_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/25/f6ac2f188625b1b0915c690e60f322d4_6381747608011888584_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/04/10 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/20 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● In the challenge, Travelers need to locate the calibration target through methods such as activating the compass and finding reference points, then mark its position as accurately as possible on the special map.
-
-● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
-
------
-
 # [The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~](archive/21656.md)
 ## "Trail of Footsteps" — Genshin Impact Web Event Update!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/06bf1115b057f9a3fcbb07bea3d38858_1539629029696382482_transformed.jpg)
@@ -651,6 +623,34 @@ During the event, Travelers can complete web tasks to claim rewards such as Prim
 3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 *This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# ["Surveying & Mapping Studies" Event: A Fun Surveying Challenge](archive/21639.md)
+## Surveying & Mapping Studies
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/43b94660bb1e24bceec03dfe19efc2d4_2129404444544383903_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/25/f6ac2f188625b1b0915c690e60f322d4_6381747608011888584_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/04/10 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/20 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● In the challenge, Travelers need to locate the calibration target through methods such as activating the compass and finding reference points, then mark its position as accurately as possible on the special map.
+
+● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
 
 -----
 
@@ -838,38 +838,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna VI"
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
-
------
-
 # ["Scaled Edge Season" Season Opening Announcement](archive/21653.md)
 ## Scaled Edge Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/605b443bff6ee1a789185c4d922ff7c2_2747880350692533336.jpg)
@@ -1020,6 +988,38 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna VI"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
