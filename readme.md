@@ -582,7 +582,7 @@ Currently, under specific circumstances, when using voice features in Miliastra 
 
 〓<t class="t_gl" contenteditable="false">2026/04/09 18:35</t> Update Details〓
 
-Fixes an issue in the Temple of Space whereby an enemy would respawn abnormally in a specific location.
+Fixes an issue in the Temple of Space whereby enemy drops would be abnormal in a specific location.
 
 〓<t class="t_gl" contenteditable="false">2026/04/08 21:50</t> Update Details〓
 
