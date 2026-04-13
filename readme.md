@@ -576,9 +576,13 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-〓Known Issues〓
+〓<t class="t_gl" contenteditable="false">2026/04/13 11:25</t> Update Details〓
 
-Currently, under specific circumstances, when using voice features in Miliastra Wonderland on mobile or console devices, there is a chance that game audio may abnormally stutter or cut out. This issue will be fixed in a subsequent update.
+- Fixes an issue whereby, under certain circumstances, game audio would abnormally stutter or cut out when using the voice feature in "Miliastra Wonderland" on mobile devices.
+
+Travelers who encounter this issue can resolve it by updating the game via their device's app store, or by downloading the latest installation package from the official website and installing it over the current version. Console issues will be fixed in a subsequent update.
+
+- Fixes an issue in the Miliastra Wonderland Lobby whereby characters from Teyvat could trigger incorrect idle animation(s).
 
 〓<t class="t_gl" contenteditable="false">2026/04/10 11:15</t> Update Details〓
 
