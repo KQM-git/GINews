@@ -576,6 +576,28 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
+〓Known Issues〓
+
+Currently, under certain circumstances, when applying filters in the Miliastra Wonderland's "Search Wonderlands" interface, there is a chance that abnormal filtering results will appear.
+
+Travelers who encounter this issue can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again as a temporary fix. This issue will be fixed in a future version.
+
+〓<t class="t_gl" contenteditable="false">2026/04/16 16:15</t> Update Details〓
+
+- Fixes an issue where, under certain circumstances, the Traveler's Exploration Progress at the Temple of Space was not updated in accordance with actual exploration progress in the "Temple of Space: Memory Core" interface.
+
+- Fixes an issue where, under certain circumstances, the interactive button for certain "World in a Painting" gameplay in the Luyang Academy area of the Temple of Space might fail to appear and make it impossible for Travelers to complete the gameplay.
+
+- Fixes an issue whereby, under certain circumstances, Dex could not be commanded for drag interactions in the "Temple of Space" area, preventing certain quests and gameplay from being completed.
+
+- Fixes a Japanese-language localization error in the tutorial for the "Surveying & Mapping Studies" event gameplay.
+
+- Fixes certain Japanese-language localization errors and text display issues in the Story Quests, dialogue, and World Quests in the Version "Luna VI" update.
+
+- Fixes an issue where the English voice-over of the Sucrose did not match her idle animation.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issue.
+
 〓<t class="t_gl" contenteditable="false">2026/04/13 11:25</t> Update Details〓
 
 - Fixes an issue whereby, under certain circumstances, game audio would abnormally stutter or cut out when using the voice feature in "Miliastra Wonderland" on mobile devices.
