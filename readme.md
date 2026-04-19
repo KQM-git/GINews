@@ -730,34 +730,6 @@ During the event, Travelers can complete web tasks to claim rewards such as Prim
 
 -----
 
-# ["Surveying & Mapping Studies" Event: A Fun Surveying Challenge](archive/21639.md)
-## Surveying & Mapping Studies
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/43b94660bb1e24bceec03dfe19efc2d4_2129404444544383903_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/25/f6ac2f188625b1b0915c690e60f322d4_6381747608011888584_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/04/10 10:00</t> – <t class="t_lc" contenteditable="false">2026/04/20 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● In the challenge, Travelers need to locate the calibration target through methods such as activating the compass and finding reference points, then mark its position as accurately as possible on the special map.
-
-● On the first day of the event, 2 stages will be unlocked. Subsequently, 1 new stage will be unlocked each day, for a total of 6 stages.
-
------
-
 # [Event Wish "Ya-hoho! Compendium" - Boosted Drop Rate for "Augur of Wonders" Linnea (Geo)!](archive/21632.md)
 ## Event Wish - Ya-hoho! Compendium
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/dedbc6e9ac1001f40ad19d3041e1f292_1032846630611093680_transformed.jpg)
