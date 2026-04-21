@@ -634,42 +634,6 @@ Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of
 
 -----
 
-# [The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~](archive/21656.md)
-## "Trail of Footsteps" — Genshin Impact Web Event Update!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/06bf1115b057f9a3fcbb07bea3d38858_1539629029696382482_transformed.jpg)
-
-The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260408land-gmdt0n/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260408tile&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/04/08 – <t class="t_gl" contenteditable="false">2026/04/21 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, Travelers can complete web tasks to claim rewards such as Primogems and in-game scene wallpapers. For specific quest details, please refer to the event page.
-
-※ There may be a delay of 1 to 2 hours in the data collection process. If the mission progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
