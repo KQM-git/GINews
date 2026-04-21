@@ -634,6 +634,42 @@ Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of
 
 -----
 
+# [The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~](archive/21656.md)
+## "Trail of Footsteps" — Genshin Impact Web Event Update!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/06bf1115b057f9a3fcbb07bea3d38858_1539629029696382482_transformed.jpg)
+
+The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260408land-gmdt0n/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260408tile&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/04/08 – <t class="t_gl" contenteditable="false">2026/04/21 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description〓
+
+During the event, Travelers can complete web tasks to claim rewards such as Primogems and in-game scene wallpapers. For specific quest details, please refer to the event page.
+
+※ There may be a delay of 1 to 2 hours in the data collection process. If the mission progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
@@ -691,42 +727,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
 
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
-# [The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~](archive/21656.md)
-## "Trail of Footsteps" — Genshin Impact Web Event Update!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/06bf1115b057f9a3fcbb07bea3d38858_1539629029696382482_transformed.jpg)
-
-The "Trail of Footsteps" web event is now available, come explore new areas and continue your adventure in Version "Luna VI"~
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260408land-gmdt0n/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260408tile&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/04/08 – <t class="t_gl" contenteditable="false">2026/04/21 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, Travelers can complete web tasks to claim rewards such as Primogems and in-game scene wallpapers. For specific quest details, please refer to the event page.
-
-※ There may be a delay of 1 to 2 hours in the data collection process. If the mission progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-*This web event is provided purely for entertainment. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
@@ -886,34 +886,6 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 -----
 
-# ["Homecoming Chronicle" Event Details](archive/21638.md)
-## Homecoming Chronicle
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/37e1ea0ad496d9ff851820ba79b2611d_8926941495874687819_transformed.jpg)
-
-Travelers can earn rich rewards in "Homecoming Chronicle" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Homecoming" and Furnishing Blueprint "All Fangs and Snarls" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/05/18 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
 # ["Scaled Edge Season" Season Opening Announcement](archive/21653.md)
 ## Scaled Edge Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/605b443bff6ee1a789185c4d922ff7c2_2747880350692533336.jpg)
@@ -1064,6 +1036,34 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Homecoming Chronicle" Event Details](archive/21638.md)
+## Homecoming Chronicle
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/37e1ea0ad496d9ff851820ba79b2611d_8926941495874687819_transformed.jpg)
+
+Travelers can earn rich rewards in "Homecoming Chronicle" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Homecoming" and Furnishing Blueprint "All Fangs and Snarls" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/05/18 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
 
 -----
 
