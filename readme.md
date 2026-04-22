@@ -820,36 +820,6 @@ Complete the Archon Quest: Song of the Welkin Moon: Act IV — "An Elegy for Fad
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 48 Available for a Limited Time](archive/21637.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/ece5593f190aed923226e965fc8c4c11_6763650416861022912_transformed.jpg)
-
-Round 48 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/04/22 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/04/22 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # ["Scaled Edge Season" Season Opening Announcement](archive/21653.md)
 ## Scaled Edge Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/605b443bff6ee1a789185c4d922ff7c2_2747880350692533336.jpg)
