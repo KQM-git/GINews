@@ -702,6 +702,10 @@ Currently, under certain circumstances, when applying filters in the Miliastra W
 
 Travelers who encounter this issue can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again as a temporary fix. This issue will be fixed in a future version.
 
+〓<t class="t_gl" contenteditable="false">2026/04/24 18:45</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, a red notification dot would still appear in the Adventurer Handbook > Commissions interface even when there were no rewards available to claim.
+
 〓<t class="t_gl" contenteditable="false">2026/04/23 16:15</t> Update Details〓
 
 - Updates resources related to subsequent events.
