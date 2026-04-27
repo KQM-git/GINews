@@ -1,3 +1,17 @@
+# [New Content Overview](archive/21677.md)
+## Version "Luna VI" Now Available
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/7a7f9491b251b6544602c7928f29446b_1537255807747852699_transformed.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/496ad0f478cfc83de20509a044bc31aa_557503720399870345_transformed.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/b210d5465c0a4061be027505ec250754_60477357621514784_transformed.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/b0b3a3f15534bf45d7bf1977d0665dad_7716071368835331574_transformed.png)
+
+-----
+
 # ["Where Waves Meet the Reef" Event: Take Part to Invite "Windthreading Shadow" Jahoda (Anemo)](archive/21640.md)
 ## Where Waves Meet the Reef
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/57520d3c6b9753602b7aef48f7b2f5ab_7490849639220008413_transformed.jpg)
@@ -119,20 +133,6 @@ Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [New Content Overview](archive/21677.md)
-## Version "Luna VI" Now Available
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/7a7f9491b251b6544602c7928f29446b_1537255807747852699_transformed.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/496ad0f478cfc83de20509a044bc31aa_557503720399870345_transformed.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/b210d5465c0a4061be027505ec250754_60477357621514784_transformed.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/07/b0b3a3f15534bf45d7bf1977d0665dad_7716071368835331574_transformed.png)
 
 -----
 
