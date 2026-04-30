@@ -742,6 +742,14 @@ Currently, under certain circumstances, when applying filters in the Miliastra W
 
 Travelers who encounter this issue can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again as a temporary fix. This issue will be fixed in a future version.
 
+〓<t class="t_gl" contenteditable="false">2026/04/30 11:20</t> Update Details〓
+
+Fixes an issue whereby certain devices with PowerVR GPUs (such as those using the Dimensity 930, Dimensity 7020, and Dimensity 7025 Ultra) could crash unexpectedly during specific quests or scenarios.
+
+Note: Devices with PowerVR GPUs are no longer part of the game's supported specifications. Although this update fixes the crash issue, long-term stability cannot be fully guaranteed due to hardware limitations. Issues such as frequent stuttering or crashes may still occur.
+
+If your device does not meet the supported specifications and you frequently experience crashes or stuttering, we recommend updating your device's system software or playing through other methods, such as Genshin Impact · Cloud.
+
 〓<t class="t_gl" contenteditable="false">2026/04/24 18:45</t> Update Details〓
 
 Fixes an issue whereby, under certain circumstances, a red notification dot would still appear in the Adventurer Handbook > Commissions interface even when there were no rewards available to claim.
