@@ -140,34 +140,6 @@ Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst)!](archive/21643.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/eb193e24f66421c42fd91e7f87ca7bbb_3298897667912661934_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | Nightweaver's Looking Glass (Catalyst)  Reliquary of Truth (Catalyst) | Dawning Frost (Catalyst)
-^ | ^ | Sacrificial Sword (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Warbow (Bow)
-
-● During this Event Wish, the event-exclusive 5-star weapons Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst) will receive a huge drop-rate boost!
-
-● During the event, the event-exclusive 4-star weapon Dawning Frost (Catalyst), as well as the 4-star weapons Sacrificial Sword (Sword), Rainslasher (Claymore), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop rate boost!
-
-● During the event, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nightweaver's Looking Glass (Catalyst) or Reliquary of Truth (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Song of the Welkin Moon: Rondo — Augured Homecoming" Version Luna VI Update Details](archive/21676.md)
 ## Version "Luna VI" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/ba7f779445c6bea9815152774ebeebeb_5475888587327030127_transformed.jpg)
@@ -724,37 +696,29 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# [Event Wish "Dewlit Tranquility" - Chronicled Wish Now Available!](archive/21644.md)
-## Event Wish "Dewlit Tranquility"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/855422e3ba733fb2668d0ae88fcaa005_259523509283567194_transformed.jpg)
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst)!](archive/21643.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/eb193e24f66421c42fd91e7f87ca7bbb_3298897667912661934_transformed.jpg)
 
-Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
 〓Event Wish Details〓
 
-Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 --- | --- | ---
-<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> -  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "A Thousand Scents Traced" Emilie (Dendro)  "Candlebearer, Shadowhunter" Clorinde (Electro)  "Wondrous Dragonheir" Sigewinne (Hydro)  "Helm of the Radiant Rose" Navia (Geo)   "Spectacle of Phantasmagoria" Lyney (Pyro) | Absolution (Sword)
-^ | ^ | Verdict (Claymore) 
-^ | ^ | Lumidouce Elegy (Polearm)
-^ | ^ | Silvershower Heartstrings (Bow)
-^ | ^ | The First Great Magic (Bow)
+<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | Nightweaver's Looking Glass (Catalyst)  Reliquary of Truth (Catalyst) | Dawning Frost (Catalyst)
+^ | ^ | Sacrificial Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Warbow (Bow)
 
-● During this Event Wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Dewlit Tranquility" Event Wish of this period!
+● During this Event Wish, the event-exclusive 5-star weapons Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst) will receive a huge drop-rate boost!
 
-● During this event, the event-exclusive 5-star characters "A Thousand Scents Traced" Emilie (Dendro), "Candlebearer, Shadowhunter" Clorinde (Electro), "Wondrous Dragonheir" Sigewinne (Hydro), "Helm of the Radiant Rose" Navia (Geo), and "Spectacle of Phantasmagoria" Lyney (Pyro), as well as the event-exclusive 5-star weapons Absolution (Sword), Verdict (Claymore), Lumidouce Elegy (Polearm), Silvershower Heartstrings (Bow), The First Great Magic (Bow), and event-exclusive 4-star weapons The Dockhand's Assistant (Sword), Portable Power Saw (Claymore), Prospector's Drill (Polearm), and Range Gauge (Bow) will be available for a limited time only.
+● During the event, the event-exclusive 4-star weapon Dawning Frost (Catalyst), as well as the 4-star weapons Sacrificial Sword (Sword), Rainslasher (Claymore), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop rate boost!
 
-● All 5-star and 4-star items in this Chronicled Wish:
+● During the event, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nightweaver's Looking Glass (Catalyst) or Reliquary of Truth (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
 
-5-Star Characters: Emilie, Clorinde, Sigewinne, Navia, and Lyney
-
-5-Star Weapons: Absolution, Verdict, Lumidouce Elegy, Silvershower Heartstrings, and The First Great Magic
-
-4-Star Characters: Chevreuse, Charlotte, Freminet, and Lynette
-
-4-Star Weapons: The Dockhand's Assistant, Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Portable Power Saw, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Prospector's Drill, Favonius Lance, Dragon's Bane, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Range Gauge, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
-
-※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
@@ -843,6 +807,42 @@ Fixes an issue whereby, under certain circumstances, after returning to Teyvat f
 〓Version Update Bug Fixes〓
 
 Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of "Fisher of Hidden Depths" or "Lord of the Hidden Depths: Whisperer of Nightmares" took damage, there was a small chance that the DMG value would appear abnormal.
+
+-----
+
+# [Event Wish "Dewlit Tranquility" - Chronicled Wish Now Available!](archive/21644.md)
+## Event Wish "Dewlit Tranquility"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/855422e3ba733fb2668d0ae88fcaa005_259523509283567194_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the Chronicled Wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> -  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "A Thousand Scents Traced" Emilie (Dendro)  "Candlebearer, Shadowhunter" Clorinde (Electro)  "Wondrous Dragonheir" Sigewinne (Hydro)  "Helm of the Radiant Rose" Navia (Geo)   "Spectacle of Phantasmagoria" Lyney (Pyro) | Absolution (Sword)
+^ | ^ | Verdict (Claymore) 
+^ | ^ | Lumidouce Elegy (Polearm)
+^ | ^ | Silvershower Heartstrings (Bow)
+^ | ^ | The First Great Magic (Bow)
+
+● During this Event Wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Dewlit Tranquility" Event Wish of this period!
+
+● During this event, the event-exclusive 5-star characters "A Thousand Scents Traced" Emilie (Dendro), "Candlebearer, Shadowhunter" Clorinde (Electro), "Wondrous Dragonheir" Sigewinne (Hydro), "Helm of the Radiant Rose" Navia (Geo), and "Spectacle of Phantasmagoria" Lyney (Pyro), as well as the event-exclusive 5-star weapons Absolution (Sword), Verdict (Claymore), Lumidouce Elegy (Polearm), Silvershower Heartstrings (Bow), The First Great Magic (Bow), and event-exclusive 4-star weapons The Dockhand's Assistant (Sword), Portable Power Saw (Claymore), Prospector's Drill (Polearm), and Range Gauge (Bow) will be available for a limited time only.
+
+● All 5-star and 4-star items in this Chronicled Wish:
+
+5-Star Characters: Emilie, Clorinde, Sigewinne, Navia, and Lyney
+
+5-Star Weapons: Absolution, Verdict, Lumidouce Elegy, Silvershower Heartstrings, and The First Great Magic
+
+4-Star Characters: Chevreuse, Charlotte, Freminet, and Lynette
+
+4-Star Weapons: The Dockhand's Assistant, Lion's Roar, Sacrificial Sword, The Flute, Favonius Sword, Portable Power Saw, Rainslasher, Sacrificial Greatsword, The Bell, Favonius Greatsword, Prospector's Drill, Favonius Lance, Dragon's Bane, Eye of Perception, Sacrificial Fragments, The Widsith, Favonius Codex, Range Gauge, Rust, Sacrificial Bow, The Stringless, and Favonius Warbow
+
+※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -945,20 +945,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
 
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
-# ["The Stilled Interstice of a Thousand Winds" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21636.md)
-## The Stilled Interstice of a Thousand Winds
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/b69e5ebb007dccbf1714149a21680bf6_343848542843852008_transformed.jpg)
-
-Version "Luna VI" introduces the following new areas: Windrest Peak and Temple of Space.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-〓Specified Duration〓
-
-After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
 
 -----
 
@@ -1122,6 +1108,20 @@ Manekina Cosmetic "Frosty Roar"
 ● After the Version Luna VI update, the new Elite (4-star) Set Catalog "Tart Berry Muse" and 70 Exceptional (3-star) Component Catalogs will be added to the "Encounter Echoes" Standard Ode.
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["The Stilled Interstice of a Thousand Winds" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21636.md)
+## The Stilled Interstice of a Thousand Winds
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/b69e5ebb007dccbf1714149a21680bf6_343848542843852008_transformed.jpg)
+
+Version "Luna VI" introduces the following new areas: Windrest Peak and Temple of Space.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+〓Specified Duration〓
+
+After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
 
 -----
 
