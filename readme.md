@@ -12,154 +12,6 @@
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/05/11 04:00</t> - <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# ["Rapid Capture" Event: Flash Cut Filming](archive/21645.md)
-## Rapid Capture
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/e015c564ec7d03521eaae9df445c0a00_2968819994950339704_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/737004548c33345eb9bf05a80c6876f0_2816423559411288907_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/05/06 10:00</t> – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, create Flash Cuts according to the theme given by filming individual shots and then putting them together. You may choose between different cast members and scenes for your filming. Complete filming tasks to earn rewards.
-
-● When shooting for the first time, the character assignments for each scene will be subject to certain restrictions. Completing a shoot unlocks Free Shoot Mode, which allows you to freely assign characters for each scene. You may select the scenes and cast members based on your preferences.
-
-● You can view your completed works in Shoot Record. There, you can also view your friends' works and popular works from other Travelers. Your works will also be displayed to others in the same way.
-
-● At event start, 1 stage will be unlocked. Then, subsequently, 1 new stage will be unlocked each day, for a total of 7 stages.
-
------
-
-# ["Where Waves Meet the Reef" Event: Take Part to Invite "Windthreading Shadow" Jahoda (Anemo)](archive/21640.md)
-## Where Waves Meet the Reef
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/57520d3c6b9753602b7aef48f7b2f5ab_7490849639220008413_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/05/4cbd36688a9acedb7d8d07940302e5b7_1428287303340235045_transformed.png)
-
-〓Event Duration〓
-
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/04/27 10:00</t> | <t class="t_lc" contenteditable="false">2026/05/14 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2026/04/29 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/01 04:00</t> | ^
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● The event comprises three game formats: "Thwack 'n Whack Defense Bots," "Pneumousia Barrage Countermeasure," and "Fire Support Assault."
-
-● In "Thwack 'n Whack Defense Bots," deploy and combine various mechanisms to defend your stronghold entrance against the enemy.
-
-● In "Pneumousia Barrage Countermeasure," use the Experimental Shield to absorb incoming projectiles of the same alignment and accumulate Energy to beat the barrage-firing devices.
-
-● In "Fire Support Assault," once fire support is ready, guide the Guizhong Ballista's long-range artillery to rain down a heavy barrage upon the enemy.
-
-● During the event, meet the specified conditions to unlock the corresponding "Tales of Many" storyline quests. Complete these quests to obtain Primogems and other rewards.
-
-● Complete the event's various challenges to gain Joint Exhibition Popularity. When your Joint Exhibition Popularity reaches the required level, you may invite "Windthreading Shadow" Jahoda (Anemo) to join your party. You can also obtain Primogems, Crown of Insight, and other rewards.
-
------
-
-# [Event Wish "Moonsong of the Groves" - Boosted Drop Rate for "Evermoon's Sacrament Song" Lauma (Dendro)!](archive/21641.md)
-## Event Wish "Moonsong of the Groves"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f3a37aa2d3479a183bf61c239deaf969_21525370984196430_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "Evermoon's Sacrament Song" Lauma (Dendro) | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Cat Upon the Eaves" Kirara (Dendro)
-^ | ^ | "Windthreading Shadow" Jahoda (Anemo)
-
-● During this Event Wish, the event-exclusive 5-star character "Evermoon's Sacrament Song" Lauma (Dendro) will receive a huge drop rate boost!
-
-● During this Event Wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Cat Upon the Eaves" Kirara (Dendro), and "Windthreading Shadow" Jahoda (Anemo) will receive a huge drop rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Temptation of the Crimson Sands": Boosted drop rate for "Secret Beneath the Sands" Nefer (Dendro)!](archive/21642.md)
-## Event Wish "Temptation of the Crimson Sands"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/3e229775a4f9e74dc62e149509a19412_2243546387186807907_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "Secret Beneath the Sands" Nefer (Dendro) | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Cat Upon the Eaves" Kirara (Dendro)
-^ | ^ | "Windthreading Shadow" Jahoda (Anemo)
-
-● During this Event Wish, the event-exclusive 5-star character "Secret Beneath the Sands" Nefer (Dendro) will receive a huge drop rate boost!
-
-● During this Event Wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Cat Upon the Eaves" Kirara (Dendro), and "Windthreading Shadow" Jahoda (Anemo) will receive a huge drop rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Song of the Welkin Moon: Rondo — Augured Homecoming" Version Luna VI Update Details](archive/21676.md)
 ## Version "Luna VI" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/07/ba7f779445c6bea9815152774ebeebeb_5475888587327030127_transformed.jpg)
@@ -716,29 +568,149 @@ Text-related fixes and optimizations in English include:
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst)!](archive/21643.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/eb193e24f66421c42fd91e7f87ca7bbb_3298897667912661934_transformed.jpg)
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
 
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/05/11 04:00</t> - <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
+
+〓Eligibility〓
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+〓Event Details〓
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
+
+-----
+
+# ["Rapid Capture" Event: Flash Cut Filming](archive/21645.md)
+## Rapid Capture
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/e015c564ec7d03521eaae9df445c0a00_2968819994950339704_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/737004548c33345eb9bf05a80c6876f0_2816423559411288907_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/05/06 10:00</t> – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, create Flash Cuts according to the theme given by filming individual shots and then putting them together. You may choose between different cast members and scenes for your filming. Complete filming tasks to earn rewards.
+
+● When shooting for the first time, the character assignments for each scene will be subject to certain restrictions. Completing a shoot unlocks Free Shoot Mode, which allows you to freely assign characters for each scene. You may select the scenes and cast members based on your preferences.
+
+● You can view your completed works in Shoot Record. There, you can also view your friends' works and popular works from other Travelers. Your works will also be displayed to others in the same way.
+
+● At event start, 1 stage will be unlocked. Then, subsequently, 1 new stage will be unlocked each day, for a total of 7 stages.
+
+-----
+
+# ["Where Waves Meet the Reef" Event: Take Part to Invite "Windthreading Shadow" Jahoda (Anemo)](archive/21640.md)
+## Where Waves Meet the Reef
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/57520d3c6b9753602b7aef48f7b2f5ab_7490849639220008413_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/05/4cbd36688a9acedb7d8d07940302e5b7_1428287303340235045_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/04/27 10:00</t> | <t class="t_lc" contenteditable="false">2026/05/14 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/04/29 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/01 04:00</t> | ^
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● The event comprises three game formats: "Thwack 'n Whack Defense Bots," "Pneumousia Barrage Countermeasure," and "Fire Support Assault."
+
+● In "Thwack 'n Whack Defense Bots," deploy and combine various mechanisms to defend your stronghold entrance against the enemy.
+
+● In "Pneumousia Barrage Countermeasure," use the Experimental Shield to absorb incoming projectiles of the same alignment and accumulate Energy to beat the barrage-firing devices.
+
+● In "Fire Support Assault," once fire support is ready, guide the Guizhong Ballista's long-range artillery to rain down a heavy barrage upon the enemy.
+
+● During the event, meet the specified conditions to unlock the corresponding "Tales of Many" storyline quests. Complete these quests to obtain Primogems and other rewards.
+
+● Complete the event's various challenges to gain Joint Exhibition Popularity. When your Joint Exhibition Popularity reaches the required level, you may invite "Windthreading Shadow" Jahoda (Anemo) to join your party. You can also obtain Primogems, Crown of Insight, and other rewards.
+
+-----
+
+# [Event Wish "Moonsong of the Groves" - Boosted Drop Rate for "Evermoon's Sacrament Song" Lauma (Dendro)!](archive/21641.md)
+## Event Wish "Moonsong of the Groves"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f3a37aa2d3479a183bf61c239deaf969_21525370984196430_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
 〓Event Wish Details〓
 
-Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 --- | --- | ---
-<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | Nightweaver's Looking Glass (Catalyst)  Reliquary of Truth (Catalyst) | Dawning Frost (Catalyst)
-^ | ^ | Sacrificial Sword (Sword)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Warbow (Bow)
+<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "Evermoon's Sacrament Song" Lauma (Dendro) | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Windthreading Shadow" Jahoda (Anemo)
 
-● During this Event Wish, the event-exclusive 5-star weapons Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst) will receive a huge drop-rate boost!
+● During this Event Wish, the event-exclusive 5-star character "Evermoon's Sacrament Song" Lauma (Dendro) will receive a huge drop rate boost!
 
-● During the event, the event-exclusive 4-star weapon Dawning Frost (Catalyst), as well as the 4-star weapons Sacrificial Sword (Sword), Rainslasher (Claymore), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop rate boost!
+● During this Event Wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Cat Upon the Eaves" Kirara (Dendro), and "Windthreading Shadow" Jahoda (Anemo) will receive a huge drop rate boost!
 
-● During the event, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nightweaver's Looking Glass (Catalyst) or Reliquary of Truth (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Temptation of the Crimson Sands": Boosted drop rate for "Secret Beneath the Sands" Nefer (Dendro)!](archive/21642.md)
+## Event Wish "Temptation of the Crimson Sands"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/3e229775a4f9e74dc62e149509a19412_2243546387186807907_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "Secret Beneath the Sands" Nefer (Dendro) | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Windthreading Shadow" Jahoda (Anemo)
+
+● During this Event Wish, the event-exclusive 5-star character "Secret Beneath the Sands" Nefer (Dendro) will receive a huge drop rate boost!
+
+● During this Event Wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Cat Upon the Eaves" Kirara (Dendro), and "Windthreading Shadow" Jahoda (Anemo) will receive a huge drop rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
@@ -827,6 +799,34 @@ Fixes an issue whereby, under certain circumstances, after returning to Teyvat f
 〓Version Update Bug Fixes〓
 
 Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of "Fisher of Hidden Depths" or "Lord of the Hidden Depths: Whisperer of Nightmares" took damage, there was a small chance that the DMG value would appear abnormal.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst)!](archive/21643.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/eb193e24f66421c42fd91e7f87ca7bbb_3298897667912661934_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | Nightweaver's Looking Glass (Catalyst)  Reliquary of Truth (Catalyst) | Dawning Frost (Catalyst)
+^ | ^ | Sacrificial Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Favonius Warbow (Bow)
+
+● During this Event Wish, the event-exclusive 5-star weapons Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst) will receive a huge drop-rate boost!
+
+● During the event, the event-exclusive 4-star weapon Dawning Frost (Catalyst), as well as the 4-star weapons Sacrificial Sword (Sword), Rainslasher (Claymore), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop rate boost!
+
+● During the event, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nightweaver's Looking Glass (Catalyst) or Reliquary of Truth (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
