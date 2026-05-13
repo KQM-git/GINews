@@ -620,46 +620,6 @@ and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Where Waves Meet the Reef" Event: Take Part to Invite "Windthreading Shadow" Jahoda (Anemo)](archive/21640.md)
-## Where Waves Meet the Reef
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/57520d3c6b9753602b7aef48f7b2f5ab_7490849639220008413_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/05/4cbd36688a9acedb7d8d07940302e5b7_1428287303340235045_transformed.png)
-
-〓Event Duration〓
-
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/04/27 10:00</t> | <t class="t_lc" contenteditable="false">2026/05/14 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2026/04/29 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/01 04:00</t> | ^
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● The event comprises three game formats: "Thwack 'n Whack Defense Bots," "Pneumousia Barrage Countermeasure," and "Fire Support Assault."
-
-● In "Thwack 'n Whack Defense Bots," deploy and combine various mechanisms to defend your stronghold entrance against the enemy.
-
-● In "Pneumousia Barrage Countermeasure," use the Experimental Shield to absorb incoming projectiles of the same alignment and accumulate Energy to beat the barrage-firing devices.
-
-● In "Fire Support Assault," once fire support is ready, guide the Guizhong Ballista's long-range artillery to rain down a heavy barrage upon the enemy.
-
-● During the event, meet the specified conditions to unlock the corresponding "Tales of Many" storyline quests. Complete these quests to obtain Primogems and other rewards.
-
-● Complete the event's various challenges to gain Joint Exhibition Popularity. When your Joint Exhibition Popularity reaches the required level, you may invite "Windthreading Shadow" Jahoda (Anemo) to join your party. You can also obtain Primogems, Crown of Insight, and other rewards.
-
------
-
 # [Event Wish "Moonsong of the Groves" - Boosted Drop Rate for "Evermoon's Sacrament Song" Lauma (Dendro)!](archive/21641.md)
 ## Event Wish "Moonsong of the Groves"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f3a37aa2d3479a183bf61c239deaf969_21525370984196430_transformed.jpg)
