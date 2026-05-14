@@ -648,34 +648,6 @@ Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 
 -----
 
-# [Event Wish "Temptation of the Crimson Sands": Boosted drop rate for "Secret Beneath the Sands" Nefer (Dendro)!](archive/21642.md)
-## Event Wish "Temptation of the Crimson Sands"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/3e229775a4f9e74dc62e149509a19412_2243546387186807907_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "Secret Beneath the Sands" Nefer (Dendro) | "Juvenile Galant" Xingqiu (Hydro)
-^ | ^ | "Cat Upon the Eaves" Kirara (Dendro)
-^ | ^ | "Windthreading Shadow" Jahoda (Anemo)
-
-● During this Event Wish, the event-exclusive 5-star character "Secret Beneath the Sands" Nefer (Dendro) will receive a huge drop rate boost!
-
-● During this Event Wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Cat Upon the Eaves" Kirara (Dendro), and "Windthreading Shadow" Jahoda (Anemo) will receive a huge drop rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Version Details - What's New ](archive/21682.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -762,6 +734,34 @@ Fixes an issue whereby, under certain circumstances, when the Deepdark Shield of
 
 -----
 
+# [Event Wish "Temptation of the Crimson Sands": Boosted drop rate for "Secret Beneath the Sands" Nefer (Dendro)!](archive/21642.md)
+## Event Wish "Temptation of the Crimson Sands"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/3e229775a4f9e74dc62e149509a19412_2243546387186807907_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/04/28 18:00</t> –  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | "Secret Beneath the Sands" Nefer (Dendro) | "Juvenile Galant" Xingqiu (Hydro)
+^ | ^ | "Cat Upon the Eaves" Kirara (Dendro)
+^ | ^ | "Windthreading Shadow" Jahoda (Anemo)
+
+● During this Event Wish, the event-exclusive 5-star character "Secret Beneath the Sands" Nefer (Dendro) will receive a huge drop rate boost!
+
+● During this Event Wish, the 4-star characters "Juvenile Galant" Xingqiu (Hydro), "Cat Upon the Eaves" Kirara (Dendro), and "Windthreading Shadow" Jahoda (Anemo) will receive a huge drop rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers that complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nightweaver's Looking Glass (Catalyst) and Reliquary of Truth (Catalyst)!](archive/21643.md)
 ## Event Wish - Epitome Invocation
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/eb193e24f66421c42fd91e7f87ca7bbb_3298897667912661934_transformed.jpg)
@@ -823,66 +823,6 @@ Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapo
 ※ This is for "Chronicled Wish." The wish guarantee count is accumulated within "Chronicled Wish" only and is independent of the guarantee counts of other types of wishes.
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
-## Stygian Onslaught
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/04/15 10:00</t> - <t class="t_lc" contenteditable="false">2026/05/19 03:59</t>
-
-Disturbance Outbreak: <t class="t_lc" contenteditable="false">2026/04/15 10:00</t> - <t class="t_lc" contenteditable="false">2026/04/25 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
-
-● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
-
-The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
-
-From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
-
-● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
-
-"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
-
-There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
-
-Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
-
-● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
-
-During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
-
-Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
-
-After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
-
-● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
-
-Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
-
-● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
-
-"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
-
-"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
 
 -----
 
@@ -1046,6 +986,66 @@ Manekina Cosmetic "Frosty Roar"
 ● After the Version Luna VI update, the new Elite (4-star) Set Catalog "Tart Berry Muse" and 70 Exceptional (3-star) Component Catalogs will be added to the "Encounter Echoes" Standard Ode.
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
+## Stygian Onslaught
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/04/15 10:00</t> - <t class="t_lc" contenteditable="false">2026/05/19 03:59</t>
+
+Disturbance Outbreak: <t class="t_lc" contenteditable="false">2026/04/15 10:00</t> - <t class="t_lc" contenteditable="false">2026/04/25 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
+
+〓Event Details〓
+
+● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
+
+● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
+
+The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
+
+From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
+
+● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
+
+"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
+
+There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
+
+Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
+
+● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
+
+During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
+
+Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
+
+After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
+
+● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
+
+Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
+
+● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
+
+"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
+
+"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
 
 -----
 
