@@ -604,58 +604,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/05/11 04:00</t> - <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
-# ["Rapid Capture" Event: Flash Cut Filming](archive/21645.md)
-## Rapid Capture
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/e015c564ec7d03521eaae9df445c0a00_2968819994950339704_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/737004548c33345eb9bf05a80c6876f0_2816423559411288907_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/05/06 10:00</t> – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete Archon Quest Chapter IV: Act V "Masquerade of the Guilty" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, create Flash Cuts according to the theme given by filming individual shots and then putting them together. You may choose between different cast members and scenes for your filming. Complete filming tasks to earn rewards.
-
-● When shooting for the first time, the character assignments for each scene will be subject to certain restrictions. Completing a shoot unlocks Free Shoot Mode, which allows you to freely assign characters for each scene. You may select the scenes and cast members based on your preferences.
-
-● You can view your completed works in Shoot Record. There, you can also view your friends' works and popular works from other Travelers. Your works will also be displayed to others in the same way.
-
-● At event start, 1 stage will be unlocked. Then, subsequently, 1 new stage will be unlocked each day, for a total of 7 stages.
-
------
-
 # [Event Wish "Moonsong of the Groves" - Boosted Drop Rate for "Evermoon's Sacrament Song" Lauma (Dendro)!](archive/21641.md)
 ## Event Wish "Moonsong of the Groves"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f3a37aa2d3479a183bf61c239deaf969_21525370984196430_transformed.jpg)
@@ -974,81 +922,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# ["Wonderland Treasures: Scales Aflame" – New Manekin Cosmetics Now Available](archive/21650.md)
-## Wonderland Treasures: Scales Aflame
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/5582a2537c336c3e55a308ca0c3f4e0d_2191748647766239385_transformed.jpg)
-
-During the event, you can obtain your favorite Manekin Cosmetics through the "Scales Aflame" Event Ode, Scaled Edge Chronicles, or the Miliastra Shop.
-
-Play Popular Miliastra Wonderland stages with your new Sets or Try-On Capes equipped, and who knows, you might even earn yourself a Primogems ×60 reward!
-
-〓Event Ode Details〓
-
-Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetic
---- | --- | ---
-After the Version "Luna VI" update  —  <t class="t_lc" contenteditable="false">2026/05/19 14:59</t> | Scaleblade Chronicles | Sleek Sprint
-^ | ^ | Cheerful Playmate
-^ | ^ | Blazing Ambition
-
-● During the event period, the event-exclusive Legendary (5-star) Cosmetic "Scaleblade Chronicles," as well as the Elite (4-star) Cosmetics "Sleek Sprint," "Cheerful Playmate," and "Blazing Ambition" will be available in Manekina's Cosmetics Event Ode!
-
-● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Scaleblade Chronicles" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Scaleblade Chronicles: Dark Flame."
-
-※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
-
-※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
-
-〓Miliastra Shop〓
-
-Cosmetic Availability Period | Cosmetic Availability Period
---- | ---
-After the Version "Luna VI" update  Available for 3 consecutive versions | After the Version "Luna VI" update  Available for 3 consecutive versions
-Limited-Time Discount Period | Limited-Time Discount Period
-After the Version "Luna VI" update —  <t class="t_lc" contenteditable="false">2026/05/18 03:59</t> | After the Version "Luna VI" update —  <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-Elite (4-Star) Cosmetic | Exceptional (3-Star) Cosmetic
-Manekin Cosmetic "Wicked Warlock"
-
-Manekina Cosmetic "Wicked Warlock" | Manekin Cosmetic "Resolute Spirit"
-
-Manekina Cosmetic "Resolute Spirit"
-Manekin Cosmetic "Owl Envoy"
-
-Manekina Cosmetic "Owl Envoy" | Manekin Cosmetic "Scorching Roar"
-
-Manekina Cosmetic "Frosty Roar"
-
-● After the Version Luna VI update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
-
-● New Cosmetic Sets for Version Luna VI! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Resolute Spirit" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Scorching Roar" and "Frosty Roar" Cosmetic Sets are available for Chronal Nexus ×240 during the discount period and will revert to Chronal Nexus ×300 once the offer ends.
-
-● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Resolute Spirit" is priced at Chronal Nexus ×240. In addition, the "Scorching Roar" and "Frosty Roar" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
-
-● After the Version "Luna VI" update, more information on available Facial Makeup will be provided in the Miliastra Shop.
-
-● You can check your purchased Manekina Cosmetics via Paimon Menu > Cosmetic Plans.
-
-〓Scaled Edge Chronicles〓
-
-● Event Duration: After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the event-exclusive (4-Star) Cosmetic "Lazurite Sword"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive Lobby "Beacon Front: Blazing Realm."
-
-※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
-
-※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/05/18 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
-
-● After unlocking "Chronicles of the Realms" or "Epic of the Realms," you will unlock the Battle Pass Boon effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking "Gnostic Hymn" or "Gnostic Chorus" will grant the Chronicle Boon effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
-〓New Standard Ode Set Catalog〓
-
-● After the Version Luna VI update, the new Elite (4-star) Set Catalog "Tart Berry Muse" and 70 Exceptional (3-star) Component Catalogs will be added to the "Encounter Echoes" Standard Ode.
-
-※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
-
------
-
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
@@ -1120,34 +993,6 @@ Complete the corresponding exploration missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
-
------
-
-# ["Homecoming Chronicle" Event Details](archive/21638.md)
-## Homecoming Chronicle
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/37e1ea0ad496d9ff851820ba79b2611d_8926941495874687819_transformed.jpg)
-
-Travelers can earn rich rewards in "Homecoming Chronicle" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Homecoming" and Furnishing Blueprint "All Fangs and Snarls" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/05/18 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/05/18 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
 
 -----
 
