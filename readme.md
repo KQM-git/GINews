@@ -915,6 +915,36 @@ Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 
 -----
 
+# ["Season of Prismatic Colors" Season Opening Announcement](archive/21690.md)
+## Season of Prismatic Colors
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/13ff0b32e9cad59289fbadac2549ee03_9014720113667630764_transformed.jpg)
+
+〓Season Duration〓
+
+Preparation Phase: After the Version "Luna VII" update – <t class="t_lc" contenteditable="false">2026/05/21 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/05/21 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/30 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/06/30 04:00</t> – End of Version "Luna VII"
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season consists of three phases: The Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
 # [Version Details - What's New ](archive/21682.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
