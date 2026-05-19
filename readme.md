@@ -1,3 +1,670 @@
+# ["Song of the Welkin Moon: Andante — Truth Amongst the Pages of Purana" Version "Luna VII" Update Details](archive/21730.md)
+## Version "Luna VII" Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/18/fa5dcb91d7c350a9764989da7c6d5199_2388800725975738423_transformed.jpg)
+
+Dear Traveler,
+
+Below are the details of the Version "Luna VII" update "Song of the Welkin Moon: Andante - Truth Amongst the Pages of Purana" and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/05/20 06:00</t>.
+
+Compensation must be claimed before the end of Version "Luna VII."
+
+Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/05/20 06:00</t>.
+
+Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2026/05/23 06:00</t>.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins <t class="t_gl" contenteditable="false">2026/05/20 06:00</t> and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+HarmonyOS: Open AppGallery and tap Update.
+
+PlayStation®: Highlight "Genshin Impact" from the Home screen, press the OPTIONS button and select "Check for Update."
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Characters
+
+<details open="true">
+<summary><span style="color: rgb(236, 73, 35);"><span style="font-size: 0.1rem;">"Clamor Within" Nicole (Pyro) </span></span><span style="font-size: 0.1rem;">(5-Star)</span></summary>
+
+◇ Vision: Pyro
+
+◇ Weapon: Catalyst
+
+◇ The Silent "Mage," the Voiceless "Angel."
+
+◆ Nicole is an off-field support who provides party-wide ATK bonus, shields, and coordinated attacks.
+
+After casting her Elemental Skill, Nicole grants the entire party the "Grace of Kenosis" ATK bonus effect to all party members and deploys a "Shield of Blazing Light." After unlocking her Ascension Talent, Nicole and her party members can upgrade this effect to "Guidance of Theosis" under different specific conditions, further increasing their ATK by 300.
+
+Casting an Elemental Burst allows the active character's attacks to summon an "Arcane Projection" when their attacks hit opponents, dealing Elemental DMG of the corresponding elemental type that is considered to be triggered by that character.
+
+◇ Hexerei: Secret Rite:
+
+After completing Hexenzirkel-related quests, Nicole will become a Hexerei character. The DMG dealt by Hexerei characters' "Arcane Projection" is increased by an amount equal to 300% of Nicole's ATK.
+
+◇ When out of combat, Nicole's Charged Attack becomes "Emissarial Guidance" if you have already obtained the current region's Treasure Compass: Calls upon Seelie to show the way, triggering an effect similar to the region's Treasure Compass.
+
+</details>
+
+<details open="true">
+<summary><span style="color: rgb(53, 170, 204);"><span style="font-size: 0.1rem;">"Sharpened Arrowhead" Lohen (Cryo) </span></span><span style="font-size: 0.1rem;">(5-Star)</span></summary>
+
+◇ Vision: Cryo
+
+◇ Weapon: Polearm
+
+◇ Vice Captain of the Knights of Favonius Ranged Company, a knight known for his unorthodox approach and fondness for unconventional tactics.
+
+◆ Lohen is a Cryo DMG dealer who thrives on competition, growing even stronger when faced with formidable opponents.
+
+After casting his Elemental Skill, Lohen switches to the Masterstroke state. In this state, his Normal, Charged, and Plunging Attacks deal Cryo DMG that cannot be overridden by other elemental infusions. Hitting enemies with Normal or Charged Attacks grants "Joy," which can be consumed to unleash his special Elemental Skill. Additionally, Lohen accumulates "Will to Win" through high DMG dealt by his teammates, which increases the DMG dealt by his special Elemental Skill and Elemental Burst.
+
+Casting Elemental Burst consumes all "Will to Win" and unleashes a rapid series of forward slashes, increasing his Cryo DMG.
+
+Additionally, after unlocking his Ascension Talent, whenever a teammate triggers a Cryo-related reaction while Lohen is in the Masterstroke state, both that character and Lohen will receive an ATK bonus for 8s.
+
+◇ Hexerei: Secret Rite:
+
+After completing Hexenzirkel-related quests, Lohen will become a Hexerei character. When casting his special Elemental Skill or Elemental Burst, if "Will to Win" is at least 50% of its maximum, Lohen's Normal Attack and Charged Attack DMG will be increased by 40% for 6s.
+
+</details>
+
+<details open="true">
+<summary><span style="color: rgb(53, 150, 151);"><span style="font-size: 0.1rem;">"Childlike Dreams Cherished" Prune (Anemo) </span></span><span style="font-size: 0.1rem;">(4-Star)</span></summary>
+
+◇ Vision: Anemo
+
+◇ Weapon: Catalyst
+
+◇ A diminutive Witch Hunter who has journeyed all the way from Nod-Krai with the singular purpose of rooting out a witch who, to hear her tell it, has committed every sin imaginable — including bullying little kids!
+
+◆ Prune is an Anemo support character who provides DMG bonuses to other teammates.
+
+After casting her Elemental Skill, Prune strikes with the "Banehunter Oathhammer," dealing Anemo DMG to enemies. If this attack triggers a Swirl reaction, she can then cast a special Elemental Skill that deals Elemental DMG based on the element involved in the Swirl.
+
+After casting her Elemental Burst, Prune summons a "Witchlure Bell" that follows the active character, continuously dealing AoE Anemo DMG to nearby enemies. After unlocking her Ascension Talent, whenever the "Witchlure Bell" triggers a Swirl reaction, the "Banehunter Oathhammer" that has undergone an Elemental Conversion will deal an additional instance of Burst DMG.
+
+Additionally, after unlocking her Ascension Talent, hitting an enemy with the "Banehunter Oathhammer" that has undergone Elemental Conversion grants nearby party members the "Tolling Rally" effect. This effect provides a DMG Bonus to the attacks of other party members based on Prune's own ATK.
+
+◇ Hexerei: Secret Rite:
+
+After completing Hexenzirkel-related quests, Prune will become a Hexerei character. While under the effect of "Tolling Rally," any Elemental Reaction triggered by a Hexerei character will increase Prune's own ATK. Furthermore, if the reaction triggered is a Swirl reaction, then that Hexerei character's ATK will be further increased.
+
+</details>
+II. New Equipment
+
+- New Weapon (Examples based on Refinement Rank 1)
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Angelos' Heptades (5-Star Catalyst)</span></summary>
+
+ATK is increased by 12%. After the equipping character creates a Shield, they gain "Pathfinder's Light" for 20s: Increases your active party member's DMG by 10% for every 1,000 ATK the equipping character has, up to a maximum of 26%. Additionally, when the equipping character creates a Shield, they will also gain "Guide's Contentment": Restores 14 Elemental Energy to the equipping character. The aforementioned effect can trigger once every 14s, and can also be triggered when all types of chests are opened outside of combat. The equipping character may trigger this effect even when they are an off-field.
+
+Hexerei: Secret Rite: When your own Hexerei characters in the party are off-field, they can still gain 50% of the DMG Bonus provided by "Pathfinder's Light."
+
+◆ The event-exclusive 5-star weapon Angelos' Heptades (Catalyst) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Disaster and Remorse (5-Star Polearm)</span></summary>
+
+After the equipping character uses an Elemental Skill, they gain "Path of Conflict" for 17s, as well as "Unforgivable" and "Irreparable" for 3s each. This effect can trigger once every 18s.
+
+Unforgivable: Increases the equipping character's Normal Attack and Charged Attack DMG by 40%.
+
+Irreparable: Increases the equipping character's Elemental Skill and Elemental Burst DMG by 40%.
+
+While Path of Conflict is in effect, when the equipping character hits an opponent with a Normal Attack or Charged Attack, Irreparable's duration will be increased by 1s. When the equipping character hits an opponent with their Elemental Skill or Elemental Burst, Unforgivable's duration will be increased by 1s. Each of the above effects can be triggered once every 0.1s. When Path of Conflict ends or the equipping character leaves the field, both Unforgivable and Irreparable will be removed.
+
+Hexerei: Secret Rite: The above DMG boosts are increased by 75%.
+
+◆ The event-exclusive 5-star weapon "Disaster and Remorse" (Polearm) can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
+
+</details>
+- New Artifact Sets
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Celestial Gift (4-Star and 5-Star)</span></summary>
+
+◇ 2-Piece Set: Energy Recharge +20%.
+
+◇ 4-Piece Set: If the equipping character has completed Witch's Homework, after they use an Elemental Skill, they also gain "Light's Guidance" for 20s: All nearby party members gain a 20% Elemental DMG Bonus corresponding to the equipping character's Elemental Type. The equipping character can trigger this effect while off-field. DMG Bonuses provided by Artifact Sets with the same name do not stack.
+
+When your party has the Hexerei: Secret Rite effect, Light's Guidance is upgraded to "Mortal Hymn": All nearby party members gain a 40% Elemental DMG Bonus corresponding to both the equipping character and the current active party member's Elemental Type instead. If both characters have the same Elemental Type, these bonuses will not stack.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Disenchantment in Deep Shadow (4-Star and 5-Star)</span></summary>
+
+◇ 2-Piece Set: ATK +18%.
+
+◇ 4-Piece Set: Increases Superconduct Reaction DMG by 80%. When the wielder attacks opponents affected by Superconduct, this attack's CRIT Rate is increased by 16%. An all-new blessing may be obtained as you make your way toward Snezhnaya...
+
+</details>
+How to Obtain: Challenge the new Domain of Blessing in Windrest Peak, Mondstadt, "Thorny Crown of the Mountain Wind."
+
+III. New Main Story
+
+- New Archon Quest
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Song of the Welkin Moon: Act IX "As All Falls to Emptiness"</span></summary>
+
+Permanently available after the Version "Luna VII" update
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 28 or above
+
+• Complete Song of the Welkin Moon: Act VIII "True Moon"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+• The "Quick Start" function is available for this quest.
+
+(1) Once unlocked, you can maintain your current Archon Quest progress, while accepting and progressing through Song of the Welkin Moon: Act IX - "As All Falls to Emptiness." This function will be available until the Song of the Welkin Moon version ends.
+
+(2) Unlock Criteria: Reach Adventure Rank 28 or above, and complete Archon Quest Chapter I: Act III "A New Star Approaches."
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Song of the Welkin Moon: Act X "Of Myriad Paths, Flux, and Dissolution"</span></summary>
+
+Permanently available after the Version "Luna VII" update
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 28 or above
+
+• Complete Song of the Welkin Moon: Act IX "As All Falls to Emptiness"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+</details>
+- New Story Quest
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Lohen's Story Quest "Lepus Miles Chapter: Act I - A Knight's Legacy"</span></summary>
+
+Permanently available after <t class="t_lc" contenteditable="false">2026/06/09 18:00</t>.
+
+◆ Quest Unlock Criteria:
+
+• Reach Adventure Rank 40 or above
+
+• Complete Song of the Welkin Moon: Act IV — "An Elegy for Faded Moonlight"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+After <t class="t_lc" contenteditable="false">2026/06/09 18:00</t> and until the end of Version "Luna VII," Travelers who have reached Adventure Rank 28 and completed Archon Quest Chapter I: Act III "A New Star Approaches" can use the "Quick Start" function to unlock this quest.
+
+</details>
+- New World Quests
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">New World Quests</span></summary>
+
+"Beyond Silver and Fine Gold" Quest Chain
+
+After accepting the quest, Travelers can explore the rooms inside the Witch's Lodge by following the questline.
+
+※ Complete the Quest "Witch's Lodge" in "Meeting Point: The Witch's Garden" to unlock.
+
+</details>
+IV. New Enemies
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">New Boss</span></summary>
+
+This boss distorts the forces intended to sustain the living world to suppress those who interfere with its experiments, and manifests barriers to bind its opponents. Seek out the barrier's nodes and shatter the prison realm crafted by this self-proclaimed "enlightened" heretic.
+
+Located at Lokapala Jungle
+
+Once you reach Adventure Rank 40, you can Quick Challenge the new boss's Trounce Domain through your Adventurer Handbook in Single Player Mode.
+
+</details>
+V. New Domain
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Domain of Blessing: Thorny Crown of the Mountain Wind</span></summary>
+
+◇ Unlock Criteria (satisfy any one of the criteria below to unlock):
+
+• Reach Adventure Rank 10 or above
+
+• Complete Archon Quest Prologue: Act III - "Song of the Dragon and Freedom"
+
+◆ Challenge the Domain to obtain artifacts in the "Celestial Gift" and "Disenchantment in Deep Shadow" sets.
+
+</details>
+VI. Miliastra Wonderland
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Miliastra Wonderland Update</span></summary>
+
+◆ Cosmetic Sets
+
+The "Prismatic Flutter" Event Ode brings four new sets: "Butterfly Resplendence," "Phantom Prowl," "Melody of Petals," and "Letter's Afterglow."
+
+Chronicles of the Realms/Epic of the Realms features 3 new sets: "Cherry Blossom Driftwind," "Gilded Skies," and "Leisurely Holiday."
+
+Available for a limited time only from the Miliastra Shop: Three new sets. They are "Sun-Veiled Stealth," "Morning's Ascent," and "Verdant Chase."
+
+"Encounter Echoes" Standard Ode: One new Set Catalog, "Ink-Tinged Sprout," is available.
+
+Take part in the "Raiment Collection: Convergent Tides" event to obtain the new "Splatter Artist" set.
+
+After the version update, the set "Timeless Echo" that was obtainable through an earlier limited-time event will be available for a limited time at the Miliastra Shop.
+
+◆ Lobby
+
+With the new version update, the Public Lobby will be changed to a new theme: "Where the Butterflies Prance: Bright Warm Room."
+
+Travelers can purchase the new Private Lobby "Where the Butterflies Prance: Velvet Hallway" through the Miliastra Pass.
+
+◆ Wonderlands
+
+The new version also adds additional cosmetic components, expressions, special effects, and actions, as well as optimizes certain parts of the interface layout.
+
+For updates regarding the "Miliastra Wonderland" stage editor and Miliastra Sandbox, Travelers can check "My Miliastra Wonderland" > "Notices."
+
+</details>
+VII. Genius Invokation TCG
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Genius Invokation TCG Gameplay Update</span></summary>
+
+New Character Cards: Flins, Lauma, and their corresponding Talent cards. Corresponding invitation duel and guest challenges have been added to the Player List.
+
+New Character Card: "Experimental Field Generator" and the corresponding Talent Card. The related Tavern Challenge has also been added.
+
+New Action Cards: "Gladiator's Finale," "Netochka," "The Other Side of the Frostmoon," "Elemental Transfiguration: Rimegrass Blessing," "Elemental Transfiguration: Stormgale Blessing," and "Roulette Special" have been added. These can now be purchased from Prince at The Cat's Tail.
+
+The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Clever Stratagems":
+
+1. During The Forge Realm's Temper: Clever Stratagems, you can select the parameters for each stage. Parameters that may be set include: stage difficulty, enemy health, and the round limit for the match.
+
+2. After completing the challenge, points will be obtained based on the difficulty completed for each parameter. The best score obtained for each stage will be recorded, and will allow you to claim rewards that correspond to certain scores.
+
+</details>
+VIII. Imaginarium Theater
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Update Scheduled for June 1</span></summary>
+
+After the Version "Luna VII" update, the first season of "Imaginarium Theater" will be available on June 1, 2026.
+
+Required Elemental Types: Pyro, Cryo, and Geo
+
+Opening Characters: Klee, Xiangling, Kamisato Ayaka, Chongyun, Albedo, and Noelle
+
+When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
+
+Special Guest Stars: Sangonomiya Kokomi, Aino, Prune, and Fischl
+
+After the first season of Imaginarium Theater begins, the characters Mavuika, Raiden Shogun, Kachina, and Mika will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Update Scheduled for July 1</span></summary>
+
+After the Version "Luna VII" update, the second season of "Imaginarium Theater" will be available on July 1, 2026.
+
+Required Elemental Types: Pyro, Electro, and Cryo
+
+Opening Characters: Arlecchino, Bennett, Cyno, Beidou, Ganyu, and Diona
+
+When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
+
+Special Guest Stars: Yumemizuki Mizuki, Kinich, Jahoda, and Columbina
+
+After the new season of Imaginarium Theater begins, the characters Escoffier, Xilonen, Cyno, and Candace will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Envisaged Echoes Update</span></summary>
+
+After the Version Luna VII update, new challenge stages and Echo cosmetics for Navia and Wanderer will be added.
+
+</details>
+IX. Spiral Abyss
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Update Scheduled for June 16</span></summary>
+
+◇ Following the Version "Luna VII" update, a new season of Spiral Abyss will come online on June 16.
+
+◆ Floor 11 Ley Line Disorder changed to:
+
+All party members receive a 60% Cryo DMG Bonus.
+
+All party members gain a 60% Pyro DMG Bonus.
+
+◆ Floor 12 Ley Line Disorders changed to:
+
+First Half: Characters' Elemental Skill DMG increased by 75%.
+
+Second Half: All party members receive a 75% Pyro DMG Bonus.
+
+◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+◆ Blessing of the Abyssal Moon:
+
+Frost-Surging Moon
+
+When an off-field character triggers Cryo-related reactions to opponents, a shockwave will be released at the opponent's position, dealing True DMG. This effect can be triggered once every 3.5s.
+
+◇ Starting from this edition of Spiral Abyss, the "Aubade of Morningstar and Moon" and "A Day Carved From Rising Winds" Artifact set rewards in Domain Reliquary: Tier I and Domain Reliquary: Tier II obtained from the Ley Lines on Floors 9–12 will be replaced with the "Disenchantment in Deep Shadow" and the "Celestial Gift" sets.
+
+</details>
+X. Other Update Details
+
+- New Recipes:
+
+○ Obtained by purchasing from the Shop or Quest Rewards: "Stuffed Tofu with Minced Meat" and "Mint Bubblegum."
+
+- New Character Specialty Dish:
+
+○ Nicole's specialty: "Gilded Chest."
+
+○ Lohen's specialty: "Boredom-Busting Bubblegum."
+
+○ Prune's specialty: "Spinning Special."
+
+- New Achievements added to the "Wonders of the World" category.
+
+- Adds Set 49 of "Paimon's Paintings" chat emojis.
+
+- Adds some prompts for loading screens.
+
+- New Namecards:
+
+○ "Nicole: Heavenly Stairway": Reward for reaching Friendship Lv. 10 with Nicole
+
+○ "Lohen: Benevolence": Reward for reaching Friendship Lv. 10 with Lohen.
+
+○ "Prune: Judgment": Reward for reaching Friendship Lv. 10 with Prune.
+
+○ "Travel Notes: Gift of Splendor": Reward obtained via the BP system.
+
+- Repertoire of Myriad Melodies Update:
+
+○ Adds new music album "Hexerei: Ballad of Whimsical Polyphony."
+
+○ Adds new score themes "Eclipsing Flame," and "Demon-Slaying Gale."
+
+- Two new Artifact sets available for redemption in the Mystic Offering system: "Long Night's Oath" and "Finale of the Deep Galleries."
+
+〓Adjustments & Optimizations〓
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Tutorials</span></summary>
+
+For Tutorials prior to Version Luna I, adds optimizations to trigger logic and display ordering (tutorials added from Version Luna I onward already include these improvements), namely:
+
+a. If you do not read the tutorial after triggering it, and when you encounter the corresponding gameplay or opponents again, the tutorial prompt will appear once more on the main interface.
+
+b. After the Traveler opens the Tutorials interface, the system will identify the tutorials near your location, and list them at the top within the interface.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Miliastra Wonderland</span></summary>
+
+- Adjusts the following Chronicles of the Realms quest, "Earn 5,000 EXP from this week's missions to obtain Geodes of Replication ×800," to "Obtain Geodes of Replication ×160 each time when you earn 1,000, 2,000, 3,000, 4,000, and 5,000 EXP from this week's missions."
+
+- Adds a scope option to the filter function in the Cosmetic Plans interface, allowing you to filter either within the current tab or across all tabs.
+
+- Adds a new Recommended Makeup interface to the "Raiment Collection" event, Odes, and Miliastra Pass.
+
+- You can now drag and drop to reorder Cosmetic Plans in the Manage Plans interface. There is now also an option which you can enable to "Show Random Cosmetics During Wonderland Gameplay."
+
+- Lowers the unlocking requirements for the Cosmetic Gift feature: Now, you can gift items after reaching Miliastra Wonderland Lv. 10 or Teyvat Adventure Rank 30, and if you have reached Rapport Lv. 3 with your friend or have been friends with them for 14 days or more.
+
+- Expands the Likes area in the Miliastra Information interface, which now also indicates if an account is currently banned.
+
+- The Custom Avatar feature now supports the uploading of multiple avatars.
+
+- Now, you can use actions from Miliastra Wonderland in the photo-taking interface when a Manekin is in the open world.
+
+- Adds a new Axis Snapping adjustment option to Headwear in "Cosmetic Plans" > "Component Adjustment."
+
+- Optimizes the visual effects of the Wonderland Manekins' teleport effect.
+
+- Optimizes the hair display of the Cosmetic Set "Wicked Warlock" during certain actions.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Audio</span></summary>
+
+- Optimizes music playback in certain quests.
+
+- Optimizes sound effects in certain open-world challenges.
+
+- Adds five previously missing English voice-over assets from the Version 5.2 to 5.7 updates. With this addition, all English voice-over resources for these versions are now complete.
+
+- Optimizes certain Japanese voice-over effects for Lohen in Varka's Story Quest, "To Those Who Embark on the Expedition."
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● System</span></summary>
+
+You can now challenge Trounce Domains in locked map areas directly through the Adventurer Handbook > "Domains" > "Trounce Domains."
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Other</span></summary>
+
+- Adjusts graphics settings for iOS devices: When "Graphics Quality" is set to "Low," "SFX Quality" will now default to "Low" instead of "Medium." (Note: If your Graphics Quality was already set to "Low" before the update, your configuration will remain unchanged though the config name will now appear as "Custom.")
+
+- Increases the maximum number of notes supported by the "Create Score" feature in Repertoire of Myriad Melodies from 1,200 to 2,000.
+
+- Optimizes the special effects of weapons with the Hexerei: Secret Rite effect at the "Low" or "Lowest" settings in Settings > Graphics - SFX Quality when said weapons are equipped by Hexerei characters.
+
+- Following the version update, Travelers can earn Encounter Points when they collect Mnemonic Clusters.
+
+</details>
+〓Bug Fixes〓
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Quests</span></summary>
+
+- Fixes an issue whereby the Traveler's Elemental Skill would be replaced by a special quest-specific skill and then fail to restore even after they left the quest area during Jean's Story Quest, "Master's Day Off."
+
+- Fixes an issue in Linnea's Story Quest "Up! Toward Homecoming Wings" whereby there was a low chance of two blackboards appearing abnormally at Speranza.
+
+- Fixes an issue in Linnea's Story Quest "Up! Toward Homecoming Wings" where an environmental object in the ship's cabin scene could be abnormally climbed by characters, causing them to clip through the environment and become unable to move.
+
+- Fixes an issue in the World Quest "Unofficial Chronicle of the Desert Pavilion" whereby, during the objective "Find a way to leave this place," quest-related enemies had a chance to disengage from combat abnormally.
+
+- Fixes an issue whereby certain scene objects would abnormally remain in certain areas of Luyang Academy within the Temple of Space even after the Traveler has completed the World Quest "Long Live Life."
+
+- Fixes an issue on mobile devices and PC set to "Lowest" graphics settings whereby certain scene objects would appear incorrectly during a cutscene in the World Quest "Long Live Life."
+
+- Fixes an issue in the World Quest "Long Live Life" whereby, during the objective "Head to the Abode of Resplendent Talent," characters had a chance to pass through walls and other scene objects.
+
+- Fixes an issue where, under certain circumstances, some dialogue in the World Quest "The Wind Has Ceased" during the quest objective "Go to the center of the Pillar Hall of Space" would abnormally repeat.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Enemies</span></summary>
+
+- Fixes an issue whereby the enemy "Battle-Hardened Glacial Wolf" would occasionally exhibit abnormal behavior under certain circumstances.
+
+- Fixes an issue whereby, under certain circumstances, certain subtypes of "Fatui Oprichniki" soldiers would exhibit abnormal animations upon entering combat.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Characters</span></summary>
+
+- Fixes an issue whereby Linnea's model would display abnormally when she was frozen with the Environment Detail set to "Lowest" or "Low" on certain devices.
+
+- Fixes an issue whereby, under certain circumstances, Linnea would be unable to perform Normal Attacks after the game reconnected to the server.
+
+- Fixes an issue where, when Linnea performed a Charged Attack on forgeable ore veins located on certain sloped terrain, Lumi could not quickly destroy the ore.
+
+- Fixes an issue whereby, at certain distances, some skill effects would fail to display when Linnea used Charged Attacks to capture specific animals.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Audio</span></summary>
+
+Fixes an issue whereby "Radiant Spincrystal 178" would be abnormally cut off during playback.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● System</span></summary>
+
+- Fixes an issue whereby, after adding a character to a training plan using the Training Guide, the Adventurer Handbook > Training Guide interface may occasionally display unrelated Trounce Domains.
+
+- Fixes an issue whereby, under certain circumstances, using "Auto Add" on the "Enhance" screen for Weapons and Artifacts would fail to add Enhancement Materials even when the Traveler had sufficient Mora.
+
+- Fixes an issue whereby map colors were displayed incorrectly for the Knights of Favonius Ruins area in Windrest Peak on the Map screen.
+
+- Fixes an issue whereby a line of dialogue in the Archon Quest "An Elegy for Faded Moonlight" would display incorrectly in the Travel Log under certain circumstances.
+
+- Fixes an issue whereby, after logging in, the character model of Linnea could display incorrectly when first switching to her in the Character screen.
+
+- Fixes an issue whereby, under certain circumstances, the "Spiral Abyss" party setup interface incorrectly includes the same character in both the first-half and second-half teams, preventing Travelers from starting the challenge.
+
+- Fixes an issue whereby the Windrest Flower could not be found in the Archive > Materials interface.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Genius Invokation TCG</span></summary>
+
+- Fixes an issue whereby the "Aino" Character Card would incorrectly deal damage twice when casting her Elemental Skill while equipped with her Talent card under certain circumstances.
+
+- Fixes an issue whereby, under certain circumstances, the Grass Ring of Sanctification generated by Character Card "Kuki Shinobu" would abnormally deal DMG to characters that were already down.
+
+- Fixes an issue where, in certain situations, the Geo DMG Bonus of "Lava Blessing: Turnfire" effect of the Support Card "Elemental Transfiguration: Lava Blessing" would function incorrectly.
+
+- Fixes an erroneous text description of the "Superconduct Blessing: Deep Freeze" effect for the Support Card "Elemental Transfiguration: Superconduct Blessing."
+
+- Fixes an issue whereby the Event Card "Edict of Absolution" would not grant immunity to the Petrification effect from the Character Card "Zhongli's" Elemental Burst.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Miliastra Wonderland</span></summary>
+
+- Fixes an issue whereby there was a chance that the ribbons of the "Timeless Echo" Cosmetic would clip abnormally in certain circumstances.
+
+- Fixes an issue with the Iris Cosmetics "Joyful Steps: Light Gray" and "Joyful Steps: Light Brown" whereby colors would display incorrectly in shadows.
+
+- Fixes an issue whereby, after creating a room or starting matchmaking and then using "Switch Manekin," the corresponding Manekin cosmetics would not update accordingly on the stage display interface after the stage began.
+
+- Fixes an issue whereby, under certain circumstances, after returning to Teyvat from the Miliastra Wonderland lobby and then entering a Domain, the scene could display incorrectly and characters could fall abnormally.
+
+- Fixes an issue whereby, in certain circumstances, filtering in the "Search Wonderlands" menu in Miliastra Wonderland could occasionally produce abnormal results.
+
+- Fixes an issue where playtime in Miliastra Wonderland would not be recorded in the "Wonderland Level" and "Raiment Collection" interfaces after the game reconnected to the server.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Serenitea Pot</span></summary>
+
+Fixes an issue whereby, after placing certain Furnishings, some components had a small chance of abnormally enlarging or not displaying.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Other</span></summary>
+
+- Fixes text errors in certain quests, interfaces, dialogues and descriptions.
+
+- Fixes an issue whereby, after an opponent affected by the Burning status is defeated, some Burning special effects will persist in the area under specific conditions.
+
+- Fixes an issue whereby there was a chance that the achievement "Of Past, Present, and Future" could not be completed.
+
+- Fixes an issue whereby certain objects were incorrectly oriented in the Path of the Forgotten World area of the Temple of Space.
+
+- Fixes some text errors in certain languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+◆ Optimizes inconsistencies between certain voice-overs and the corresponding lines.
+
+◆ Optimizes certain English translations.
+
+</details>
+〓Genius Invokation TCG Balance Adjustment〓
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Genius Invokation TCG Balance Adjustment</span></summary>
+
+- Adjusts the starting Max HP of the Character Cards "Wriothesley" and "Xianyun" from 10 to 11.
+
+- Adjusts the "Shield of Safe Transport" Combat Status of the Character Card "Kirara": This shield now stacks without a limit.
+
+- Adjusts the DMG dealt by the "Urgent Neko Parcel" Combat Status of the Character Card "Kirara" from 1 Dendro DMG to 2 Dendro DMG.
+
+- Adjusts the "Mutual Weapons Mentorship" Event Card effect of the Character Card "Skirk": The effect "Your Skirk attaches Seven-Phase Flash and deals +1 DMG in the next instance" is now changed to "This card attaches Seven-Phase Flash to your Skirk."
+
+- Adjusts the Elemental Burst DMG of the Character Card "Kujou Sara": Electro DMG dealt is increased from 1 to 2.
+
+- Adjusts the effect of the Talent Card "Sin of Pride" for the Character Card "Kujou Sara": "...all allied 'Electro characters' with Crowfeather Cover will deal +1 additional Elemental Skill and Elemental Burst DMG" is now changed to: "...all allied 'characters' with Crowfeather Cover will deal +1 additional Elemental Skill and Elemental Burst DMG."
+
+- Adjusts the effect of the Equipment Card "Qucusaurus": The effect now is "When played: Attach Target to the opposing active character. When an opposing character with Target attached switches to become the active character: You gain 1 stack of 'Agile Switch' and 'Efficient Switch,' and then cancel all Targets attached to opposing characters." The Technique effect is also changed to "Discard 1 card from your Hand with the highest Current Elemental Dice Cost. Switch to the next character, and attach Target to the opposing active character."
+
+- Adjusts the effect of the "Rightful Reward" Equipment Card: Now, 4 Principle of Justice points (previously 3) have to be gained and consumed for the character to gain 1 Energy.
+
+- Adjusts the Elemental Die cost of the "Lost Prayer to the Sacred Winds" Equipment Card: The number of Elemental Dice needed is now changed from 3 dice of the same element to 2 dice of the same element.
+
+- Adjusts the effect of the Support Card "Red Feather Fan": The effect now is "After you switch characters: Gain 1 stack of 'Agile Switch' and 1 stack of 'Efficient Switch.' (Once per Round)"
+
+- Adjusts the effects of the "Chenyu Vale" Support Card: The effect when Adventure Experience reaches 8 is now changed to "All your characters gain Hydro. Heal the character on your team who has taken the most DMG for 10 HP and that character gains an additional 2 Max HP. Then, discard this card."
+
+- Adjusts the effects of the "Fortress of Meropide" Support Card: The effect of the card is now changed to "When your active character takes DMG or is healed: This card gains 1 point of Prohibition (Can stack. Max 6 stacks). If this card has accumulated 6 Prohibition points, consume 6 Prohibition points and apply Invalidation to 1 random card in your opponent's Hand."
+
+- Adds Lunar-Bloom-related descriptions and/or effect calculation adjustments to the following cards.
+
+Support Card: "Elemental Transfiguration: Bloom Blessing"; and
+
+Character Card "Aino's" Talent Card "The Burden of Creative Genius."
+
+</details>
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # [Event Wish "Angel's Reverie" - Boosted Drop Rate for "Clamor Within" Nicole (Pyro)!](archive/21691.md)
 ## Event Wish "Angel's Reverie"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/d826e28b27cd6ea16e5f8714e1870123_3914705796723814179_transformed.jpg)
@@ -405,64 +1072,6 @@ Manekina Cosmetic "Verdant Chase"
 
 -----
 
-# ["Scaled Edge Season" Season Opening Announcement](archive/21653.md)
-## Scaled Edge Season
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/605b443bff6ee1a789185c4d922ff7c2_2747880350692533336.jpg)
-
-〓Season Duration〓
-
-Preparation Phase: After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/04/09 09:59</t>
-
-Play Phase: <t class="t_lc" contenteditable="false">2026/04/09 10:00</t> – <t class="t_lc" contenteditable="false">2026/05/19 03:59</t>
-
-Showcase Phase: <t class="t_lc" contenteditable="false">2026/05/19 04:00</t> – End of Version "Luna VI"
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Season Details〓
-
-● Each season consists of three phases: Preparation Phase, Play Phase, and Showcase Phase.
-
-● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
-
-※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
-
-● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
-
-● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
-
------
-
-# [Participate in "Raiment Collection: Clear Radiance" to obtain the "Timeless Echo" Manekin Cosmetics Set of your choice](archive/21651.md)
-## Raiment Collection: Clear Radiance
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/26/e0af29d5fda3c3775f8068ee21d0be0a_7330599496048853241.jpg)
-
-〓Event Duration〓
-
-After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/05/20 05:59</t>
-
-〓Event Rewards〓
-
-A "Timeless Echo" Manekin Cosmetics Set of your choice and Geodes of Replication
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
-
-● During the event, once your total accumulated "Treasured Insights" reach the required amount, you can claim the Manekina Cosmetics Set "Timeless Echo."
-
-● Before claiming your first component of the "Timeless Echo" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
-
-※ The Manekin Cosmetic Set "Timeless Echo" will be available for a limited time in the Miliastra Shop after Version Luna VI ends. Please visit the Miliastra Shop for more details.
-
------
-
 # ["The Stilled Interstice of a Thousand Winds" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21636.md)
 ## The Stilled Interstice of a Thousand Winds
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/b69e5ebb007dccbf1714149a21680bf6_343848542843852008_transformed.jpg)
@@ -474,38 +1083,6 @@ Complete the corresponding exploration missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna VI"
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
