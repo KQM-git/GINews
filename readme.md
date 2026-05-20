@@ -679,6 +679,20 @@ Character Card "Aino's" Talent Card "The Burden of Creative Genius."
 
 -----
 
+# [Version Details - What's New ](archive/21739.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21741.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
