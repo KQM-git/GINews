@@ -693,6 +693,90 @@ The dev team plans to optimize some of the Japanese voice acting for a cutscene 
 
 -----
 
+# ["Phantasmal Pals" Event: Take Part and Obtain the Event-Exclusive Weapon Appearance "Super Awesome Magic Key"](archive/21698.md)
+## Phantasmal Pals
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/08/768c6895c10a6c9453c9ade0ee034348_1974543974426393788_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/39905dd772aa6f7d37d31a27e49d8acc_8367162691927834168_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/05/22 10:00</t>  | <t class="t_lc" contenteditable="false">2026/06/08 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/05/24 04:00</t>  | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/26 04:00</t> | ^
+
+〓Eligibility〓
+
+Adventure Rank 30 or above
+
+Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, four gameplay modes will be available: "Dodoco's Bomb-Rally Ruckus," "Gena's Great Escape," "A Little Walk Home," and "Fantasy Realm Performance."
+
+● In "Dodoco's Bomb-Rally Ruckus," you must help Klee pass the Jumpy Dumpty to all her Dodoco companions. You can control the direction, power, and accuracy of each pass. The fewer passes you use to complete the challenge, the higher your final score.
+
+● In "Gena's Great Escape," you need to guide Sayu's imaginary friend, Gena, to run forward while avoiding obstacles and collecting as many Onigiri as possible.
+
+● In "A Little Walk Home," you need to guide Yaoyao's imaginary friend Yuegui over obstacles to find its missing partner, Tuantuan, then return together to Bubu Pharmacy.
+
+● In "Fantasy Realm Performance," you need to engage in "Hunting Training" with Prune and conduct combat training in a phantasmal domain.
+
+● Complete the event's various challenges to obtain Pals Synergy. Reach a certain amount of Pals Synergy to obtain rewards such as the weapon appearance "Super Awesome Magic Key," Primogems, and Crown of Insight.
+
+※ The weapon appearance "Super Awesome Magic Key" obtained during the event will remain available for use after the event ends.
+
+-----
+
+# ["Mage Nicole's Tea Party" — Genshin Impact Web Event Now Available!](archive/21711.md)
+## Web Event "Mage Nicole's Tea Party" Now Live: Participate to Obtain Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/15/da2480aa292420949fb6f45797b2a894_2596538457729853681_transformed.jpg)
+
+The new limited-time web event "Mage Nicole's Tea Party" is now available.
+
+Take part in the event gameplay to earn Primogems and exciting prize draw rewards!
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260520invite-19ccy4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260520campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/05/20 – <t class="t_gl" contenteditable="false">2026/06/02 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event period, Travelers can complete the web event quest(s) available to earn Primogems and Sugar Cubes. Use these Sugar Cubes to take part in the prize draw for even more rewards!
+
+1. Page Quests: Earn up to 20 Primogems and 10 Sugar Cubes. Refer to the page for more details.
+
+2. Invitation and Linking Quest: Earn up to 21 Sugar Cubes. Refer to the page for more details.
+
+*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21741.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
