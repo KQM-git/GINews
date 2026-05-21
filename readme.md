@@ -691,6 +691,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
+〓<t class="t_gl" contenteditable="false">2026/05/21 16:10</t> Update Details〓
+
+Fixes an issue whereby, after the version update, there was a small chance that the game would crash abnormally while progressing the Story Quest "The World Is Your Canvas!" during the objective "Head to the designated location to experience Honeydew Craftbrew."
+
 -----
 
 # ["Mage Nicole's Tea Party" — Genshin Impact Web Event Now Available!](archive/21711.md)
