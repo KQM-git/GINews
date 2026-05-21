@@ -693,48 +693,6 @@ The dev team plans to optimize some of the Japanese voice acting for a cutscene 
 
 -----
 
-# ["Phantasmal Pals" Event: Take Part and Obtain the Event-Exclusive Weapon Appearance "Super Awesome Magic Key"](archive/21698.md)
-## Phantasmal Pals
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/08/768c6895c10a6c9453c9ade0ee034348_1974543974426393788_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/39905dd772aa6f7d37d31a27e49d8acc_8367162691927834168_transformed.png)
-
-〓Event Duration〓
-
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/05/22 10:00</t>  | <t class="t_lc" contenteditable="false">2026/06/08 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2026/05/24 04:00</t>  | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/26 04:00</t> | ^
-
-〓Eligibility〓
-
-Adventure Rank 30 or above
-
-Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, four gameplay modes will be available: "Dodoco's Bomb-Rally Ruckus," "Gena's Great Escape," "A Little Walk Home," and "Fantasy Realm Performance."
-
-● In "Dodoco's Bomb-Rally Ruckus," you must help Klee pass the Jumpy Dumpty to all her Dodoco companions. You can control the direction, power, and accuracy of each pass. The fewer passes you use to complete the challenge, the higher your final score.
-
-● In "Gena's Great Escape," you need to guide Sayu's imaginary friend, Gena, to run forward while avoiding obstacles and collecting as many Onigiri as possible.
-
-● In "A Little Walk Home," you need to guide Yaoyao's imaginary friend Yuegui over obstacles to find its missing partner, Tuantuan, then return together to Bubu Pharmacy.
-
-● In "Fantasy Realm Performance," you need to engage in "Hunting Training" with Prune and conduct combat training in a phantasmal domain.
-
-● Complete the event's various challenges to obtain Pals Synergy. Reach a certain amount of Pals Synergy to obtain rewards such as the weapon appearance "Super Awesome Magic Key," Primogems, and Crown of Insight.
-
-※ The weapon appearance "Super Awesome Magic Key" obtained during the event will remain available for use after the event ends.
-
------
-
 # ["Mage Nicole's Tea Party" — Genshin Impact Web Event Now Available!](archive/21711.md)
 ## Web Event "Mage Nicole's Tea Party" Now Live: Participate to Obtain Primogems!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/15/da2480aa292420949fb6f45797b2a894_2596538457729853681_transformed.jpg)
@@ -794,6 +752,48 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Phantasmal Pals" Event: Take Part and Obtain the Event-Exclusive Weapon Appearance "Super Awesome Magic Key"](archive/21698.md)
+## Phantasmal Pals
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/08/768c6895c10a6c9453c9ade0ee034348_1974543974426393788_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/39905dd772aa6f7d37d31a27e49d8acc_8367162691927834168_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/05/22 10:00</t>  | <t class="t_lc" contenteditable="false">2026/06/08 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/05/24 04:00</t>  | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/26 04:00</t> | ^
+
+〓Eligibility〓
+
+Adventure Rank 30 or above
+
+Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, four gameplay modes will be available: "Dodoco's Bomb-Rally Ruckus," "Gena's Great Escape," "A Little Walk Home," and "Fantasy Realm Performance."
+
+● In "Dodoco's Bomb-Rally Ruckus," you must help Klee pass the Jumpy Dumpty to all her Dodoco companions. You can control the direction, power, and accuracy of each pass. The fewer passes you use to complete the challenge, the higher your final score.
+
+● In "Gena's Great Escape," you need to guide Sayu's imaginary friend, Gena, to run forward while avoiding obstacles and collecting as many Onigiri as possible.
+
+● In "A Little Walk Home," you need to guide Yaoyao's imaginary friend Yuegui over obstacles to find its missing partner, Tuantuan, then return together to Bubu Pharmacy.
+
+● In "Fantasy Realm Performance," you need to engage in "Hunting Training" with Prune and conduct combat training in a phantasmal domain.
+
+● Complete the event's various challenges to obtain Pals Synergy. Reach a certain amount of Pals Synergy to obtain rewards such as the weapon appearance "Super Awesome Magic Key," Primogems, and Crown of Insight.
+
+※ The weapon appearance "Super Awesome Magic Key" obtained during the event will remain available for use after the event ends.
 
 -----
 
@@ -1035,42 +1035,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 -----
 
-# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21646.md)
-## To Temper Thyself and Journey Far
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f77abe8a6f4104f1229db987e2c4280a_2209363618000115098_transformed.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/05/18 04:00</t> - <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 14 or above
-
-Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
-
-Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
-
-〓Event Details〓
-
-● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
-
-● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
-
-※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
-
-※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
-
-● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
-
-● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
------
-
 # ["Season of Prismatic Colors" Season Opening Announcement](archive/21690.md)
 ## Season of Prismatic Colors
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/13ff0b32e9cad59289fbadac2549ee03_9014720113667630764_transformed.jpg)
@@ -1201,6 +1165,42 @@ Manekina Cosmetic "Verdant Chase"
 ● After the Version "Luna VII" update, a new Elite (4-Star) Set Catalog "Ink-Tinged Sprout" will be added to the Standard Ode "Encounter Echoes."
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21646.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f77abe8a6f4104f1229db987e2c4280a_2209363618000115098_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/05/18 04:00</t> - <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
 
 -----
 
