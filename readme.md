@@ -689,7 +689,9 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
+- Currently, when Nicole stands still on sloped terrain, parts of her outfit may abnormally clip through the character model. The development team expects to optimize the corresponding visual performance in the "Luna VIII" version update.
+
+- The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
 〓<t class="t_gl" contenteditable="false">2026/05/21 16:10</t> Update Details〓
 
