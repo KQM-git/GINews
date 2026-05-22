@@ -1326,13 +1326,7 @@ Teyvat Adventure Assistant
 
 Daily check-in rewards, interactive map, Wiki, quality guides... You'll find everything you need here!
 
-[HoYoLAB Community](https://www.hoyolab.com/home?lang=en-us&utm_source=ingame&utm_medium=notice&utm_campaign=pcm&from_id=2)
-
 [Click to Download the HoYoLAB App](https://www.hoyolab.com/download.html?gid=2&utm_id=2&utm_medium=notice&utm_source=ingame)
-
-〓Official Site〓
-
-[Official Site](https://genshin.hoyoverse.com/)
 
 〓Official Social Media〓
 
