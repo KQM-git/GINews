@@ -693,6 +693,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
+〓<t class="t_gl" contenteditable="false">2026/05/28 17:30</t> Update Details〓
+
+Fixes an issue whereby, after the version update, stage save files would be incorrectly generated for some stages in Miliastra Wonderland that don't require saving.
+
+Old stage save files that have been incorrectly counted will not be cleared automatically. Travelers can manually delete them in Miliastra Wonderland > Wonderland Collection > Manage Stages.
+
 〓<t class="t_gl" contenteditable="false">2026/05/28 16:10</t> Update Details〓
 
 - Fixes an issue whereby Nicole was missing the corresponding actions when Travelers spoke with her in the Serenitea Pot.
