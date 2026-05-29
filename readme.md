@@ -693,6 +693,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
+〓<t class="t_gl" contenteditable="false">2026/05/29 20:20</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, Flins could abnormally cast his Elemental Burst repeatedly in rapid succession while challenging the enemy "Hydro Tulpa: Turbulent Vortex."
+
 〓<t class="t_gl" contenteditable="false">2026/05/28 17:30</t> Update Details〓
 
 Fixes an issue whereby, after the version update, stage save files would be incorrectly generated for some stages in Miliastra Wonderland that don't require saving.
