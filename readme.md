@@ -693,6 +693,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
+〓<t class="t_gl" contenteditable="false">2026/05/30 20:10</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, "Emissary of Solitary Iniquity" Wriothesley (Cryo), "Leonine Vanguard" Gaming (Pyro), "Turnfire Hunt" Kinich (Dendro), "Embrace of Enchanting Dreams" Yumemizuki Mizuki (Anemo), "Windthreading Shadow" Jahoda (Anemo), and "White Horse's Fleeting Spring" Zibai (Geo) could abnormally cast their Elemental Bursts repeatedly in rapid succession when challenging the enemy "Hydro Tulpa: Turbulent Vortex."
+
 〓<t class="t_gl" contenteditable="false">2026/05/29 20:20</t> Update Details〓
 
 Fixes an issue whereby, under certain circumstances, Flins could abnormally cast his Elemental Burst repeatedly in rapid succession while challenging the enemy "Hydro Tulpa: Turbulent Vortex."
