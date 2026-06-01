@@ -745,6 +745,48 @@ Permanent
 
 -----
 
+# ["Mage Nicole's Tea Party" — Genshin Impact Web Event Now Available!](archive/21711.md)
+## Web Event "Mage Nicole's Tea Party" Now Live: Participate to Obtain Primogems!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/15/da2480aa292420949fb6f45797b2a894_2596538457729853681_transformed.jpg)
+
+The new limited-time web event "Mage Nicole's Tea Party" is now available.
+
+Take part in the event gameplay to earn Primogems and exciting prize draw rewards!
+
+[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260520invite-19ccy4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260520campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/05/20 – <t class="t_gl" contenteditable="false">2026/06/02 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event period, Travelers can complete the web event quest(s) available to earn Primogems and Sugar Cubes. Use these Sugar Cubes to take part in the prize draw for even more rewards!
+
+1. Page Quests: Earn up to 20 Primogems and 10 Sugar Cubes. Refer to the page for more details.
+
+2. Invitation and Linking Quest: Earn up to 21 Sugar Cubes. Refer to the page for more details.
+
+*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
@@ -802,48 +844,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
 
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
------
-
-# ["Mage Nicole's Tea Party" — Genshin Impact Web Event Now Available!](archive/21711.md)
-## Web Event "Mage Nicole's Tea Party" Now Live: Participate to Obtain Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/15/da2480aa292420949fb6f45797b2a894_2596538457729853681_transformed.jpg)
-
-The new limited-time web event "Mage Nicole's Tea Party" is now available.
-
-Take part in the event gameplay to earn Primogems and exciting prize draw rewards!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260520invite-19ccy4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260520campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/05/20 – <t class="t_gl" contenteditable="false">2026/06/02 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event period, Travelers can complete the web event quest(s) available to earn Primogems and Sugar Cubes. Use these Sugar Cubes to take part in the prize draw for even more rewards!
-
-1. Page Quests: Earn up to 20 Primogems and 10 Sugar Cubes. Refer to the page for more details.
-
-2. Invitation and Linking Quest: Earn up to 21 Sugar Cubes. Refer to the page for more details.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
@@ -1095,38 +1095,6 @@ Adventure Rank 20 or above
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna VII"
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # ["Season of Prismatic Colors" Season Opening Announcement](archive/21690.md)
 ## Season of Prismatic Colors
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/13ff0b32e9cad59289fbadac2549ee03_9014720113667630764_transformed.jpg)
@@ -1257,6 +1225,38 @@ Manekina Cosmetic "Verdant Chase"
 ● After the Version "Luna VII" update, a new Elite (4-Star) Set Catalog "Ink-Tinged Sprout" will be added to the Standard Ode "Encounter Echoes."
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna VII"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
