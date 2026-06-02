@@ -751,48 +751,6 @@ Permanent
 
 -----
 
-# ["Mage Nicole's Tea Party" — Genshin Impact Web Event Now Available!](archive/21711.md)
-## Web Event "Mage Nicole's Tea Party" Now Live: Participate to Obtain Primogems!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/15/da2480aa292420949fb6f45797b2a894_2596538457729853681_transformed.jpg)
-
-The new limited-time web event "Mage Nicole's Tea Party" is now available.
-
-Take part in the event gameplay to earn Primogems and exciting prize draw rewards!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260520invite-19ccy4/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260520campaign&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/05/20 – <t class="t_gl" contenteditable="false">2026/06/02 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event period, Travelers can complete the web event quest(s) available to earn Primogems and Sugar Cubes. Use these Sugar Cubes to take part in the prize draw for even more rewards!
-
-1. Page Quests: Earn up to 20 Primogems and 10 Sugar Cubes. Refer to the page for more details.
-
-2. Invitation and Linking Quest: Earn up to 21 Sugar Cubes. Refer to the page for more details.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
