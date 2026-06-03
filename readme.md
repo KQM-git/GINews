@@ -733,6 +733,116 @@ Fixes an issue whereby, after the version update, there was a small chance that 
 
 -----
 
+# [Event Wish "Frostedge Nocturne" - Boosted Drop Rate for "Sharpened Arrowhead" Lohen (Cryo)!](archive/21701.md)
+## Event Wish "Frostedge Nocturne"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Sharpened Arrowhead" Lohen (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Sharpened Arrowhead" Lohen (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Exquisite Delicacy" Xiangling (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21702.md)
+## Event Wish - Ancient Flame Ablaze
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6c9b148294759af9c6779fbb2e68d044_7427675332185019467_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Night-Igniting Flame" Mavuika (Pyro) | "Coordinates of Clear Frost" Mika (Cryo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Night-Igniting Flame" Mavuika (Pyro) will receive a huge drop-rate boost!
+
+●During this event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Exquisite Delicacy" Xiangling (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Disaster and Remorse (Polearm) and A Thousand Blazing Suns (Claymore)!](archive/21703.md)
+## Event Wish - Epitome Invocation
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/876b3ff0b41fd52f6e6d3cb5b5bfeab0_5206167858263106248_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | Disaster and Remorse (Polearm)  A Thousand Blazing Suns (Claymore) | The Alley Flash (Sword)
+^ | ^ | Wine and Song (Catalyst)
+^ | ^ | Alley Hunter (Bow)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+
+● During this event wish, the event-exclusive 5-star weapons Disaster and Remorse (Polearm) and A Thousand Blazing Suns (Claymore) will receive a huge drop-rate boost!
+
+● During the event, the event-exclusive 4-star weapons The Alley Flash (Sword), Wine and Song (Catalyst), and Alley Hunter (Bow), as well as the 4-star weapons Rainslasher (Claymore) and Favonius Lance (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Disaster and Remorse (Polearm) or A Thousand Blazing Suns (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Lepus Miles Chapter" Event: Complete the Story Quest Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21704.md)
+## Lepus Miles Chapter
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/dbdde2ae17112ffdcd17715b27bcf971_2793234143019522451_transformed.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock Lohen's Story Quest "Lepus Miles Chapter."
+
+Complete the quest within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Mondstadt regional specialties, and other rewards.
+
+〓Quest Start Time〓
+
+Permanently available after <t class="t_lc" contenteditable="false">2026/06/09 18:00</t>
+
+〓Specified Duration〓
+
+<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 40 and above
+
+Complete the Archon Quest: Song of the Welkin Moon: Act IV — "An Elegy for Faded Moonlight"
+
+※ While the rewards are available, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Lohen's Story Quest "Lepus Miles Chapter."
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21746.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -748,6 +858,42 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
+
+-----
+
+# ["Genius Invokation TCG" Heated Battle Mode: Sprinting Stratagems](archive/20663.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/84e7290fb24b81ac89b7e1809c4b26ed_1559196153906586455.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_2595749569127770563.png)
+
+〓Special Rules〓
+
+During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.
+
+The first Action Card played each Round will cost 2 fewer Elemental Dice.
+
+Switching Character Cards is always a Fast Action.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/06/06 10:00</t> - <t class="t_lc" contenteditable="false">2026/06/22 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
