@@ -693,6 +693,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
+〓<t class="t_gl" contenteditable="false">2026/06/04 16:10</t> Update Details〓
+
+- Adjusts the unlock requirements for certain voice-over lines for Qiqi, Sayu, Yaoyao, and Prune under Character > Profile > Voice-Over, so that they no longer require completing "The Magic That Never Fails" to unlock.
+
+- Updates resources related to subsequent events.
+
 〓<t class="t_gl" contenteditable="false">2026/06/01 17:00</t> Update Details〓
 
 Fixes an issue whereby, under certain circumstances, there was a small chance that the quest objective "Touch the 'feathers'" in the World Quest "The Lost Palace" could not be completed.
