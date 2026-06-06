@@ -739,6 +739,36 @@ Fixes an issue whereby, after the version update, there was a small chance that 
 
 -----
 
+# ["Trials of the Brave Warrior" Event: Swordsmanship Challenge](archive/21700.md)
+## Trials of the Brave Warrior
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/3dc2b7e75d756277d7c35b43b62127f3_5330314900596050674_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/5111d9f103a69a988760c95d4e5e4e30_1250193188458397176_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/06/08 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/18 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, Travelers will need to battle against contestants to test them.
+
+● After the event begins, a new opponent with unique battle skills will be unlocked on Day 1, Day 3, and Day 5 (3 Opponents Total). After completing the "Friendly Test Spar" stage, you can begin the "Formal Trial."
+
+● You will be unable to use Elemental Skills or Bursts during these duels, but you will obtain new abilities: Parry and Honed Technique.
+
+-----
+
 # [Event Wish "Frostedge Nocturne" - Boosted Drop Rate for "Sharpened Arrowhead" Lohen (Cryo)!](archive/21701.md)
 ## Event Wish "Frostedge Nocturne"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg)
