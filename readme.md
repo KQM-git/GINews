@@ -993,48 +993,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 
 -----
 
-# ["Phantasmal Pals" Event: Take Part and Obtain the Event-Exclusive Weapon Appearance "Super Awesome Magic Key"](archive/21698.md)
-## Phantasmal Pals
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/08/768c6895c10a6c9453c9ade0ee034348_1974543974426393788_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/39905dd772aa6f7d37d31a27e49d8acc_8367162691927834168_transformed.png)
-
-〓Event Duration〓
-
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/05/22 10:00</t>  | <t class="t_lc" contenteditable="false">2026/06/08 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2026/05/24 04:00</t>  | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2026/05/26 04:00</t> | ^
-
-〓Eligibility〓
-
-Adventure Rank 30 or above
-
-Complete the "Ritou Escape Plan" part of the Archon Quest: "Chapter II: Act I"
-
-※ Complete the Archon Quest "True Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, four gameplay modes will be available: "Dodoco's Bomb-Rally Ruckus," "Gena's Great Escape," "A Little Walk Home," and "Fantasy Realm Performance."
-
-● In "Dodoco's Bomb-Rally Ruckus," you must help Klee pass the Jumpy Dumpty to all her Dodoco companions. You can control the direction, power, and accuracy of each pass. The fewer passes you use to complete the challenge, the higher your final score.
-
-● In "Gena's Great Escape," you need to guide Sayu's imaginary friend, Gena, to run forward while avoiding obstacles and collecting as many Onigiri as possible.
-
-● In "A Little Walk Home," you need to guide Yaoyao's imaginary friend Yuegui over obstacles to find its missing partner, Tuantuan, then return together to Bubu Pharmacy.
-
-● In "Fantasy Realm Performance," you need to engage in "Hunting Training" with Prune and conduct combat training in a phantasmal domain.
-
-● Complete the event's various challenges to obtain Pals Synergy. Reach a certain amount of Pals Synergy to obtain rewards such as the weapon appearance "Super Awesome Magic Key," Primogems, and Crown of Insight.
-
-※ The weapon appearance "Super Awesome Magic Key" obtained during the event will remain available for use after the event ends.
-
------
-
 # [Event Wish "Angel's Reverie" - Boosted Drop Rate for "Clamor Within" Nicole (Pyro)!](archive/21691.md)
 ## Event Wish "Angel's Reverie"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/d826e28b27cd6ea16e5f8714e1870123_3914705796723814179_transformed.jpg)
