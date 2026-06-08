@@ -1169,6 +1169,30 @@ Adventure Rank 20 or above
 
 -----
 
+# ["Miliastral Gifts": Take Part to Obtain Primogems](archive/21689.md)
+## Miliastral Gifts
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/49b1ce19327f1ed9517be6898f1c1829_3012616496342871013_transformed.jpg)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/06/10 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/24 03:59</t>
+
+〓Event Rewards〓
+
+Primogems ×270
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can complete Miliastral Gifts event quests to obtain Primogem rewards.
+
+● Rewards for each quest can only be claimed a limited number of times. Travelers, please plan your playtime accordingly and complete the quests in time to claim your rewards.
+
+-----
+
 # ["Season of Prismatic Colors" Season Opening Announcement](archive/21690.md)
 ## Season of Prismatic Colors
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/13ff0b32e9cad59289fbadac2549ee03_9014720113667630764_transformed.jpg)
