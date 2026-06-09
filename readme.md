@@ -679,6 +679,24 @@ Character Card "Aino's" Talent Card "The Burden of Creative Genius."
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21746.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Trials of the Brave Warrior" Event: Swordsmanship Challenge](archive/21700.md)
 ## Trials of the Brave Warrior
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/3dc2b7e75d756277d7c35b43b62127f3_5330314900596050674_transformed.jpg)
@@ -819,21 +837,63 @@ Complete the Archon Quest: Song of the Welkin Moon: Act IV — "An Elegy for Fad
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21746.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+# [Version Details - What's New ](archive/21739.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
 
-Dear Travelers,
+Dear Travelers:
 
-The HoYoLAB Community "Daily Check-In" feature is now available!
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+〓Known Issues〓
 
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
+- Currently, when Nicole stands still on sloped terrain, parts of her outfit may abnormally clip through the character model. The development team expects to optimize the corresponding visual performance in the "Luna VIII" version update.
 
-〓Event Duration〓
+- The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
-Permanent
+〓<t class="t_gl" contenteditable="false">2026/06/04 16:10</t> Update Details〓
+
+- Adjusts the unlock requirements for certain voice-over lines for Qiqi, Sayu, Yaoyao, and Prune under Character > Profile > Voice-Over, so that they no longer require completing "The Magic That Never Fails" to unlock.
+
+- Updates resources related to subsequent events.
+
+〓<t class="t_gl" contenteditable="false">2026/06/01 17:00</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, there was a small chance that the quest objective "Touch the 'feathers'" in the World Quest "The Lost Palace" could not be completed.
+
+Travelers who encounter this issue can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issue.
+
+〓<t class="t_gl" contenteditable="false">2026/05/30 20:10</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, "Emissary of Solitary Iniquity" Wriothesley (Cryo), "Leonine Vanguard" Gaming (Pyro), "Turnfire Hunt" Kinich (Dendro), "Embrace of Enchanting Dreams" Yumemizuki Mizuki (Anemo), "Windthreading Shadow" Jahoda (Anemo), and "White Horse's Fleeting Spring" Zibai (Geo) could abnormally cast their Elemental Bursts repeatedly in rapid succession when challenging the enemy "Hydro Tulpa: Turbulent Vortex."
+
+〓<t class="t_gl" contenteditable="false">2026/05/29 20:20</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, Flins could abnormally cast his Elemental Burst repeatedly in rapid succession while challenging the enemy "Hydro Tulpa: Turbulent Vortex."
+
+〓<t class="t_gl" contenteditable="false">2026/05/28 17:30</t> Update Details〓
+
+Fixes an issue whereby, after the version update, stage save files would be incorrectly generated for some stages in Miliastra Wonderland that don't require saving.
+
+Old stage save files that have been incorrectly counted will not be cleared automatically. Travelers can manually delete them in Miliastra Wonderland > Wonderland Collection > Manage Stages.
+
+〓<t class="t_gl" contenteditable="false">2026/05/28 16:10</t> Update Details〓
+
+- Fixes an issue whereby Nicole was missing the corresponding actions when Travelers spoke with her in the Serenitea Pot.
+
+- Fixes an issue in Indonesian, German, Korean, and Japanese whereby there was a localization text error in Prune's additional Talent "Witch's Eve Rite: Witchseeker's Vow."
+
+- Fixes certain Japanese-language localization text errors in the Archon Quests and World Quests in the Version "Luna VII" update.
+
+- Fixes certain Indonesian-language localization text errors in the Event Story Quests "The Forest Boar and the Little Witch" and "If You Should Forget the Entrance to Dreams."
+
+- Fixes an issue whereby, after the version update, abnormal collision volume occurred on one environmental object each in the Fontaine Research Institute of Kinetic Energy Engineering and Kuisel's Clockwork Workshop in Fontaine.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issue.
+
+〓<t class="t_gl" contenteditable="false">2026/05/21 16:10</t> Update Details〓
+
+Fixes an issue whereby, after the version update, there was a small chance that the game would crash abnormally while progressing the Story Quest "The World Is Your Canvas!" during the objective "Head to the designated location to experience Honeydew Craftbrew."
 
 -----
 
