@@ -689,13 +689,17 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-- Currently, some devices updated to iOS 27 Developer Beta may experience frequent crashes when launching the game. Technicians are urgently investigating and fixing the issue. For the actual resolution time, please refer to subsequent official announcements.
-
-※We recommend that Travelers using iOS devices refrain from upgrading their device system to iOS 27 Developer Beta for the time being.
-
 - Currently, when Nicole stands still on sloped terrain, parts of her outfit may abnormally clip through the character model. The development team expects to optimize the corresponding visual performance in the "Luna VIII" version update.
 
 - The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
+
+〓<t class="t_gl" contenteditable="false">2026/06/10 12:00</t> Update Details〓
+
+Updates a temporary workaround to help resolve the issue whereby devices running iOS 27 Developer Beta may crash when launching the game.
+
+Travelers who encounter this issue can try restarting the game multiple times. Each time the game launches, the client will attempt to apply the fix. Once the game launches successfully without crashing, the workaround has taken effect. This issue will be fully resolved in Version "Luna VIII."
+
+※We still recommend that Travelers using iOS devices refrain from upgrading their device system to iOS 27 Developer Beta for the time being.
 
 〓<t class="t_gl" contenteditable="false">2026/06/04 16:10</t> Update Details〓
 
