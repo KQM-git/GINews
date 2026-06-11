@@ -693,6 +693,12 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 - The dev team plans to optimize some of the Japanese voice acting for a cutscene in the Archon Quest "Of Myriad Paths, Flux, and Dissolution" after the Luna VIII version update. The optimized version of the voice acting will also be used in related storyline videos published by the official channels in the future.
 
+〓<t class="t_gl" contenteditable="false">2026/06/11 17:00</t> Update Details〓
+
+- Fixes an issue under certain circumstances in Genius Invokation TCG's Heated Battle Mode where specific effects would sometimes incorrectly trigger at the start of a round even after their visual animations had already concluded.
+
+- Fixes an issue under certain circumstances in Genius Invokation TCG's Heated Battle Mode where specific effects modifying Elemental Die costs would incorrectly expire at the start of a round.
+
 〓<t class="t_gl" contenteditable="false">2026/06/11 16:10</t> Update Details〓
 
 Optimizes the text description in the "Miliastral Gifts" event interface: Adds a note specifying that Gift Quests refresh daily.
