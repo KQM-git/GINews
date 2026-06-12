@@ -1,19 +1,3 @@
-# [Fixes to Login Errors](archive/21773.md)
-## Fixes to Login Errors
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/12/8e60989f6665a150a0e7020459098b25_6249742710892888500_transformed.jpg)
-
-Dear Travelers,
-
-Due to an issue with Facebook services, some Travelers have been unable to log into the game normally.
-
-Related services have been restored.
-
-Login services have resumed.
-
-We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
-
------
-
 # [New Content Overview](archive/21724.md)
 ## Version "Luna VII" Now Available
 
