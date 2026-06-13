@@ -1193,6 +1193,36 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
+# [Participate in "Starlight Voyage: Winning Grace" to obtain Prismatic Crystals, the token for the Colorful Surprise Box](archive/21688.md)
+## Starlight Voyage: Winning Grace
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/3d5b1c6d8076c1644119c86b117c8e38_659941280283320286_transformed.jpg)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/06/15 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
+
+Quest Completion Period: <t class="t_lc" contenteditable="false">2026/06/15 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/25 04:00</t>
+
+〓Event Rewards〓
+
+Prismatic Crystals
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
+
+● After the event begins, the available stages in Starlight Voyage and the maximum obtainable Sightseeing Experiences will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
+
+● During the event, Travelers can obtain the corresponding event reward, "Prismatic Crystals," by completing quests and accumulating Sightseeing Experiences.
+
+※ Prismatic Crystals obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
+
+-----
+
 # [Take part in "Raiment Collection: Convergent Tides" to obtain the "Splatter Artist" Manekin Cosmetic Set of your choice](archive/21687.md)
 ## Raiment Collection: Convergent Tides
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/38fb1ec1cfe1dc374149cebe7996df7a_273504493257815529_transformed.jpg)
