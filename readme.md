@@ -1,3 +1,33 @@
+# ["Kaleidoscopic Color Chase" Event: Paint Collection Challenge](archive/21705.md)
+## Kaleidoscopic Color Chase
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/5863585a48e1b54bdcb2fff32675f852_3355258922803314721_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/45c2153a13cf682e6f11eb652df90b45_3167399987393371755_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/06/18 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+● On the 1st and 3rd day after the event begins, 2 new stages will be unlocked each day. On the 5th day after the event begins, a new stage will be unlocked, for a total of 5 stages.
+
+● In the stage, Travelers need to work together with other Travelers to chase Roaming Paint Balls, change their color using different paints, and push them into the matching collection zones to score points.
+
+● Complete various challenges within the stage to earn Collection Progress. Various rewards are available when you achieve the corresponding progress.
+
+● There is a progress cap in this event. The cap on Day 1 of the event is 2,000, though it will be raised on Days 3 and 5 to 5,000 eventually.
+
+-----
+
 # [New Content Overview](archive/21724.md)
 ## Version "Luna VII" Now Available
 
