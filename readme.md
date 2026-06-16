@@ -28,15 +28,17 @@ and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# [Login Failure Issue Summary](archive/21776.md)
-## Login Failure Issue Summary
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/16/fe7e72baa8e4ac5e237f027a819b212e_7372187912492126652_transformed.jpg)
+# [Fixes to Login Errors](archive/21776.md)
+## Fixes to Login Errors
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/16/8e60989f6665a150a0e7020459098b25_1482308512285040324_transformed.jpg)
 
 Dear Travelers,
 
 Due to an issue with X services, some Travelers have been unable to log into the game normally.
 
-Once relevant services are restored, we will inform Travelers through official notices.
+Related services have been restored.
+
+Login services have resumed.
 
 We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
 
