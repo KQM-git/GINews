@@ -28,6 +28,20 @@ and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
+# [Login Failure Issue Summary](archive/21776.md)
+## Login Failure Issue Summary
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/16/fe7e72baa8e4ac5e237f027a819b212e_7372187912492126652_transformed.jpg)
+
+Dear Travelers,
+
+Due to an issue with X services, some Travelers have been unable to log into the game normally.
+
+Once relevant services are restored, we will inform Travelers through official notices.
+
+We sincerely apologize for the inconvenience caused. Thank you for your patience and understanding.
+
+-----
+
 # [New Content Overview](archive/21724.md)
 ## Version "Luna VII" Now Available
 
