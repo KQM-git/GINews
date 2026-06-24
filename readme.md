@@ -817,44 +817,6 @@ Fixes an issue whereby, after the version update, there was a small chance that 
 
 -----
 
-# [The "Time to Get Moving!" Web Event Is Now Available for a Limited Time. Take Part to Claim Primogems, Geodes of Replication, and Other In-Game Rewards!](archive/21709.md)
-## "Time to Get Moving!" — Genshin Impact Web Event Now Online!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/01/8aff9c0c5cd6618f894a17f63f0e0aee_7855651808269199048_transformed.jpg)
-
-The "Time to Get Moving!" web event is now available for a limited time.
-
-Take part in the event gameplay to earn Primogems, Geodes of Replication, "Miliastra Wonderland" items, and more rewards!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260610sports/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260610worldcup&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/06/10 – <t class="t_lc" contenteditable="false">2026/06/25 03:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description〓
-
-During the event, Travelers can complete web tasks to claim rewards such as Primogems, Geodes of Replication, "Miliastra Wonderland" items, and more. For quest details, please refer to the event page.
-
-※ There may be a delay of 1 to 2 hours in the data collection process. If the mission progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21702.md)
 ## Event Wish - Ancient Flame Ablaze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6c9b148294759af9c6779fbb2e68d044_7427675332185019467_transformed.jpg)
