@@ -28,34 +28,6 @@ and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# [Event Wish "Frostedge Nocturne" - Boosted Drop Rate for "Sharpened Arrowhead" Lohen (Cryo)!](archive/21701.md)
-## Event Wish "Frostedge Nocturne"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Sharpened Arrowhead" Lohen (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Sharpened Arrowhead" Lohen (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Exquisite Delicacy" Xiangling (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [New Content Overview](archive/21724.md)
 ## Version "Luna VII" Now Available
 
@@ -817,6 +789,34 @@ Fixes an issue whereby, after the version update, there was a small chance that 
 
 -----
 
+# [Event Wish "Frostedge Nocturne" - Boosted Drop Rate for "Sharpened Arrowhead" Lohen (Cryo)!](archive/21701.md)
+## Event Wish "Frostedge Nocturne"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Sharpened Arrowhead" Lohen (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
+^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
+^ | ^ | "Trial by Fire" Bennett (Pyro)
+
+● During this event wish, the event-exclusive 5-star character "Sharpened Arrowhead" Lohen (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Exquisite Delicacy" Xiangling (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21702.md)
 ## Event Wish - Ancient Flame Ablaze
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6c9b148294759af9c6779fbb2e68d044_7427675332185019467_transformed.jpg)
@@ -1019,6 +1019,24 @@ After the Version "Luna VII" update – <t class="t_lc" contenteditable="false">
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21746.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # ["Gift of Splendor" Event Details](archive/21696.md)
 ## Gift of Splendor
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/c40a25987647478509615d299c187776_4952777287684245673_transformed.jpg)
@@ -1044,56 +1062,6 @@ Adventure Rank 20 or above
 ● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
 
 ● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21746.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna VII"
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
@@ -1257,6 +1225,38 @@ Manekina Cosmetic "Verdant Chase"
 ● After the Version "Luna VII" update, a new Elite (4-Star) Set Catalog "Ink-Tinged Sprout" will be added to the Standard Ode "Encounter Echoes."
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20745.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/2aced11db7ef3877d6f0a882c1f5f408_7182503400686030956.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_2145746232080221887.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna VII"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
