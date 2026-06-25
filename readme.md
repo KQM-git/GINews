@@ -1,3 +1,17 @@
+# [New Content Overview](archive/21724.md)
+## Version "Luna VII" Now Available
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/11fc2f92b64466b96a9ab9c1968a1d75_1806955953218169988_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/55feeceecfdad41e9a7d1a55f0331ed8_7820953706687649374_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/26d7831de72866c31aac108272aba0cc_2360991455079886418_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/95a2a07a9844c6558ec1f88ec99f415d_8038041205830065186_transformed.jpg)
+
+-----
+
 # ["Kaleidoscopic Color Chase" Event: Paint Collection Challenge](archive/21705.md)
 ## Kaleidoscopic Color Chase
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/5863585a48e1b54bdcb2fff32675f852_3355258922803314721_transformed.jpg)
@@ -25,20 +39,6 @@ and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 ● Complete various challenges within the stage to earn Collection Progress. Various rewards are available when you achieve the corresponding progress.
 
 ● There is a progress cap in this event. The cap on Day 1 of the event is 2,000, though it will be raised on Days 3 and 5 to 5,000 eventually.
-
------
-
-# [New Content Overview](archive/21724.md)
-## Version "Luna VII" Now Available
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/11fc2f92b64466b96a9ab9c1968a1d75_1806955953218169988_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/55feeceecfdad41e9a7d1a55f0331ed8_7820953706687649374_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/26d7831de72866c31aac108272aba0cc_2360991455079886418_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/05/14/95a2a07a9844c6558ec1f88ec99f415d_8038041205830065186_transformed.jpg)
 
 -----
 
