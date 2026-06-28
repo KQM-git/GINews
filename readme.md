@@ -12,36 +12,6 @@
 
 -----
 
-# ["Kaleidoscopic Color Chase" Event: Paint Collection Challenge](archive/21705.md)
-## Kaleidoscopic Color Chase
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/5863585a48e1b54bdcb2fff32675f852_3355258922803314721_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/17/45c2153a13cf682e6f11eb652df90b45_3167399987393371755_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/06/18 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-● On the 1st and 3rd day after the event begins, 2 new stages will be unlocked each day. On the 5th day after the event begins, a new stage will be unlocked, for a total of 5 stages.
-
-● In the stage, Travelers need to work together with other Travelers to chase Roaming Paint Balls, change their color using different paints, and push them into the matching collection zones to score points.
-
-● Complete various challenges within the stage to earn Collection Progress. Various rewards are available when you achieve the corresponding progress.
-
-● There is a progress cap in this event. The cap on Day 1 of the event is 2,000, though it will be raised on Days 3 and 5 to 5,000 eventually.
-
------
-
 # ["Song of the Welkin Moon: Andante — Truth Amongst the Pages of Purana" Version "Luna VII" Update Details](archive/21730.md)
 ## Version "Luna VII" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/18/fa5dcb91d7c350a9764989da7c6d5199_2388800725975738423_transformed.jpg)
@@ -1061,34 +1031,6 @@ Permanent
 
 -----
 
-# ["Gift of Splendor" Event Details](archive/21696.md)
-## Gift of Splendor
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/c40a25987647478509615d299c187776_4952777287684245673_transformed.jpg)
-
-Travelers can earn rich rewards in "Gift of Splendor" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Gift of Splendor" and Furnishing Blueprint "Miniature Stonecraft" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version "Luna VII" update – <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/06/29 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
 # ["Season of Prismatic Colors" Season Opening Announcement](archive/21690.md)
 ## Season of Prismatic Colors
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/13ff0b32e9cad59289fbadac2549ee03_9014720113667630764_transformed.jpg)
@@ -1119,36 +1061,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [Participate in "Starlight Voyage: Winning Grace" to obtain Prismatic Crystals, the token for the Colorful Surprise Box](archive/21688.md)
-## Starlight Voyage: Winning Grace
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/3d5b1c6d8076c1644119c86b117c8e38_659941280283320286_transformed.jpg)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/06/15 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
-
-Quest Completion Period: <t class="t_lc" contenteditable="false">2026/06/15 10:00</t> – <t class="t_lc" contenteditable="false">2026/06/25 04:00</t>
-
-〓Event Rewards〓
-
-Prismatic Crystals
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
-
-● After the event begins, the available stages in Starlight Voyage and the maximum obtainable Sightseeing Experiences will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
-
-● During the event, Travelers can obtain the corresponding event reward, "Prismatic Crystals," by completing quests and accumulating Sightseeing Experiences.
-
-※ Prismatic Crystals obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
-
------
-
 # [Take part in "Raiment Collection: Convergent Tides" to obtain the "Splatter Artist" Manekin Cosmetic Set of your choice](archive/21687.md)
 ## Raiment Collection: Convergent Tides
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/38fb1ec1cfe1dc374149cebe7996df7a_273504493257815529_transformed.jpg)
@@ -1174,81 +1086,6 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Splatter Artist" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Splatter Artist" will be available for a limited time in the Miliastra Shop after Version Luna VII ends. Please visit the Miliastra Shop for more details.
-
------
-
-# [Wonderland Treasures: Prismatic Flutter – New Manekin Cosmetics Now Available](archive/21686.md)
-## Wonderland Treasures: Prismatic Flutter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/11/cf8f58d46060e68985e246cfcede286c_8801521222377848693_transformed.jpg)
-
-During the event, you can obtain your favorite Manekin Cosmetics through the "Prismatic Flutter" Event Ode, Prismatic Chronicles, or the Miliastra Shop.
-
-Play Popular Miliastra Wonderland stages with your new Sets or Try-on Capes equipped, and who knows, you might even earn yourself a Primogems ×60 reward!
-
-〓Event Ode Details〓
-
-Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
---- | --- | ---
-After the Version "Luna VII" update  —  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Butterfly Resplendence" | "Phantom Prowl"
-^ | ^ | "Melody of Petals"
-^ | ^ | "Letter's Afterglow"
-
-● During the event, the limited Legendary (5-Star) Cosmetic "Butterfly Resplendence" and Elite (4-Star) Cosmetics "Phantom Prowl," "Melody of Petals," and "Letter's Afterglow" will be available in the Manekin Cosmetic Event Ode!
-
-● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Butterfly Resplendence" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Butterfly Resplendence: Indigo Mist."
-
-※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
-
-※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
-
-〓Miliastra Shop〓
-
-Cosmetic Availability Period | Cosmetic Availability Period
---- | ---
-Starting from the Version "Luna VII" update, will be available for 3 consecutive versions | Starting from the Version "Luna VII" update, will be available for 3 consecutive versions
-Limited-Time Discount Period | Limited-Time Discount Period
-After the Version "Luna VII" update —  <t class="t_lc" contenteditable="false">2026/06/29 03:59</t> | After the Version "Luna VII" update —  <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
-Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
-Manekin Cosmetic "Sun-Veiled Stealth"
-
-Manekina Cosmetic "Sun-Veiled Stealth" | Manekin Cosmetic "Morning's Ascent"
-
-Manekina Cosmetic "Morning's Ascent"
-Manekin Cosmetic "Timeless Echo"
-
-Manekina Cosmetic "Timeless Echo" | Manekin Cosmetic "Verdant Chase" 
-
-Manekina Cosmetic "Verdant Chase"
-
-● After the Version "Luna VII" update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
-
-● New sets released in Version "Luna VII"! For the current event, the featured Elite (4-Star) Cosmetic Sets are priced at Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Sets are priced at Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends.
-
-● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 and the featured Exceptional (3-Star) Cosmetic Bundle is priced at Chronal Nexus ×240. These bundles are only available during the limited-time discount period for the corresponding sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
-
-● After the Version "Luna VII" update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
-
-● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
-
-〓Prismatic Chronicles〓
-
-● Event Duration: After the Version "Luna VII" update – <t class="t_lc" contenteditable="false">2026/06/29 03:59</t>
-
-● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Cherry Blossom Driftwind"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Where the Butterflies Prance: Velvet Hallway."
-
-※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
-
-※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until 2026/06/29 02:59. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
-
-● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
-〓New Standard Ode Set Catalog〓
-
-● After the Version "Luna VII" update, a new Elite (4-Star) Set Catalog "Ink-Tinged Sprout" will be added to the Standard Ode "Encounter Echoes."
-
-※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
 
 -----
 
