@@ -1,3 +1,48 @@
+# [Version "Luna VIII" Update Maintenance Preview](archive/21779.md)
+## Version "Luna VIII" Update Maintenance Preview
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/23/c941908b14dcaf160083796a10645f89_5894905394169274973_transformed.jpg)
+
+Dear Traveler,
+
+The development team will begin update maintenance on <t class="t_gl" contenteditable="false">2026/07/01 06:00</t>. Once maintenance is complete, the game will be updated to the all-new Version "Luna VIII": Song of the Welkin Moon: Scherzo — "Sunny Summer Fontinalia."
+
+At the same time, pre-installation for Version "Luna VIII" is now available. Travelers can download part of the update resources in advance to enjoy faster access once the version update goes live.
+
+〓Update Maintenance Information〓
+
+Update maintenance begins <t class="t_gl" contenteditable="false">2026/07/01 06:00</t> and is estimated to take 5 hours.
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+〓Scope of Maintenance Compensation〓
+
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/07/01 06:00</t>.
+
+Compensation must be claimed before the end of Version "Luna VIII."
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Pre-Installation Details〓
+
+The estimated storage space required for pre-installation is as follows:
+
+PC: 7 GB
+
+Mobile: 2 GB
+
+*The exact download size may differ depending on which voice-over packs are installed. The estimate above is based on a typical setup with one voice-over pack selected.
+
+For more update details, including adjustments, optimizations, bug fixes, and other compensation details, please see the Version Update Details notice to be posted at <t class="t_gl" contenteditable="false">2026/07/01 07:00</t>.
+
+<details open="true">
+<summary>Summary of Update Methods</summary>
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/02/63132cf77c487a61ddfd4f1fc3808c6c_3767529921317771834_transformed.jpg)
+
+</details>
+
+-----
+
 # [New Content Overview](archive/21724.md)
 ## Version "Luna VII" Now Available
 
