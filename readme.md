@@ -43,6 +43,332 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [Event Wish "To the Looking-Glass the Mademoiselle Said" - Boosted Drop Rate for "Mirrored Analysis" Sandrone (Cryo)!](archive/21743.md)
+## Event Wish "To the Looking-Glass the Mademoiselle Said"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/9051504c6cc2742ff981816ef64341b0_2963061423775561785_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version "Luna VIII" update  –  <t class="t_lc" contenteditable="false">2026/07/21 17:59</t> | "Mirrored Analysis" Sandrone (Cryo) | "Uncrowned Lord of the Ocean" Beidou (Electro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+^ | ^ | "Yearning for Unseen Depths" Freminet (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Mirrored Analysis" Sandrone (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Uncrowned Lord of the Ocean" Beidou (Electro), "Kätzlein Cocktail" Diona (Cryo), and "Yearning for Unseen Depths" Freminet (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Starry Night's Whispers" - Boosted Drop Rate for "Obsidian Opalstar" Citlali (Cryo)!](archive/21744.md)
+## Event Wish "Starry Night's Whispers"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/6688ebcd1be4d6fb447367af5166d302_8781030942944991750_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version "Luna VIII" update  –  <t class="t_lc" contenteditable="false">2026/07/21 17:59</t> | "Obsidian Opalstar" Citlali (Cryo) | "Uncrowned Lord of the Ocean" Beidou (Electro)
+^ | ^ | "Kätzlein Cocktail" Diona (Cryo)
+^ | ^ | "Yearning for Unseen Depths" Freminet (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Obsidian Opalstar" Citlali (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Uncrowned Lord of the Ocean" Beidou (Electro), "Kätzlein Cocktail" Diona (Cryo), and "Yearning for Unseen Depths" Freminet (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for A Teaspoon of Transcendence (Claymore) and Starcaller's Watch (Catalyst)!](archive/21745.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/72f9f68c96f10bad8f09b6e4e2779a04_5696032299474729046_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version "Luna VIII" update  –  <t class="t_lc" contenteditable="false">2026/07/21 17:59</t> | A Teaspoon of Transcendence (Claymore)  Starcaller's Watch (Catalyst) | Favonius Sword (Sword)
+^ | ^ | Rainslasher (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Sacrificial Bow (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons A Teaspoon of Transcendence (Claymore) and Starcaller's Watch (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons Favonius Sword (Sword), Rainslasher (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as A Teaspoon of Transcendence (Claymore) or Starcaller's Watch (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Lightrace Wish "Heavenlit Prophecy" Now Available!](archive/21748.md)
+## Lightrace Wish "Heavenlit Prophecy"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/1ddd62a7912ad368ebb4c6e086eea9f7_7383403002050886108_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the Lightrace Wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Designatable 5-Star Characters | Designatable 5-Star Weapons
+--- | --- | ---
+After the Version "Luna VIII" update  –  <t class="t_lc" contenteditable="false">2026/07/21 17:59</t> |  "Embrace of Enchanting Dreams" Yumemizuki Mizuki (Anemo)  "Emissary of Solitary Iniquity" Wriothesley (Cryo)  "Judicator of Secrets" Cyno (Electro)  "Astute Amusement" Yae Miko (Electro)   "Icy Resurrection" Qiqi (Cryo)  | Sunny Morning Sleep-In (Catalyst)
+^ | ^ | Cashflow Supervision (Catalyst)
+^ | ^ | Staff of the Scarlet Sands (Polearm)
+^ | ^ | Kagura's Verity (Catalyst)
+^ | ^ | Skyward Blade (Sword)
+
+● During this Event Wish, you can freely select and chart a course towards your chosen boosted 5-star character or weapon amongst all 5-star items in the "Heavenlit Prophecy" Event Wish of this period!
+
+● During this event wish, the event-exclusive 5-star characters "Emissary of Solitary Iniquity" Wriothesley (Cryo), "Judicator of Secrets" Cyno (Electro) and "Astute Amusement" Yae Miko (Electro), and the event-exclusive 5-star weapons "Sunny Morning Sleep-In" (Catalyst), "Cashflow Supervision" (Catalyst), "Staff of the Scarlet Sands" (Polearm) and "Kagura's Verity" (Catalyst) will be available for a limited time.
+
+● All 5-star and 4-star items in this Lightrace Wish:
+
+5-Star Characters: Yumemizuki Mizuki/Wriothesley/Cyno/Yae Miko/Qiqi
+
+5-Star Weapons: Sunny Morning Sleep-In/Cashflow Supervision/Staff of the Scarlet Sands/Kagura's Verity/Skyward Blade
+
+4-Star Characters: Prune/Illuga/Jahoda/Aino/Dahlia/Ifa/Iansan/Lan Yan/Ororon/Kachina/Sethos/Gaming/Chevreuse/Charlotte/Freminet/Lynette/Kaveh/Mika/Yaoyao/Faruzan/Layla/Candace/Dori/Collei/Kuki Shinobu/Yun Jin/Kirara/Shikanoin Heizou/Kujou Sara/Gorou/Sayu/Thoma/Yanfei/Rosaria/Xinyan/Sucrose/Diona/Chongyun/Noelle/Bennett/Fischl/Ningguang/Xingqiu/Beidou/Xiangling/Amber/Razor/Kaeya/Barbara/Lisa
+
+4-Star Weapons: Rust/Sacrificial Bow/The Stringless/Favonius Warbow/Eye of Perception/Sacrificial Fragments/The Widsith/Favonius Codex/Favonius Lance/Dragon's Bane/Rainslasher/Sacrificial Greatsword/The Bell/Favonius Greatsword/Lion's Roar/Sacrificial Sword/The Flute/Favonius Sword
+
+※ This is for "Lightrace Wish." The wish guarantee count for "Chronicled Wish" and "Lightrace Wish" is shared, and is accumulated between both "Chronicled Wish" and "Lightrace Wish." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Sunny Summer Fontinalia" Event: Participate to Obtain Charlotte's Outfit and Invite "Lens of Verity" Charlotte (Cryo)](archive/21749.md)
+## Sunny Summer Fontinalia
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/4c699b74ef0c77158a7f28e62ba2d7ec_6267956826869874359_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/06/17/244c8e883af307c79e12b72d4feb3371_1308665810164244656_transformed.png)
+
+〓Event Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+Unlock any Statue of The Seven in Fontaine
+
+※ Complete the Archon Quest Song of the Welkin Moon - Act X first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, you will manage a special aquarium by taking part in three activities: Operation Deep-Dive Treasure, Kaleido-Catch, and Curio Ledger.
+
+● In the "Operation Deep-Dive Treasure" game mode, you will head to designated underwater areas to earn funds by completing specific quest objectives, such as recovering scattered collectibles or bringing back certain aquatic creatures.
+
+● In the "Kaleido-Catch" game mode, you can use special bait to retrieve the recovered fish from the pond, and return them to the aquarium tanks to earn funds.
+
+● In the "Curio Ledger" game mode, you will manage the aquarium's souvenir shop, and sell items you have salvaged and restored to visitors to earn funds.
+
+● Use the funds you earn to upgrade Marvelous Abilities to increase your overall capabilities to better complete your tasks.
+
+● Complete the event's various tasks to gain Venue Popularity. When your Venue Popularity reaches the required level, you may invite "Lens of Verity" Charlotte (Cryo) to join your party. You can also obtain Charlotte's Outfit "Hurlock Variations," Primogems, Crown of Insight, and other rewards.
+
+● Charlotte's outfit "Hurlock Variations" will be available for purchase in the Character Outfit Shop after the end of Version "Luna VIII," which will be priced at 1,680 Genesis Crystals.
+
+● During the event, complete the Story Quest "Sunny Summer Fontinalia" to obtain additional rewards including Primogems, Character Ascension Materials, Character Level-Up Materials, and Local Specialties (Fontaine).
+
+※ After this event ends, the Story Quest "Sunny Summer Fontinalia" can still be accepted and completed normally.
+
+-----
+
+# ["When We Look Up at the Moon": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21750.md)
+## "When We Look Up at the Moon"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/d1fccbee7dc2d207a6f1ddbf6639840b_198600082712231926_transformed.jpg)
+
+Version "Luna VIII" introduces the following new areas: Dunanna Pit, Lunar Highlands, Moontide Sea, and the Dark Side of the Moon
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
+
+-----
+
+# ["Witch's Revelation" Gameplay Details](archive/21751.md)
+## "Witch's Revelation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/49208ed32b9337e6a56f880390da1f93_3716451833882423464_transformed.jpg)
+
+Complete the quest "Revelations by Chance" to obtain the "Witch's Revelation Case".
+
+Reveal the revelations from the Witch's Revelation Case to unlock the corresponding character's additional Talent and gain character buffs.
+
+〓Duration〓
+
+Permanently available after the Version "Luna VIII" update
+
+〓Eligibility〓
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+-----
+
+# [Citlali's Outfit "Whispers of Stars and Smoke" Available at a Limited-Time Discount](archive/21752.md)
+## Whispers of Stars and Smoke
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/6f30223e40060dfec6a15175c6556226_5758032492263471875_transformed.jpg)
+
+Citlali's outfit "Whispers of Stars and Smoke" is available at a limited-time discount in the Shop!
+
+〓Discount Period〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+〓Outfit Details〓
+
+● Citlali's outfit "Whispers of Stars and Smoke" will be permanently available in the Shop after the Version "Luna VIII" update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Citlali can still purchase the outfit, which can be viewed in the Character Archive after purchase.
+
+-----
+
+# [Repertoire of Myriad Melodies Update - "Nod-Krai: Where Roads Are Pledged to Cross"](archive/21753.md)
+## Nod-Krai: Where Roads Are Pledged to Cross
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/65ddaaaaa5e13c781112970308014d25_1871086253469390326_transformed.jpg)
+
+After the "Luna VIII" version update, the new album "Nod-Krai: Where Roads Are Pledged to Cross" will be added to Repertoire of Myriad Melodies.
+
+Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 50 Available for a Limited Time](archive/21754.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/5b40d8ebc00cb40e5f7852e600ac486b_6408640339449767220_transformed.jpg)
+
+Round 50 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/07/15 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/07/15 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Sunny Summer" Event Details](archive/21755.md)
+## Sunny Summer
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/18/73a73ee95d6dbf89aebb42b87f2d40bc_7019522087543287260_transformed.jpg)
+
+Travelers can earn rich rewards in "Sunny Summer" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Sunny Summer" and Furnishing Blueprint "Moon Envoy of Silver Radiance" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/08/10 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version "Luna VIII"
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
+
+● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
+
+-----
+
 # [New Content Overview](archive/21724.md)
 ## Version "Luna VII" Now Available
 
@@ -1216,13 +1542,13 @@ After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2
 
 -----
 
-# ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: New Travelers Can Invite a Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21364.md)
+# ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: New Travelers Can Invite a Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21707.md)
 ## Uncover Lunar Realms, Hone the Eventide Radiance
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/d123dfbb81d6f730a5eeba577d493dad_490588338024917172_transformed.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/d123dfbb81d6f730a5eeba577d493dad_3408949110643189124_transformed.jpg)
 
 〓Event Duration〓
 
-After the Version "Luna II" update and until the end of the "Song of the Welkin Moon" Version
+After the Version "Luna II" update – <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>
 
 〓Eligibility〓
 
@@ -1232,9 +1558,9 @@ Travelers who have completed registration and unlocked the Wish feature after th
 
 ● New Travelers who register after the Version "Luna II" update are eligible to participate in the "Uncover Lunar Realms, Hone the Eventide Radiance" event. The event will be available within 42 days after registration.
 
-● New Travelers can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation"to join your party via the event interface. When you invite a character, you also receive Ascension Level-Up Materials for the same character.
+● New Travelers can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface. When you invite a character, you also receive Ascension Level-Up Materials for the same character.
 
-※ For Travelers who register near the end of Version "Song of the Welkin Moon," the event duration may run shorter than 42 days. Please refer to the remaining time displayed on the event page for the exact duration.
+※ For Travelers who register close to <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>, the event duration may run shorter than 42 days. Please refer to the remaining time displayed on the event page for the exact duration.
 
 ※ Travelers can invite a character only once during the event. Once the event is over, you will be unable to invite characters. Please make sure you invite them in time.
 
