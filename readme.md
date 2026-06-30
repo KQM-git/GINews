@@ -1240,6 +1240,139 @@ Complete the Archon Quest: Song of the Welkin Moon: Act IV — "An Elegy for Fad
 
 -----
 
+# ["Wonderland Treasures: Breezes Meet the Fatebound Sea" – New Manekin Cosmetics Now Available](archive/21765.md)
+## Wonderland Treasures: Breezes Meet the Fatebound Sea
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/0c6ffa122f7b608a373cb24fa645f732_6057696171744651894_transformed.png)
+
+During the event, you can obtain your favorite Manekin Cosmetics through the "Breezes Meet the Fatebound Sea" Event Ode, Chronicle of the Fatebound Sea, or the Miliastra Shop.
+
+Play Popular Miliastra Wonderland stages with your new Sets or Try-on Capes equipped, and who knows, you might even earn yourself a Primogems ×60 reward!
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
+--- | --- | ---
+After the Version "Luna VIII" update  —  <t class="t_lc" contenteditable="false">2026/08/11 14:59</t> | Chromatic Fatebound Sea | Sharp-Fanged Overlord
+^ | ^ | Savannah Dappled Flash
+^ | ^ | Propitious Breeze
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Chromatic Fatebound Sea" and Elite (4-Star) Cosmetics "Sharp-Fanged Overlord," "Savannah Dappled Flash," and "Propitious Breeze" will be available in the Manekin Cosmetic Event Ode!
+
+● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Chromatic Fatebound Sea" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Chromatic Fatebound Sea: Twilight."
+
+※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+〓Miliastra Shop〓
+
+Cosmetic Availability Period | Cosmetic Availability Period
+--- | ---
+After the Version "Luna VIII" update  Available for 3 consecutive versions | After the Version "Luna VIII" update  Available for 3 consecutive versions
+Limited-Time Discount Period | Limited-Time Discount Period
+After the Version "Luna VIII" update  —  <t class="t_lc" contenteditable="false">2026/08/10 03:59</t> | After the Version "Luna VIII" update  —  <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
+Manekin Cosmetic "Spiritvessel Tzitzimitl"
+
+Manekina Cosmetic "Spiritvessel Tzitzimitl" | Manekin Cosmetic "Sweet Recipe"
+
+Manekina Cosmetic "Sweet Recipe"
+Manekin Cosmetic "Splatter Artist"
+
+Manekina Cosmetic "Splatter Artist" | Manekin Cosmetic "Loafing Shark" 
+
+Manekina Cosmetic "Loafing Shark"
+
+● After the Version "Luna VIII" update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
+
+● New Cosmetic Sets for Version Luna VIII! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Sweet Recipe" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Loafing Shark" Cosmetic Set is available for Chronal Nexus ×240 during the discount period and will revert to Chronal Nexus ×300 once the offer ends.
+
+● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Sweet Recipe" is priced at Chronal Nexus ×240.  In addition, the "Loafing Shark" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
+
+● After the Version "Luna VIII" update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
+
+● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
+
+〓Chronicle of the Fatebound Sea〓
+
+● Event Duration: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Invigorating Chill"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Secluded Isle: Azure Ripples."
+
+※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
+
+※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/08/10 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
+
+● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+〓New Standard Ode Set Catalog〓
+
+● After the Version "Luna VIII" update, a new Elite (4-Star) Set Catalog "Salted Lemon Fizz" will be added to the Standard Ode "Encounter Echoes."
+
+※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Fatebound Sea Season" Season Opening Announcement](archive/21763.md)
+## Fatebound Sea Season
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7035ca31cd8498b0ef0a7d0c9761df57_6810033499703056196_transformed.jpg)
+
+〓Season Duration〓
+
+Preparation Phase: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/07/02 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/07/02 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/11 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/08/11 04:00</t> – End of Version "Luna VIII"
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season consists of three phases: The Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Participate in "Raiment Collection: Mellow Warmth" to Obtain the "Dreamy Summer Leisure" Manekin Cosmetics Set of Your Choice](archive/21762.md)
+## Raiment Collection: Mellow Warmth
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/cdc7d9f8c21fc84cbbe9c8c1698f7e3f_7620124751577152017_transformed.jpg)
+
+〓Event Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/12 05:59</t>
+
+〓Event Rewards〓
+
+A "Dreamy Summer Leisure" Manekin Cosmetics Set of your choice and Geodes of Replication
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
+
+● During the event, once your total accumulated "Treasured Insights" reach the required amount, you can claim the Manekin Cosmetics Set "Dreamy Summer Leisure."
+
+● Before claiming your first component of the "Dreamy Summer Leisure" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
+
+※ The Manekin Cosmetic Set "Dreamy Summer Leisure" will be available for a limited time in the Miliastra Shop after Version Luna VIII ends. Please visit the Miliastra Shop for more details.
+
+-----
+
 # [Complete the Archon Quest "As All Falls to Emptiness" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21694.md)
 ## "As All Falls to Emptiness"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/0ed62aad3d138979fdd01dad6459b24e_6634624913184060047_transformed.jpg)
