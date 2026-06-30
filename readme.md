@@ -1130,116 +1130,6 @@ Fixes an issue whereby, after the version update, there was a small chance that 
 
 -----
 
-# [Event Wish "Frostedge Nocturne" - Boosted Drop Rate for "Sharpened Arrowhead" Lohen (Cryo)!](archive/21701.md)
-## Event Wish "Frostedge Nocturne"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Sharpened Arrowhead" Lohen (Cryo) | "Coordinates of Clear Frost" Mika (Cryo)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Sharpened Arrowhead" Lohen (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Exquisite Delicacy" Xiangling (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Ancient Flame Ablaze" - Boosted Drop Rate for "Night-Igniting Flame" Mavuika (Pyro)!](archive/21702.md)
-## Event Wish - Ancient Flame Ablaze
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/6c9b148294759af9c6779fbb2e68d044_7427675332185019467_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | "Night-Igniting Flame" Mavuika (Pyro) | "Coordinates of Clear Frost" Mika (Cryo)
-^ | ^ | "Exquisite Delicacy" Xiangling (Pyro)
-^ | ^ | "Trial by Fire" Bennett (Pyro)
-
-● During this event wish, the event-exclusive 5-star character "Night-Igniting Flame" Mavuika (Pyro) will receive a huge drop-rate boost!
-
-●During this event wish, the 4-star characters "Coordinates of Clear Frost" Mika (Cryo), "Exquisite Delicacy" Xiangling (Pyro), and "Trial by Fire" Bennett (Pyro) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Disaster and Remorse (Polearm) and A Thousand Blazing Suns (Claymore)!](archive/21703.md)
-## Event Wish - Epitome Invocation
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/876b3ff0b41fd52f6e6d3cb5b5bfeab0_5206167858263106248_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> –  <t class="t_lc" contenteditable="false">2026/06/30 14:59</t> | Disaster and Remorse (Polearm)  A Thousand Blazing Suns (Claymore) | The Alley Flash (Sword)
-^ | ^ | Wine and Song (Catalyst)
-^ | ^ | Alley Hunter (Bow)
-^ | ^ | Rainslasher (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-
-● During this event wish, the event-exclusive 5-star weapons Disaster and Remorse (Polearm) and A Thousand Blazing Suns (Claymore) will receive a huge drop-rate boost!
-
-● During the event, the event-exclusive 4-star weapons The Alley Flash (Sword), Wine and Song (Catalyst), and Alley Hunter (Bow), as well as the 4-star weapons Rainslasher (Claymore) and Favonius Lance (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Disaster and Remorse (Polearm) or A Thousand Blazing Suns (Claymore). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Lepus Miles Chapter" Event: Complete the Story Quest Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21704.md)
-## Lepus Miles Chapter
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/26/dbdde2ae17112ffdcd17715b27bcf971_2793234143019522451_transformed.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to unlock Lohen's Story Quest "Lepus Miles Chapter."
-
-Complete the quest within the specified duration to obtain additional Primogems, Character Ascension Materials, Character Level-Up Materials, Mondstadt regional specialties, and other rewards.
-
-〓Quest Start Time〓
-
-Permanently available after <t class="t_lc" contenteditable="false">2026/06/09 18:00</t>
-
-〓Specified Duration〓
-
-<t class="t_lc" contenteditable="false">2026/06/09 18:00</t> – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
-
-〓Quest Unlock Criteria〓
-
-Adventure Rank 40 and above
-
-Complete the Archon Quest: Song of the Welkin Moon: Act IV — "An Elegy for Faded Moonlight"
-
-※ While the rewards are available, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Lohen's Story Quest "Lepus Miles Chapter."
-
------
-
 # ["Wonderland Treasures: Breezes Meet the Fatebound Sea" – New Manekin Cosmetics Now Available](archive/21765.md)
 ## Wonderland Treasures: Breezes Meet the Fatebound Sea
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/0c6ffa122f7b608a373cb24fa645f732_6057696171744651894_transformed.png)
@@ -1373,30 +1263,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [Complete the Archon Quest "As All Falls to Emptiness" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21694.md)
-## "As All Falls to Emptiness"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/0ed62aad3d138979fdd01dad6459b24e_6634624913184060047_transformed.jpg)
-
-After the Version update, Archon Quest: Song of the Welkin Moon — Act IX and Act X will be permanently available. Meet the unlock criteria to unlock said Archon Quest.
-
-Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Nod-Krai regional specialties, and other rewards.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VII" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
-
-〓Archon Quest Unlock Criteria〓
-
-Adventure Rank 28 or above
-
-Complete Archon Quest Song of the Welkin Moon: Act VIII "True Moon"
-
-※ In the current version, once you reach Adventure Rank 28 and complete Archon Quest Chapter I: Act III "A New Star Approaches," you can use the "Quick Start" function to unlock Archon Quest: Song of the Welkin Moon: Act IX — "As All Falls to Emptiness."
-
------
-
 # ["Beyond Silver and Fine Gold" World Quest Overview](archive/21695.md)
 ## "Beyond Silver and Fine Gold"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/a3739ce9ff76ba1605f24a6467c625de_7649516300385434311_transformed.jpg)
@@ -1414,22 +1280,6 @@ Once the World Quest is available, you can follow the questline to explore the r
 After completing the exploration of the current room, the subsequent room will unlock at 04:00 on the following Monday.
 
 It will take 4 weeks to complete the entire "Beyond Silver and Fine Gold" quest. Travelers, please plan your playtime accordingly.
-
------
-
-# [Repertoire of Myriad Melodies Update - Hexerei: Ballad of Whimsical Polyphony](archive/21697.md)
-## Hexerei: Ballad of Whimsical Polyphony
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/6e2364c05b12586d4779687d68783ee3_5723402261591766823_transformed.jpg)
-
-After the "Luna VII" version update, the new album "Hexerei: Ballad of Whimsical Polyphony" will be added to Repertoire of Myriad Melodies.
-
-Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VII" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
 
 -----
 
@@ -1574,20 +1424,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 ● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
 
 ● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
------
-
-# ["The Stilled Interstice of a Thousand Winds" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21636.md)
-## The Stilled Interstice of a Thousand Winds
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/25/b69e5ebb007dccbf1714149a21680bf6_343848542843852008_transformed.jpg)
-
-Version "Luna VI" introduces the following new areas: Windrest Peak and Temple of Space.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-〓Specified Duration〓
-
-After the Version "Luna VI" update – <t class="t_lc" contenteditable="false">2026/06/30 14:59</t>
 
 -----
 
