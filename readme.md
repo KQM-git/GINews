@@ -569,6 +569,24 @@ There is currently an issue where certain related voice-over lines are missing w
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Event Wish "To the Looking-Glass the Mademoiselle Said" - Boosted Drop Rate for "Mirrored Analysis" Sandrone (Cryo)!](archive/21743.md)
 ## Event Wish "To the Looking-Glass the Mademoiselle Said"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/9051504c6cc2742ff981816ef64341b0_2963061423775561785_transformed.jpg)
@@ -1025,24 +1043,6 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Dreamy Summer Leisure" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Dreamy Summer Leisure" will be available for a limited time in the Miliastra Shop after Version Luna VIII ends. Please visit the Miliastra Shop for more details.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21746.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
