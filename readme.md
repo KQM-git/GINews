@@ -542,7 +542,7 @@ Fixes an issue whereby, under certain circumstances, there was a chance that the
 <details open="true">
 <summary><span style="font-size: 0.1rem;">Genius Invokation TCG Balance Adjustment</span></summary>
 
-- Adjusts the "Lava Blessing: Turnfire" effect from the Support Card "Elemental Transfiguration: Lava Blessing": The effect that generates a shield now triggers "after the opponent takes Pyro DMG or Geo DMG."
+- Adjusts the "Lava Blessing: Remelting" effect from the Support Card "Elemental Transfiguration: Lava Blessing": The effect that generates a shield now triggers "after the opponent takes Pyro DMG or Geo DMG."
 
 - Adjusts the Elemental Dice cost and damage of "Superconduct Blessing: Electric Surge" on the Support Card "Elemental Transfiguration: Superconduct Blessing": The Electro Dice cost has been adjusted from 3 to 1, and the Piercing DMG has been changed from 2 to 1.
 
