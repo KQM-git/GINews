@@ -555,6 +555,20 @@ Fixes an issue whereby, under certain circumstances, there was a chance that the
 
 -----
 
+# [Version Details - What's New ](archive/21797.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
+
+-----
+
 # [Event Wish "To the Looking-Glass the Mademoiselle Said" - Boosted Drop Rate for "Mirrored Analysis" Sandrone (Cryo)!](archive/21743.md)
 ## Event Wish "To the Looking-Glass the Mademoiselle Said"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/9051504c6cc2742ff981816ef64341b0_2963061423775561785_transformed.jpg)
