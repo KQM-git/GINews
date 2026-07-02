@@ -567,6 +567,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
 
+〓<t class="t_gl" contenteditable="false">2026/07/02 16:45</t> Update Details〓
+
+Fixes an issue whereby using the gadget "Sandrone's Portable Tea Table" to re-invite a character would abnormally grant Long-Term Encounter Points after the tea party ended.
+
 〓<t class="t_gl" contenteditable="false">2026/07/01 21:25</t> Update Details〓
 
 Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the Talent "Edict of Cleansing," a single enhanced Sesshou Sakura lightning strike could cause the additional Electro DMG produced by "Radiance: Stellar-Conduct" to trigger multiple times abnormally upon hitting an enemy (It was inconsistent with the Talent description, which specifies that said additional DMG should trigger only once).
