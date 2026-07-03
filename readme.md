@@ -567,6 +567,16 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
 
+〓<t class="t_gl" contenteditable="false">2026/07/03 21:35</t> Update Details〓
+
+- Fixes an issue in the "Operation Deep-Dive Treasure" gameplay in the "Sunny Summer Fontinalia" event whereby the icons for certain creatures were displayed incorrectly.
+
+- Fixes an issue on some Android devices whereby, while using the photo-taking feature for the custom avatar in Miliastra Wonderland, it would fail to upload the image and display the error message "Avatar info upload error. Please retake your photo and upload again."
+
+- Fixes an issue whereby, while using the "Take photo in current scene" feature for the custom avatar in Miliastra Wonderland, pressing the "Switch Manekin" button and then exiting the photo-taking mode would cause the Manekin model to disappear abnormally.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
+
 〓<t class="t_gl" contenteditable="false">2026/07/03 16:15</t> Update Details〓
 
 - Fixes an issue whereby, under certain circumstances, the mouse cursor would not appear properly on the payment screen after Travelers using a controller on PC purchased an item from the Shop.
