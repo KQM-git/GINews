@@ -565,7 +565,11 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
+- Currently, there is a chance that the Lv. 4 Constellation effect of Kuki Shinobu and the "Lightning Shroud" effect provided by Traveler (Electro)'s Elemental Burst will fail to be triggered when Sandrone lands a Charged Attack on an enemy from a long distance. This issue will be fixed in a future update.
+
+- Currently, under certain circumstances, after Cyno enters the "Pactsworn Pathclearer" state via his Elemental Skill with his additional Talent "A Star With Which to Start the Journey" unlocked, there is a chance that the "Dream of the Scarlet Sands" effect provided by the equipped weapon, Staff of the Scarlet Sands, will fail to factor in the Elemental Mastery granted by the "Pactsworn Pathclearer" state when granting the ATK Bonus. This issue will be fixed in a future update.
+
+- There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
 
 〓<t class="t_gl" contenteditable="false">2026/07/03 21:35</t> Update Details〓
 
