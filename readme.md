@@ -605,26 +605,6 @@ Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the
 
 -----
 
-# [Genshin Impact Fifth Version Trailers OST Album "Footprints of the Traveler Vol. 5" Now Available](archive/21768.md)
-## Fifth Version Trailers OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/23/3d7cc5097d068722adafe9b76203b84b_2506762503125120554_transformed.jpg)
-
-Dear Traveler,
-
-Genshin Impact's fifth version trailers OST album "Footprints of the Traveler Vol. 5" is out now! The album features splendid tracks composed by HOYO-MiX, each one an original composition for the version trailers of Genshin Impact from Version "Luna I" to Version "Luna VIII".
-
-Travelers can go to the following platforms to listen to "Footprints of the Traveler Vol. 5."
-
-Spotify:
-
-[Click here to listen to "Footprints of the Traveler Vol. 5"](https://open.spotify.com/album/2kaeyC8RhOyX1puSiTguT2)
-
-Apple Music:
-
-[Click here to listen to "Footprints of the Traveler Vol. 5"](https://music.apple.com/us/album/6784156014)
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
