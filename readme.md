@@ -585,6 +585,13 @@ If you have any questions, you may also contact Customer Service for guidance.
 </details>
 
 <details open="true">
+<summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/09 21:10&lt;/t&gt; Update Details〓</summary>
+
+Fixes an issue whereby, under certain circumstances, the shield value of the enemy "Secret Source Automaton: Configuration Device - Lysis Shears" would be abnormal in the "Stygian Onslaught" event.
+
+</details>
+
+<details open="true">
 <summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/09 16:10&lt;/t&gt; Update Details〓</summary>
 
 - Fixed an issue where, under certain circumstances, after Cyno unlocked the additional Talent "A Star With Which to Start the Journey" and entered the "Pactsworn Pathclearer" state via his Elemental Skill, the "Dream of the Scarlet Sands" effect of "Staff of the Scarlet Sands" had a chance to not include the Elemental Mastery provided by the "Pactsworn Pathclearer" state when granting an ATK Bonus.
