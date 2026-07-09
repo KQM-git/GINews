@@ -563,7 +563,8 @@ Dear Travelers:
 
 To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
 
-〓Known Issues〓
+<details open="true">
+<summary>〓Known Issues〓</summary>
 
 - On certain PC devices, switching to characters wearing the new outfits (specifically Citlali's "Whispers of Stars and Smoke" and Charlotte's "Hurlock Variations") in certain interfaces or scenes may occasionally cause serious in-game lag.
 
@@ -581,7 +582,10 @@ If you have any questions, you may also contact Customer Service for guidance.
 
 - There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
 
-〓<t class="t_gl" contenteditable="false">2026/07/09 16:10</t> Update Details〓
+</details>
+
+<details open="true">
+<summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/09 16:10&lt;/t&gt; Update Details〓</summary>
 
 - Fixed an issue where, under certain circumstances, after Cyno unlocked the additional Talent "A Star With Which to Start the Journey" and entered the "Pactsworn Pathclearer" state via his Elemental Skill, the "Dream of the Scarlet Sands" effect of "Staff of the Scarlet Sands" had a chance to not include the Elemental Mastery provided by the "Pactsworn Pathclearer" state when granting an ATK Bonus.
 
@@ -603,7 +607,10 @@ Please log in to claim your compensation between <t class="t_gl" contenteditable
 
 Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
 
-〓<t class="t_gl" contenteditable="false">2026/07/03 21:35</t> Update Details〓
+</details>
+
+<details open="true">
+<summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/03 21:35&lt;/t&gt; Update Details〓</summary>
 
 - Fixes an issue in the "Operation Deep-Dive Treasure" gameplay in the "Sunny Summer Fontinalia" event whereby the icons for certain creatures were displayed incorrectly.
 
@@ -613,7 +620,10 @@ Travelers affected by the above issues can log out via the Paimon Menu by select
 
 Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
 
-〓<t class="t_gl" contenteditable="false">2026/07/03 16:15</t> Update Details〓
+</details>
+
+<details open="true">
+<summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/03 16:15&lt;/t&gt; Update Details〓</summary>
 
 - Fixes an issue whereby, under certain circumstances, the mouse cursor would not appear properly on the payment screen after Travelers using a controller on PC purchased an item from the Shop.
 
@@ -627,13 +637,21 @@ Travelers affected by the above issues can log out via the Paimon Menu by select
 
 Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
 
-〓<t class="t_gl" contenteditable="false">2026/07/02 16:45</t> Update Details〓
+</details>
+
+<details open="true">
+<summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/02 16:45&lt;/t&gt; Update Details〓</summary>
 
 Fixes an issue whereby using the gadget "Sandrone's Portable Tea Table" to re-invite a character would abnormally grant Long-Term Encounter Points after the tea party ended.
 
-〓<t class="t_gl" contenteditable="false">2026/07/01 21:25</t> Update Details〓
+</details>
+
+<details open="true">
+<summary>〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/01 21:25&lt;/t&gt; Update Details〓</summary>
 
 Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the Talent "Edict of Cleansing," a single enhanced Sesshou Sakura lightning strike could cause the additional Electro DMG produced by "Radiance: Stellar-Conduct" to trigger multiple times abnormally upon hitting an enemy (It was inconsistent with the Talent description, which specifies that said additional DMG should trigger only once).
+
+</details>
 
 -----
 
