@@ -565,7 +565,21 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
+- On certain PC devices, switching to characters wearing the new outfits (specifically Citlali's "Whispers of Stars and Smoke" and Charlotte's "Hurlock Variations") in certain interfaces or scenes may occasionally cause serious in-game lag.
+
+Travelers on PC who encounter this issue can resolve it by disabling Compatibility Mode for both the game executable (Yuanshen.exe or GenshinImpact.exe) and the game launcher.
+
+*How to disable Compatibility Mode:
+
+Right-click the program icon, select "Properties" > "Compatibility", and uncheck "Run this program in compatibility mode for:".
+
+To locate the game executable, click the "≡" button in the bottom-right corner of the launcher interface, select "Game Settings," and click "Open Directory."
+
+If you have any questions, you may also contact Customer Service for guidance.
+
+- In certain interfaces or scenes, switching to characters wearing the new outfits (specifically Citlali's "Whispers of Stars and Smoke" and Charlotte's "Hurlock Variations") may occasionally cause minor lags. This issue will be fixed in Version 7.0.
+
+- There is currently an issue where certain related voice-over lines are missing when Columbina performs the first instance of her Normal Attack. This issue will be fixed in Version 7.0.
 
 〓<t class="t_gl" contenteditable="false">2026/07/09 16:10</t> Update Details〓
 
