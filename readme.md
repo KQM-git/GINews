@@ -1022,36 +1022,6 @@ After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false"
 
 -----
 
-# ["Adventurer's Booster Bundles" - Round 50 Available for a Limited Time](archive/21754.md)
-## Adventurer's Booster Bundles
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/5b40d8ebc00cb40e5f7852e600ac486b_6408640339449767220_transformed.jpg)
-
-Round 50 of Adventurer's Booster Bundles is available for a limited time in the Shop!
-
-〓Adventurer's Instructional Bundle〓
-
-Duration: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/07/15 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
-
-※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
-
-〓Adventurer's Jumbo Ore Bundle〓
-
-Duration: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/07/15 23:59</t>
-
-Purchase Requirements: Adventure Rank 25 or above
-
-Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
-
-Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
