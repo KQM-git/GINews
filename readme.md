@@ -680,6 +680,34 @@ Permanent
 
 -----
 
+# ["Final Long-Range Sightlines" Event: Shooting Strategy Challenge](archive/21756.md)
+## Final Long-Range Sightlines
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/18/db4a7ce2ccd4aa7fc565635c154f4d91_6167069495761070033_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/28/cc33146d1df63968c2027ddbf6b0ad8b_677973756185438597_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/07/17 10:00</t> – <t class="t_lc" contenteditable="false">2026/07/27 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest Song of the Welkin Moon - Act X first to get the best experience from this event.
+
+〓Event Details〓
+
+● A total of six new stages will be made available during the event, with two stages unlocked on Days 1, 3, and 5, respectively.
+
+● During the event, you need to plan your trajectories to score as many points as possible. Upon completing the challenge, you will receive corresponding rewards based on the score reached.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21168.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/23/40da7ab1ce17afd008e7a10c6ee6e67b_3372052251159312794_transformed.jpg)
