@@ -662,6 +662,42 @@ Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the
 
 -----
 
+# ["Have a Smashing Summer With Miliastra Wonderland!" Join the Miliastra Wonderland Summer Web Event on July 15 to Earn Rewards!](archive/21774.md)
+## "Have a Smashing Summer With Miliastra Wonderland!" — Genshin Impact Web Event Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/29/0377c9acc796414945fd1bff3fc96eb2_2781277993534423229_transformed.jpg)
+
+"Have a Smashing Summer With Miliastra Wonderland!" New Limited-Time Web Event Now Available!
+
+[>> Click to take part in the event <<](https://act.hoyoverse.com/ys/event/e20260715ugc-4svbyl/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260715summer&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/07/15 – <t class="t_lc" contenteditable="false">2026/07/28 03:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event, Travelers can complete web tasks to claim rewards such as Primogems, Geodes of Replication, "Miliastra Wonderland" items, and more. For quest details, please refer to the event page.
+
+※ There may be a delay of 1 to 2 hours in the data collection process. If the mission progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
+
+2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # ["Final Long-Range Sightlines" Event: Shooting Strategy Challenge](archive/21756.md)
 ## Final Long-Range Sightlines
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/18/db4a7ce2ccd4aa7fc565635c154f4d91_6167069495761070033_transformed.jpg)
