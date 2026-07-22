@@ -555,6 +555,36 @@ Fixes an issue whereby, under certain circumstances, there was a chance that the
 
 -----
 
+# ["Dance Dance Easy-Breezy Disco" Event: Co-Op Dance Challenge](archive/21760.md)
+## Dance Dance Easy-Breezy Disco
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/043dcdecff5921bf4d2dc8e1f9594b5d_5395945412439377263_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/28/0ca589ca2356fc25f336eb63813259c0_8387817263846330789_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/07/24 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/03 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Archon Quest Song of the Welkin Moon - Act X and the Story Quest "Sunspray Summer Resort" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, you can participate in dance challenges through Co-Op Mode. Complete these dance challenges to obtain Disco Dynamism points.
+
+● Starting from the first day of this event, Disco Dynamism score is capped at 2,000 points. The cap will rise on Day 3 and again on Day 5, reaching a maximum of 6,000 points. As your total points reach certain milestones, you can claim the corresponding rewards.
+
+● During dance challenges, the lead dancer will perform moves in rhythm with the music. Travelers must watch carefully, memorize the choreography, and then replicate it in time with the beat. The better your timing and accuracy, the higher your score. When Fever Time activates, complete the designated actions to earn bonus points.
+
+-----
+
 # [Event Wish "Somnias a Luna" - Boosted drop rate for "Welkin Moon's Homecoming" Columbina (Hydro)!](archive/21757.md)
 ## Event Wish "Somnias a Luna"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/ed9a488eb3715b7de3a15015a6706c9d_4609553862097974572_transformed.jpg)
