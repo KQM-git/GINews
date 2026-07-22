@@ -787,6 +787,26 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
+# [Genshin Impact's Song of the Welkin Moon Commemorative OST Album - "The Shimmering Voyage Vol. 6" Now Available](archive/21801.md)
+## Song of the Welkin Moon Commemorative OST Album Available Now
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/21/7b4a4ae863212f069a6bf0477098ad2c_7407398126049948059_transformed.jpg)
+
+Dear Traveler,
+
+Genshin Impact's Song of the Welkin Moon Commemorative OST album "The Shimmering Voyage Vol. 6" is now available! The album's four discs "Origin of Moonlight," "Confessions of the Magic Mountain," "Miliastra Concerto," and "For All Yesterdays" feature 92 remarkable tracks composed by the HOYO-MiX team, each one an original composition from Genshin Impact.
+
+Travelers can go to the following platforms to listen to "The Shimmering Voyage Vol. 6."
+
+Spotify:
+
+[Click here to listen to "The Shimmering Voyage Vol. 6"](https://open.spotify.com/album/1FkxT3cP2litsldCdvWIM8)
+
+Apple Music:
+
+[Click here to listen to "The Shimmering Voyage Vol. 6"](https://music.apple.com/us/album/6791462937)
+
+-----
+
 # ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21368.md)
 ## Genius Invokation TCG - Heated Battle Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/a066dbf310d6c4a5e2c22b1f8324b732_1404755613436123246_transformed.jpg)
