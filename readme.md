@@ -1182,6 +1182,36 @@ Manekina Cosmetic "Loafing Shark"
 
 -----
 
+# [Participate in "Starlight Voyage: Splendor Aglow" to Obtain Prismatic Crystals, the Token for the Colorful Surprise Box](archive/21764.md)
+## Starlight Voyage: Splendor Aglow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/aa1488b9c8d8d73bd56ced0858a3396c_6315014316295833258_transformed.jpg)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/07/27 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+Quest Completion Period: <t class="t_lc" contenteditable="false">2026/07/27 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/06 04:00</t>
+
+〓Event Rewards〓
+
+Prismatic Crystals
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
+
+● After the event begins, the available stages in Starlight Voyage and the maximum obtainable Sightseeing Experiences will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
+
+● During the event, Travelers can obtain the corresponding event reward, "Prismatic Crystals," by completing quests and accumulating Sightseeing Experiences.
+
+※ Prismatic Crystals obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
+
+-----
+
 # ["Fatebound Sea Season" Season Opening Announcement](archive/21763.md)
 ## Fatebound Sea Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7035ca31cd8498b0ef0a7d0c9761df57_6810033499703056196_transformed.jpg)
