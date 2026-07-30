@@ -989,22 +989,6 @@ After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false"
 
 -----
 
-# [Repertoire of Myriad Melodies Update - "Nod-Krai: Where Roads Are Pledged to Cross"](archive/21753.md)
-## Nod-Krai: Where Roads Are Pledged to Cross
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/65ddaaaaa5e13c781112970308014d25_1871086253469390326_transformed.jpg)
-
-After the "Luna VIII" version update, the new album "Nod-Krai: Where Roads Are Pledged to Cross" will be added to Repertoire of Myriad Melodies.
-
-Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1183,6 +1167,22 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Dreamy Summer Leisure" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Dreamy Summer Leisure" will be available for a limited time in the Miliastra Shop after Version Luna VIII ends. Please visit the Miliastra Shop for more details.
+
+-----
+
+# [Repertoire of Myriad Melodies Update - "Nod-Krai: Where Roads Are Pledged to Cross"](archive/21753.md)
+## Nod-Krai: Where Roads Are Pledged to Cross
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/65ddaaaaa5e13c781112970308014d25_1871086253469390326_transformed.jpg)
+
+After the "Luna VIII" version update, the new album "Nod-Krai: Where Roads Are Pledged to Cross" will be added to Repertoire of Myriad Melodies.
+
+Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
 
 -----
 
