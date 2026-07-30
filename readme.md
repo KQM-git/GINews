@@ -989,24 +989,6 @@ After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false"
 
 -----
 
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
-
------
-
 # ["Wonderland Treasures: Breezes Meet the Fatebound Sea" – New Manekin Cosmetics Now Available](archive/21765.md)
 ## Wonderland Treasures: Breezes Meet the Fatebound Sea
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/0c6ffa122f7b608a373cb24fa645f732_6057696171744651894_transformed.png)
@@ -1183,6 +1165,24 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
