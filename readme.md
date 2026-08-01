@@ -673,6 +673,26 @@ Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the
 
 -----
 
+# [Genshin Impact Snezhnaya Live Symphony Performance Now Available](archive/21826.md)
+## Snezhnaya Live Symphony Performance Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/8a0110919eb29fc906a1b51efe5e345d_8526529283855938734_transformed.jpg)
+
+Dear Traveler,
+
+The Snezhnaya Live Symphony Performance is now available.
+
+Conducted by Robert Ziegler, the Snezhnaya Live Symphony Performance features pianist Polina Osetinskaya, the London Symphony Orchestra, London Voices choir, and top folk musicians performing two game soundtrack pieces produced by HOYO-MiX, "Snezhnaya" and "Triumph on the Ice."
+
+A big thank you to TAKEOFF Studios for providing collaboration support, and to Stagecast for their support with filming and production.
+
+Travelers can go to the following platform to watch the Genshin Impact Snezhnaya Live Symphony Performance.
+
+YouTube:
+
+[Click here to watch the Genshin Impact Snezhnaya Live Symphony Performance](https://youtu.be/jioWKZAnUw0)
+
+-----
+
 # [The "Snezhnaya Awaits" web event is now available! It's time to look back on your journey through Teyvat so far and pre-register for the new version to earn up to Primogems ×80!](archive/21771.md)
 ## "Snezhnaya Awaits" — Genshin Impact Web Event Now Available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/28/f3c1c1b4965b4d7f66bc933b2210a532_2257449144532272367_transformed.jpg)
@@ -710,6 +730,26 @@ After the event ends, you will no longer be able to take part and claim the rewa
 The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
+## Ley Line Overflow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
+
+During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/08/03 04:00</t> - <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+〓Eligibility〓
+
+Revitalize a Blossom of Wealth or a Blossom of Revelation
+
+〓Event Details〓
+
+● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
 
 -----
 
@@ -824,6 +864,24 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21838.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
 
 -----
 
@@ -1205,24 +1263,6 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21784.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
