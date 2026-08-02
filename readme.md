@@ -753,36 +753,6 @@ Revitalize a Blossom of Wealth or a Blossom of Revelation
 
 -----
 
-# ["Dance Dance Easy-Breezy Disco" Event: Co-Op Dance Challenge](archive/21760.md)
-## Dance Dance Easy-Breezy Disco
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/043dcdecff5921bf4d2dc8e1f9594b5d_5395945412439377263_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/05/28/0ca589ca2356fc25f336eb63813259c0_8387817263846330789_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/07/24 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/03 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Archon Quest Song of the Welkin Moon - Act X and the Story Quest "Sunspray Summer Resort" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, you can participate in dance challenges through Co-Op Mode. Complete these dance challenges to obtain Disco Dynamism points.
-
-● Starting from the first day of this event, Disco Dynamism score is capped at 2,000 points. The cap will rise on Day 3 and again on Day 5, reaching a maximum of 6,000 points. As your total points reach certain milestones, you can claim the corresponding rewards.
-
-● During dance challenges, the lead dancer will perform moves in rhythm with the music. Travelers must watch carefully, memorize the choreography, and then replicate it in time with the beat. The better your timing and accuracy, the higher your score. When Fever Time activates, complete the designated actions to earn bonus points.
-
------
-
 # [Event Wish "Somnias a Luna" - Boosted drop rate for "Welkin Moon's Homecoming" Columbina (Hydro)!](archive/21757.md)
 ## Event Wish "Somnias a Luna"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/ed9a488eb3715b7de3a15015a6706c9d_4609553862097974572_transformed.jpg)
@@ -882,48 +852,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Automatic Artistry](archive/21368.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/a066dbf310d6c4a5e2c22b1f8324b732_1404755613436123246_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/09/18/77bc8ce33030bc36a950e3ef25faf437_8514401496547702025_transformed.png)
-
-〓Special Rules〓
-
-● In Heated Battle Mode: Automatic Artistry, Travelers must randomly draw characters and powerful supporting forces to form lineups and do consecutive battles.
-
-● In Automatic Artistry, Character Cards have ATK stats. The higher the character's ATK is, the higher the DMG they deal.
-
-● In Automatic Artistry, Character Cards have both levels and ranks. You can increase your characters' levels by selecting duplicate characters from the available rewards. Leveling up a character increases their ATK and Max HP. When your characters reach certain levels, you can ascend their ranks. After ranking up, characters can gain rank rewards or enhance their skills.
-
-● Before each battle, Travelers can play Event Cards or Equipment Cards to further build the characters, or rearrange the order of the characters.
-
-● After the battle begins, characters from both sides will automatically take actions in order from left to right.
-
-● In Automatic Artistry, the effects of certain Elemental reactions and cards will be adjusted. A Special Entry for Elemental Mastery is included in Automatic Artistry, increasing it will significantly boost Elemental Reaction effects.
-
-● You can check out the special mechanics and rules of Automatic Artistry in the rulebook.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/07/18 10:00</t> - <t class="t_lc" contenteditable="false">2026/08/03 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
 
 -----
 
