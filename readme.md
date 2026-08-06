@@ -818,6 +818,24 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21838.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nocturne's Curtain Call (Catalyst) and Engulfing Lightning (Polearm)!](archive/21759.md)
 ## Event Wish "Epitome Invocation"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/4e3d27bc1355385ce167ae7eaa14a870_8724727087742838379_transformed.jpg)
@@ -843,24 +861,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21838.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
@@ -999,28 +999,6 @@ Permanently available after the Version "Luna VIII" update
 〓Eligibility〓
 
 Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
------
-
-# [Citlali's Outfit "Whispers of Stars and Smoke" Available at a Limited-Time Discount](archive/21752.md)
-## Whispers of Stars and Smoke
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/6f30223e40060dfec6a15175c6556226_5758032492263471875_transformed.jpg)
-
-Citlali's outfit "Whispers of Stars and Smoke" is available at a limited-time discount in the Shop!
-
-〓Discount Period〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-〓Outfit Details〓
-
-● Citlali's outfit "Whispers of Stars and Smoke" will be permanently available in the Shop after the Version "Luna VIII" update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Citlali can still purchase the outfit, which can be viewed in the Character Archive after purchase.
 
 -----
 
@@ -1184,6 +1162,28 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Dreamy Summer Leisure" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Dreamy Summer Leisure" will be available for a limited time in the Miliastra Shop after Version Luna VIII ends. Please visit the Miliastra Shop for more details.
+
+-----
+
+# [Citlali's Outfit "Whispers of Stars and Smoke" Available at a Limited-Time Discount](archive/21752.md)
+## Whispers of Stars and Smoke
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/6f30223e40060dfec6a15175c6556226_5758032492263471875_transformed.jpg)
+
+Citlali's outfit "Whispers of Stars and Smoke" is available at a limited-time discount in the Shop!
+
+〓Discount Period〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
+
+〓Outfit Details〓
+
+● Citlali's outfit "Whispers of Stars and Smoke" will be permanently available in the Shop after the Version "Luna VIII" update.
+
+● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
+
+● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
+
+● Travelers who do not have Citlali can still purchase the outfit, which can be viewed in the Character Archive after purchase.
 
 -----
 
