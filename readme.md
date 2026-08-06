@@ -585,6 +585,15 @@ If you have any questions, you may also contact Customer Service for guidance.
 </details>
 
 <details open="true">
+<summary><span style="font-size: 0.1rem;">〓&lt;t class="t_gl" contenteditable="false"&gt;2026/08/06 16:10&lt;/t&gt; Update Details〓</span></summary>
+
+Updates resources related to subsequent events.
+
+Please select "Exit to Login Interface" from the Paimon Menu and close the game, then log back in to receive updates.
+
+</details>
+
+<details open="true">
 <summary><span style="font-size: 0.1rem;">〓&lt;t class="t_gl" contenteditable="false"&gt;2026/07/16 16:10&lt;/t&gt; Update Details〓</span></summary>
 
 - Updates resources related to subsequent events.
