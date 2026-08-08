@@ -682,26 +682,6 @@ Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the
 
 -----
 
-# [Genshin Impact Snezhnaya Live Symphony Performance Now Available](archive/21826.md)
-## Snezhnaya Live Symphony Performance Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/8a0110919eb29fc906a1b51efe5e345d_8526529283855938734_transformed.jpg)
-
-Dear Traveler,
-
-The Snezhnaya Live Symphony Performance is now available.
-
-Conducted by Robert Ziegler, the Snezhnaya Live Symphony Performance features pianist Polina Osetinskaya, the London Symphony Orchestra, London Voices choir, and top folk musicians performing two game soundtrack pieces produced by HOYO-MiX, "Snezhnaya" and "Triumph on the Ice."
-
-A big thank you to TAKEOFF Studios for providing collaboration support, and to Stagecast for their support with filming and production.
-
-Travelers can go to the following platform to watch the Genshin Impact Snezhnaya Live Symphony Performance.
-
-YouTube:
-
-[Click here to watch the Genshin Impact Snezhnaya Live Symphony Performance](https://youtu.be/jioWKZAnUw0)
-
------
-
 # [Version Satisfaction Survey Now Open](archive/21844.md)
 ## Version Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
@@ -763,6 +743,44 @@ After the event ends, you will no longer be able to take part and claim the rewa
 The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21761.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/28/f77abe8a6f4104f1229db987e2c4280a_4266689564815357750_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/08/10 04:00</t> - <t class="t_lc" contenteditable="false">2026/11/02 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
+
+※ Starting from this "To Temper Thyself and Journey Far" event, Stella Fortuna for the following characters will be permanently added to the available redemption rewards: Lyney, Wriothesley, Navia, Sigewinne, Clorinde, Emilie, Chiori, Xianyun, Yumemizuki Mizuki.
 
 -----
 
