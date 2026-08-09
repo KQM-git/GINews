@@ -784,26 +784,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 
 -----
 
-# ["Ley Line Overflow" Event - Double Drops From Blossoms of Wealth and Blossoms of Revelation!](archive/3364.md)
-## Ley Line Overflow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/07/d76cdab75f5f952a213e564f6b0a5a51_4833124728348338813.jpg)
-
-During the event, successfully challenge a Blossom of Wealth or Blossom of Revelation to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/08/03 04:00</t> - <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-〓Eligibility〓
-
-Revitalize a Blossom of Wealth or a Blossom of Revelation
-
-〓Event Details〓
-
-● During the "Ley Line Overflow" event, successfully challenge a Blossom of Wealth or Blossom of Revelation and consume Original Resin to double your rewards. You can double your rewards up to 3 times a day!
-
------
-
 # [Event Wish "Somnias a Luna" - Boosted drop rate for "Welkin Moon's Homecoming" Columbina (Hydro)!](archive/21757.md)
 ## Event Wish "Somnias a Luna"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/ed9a488eb3715b7de3a15015a6706c9d_4609553862097974572_transformed.jpg)
@@ -1044,111 +1024,6 @@ Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["Wonderland Treasures: Breezes Meet the Fatebound Sea" – New Manekin Cosmetics Now Available](archive/21765.md)
-## Wonderland Treasures: Breezes Meet the Fatebound Sea
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/0c6ffa122f7b608a373cb24fa645f732_6057696171744651894_transformed.png)
-
-During the event, you can obtain your favorite Manekin Cosmetics through the "Breezes Meet the Fatebound Sea" Event Ode, Chronicle of the Fatebound Sea, or the Miliastra Shop.
-
-Play Popular Miliastra Wonderland stages with your new Sets or Try-on Capes equipped, and who knows, you might even earn yourself a Primogems ×60 reward!
-
-〓Event Ode Details〓
-
-Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
---- | --- | ---
-After the Version "Luna VIII" update  —  <t class="t_lc" contenteditable="false">2026/08/11 14:59</t> | Chromatic Fatebound Sea | Sharp-Fanged Overlord
-^ | ^ | Savannah Dappled Flash
-^ | ^ | Propitious Breeze
-
-● During the event, the limited Legendary (5-Star) Cosmetic "Chromatic Fatebound Sea" and Elite (4-Star) Cosmetics "Sharp-Fanged Overlord," "Savannah Dappled Flash," and "Propitious Breeze" will be available in the Manekin Cosmetic Event Ode!
-
-● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Chromatic Fatebound Sea" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Chromatic Fatebound Sea: Twilight."
-
-※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
-
-※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
-
-〓Miliastra Shop〓
-
-Cosmetic Availability Period | Cosmetic Availability Period
---- | ---
-After the Version "Luna VIII" update  Available for 3 consecutive versions | After the Version "Luna VIII" update  Available for 3 consecutive versions
-Limited-Time Discount Period | Limited-Time Discount Period
-After the Version "Luna VIII" update  —  <t class="t_lc" contenteditable="false">2026/08/10 03:59</t> | After the Version "Luna VIII" update  —  <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
-Manekin Cosmetic "Spiritvessel Tzitzimitl"
-
-Manekina Cosmetic "Spiritvessel Tzitzimitl" | Manekin Cosmetic "Sweet Recipe"
-
-Manekina Cosmetic "Sweet Recipe"
-Manekin Cosmetic "Splatter Artist"
-
-Manekina Cosmetic "Splatter Artist" | Manekin Cosmetic "Loafing Shark" 
-
-Manekina Cosmetic "Loafing Shark"
-
-● After the Version "Luna VIII" update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
-
-● New Cosmetic Sets for Version Luna VIII! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Sweet Recipe" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Loafing Shark" Cosmetic Set is available for Chronal Nexus ×240 during the discount period and will revert to Chronal Nexus ×300 once the offer ends.
-
-● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Sweet Recipe" is priced at Chronal Nexus ×240.  In addition, the "Loafing Shark" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
-
-● After the Version "Luna VIII" update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
-
-● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
-
-〓Chronicle of the Fatebound Sea〓
-
-● Event Duration: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Invigorating Chill"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Secluded Isle: Azure Ripples."
-
-※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
-
-※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/08/10 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
-
-● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
-〓New Standard Ode Set Catalog〓
-
-● After the Version "Luna VIII" update, a new Elite (4-Star) Set Catalog "Salted Lemon Fizz" will be added to the Standard Ode "Encounter Echoes."
-
-※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
-
------
-
-# [Participate in "Starlight Voyage: Splendor Aglow" to Obtain Prismatic Crystals, the Token for the Colorful Surprise Box](archive/21764.md)
-## Starlight Voyage: Splendor Aglow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/aa1488b9c8d8d73bd56ced0858a3396c_6315014316295833258_transformed.jpg)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/07/27 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-Quest Completion Period: <t class="t_lc" contenteditable="false">2026/07/27 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/06 04:00</t>
-
-〓Event Rewards〓
-
-Prismatic Crystals
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
-
-● After the event begins, the available stages in Starlight Voyage and the maximum obtainable Sightseeing Experiences will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
-
-● During the event, Travelers can obtain the corresponding event reward, "Prismatic Crystals," by completing quests and accumulating Sightseeing Experiences.
-
-※ Prismatic Crystals obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
-
------
-
 # ["Fatebound Sea Season" Season Opening Announcement](archive/21763.md)
 ## Fatebound Sea Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7035ca31cd8498b0ef0a7d0c9761df57_6810033499703056196_transformed.jpg)
@@ -1207,28 +1082,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [Citlali's Outfit "Whispers of Stars and Smoke" Available at a Limited-Time Discount](archive/21752.md)
-## Whispers of Stars and Smoke
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/6f30223e40060dfec6a15175c6556226_5758032492263471875_transformed.jpg)
-
-Citlali's outfit "Whispers of Stars and Smoke" is available at a limited-time discount in the Shop!
-
-〓Discount Period〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-〓Outfit Details〓
-
-● Citlali's outfit "Whispers of Stars and Smoke" will be permanently available in the Shop after the Version "Luna VIII" update.
-
-● The price of the outfit after discount is 1,350 Genesis Crystals. The price will revert to 1,680 Genesis Crystals after the limited-time discount ends. The outfit can only be purchased once.
-
-● The outfit can be viewed in Character > Dressing Room > Outfit after purchase.
-
-● Travelers who do not have Citlali can still purchase the outfit, which can be viewed in the Character Archive after purchase.
-
------
-
 # [Repertoire of Myriad Melodies Update - "Nod-Krai: Where Roads Are Pledged to Cross"](archive/21753.md)
 ## Nod-Krai: Where Roads Are Pledged to Cross
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/65ddaaaaa5e13c781112970308014d25_1871086253469390326_transformed.jpg)
@@ -1242,34 +1095,6 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
-
------
-
-# ["Sunny Summer" Event Details](archive/21755.md)
-## Sunny Summer
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/18/73a73ee95d6dbf89aebb42b87f2d40bc_7019522087543287260_transformed.jpg)
-
-Travelers can earn rich rewards in "Sunny Summer" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Sunny Summer" and Furnishing Blueprint "Moon Envoy of Silver Radiance" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/08/10 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
 
 -----
 
@@ -1302,42 +1127,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
 
 ● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21646.md)
-## To Temper Thyself and Journey Far
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/f77abe8a6f4104f1229db987e2c4280a_2209363618000115098_transformed.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/05/18 04:00</t> - <t class="t_lc" contenteditable="false">2026/08/10 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 14 or above
-
-Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
-
-Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
-
-〓Event Details〓
-
-● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
-
-● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
-
-※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
-
-※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
-
-● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
-
-● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
 
 -----
 
