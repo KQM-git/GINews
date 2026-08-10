@@ -64,6 +64,260 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [Event Wish "Swan's Shadow in Silken Ice" - Boosted Drop Rate for "Swirling Snow" Odette (Cryo)!](archive/21803.md)
+## Event Wish "Swan's Shadow in Silken Ice"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/05/0f3f2e2659fd0facb74382ba01966407_5496711667373087691_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 7.0 update  –  <t class="t_lc" contenteditable="false">2026/09/01 17:59</t> | "Swirling Snow" Odette (Cryo) | "Swift-Striding Hound" Alyosha (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Swirling Snow" Odette (Cryo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Swift-Striding Hound" Alyosha (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Elegance in the Shadows" Lynette (Anemo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Swift-Striding Hound" Alyosha (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "The Hearth's Ashen Shadow" - Boosted Drop Rate for "Dire Balemoon" Arlecchino (Pyro)!](archive/21804.md)
+## Event Wish "The Hearth's Ashen Shadow"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/8886e72ffd5fd9c799f3884fa1a675f7_4884532905831430170_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 7.0 update  –  <t class="t_lc" contenteditable="false">2026/09/01 17:59</t> | "Dire Balemoon" Arlecchino (Pyro) | "Swift-Striding Hound" Alyosha (Electro)
+^ | ^ | "Harmless Sweetie" Sucrose (Anemo)
+^ | ^ | "Elegance in the Shadows" Lynette (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Dire Balemoon" Arlecchino (Pyro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Swift-Striding Hound" Alyosha (Electro), "Harmless Sweetie" Sucrose (Anemo), and "Elegance in the Shadows" Lynette (Anemo) will receive a huge drop-rate boost!
+
+● After this event wish ends, the 4-star character "Swift-Striding Hound" Alyosha (Electro) will be available in the standard wish "Wanderlust Invocation" in the next Version.
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Whitelake Frostfeather (Sword) and Crimson Moon's Semblance (Polearm)!](archive/21807.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/4253179e8e4a44b426905687470b64f7_5727898347054036581_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 7.0 update  –  <t class="t_lc" contenteditable="false">2026/09/01 17:59</t> | Whitelake Frostfeather (Sword)  Crimson Moon's Semblance (Polearm) | Favonius Sword (Sword)
+^ | ^ | The Bell (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+^ | ^ | Sacrificial Fragments (Catalyst)
+^ | ^ | Rust (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Whitelake Frostfeather (Sword) and Crimson Moon's Semblance (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons Favonius Sword (Sword), The Bell (Claymore), Dragon's Bane (Polearm), Sacrificial Fragments (Catalyst), and Rust (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Whitelake Frostfeather (Sword) or Crimson Moon's Semblance (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Complete the Archon Quest "Everwinter Without Mercy" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21809.md)
+## "Everwinter Without Mercy"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/eb6c69fd2dafac1cbee1bc5d1d177783_2112318365651381498_transformed.jpg)
+
+After the Version update, Archon Quests Chapter VII: Act I and Act II will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
+
+Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Snezhnaya regional specialties, and other rewards.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
+
+‍
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 18 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ After meeting the above prerequisites, explore the Snezhnaya region to automatically accept the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
+
+※ Complete the Archon Quest Song of the Welkin Moon - Act X and the Event Quest "Sunny Summer Fontinalia" first to get the best experience from this content.
+
+-----
+
+# ["The Godforsaken Frostlands" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21811.md)
+## The Godforsaken Frostlands
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/9a32fbe7642e27040872c702ff760c13_5512793208175518014_transformed.jpg)
+
+After the version update, the following new areas of Snezhnaya will be unlocked: Volkodlak Tundra, Everfrozen Earth, Fellfrost Peak, Flamefeather Valley, and White Birch Snowgrave.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
+
+-----
+
+# ["The Hunt Begins!" Event: Progress Through the Archon Quest "Everwinter Without Mercy" and Invite "Swift-Striding Hound" Alyosha (Electro)](archive/21812.md)
+## "The Hunt Begins!"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/b3796a5a4a1e25f5d4b98bbf5281adf7_3639628316288962447_transformed.jpg)
+
+〓Event Duration〓
+
+Permanently available after the Version 7.0 update
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/56bd90b919874797d7afa896b62834b5_4984527752073858135_transformed.png)
+
+〓Eligibility〓
+
+Adventure Rank 18 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+Progress through the "Everwinter Without Mercy" to invite "Swift-Striding Hound" Alyosha (Electro)!
+
+※ You can only invite "Swift-Striding Hound" Alyosha (Electro) once while progressing through the Archon Quest "Everwinter Without Mercy." The event page will close once you have invited the character.
+
+※ Before you invite the character, the event page will be available for the duration of Version 7.x, and the event page will close once Version 7.x ends. But you can still invite "Swift-Striding Hound" Alyosha (Electro) while progressing through "Everwinter Without Mercy."
+
+-----
+
+# ["Mutual Aid in Bloom: Into the Frostlands" Event: Snezhnaya Expedition Operation](archive/21814.md)
+## Mutual Aid in Bloom: Into the Frostlands
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/05/6fbaa08b08166133599be5cefe3899dc_6711958337363043222_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/2607ec2a318b526ef6431624cc26f633_1669234269855901447_transformed.png)
+
+〓Event Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/08/24 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
+
+※ Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event period, you must venture into designated sectors of Snezhnaya and complete objectives such as taking photos.
+
+● Objectives will be progressively unlocked. Complete the objectives to obtain various supply rewards and Fervor Coupons.
+
+● During the event, the "Snowballs A-Rollin'" challenge will be available. Upon completing the challenge, you can spend a certain number of "Fervor Coupons" to obtain "Lady Katheryne" statue parts. These parts can be used to decorate your stronghold and Serenitea Pot.
+
+● If you obtain duplicate parts, you can exchange them with other Travelers using the Mutual Aid Network storage device.
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 51 Available for a Limited Time](archive/21817.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/13e25af0562088670c24bb1e5be64f78_2238071507391343794_transformed.jpg)
+
+Round 51 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/08/26 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/08/26 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Frostfarer" Event Details](archive/21818.md)
+## Frostfarer
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/05/8f433c8053e3099966d24027ed62cfa2_9004885318188203190_transformed.jpg)
+
+Travelers can earn rich rewards in "Frostfarer" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Frostfarer" and Furnishing Blueprint "Dancing Beneath Silver-White Wings" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● Starting from this Battle Pass, on top of the ten 4-star weapons already in the BP Bounty, the following new 4-star weapons will also be available: Heretic's Molten Blade (Sword), Forged by the Golden Melody (Claymore), Frostbreath (Polearm), Clash of Kings (Catalyst), and Jade Vista (Bow). Reach Gnostic Hymn Level 30 to select any one of these fifteen weapons from the BP Bounty.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/09/21 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
 # ["Song of the Welkin Moon: Scherzo — Sunny Summer Fontinalia": Version "Luna VIII" Update Details](archive/21789.md)
 ## Version "Luna VIII" Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/30/0d98b6178777d572ef6cba49c920be70_7749270549070857460_transformed.jpg)
@@ -604,6 +858,38 @@ Fixes an issue whereby, under certain circumstances, there was a chance that the
 *This is a work of fiction and is not related to any actual people, events, groups, or organizations.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 7.0
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
