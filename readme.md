@@ -861,6 +861,81 @@ Fixes an issue whereby, under certain circumstances, there was a chance that the
 
 -----
 
+# ["Wonderland Treasures: Phantasmagoric Discourse": New Manekin Cosmetics Now Available](archive/21828.md)
+## Wonderland Treasures: Phantasmagoric Discourse
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/768b0faa779d48b1068e07c14d13eed9_3397593834209006595_transformed.jpg)
+
+During the event, Travelers can obtain desired Manekin Cosmetics via the Event Ode "Phantasmagoric Discourse," "Phantasmagoric Chronicle," or the Miliastra Shop!
+
+Play Popular Miliastra Wonderland stages with your new Sets or Try-On Capes equipped to obtain a Primogems ×60 reward!
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
+--- | --- | ---
+After the Version 7.0 update  —  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Whimsical Spectacle | Azure Mountainshade
+^ | ^ | Sleuth's Verdict
+^ | ^ | Twilight Phantom Thief
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Whimsical Spectacle" and Elite (4-Star) Cosmetics "Azure Mountainshade," "Sleuth's Verdict," and "Twilight Phantom Thief" will be available in the Manekin Cosmetic Event Ode!
+
+● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Whimsical Spectacle" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Whimsical Spectacle: Sugarcube Sleight."
+
+※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+〓Miliastra Shop〓
+
+Cosmetic Availability Period | Cosmetic Availability Period
+--- | ---
+After the Version 7.0 update  Available for 3 consecutive versions | After the Version 7.0 update  Available for 3 consecutive versions
+Limited-Time Discount Period | Limited-Time Discount Period
+After the Version 7.0 update   —  <t class="t_lc" contenteditable="false">2026/09/21 03:59</t> | After the Version 7.0 update   —  <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
+Manekin Cosmetic "Dreamy Summer Leisure"
+
+Manekina Cosmetic "Dreamy Summer Leisure" | Manekin Cosmetic "Fun Under Open Skies"
+
+Manekina Cosmetic "Fun Under Open Skies"
+Manekin Cosmetic "Cloudbound Journey"
+
+Manekina Cosmetic "Cloudbound Flight" | Manekin Cosmetic "Warrior of the Winning Hand"
+
+Manekina Cosmetic "Warrior of the Winning Hand"
+
+● After the Version 7.0 update, a total of 4 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
+
+● New sets released in Version 7.0! For the current event, the featured Elite (4-Star) Cosmetic Sets are priced at Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Sets are priced at Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends.
+
+● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 and the featured Exceptional (3-Star) Cosmetic Bundle is priced at Chronal Nexus ×240. These bundles are only available during the limited-time discount period for the corresponding sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
+
+● After the Version 7.0 update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
+
+● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
+
+〓Phantasmagoric Chronicle〓
+
+● Event Duration: After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+
+● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Letter Crane Courier"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Miracle Theater: Light and Shadow Spectacle."
+
+※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
+
+※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until 2026/09/21 02:59. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
+
+● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+〓New Standard Ode Set Catalog〓
+
+● After the Version 7.0 update, a new Elite (4-Star) Set Catalog "Crowned by the Breeze" will be added to the Standard Ode "Encounter Echoes."
+
+※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
 # ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
@@ -1305,6 +1380,64 @@ Complete the corresponding performance missions within the specified duration to
 〓Specified Duration〓
 
 After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
+
+-----
+
+# ["Phantasmagoric Season" Season Opening Announcement](archive/21832.md)
+## Phantasmagoric Season
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/aa083343bf81c57d7087c52154c9f46d_6202278230333995403_transformed.jpg)
+
+〓Season Duration〓
+
+Preparation Phase: After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/08/13 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/08/13 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/22 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/09/22 04:00</t> – End of Version 7.0
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season consists of three phases: The Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores cannot be earned.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Take Part in "Raiment Collection: Gentle Warmth" to Obtain an "Amber Nectar" Manekin Cosmetic Set of Your Choice](archive/21830.md)
+## Raiment Collection: Gentle Warmth
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/fde225e5b3f95bafb0627efd42495a80_4620973320045958054_transformed.jpg)
+
+〓Event Duration〓
+
+After Version 7.0 Update – <t class="t_lc" contenteditable="false">2026/09/23 05:59</t>
+
+〓Event Rewards〓
+
+An "Amber Nectar" Manekin Cosmetics Set of your choice and Geodes of Replication
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
+
+● During the event, once your total accumulated "Treasured Insights" reaches the required amount, you can claim the Manekin Cosmetic Set "Amber Nectar."
+
+● Before claiming your first component of the "Amber Nectar" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
+
+※ The Manekin Cosmetic Set "Amber Nectar" will be available for a limited time in the Miliastra Shop after Version 7.0 ends. Please visit the Miliastra Shop for more details.
 
 -----
 
