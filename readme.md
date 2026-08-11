@@ -1095,46 +1095,6 @@ Fixes an issue whereby, under certain circumstances, after Yae Miko unlocked the
 
 -----
 
-# [The "Snezhnaya Awaits" web event is now available! It's time to look back on your journey through Teyvat so far and pre-register for the new version to earn up to Primogems ×80!](archive/21771.md)
-## "Snezhnaya Awaits" — Genshin Impact Web Event Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/28/f3c1c1b4965b4d7f66bc933b2210a532_2257449144532272367_transformed.jpg)
-
-The new limited-time web event "Snezhnaya Awaits" is now available.
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20260731reserve-y2xckt/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260731preview&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/07/31 – <t class="t_gl" contenteditable="false">2026/08/11 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim your rewards in time. Rewards will be sent to your in-game mail after the Version 7.0 update.*
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-1. During the event period, pre-register for the new version to earn Primogems ×40. Visit the page to learn more.
-
-2. During the event, share your exclusive link to invite others to pre-register for the new version. You'll receive Primogems ×20 for each Traveler successfully invited to pre-register using your link. (Max 2 successful invites)
-
-※ During this event, characters on different servers but belonging to the same account cannot support or link to each other.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21761.md)
 ## To Temper Thyself and Journey Far
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/28/f77abe8a6f4104f1229db987e2c4280a_4266689564815357750_transformed.png)
