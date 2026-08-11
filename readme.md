@@ -1173,62 +1173,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 
 -----
 
-# [Event Wish "Somnias a Luna" - Boosted drop rate for "Welkin Moon's Homecoming" Columbina (Hydro)!](archive/21757.md)
-## Event Wish "Somnias a Luna"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/ed9a488eb3715b7de3a15015a6706c9d_4609553862097974572_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/07/21 18:00</t> –  <t class="t_lc" contenteditable="false">2026/08/11 14:59</t> | "Welkin Moon's Homecoming" Columbina (Hydro) | "Windthreading Shadow" Jahoda (Anemo)
-^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
-^ | ^ | "Wisdom's Measure" Sethos (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Welkin Moon's Homecoming" Columbina (Hydro) will receive a huge drop-rate boost!
-
-● During this Event Wish, the 4-star characters "Windthreading Shadow" Jahoda (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Wisdom's Measure" Sethos (Electro) will receive a huge drop rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!](archive/21758.md)
-## Event Wish "Reign of Serenity"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/feed9d723c2e7d5fb441dafee3c13d81_8435188004196210117_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/07/21 18:00</t> –  <t class="t_lc" contenteditable="false">2026/08/11 14:59</t> | "Plane of Euthymia" Raiden Shogun (Electro) | "Windthreading Shadow" Jahoda (Anemo)
-^ | ^ | "Shadow of the Night-Wind" Ororon (Electro)
-^ | ^ | "Wisdom's Measure" Sethos (Electro)
-
-● During this event wish, the event-exclusive 5-star character "Plane of Euthymia" Raiden Shogun (Electro) will receive a huge drop-rate boost!
-
-● During this Event Wish, the 4-star characters "Windthreading Shadow" Jahoda (Anemo), "Shadow of the Night-Wind" Ororon (Electro), and "Wisdom's Measure" Sethos (Electro) will receive a huge drop rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21838.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1244,34 +1188,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Nocturne's Curtain Call (Catalyst) and Engulfing Lightning (Polearm)!](archive/21759.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/4e3d27bc1355385ce167ae7eaa14a870_8724727087742838379_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/07/21 18:00</t> –  <t class="t_lc" contenteditable="false">2026/08/11 14:59</t> | Nocturne's Curtain Call (Catalyst)  Engulfing Lightning (Polearm) | Waveriding Whirl (Catalyst)
-^ | ^ | Sacrificial Sword (Sword)
-^ | ^ | The Bell (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Favonius Warbow (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Nocturne's Curtain Call (Catalyst) and Engulfing Lightning (Polearm) will receive a huge drop-rate boost!
-
-● During the event, the event-exclusive 4-star weapon Waveriding Whirl (Catalyst), as well as the 4-star weapons Sacrificial Sword (Sword), The Bell (Claymore), Favonius Lance (Polearm), and Favonius Warbow (Bow) will receive a huge drop rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Nocturne's Curtain Call (Catalyst) or Engulfing Lightning (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -1364,22 +1280,6 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Dreamy Summer Leisure" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Dreamy Summer Leisure" will be available for a limited time in the Miliastra Shop after Version Luna VIII ends. Please visit the Miliastra Shop for more details.
-
------
-
-# [Repertoire of Myriad Melodies Update - "Nod-Krai: Where Roads Are Pledged to Cross"](archive/21753.md)
-## Nod-Krai: Where Roads Are Pledged to Cross
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/65ddaaaaa5e13c781112970308014d25_1871086253469390326_transformed.jpg)
-
-After the "Luna VIII" version update, the new album "Nod-Krai: Where Roads Are Pledged to Cross" will be added to Repertoire of Myriad Melodies.
-
-Complete the corresponding performance missions within the specified duration to obtain an additional reward of Primogems ×60.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/11 14:59</t>
 
 -----
 
