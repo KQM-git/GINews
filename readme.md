@@ -431,82 +431,6 @@ After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false"
 
 -----
 
-# ["Witch's Revelation" Gameplay Details](archive/21751.md)
-## "Witch's Revelation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/49208ed32b9337e6a56f880390da1f93_3716451833882423464_transformed.jpg)
-
-Complete the quest "Revelations by Chance" to obtain the "Witch's Revelation Case".
-
-Reveal the revelations from the Witch's Revelation Case to unlock the corresponding character's additional Talent and gain character buffs.
-
-〓Duration〓
-
-Permanently available after the Version "Luna VIII" update
-
-〓Eligibility〓
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
------
-
-# ["Fatebound Sea Season" Season Opening Announcement](archive/21763.md)
-## Fatebound Sea Season
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7035ca31cd8498b0ef0a7d0c9761df57_6810033499703056196_transformed.jpg)
-
-〓Season Duration〓
-
-Preparation Phase: After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/07/02 09:59</t>
-
-Play Phase: <t class="t_lc" contenteditable="false">2026/07/02 10:00</t> – <t class="t_lc" contenteditable="false">2026/08/11 03:59</t>
-
-Showcase Phase: <t class="t_lc" contenteditable="false">2026/08/11 04:00</t> – End of Version "Luna VIII"
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Season Details〓
-
-● Each season consists of three phases: The Preparation Phase, Play Phase, and Showcase Phase.
-
-● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
-
-※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
-
-● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores will no longer be awarded.
-
-● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
-
------
-
-# [Participate in "Raiment Collection: Mellow Warmth" to Obtain the "Dreamy Summer Leisure" Manekin Cosmetics Set of Your Choice](archive/21762.md)
-## Raiment Collection: Mellow Warmth
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/cdc7d9f8c21fc84cbbe9c8c1698f7e3f_7620124751577152017_transformed.jpg)
-
-〓Event Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/08/12 05:59</t>
-
-〓Event Rewards〓
-
-A "Dreamy Summer Leisure" Manekin Cosmetics Set of your choice and Geodes of Replication
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
-
-● During the event, once your total accumulated "Treasured Insights" reach the required amount, you can claim the Manekin Cosmetics Set "Dreamy Summer Leisure."
-
-● Before claiming your first component of the "Dreamy Summer Leisure" Manekin Cosmetics Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
-
-※ The Manekin Cosmetic Set "Dreamy Summer Leisure" will be available for a limited time in the Miliastra Shop after Version Luna VIII ends. Please visit the Miliastra Shop for more details.
-
------
-
 # ["Phantasmagoric Season" Season Opening Announcement](archive/21832.md)
 ## Phantasmagoric Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/aa083343bf81c57d7087c52154c9f46d_6202278230333995403_transformed.jpg)
@@ -565,38 +489,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# ["Genius Invokation TCG" The Forge Realm's Temper: Endless Swarm](archive/20834.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/05/cf324597e5d687e26d86f297e59c9ebd_2179973999643752178.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/10/17/77bc8ce33030bc36a950e3ef25faf437_4187973441338794750.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version "Luna VIII"
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● Defeat opponents within these stages to accrue score. Defeat as many opponents as possible within the Round limit to score more points.
-
-● After completing the challenge, points will be obtained based on the number of opponents defeated. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
 # ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: New Travelers Can Invite a Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21707.md)
 ## Uncover Lunar Realms, Hone the Eventide Radiance
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/d123dfbb81d6f730a5eeba577d493dad_3408949110643189124_transformed.jpg)
@@ -642,34 +534,6 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# ["The Clink Clank Whiz-Kid!" Event: Progress the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" and invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)](archive/21282.md)
-## The Clink Clank Whiz-Kid!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/28/8dbda65d63a584a0eaedee3fed63c0c4_4369780166988778346_transformed.png)
-
-〓Event Duration〓
-
-Permanently available after the Version "Luna I" update
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/08/28/ebe0f6b67f4964d2d589465e2b03cfd7_2162350746605326539_transformed.png)
-
-〓Eligibility〓
-
-Complete the Archon Quest "The Journey Home"
-
-※ After completing the Archon Quest "A New Star Approaches," you can use the "Quick Start" function on the event page to begin the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" directly.
-
-〓Event Details〓
-
-Progress through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves" to invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro).
-
-※ You can only invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro) once while progressing through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves." The event page will close once you have invited the character.
-
-※ Before you invite the character, the event page will be available throughout the "Song of the Welkin Moon" game version, and the event page will close once the "Song of the Welkin Moon" version ends. Then you will no longer be able to use the "Quick Start" function via the event page, but you can still invite "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro) while progressing through the Archon Quest "A Dance of Snowy Tides and Hoarfrost Groves."
 
 -----
 
