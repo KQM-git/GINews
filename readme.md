@@ -1,3 +1,27 @@
+# [Game Survey](archive/21848.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_k-BFsx-seXZlJUP2c9jilDCgAXAuxCjVT72gll6OFBK&game_biz=hk4e_global&surveyId=39582&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [Event Wish "Swan's Shadow in Silken Ice" - Boosted Drop Rate for "Swirling Snow" Odette (Cryo)!](archive/21803.md)
 ## Event Wish "Swan's Shadow in Silken Ice"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/05/0f3f2e2659fd0facb74382ba01966407_5496711667373087691_transformed.jpg)
@@ -397,6 +421,22 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 
 -----
 
+# ["When We Look Up at the Moon": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21750.md)
+## "When We Look Up at the Moon"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/d1fccbee7dc2d207a6f1ddbf6639840b_198600082712231926_transformed.jpg)
+
+Version "Luna VIII" introduces the following new areas: Dunanna Pit, Lunar Highlands, Moontide Sea, and the Dark Side of the Moon
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21838.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -412,22 +452,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# ["When We Look Up at the Moon": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21750.md)
-## "When We Look Up at the Moon"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/d1fccbee7dc2d207a6f1ddbf6639840b_198600082712231926_transformed.jpg)
-
-Version "Luna VIII" introduces the following new areas: Dunanna Pit, Lunar Highlands, Moontide Sea, and the Dark Side of the Moon
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
 
 -----
 
@@ -486,30 +510,6 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Amber Nectar" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Amber Nectar" will be available for a limited time in the Miliastra Shop after Version 7.0 ends. Please visit the Miliastra Shop for more details.
-
------
-
-# [Game Survey](archive/21848.md)
-## Complete the Survey and Get Primogems
-![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
-
-Dear Travelers,
-
-A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
-
-〓Survey Period〓
-
-Long-term
-
-〓Survey Link〓
-
-[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_k-BFsx-seXZlJUP2c9jilDCgAXAuxCjVT72gll6OFBK&game_biz=hk4e_global&surveyId=39582&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Survey answers cannot be changed after submission, so please fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
 
 -----
 
