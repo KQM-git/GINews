@@ -489,6 +489,30 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
+# [Game Survey](archive/21848.md)
+## Complete the Survey and Get Primogems
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
+
+Dear Travelers,
+
+A new adventure has begun! In order to better understand the gaming habits of Travelers and to bring them the best-possible Genshin Impact experience, Paimon has prepared a survey. Travelers who complete the survey will receive Primogems ×50~
+
+〓Survey Period〓
+
+Long-term
+
+〓Survey Link〓
+
+[Click here to fill out the survey.](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_k-BFsx-seXZlJUP2c9jilDCgAXAuxCjVT72gll6OFBK&game_biz=hk4e_global&surveyId=39582&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Game Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Survey answers cannot be changed after submission, so please fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: New Travelers Can Invite a Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21707.md)
 ## Uncover Lunar Realms, Hone the Eventide Radiance
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/d123dfbb81d6f730a5eeba577d493dad_3408949110643189124_transformed.jpg)
