@@ -883,6 +883,46 @@ Currently, in a cutscene for the Archon Quest "Wraith's Nocturne," the Elemental
 
 -----
 
+# [The "Snezhnaya Travel Guide" Web Event Is Now Live! Take Part to Receive Guaranteed Primogems!](archive/21798.md)
+## "Snezhnaya Travel Guide": Genshin Impact Web Event Now Available!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/28/7eb2245e84349a677ee2f1b94115a58a_6108259665941386169_transformed.jpg)
+
+The new limited-time web event "Snezhnaya Travel Guide" is now available.
+
+[>> Click to take part in the event <<](https://act.hoyoverse.com/ys/event/e20260812winter-1npovj/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260812snezhnaya&authkey_ver=1&utm_source=ingame&utm_medium=notice)
+
+〓Event Duration〓
+
+2026/08/12 – <t class="t_gl" contenteditable="false">2026/08/25 23:59</t>
+
+*Rewards cannot be claimed after the event ends. Please claim them in time.
+
+〓Eligibility〓
+
+Travelers who have reached Adventure Rank 1 or above can participate in this event.
+
+〓Event Description and Rewards〓
+
+During the event period, Travelers can complete the "Snowfield Pathfinder," "Snowfield Homecoming" (returning Travelers only), and "Companion Handbook" missions to obtain Primogems and Cryo Keys. Use Cryo Keys to enter the prize draw and win even more rewards!
+
+1. Snowfield Pathfinder: Earn up to 22 Cryo Keys. See the event page for details
+
+2. Snowfield Homecoming: Available only to returning Travelers. Obtain up to 20 Cryo Keys. After successfully linking your account through another player's invitation link for the first time, you can also obtain an additional Primogems ×20 and Cryo Keys ×2. See the event page for details.
+
+3. Companion Handbook: Share your exclusive link and invite friends to provide assistance or link their accounts to obtain up to 9 Cryo Keys. See the event page for details.
+
+*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
+
+〓Event Notes〓
+
+After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
+
+The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
+
+-----
+
 # [Game Survey](archive/21848.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -1158,46 +1198,6 @@ Adventure Rank 20 or above
 ● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
 
 ● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
-# [The "Snezhnaya Travel Guide" Web Event Is Now Live! Take Part to Receive Guaranteed Primogems!](archive/21798.md)
-## "Snezhnaya Travel Guide": Genshin Impact Web Event Now Available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/28/7eb2245e84349a677ee2f1b94115a58a_6108259665941386169_transformed.jpg)
-
-The new limited-time web event "Snezhnaya Travel Guide" is now available.
-
-[>> Click to take part in the event <<](https://act.hoyoverse.com/ys/event/e20260812winter-1npovj/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20260812snezhnaya&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-2026/08/12 – <t class="t_gl" contenteditable="false">2026/08/25 23:59</t>
-
-*Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-〓Event Description and Rewards〓
-
-During the event period, Travelers can complete the "Snowfield Pathfinder," "Snowfield Homecoming" (returning Travelers only), and "Companion Handbook" missions to obtain Primogems and Cryo Keys. Use Cryo Keys to enter the prize draw and win even more rewards!
-
-1. Snowfield Pathfinder: Earn up to 22 Cryo Keys. See the event page for details
-
-2. Snowfield Homecoming: Available only to returning Travelers. Obtain up to 20 Cryo Keys. After successfully linking your account through another player's invitation link for the first time, you can also obtain an additional Primogems ×20 and Cryo Keys ×2. See the event page for details.
-
-3. Companion Handbook: Share your exclusive link and invite friends to provide assistance or link their accounts to obtain up to 9 Cryo Keys. See the event page for details.
-
-*There may be a lag in the data collection process. If the quest progress is not updated, please refresh the page or wait patiently.
-
-〓Event Notes〓
-
-After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
 
 -----
 
