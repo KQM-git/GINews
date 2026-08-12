@@ -869,6 +869,28 @@ Fixes an issue whereby, when using a keyboard and mouse on PC, there is a chance
 
 -----
 
+# [Version Details - What's New ](archive/21866.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Known Issues〓
+
+- Currently, PC devices equipped with Intel® Iris® Xe series graphics cards may experience abnormal screen flickering when entering the Snezhnaya region.
+
+Travelers who encounter this issue are advised to visit the Intel official website to download and install the latest graphics driver, then restart their device to resolve the issue.
+
+Travelers can also visit the following link for detailed instructions on updating Intel drivers:
+
+[https://www.hoyolab.com/article/20981435](https://www.hoyolab.com/article/20981435)
+
+- Currently, in a cutscene for the Archon Quest "Wraith's Nocturne," the Elemental Type icon displayed for Mitya appears incorrect (it should be an Electro "Stellar Linchpin"). This issue will be fixed in a future update.
+
+-----
+
 # [The "Snezhnaya Travel Guide" Web Event Is Now Live! Take Part to Receive Guaranteed Primogems!](archive/21798.md)
 ## "Snezhnaya Travel Guide": Genshin Impact Web Event Now Available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/28/7eb2245e84349a677ee2f1b94115a58a_6108259665941386169_transformed.jpg)
