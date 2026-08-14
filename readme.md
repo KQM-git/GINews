@@ -879,8 +879,6 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-- Currently, on some Android devices, abnormal patterns will appear on the faces of Sandrone and Mitya during certain dialogues in the Archon Quests "Everwinter Without Mercy" and "Wraith's Nocturne." This issue will be fixed in a future update.
-
 - Currently, PC devices equipped with Intel® Iris® Xe series graphics cards may experience abnormal screen flickering when entering the Snezhnaya region.
 
 Travelers who encounter this issue are advised to visit the Intel official website to download and install the latest graphics driver, then restart their device to resolve the issue.
@@ -890,6 +888,22 @@ Travelers can also visit the following link for detailed instructions on updatin
 [https://www.hoyolab.com/article/20981435](https://www.hoyolab.com/article/20981435)
 
 - Currently, in a cutscene for the Archon Quest "Wraith's Nocturne," the Elemental Type icon displayed for Mitya appears incorrect (it should be an Electro "Stellar Linchpin"). This issue will be fixed in a future update.
+
+〓<t class="t_gl" contenteditable="false">2026/08/14 11:13</t> Update Details〓
+
+- Adds an additional location of Prime Ice that can be repeatedly demolished in the scene for the objective "Use Prime Ice Constructs to prop up the door" in the Archon Quest "Everwinter Without Mercy" to resolve the issue whereby, under certain circumstances, there would be no Prime Ice available to demolish within the area, preventing Travelers from obtaining Prime Ice Resource and progressing the quest.
+
+- Fixes an issue on some Android devices whereby abnormal patterns would appear on the faces of Sandrone and Mitya during certain dialogues in the Archon Quests "Everwinter Without Mercy" and "Wraith's Nocturne."
+
+- Fixes an issue whereby, after completing the World Quest "Variations on Belyi and Chernyi" with Traveler (Lumine) and unlocking the ending "Lost Amidst the Applause," Traveler (Lumine) would incorrectly appear as Traveler (Aether) in the image inside the quest item "Black Snow Swan Archive."
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
+
+- Fixes an issue whereby the display density of Prime Ice Constructs is abnormally high in certain areas of Snezhnaya.
+
+- Reduces the frequency at which "Sign: Icon" and "Sign: Text" are pushed for all types of Prime Ice Constructs.
+
+*Effective time of the above changes: If a Traveler has not logged into the game between <t class="t_lc" contenteditable="false">2026/08/14 04:00</t> and <t class="t_gl" contenteditable="false">2026/08/14 11:13</t>, the changes will take effect immediately upon their next login. If a Traveler has logged into the game during the specified period, the changes will take effect when they log in again after <t class="t_lc" contenteditable="false">2026/08/15 04:00</t>.
 
 〓<t class="t_gl" contenteditable="false">2026/08/13 16:10</t> Update Details〓
 
