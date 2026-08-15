@@ -1470,6 +1470,32 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
+# [Participate in "Spooky Summer Adventures" to obtain the "Spooky Boo Hat" cosmetic](archive/21829.md)
+## Spooky Summer Adventures
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/9d741922da38c23cb529f84fdec545aa_3848656710873632393_transformed.jpg)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/08/17 12:00</t> – <t class="t_lc" contenteditable="false">2026/09/04 03:59</t>
+
+Quest Completion Period: <t class="t_lc" contenteditable="false">2026/08/17 12:00</t> – <t class="t_lc" contenteditable="false">2026/08/31 03:59</t>
+
+〓Event Rewards〓
+
+Headwear "Spooky Boo Hat," Geodes of Replication, Prismatic Crystals, Actions, and Expressions
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Expedition Insights" by completing Spooky Tale Missions. Rewards from these missions are subject to a weekly limit.
+
+● During the event, accumulate enough "Expedition Insights" to unlock the limited-time Headwear "Spooky Boo Hat," as well as rewards such as Geodes of Replication, Prismatic Crystals, actions, and expressions.
+
+-----
+
 # ["Uncover Lunar Realms, Hone the Eventide Radiance" Event: New Travelers Can Invite a Wanderlust Invocation (Standard) 5-Star Character of Your Choice](archive/21707.md)
 ## Uncover Lunar Realms, Hone the Eventide Radiance
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/07/d123dfbb81d6f730a5eeba577d493dad_3408949110643189124_transformed.jpg)
