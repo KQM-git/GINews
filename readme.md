@@ -1,3 +1,21 @@
+# [Snezhnaya is now available!](archive/21862.md)
+## Version 7.0 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/da3ce193ed4c9ff06389731319734705_3064892791146728505_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/686ceae47aead2355b23c085759ea00c_477374823023461382_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/2f8cab16728105f583b7e33bf37efbb0_955301774170097998_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/aae5003263763200788d33af3fbf48bf_5594735643054011781_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/bf9f39f8c2c864fb0e6182b4528aadf0_8361240180454213870_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/51268a5f49188a62357b082d04ab7c86_5099647093020125891_transformed.jpg)
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21847.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/40da7ab1ce17afd008e7a10c6ee6e67b_2356516580085115627_transformed.jpg)
@@ -57,24 +75,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
 
 ※ Starting from this event, a new weapon appearance style will be added to "Radiant Phantasm" and "Radiant Phantasm: Sublimation." Upon obtaining them, both the new and old weapon appearances will be obtained together.
-
------
-
-# [Snezhnaya is now available!](archive/21862.md)
-## Version 7.0 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/da3ce193ed4c9ff06389731319734705_3064892791146728505_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/686ceae47aead2355b23c085759ea00c_477374823023461382_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/2f8cab16728105f583b7e33bf37efbb0_955301774170097998_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/aae5003263763200788d33af3fbf48bf_5594735643054011781_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/bf9f39f8c2c864fb0e6182b4528aadf0_8361240180454213870_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/51268a5f49188a62357b082d04ab7c86_5099647093020125891_transformed.jpg)
 
 -----
 
