@@ -951,6 +951,34 @@ Travelers can also visit the following link for detailed instructions on updatin
 
 - Currently, in a cutscene for the Archon Quest "Wraith's Nocturne," the Elemental Type icon displayed for Mitya appears incorrect (it should be an Electro "Stellar Linchpin"). This issue will be fixed in a future update.
 
+〓<t class="t_gl" contenteditable="false">2026/08/20 16:10</t> Update Details〓
+
+- Fixes an issue whereby the "Decorate Carriage" and "Remove Decoration" options for the train summoned by the Eye of Graeae became available before completing the World Quest "Daybreak After the Snow." After this fix, any decorations set before completing the quest remain unaffected. The relevant options no longer appear before the World Quest is completed and become available again after completion.
+
+- Fixes an issue on mobile devices whereby, under certain circumstances, performing a slide during the Archon Quests "Everwinter Without Mercy" and "Gunfire in the Silent Lands" caused display abnormalities and prevents further operation.
+
+- Fixes an issue whereby the weapon of Odette appeared in an incorrect position after she performed a Charged Attack.
+
+- Fixes an issue on some mobile devices whereby, with Graphics Quality set to "Lowest," the eyes of Traveler (Aether) and Traveler (Lumine) displayed incorrectly during certain quest dialogues.
+
+- Fixes some display issues with the Traveler character model on mobile devices, including issues with Aether's earring and Lumine's top.
+
+- Fixes an issue when playing via Genshin Impact · Cloud whereby settings changed under Eye of Graeae > Settings > Controls > Third-Person Shooter reverted to default after re-entering the game.
+
+- Fixes an issue whereby, under certain circumstances, the relevant chest did not appear after completing the challenge offered by the NPC "Lukov" in Fellfrost Peak, Snezhnaya. Travelers who encounter this issue can return to the vicinity of the challenge location and use the Cryo Treasure Compass to locate the chest.
+
+- Fixes an issue whereby, under certain circumstances, characters may be unable to enter cover, and the behavior of some enemies may become abnormal in "Edge of Survival" stages.
+
+- Fixes an issue whereby, under certain circumstances, the camera may behave abnormally after challenging the "Immortal Construct" or "Chimeric Winged Lion" in the open world.
+
+- Fixes an issue on the Irminsul server whereby tags displayed incorrectly on the "Top Comments" screen of Miliastra Wonderland stages.
+
+- Fixes an issue in Miliastra Wonderland whereby, after switching to the "Wonderland Rising Stars" tab from another screen, Travelers were unable to swipe down to refresh and load more new stages.
+
+- Fixes localization errors in some Indonesian, Korean, Japanese, English, and Russian text. In English, this includes an issue in the Archon Quest "Everwinter Without Mercy" whereby some personal pronouns were incorrect.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
+
 〓<t class="t_gl" contenteditable="false">2026/08/14 11:13</t> Update Details〓
 
 - Adds an additional location of Prime Ice that can be repeatedly demolished in the scene for the objective "Use Prime Ice Constructs to prop up the door" in the Archon Quest "Everwinter Without Mercy" to resolve the issue whereby, under certain circumstances, there would be no Prime Ice available to demolish within the area, preventing Travelers from obtaining Prime Ice Resource and progressing the quest.
@@ -964,8 +992,6 @@ Travelers affected by the above issues can log out via the Paimon Menu by select
 - Fixes an issue whereby the display density of Prime Ice Constructs is abnormally high in certain areas of Snezhnaya.
 
 - Reduces the frequency at which "Sign: Icon" and "Sign: Text" are pushed for all types of Prime Ice Constructs.
-
-*Effective time of the above changes: If a Traveler has not logged into the game between <t class="t_lc" contenteditable="false">2026/08/14 04:00</t> and <t class="t_gl" contenteditable="false">2026/08/14 11:13</t>, the changes will take effect immediately upon their next login. If a Traveler has logged into the game during the specified period, the changes will take effect when they log in again after <t class="t_lc" contenteditable="false">2026/08/15 04:00</t>.
 
 〓<t class="t_gl" contenteditable="false">2026/08/13 16:10</t> Update Details〓
 
