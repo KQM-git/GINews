@@ -869,68 +869,6 @@ Fixes an issue whereby, when using a keyboard and mouse on PC, there is a chance
 
 -----
 
-# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21847.md)
-## Stygian Onslaught
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/40da7ab1ce17afd008e7a10c6ee6e67b_2356516580085115627_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
-
-〓Event Duration〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/08/19 10:00</t> - <t class="t_lc" contenteditable="false">2026/09/22 03:59</t>
-
-Disturbance Outbreak: <t class="t_lc" contenteditable="false">2026/08/19 10:00</t> - <t class="t_lc" contenteditable="false">2026/08/29 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
-
-〓Event Details〓
-
-● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
-
-● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
-
-The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
-
-From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
-
-● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
-
-"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
-
-There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
-
-Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
-
-● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
-
-During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
-
-Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
-
-After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
-
-● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
-
-Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
-
-● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
-
-"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
-
-"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
-
-※ Starting from this event, a new weapon appearance style will be added to "Radiant Phantasm" and "Radiant Phantasm: Sublimation." Upon obtaining them, both the new and old weapon appearances will be obtained together.
-
------
-
 # [Version Details - What's New ](archive/21866.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -1072,6 +1010,68 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
+
+-----
+
+# [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21847.md)
+## Stygian Onslaught
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/40da7ab1ce17afd008e7a10c6ee6e67b_2356516580085115627_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/05/2b8eaa5bc75b36d842c22a91c3bb4fb4_2475835335613495492.png)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/08/19 10:00</t> - <t class="t_lc" contenteditable="false">2026/09/22 03:59</t>
+
+Disturbance Outbreak: <t class="t_lc" contenteditable="false">2026/08/19 10:00</t> - <t class="t_lc" contenteditable="false">2026/08/29 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+And complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※Complete Archon Quest "Perilous Trail" first to get the best experience from this event.
+
+〓Event Details〓
+
+● Challenge gameplay: You must select a difficulty first. After you enter a challenge, you must complete 3 phases, for a total of 3 time-limited battles. The challenge is considered complete once all opponents in all 3 battles are beaten.
+
+● Difficulty: difficulty levels in ascending order are "Normal," "Advancing," "Hard," "Menacing," "Fearless," and "Dire."
+
+The higher the initial difficulty selected, the more restrictive the rules applied during the challenge, and the tougher enemies will be.
+
+From the "Hard" difficulty onward, you can only unlock the next difficulty by clearing the current one.
+
+● "Exalted Ones": There can be a maximum of 16 "Exalted Ones" at any one time during the challenge.
+
+"Exalted Ones" will obtain buff effects; adding them to your party will help you complete the challenge.
+
+There can be a maximum of 16 "Exalted Ones" at any one time during the challenge, and their number is subject to change.
+
+Under the "Dire" difficulty, "Exalted Ones" no longer obtain buff effects.
+
+● Disturbance Outbreak: In the first 10 days from when the challenge is available, the Ley Line disturbance will be in an "Outbreak" state.
+
+During the Disturbance Outbreak, players with Adventure Rank 45 and above can challenge stages at "Hard" difficulty onwards, and upon completing them, can consume Resin to earn the rewards from their chosen Domains of Blessing, while also accumulating Dire Prestige.
+
+Accumulate a certain amount of Dire Prestige to receive extra Artifact rewards and Dust of Enlightenment.
+
+After the Disturbance Outbreak ends, players will not be able to consume Resins to claim rewards from their selected Domain of Blessing.
+
+● Completing a more difficult challenge will also let you obtain the rewards from the difficulties below that one.
+
+Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completing the single-player challenge.
+
+● Co-Op Mode: All difficulty levels support Co-Op Mode of up to 4 players.
+
+"Normal," "Advancing," and "Hard" difficulties support matchmaking or Co-Op Mode within the same world.
+
+"Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
+
+※ Starting from this event, a new weapon appearance style will be added to "Radiant Phantasm" and "Radiant Phantasm: Sublimation." Upon obtaining them, both the new and old weapon appearances will be obtained together.
 
 -----
 
@@ -1265,36 +1265,6 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 -----
 
-# ["Frostfarer" Event Details](archive/21818.md)
-## Frostfarer
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/05/8f433c8053e3099966d24027ed62cfa2_9004885318188203190_transformed.jpg)
-
-Travelers can earn rich rewards in "Frostfarer" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Frostfarer" and Furnishing Blueprint "Dancing Beneath Silver-White Wings" and Dust of Enlightenment.
-
-〓Event Duration〓
-
-After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-〓Event Details〓
-
-● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
-
-● Starting from this Battle Pass, on top of the ten 4-star weapons already in the BP Bounty, the following new 4-star weapons will also be available: Heretic's Molten Blade (Sword), Forged by the Golden Melody (Claymore), Frostbreath (Polearm), Clash of Kings (Catalyst), and Jade Vista (Bow). Reach Gnostic Hymn Level 30 to select any one of these fifteen weapons from the BP Bounty.
-
-※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
-
-※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/09/21 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
-
-● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
 # ["Wonderland Treasures: Phantasmagoric Discourse": New Manekin Cosmetics Now Available](archive/21828.md)
 ## Wonderland Treasures: Phantasmagoric Discourse
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/768b0faa779d48b1068e07c14d13eed9_3397593834209006595_transformed.jpg)
@@ -1370,6 +1340,36 @@ Manekina Cosmetic "Warrior of the Winning Hand"
 
 -----
 
+# ["Frostfarer" Event Details](archive/21818.md)
+## Frostfarer
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/05/8f433c8053e3099966d24027ed62cfa2_9004885318188203190_transformed.jpg)
+
+Travelers can earn rich rewards in "Frostfarer" during the event duration. Unlock Gnostic Hymn or Gnostic Chorus to further earn Intertwined Fate and a designated 4-star weapon! Purchase Gnostic Chorus directly to get the exclusive BP namecard "Travel Notes: Frostfarer" and Furnishing Blueprint "Dancing Beneath Silver-White Wings" and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+● Starting from this Battle Pass, on top of the ten 4-star weapons already in the BP Bounty, the following new 4-star weapons will also be available: Heretic's Molten Blade (Sword), Forged by the Golden Melody (Claymore), Frostbreath (Polearm), Clash of Kings (Catalyst), and Jade Vista (Bow). Reach Gnostic Hymn Level 30 to select any one of these fifteen weapons from the BP Bounty.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/09/21 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
 # ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
 ## Genius Invokation TCG - The Forge Realm's Temper
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
@@ -1437,22 +1437,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 ● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
 
 ※ Starting from this "To Temper Thyself and Journey Far" event, Stella Fortuna for the following characters will be permanently added to the available redemption rewards: Lyney, Wriothesley, Navia, Sigewinne, Clorinde, Emilie, Chiori, Xianyun, Yumemizuki Mizuki.
-
------
-
-# ["When We Look Up at the Moon": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21750.md)
-## "When We Look Up at the Moon"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/d1fccbee7dc2d207a6f1ddbf6639840b_198600082712231926_transformed.jpg)
-
-Version "Luna VIII" introduces the following new areas: Dunanna Pit, Lunar Highlands, Moontide Sea, and the Dark Side of the Moon
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
 
 -----
 
@@ -1555,6 +1539,22 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain corresponding "Expedition Insights" by completing Spooky Tale Missions. Rewards from these missions are subject to a weekly limit.
 
 ● During the event, accumulate enough "Expedition Insights" to unlock the limited-time Headwear "Spooky Boo Hat," as well as rewards such as Geodes of Replication, Prismatic Crystals, actions, and expressions.
+
+-----
+
+# ["When We Look Up at the Moon": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21750.md)
+## "When We Look Up at the Moon"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/d1fccbee7dc2d207a6f1ddbf6639840b_198600082712231926_transformed.jpg)
+
+Version "Luna VIII" introduces the following new areas: Dunanna Pit, Lunar Highlands, Moontide Sea, and the Dark Side of the Moon
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
 
 -----
 
