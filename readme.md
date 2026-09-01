@@ -1129,6 +1129,24 @@ Fixed text: "...the [Polestar] field will store the dissipating elemental energi
 
 -----
 
+# [HoYoLAB Community "Daily Check-In" Feature](archive/21903.md)
+## Daily Check-In Feature
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
+
+Dear Travelers,
+
+The HoYoLAB Community "Daily Check-In" feature is now available!
+
+Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
+
+You will receive 100 Primogems and 10,000 Mora for your first check-in!
+
+〓Event Duration〓
+
+Permanent
+
+-----
+
 # [Game Survey](archive/21848.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -1547,24 +1565,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 ● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
 
 ※ Starting from this "To Temper Thyself and Journey Far" event, Stella Fortuna for the following characters will be permanently added to the available redemption rewards: Lyney, Wriothesley, Navia, Sigewinne, Clorinde, Emilie, Chiori, Xianyun, Yumemizuki Mizuki.
-
------
-
-# [HoYoLAB Community "Daily Check-In" Feature](archive/21838.md)
-## Daily Check-In Feature
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
-
-Dear Travelers,
-
-The HoYoLAB Community "Daily Check-In" feature is now available!
-
-Go to HoYoLAB > Tools > Genshin Impact > Check-in, and check in daily to obtain Primogems, Mora, Hero's Wit, and other in-game rewards.
-
-You will receive 100 Primogems and 10,000 Mora for your first check-in!
-
-〓Event Duration〓
-
-Permanent
 
 -----
 
