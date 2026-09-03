@@ -1047,6 +1047,14 @@ Travelers can also visit the following link for detailed instructions on updatin
 
 - Currently, in a cutscene for the Archon Quest "Wraith's Nocturne," the Elemental Type icon displayed for Mitya appears incorrect (it should be an Electro "Stellar Linchpin"). This issue will be fixed in a future update.
 
+〓<t class="t_gl" contenteditable="false">2026/09/03 16:10</t> Update Details〓
+
+- Fixes an issue in "Edge of Survival" (third-person shooter combat gameplay) where in-game time could be paused via the Mail system, thereby affecting score calculation.
+
+- Fixes an issue in the stage "Frigid Storm" of "Edge of Survival" (third-person shooter combat gameplay) whereby the enemy "Ever-Lingering Illusion" could be abnormally defeated repeatedly, affecting score calculation.
+
+* The development team will continue to monitor the exploitation of game bugs for score gains. Further fixes for similar issues will roll out in upcoming updates, and any records on the Frontrunners' Edge page obtained through these exploits will be invalidated.
+
 〓<t class="t_gl" contenteditable="false">2026/09/01 14:45</t> Update Details〓
 
 Genshin Impact has added support for Pixel 11 series devices following compatibility updates from the manufacturer.
