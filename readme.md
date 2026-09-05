@@ -1,3 +1,33 @@
+# ["Trial of the Bastion" Event: Bastion Defense Challenge](archive/21816.md)
+## Trial of the Bastion
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/544816c83a10755f18b4440c00cc4642_4497767485618557441_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/ff5c5f797b6662e90f32babc31c27ec1_4995709132445547661_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/17 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
+
+〓Event Details〓
+
+● During the event, Travelers will need to build defensive lines before battle, then use firearms during the combat phase to fend off multiple waves of enemies and prevent them from breaching the stronghold.
+
+● Defeat enemies to earn score. Once your challenge score reaches specified thresholds, you can claim the corresponding rewards.
+
+● After the event starts, a new trial will unlock each day for the first 5 days (5 trials in total). Each new trial becomes available once the preceding one is completed.
+
+-----
+
 # [Snezhnaya is now available!](archive/21862.md)
 ## Version 7.0 New Content Overview
 
@@ -1523,6 +1553,36 @@ After awakening your Miliastra Wonderland Manekin
 ● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores cannot be earned.
 
 ● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Participate in "Starlight Voyage: Joyous Moment" to Obtain Prismatic Crystals, the Token for the Colorful Surprise Box](archive/21831.md)
+## Starlight Voyage: Joyous Moment
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/49ae769cfad3a6ce03dceb8e4a8e2a2c_1226464164633360648_transformed.jpg)
+
+〓Event Duration〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+
+Quest Completion Period: <t class="t_lc" contenteditable="false">2026/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/17 04:00</t>
+
+〓Event Rewards〓
+
+Prismatic Crystals
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the quest completion period, Travelers can obtain "Sightseeing Experiences" by completing Starlight Voyage event stages.
+
+● After the event begins, the available stages in Starlight Voyage and the maximum obtainable Sightseeing Experiences will gradually increase over time. On Day 1, the cap is 800, and it will increase by 400 every two days thereafter, up to a maximum of 1,600.
+
+● During the event, Travelers can obtain the corresponding event reward, "Prismatic Crystals," by completing quests and accumulating Sightseeing Experiences.
+
+※ Prismatic Crystals obtained from event rewards can only be used for a limited time. Don't forget to spend them before they expire.
 
 -----
 
