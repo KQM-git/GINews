@@ -1,3 +1,21 @@
+# [Snezhnaya is now available!](archive/21862.md)
+## Version 7.0 New Content Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/da3ce193ed4c9ff06389731319734705_3064892791146728505_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/686ceae47aead2355b23c085759ea00c_477374823023461382_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/2f8cab16728105f583b7e33bf37efbb0_955301774170097998_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/aae5003263763200788d33af3fbf48bf_5594735643054011781_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/bf9f39f8c2c864fb0e6182b4528aadf0_8361240180454213870_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/51268a5f49188a62357b082d04ab7c86_5099647093020125891_transformed.jpg)
+
+-----
+
 # ["Trial of the Bastion" Event: Bastion Defense Challenge](archive/21816.md)
 ## Trial of the Bastion
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/544816c83a10755f18b4440c00cc4642_4497767485618557441_transformed.jpg)
@@ -25,24 +43,6 @@ Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII
 ● Defeat enemies to earn score. Once your challenge score reaches specified thresholds, you can claim the corresponding rewards.
 
 ● After the event starts, a new trial will unlock each day for the first 5 days (5 trials in total). Each new trial becomes available once the preceding one is completed.
-
------
-
-# [Snezhnaya is now available!](archive/21862.md)
-## Version 7.0 New Content Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/da3ce193ed4c9ff06389731319734705_3064892791146728505_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/686ceae47aead2355b23c085759ea00c_477374823023461382_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/2f8cab16728105f583b7e33bf37efbb0_955301774170097998_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/aae5003263763200788d33af3fbf48bf_5594735643054011781_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/bf9f39f8c2c864fb0e6182b4528aadf0_8361240180454213870_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/51268a5f49188a62357b082d04ab7c86_5099647093020125891_transformed.jpg)
 
 -----
 
@@ -127,38 +127,6 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 ※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20748.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/84e8646fe8e31af9058a8a815df33236_9059115913235512770.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_3453988695430769322.png)
-
-〓Special Rules〓
-
-● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/08/29 10:00</t> - <t class="t_lc" contenteditable="false">2026/09/14 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
@@ -1015,45 +983,35 @@ Fixes an issue whereby, when using a keyboard and mouse on PC, there is a chance
 
 -----
 
-# ["Great Expeditionist Challenge" Event: Take Part to Invite "Kätzlein Cocktail" Diona (Cryo)](archive/21813.md)
-## Great Expeditionist Challenge
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/f7aa9696c4a261cfac3b8ce9759f0a7f_3318447584942285303_transformed.jpg)
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20748.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/84e8646fe8e31af9058a8a815df33236_9059115913235512770.jpg)
 
 〓Event Rewards〓
 
-![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/403fff92510d971df95a19c66cb092a9_8284260633448379806_transformed.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_3453988695430769322.png)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
 
 〓Event Duration〓
 
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/08/28 10:00</t> | <t class="t_lc" contenteditable="false">2026/09/14 03:59</t> 
-^ | Phase II | <t class="t_lc" contenteditable="false">2026/08/30 04:00</t>  | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2026/09/01 04:00</t>  | ^
+<t class="t_lc" contenteditable="false">2026/08/29 10:00</t> - <t class="t_lc" contenteditable="false">2026/09/14 03:59</t>
 
 〓Eligibility〓
 
-Adventure Rank 20 or above
+Adventure Rank 32 or above
 
 Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
-Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
-
-※ Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne" first to get the best experience from this event.
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 
 〓Event Details〓
 
-● During the event, four game modes will be available: "Precision Express Handling," "Roly-Poly Domain Raid," "Maze of Frost and Foresight," and "Trigger Reflex Trial."
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
 
-● In the "Precision Express Handling" game, you will drive a train and control its movement according to the instructions, ensuring it safely reaches the target station within the time limit.
-
-● In the "Roly-Poly Domain Raid" game, you can raise your "Snowball Level" through combat, and control snowballs to defeat enemies during the "Snowball Phase."
-
-● In the "Maze of Frost and Foresight" game, you need to use Prime Ice Constructs and various mechanisms to map out routes and help Jack Frosts reach the destination.
-
-● In the "Trigger Reflex Trial" game, you need to use firearms to knock down as many targets as possible within the time limit to earn a higher score.
-
-● Complete various challenges to earn Tournament Points and improve your ranking. Reaching a specified rank allows you to invite "Kätzlein Cocktail" Diona (Cryo). You can also obtain Primogems, Crown of Insight, and other rewards.
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
 
 -----
 
@@ -1217,6 +1175,48 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
+# ["Great Expeditionist Challenge" Event: Take Part to Invite "Kätzlein Cocktail" Diona (Cryo)](archive/21813.md)
+## Great Expeditionist Challenge
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/f7aa9696c4a261cfac3b8ce9759f0a7f_3318447584942285303_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/403fff92510d971df95a19c66cb092a9_8284260633448379806_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Phases | Phase I | <t class="t_lc" contenteditable="false">2026/08/28 10:00</t> | <t class="t_lc" contenteditable="false">2026/09/14 03:59</t> 
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/08/30 04:00</t>  | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/09/01 04:00</t>  | ^
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
+
+※ Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, four game modes will be available: "Precision Express Handling," "Roly-Poly Domain Raid," "Maze of Frost and Foresight," and "Trigger Reflex Trial."
+
+● In the "Precision Express Handling" game, you will drive a train and control its movement according to the instructions, ensuring it safely reaches the target station within the time limit.
+
+● In the "Roly-Poly Domain Raid" game, you can raise your "Snowball Level" through combat, and control snowballs to defeat enemies during the "Snowball Phase."
+
+● In the "Maze of Frost and Foresight" game, you need to use Prime Ice Constructs and various mechanisms to map out routes and help Jack Frosts reach the destination.
+
+● In the "Trigger Reflex Trial" game, you need to use firearms to knock down as many targets as possible within the time limit to earn a higher score.
+
+● Complete various challenges to earn Tournament Points and improve your ranking. Reaching a specified rank allows you to invite "Kätzlein Cocktail" Diona (Cryo). You can also obtain Primogems, Crown of Insight, and other rewards.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21847.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/40da7ab1ce17afd008e7a10c6ee6e67b_2356516580085115627_transformed.jpg)
@@ -1323,34 +1323,6 @@ After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/11
 
 -----
 
-# ["The Hunt Begins!" Event: Progress Through the Archon Quest "Everwinter Without Mercy" and Invite "Swift-Striding Hound" Alyosha (Electro)](archive/21812.md)
-## "The Hunt Begins!"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/b3796a5a4a1e25f5d4b98bbf5281adf7_3639628316288962447_transformed.jpg)
-
-〓Event Duration〓
-
-Permanently available after the Version 7.0 update
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/56bd90b919874797d7afa896b62834b5_4984527752073858135_transformed.png)
-
-〓Eligibility〓
-
-Adventure Rank 18 or above
-
-and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-〓Event Details〓
-
-Progress through the "Everwinter Without Mercy" to invite "Swift-Striding Hound" Alyosha (Electro)!
-
-※ You can only invite "Swift-Striding Hound" Alyosha (Electro) once while progressing through the Archon Quest "Everwinter Without Mercy." The event page will close once you have invited the character.
-
-※ Before you invite the character, the event page will be available for the duration of Version 7.x, and the event page will close once Version 7.x ends. But you can still invite "Swift-Striding Hound" Alyosha (Electro) while progressing through "Everwinter Without Mercy."
-
------
-
 # ["Wonderland Treasures: Phantasmagoric Discourse": New Manekin Cosmetics Now Available](archive/21828.md)
 ## Wonderland Treasures: Phantasmagoric Discourse
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/768b0faa779d48b1068e07c14d13eed9_3397593834209006595_transformed.jpg)
@@ -1423,6 +1395,34 @@ Manekina Cosmetic "Warrior of the Winning Hand"
 ● After the Version 7.0 update, a new Elite (4-Star) Set Catalog "Crowned by the Breeze" will be added to the Standard Ode "Encounter Echoes."
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["The Hunt Begins!" Event: Progress Through the Archon Quest "Everwinter Without Mercy" and Invite "Swift-Striding Hound" Alyosha (Electro)](archive/21812.md)
+## "The Hunt Begins!"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/b3796a5a4a1e25f5d4b98bbf5281adf7_3639628316288962447_transformed.jpg)
+
+〓Event Duration〓
+
+Permanently available after the Version 7.0 update
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/56bd90b919874797d7afa896b62834b5_4984527752073858135_transformed.png)
+
+〓Eligibility〓
+
+Adventure Rank 18 or above
+
+and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+〓Event Details〓
+
+Progress through the "Everwinter Without Mercy" to invite "Swift-Striding Hound" Alyosha (Electro)!
+
+※ You can only invite "Swift-Striding Hound" Alyosha (Electro) once while progressing through the Archon Quest "Everwinter Without Mercy." The event page will close once you have invited the character.
+
+※ Before you invite the character, the event page will be available for the duration of Version 7.x, and the event page will close once Version 7.x ends. But you can still invite "Swift-Striding Hound" Alyosha (Electro) while progressing through "Everwinter Without Mercy."
 
 -----
 
