@@ -102,34 +102,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Everwinter Without Mercy" Version 7.0 Update Details](archive/21857.md)
 ## Version 7.0 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/11/6825ebfd2ae2e9697e7994640c88a5c9_5240848687385562123_transformed.jpg)
@@ -983,35 +955,31 @@ Fixes an issue whereby, when using a keyboard and mouse on PC, there is a chance
 
 -----
 
-# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20748.md)
-## Genius Invokation TCG - Heated Battle Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/84e8646fe8e31af9058a8a815df33236_9059115913235512770.jpg)
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
 
-〓Event Rewards〓
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
 
-![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_3453988695430769322.png)
+〓Event Wish Details〓
 
-〓Special Rules〓
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | The Stringless (Bow)
 
-● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
 
-〓Event Duration〓
+● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
 
-<t class="t_lc" contenteditable="false">2026/08/29 10:00</t> - <t class="t_lc" contenteditable="false">2026/09/14 03:59</t>
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
 
-〓Eligibility〓
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
 
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
-
-● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -1175,6 +1143,38 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
+# ["Genius Invokation TCG" Heated Battle Mode: Tactical Formation](archive/20748.md)
+## Genius Invokation TCG - Heated Battle Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/84e8646fe8e31af9058a8a815df33236_9059115913235512770.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/09/05/77bc8ce33030bc36a950e3ef25faf437_3453988695430769322.png)
+
+〓Special Rules〓
+
+● In this edition of Heated Battle Mode, Travelers must use Character Cards selected on the spot and randomly generated Action Cards to do battle.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/08/29 10:00</t> - <t class="t_lc" contenteditable="false">2026/09/14 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to the Invitation Board of The Cat's Tail to participate in "Genius Invokation TCG" duels under the special rules of "Heated Battle Mode."
+
+● Travelers can invite teammates or participate in duels via match-making after reaching Player Level 4.
+
+-----
+
 # ["Great Expeditionist Challenge" Event: Take Part to Invite "Kätzlein Cocktail" Diona (Cryo)](archive/21813.md)
 ## Great Expeditionist Challenge
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/f7aa9696c4a261cfac3b8ce9759f0a7f_3318447584942285303_transformed.jpg)
@@ -1307,22 +1307,6 @@ Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
 
 -----
 
-# ["The Godforsaken Frostlands" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21811.md)
-## The Godforsaken Frostlands
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/9a32fbe7642e27040872c702ff760c13_5512793208175518014_transformed.jpg)
-
-After the version update, the following new areas of Snezhnaya will be unlocked: Volkodlak Tundra, Everfrozen Earth, Fellfrost Peak, Flamefeather Valley, and White Birch Snowgrave.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
-
------
-
 # ["Wonderland Treasures: Phantasmagoric Discourse": New Manekin Cosmetics Now Available](archive/21828.md)
 ## Wonderland Treasures: Phantasmagoric Discourse
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/06/768b0faa779d48b1068e07c14d13eed9_3397593834209006595_transformed.jpg)
@@ -1395,6 +1379,22 @@ Manekina Cosmetic "Warrior of the Winning Hand"
 ● After the Version 7.0 update, a new Elite (4-Star) Set Catalog "Crowned by the Breeze" will be added to the Standard Ode "Encounter Echoes."
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
+# ["The Godforsaken Frostlands" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21811.md)
+## The Godforsaken Frostlands
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/9a32fbe7642e27040872c702ff760c13_5512793208175518014_transformed.jpg)
+
+After the version update, the following new areas of Snezhnaya will be unlocked: Volkodlak Tundra, Everfrozen Earth, Fellfrost Peak, Flamefeather Valley, and White Birch Snowgrave.
+
+Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
 
 -----
 
@@ -1485,44 +1485,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
 
 ● Complete stage challenges to obtain the corresponding rewards.
-
------
-
-# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21761.md)
-## To Temper Thyself and Journey Far
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/28/f77abe8a6f4104f1229db987e2c4280a_4266689564815357750_transformed.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/08/10 04:00</t> - <t class="t_lc" contenteditable="false">2026/11/02 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 14 or above
-
-Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
-
-Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
-
-〓Event Details〓
-
-● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
-
-● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
-
-※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
-
-※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
-
-● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
-
-● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
-
-※ Starting from this "To Temper Thyself and Journey Far" event, Stella Fortuna for the following characters will be permanently added to the available redemption rewards: Lyney, Wriothesley, Navia, Sigewinne, Clorinde, Emilie, Chiori, Xianyun, Yumemizuki Mizuki.
 
 -----
 
@@ -1637,6 +1599,44 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain corresponding "Expedition Insights" by completing Spooky Tale Missions. Rewards from these missions are subject to a weekly limit.
 
 ● During the event, accumulate enough "Expedition Insights" to unlock the limited-time Headwear "Spooky Boo Hat," as well as rewards such as Geodes of Replication, Prismatic Crystals, actions, and expressions.
+
+-----
+
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21761.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/28/f77abe8a6f4104f1229db987e2c4280a_4266689564815357750_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/08/10 04:00</t> - <t class="t_lc" contenteditable="false">2026/11/02 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
+
+※ Starting from this "To Temper Thyself and Journey Far" event, Stella Fortuna for the following characters will be permanently added to the available redemption rewards: Lyney, Wriothesley, Navia, Sigewinne, Clorinde, Emilie, Chiori, Xianyun, Yumemizuki Mizuki.
 
 -----
 
