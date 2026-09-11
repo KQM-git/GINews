@@ -1003,6 +1003,10 @@ Travelers can also visit the following link for detailed instructions on updatin
 
 - Currently, in a cutscene for the Archon Quest "Wraith's Nocturne," the Elemental Type icon displayed for Mitya appears incorrect (it should be an Electro "Stellar Linchpin"). This issue will be fixed in a future update.
 
+〓<t class="t_gl" contenteditable="false">2026/09/11 21:25</t> Update Details〓
+
+Fixes an issue in "Shadow Realm" (third-person shooter combat gameplay) whereby the full-loadout effects of the firearm "Balsag's Sunwheel" could sometimes fail to take effect.
+
 〓<t class="t_gl" contenteditable="false">2026/09/10 16:10</t> Update Details〓
 
 Fixes an issue whereby, under certain circumstances in "Shadow Realm" (the third-person shooter combat mode), the effects of the firearm "Balsag's Sunwheel" do not match its description (for example, other firearms may incorrectly receive the full-loadout effects of "Balsag's Sunwheel").
