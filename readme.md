@@ -6,6 +6,28 @@
 
 -----
 
+# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
+## Initial Top-Up Bonus Reset
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
+
+After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 7.1 update
+
+※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
+
+-----
+
 # [Snezhnaya is now available!](archive/21862.md)
 ## Version 7.0 New Content Overview
 
