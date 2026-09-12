@@ -1,3 +1,11 @@
+# [Version 7.1 Benefits Overview](archive/21923.md)
+## Version 7.1 Benefits Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/12/503dbdabd59d6ff5aebd151d5011b7f7_3634289702927936987_transformed.jpg)
+
+-----
+
 # [Snezhnaya is now available!](archive/21862.md)
 ## Version 7.0 New Content Overview
 
