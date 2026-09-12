@@ -16,6 +16,30 @@
 
 -----
 
+# ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
+## Overflowing Abundance
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/90b0cfd311a70e8037c464186db77b23_983844251925325025_transformed.jpg)
+
+During the event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/09/14 04:00</t> - <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+
+〓Eligibility〓
+
+Domains of Mastery: Reach Adventure Rank 25 or above and after activating corresponding Domains of Mastery
+
+Domains of Forgery: Reach Adventure Rank 15 or above and after activating corresponding Domains of Forgery
+
+〓Event Details〓
+
+● During the "Overflowing Abundance" event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
+
+● All unlocked reward options for Domains of Mastery and Forgery will be available until the event ends. Please make sure you complete the challenge in time.
+
+-----
+
 # ["Trial of the Bastion" Event: Bastion Defense Challenge](archive/21816.md)
 ## Trial of the Bastion
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/544816c83a10755f18b4440c00cc4642_4497767485618557441_transformed.jpg)
