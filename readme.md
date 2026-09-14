@@ -6,28 +6,6 @@
 
 -----
 
-# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
-## Initial Top-Up Bonus Reset
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
-
-After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 7.1 update
-
-※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
-● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
-
------
-
 # [Snezhnaya is now available!](archive/21862.md)
 ## Version 7.0 New Content Overview
 
@@ -43,116 +21,6 @@ After the Version 7.1 update
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/bf9f39f8c2c864fb0e6182b4528aadf0_8361240180454213870_transformed.jpg)
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/08/12/51268a5f49188a62357b082d04ab7c86_5099647093020125891_transformed.jpg)
-
------
-
-# ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
-## Overflowing Abundance
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/90b0cfd311a70e8037c464186db77b23_983844251925325025_transformed.jpg)
-
-During the event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards.
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/09/14 04:00</t> - <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
-
-〓Eligibility〓
-
-Domains of Mastery: Reach Adventure Rank 25 or above and after activating corresponding Domains of Mastery
-
-Domains of Forgery: Reach Adventure Rank 15 or above and after activating corresponding Domains of Forgery
-
-〓Event Details〓
-
-● During the "Overflowing Abundance" event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
-
-● All unlocked reward options for Domains of Mastery and Forgery will be available until the event ends. Please make sure you complete the challenge in time.
-
------
-
-# ["Trial of the Bastion" Event: Bastion Defense Challenge](archive/21816.md)
-## Trial of the Bastion
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/544816c83a10755f18b4440c00cc4642_4497767485618557441_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/ff5c5f797b6662e90f32babc31c27ec1_4995709132445547661_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/17 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
-
-〓Event Details〓
-
-● During the event, Travelers will need to build defensive lines before battle, then use firearms during the combat phase to fend off multiple waves of enemies and prevent them from breaching the stronghold.
-
-● Defeat enemies to earn score. Once your challenge score reaches specified thresholds, you can claim the corresponding rewards.
-
-● After the event starts, a new trial will unlock each day for the first 5 days (5 trials in total). Each new trial becomes available once the preceding one is completed.
-
------
-
-# [Event Wish "The Lone Light Knocks at Night" - Boosted Drop Rate for "Shadowy Lights, Stranger Wights" Flins (Electro)!](archive/21805.md)
-## Event Wish "The Lone Light Knocks at Night"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/c8020ea30bb4b123ddf732556676af01_6926918958511625014_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> ~  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | "Shadowy Lights, Stranger Wights" Flins (Electro) | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
-^ | ^ | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Spring Woven From Jade" Lan Yan (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Shadowy Lights, Stranger Wights" Flins (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), "Tempered in Molten Stone" Iansan (Electro), and "Spring Woven From Jade" Lan Yan (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21806.md)
-## Event Wish "Astral Actuation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/b87b45f819f2284482148603dbc7bdaf_1983556728568067434_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> ~  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | "Boom Boom Thunderwave" Ineffa (Electro) | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
-^ | ^ | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Spring Woven From Jade" Lan Yan (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Boom Boom Thunderwave" Ineffa (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), "Tempered in Molten Stone" Iansan (Electro), and "Spring Woven From Jade" Lan Yan (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -1009,29 +877,133 @@ Fixes an issue whereby, when using a keyboard and mouse on PC, there is a chance
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
+# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
+## Initial Top-Up Bonus Reset
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
 
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 7.1 update
+
+※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
+
+-----
+
+# ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
+## Overflowing Abundance
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/90b0cfd311a70e8037c464186db77b23_983844251925325025_transformed.jpg)
+
+During the event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards.
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/09/14 04:00</t> - <t class="t_lc" contenteditable="false">2026/09/21 03:59</t>
+
+〓Eligibility〓
+
+Domains of Mastery: Reach Adventure Rank 25 or above and after activating corresponding Domains of Mastery
+
+Domains of Forgery: Reach Adventure Rank 15 or above and after activating corresponding Domains of Forgery
+
+〓Event Details〓
+
+● During the "Overflowing Abundance" event, successfully challenge Domains of Mastery or Domains of Forgery and consume "Original Resin" to double your rewards. You can double your rewards up to 3 times a day!
+
+● All unlocked reward options for Domains of Mastery and Forgery will be available until the event ends. Please make sure you complete the challenge in time.
+
+-----
+
+# ["Trial of the Bastion" Event: Bastion Defense Challenge](archive/21816.md)
+## Trial of the Bastion
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/544816c83a10755f18b4440c00cc4642_4497767485618557441_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/ff5c5f797b6662e90f32babc31c27ec1_4995709132445547661_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/17 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
+
+〓Event Details〓
+
+● During the event, Travelers will need to build defensive lines before battle, then use firearms during the combat phase to fend off multiple waves of enemies and prevent them from breaching the stronghold.
+
+● Defeat enemies to earn score. Once your challenge score reaches specified thresholds, you can claim the corresponding rewards.
+
+● After the event starts, a new trial will unlock each day for the first 5 days (5 trials in total). Each new trial becomes available once the preceding one is completed.
+
+-----
+
+# [Event Wish "The Lone Light Knocks at Night" - Boosted Drop Rate for "Shadowy Lights, Stranger Wights" Flins (Electro)!](archive/21805.md)
+## Event Wish "The Lone Light Knocks at Night"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/c8020ea30bb4b123ddf732556676af01_6926918958511625014_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
 
 〓Event Wish Details〓
 
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
 --- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | The Stringless (Bow)
+<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> ~  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | "Shadowy Lights, Stranger Wights" Flins (Electro) | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
+^ | ^ | "Tempered in Molten Stone" Iansan (Electro)
+^ | ^ | "Spring Woven From Jade" Lan Yan (Anemo)
 
-● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
+● During this event wish, the event-exclusive 5-star character "Shadowy Lights, Stranger Wights" Flins (Electro) will receive a huge drop-rate boost!
 
-● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+● During this event wish, the 4-star characters "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), "Tempered in Molten Stone" Iansan (Electro), and "Spring Woven From Jade" Lan Yan (Anemo) will receive a huge drop-rate boost!
 
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
 
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21806.md)
+## Event Wish "Astral Actuation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/b87b45f819f2284482148603dbc7bdaf_1983556728568067434_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> ~  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | "Boom Boom Thunderwave" Ineffa (Electro) | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
+^ | ^ | "Tempered in Molten Stone" Iansan (Electro)
+^ | ^ | "Spring Woven From Jade" Lan Yan (Anemo)
+
+● During this event wish, the event-exclusive 5-star character "Boom Boom Thunderwave" Ineffa (Electro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), "Tempered in Molten Stone" Iansan (Electro), and "Spring Woven From Jade" Lan Yan (Anemo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
@@ -1160,6 +1132,34 @@ Fixes an issue in the "Test Run" event where the description related to Stellar-
 The incorrect text read: "...the [Polestar] field will store the dissipating elemental energies and then completely release them every 3s. This further increases the aforementioned DMG Bonus and also increases the Base Stellar-Conduct DMG coefficient for 3s."
 
 Fixed text: "...the [Polestar] field will store the dissipating elemental energies and then completely release them every 4s. This further increases the aforementioned DMG Bonus and also increases the Base Stellar-Conduct DMG coefficient for 4s."
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
