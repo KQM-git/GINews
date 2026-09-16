@@ -1049,36 +1049,6 @@ Domains of Forgery: Reach Adventure Rank 15 or above and after activating corres
 
 -----
 
-# ["Trial of the Bastion" Event: Bastion Defense Challenge](archive/21816.md)
-## Trial of the Bastion
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/544816c83a10755f18b4440c00cc4642_4497767485618557441_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/07/09/ff5c5f797b6662e90f32babc31c27ec1_4995709132445547661_transformed.png)
-
-〓Event Duration〓
-
-<t class="t_lc" contenteditable="false">2026/09/07 10:00</t> – <t class="t_lc" contenteditable="false">2026/09/17 03:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-Complete the "Gunfire in the Silent Lands" quest of the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
-
-〓Event Details〓
-
-● During the event, Travelers will need to build defensive lines before battle, then use firearms during the combat phase to fend off multiple waves of enemies and prevent them from breaching the stronghold.
-
-● Defeat enemies to earn score. Once your challenge score reaches specified thresholds, you can claim the corresponding rewards.
-
-● After the event starts, a new trial will unlock each day for the first 5 days (5 trials in total). Each new trial becomes available once the preceding one is completed.
-
------
-
 # [Event Wish "The Lone Light Knocks at Night" - Boosted Drop Rate for "Shadowy Lights, Stranger Wights" Flins (Electro)!](archive/21805.md)
 ## Event Wish "The Lone Light Knocks at Night"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/c8020ea30bb4b123ddf732556676af01_6926918958511625014_transformed.jpg)
