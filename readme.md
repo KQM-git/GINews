@@ -1163,6 +1163,26 @@ Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
 
 -----
 
+# [Genshin Impact's Snezhnaya OST "Where Mercy Endures" Now Available](archive/21914.md)
+## Snezhnaya OST Album Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/09/4abf9238dfc4512762de6f719231268a_2434837398988654174_transformed.jpg)
+
+Dear Traveler,
+
+Genshin Impact's Snezhnaya OST album "Where Mercy Endures" is now available! The album's four discs, "Swept in Frost," "The Endless Road," "Untroubled Bliss," and "Shifting Shadows, Wavering Minds," feature 102 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Snezhnaya.
+
+Travelers can go to the following platforms to listen to "Where Mercy Endures."
+
+Spotify:
+
+[Press here to listen to "Where Mercy Endures"](https://open.spotify.com/album/1CtW8DXs0o7rSeA0disbcA)
+
+Apple Music:
+
+[Press here to listen to "Where Mercy Endures"](https://music.apple.com/us/album/6810716784)
+
+-----
+
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21903.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
