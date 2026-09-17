@@ -877,28 +877,6 @@ Fixes an issue whereby, when using a keyboard and mouse on PC, there is a chance
 
 -----
 
-# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
-## Initial Top-Up Bonus Reset
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
-
-After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 7.1 update
-
-※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
-● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
-
------
-
 # [Version Details - What's New ](archive/21866.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -1027,6 +1005,28 @@ Fixed text: "...the [Polestar] field will store the dissipating elemental energi
 
 -----
 
+# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
+## Initial Top-Up Bonus Reset
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
+
+After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 7.1 update
+
+※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
+
+-----
+
 # ["Overflowing Abundance" Event: Double Drops With Talent Level-Up Materials and Weapon Ascension Materials](archive/20888.md)
 ## Overflowing Abundance
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/90b0cfd311a70e8037c464186db77b23_983844251925325025_transformed.jpg)
@@ -1107,34 +1107,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Genshin Impact's Snezhnaya OST "Where Mercy Endures" Now Available](archive/21914.md)
 ## Snezhnaya OST Album Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/09/4abf9238dfc4512762de6f719231268a_2434837398988654174_transformed.jpg)
@@ -1197,6 +1169,34 @@ We thank all Travelers for your invaluable feedback!
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Favonius Lance (Polearm)
+^ | ^ | Eye of Perception (Catalyst)
+^ | ^ | The Stringless (Bow)
+
+● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # [Stygian Onslaught Event: Disturbance-affected Ley Line challenges](archive/21847.md)
 ## Stygian Onslaught
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/40da7ab1ce17afd008e7a10c6ee6e67b_2356516580085115627_transformed.jpg)
@@ -1256,34 +1256,6 @@ Rewards for "Fearless" and "Dire" difficulties can only be claimed upon completi
 "Menacing," "Fearless," and "Dire" difficulties only support Co-Op challenges within the same world.
 
 ※ Starting from this event, a new weapon appearance style will be added to "Radiant Phantasm" and "Radiant Phantasm: Sublimation." Upon obtaining them, both the new and old weapon appearances will be obtained together.
-
------
-
-# [Complete the Archon Quest "Everwinter Without Mercy" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21809.md)
-## "Everwinter Without Mercy"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/eb6c69fd2dafac1cbee1bc5d1d177783_2112318365651381498_transformed.jpg)
-
-After the Version update, Archon Quests Chapter VII: Act I and Act II will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
-
-Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Snezhnaya regional specialties, and other rewards.
-
-‍
-
-〓Specified Duration〓
-
-After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
-
-‍
-
-〓Archon Quest Unlock Criteria〓
-
-Adventure Rank 18 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ After meeting the above prerequisites, explore the Snezhnaya region to automatically accept the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
-
-※ Complete the Archon Quest Song of the Welkin Moon - Act X and the Event Quest "Sunny Summer Fontinalia" first to get the best experience from this content.
 
 -----
 
@@ -1362,6 +1334,34 @@ Manekina Cosmetic "Warrior of the Winning Hand"
 
 -----
 
+# [Complete the Archon Quest "Everwinter Without Mercy" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21809.md)
+## "Everwinter Without Mercy"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/eb6c69fd2dafac1cbee1bc5d1d177783_2112318365651381498_transformed.jpg)
+
+After the Version update, Archon Quests Chapter VII: Act I and Act II will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
+
+Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Snezhnaya regional specialties, and other rewards.
+
+‍
+
+〓Specified Duration〓
+
+After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
+
+‍
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 18 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ After meeting the above prerequisites, explore the Snezhnaya region to automatically accept the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
+
+※ Complete the Archon Quest Song of the Welkin Moon - Act X and the Event Quest "Sunny Summer Fontinalia" first to get the best experience from this content.
+
+-----
+
 # ["The Godforsaken Frostlands" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21811.md)
 ## The Godforsaken Frostlands
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/9a32fbe7642e27040872c702ff760c13_5512793208175518014_transformed.jpg)
@@ -1433,38 +1433,6 @@ Adventure Rank 20 or above
 ● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
 
 ● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version 7.0
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
-
-● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
-
-● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
@@ -1579,6 +1547,38 @@ After awakening your Miliastra Wonderland Manekin
 ● During the event, Travelers can obtain corresponding "Expedition Insights" by completing Spooky Tale Missions. Rewards from these missions are subject to a weekly limit.
 
 ● During the event, accumulate enough "Expedition Insights" to unlock the limited-time Headwear "Spooky Boo Hat," as well as rewards such as Geodes of Replication, Prismatic Crystals, actions, and expressions.
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Game of Wits](archive/20661.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/15/233c6a90dce605704bba99efe3583062_580634854721065214.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/26/77bc8ce33030bc36a950e3ef25faf437_7237335422633764693.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 7.0
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and some stages will have special victory and defeat conditions. Each stage also has specific rules related to the victory and defeat conditions.
+
+● Fully utilize the special rules and avoid the conditions for defeat to complete these stage challenges.
+
+● Complete stage challenges to obtain the corresponding rewards.
 
 -----
 
