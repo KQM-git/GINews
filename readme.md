@@ -1079,6 +1079,30 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
+# [Version Satisfaction Survey Now Open](archive/21926.md)
+## Version Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
+
+Dear Traveler,
+
+Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
+
+〓Survey Duration〓
+
+2026/09/18 10:00 (global) - 2026/09/21 23:59 (global)
+
+〓Survey Address〓
+
+[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnuikF2tB-seXZlJUP2c9jil9lwT5lxvjMSODD7ulXDQDy&game_biz=hk4e_global&surveyId=40455&format=1&sign_type=2&authkey_ver=1)
+
+Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
+
+Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
+
+We thank all Travelers for your invaluable feedback!
+
+-----
+
 # [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21806.md)
 ## Event Wish "Astral Actuation"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/b87b45f819f2284482148603dbc7bdaf_1983556728568067434_transformed.jpg)
