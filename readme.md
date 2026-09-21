@@ -51,6 +51,317 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# [Event Wish "When Warm Winds Cavort" - Boosted Drop Rate for "Snowy Banquet's Sharp Blade" Vesna (Anemo)!](archive/21876.md)
+## Event Wish "When Warm Winds Cavort"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/0280fb4b14ec01bb37bb3ee0253a108a_8262450589619702638_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/10/13 17:59</t> | "Snowy Banquet's Sharp Blade" Vesna (Anemo) | "Kätzlein Cocktail" Diona (Cryo)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Frozen Ardor" Chongyun (Cryo)
+
+● During this Event Wish, the event-exclusive 5-star character "Snowy Banquet's Sharp Blade" Vesna (Anemo) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Kätzlein Cocktail" Diona (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Frozen Ardor" Chongyun (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Surging Ballad" - Boosted Drop Rate for "Lingering Siren-Song" Vodyanitsa (Hydro)!](archive/21877.md)
+## Event Wish "Surging Ballad"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/194df26048090eade34d12649e298ec7_559849886015315427_transformed.jpg)
+
+Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
+--- | --- | ---
+After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/10/13 17:59</t> | "Lingering Siren-Song" Vodyanitsa (Hydro) | "Kätzlein Cocktail" Diona (Cryo)
+^ | ^ | "Enigmatic Machinist" Faruzan (Anemo)
+^ | ^ | "Frozen Ardor" Chongyun (Cryo)
+
+● During this event wish, the event-exclusive 5-star character "Lingering Siren-Song" Vodyanitsa (Hydro) will receive a huge drop-rate boost!
+
+● During this event wish, the 4-star characters "Kätzlein Cocktail" Diona (Cryo), "Enigmatic Machinist" Faruzan (Anemo), and "Frozen Ardor" Chongyun (Cryo) will receive a huge drop-rate boost!
+
+※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
+
+※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
+
+※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Beyond the Chrysalis (Sword) and Hymn of the Maelstrom (Catalyst)!](archive/21878.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/41a1d242fc5fd77e49c4912082735dc3_3571449661991950272_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/10/13 17:59</t> | Beyond the Chrysalis (Sword)  Hymn of the Maelstrom (Catalyst) | New Bough (Sword)
+^ | ^ | Winter's Heavy Heart (Catalyst)
+^ | ^ | Breezeborne Refrain (Bow)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+
+● During this event wish, the event-exclusive 5-star weapons Beyond the Chrysalis (Sword) and Hymn of the Maelstrom (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons New Bough (Sword), Winter's Heavy Heart (Catalyst), and Breezeborne Refrain (Bow), as well as the 4-star weapons Favonius Greatsword (Claymore) and Dragon's Bane (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Beyond the Chrysalis (Sword) or Hymn of the Maelstrom (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
+# ["Rainbow's End: Resplendent Starlight" Event: Log In to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21879.md)
+## Rainbow's End: Resplendent Starlight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/13731601c5ec188f8221e2179960f25d_8966757839271822351_transformed.jpg)
+
+There are three parts to this event: Crystal Top-Up Bonus Reset, Missive of Grace: A Thank-You Gift, and Resplendent Starlight - Daily Login Event.
+
+Rewards include Primogems ×1,600, Intertwined Fate ×10, Dust of Enlightenment, Sanctifying Elixir, and Commemorative Gadgets.
+
+〓Missive of Grace: A Thank-You Gift〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/09/28 00:00</t> until the end of Version 7.1
+
+Eligibility: Adventure Rank 2 or above
+
+Event Details: Each mail can be collected until the end of the "Missive of Grace: A Thank-You Gift" event. The mail will expire after 30 days, so don't forget to claim the rewards in time.
+
+Login Time | Reward 1 | Reward 2
+--- | --- | ---
+September 28 | Primogems ×400 | Conductor of the "Ya-ho" ×1
+September 29 | Primogems ×400 | Fragile Resin ×2
+September 30 | Primogems ×400 | Sanctifying Elixir ×1
+October 1 | Primogems ×400 | A Mini Trolley Problem ×1
+
+〓Resplendent Starlight - Daily Login Event〓
+
+Event Duration: <t class="t_lc" contenteditable="false">2026/10/01 04:00</t> – <t class="t_lc" contenteditable="false">2026/10/19 03:59</t>
+
+Eligibility: Adventure Rank 5 or above
+
+Total Login Days | Rewards
+--- | ---
+1 | Intertwined Fate ×1
+2 | Mora ×80,000
+3 | Intertwined Fate ×2
+4 | Dust of Enlightenment ×1
+5 | Intertwined Fate ×2
+6 | Hero's Wit ×8
+7 | Intertwined Fate ×5
+
+-----
+
+# ["Tabletop Troupe: A Gathering on Adventure's Eve" Event: Invite an Event-Exclusive 5-Star Character of Your Choice](archive/21924.md)
+## Tabletop Troupe: A Gathering on Adventure's Eve
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/14/def098880dbaaff9a37a118be5e2aa7c_6270530679197833402_transformed.jpg)
+
+〓Event Duration〓
+
+After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 18 or above
+
+And complete Archon Quest Chapter VII: Act IV "A Rekviem for the Underworld"
+
+〓Event Details〓
+
+● During the event, you can invite an event-exclusive 5-star character of your choice from the following characters to join your party via the event interface!
+
+● The event-exclusive 5-star characters available to invite are: Tartaglia, Nilou, Baizhu, Chiori, Clorinde, and Varesa.
+
+● When you invite a character, you also receive Ascension Level-Up Materials for the same character.
+
+※ You can invite a character only once during the event.
+
+※ Once you reach Adventure Rank 18 and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom," you can explore the Snezhnaya region to automatically accept Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and continue progressing up to the latest Archon Quest introduced in the current version update.
+
+-----
+
+# ["Across the Frozen Wilds, Honing One's Edge" Event: Invite a 5-Star Character of Your Choice From the "Wanderlust Invocation" Standard Wish](archive/21885.md)
+## Across the Frozen Wilds, Honing One's Edge
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/d353f2681a2b4a56d9db56c863201430_5948218306514774688_transformed.jpg)
+
+〓Event Duration〓
+
+After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
+
+〓Eligibility〓
+
+After unlocking the Wish feature
+
+〓Event Details〓
+
+● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
+
+● When you invite a character, you also receive Ascension Level-Up Materials for the same character.
+
+※ You can invite a character only once during the event.
+
+※ During Version 7.x, Travelers who register after Version 7.1 ends can invite a standard 5-star character of their choice in the subsequent "Across the Frozen Wilds, Honing One's Edge" event. Further details will be available in future announcements.
+
+-----
+
+# [Complete the Archon Quest "A Rekviem for the Underworld" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21880.md)
+## A Rekviem for the Underworld
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/b434c127f3396db3759a37da24b4d4c8_3067875660919907928_transformed.jpg)
+
+After the Version update, Archon Quests Chapter VII: Act III and Act IV will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
+
+Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Snezhnaya regional specialties, and other rewards.
+
+〓Specified Duration〓
+
+After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
+
+〓Archon Quest Unlock Criteria〓
+
+Adventure Rank 18 or above
+
+Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne"
+
+‍※ After completing Archon Quest Chapter VII: Act IV "A Rekviem for the Underworld" within the specified time period, the Epilogue for this series will become available. The Epilogue is a time-limited quest, so Travelers are advised to plan their time accordingly and experience it promptly.
+
+Epilogue Availability: After Version 7.1 Update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
+
+※ Once you reach Adventure Rank 18 and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom," you can explore the Snezhnaya region to automatically accept Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and continue progressing up to the latest Archon Quest introduced in the current version update.
+
+-----
+
+# ["Swords and Secrets" World Quest Overview](archive/21881.md)
+## Swords and Secrets
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/ef63a98d969e6393c062b09a371debd4_7968206810973486747_transformed.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will automatically accept the World Quest "Swords and Secrets."
+
+Complete "Swords and Secrets" to obtain special quest rewards: "Druzhna Special Dispatch Order," and Prime Ice Construct Appearance "Construct Appearance: Flutterwing".
+
+※ After using the "Druzhna Special Dispatch Order," a Sword Spirit will accompany Vesna during flight.
+
+〓Quest Start Time〓
+
+Permanently available after the Version 7.1 update
+
+※ It will take 7 calendar days to complete all quests in "Swords and Secrets." Travelers, please plan your time accordingly.
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 18 or above
+
+Complete Archon Quests: Chapter VII: Act III "White Night, Like a Dream Upon Waking"
+
+-----
+
+# ["Upstream Variations" World Quest Overview](archive/21882.md)
+## Upstream Variations
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/ebd7c34e4e6e82a5f6b907fd8a65a85b_739333715900579401_transformed.jpg)
+
+Travelers who reach the required Adventure Rank and complete the prerequisite quests will automatically accept the World Quest "Upstream Variations."
+
+Complete "Upstream Variations" to obtain a special quest reward: "Happy-Quacky Phonograph Ducky".
+
+※ Using "Happy-Quacky Phonograph Ducky" will grant Vodyanitsa a brand-new decorative appearance.
+
+〓Quest Start Time〓
+
+Permanently available after the Version 7.1 update
+
+It will take 7 calendar days to complete all quests in "Upstream Variations." Travelers, please plan your time accordingly.
+
+〓Quest Unlock Criteria〓
+
+Adventure Rank 18 or above
+
+Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne"
+
+Unlock "Meeting Point: Tidesong Cavern" and upgrade the Meeting Point to Level 2
+
+-----
+
+# ["Adventurer's Booster Bundles" - Round 52 Available for a Limited Time](archive/21883.md)
+## Adventurer's Booster Bundles
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/112dc770760c748f77fcbcbb929882d8_2577404397453496509_transformed.jpg)
+
+Round 52 of Adventurer's Booster Bundles is available for a limited time in the Shop!
+
+〓Adventurer's Instructional Bundle〓
+
+Duration: After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/10/07 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Virtuous Share Bundle ×25, Mora ×150,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to three times in total.
+
+※ Virtuous Share Bundle: After usage, you can select any one 3-star Talent Level-Up Material from all the options available in the current Version.
+
+〓Adventurer's Jumbo Ore Bundle〓
+
+Duration: After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/10/07 23:59</t>
+
+Purchase Requirements: Adventure Rank 25 or above
+
+Bundle Contents: Mystic Enhancement Ore ×100, Mora ×100,000
+
+Bundle Price: Now 10% off for a limited time! The price after discount is 680 Genesis Crystals. Can be purchased up to five times in total.
+
+-----
+
+# ["Moontrace" Event Details](archive/21884.md)
+## Moontrace
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/7907d83c5432d75d68d61e8ace6ef758_7423804670023482212_transformed.jpg)
+
+Travelers can earn rich rewards in "Moontrace" during the event duration. Unlock "Gnostic Hymn" or "Gnostic Chorus" to further earn Intertwined Fate and a designated 4-star weapon! Purchase "Gnostic Chorus" directly to get the exclusive BP namecard "Travel Notes: Moontrace," Furnishing Blueprint "Where Fish Swim and Waters Sing," and Dust of Enlightenment.
+
+〓Event Duration〓
+
+After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/02 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+〓Event Details〓
+
+● Sojourner's Battle Pass will be unlocked by default every BP Period. Travelers can also unlock either Gnostic Hymn or Gnostic Chorus in order to earn even more rewards, or directly purchase Gnostic Chorus at a discounted price.
+
+※ Travelers who have already unlocked Gnostic Hymn need only exchange the remaining difference in cost through purchasing Travel Notes in order to unlock Gnostic Chorus.
+
+※ The purchasing of Gnostic Hymn, Gnostic Chorus, and Travel Notes for this Battle Pass will end on <t class="t_lc" contenteditable="false">2026/11/02 02:59</t>. Travelers can still complete Battle Pass Missions and claim rewards after the purchase period ends. Travelers, please take note of the purchase period and start time of the Battle Pass.
+
+● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
 # [Snezhnaya is now available!](archive/21862.md)
 ## Version 7.0 New Content Overview
 
@@ -1047,6 +1358,38 @@ Fixes an issue in the "Test Run" event where the description related to Stellar-
 The incorrect text read: "...the [Polestar] field will store the dissipating elemental energies and then completely release them every 3s. This further increases the aforementioned DMG Bonus and also increases the Base Stellar-Conduct DMG coefficient for 3s."
 
 Fixed text: "...the [Polestar] field will store the dissipating elemental energies and then completely release them every 4s. This further increases the aforementioned DMG Bonus and also increases the Base Stellar-Conduct DMG coefficient for 4s."
+
+-----
+
+# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20508.md)
+## Genius Invokation TCG - The Forge Realm's Temper
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/2aced11db7ef3877d6f0a882c1f5f408_3497207719847849432.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_7306061833689363980.png)
+
+〓Event Duration〓
+
+Available throughout the entirety of Version 7.1
+
+〓Eligibility〓
+
+Adventure Rank 32 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+And complete the World Quest "Battlefield of Dice, Cats, and Cards"
+
+〓Event Details〓
+
+● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
+
+● This event includes 4 stages and each stage has its distinctive challenge rules.
+
+● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
+
+● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
 
 -----
 
