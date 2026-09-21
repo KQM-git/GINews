@@ -135,6 +135,34 @@ After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/
 
 -----
 
+# [Starlit Gala](archive/21897.md)
+## Starlit Gala
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/a0a4a0cff37b7e26fe0e4faf3c009df9_6381299032088306271_transformed.jpg)
+
+〓Event Duration〓
+
+After Version 7.1 Update – <t class="t_gl" contenteditable="false">2026/11/03 04:00</t>
+
+〓Event Rewards〓
+
+Headwear "Unusual Hilichurl Mask," "Cryo Slime Hat," Primogems, Geodes of Replication, Prismatic Crystals, Actions, Expressions, and more.
+
+〓Event Details〓
+
+● During the Starlit Gala event, Travelers can claim the Cosmetic gift "Unusual Hilichurl Mask," visit the Miliastra Shop to check out related content, and participate in Amongst the Thousand Stars: Wonderland Creator Contest, Starlit Gala: Wonderland Selects, and the Starlit Gala web event.
+
+● During the creation and submission period for Amongst the Thousand Stars: Wonderland Creator Contest (After the Version 7.1 update – <t class="t_gl" contenteditable="false">2026/11/02 11:59</t>), check the option to enter Amongst the Thousand Stars: Wonderland Creator Contest when first publishing a Wonderland for a chance to obtain Creation Ticket No.1, Primogems, and other rewards! More event details are available on the contest website.
+
+● After the Starlit Gala: Wonderland Selects event begins, Travelers can participate during the event period (<t class="t_gl" contenteditable="false">2026/10/01 12:00</t> – <t class="t_gl" contenteditable="false">2026/10/22 03:59</t>). Play the featured Wonderlands and complete Celebration Objectives to accumulate Festive Fever and obtain rewards including the "Cryo Slime Hat" cosmetic, Primogems, Geodes of Replication, Prismatic Crystals, Actions, and Expressions. You can also vote for your favorite Wonderlands and help select the 20 "Wonderlands of the Year" of the first Starlit Gala event!
+
+● After the special Starlit Gala web event begins, Travelers can participate during the event period (<t class="t_gl" contenteditable="false">2026/10/01 12:00</t> – <t class="t_gl" contenteditable="false">2026/11/03 04:00</t>), complete missions, and obtain Primogems, Geodes of Replication, Miliastra Wonderland items, and other rewards!
+
+※ The Wonderland Selects event only features Wonderlands published before <t class="t_gl" contenteditable="false">2026/09/25 23:59</t> (GMT+8) that are of high overall quality and are not in Early Access. Wonderlands of the Year will be selected based on multiple factors, including total votes and overall quality.
+
+※ During the Wonderland Selects event, Travelers can also access the Starlit Gala web event directly from the Wonderland Selects event screen.
+
+-----
+
 # ["Rainbow's End: Resplendent Starlight" Event: Log In to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21879.md)
 ## Rainbow's End: Resplendent Starlight
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/13731601c5ec188f8221e2179960f25d_8966757839271822351_transformed.jpg)
@@ -1457,30 +1485,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
-# [Version Satisfaction Survey Now Open](archive/21926.md)
-## Version Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2022/10/24/cfc21128e6d6e39a4e7e011ae5f14779_6352103327130460565.jpg)
-
-Dear Traveler,
-
-Our developers have prepared a survey to help us bring you the best-possible Genshin Impact experience. Please complete the survey to win a reward~
-
-〓Survey Duration〓
-
-2026/09/18 10:00 (global) - 2026/09/21 23:59 (global)
-
-〓Survey Address〓
-
-[Click here to fill out the survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnuikF2tB-seXZlJUP2c9jil9lwT5lxvjMSODD7ulXDQDy&game_biz=hk4e_global&surveyId=40455&format=1&sign_type=2&authkey_ver=1)
-
-Travelers can also open the link via Paimon Menu > Mail > Version Satisfaction Survey > Survey Link to access the survey or via Paimon Menu > Survey > Select "Version Satisfaction Survey" to fill out the survey. After completing filling out the survey through any of the steps, you will get a prize, and you don't need to fill it in again~
-
-Answers cannot be edited after submitting the survey, so please be sure to fill it out carefully.
-
-We thank all Travelers for your invaluable feedback!
-
------
-
 # [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21806.md)
 ## Event Wish "Astral Actuation"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/b87b45f819f2284482148603dbc7bdaf_1983556728568067434_transformed.jpg)
@@ -1506,26 +1510,6 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Genshin Impact's Snezhnaya OST "Where Mercy Endures" Now Available](archive/21914.md)
-## Snezhnaya OST Album Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/09/4abf9238dfc4512762de6f719231268a_2434837398988654174_transformed.jpg)
-
-Dear Traveler,
-
-Genshin Impact's Snezhnaya OST album "Where Mercy Endures" is now available! The album's four discs, "Swept in Frost," "The Endless Road," "Untroubled Bliss," and "Shifting Shadows, Wavering Minds," feature 102 remarkable tracks composed by the HOYO-MiX team, each one an original composition for Snezhnaya.
-
-Travelers can go to the following platforms to listen to "Where Mercy Endures."
-
-Spotify:
-
-[Press here to listen to "Where Mercy Endures"](https://open.spotify.com/album/1CtW8DXs0o7rSeA0disbcA)
-
-Apple Music:
-
-[Press here to listen to "Where Mercy Endures"](https://music.apple.com/us/album/6810716784)
 
 -----
 
