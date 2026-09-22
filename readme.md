@@ -1,3 +1,43 @@
+# ["Silverwing in Pursuit of the Moon" Event: Take Part to Obtain the Event-Exclusive Weapon "Silver Light (Sword)"](archive/21886.md)
+## Silverwing in Pursuit of the Moon
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/22f2f523e19349f439b81b1c8e7a18f4_8177819633981078287_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/21/26bb3730bfd0dfd96a8d32c442cdd6c4_8926197329413901596_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Gameplay Phases | Phase I | <t class="t_lc" contenteditable="false">2026/09/24 10:00</t> | <t class="t_lc" contenteditable="false">2026/10/12 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/09/26 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/09/28 04:00</t> | ^
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Story Quests "Dulciaria Structura Chapter: Act I" and "Tapirus Somniator Chapter: Act I," and the Event Quest "A Lanternlit Ode to the Silver Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, three gameplay modes will be available: "The Great Chase and Dispelling," "Banner Against the Dark," and "Spiritshot Salvo."
+
+● In "The Great Chase and Dispelling," Travelers need to control a rattan figure to move along specific paths, collecting adeptal power or dispelling evil energy encountered along the way to achieve a higher score.
+
+● In "Banner Against the Dark," Travelers need to defeat as many normal opponents as possible in the first phase, and deal as much damage as possible to the boss in the second phase to achieve a higher score.
+
+● In "Spiritshot Salvo," Travelers need to use Sigils and spells to fire Spiritshots and defeat as many enemies as possible.
+
+● During the event, Travelers can also accept "Festive Priorities" and "Wondrous Anecdotes" quests. Complete these quests to obtain Primogems and other rewards.
+
+● Complete the various gameplay modes to obtain "Festive Cheer." Accumulate "Festive Cheer" and reach the specified amounts to claim rewards including Silver Light (Sword), Primogems, Crown of Insight, and event-exclusive Weapon Refinement Materials.
+
+-----
+
 # [Version 7.1 Update Maintenance Preview](archive/21927.md)
 ## Version 7.1 Update Maintenance Preview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/30/c941908b14dcaf160083796a10645f89_8616124327291380672_transformed.jpg)
@@ -40,54 +80,6 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/04/02/63132cf77c487a61ddfd4f1fc3808c6c_3767529921317771834_transformed.jpg)
 
 </details>
-
------
-
-# ["Silverwing in Pursuit of the Moon" Event: Take Part to Obtain the Event-Exclusive Weapon "Silver Light (Sword)"](archive/21886.md)
-## Silverwing in Pursuit of the Moon
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/22f2f523e19349f439b81b1c8e7a18f4_8177819633981078287_transformed.jpg)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/21/26bb3730bfd0dfd96a8d32c442cdd6c4_8926197329413901596_transformed.png)
-
-〓Event Duration〓
-
-Event Details | Event Details | Start Time | End Time
---- | --- | --- | ---
-Event Gameplay Phases | Phase I | <t class="t_lc" contenteditable="false">2026/09/24 10:00</t> | <t class="t_lc" contenteditable="false">2026/10/12 03:59</t>
-^ | Phase II | <t class="t_lc" contenteditable="false">2026/09/26 04:00</t> | ^
-^ | Phase III | <t class="t_lc" contenteditable="false">2026/09/28 04:00</t> | ^
-
-〓Eligibility〓
-
-Adventure Rank 20 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ Complete the Story Quests "Dulciaria Structura Chapter: Act I" and "Tapirus Somniator Chapter: Act I," and the Event Quest "A Lanternlit Ode to the Silver Moon" first to get the best experience from this event.
-
-〓Event Details〓
-
-● During the event, three gameplay modes will be available: "The Great Chase and Dispelling," "Banner Against the Dark," and "Spiritshot Salvo."
-
-● In "The Great Chase and Dispelling," Travelers need to control a rattan figure to move along specific paths, collecting adeptal power or dispelling evil energy encountered along the way to achieve a higher score.
-
-● In "Banner Against the Dark," Travelers need to defeat as many normal opponents as possible in the first phase, and deal as much damage as possible to the boss in the second phase to achieve a higher score.
-
-● In "Spiritshot Salvo," Travelers need to use Sigils and spells to fire Spiritshots and defeat as many enemies as possible.
-
-● During the event, Travelers can also accept "Festive Priorities" and "Wondrous Anecdotes" quests. Complete these quests to obtain Primogems and other rewards.
-
-● Complete the various gameplay modes to obtain "Festive Cheer." Accumulate "Festive Cheer" and reach the specified amounts to claim rewards including Silver Light (Sword), Primogems, Crown of Insight, and event-exclusive Weapon Refinement Materials.
-
------
-
-# [Version 7.1 Benefits Overview](archive/21923.md)
-## Version 7.1 Benefits Overview
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/12/503dbdabd59d6ff5aebd151d5011b7f7_3634289702927936987_transformed.jpg)
 
 -----
 
@@ -633,6 +625,14 @@ Adventure Rank 20 or above
 ● After unlocking Gnostic Hymn or Gnostic Chorus, you will unlock the Chronicle Boon effect, granting a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. Likewise, unlocking Chronicles of the Realms or Epic of the Realms will grant the Battle Pass Boon effect, offering a discount when purchasing the corresponding Battle Pass in Teyvat. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
 
 ● The Battle Pass and Miliastra Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+-----
+
+# [Version 7.1 Benefits Overview](archive/21923.md)
+## Version 7.1 Benefits Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/12/503dbdabd59d6ff5aebd151d5011b7f7_3634289702927936987_transformed.jpg)
 
 -----
 
