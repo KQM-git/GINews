@@ -43,6 +43,46 @@ For more update details, including adjustments, optimizations, bug fixes, and ot
 
 -----
 
+# ["Silverwing in Pursuit of the Moon" Event: Take Part to Obtain the Event-Exclusive Weapon "Silver Light (Sword)"](archive/21886.md)
+## Silverwing in Pursuit of the Moon
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/22f2f523e19349f439b81b1c8e7a18f4_8177819633981078287_transformed.jpg)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/21/26bb3730bfd0dfd96a8d32c442cdd6c4_8926197329413901596_transformed.png)
+
+〓Event Duration〓
+
+Event Details | Event Details | Start Time | End Time
+--- | --- | --- | ---
+Event Gameplay Phases | Phase I | <t class="t_lc" contenteditable="false">2026/09/24 10:00</t> | <t class="t_lc" contenteditable="false">2026/10/12 03:59</t>
+^ | Phase II | <t class="t_lc" contenteditable="false">2026/09/26 04:00</t> | ^
+^ | Phase III | <t class="t_lc" contenteditable="false">2026/09/28 04:00</t> | ^
+
+〓Eligibility〓
+
+Adventure Rank 20 or above
+
+Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
+
+※ Complete the Story Quests "Dulciaria Structura Chapter: Act I" and "Tapirus Somniator Chapter: Act I," and the Event Quest "A Lanternlit Ode to the Silver Moon" first to get the best experience from this event.
+
+〓Event Details〓
+
+● During the event, three gameplay modes will be available: "The Great Chase and Dispelling," "Banner Against the Dark," and "Spiritshot Salvo."
+
+● In "The Great Chase and Dispelling," Travelers need to control a rattan figure to move along specific paths, collecting adeptal power or dispelling evil energy encountered along the way to achieve a higher score.
+
+● In "Banner Against the Dark," Travelers need to defeat as many normal opponents as possible in the first phase, and deal as much damage as possible to the boss in the second phase to achieve a higher score.
+
+● In "Spiritshot Salvo," Travelers need to use Sigils and spells to fire Spiritshots and defeat as many enemies as possible.
+
+● During the event, Travelers can also accept "Festive Priorities" and "Wondrous Anecdotes" quests. Complete these quests to obtain Primogems and other rewards.
+
+● Complete the various gameplay modes to obtain "Festive Cheer." Accumulate "Festive Cheer" and reach the specified amounts to claim rewards including Silver Light (Sword), Primogems, Crown of Insight, and event-exclusive Weapon Refinement Materials.
+
+-----
+
 # [Version 7.1 Benefits Overview](archive/21923.md)
 ## Version 7.1 Benefits Overview
 
@@ -135,6 +175,100 @@ After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/
 
 -----
 
+# [Cosmetic Event Ode 2 New Mechanics Description](archive/21902.md)
+## Cosmetic Event Ode 2 Mechanics Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/4d86ed525f736bb2443e75e7e5407678_445197683755154974_transformed.jpg)
+
+After the Version 7.1 update, a new Ode type will be added: Cosmetic Event Ode 2.
+
+Cosmetic Event Ode and Cosmetic Event Ode 2 and will continue to accumulate across both Cosmetic Event Ode and Cosmetic Event Ode 2. It is calculated independently from the guarantee counts of other Ode types (Standard Odes), and neither will affect the other.
+
+The base rates and rules for items of each rarity in Cosmetic Event Ode 2 are the same as those in Cosmetic Event Ode. (For details on base rates, please refer to the in-game Ode Details.)
+
+The rules for gifting cosmetics through Cosmetic Event Ode 2 are the same as those for Cosmetic Event Ode. When gifting to the same friend, Cosmetic Event Ode and Cosmetic Event Ode 2 share the same guarantee count.
+
+※ In Gifting Mode, you can switch between Cosmetic Event Ode and Cosmetic Event Ode 2. Cosmetics obtained from both can be combined into one gift and sent together.
+
+Q: When will the Cosmetics Event Ode 2 become available?
+
+A: Cosmetic Event Ode 2 is an Event Ode featuring returning cosmetics. It will become available periodically alongside Cosmetic Event Ode. Details on its availability will be announced in future notices.
+
+Q: Does the guarantee count from Cosmetic Event Ode carry over to Cosmetic Event Ode 2?
+
+A: The guarantee count is shared between Cosmetic Event Ode and Cosmetic Event Ode 2 and will continue to accumulate across both Cosmetic Event Ode and Cosmetic Event Ode 2. This count is calculated independently from the guarantee counts for other Ode types, and they do not affect one another. For example:
+
+Legendary (5-Star) Cosmetics
+
+If you perform 40 pulls in Cosmetic Event Ode without obtaining a Legendary (5-Star) Cosmetic, then continue pulling in Cosmetic Event Ode 2, you are guaranteed to obtain a Legendary (5-Star) Cosmetic from Cosmetic Event Ode 2 within the next 30 pulls.
+
+Elite (4-Star) Cosmetics
+
+If you perform 6 pulls in Cosmetic Event Ode without obtaining an Elite (4-Star) Cosmetic, then continue pulling in Cosmetic Event Ode 2, you are guaranteed to obtain an Elite (4-Star) or higher-rarity Cosmetic from Cosmetic Event Ode 2 within the next 4 pulls.
+
+Q: After Cosmetic Event Ode 2 ends, will the guarantee count from Cosmetic Event Ode 2 carry over?
+
+A: Yes. The guarantee count is shared between Cosmetic Event Ode and Cosmetic Event Ode 2. Even after Cosmetic Event Ode 2 ends, its guarantee count will carry over to future runs of Cosmetic Event Ode and Cosmetic Event Ode 2.
+
+-----
+
+# ["Moonlit Season" Season Opening Announcement](archive/21900.md)
+## Moonlit Season
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/cab851438c4c9925181bf92e30b63b77_7080916296890345353_transformed.jpg)
+
+〓Season Duration〓
+
+Preparation Phase: After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/09/24 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/09/24 10:00</t> – <t class="t_lc" contenteditable="false">2026/11/03 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/11/03 04:00</t> – End of Version 7.1
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season is divided into three phases: Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, you can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores cannot be earned.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Take Part in "Raiment Collection: Warmth of a Sunny Day" to Obtain an "Afternoon Nectar" Manekin Cosmetic Set of Your Choice](archive/21899.md)
+## Raiment Collection: Warmth of a Sunny Day
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/2540d4a69437b8837ef02fce07c54d01_2651486398650125616_transformed.jpg)
+
+〓Event Duration〓
+
+After the Version 7.1 update – <t class="t_gl" contenteditable="false">2026/11/04 05:59</t>
+
+〓Event Rewards〓
+
+An "Afternoon Nectar" Manekin Cosmetic Set of your choice and Geodes of Replication
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
+
+● During the event, once your total accumulated "Treasured Insights" reaches the required amount, you can claim the Manekin Cosmetics Set "Afternoon Nectar."
+
+● Before claiming your first component of the "Afternoon Nectar" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
+
+※ The Manekin Cosmetic Set "Afternoon Nectar" will be available for a limited time in the Miliastra Shop after Version 7.1 ends. Please visit the Miliastra Shop for more details.
+
+-----
+
 # [Starlit Gala](archive/21897.md)
 ## Starlit Gala
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/a0a4a0cff37b7e26fe0e4faf3c009df9_6381299032088306271_transformed.jpg)
@@ -160,6 +294,118 @@ Headwear "Unusual Hilichurl Mask," "Cryo Slime Hat," Primogems, Geodes of Replic
 ※ The Wonderland Selects event only features Wonderlands published before <t class="t_gl" contenteditable="false">2026/09/25 23:59</t> (GMT+8) that are of high overall quality and are not in Early Access. Wonderlands of the Year will be selected based on multiple factors, including total votes and overall quality.
 
 ※ During the Wonderland Selects event, Travelers can also access the Starlit Gala web event directly from the Wonderland Selects event screen.
+
+-----
+
+# ["Wonderland Treasures: Phantom Night Candlelight" – New Manekin Cosmetics Now Available](archive/21896.md)
+## Wonderland Treasures: Phantom Night Candlelight
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/20/340e68125846d03db634d6c9a2c46f03_854875324930933494_transformed.jpg)
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
+--- | --- | ---
+After the Version 7.1 update  —  <t class="t_lc" contenteditable="false">2026/11/03 14:59</t> | "Candlelit Revelry" | "Fervent Fighter"
+^ | ^ | "Mystic Forest"
+^ | ^ | "Sonic Ruins"
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Candlelit Revelry" and Elite (4-Star) Cosmetics "Fervent Fighter," "Mystic Forest," and "Sonic Ruins" will be available in the Manekin Cosmetic Event Ode 2!
+
+● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Candlelit Revelry" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Candlelit Revelry: Pumpkin Candy."
+
+※ Event Ode 2 for this event follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+-----
+
+# ["Wonderland Treasures: Moonlight After the Rain" – New Manekin Cosmetics Now Available](archive/21895.md)
+## Wonderland Treasures: Moonlight After the Rain
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/b6d8da824c5ff19f4fbe724c9f54f0d4_7068514292336761559_transformed.jpg)
+
+During the event, Travelers can obtain desired Manekin Cosmetics via the "Moonlight After the Rain" Event Ode, Silvery Moonlight Chronicle, or the Miliastra Shop!
+
+Play Popular Miliastra Wonderland stages with your new Sets or Try-On Capes equipped to obtain a Primogems ×60 reward!
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
+--- | --- | ---
+After the Version 7.1 update  —  <t class="t_lc" contenteditable="false">2026/11/03 14:59</t> | "Osmanthus in the Moonlight" | "Sweet Baker's Dreams"
+^ | ^ | "Feathers of Justice"
+^ | ^ | "Idyllic Melodies"
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Osmanthus in the Moonlight" and Elite (4-Star) Cosmetics "Sweet Baker's Dreams," "Feathers of Justice," and "Idyllic Melodies" will be available in the Manekin Cosmetic Event Ode!
+
+During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Osmanthus in the Moonlight" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Osmanthus in the Moonlight: Silken Elegance."
+
+※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+〓Gala: Initial Top-Up Reward〓
+
+After the Version 7.1 update, your first purchase of each Chronal Nexus tier in the Miliastra Shop will also grant a corresponding amount of Celebration Chronal Nexus. This bonus is available once per tier. This bonus is available once per tier. Limited Celebration Chronal Nexus of each tier can only be used by yourself and cannot be gifted to friends.
+
+〓Limited-Time Rerun〓
+
+Selected Cosmetics are back for a limited-time rerun! Enjoy 20% off up to 3 Cosmetics during the rerun.
+
+Rerun Period: After Version 7.1 Update – <t class="t_lc" contenteditable="false">2026/11/03 03:59</t>
+
+〓Miliastra Shop〓
+
+● "Gala: Special Offers" is available for a limited time. All new Cosmetics listed in the Miliastra Shop during this period enjoy a 40% discount.
+
+Cosmetic Availability Period | Cosmetic Availability Period
+--- | ---
+After the Version 7.1 update  Available for 3 consecutive versions | After the Version 7.1 update  Available for 3 consecutive versions
+Limited-Time Discount Period | Limited-Time Discount Period
+After the Version 7.1 update  —  <t class="t_lc" contenteditable="false">2026/11/02 03:59</t> | After the Version 7.1 update  —  <t class="t_lc" contenteditable="false">2026/11/02 03:59</t>
+Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
+Manekin Cosmetic "Twilight Web"
+
+Manekina Cosmetic "Twilight Web" | Manekin Cosmetic "Ribbit-Tibbit"
+
+Manekina Cosmetic "Ribbit-Tibbit"
+Manekin Cosmetic "Amber Nectar"
+
+Manekina Cosmetic "Amber Nectar" | Manekin Cosmetic "Radiance After the Rain"
+
+Manekina Cosmetic "Radiance After the Rain"
+Manekin Cosmetic "Rose's Lament"
+
+Manekina Cosmetic "Rose's Lament" | ^
+
+● After the Version 7.1 update, a total of 6 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
+
+● New Cosmetic Sets for Version 7.1! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×720 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Ribbit-Tibbit" in the current event is available for Chronal Nexus ×180 during the discount period and will revert to Chronal Nexus ×300 once the offer ends. The "Radiance After the Rain" Cosmetic Set is available for Chronal Nexus ×120 during the discount period and will revert to Chronal Nexus ×200 once the offer ends.
+
+● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,080 while the featured Exceptional (3-Star) Cosmetic Bundle "Ribbit-Tibbit" is priced at Chronal Nexus ×270. In addition, the "Radiance After the Rain" Set Bundle is priced at Chronal Nexus ×180. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
+
+● After the Version 7.1 update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
+
+● You can check your purchased Manekina Cosmetics via Paimon Menu > Cosmetic Plans.
+
+〓Silvery Moonlight Chronicle〓
+
+● Event Duration: After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/02 03:59</t>
+
+● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited 4-Star Cosmetic "Fireflies of Hope"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Osmanthus Retreat: Solace Among Blossoms."
+
+※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
+
+※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until <t class="t_lc" contenteditable="false">2026/11/02 02:59</t>. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
+
+● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+〓New Standard Ode Set Catalog〓
+
+● After the Version 7.1 update, a new Elite (4-Star) Set Catalog "The Art of Spontaneity" will be added to the Standard Ode "Encounter Echoes."
+
+※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
 
 -----
 
