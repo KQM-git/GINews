@@ -1703,62 +1703,6 @@ After the Version 7.1 update
 
 -----
 
-# [Event Wish "The Lone Light Knocks at Night" - Boosted Drop Rate for "Shadowy Lights, Stranger Wights" Flins (Electro)!](archive/21805.md)
-## Event Wish "The Lone Light Knocks at Night"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/c8020ea30bb4b123ddf732556676af01_6926918958511625014_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> ~  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | "Shadowy Lights, Stranger Wights" Flins (Electro) | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
-^ | ^ | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Spring Woven From Jade" Lan Yan (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Shadowy Lights, Stranger Wights" Flins (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), "Tempered in Molten Stone" Iansan (Electro), and "Spring Woven From Jade" Lan Yan (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Event Wish "Astral Actuation" - Boosted Drop Rate for "Boom Boom Thunderwave" Ineffa (Electro)!](archive/21806.md)
-## Event Wish "Astral Actuation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/b87b45f819f2284482148603dbc7bdaf_1983556728568067434_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> ~  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | "Boom Boom Thunderwave" Ineffa (Electro) | "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro)
-^ | ^ | "Tempered in Molten Stone" Iansan (Electro)
-^ | ^ | "Spring Woven From Jade" Lan Yan (Anemo)
-
-● During this event wish, the event-exclusive 5-star character "Boom Boom Thunderwave" Ineffa (Electro) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Clinky-Clank Gadgets-A-Gogo" Aino (Hydro), "Tempered in Molten Stone" Iansan (Electro), and "Spring Woven From Jade" Lan Yan (Anemo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [HoYoLAB Community "Daily Check-In" Feature](archive/21903.md)
 ## Daily Check-In Feature
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2022/12/06/d15f6c61e1d3d62d5e269360aaef7285_3515093605882829658.png)
@@ -1798,62 +1742,6 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm)!](archive/21808.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/3ba94541022f94fb05c68653716f2051_2325434927114078114_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/09/01 18:00</t> –  <t class="t_lc" contenteditable="false">2026/09/22 14:59</t> | Bloodsoaked Ruins (Polearm)  Fractured Halo (Polearm) | The Flute (Sword)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | Eye of Perception (Catalyst)
-^ | ^ | The Stringless (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Bloodsoaked Ruins (Polearm) and Fractured Halo (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star weapons The Flute (Sword), Favonius Greatsword (Claymore), Favonius Lance (Polearm), Eye of Perception (Catalyst), and The Stringless (Bow) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Bloodsoaked Ruins (Polearm) or Fractured Halo (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# [Complete the Archon Quest "Everwinter Without Mercy" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21809.md)
-## "Everwinter Without Mercy"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/eb6c69fd2dafac1cbee1bc5d1d177783_2112318365651381498_transformed.jpg)
-
-After the Version update, Archon Quests Chapter VII: Act I and Act II will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
-
-Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Snezhnaya regional specialties, and other rewards.
-
-‍
-
-〓Specified Duration〓
-
-After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
-
-‍
-
-〓Archon Quest Unlock Criteria〓
-
-Adventure Rank 18 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-※ After meeting the above prerequisites, explore the Snezhnaya region to automatically accept the Archon Quest Chapter VII: Act I "Everwinter Without Mercy."
-
-※ Complete the Archon Quest Song of the Welkin Moon - Act X and the Event Quest "Sunny Summer Fontinalia" first to get the best experience from this content.
 
 -----
 
@@ -2026,22 +1914,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 ● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
 
 ※ Starting from this "To Temper Thyself and Journey Far" event, Stella Fortuna for the following characters will be permanently added to the available redemption rewards: Lyney, Wriothesley, Navia, Sigewinne, Clorinde, Emilie, Chiori, Xianyun, Yumemizuki Mizuki.
-
------
-
-# ["When We Look Up at the Moon": Complete the Exploration Missions Within the Specified Duration to Obtain an Additional Reward of Primogems ×400](archive/21750.md)
-## "When We Look Up at the Moon"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/d1fccbee7dc2d207a6f1ddbf6639840b_198600082712231926_transformed.jpg)
-
-Version "Luna VIII" introduces the following new areas: Dunanna Pit, Lunar Highlands, Moontide Sea, and the Dark Side of the Moon
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version "Luna VIII" update – <t class="t_lc" contenteditable="false">2026/09/22 14:59</t>
 
 -----
 
