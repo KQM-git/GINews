@@ -813,34 +813,6 @@ After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Beyond the Chrysalis (Sword) and Hymn of the Maelstrom (Catalyst)!](archive/21878.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/41a1d242fc5fd77e49c4912082735dc3_3571449661991950272_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/10/13 17:59</t> | Beyond the Chrysalis (Sword)  Hymn of the Maelstrom (Catalyst) | New Bough (Sword)
-^ | ^ | Winter's Heavy Heart (Catalyst)
-^ | ^ | Breezeborne Refrain (Bow)
-^ | ^ | Favonius Greatsword (Claymore)
-^ | ^ | Dragon's Bane (Polearm)
-
-● During this event wish, the event-exclusive 5-star weapons Beyond the Chrysalis (Sword) and Hymn of the Maelstrom (Catalyst) will receive a huge drop-rate boost!
-
-● During this event wish, the event-exclusive 4-star weapons New Bough (Sword), Winter's Heavy Heart (Catalyst), and Breezeborne Refrain (Bow), as well as the 4-star weapons Favonius Greatsword (Claymore) and Dragon's Bane (Polearm) will receive a huge drop-rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Beyond the Chrysalis (Sword) or Hymn of the Maelstrom (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Cosmetic Event Ode 2 New Mechanics Description](archive/21902.md)
 ## Cosmetic Event Ode 2 Mechanics Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/4d86ed525f736bb2443e75e7e5407678_445197683755154974_transformed.jpg)
@@ -1075,6 +1047,34 @@ Manekina Cosmetic "Rose's Lament" | ^
 
 -----
 
+# [Event Wish "Epitome Invocation" - Boosted Drop Rate for Beyond the Chrysalis (Sword) and Hymn of the Maelstrom (Catalyst)!](archive/21878.md)
+## Event Wish "Epitome Invocation"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/41a1d242fc5fd77e49c4912082735dc3_3571449661991950272_transformed.jpg)
+
+Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
+
+〓Event Wish Details〓
+
+Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
+--- | --- | ---
+After the Version 7.1 update  –  <t class="t_lc" contenteditable="false">2026/10/13 17:59</t> | Beyond the Chrysalis (Sword)  Hymn of the Maelstrom (Catalyst) | New Bough (Sword)
+^ | ^ | Winter's Heavy Heart (Catalyst)
+^ | ^ | Breezeborne Refrain (Bow)
+^ | ^ | Favonius Greatsword (Claymore)
+^ | ^ | Dragon's Bane (Polearm)
+
+● During this event wish, the event-exclusive 5-star weapons Beyond the Chrysalis (Sword) and Hymn of the Maelstrom (Catalyst) will receive a huge drop-rate boost!
+
+● During this event wish, the event-exclusive 4-star weapons New Bough (Sword), Winter's Heavy Heart (Catalyst), and Breezeborne Refrain (Bow), as well as the 4-star weapons Favonius Greatsword (Claymore) and Dragon's Bane (Polearm) will receive a huge drop-rate boost!
+
+● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Beyond the Chrysalis (Sword) or Hymn of the Maelstrom (Catalyst). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
+
+※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
+
+※ For more information, go to the Wish screen and select Details in the bottom-left corner.
+
+-----
+
 # ["Rainbow's End: Resplendent Starlight" Event: Log In to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21879.md)
 ## Rainbow's End: Resplendent Starlight
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/13731601c5ec188f8221e2179960f25d_8966757839271822351_transformed.jpg)
@@ -1274,6 +1274,14 @@ Bundle Price: Now 10% off for a limited time! The price after discount is 680 Ge
 
 -----
 
+# [Version 7.1 Benefits Overview](archive/21923.md)
+## Version 7.1 Benefits Overview
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/12/503dbdabd59d6ff5aebd151d5011b7f7_3634289702927936987_transformed.jpg)
+
+-----
+
 # ["Moontrace" Event Details](archive/21884.md)
 ## Moontrace
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/7907d83c5432d75d68d61e8ace6ef758_7423804670023482212_transformed.jpg)
@@ -1302,11 +1310,17 @@ Adventure Rank 20 or above
 
 -----
 
-# [Version 7.1 Benefits Overview](archive/21923.md)
-## Version 7.1 Benefits Overview
+# [HoYoFair 2026 "Project: Nord Express" Genshin Impact Fan Art Special Program](archive/21905.md)
+## Genshin Impact Fan Art Special Program Now Online
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/18/277abb110c4bf916caae9752eaeaf0f8_3092798544697511985.jpg)
 
+Hello, Traveler! HoYoFair 2026 "Project: Nord Express," a fan art special program jointly produced by our creators, is now online!
 
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/12/503dbdabd59d6ff5aebd151d5011b7f7_3634289702927936987_transformed.jpg)
+[>> Click to watch the program <<](https://youtu.be/GVIuXjGY8bs)
+
+A big thank you to all the creators for being so passionate about Genshin Impact and sharing such amazing works! Please go show your support by heading over to any major content platforms to like their works and leave your comments~
+
+*Fan works are derivative creations, and do not represent the actual plot and settings in the game.
 
 -----
 
@@ -1339,42 +1353,6 @@ And complete the World Quest "Battlefield of Dice, Cats, and Cards"
 ● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
 
 ● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [HoYoFair 2026 "Project: Nord Express" Genshin Impact Fan Art Special Program](archive/21905.md)
-## Genshin Impact Fan Art Special Program Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/18/277abb110c4bf916caae9752eaeaf0f8_3092798544697511985.jpg)
-
-Hello, Traveler! HoYoFair 2026 "Project: Nord Express," a fan art special program jointly produced by our creators, is now online!
-
-[>> Click to watch the program <<](https://youtu.be/GVIuXjGY8bs)
-
-A big thank you to all the creators for being so passionate about Genshin Impact and sharing such amazing works! Please go show your support by heading over to any major content platforms to like their works and leave your comments~
-
-*Fan works are derivative creations, and do not represent the actual plot and settings in the game.
-
------
-
-# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
-## Initial Top-Up Bonus Reset
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
-
-After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 7.1 update
-
-※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
-● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
 
 -----
 
@@ -1417,6 +1395,28 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
+
+-----
+
+# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
+## Initial Top-Up Bonus Reset
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
+
+After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
+
+**〓Reset Time〓**
+
+After the Version 7.1 update
+
+※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
+
+**〓Reset Details〓**
+
+● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
+
+● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
+
+● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
 
 -----
 
