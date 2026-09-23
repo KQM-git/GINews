@@ -703,6 +703,20 @@ Fixes an issue whereby the icon for the weapon "Prospector's Drill" was incorrec
 
 -----
 
+# [Version Details - What's New ](archive/21956.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓Version Update Bug Fixes〓
+
+Fixes an issue whereby after the Ice Coffin of the opponents "Glaciomancer" and "Glacial Warden" was affected by Stellar Glimmer reactions, the efficiency of using Pyro and Geo attacks to break said Ice Coffin would be abnormal.
+
+-----
+
 # ["Silverwing in Pursuit of the Moon" Event: Take Part to Obtain the Event-Exclusive Weapon "Silver Light (Sword)"](archive/21886.md)
 ## Silverwing in Pursuit of the Moon
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/22f2f523e19349f439b81b1c8e7a18f4_8177819633981078287_transformed.jpg)
