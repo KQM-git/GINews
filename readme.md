@@ -907,6 +907,10 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 Currently, an English voice-over line in the cutscene for the "One Move Left to Make" in the Archon Quest "White Night, Like a Dream Upon Waking" contains errors that do not match the text, including an incorrect pronoun. This issue will be fixed in a future update.
 
+〓<t class="t_gl" contenteditable="false">2026/10/26 15:45</t> Update Details〓
+
+Fixes an issue whereby under certain circumstances, after all items in the Storage Device had been collected, the items would respawn abnormally after logging back into the game.
+
 〓<t class="t_gl" contenteditable="false">2026/10/09 16:10</t> Update Details〓
 
 Updates resources related to subsequent events.
