@@ -867,6 +867,30 @@ Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-St
 
 -----
 
+# [Beware of Phishing Websites: Keep Your Account Secure](archive/22008.md)
+## Beware of Phishing Websites: Keep Your Account Secure
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/29/a05b77dc19895db836ffa20ada9cc006_4235804805962751199_transformed.png)
+
+Dear Traveler,
+
+We have recently identified cases of Travelers' accounts being stolen through phishing websites in certain regions.
+
+To keep Travelers' accounts secure, we will continue to strengthen our security measures and take further legal action as appropriate. We would also like to remind all Travelers of the following:
+
+Always use official channels to log in and manage your account.
+
+• Please use only the official Genshin Impact client and website to log in, view, or update your account information.
+
+• Do not click links from unknown sources or enter your login details, password, or verification codes on unofficial pages. Phishing websites often lure visitors with promises of free rewards, prize draws and cashback offers, or warnings of unusual account activity. Please stay alert.
+
+• Regularly check that you still have control of the email address and phone number linked to your account. Reduce the risk of account theft by changing your password regularly, using a strong password, and strengthening your email account's security.
+
+• If you discover that the email address linked to your account has been changed to an unfamiliar one, or receive notifications of logins or changes to linked account information that you did not initiate, change your password through official channels or contact official Customer Service immediately for assistance.
+
+We are committed to keeping Travelers' accounts secure. We sincerely hope to work together with all Travelers to build and maintain a fair and welcoming gaming environment.
+
+-----
+
 # [Version Details - What's New ](archive/21956.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
