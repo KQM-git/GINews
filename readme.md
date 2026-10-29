@@ -1,3 +1,17 @@
+# [New Content Overview](archive/21947.md)
+## Version 7.1 Now Available
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/af02f43546f660337583ca2eca1f14af_6126363490201495187_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/cdf52f73d1e7ecf95a7544e11f7de6c3_1428701545229707476_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/591393f7fafb22e961db672360c59894_1141827441502975847_transformed.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/af8a4cf990ad188aefc718430d5f50dd_6995115695880001838_transformed.jpg)
+
+-----
+
 # [Visit the Starlit Gala Web Event to Unlock Your Wonderland Year in Review Report!](archive/21908.md)
 ## Starlit Gala: Genshin Impact Miliastra Wonderland Web Event Update!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/15/17ce4718f54a3a21719e7d07731a1b21_1092535759659879610_transformed.jpg)
@@ -49,20 +63,6 @@ Complete more event tasks to claim Geodes of Replication, the Manekin Action "V 
 3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
 
 4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
-# [New Content Overview](archive/21947.md)
-## Version 7.1 Now Available
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/af02f43546f660337583ca2eca1f14af_6126363490201495187_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/cdf52f73d1e7ecf95a7544e11f7de6c3_1428701545229707476_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/591393f7fafb22e961db672360c59894_1141827441502975847_transformed.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/22/af8a4cf990ad188aefc718430d5f50dd_6995115695880001838_transformed.jpg)
 
 -----
 
