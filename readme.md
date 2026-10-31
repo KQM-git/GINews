@@ -781,6 +781,42 @@ We are committed to keeping Travelers' accounts secure. We sincerely hope to wor
 
 -----
 
+# ["To Temper Thyself and Journey Far": Rewards of Dedication](archive/21892.md)
+## To Temper Thyself and Journey Far
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/f77abe8a6f4104f1229db987e2c4280a_177291918664626977_transformed.png)
+
+〓Event Rewards〓
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_6936810366436995049_transformed.png)
+
+〓Event Duration〓
+
+<t class="t_lc" contenteditable="false">2026/11/02 04:00</t> ~ <t class="t_lc" contenteditable="false">2027/01/25 03:59</t>
+
+〓Eligibility〓
+
+Adventure Rank 14 or above
+
+Complete "Knights of Favonius" in Archon Quest Prologue: Act I to unlock the Wish system
+
+Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adventurer Handbook
+
+〓Event Details〓
+
+● During the event, claim rewards from 4 Daily Commissions and expend 120 Original Resin in a single day to complete daily training goals. Complete daily training goals 5 times in a week to complete the weekly training goal for that week. You will accumulate progress for completing weekly training goals, which can be exchanged for the corresponding stage rewards.
+
+● When you complete 8 weekly training goals, you can claim the Stella Fortuna reward. Travelers can select a desired character's Stella Fortuna from the characters on the event page's roster.
+
+※ Stella Fortuna cannot be obtained for characters you have not obtained, or for characters who have already obtained a Stella Fortuna from past "To Temper Thyself and Journey Far" events.
+
+※ During each season of the "To Temper Thyself and Journey Far" event, unclaimed Stella Fortuna rewards (earned by completing objectives) can only be exchanged for characters available in the current season. The selection opportunity does not carry over to the next season, so please select your character for exchange promptly.
+
+● In the current cycle of "To Temper Thyself and Journey Far," complete 8 weekly training goals to unlock Tempered in Practice for the following week. Once unlocked, you will receive extra rewards for completing weekly training goals. This bonus resets weekly, so be sure to claim your extra rewards in time.
+
+● After the current cycle of "To Temper Thyself and Journey Far" concludes, the next cycle will begin on the following Monday at 04:00.
+
+-----
+
 # ["Overflowing Favor" Event: Double Drops With Artifacts](archive/21053.md)
 ## Overflowing Favor
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/23/71613bec4ef9f79808a3d8659a3de7e3_4543893924710096263.jpg)
