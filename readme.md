@@ -1190,60 +1190,6 @@ Fixes an issue whereby the icon for the weapon "Prospector's Drill" was incorrec
 
 -----
 
-# [Visit the Starlit Gala Web Event to Unlock Your Wonderland Year in Review Report!](archive/21908.md)
-## Starlit Gala: Genshin Impact Miliastra Wonderland Web Event Update!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/15/17ce4718f54a3a21719e7d07731a1b21_1092535759659879610_transformed.jpg)
-
-Dear Traveler, more content is now available in the Starlit Gala web event. Unlock your Wonderland Year in Review Report and claim more rewards!
-
-Celebrate the Starlit Gala together and make your own memories!
-
-[>> Click to Take Part in Event <<](https://act.hoyoverse.com/ys/event/e20261001ugc-ali0ea/index.html?game_biz=hk4e_global&sign_type=2&auth_appid=e20261001ugcanniversary&authkey_ver=1&utm_source=ingame&utm_medium=notice)
-
-〓Event Duration〓
-
-Start Time:
-
-America Server: October 21, 2026 (UTC+8)
-
-Asia & TW, HK, MO & Europe Servers: October 22, 2026 (UTC+8)
-
-End Time:
-
-November 3, 2026 04:00 (UTC+8)
-
-※ Rewards cannot be claimed after the event ends. Please claim them in time.
-
-〓Eligibility〓
-
-Travelers who have reached Adventure Rank 1 or above can participate in this event.
-
-※ The data for the Wonderland Year in Review Report of the "Starlit Gala" event will be collected between the Version Luna II update and October 18, 2026, 00:00 (UTC+8) (there may be a margin of error of about 30 minutes).
-
-〓Event Description〓
-
-During the event, Travelers can click to view their Wonderland Year in Review Report and look back on their exclusive memories in Miliastra Wonderland~
-
-Once you have finished viewing the full Wonderland Year in Review Report, your Wonderland Report Summary page will be generated, and you can share it freely!
-
-〓Event Rewards〓
-
-View the entire Wonderland Year in Review Report and share it to claim Geode of Replication ×100 and the Facial Makeup "Delicate Heart."
-
-Complete more event tasks to claim Geodes of Replication, the Manekin Action "V for Victory," and Mora ×20,000.
-
-〓Event Notes〓
-
-1. Please log in to the event using your HoYoverse Account and select your corresponding character in Genshin Impact to take part. This will ensure that your rewards can be sent and claimed correctly.
-
-2. After the event ends, you will no longer be able to take part and claim the rewards, so remember to take part in time.
-
-3. The in-game rewards will be distributed via in-game mail. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-4. This web event is provided purely for entertainment. The content of the event does not represent any actual story or settings in the game. It is not indicative of any related gameplay features in Genshin Impact.
-
------
-
 # [Beware of Phishing Websites: Keep Your Account Secure](archive/22008.md)
 ## Beware of Phishing Websites: Keep Your Account Secure
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/29/a05b77dc19895db836ffa20ada9cc006_4235804805962751199_transformed.png)
@@ -1517,34 +1463,6 @@ After awakening your Miliastra Wonderland Manekin
 ● Before claiming your first component of the "Afternoon Nectar" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
 
 ※ The Manekin Cosmetic Set "Afternoon Nectar" will be available for a limited time in the Miliastra Shop after Version 7.1 ends. Please visit the Miliastra Shop for more details.
-
------
-
-# [Starlit Gala](archive/21897.md)
-## Starlit Gala
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/a0a4a0cff37b7e26fe0e4faf3c009df9_6381299032088306271_transformed.jpg)
-
-〓Event Duration〓
-
-After Version 7.1 Update – <t class="t_gl" contenteditable="false">2026/11/03 04:00</t>
-
-〓Event Rewards〓
-
-Headwear "Unusual Hilichurl Mask," "Cryo Slime Hat," Primogems, Geodes of Replication, Prismatic Crystals, Actions, Expressions, and more.
-
-〓Event Details〓
-
-● During the Starlit Gala event, Travelers can claim the Cosmetic gift "Unusual Hilichurl Mask," visit the Miliastra Shop to check out related content, and participate in Amongst the Thousand Stars: Wonderland Creator Contest, Starlit Gala: Wonderland Selects, and the Starlit Gala web event.
-
-● During the creation and submission period for Amongst the Thousand Stars: Wonderland Creator Contest (After the Version 7.1 update – <t class="t_gl" contenteditable="false">2026/11/02 11:59</t>), check the option to enter Amongst the Thousand Stars: Wonderland Creator Contest when first publishing a Wonderland for a chance to obtain Creation Ticket No.1, Primogems, and other rewards! More event details are available on the contest website.
-
-● After the Starlit Gala: Wonderland Selects event begins, Travelers can participate during the event period (<t class="t_gl" contenteditable="false">2026/10/01 12:00</t> – <t class="t_gl" contenteditable="false">2026/10/22 03:59</t>). Play the featured Wonderlands and complete Celebration Objectives to accumulate Festive Fever and obtain rewards including the "Cryo Slime Hat" cosmetic, Primogems, Geodes of Replication, Prismatic Crystals, Actions, and Expressions. You can also vote for your favorite Wonderlands and help select the 20 "Wonderlands of the Year" of the first Starlit Gala event!
-
-● After the special Starlit Gala web event begins, Travelers can participate during the event period (<t class="t_gl" contenteditable="false">2026/10/01 12:00</t> – <t class="t_gl" contenteditable="false">2026/11/03 04:00</t>), complete missions, and obtain Primogems, Geodes of Replication, Miliastra Wonderland items, and other rewards!
-
-※ The Wonderland Selects event only features Wonderlands published before <t class="t_gl" contenteditable="false">2026/09/25 23:59</t> (GMT+8) that are of high overall quality and are not in Early Access. Wonderlands of the Year will be selected based on multiple factors, including total votes and overall quality.
-
-※ During the Wonderland Selects event, Travelers can also access the Starlit Gala web event directly from the Wonderland Selects event screen.
 
 -----
 
