@@ -1250,34 +1250,6 @@ Complete the World Quest "Welcome to the Adventurers' Guild" to unlock the Adven
 
 -----
 
-# [Event Wish "Void Star's Advent" - Boosted Drop Rate for "Void Star" Skirk (Cryo)!](archive/21888.md)
-## Event Wish "Void Star's Advent"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/23/8668a2e84580c1426c290a447320bcd9_5708783295049261864_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/10/13 18:00</t> –  <t class="t_lc" contenteditable="false">2026/11/03 14:59</t> | "Void Star" Skirk (Cryo) | "Ode and Oblation" Dahlia (Hydro)
-^ | ^ | "Golden Vow" Candace (Hydro)
-^ | ^ | "Coordinates of Clear Frost" Mika (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Void Star" Skirk (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Coordinates of Clear Frost" Mika (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # [Version Details - What's New ](archive/21956.md)
 ## Update Summary
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
@@ -1341,34 +1313,6 @@ You will receive 100 Primogems and 10,000 Mora for your first check-in!
 〓Event Duration〓
 
 Permanent
-
------
-
-# [Event Wish "La Chanson Cerise" - Boosted Drop Rate for "Tasteful Excellence" Escoffier (Cryo)!](archive/21889.md)
-## Event Wish "La Chanson Cerise"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/23/e77eb5aab52127e55989bb8162d671d8_5676769242945454268_transformed.jpg)
-
-Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Character (5-Star) | Featured Characters (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/10/13 18:00</t> –  <t class="t_lc" contenteditable="false">2026/11/03 14:59</t> | "Tasteful Excellence" Escoffier (Cryo) | "Ode and Oblation" Dahlia (Hydro)
-^ | ^ | "Golden Vow" Candace (Hydro)
-^ | ^ | "Coordinates of Clear Frost" Mika (Cryo)
-
-● During this event wish, the event-exclusive 5-star character "Tasteful Excellence" Escoffier (Cryo) will receive a huge drop-rate boost!
-
-● During this event wish, the 4-star characters "Ode and Oblation" Dahlia (Hydro), "Golden Vow" Candace (Hydro), and "Coordinates of Clear Frost" Mika (Cryo) will receive a huge drop-rate boost!
-
-※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation."
-
-※ This is for "Character Event Wish-2." The wish guarantee count for "Character Event Wish" and "Character Event Wish-2" is shared, and is accumulated between both "Character Event Wish" and "Character Event Wish-2." This wish guarantee count is independent of the guarantee counts of other types of wishes.
-
-※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
 
 -----
 
@@ -1466,34 +1410,6 @@ After awakening your Miliastra Wonderland Manekin
 
 -----
 
-# [Event Wish "Epitome Invocation" - Boosted Drop Rates for Azurelight (Sword) and Symphonist of Scents (Polearm)!](archive/21890.md)
-## Event Wish "Epitome Invocation"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/23/ccc187c09296b4a1990c8cf98dcadb46_5421147638874447905_transformed.jpg)
-
-Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-〓Event Wish Details〓
-
-Event Wish Duration | Promotional Weapons (5-Star) | Featured Weapons (4-Star)
---- | --- | ---
-<t class="t_lc" contenteditable="false">2026/10/13 18:00</t> –  <t class="t_lc" contenteditable="false">2026/11/03 14:59</t> | Azurelight (Sword)  Symphonist of Scents (Polearm) | Sturdy Bone (Sword)
-^ | ^ | Sacrificial Greatsword (Claymore)
-^ | ^ | Favonius Lance (Polearm)
-^ | ^ | The Widsith (Catalyst)
-^ | ^ | Sacrificial Bow (Bow)
-
-● During this event wish, the event-exclusive 5-star weapons Azurelight (Sword) and Symphonist of Scents (Polearm) will receive a huge drop-rate boost!
-
-● During the event, the event-exclusive 4-star weapon Sturdy Bone (Sword), as well as the 4-star weapons Sacrificial Greatsword (Claymore), Favonius Lance (Polearm), The Widsith (Catalyst), and Sacrificial Bow (Bow) will receive a huge drop rate boost!
-
-● During this event wish, use Epitomized Path to chart a course towards a promotional 5-star weapon, such as Azurelight (Sword) or Symphonist of Scents (Polearm). For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.
-
-※ Of the above weapons, the event-exclusive weapons will not be available in the standard wish "Wanderlust Invocation."
-
-※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
 # ["Rainbow's End: Resplendent Starlight" Event: Log In to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21879.md)
 ## Rainbow's End: Resplendent Starlight
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/13731601c5ec188f8221e2179960f25d_8966757839271822351_transformed.jpg)
@@ -1532,84 +1448,6 @@ Total Login Days | Rewards
 5 | Intertwined Fate ×2
 6 | Hero's Wit ×8
 7 | Intertwined Fate ×5
-
------
-
-# ["Tabletop Troupe: A Gathering on Adventure's Eve" Event: Invite an Event-Exclusive 5-Star Character of Your Choice](archive/21924.md)
-## Tabletop Troupe: A Gathering on Adventure's Eve
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/14/def098880dbaaff9a37a118be5e2aa7c_6270530679197833402_transformed.jpg)
-
-〓Event Duration〓
-
-After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
-
-〓Eligibility〓
-
-Adventure Rank 18 or above
-
-And complete Archon Quest Chapter VII: Act IV "A Rekviem for the Underworld"
-
-〓Event Details〓
-
-● During the event, you can invite an event-exclusive 5-star character of your choice from the following characters to join your party via the event interface!
-
-● The event-exclusive 5-star characters available to invite are: Tartaglia, Nilou, Baizhu, Chiori, Clorinde, and Varesa.
-
-● When you invite a character, you also receive Ascension Level-Up Materials for the same character.
-
-※ You can invite a character only once during the event.
-
-※ Once you reach Adventure Rank 18 and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom," you can explore the Snezhnaya region to automatically accept Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and continue progressing up to the latest Archon Quest introduced in the current version update.
-
------
-
-# ["Across the Frozen Wilds, Honing One's Edge" Event: Invite a 5-Star Character of Your Choice From the "Wanderlust Invocation" Standard Wish](archive/21885.md)
-## Across the Frozen Wilds, Honing One's Edge
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/d353f2681a2b4a56d9db56c863201430_5948218306514774688_transformed.jpg)
-
-〓Event Duration〓
-
-After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
-
-〓Eligibility〓
-
-After unlocking the Wish feature
-
-〓Event Details〓
-
-● During the event, you can invite a 5-star character of your choice from the Standard Wish "Wanderlust Invocation" to join your party via the event interface!
-
-● When you invite a character, you also receive Ascension Level-Up Materials for the same character.
-
-※ You can invite a character only once during the event.
-
-※ During Version 7.x, Travelers who register after Version 7.1 ends can invite a standard 5-star character of their choice in the subsequent "Across the Frozen Wilds, Honing One's Edge" event. Further details will be available in future announcements.
-
------
-
-# [Complete the Archon Quest "A Rekviem for the Underworld" Within the Specified Duration to Obtain Additional Primogems, Character Ascension Materials, and Other Rewards](archive/21880.md)
-## A Rekviem for the Underworld
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/b434c127f3396db3759a37da24b4d4c8_3067875660919907928_transformed.jpg)
-
-After the Version update, Archon Quests Chapter VII: Act III and Act IV will be permanently available. Meet the unlock criteria to unlock said Archon Quests.
-
-Complete the corresponding Archon Quest within the specified duration to obtain Primogems, Character Ascension Materials, Character Level-Up Materials, Snezhnaya regional specialties, and other rewards.
-
-〓Specified Duration〓
-
-After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
-
-〓Archon Quest Unlock Criteria〓
-
-Adventure Rank 18 or above
-
-Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne"
-
-‍※ After completing Archon Quest Chapter VII: Act IV "A Rekviem for the Underworld" within the specified time period, the Epilogue for this series will become available. The Epilogue is a time-limited quest, so Travelers are advised to plan their time accordingly and experience it promptly.
-
-Epilogue Availability: After Version 7.1 Update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
-
-※ Once you reach Adventure Rank 18 and complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom," you can explore the Snezhnaya region to automatically accept Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and continue progressing up to the latest Archon Quest introduced in the current version update.
 
 -----
 
@@ -1738,22 +1576,6 @@ After the Version 7.1 update
 ● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
 
 ● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
-
------
-
-# ["The Godforsaken Frostlands" Event: Complete Exploration Missions Within the Specified Duration to Obtain an Additional Primogems ×400](archive/21811.md)
-## The Godforsaken Frostlands
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/04/9a32fbe7642e27040872c702ff760c13_5512793208175518014_transformed.jpg)
-
-After the version update, the following new areas of Snezhnaya will be unlocked: Volkodlak Tundra, Everfrozen Earth, Fellfrost Peak, Flamefeather Valley, and White Birch Snowgrave.
-
-Complete the corresponding exploration missions within the specified duration to obtain an additional reward of Primogems ×400.
-
-‍
-
-〓Specified Duration〓
-
-After the Version 7.0 update – <t class="t_lc" contenteditable="false">2026/11/03 14:59</t>
 
 -----
 
