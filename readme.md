@@ -1,3 +1,655 @@
+# [New Content Overview](archive/22011.md)
+## Version 7.2 Now Available
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/b1bac72df4f40970af63cf05a89a2ff4_79568859335269460.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/195e7ffb08127b8fb50ac8b82894bf23_7131154814382550869.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/3ca59a6168c92a52f4a7c064b648c9d0_3668195159635493936.jpg)
+
+-----
+
+# ["Hour of Ruin" Version 7.2 Update Details](archive/22014.md)
+## Version 7.2 Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/02/b143065e5a3273202f4796ab5943eb99_7972061260441773084_transformed.jpg)
+
+Dear Traveler,
+
+Below are the details of the Version 7.2 update "Hour of Ruin" and the update compensation.
+
+〓Compensation Details〓
+
+Maintenance Compensation: Primogems ×300 (60 Primogems per hour the servers are down)
+
+Issue Fix Compensation: Primogems ×300 (please refer to the relevant compensation mail for more details)
+
+〓Scope of Compensation〓
+
+Maintenance Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/11/04 06:00</t>.
+
+Compensation must be claimed before the end of Version 7.2.
+
+Issue Fix Compensation: Travelers who have reached Adventure Rank 5 or above by <t class="t_gl" contenteditable="false">2026/11/04 06:00</t>.
+
+Please log in and claim your compensation before <t class="t_gl" contenteditable="false">2026/11/07 06:00</t>.
+
+Our developers will distribute compensation to Travelers via in-game mail within 5 hours after the update maintenance is finished. The mail will expire after 30 days, so don't forget to claim the attached compensation in time.
+
+〓Update Schedule〓
+
+Update maintenance begins <t class="t_gl" contenteditable="false">2026/11/04 06:00</t> and is estimated to take 5 hours.
+
+〓How to Update Game Client〓
+
+PC: Close the game, open the Genshin Impact Launcher, and click Update.
+
+iOS: Open the App Store and tap Update.
+
+Android: Open the game and follow the directions on-screen.
+
+PlayStation®: Highlight "Genshin Impact" from the Home screen, press the OPTIONS button and select "Check for Update."
+
+Xbox Series X|S: Open the system main menu, select "My games & apps," select the "Manage" tab, and on the "Updates" page, find "Genshin Impact" and confirm to update.
+
+Please do not hesitate to contact Customer Service if you encounter any issues installing the new version. We will do our very best to resolve the issue.
+
+〓Update Details〓
+
+I. New Areas
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">New Areas in Snezhnaya Now Available</span></summary>
+
+◇ In Version 7.2, the following areas in Snezhnaya will become available: Novokitezhgrad and Wingspan Peak.
+
+After completing the "An Ancient Song of Flowing Crystal and Stone Chests" quest chain, the Shadow Realm area (Third-Person Shooter Combat Gameplay) east of Wingspan Peak will recede, allowing Travelers to freely add characters to their party and explore the area.
+
+※ Completing the "Gunfire in the Silent Lands" quest in Archon Quest Chapter VII: Act I "Everwinter Without Mercy" will automatically unlock a Teleport Waypoint northeast of Fellfrost Peak in Snezhnaya. You can use this Teleport Waypoint to head over to the new areas. You'll also receive the Primogem reward for this Teleport Waypoint when it unlocks automatically.
+
+※ Teleporting to this Waypoint will unlock a new railroad map.
+
+◇ "Meeting Point" Update: With the opening of the new areas, two new Meeting Points will be added to Snezhnaya: "Meeting Point: Teplo Oasis" and "Meeting Point: Royal Railway Transport Bureau." Complete the construction of each Meeting Point to unlock its corresponding Meeting Point Chronicle Quest.
+
+"Meeting Point: Teplo Oasis" Unlock Criteria:
+
+◆ Progress through Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and complete "Silence Alone is Disfavored."
+
+※ After meeting the above unlock criteria, complete the World Quest "A Lovely Oasis Holiday" to unlock the Meeting Point.
+
+"Meeting Point: Royal Railway Transport Bureau" Unlock Criteria:
+
+◆ Progress through Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and complete "Silence Alone is Disfavored."
+
+◆ Complete the World Quest "To the Kristall City."
+
+※ After meeting the above unlock criteria, complete the World Quest "Beneath Dust and Snow" to unlock the Meeting Point.
+
+In addition, there will be new Fishing Points and "Radiant Spincrystals" in the new areas.
+
+</details>
+II. New Characters
+
+<details open="true">
+<summary><span style="color: rgb(105, 87, 194);"><span style="font-size: 0.1rem;">"Rules Set at Naught" Mitya (Electro)</span></span><span style="color: rgb(53, 170, 204);"><span style="font-size: 0.1rem;"> </span></span><span style="font-size: 0.1rem;">(5-Star)</span></summary>
+
+◇ Stellar Linchpin: Electro
+
+◇ Weapon: Catalyst
+
+◇ An exceptionally ingenious energy specialist and a master of the fine art of "schedule-dodging."
+
+Mitya is an Electro DPS character who enables the party to trigger Stellar-Conduct and deals Stellar-Conduct reaction DMG in different ways.
+
+When Mitya is in the party, the Polestar Field will follow the current active character in real time.
+
+</details>
+
+<details open="true">
+<summary><span style="color: rgb(105, 87, 194);"><span style="font-size: 0.1rem;">"Fort Fulguration" Valeriy (Electro)</span></span><span style="color: rgb(53, 170, 204);"><span style="font-size: 0.1rem;"> </span></span><span style="font-size: 0.1rem;">(4-Star)</span></summary>
+
+◇ Vision: Electro
+
+◇ Weapon: Sword
+
+◇ Commander of the Special Assignments Battalion. A soldier skilled at protecting key personnel and keeping operations on track.
+
+Valeriy is a support character who can provide Electro-related buffs and shields.
+
+</details>
+III. New Equipment
+
+Event-Exclusive Weapons
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Starsealed Edict (5-Star Catalyst)</span></summary>
+
+Increases the equipping character's CRIT DMG. When the equipping character uses an Elemental Skill, they gain the "Crystal Compounding" effect, which increases their Elemental Mastery. While this effect is active, when nearby party members trigger Elemental Reactions, the equipping character also gains the "Law of Combustion" effect, further increasing their Elemental Mastery. When the equipping character enters the Radiance: Stellar-Conduct state, the "Law of Combustion" effect additionally increases the equipping character's Stellar-Conduct CRIT DMG.
+
+This effect can be triggered even when the equipping character is off-field.
+
+</details>
+◆ The event-exclusive weapons can be obtained from the Event Wish. Please refer to the relevant official Event Notices for specific acquisition details.
+
+IV. New Main Story
+
+- New Archon Quest
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Chapter VII: Act V - "Hour of Ruin"</span></summary>
+
+Permanently available after the Version 7.2 update
+
+◆ Quest Unlock Criteria:
+
+• Adventure Rank 18 or above
+
+• Complete Archon Quest Chapter VII: Act IV "A Rekviem for the Underworld"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Chapter VII: Act VI - "A Yesterday Sent From Beyond"</span></summary>
+
+Permanently available after the Version 7.2 update
+
+◆ Quest Unlock Criteria:
+
+• Adventure Rank 18 or above
+
+• Complete Archon Quest Chapter VII: Act V "Hour of Ruin"
+
+• The "Focused Experience Mode" function is available for this quest.
+
+</details>
+※ Travelers who have reached Adventure Rank 18 or above and completed Archon Quest Prologue: Act III "Song of the Dragon and Freedom" can use the automatically unlocked Teleport Waypoint to reach Snezhnaya and begin Archon Quest Chapter VII: Act I "Everwinter Without Mercy" even if they have not completed the preceding Archon Quests, such as "Song of the Welkin Moon: Act X."
+
+- New World Quests
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">New World Quests</span></summary>
+
+The "An Ancient Song of Flowing Crystal and Stone Chests" Quest Chain, "Dark Clouds in a Wine Bottle," "Borrowing a Gold Coin From a Portrait," and more.
+
+※ Progress through Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and complete "Gunfire in the Silent Lands" to unlock these quests.
+
+※ This World Quest includes scenes involving natural disasters. All events and circumstances depicted in these scenes are entirely fictional.
+
+</details>
+V. New Enemies
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Wavebinder</span></summary>
+
+◇ A Volkodlak of peerless strength, brought into being to fulfill an ancient civilization's grand ambition of exploring the waters unhindered.
+
+At intervals, it drinks a hot beverage to build up its Courage. Once its Courage is full, it enters the Valiant state, causing its attacks to become more ferocious and greatly increasing all Elemental RES and Physical RES. While in this state, its Courage will be continuously consumed, and it will exit the state once its Courage is depleted. Taking Electro DMG or Electro DMG considered as DMG from the corresponding Stellar Glimmer reaction reduces its accumulated Courage, or causes it to exit the Valiant state more quickly. Additionally, Stellar Glimmer reactions also seem to interfere with its attempts to drink hot beverages...
+
+Located in Novokitezhgrad
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Mindless Iceborn</span></summary>
+
+Icebound Reflection
+
+◇ A snow-and-ice monster formed through the condensation of special frost and snow.
+
+The Icebound Reflection loses its immunity to Cryo DMG and its innate Cryo status when affected by the Stellar Glimmer reaction.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Aberrant Chimeric Monsters</span></summary>
+
+"Chimeric Skorp," "Chimeric Crocohoof"
+
+◇ These Aberrant Chimeric Monsters are products of the bio-alchemy that once flourished across the frozen wastes.
+
+Certain aspects of their behavior can be disrupted by the Stellar Glimmer Reaction.
+
+</details>
+VI. System Update
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">"Secret Tsarist Assignment" Update: "Secret Tsarist Assignment: Part II"</span></summary>
+
+Complete missions in "Secret Tsarist Assignment: Part II" to obtain rewards including a wind glider and a recipe.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Third-Person Shooter Combat Gameplay Update</span></summary>
+
+◆ Firearm Updates
+
+Adds two new shotguns: "Sosruko's Flame" and "Apsat's Mountain Hunt."
+
+The new firearms can be obtained by completing World Quests.
+
+◆ Edge of Survival Stage Updates
+
+After the Version 7.2 update, "Edge of Survival" adds three new stages: "Hammer and Anvil," "Harbor Under Heavy Guard," and "The Calamity-Torn Old City," along with their corresponding rewards.
+
+Following the version update, the "Edge of Survival" > "Frontrunners' Edge" > "All Records" screen will enter a data compilation period, and will reopen once data compilation is complete.
+
+</details>
+VII. Miliastra Wonderland
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Miliastra Wonderland Update</span></summary>
+
+◆ Cosmetic Sets
+
+The "Polyphonic Harmony" Event Ode brings 4 new sets: "Polyphonic Variations," "Dreamkeeper Plush," "Tea-Time Enchantment," and "A Study in Bloom."
+
+Chronicles of the Realms/Epic of the Realms features 3 new sets: "Harmonic Insight," "Clouds Unfurled," and "Run with the Wind."
+
+Available for a limited time only from the Miliastra Shop: 3 new sets. They are "Pixel Motion," "Fish on the Run," and "Masquerade."
+
+"Encounter Echoes" Standard Ode: 1 new Set Catalog, "Drifting with the Waves," is available.
+
+Take part in the "Raiment Collection: Radiance Ablaze" event to obtain the new "Tinker's Treasures" set.
+
+The previously released sets "Afternoon Nectar" and "Prelude to Spring" will return to the Miliastra Shop for a limited time after the version update.
+
+The new version also adds additional cosmetic components, expressions, and special effects.
+
+◆ Lobby
+
+With the new version update, the Public Lobby will be changed to a new theme: "Nocturne Theater: Tales Most Wondrous."
+
+Travelers can purchase the new Private Lobby "Nocturne Theater: Melodious Echoes" through the Miliastra Pass.
+
+</details>
+VIII. Genius Invokation TCG
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Genius Invokation TCG Gameplay Update</span></summary>
+
+New Character Card: Varka and the corresponding Talent card. The corresponding invitation duel and guest challenges have been added to the Player List.
+
+New Action Cards: "Streaming Song," "Dawn's Return," "Ode to Ascension," "Song of Days Past," "Zeitlind," and "Elemental Transfiguration: Burning Blessing" have been added. These can now be purchased from Prince at The Cat's Tail.
+
+The Forge Realm's Temper is once again available. The theme of this edition is "The Forge Realm's Temper: Endless Swarm."
+
+(1) Defeat endless waves of enemies during the rounds in "The Forge Realm's Temper: Endless Swarm" to accrue score.
+
+(2) After you complete the stage battle, you will gain a score and the corresponding rewards based on the highest score you got in the stage.
+
+(3) Different stages will contain different special rules that grant buffs. Use these rules well to fight more effectively.
+
+</details>
+IX. Imaginarium Theater
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Update Scheduled for December 1</span></summary>
+
+After the Version 7.2 update, a new season of "Imaginarium Theater" will be available on December 1.
+
+Required Elemental Types: Pyro, Hydro, and Geo
+
+Opening Characters: Arlecchino, Bennett, Furina, Xingqiu, Navia, and Illuga
+
+When Imaginarium Theater is open, the corresponding Opening Characters will obtain Fantastical Blessings.
+
+Special Guest Stars: Chasca, Varesa, Kinich, and Iansan
+
+After the new season of Imaginarium Theater begins, the characters Arlecchino, Linnea, Ifa, and Nefer will each gain a new "Thespian Trick" that can be exchanged from the NPC Wolfy.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Envisaged Echoes Update</span></summary>
+
+After the Version 7.2 update, new challenge stages and Echo cosmetics for Xilonen and Yae Miko will be added.
+
+</details>
+X. Spiral Abyss
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Update Scheduled for November 16</span></summary>
+
+◇ After the Version 7.2 update, Phase 1 of the Spiral Abyss will be updated on November 16.
+
+◆ Floor 11 Ley Line Disorder changed to:
+
+All party members gain a 60% Electro DMG Bonus.
+
+All party members gain a 60% Geo DMG Bonus.
+
+◆ Floor 12 Ley Line Disorders changed to:
+
+First Half: Lunar-Crystallize DMG is increased by 75%.
+
+Second Half: All party members' Elemental Mastery is increased by 200.
+
+◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+◆ Blessing of the Abyssal Moon:
+
+Resounding Moon
+
+When a character triggers Superconduct or Stellar-Conduct reaction on an opponent, they gain 1 stack count, and when the stack count reaches 3, a shockwave is unleashed at the opponent's position, dealing True DMG and consuming all stack counts at the same time. Up to 1 stack count can be gained every 0.1s. A shockwave can be unleashed this way every 4s.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Update Scheduled for December 16</span></summary>
+
+◇ After the Version 7.2 update, Phase 2 of the Spiral Abyss will be updated on December 16.
+
+◆ Floor 11 Ley Line Disorder changed to:
+
+All party members receive a 60% Cryo DMG Bonus.
+
+All characters in the party gain a 60% Anemo DMG Bonus.
+
+◆ Floor 12 Ley Line Disorders changed to:
+
+First Half: Characters' Stellar Glimmer DMG increased by 75%.
+
+Second Half: Anemo DMG dealt by the active character is increased by 75%.
+
+◆ Updated the monster lineup on Floors 11 – 12 of the Spiral Abyss.
+
+◆ Blessing of the Abyssal Moon:
+
+Glistening Moon
+
+When a character deals Stellar-Conduct or Stellar Swirl DMG on an opponent, they gain 1 stack count, and when the stack count reaches 6, a shockwave is unleashed at the opponent's position, dealing True DMG and consuming all stack counts at the same time. Up to 1 stack count can be gained every 0.1s. A shockwave can be unleashed this way every 6s.
+
+</details>
+XI. Other Update Details
+
+- New Recipes:
+
+○ Exploration or Quest Rewards: "Chicken Kitezhgrad," "Caviar Blini," and "Snowy Nocturne"
+
+○ From Snezhnaya NPC Sapieha: "Solyanka"
+
+- New Character Specialty Dishes:
+
+○ Mitya's specialty: "Energy-Replenishing Meal"
+
+○ Valeriy's specialty: "Emergency Barricade"
+
+- Adds the "Snezhnaya: Sacred City of Ice and Pale Star (II)" and "Land of Surging Shadows (II)" Achievement categories, as well as new Achievements to the "Wonders of the World" category.
+
+- Adds Set 53 of "Paimon's Paintings" chat emojis.
+
+- Adds some prompts for loading screens.
+
+- New Namecards:
+
+"Mitya: Scarf": Reward for reaching Friendship Lv. 10 with Mitya
+
+"Valeriy: Rank": Reward for reaching Friendship Lv. 10 with Valeriy
+
+"Snezhnaya: Snow Wings": Reward for completing all achievements under "Snezhnaya: Sacred City of Ice and Pale Star (II)"
+
+"Achievement: Stillness": Reward for completing all achievements under "Land of Surging Shadows (II)"
+
+"Travel Notes: Sacred Spirit": Reward obtained via the BP system
+
+- Adds new wildlife: Tiny Ironquill and Shaleshell. You can use the Omni-Ubiquity Net to capture certain creatures.
+
+- Adds 3 new Local Legends to "Valiant Chronicles": Rowdy Beast Host, Elder Blighttree, and Ancient Ironquill. Complete the required number of challenges to obtain the "Crystalline Frost" avatar frame.
+
+- Repertoire of Myriad Melodies Update:
+
+○ Adds a new music album "Encounter: Interlude of the Long Journey."
+
+○ Adds a new score theme "Floating Lotus, Listening Spring."
+
+- Drops and Materials added between Versions Luna IV to 7.2 can now be placed in the Parametric Transformer, with new development items amongst the converted products.
+
+〓Adjustments & Optimizations〓
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Exploration</span></summary>
+
+Lowers the requirements for unlocking the Pale Crown Palace station on the railroad map. The station now unlocks after completing the "Gunfire in the Silent Lands" quest of Archon Quest Chapter VII: Act I "Everwinter Without Mercy" and remains permanently visible on the map once unlocked.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Audio</span></summary>
+
+- Optimizes English, Japanese, and Korean voice-over lines in certain quests, and fixes related voice-over errors.
+
+- Optimizes the wording of some Japanese voice-over lines for the characters "Vesna" and "Odette" in the characters' Profile > Voice-Over interfaces.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Third-Person Shooter Combat Gameplay</span></summary>
+
+- Adds support for the DualSense® wireless controller's adaptive triggers when using firearms (This feature can be configured in Settings > Controls on PC and PS5.)
+
+- Adds visual effects when equipping full-loadout firearms.
+
+- After rotating a character in the Eye of Graeae interface, switching to another interface and returning to the character interface now resets the character to face forward.
+
+- In the Assemble interface of the firearms, the description of the full-loadout effect is grayed out when the effect is inactive.
+
+- In the Assemble interface of the firearms, clicking "Go" for a locked accessory obtainable through Access Cards, Meeting Points, or Edge of Survival will take you to its source.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Prime Ice Construct</span></summary>
+
+- Increases the batch deletion limit in Manage Prime Ice Constructs from 100 to 200.
+
+- Adds an "Only Friends" option for sending and receiving in Prime Ice Construct Permission Settings.
+
+- Prime Ice Constructs are no longer sent to areas near Statues of The Seven, the Adventurers' Guilds, Blacksmiths, or Meeting Points.
+
+- Newly unlocked Prime Ice Construct appearances now display a red dot or "New" indicator. Appearances unlocked before the version update do not display these indicators.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Miliastra Wonderland</span></summary>
+
+- Adds a like button to the profile screen opened by interacting with other Travelers in the Lobby.
+
+- Adds a "Like History" feature and related notifications. Like History can be accessed from the Miliastra Wonderland main screen and the Miliastra Information screen.
+
+- You can now give likes to other Travelers' shared Cosmetic Plans when viewing them.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Other Systems</span></summary>
+
+- Optimizes the display of Artifact rewards in Stygian Onslaught.
+
+- Optimizes some of the text descriptions and interaction experiences in the Stygian Onslaught interface.
+
+- Optimizes the order and layout of certain button icons in the Paimon Menu.
+
+- Optimizes some hints and interactions for the Artifact Lock Assistance feature.
+
+- Adds an "Enemy Details" section to the Ley Line Outcrop sidebar on the Map screen.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Other</span></summary>
+
+- Optimizes the marking logic for "Specialty Tracking": When tracking a particular Local Specialty, if there is a Character in the party who can display the corresponding regional specialties, the mini-map will prioritize marking the tracked specialty.
+
+- Optimizes the scene lighting for Xiao's Challenge within Envisaged Echoes to make the route guidance clearer.
+
+- Optimizes Vesna's movement when she gets caught on slopes or similar terrain while in the "Coursing" state. She can now tap the Jump button to gain height normally in this state, just as she can on flat terrain.
+
+- Adds a region-based filter to the Guiding Notes.
+
+- Optimizes the spelling of certain character names in the Guiding Notes.
+
+</details>
+〓Bug Fixes〓
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Quests</span></summary>
+
+- Fixes an issue whereby, during the battle against Ronova in the Archon Quest "A Rekviem for the Underworld," switching characters has a small chance of teleporting the active character to an abnormal location.
+
+- Fixes an issue whereby the chessboard was displayed incorrectly during dialogue in the Secret Tsarist Assignment "The Tsaritsa's Chess Game (I)."
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Enemies</span></summary>
+
+- Fixes an issue whereby, under certain circumstances, characters may unexpectedly exit combat when approaching the edge of the combat area while challenging "Guardian Blade of Drifting Snow" in the open world.
+
+- Fixes an issue whereby the enemy "Guardian Blade of Drifting Snow" may behave abnormally under certain circumstances during combat.
+
+- Fixes an issue whereby, under certain circumstances, certain Geo constructs can be created on the model of the enemy "Wildwood Leshy".
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Characters</span></summary>
+
+- Fixes an issue whereby, under certain circumstances, the tips of Vesna's ears may clip slightly through nearby parts of her model.
+
+- Fixes an issue whereby the effects of Yumemizuki Mizuki's Constellation Lv. 2 would cause abnormal visual effects to appear on certain objects.
+
+- Fixes some display issues with the Traveler character model on mobile devices, including issues with Aether's earring and Lumine's top.
+
+- Fixes an issue whereby the visual effects for Wriothesley's Charged Attack "Luster: Vaulting Fist" would play repeatedly when it deals Stellar-Conduct reaction DMG.
+
+- Fixes an issue whereby, while Vesna was in the "Coursing" state, if her Elemental Skill button was replaced by a button for the special gameplay mechanics, the Elemental Skill button could function abnormally after leaving the relevant gameplay mode.
+
+- Fixes an issue whereby after reconnecting to the game server, Vesna would fail to enter the "Coursing" state upon being switched onto the field, even if the current scene met the trigger conditions for her Talent "The Grand Circuit."
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Exploration</span></summary>
+
+Fixes an issue whereby the Quest Item "VIP Pass" associated with a World Quest in Snezhnaya had an incorrect icon.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Audio</span></summary>
+
+- Fixes an issue in the Anecdote "Vesna: Another Ticket Trouble" whereby a voice-over line had a chance of playing abnormally.
+
+- Fixes an issue whereby there were errors with Vodyanitsa's Chinese voice-over line "Vodyanitsa's Troubles" in Character > Profile > Voice-Over.
+
+- Fixes an issue whereby the sound effects for certain quests, scenes, objects, and enemies were incorrect or missing, and optimizes the related sound effects.
+
+- Fixes issues in the English voice-over for cutscenes in the Archon Quests "White Night, Like a Dream Upon Waking" and "One Move Left to Make," whereby pronouns and other lines do not match the corresponding text.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Miliastra Wonderland</span></summary>
+
+- Fixes an issue whereby the expressions of the Manekin wearing the Cosmetic Set: Whimsical Spectacle or the Cosmetic Set: Osmanthus in the Moonlight would display incorrectly when performing the "Colorful Entrance" action.
+
+- Fixes an issue whereby the top and bottom of Cosmetic Set: Feathers of Justice would clip through each other when worn by the Manekina.
+
+- Fixes an issue whereby, after adjusting an ornament to certain positions while a Manekina is wearing the Cosmetic Set "Azure Mountainshade," the ornament may display abnormally while the Manekina is walking.
+
+- Fixes an issue whereby the icon for the cosmetic "Leg Accessory: Afternoon Nectar Socks" does not match its in-game appearance.
+
+- Fixes an issue whereby Vodyanitsa does not reveal her true Water Imp form when swimming in the waters of the lobby.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Third-Person Shooter Combat Gameplay</span></summary>
+
+- Fixes an issue whereby the icons for certain Firearms and Frag Crystals do not match their in-game models.
+
+- Fixes an issue whereby, under certain circumstances, certain opponents' animations for vaulting over cover were unexpectedly interrupted in the Shadow Realm (Third-Person Shooter Combat gameplay).
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Genius Invokation TCG</span></summary>
+
+Fixes an issue whereby the Talent Card "Elk With Fanged Antlers" cannot be played while the Character Card "Illuga" is frozen.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Other Systems</span></summary>
+
+- Fixes an issue whereby the icons for certain "Cooking" interaction buttons in Snezhnaya would display incorrectly.
+
+- Fixes an issue whereby Vesna's "More About Vesna: I" voice-over line in Character > Profile > Voice-Over had an unlock requirement. (After the fix, this voice-over line is unlocked by default and no longer requires Friendship Lv. 4).
+
+- Fixes an issue whereby, under certain circumstances, Trounce Domains would display incorrect tags in Adventurer Handbook > Domains > Training Guide.
+
+- Fixes an issue whereby, under certain circumstances, the "Travel Account" gadget continues to display the "New anecdote recorded" notification after its recorded anecdotes have been viewed.
+
+- Fixes an issue whereby, under certain circumstances, previewing a weapon appearance on the "Secret Tsarist Assignment" screen causes weapons to display incorrectly on the Weapons screen.
+
+- Fixes an issue whereby, in Controller Mode, the left stick cannot be used to scroll down through the invitation in "Secret Tsarist Assignment."
+
+- Fixes an issue whereby Aether's hands would clip through his body in Character > Talents when wearing the outfit "As Heaven and Earth Are Made Anew."
+
+- Fixes an issue whereby Vesna's wings may appear abnormally semi-transparent if her idle animation is interrupted on the Character screen.
+
+</details>
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">● Other</span></summary>
+
+- Fixes an issue whereby the source descriptions for the Local Specialties "Golden Fern," "Flockingweed," and "Frostfairy Flower" do not include "Grown in the Serenitea Pot."
+
+- Fixes an issue whereby Flins's hand model displays incorrectly when switching to the "Lantern Up, Weapons Ready" pose under Take Photo > Pose.
+
+- Fixes text errors in certain quests, interfaces, dialogues and descriptions.
+
+- Fixes text errors in some dialogue lines for the NPC "Myatezhnaya" in Zapolyarny Palace.
+
+- Fixes an issue whereby the Brilliant Blessing "Hydro Crystal: Starting Stone Stream" in Imaginarium Theater has a small chance of causing Stone Streams to fall at incorrect locations.
+
+- Fixes an issue whereby certain characters' mouth animations were incorrectly displayed when they first appear in quests or when switching to them in the party.
+
+- Fixes some text errors in certain languages and optimizes text. (Note: Related in-game functions have not changed. Travelers can view the changes in different languages by going to the Paimon Menu > Settings > Language and changing the Game Language.)
+
+◆ Optimizes inconsistencies between certain voice-overs and the corresponding lines.
+
+◆ Optimizes certain English translations.
+
+</details>
+〓Genius Invokation TCG Balance Adjustment〓
+
+<details open="true">
+<summary><span style="font-size: 0.1rem;">Genius Invokation TCG Balance Adjustment</span></summary>
+
+- Adds "Hall of a Thousand Pillars" to the "Adventure" effects.
+
+- Increases the starting Max HP of Character Card "Black Serpent Knight: Windcutter" from 10 to 12.
+
+- Adjusts the Passive Skill of Character Card "Black Serpent Knight: Windcutter": Reduces its activation limit from twice per Round to once per Round.
+
+- Adjusts the effect of the Support Card "Overloaded: Thunderstrike": Changes the limit for "...the Piercing DMG dealt by this card is increased by 1 for this Round" from "(up to 3)" to "(up to 2)."
+
+- Adjusts the effect of the Support Card "Rimegrass Blessing: Thorn Frost": Changes its End Phase effect to "Deals 2 Piercing DMG to opposing characters affected by Cryo or Dendro, then removes their Cryo and Dendro applications."
+
+- Adjusts the effect of the Support Card "Rimegrass Blessing: Cold Vine": Changes "After you use a Skill, if the opponent's active character is affected by Dendro..." to "After you use a Skill, if the opponent's active character is affected by both Cryo and Dendro: Removes the Cryo application from the opponent's active character, deals 2 Dendro DMG, draws 1 card, and heals your most injured character for 1 HP. (Twice per Round)."
+
+</details>
+*This is a work of fiction and is not related to any actual people, events, groups, or organizations.
+
+"PlayStation", "PS5", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+-----
+
 # [Event Wish "Myriad Patterns Unfold" - Boosted drop rate for "Rules Set at Naught" Mitya (Electro)!](archive/21997.md)
 ## Event Wish "Myriad Patterns Unfold"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/29/3cd76fed0001990a4f53fc06ad510ccd_794691239659394631_transformed.png)
@@ -518,165 +1170,6 @@ Permanent
 
 -----
 
-# [Cosmetic Event Ode 2 New Mechanics Description](archive/21902.md)
-## Cosmetic Event Ode 2 Mechanics Description
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/4d86ed525f736bb2443e75e7e5407678_445197683755154974_transformed.jpg)
-
-After the Version 7.1 update, a new Ode type will be added: Cosmetic Event Ode 2.
-
-Cosmetic Event Ode and Cosmetic Event Ode 2 and will continue to accumulate across both Cosmetic Event Ode and Cosmetic Event Ode 2. It is calculated independently from the guarantee counts of other Ode types (Standard Odes), and neither will affect the other.
-
-The base rates and rules for items of each rarity in Cosmetic Event Ode 2 are the same as those in Cosmetic Event Ode. (For details on base rates, please refer to the in-game Ode Details.)
-
-The rules for gifting cosmetics through Cosmetic Event Ode 2 are the same as those for Cosmetic Event Ode. When gifting to the same friend, Cosmetic Event Ode and Cosmetic Event Ode 2 share the same guarantee count.
-
-※ In Gifting Mode, you can switch between Cosmetic Event Ode and Cosmetic Event Ode 2. Cosmetics obtained from both can be combined into one gift and sent together.
-
-Q: When will the Cosmetics Event Ode 2 become available?
-
-A: Cosmetic Event Ode 2 is an Event Ode featuring returning cosmetics. It will become available periodically alongside Cosmetic Event Ode. Details on its availability will be announced in future notices.
-
-Q: Does the guarantee count from Cosmetic Event Ode carry over to Cosmetic Event Ode 2?
-
-A: The guarantee count is shared between Cosmetic Event Ode and Cosmetic Event Ode 2 and will continue to accumulate across both Cosmetic Event Ode and Cosmetic Event Ode 2. This count is calculated independently from the guarantee counts for other Ode types, and they do not affect one another. For example:
-
-Legendary (5-Star) Cosmetics
-
-If you perform 40 pulls in Cosmetic Event Ode without obtaining a Legendary (5-Star) Cosmetic, then continue pulling in Cosmetic Event Ode 2, you are guaranteed to obtain a Legendary (5-Star) Cosmetic from Cosmetic Event Ode 2 within the next 30 pulls.
-
-Elite (4-Star) Cosmetics
-
-If you perform 6 pulls in Cosmetic Event Ode without obtaining an Elite (4-Star) Cosmetic, then continue pulling in Cosmetic Event Ode 2, you are guaranteed to obtain an Elite (4-Star) or higher-rarity Cosmetic from Cosmetic Event Ode 2 within the next 4 pulls.
-
-Q: After Cosmetic Event Ode 2 ends, will the guarantee count from Cosmetic Event Ode 2 carry over?
-
-A: Yes. The guarantee count is shared between Cosmetic Event Ode and Cosmetic Event Ode 2. Even after Cosmetic Event Ode 2 ends, its guarantee count will carry over to future runs of Cosmetic Event Ode and Cosmetic Event Ode 2.
-
------
-
-# ["Moonlit Season" Season Opening Announcement](archive/21900.md)
-## Moonlit Season
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/cab851438c4c9925181bf92e30b63b77_7080916296890345353_transformed.jpg)
-
-〓Season Duration〓
-
-Preparation Phase: After the Version 7.1 update – <t class="t_lc" contenteditable="false">2026/09/24 09:59</t>
-
-Play Phase: <t class="t_lc" contenteditable="false">2026/09/24 10:00</t> – <t class="t_lc" contenteditable="false">2026/11/03 03:59</t>
-
-Showcase Phase: <t class="t_lc" contenteditable="false">2026/11/03 04:00</t> – End of Version 7.1
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Season Details〓
-
-● Each season is divided into three phases: Preparation Phase, Play Phase, and Showcase Phase.
-
-● During the Play Phase, you can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
-
-※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
-
-● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores cannot be earned.
-
-● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
-
------
-
-# [Take Part in "Raiment Collection: Warmth of a Sunny Day" to Obtain an "Afternoon Nectar" Manekin Cosmetic Set of Your Choice](archive/21899.md)
-## Raiment Collection: Warmth of a Sunny Day
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/17/2540d4a69437b8837ef02fce07c54d01_2651486398650125616_transformed.jpg)
-
-〓Event Duration〓
-
-After the Version 7.1 update – <t class="t_gl" contenteditable="false">2026/11/04 05:59</t>
-
-〓Event Rewards〓
-
-An "Afternoon Nectar" Manekin Cosmetic Set of your choice and Geodes of Replication
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
-
-● During the event, once your total accumulated "Treasured Insights" reaches the required amount, you can claim the Manekin Cosmetics Set "Afternoon Nectar."
-
-● Before claiming your first component of the "Afternoon Nectar" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
-
-※ The Manekin Cosmetic Set "Afternoon Nectar" will be available for a limited time in the Miliastra Shop after Version 7.1 ends. Please visit the Miliastra Shop for more details.
-
------
-
-# ["Rainbow's End: Resplendent Starlight" Event: Log In to Claim Primogems ×1,600, Intertwined Fate ×10, and Other Rewards](archive/21879.md)
-## Rainbow's End: Resplendent Starlight
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/13731601c5ec188f8221e2179960f25d_8966757839271822351_transformed.jpg)
-
-There are three parts to this event: Crystal Top-Up Bonus Reset, Missive of Grace: A Thank-You Gift, and Resplendent Starlight - Daily Login Event.
-
-Rewards include Primogems ×1,600, Intertwined Fate ×10, Dust of Enlightenment, Sanctifying Elixir, and Commemorative Gadgets.
-
-〓Missive of Grace: A Thank-You Gift〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/09/28 00:00</t> until the end of Version 7.1
-
-Eligibility: Adventure Rank 2 or above
-
-Event Details: Each mail can be collected until the end of the "Missive of Grace: A Thank-You Gift" event. The mail will expire after 30 days, so don't forget to claim the rewards in time.
-
-Login Time | Reward 1 | Reward 2
---- | --- | ---
-September 28 | Primogems ×400 | Conductor of the "Ya-ho" ×1
-September 29 | Primogems ×400 | Fragile Resin ×2
-September 30 | Primogems ×400 | Sanctifying Elixir ×1
-October 1 | Primogems ×400 | A Mini Trolley Problem ×1
-
-〓Resplendent Starlight - Daily Login Event〓
-
-Event Duration: <t class="t_lc" contenteditable="false">2026/10/01 04:00</t> – <t class="t_lc" contenteditable="false">2026/10/19 03:59</t>
-
-Eligibility: Adventure Rank 5 or above
-
-Total Login Days | Rewards
---- | ---
-1 | Intertwined Fate ×1
-2 | Mora ×80,000
-3 | Intertwined Fate ×2
-4 | Dust of Enlightenment ×1
-5 | Intertwined Fate ×2
-6 | Hero's Wit ×8
-7 | Intertwined Fate ×5
-
------
-
-# ["Swords and Secrets" World Quest Overview](archive/21881.md)
-## Swords and Secrets
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/ef63a98d969e6393c062b09a371debd4_7968206810973486747_transformed.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will automatically accept the World Quest "Swords and Secrets."
-
-Complete "Swords and Secrets" to obtain special quest rewards: "Druzhna Special Dispatch Order," and Prime Ice Construct Appearance "Construct Appearance: Flutterwing".
-
-※ After using the "Druzhna Special Dispatch Order," a Sword Spirit will accompany Vesna during flight.
-
-〓Quest Start Time〓
-
-Permanently available after the Version 7.1 update
-
-※ It will take 7 calendar days to complete all quests in "Swords and Secrets." Travelers, please plan your time accordingly.
-
-〓Quest Unlock Criteria〓
-
-Adventure Rank 18 or above
-
-Complete Archon Quests: Chapter VII: Act III "White Night, Like a Dream Upon Waking"
-
------
-
 # [Game Survey](archive/21848.md)
 ## Complete the Survey and Get Primogems
 ![Banner](https://sdk.hoyoverse.com/upload/announcement/2022/08/17/f8c479b1eaf9c19328c56264ca38affe_8815493962934825777.jpg)
@@ -698,86 +1191,6 @@ Travelers can also open the link via Paimon Menu > Mail > Game Survey > Survey L
 Survey answers cannot be changed after submission, so please fill it out carefully.
 
 We thank all Travelers for your invaluable feedback!
-
------
-
-# ["Upstream Variations" World Quest Overview](archive/21882.md)
-## Upstream Variations
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/11/ebd7c34e4e6e82a5f6b907fd8a65a85b_739333715900579401_transformed.jpg)
-
-Travelers who reach the required Adventure Rank and complete the prerequisite quests will automatically accept the World Quest "Upstream Variations."
-
-Complete "Upstream Variations" to obtain a special quest reward: "Happy-Quacky Phonograph Ducky".
-
-※ Using "Happy-Quacky Phonograph Ducky" will grant Vodyanitsa a brand-new decorative appearance.
-
-〓Quest Start Time〓
-
-Permanently available after the Version 7.1 update
-
-It will take 7 calendar days to complete all quests in "Upstream Variations." Travelers, please plan your time accordingly.
-
-〓Quest Unlock Criteria〓
-
-Adventure Rank 18 or above
-
-Complete Archon Quest Chapter VII: Act II "Wraith's Nocturne"
-
-Unlock "Meeting Point: Tidesong Cavern" and upgrade the Meeting Point to Level 2
-
------
-
-# ["Genius Invokation TCG" The Forge Realm's Temper: Clever Stratagems](archive/20508.md)
-## Genius Invokation TCG - The Forge Realm's Temper
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/2aced11db7ef3877d6f0a882c1f5f408_3497207719847849432.png)
-
-〓Event Rewards〓
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/05/09/77bc8ce33030bc36a950e3ef25faf437_7306061833689363980.png)
-
-〓Event Duration〓
-
-Available throughout the entirety of Version 7.1
-
-〓Eligibility〓
-
-Adventure Rank 32 or above
-
-Complete Archon Quest Prologue: Act III "Song of the Dragon and Freedom"
-
-And complete the World Quest "Battlefield of Dice, Cats, and Cards"
-
-〓Event Details〓
-
-● After the event starts, Travelers can go to Prince at The Cat's Tail to select stages to challenge.
-
-● This event includes 4 stages and each stage has its distinctive challenge rules.
-
-● In each stage, Travelers can configure different parameters, including stage difficulty, the health of opponents, and the number of rounds to complete the challenge within.
-
-● After completing the challenge, points will be obtained based on the parameters selected. Achieving the required scores will allow Travelers to claim the corresponding rewards.
-
------
-
-# [Genshin Impact - Initial Top-Up Bonus Reset](archive/3802.md)
-## Initial Top-Up Bonus Reset
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/21/d062e1eb109c1fbf3e19a66ad5794fe0_6308541727246277529_transformed.jpg)
-
-After the Genshin Impact Version 7.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.
-
-**〓Reset Time〓**
-
-After the Version 7.1 update
-
-※ Version 7.1 Update Time: <t class="t_gl" contenteditable="false">2026/09/23 06:00</t>
-
-**〓Reset Details〓**
-
-● After the reset, each top-up level will be reset to provide a double bonus upon your first top-up.
-
-● Top-up bonuses that have not been used before the reset will not be accumulated. After resetting, it will not be possible to obtain two double bonuses for each top-up level.
-
-● If you wish to top up outside of the game (e.g., via the Top-Up Center) and use the Initial Top-Up Bonus from before the Version 7.1 update, please log in to the game and claim the purchased items before <t class="t_gl" contenteditable="false">2026/09/23 05:59</t>. If you do not log in to claim the items before this time, the reset Initial Top-Up Bonus will be consumed instead.
 
 -----
 
