@@ -1,3 +1,151 @@
+# ["Polyphonic Season" Season Opening Announcement](archive/21993.md)
+## Polyphonic Season
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/fc8e12c95e7b2d400c80f04aaf7d749e_5129367042064515496_transformed.jpg)
+
+〓Season Duration〓
+
+Preparation Phase: After the Version 7.2 update – <t class="t_lc" contenteditable="false">2026/11/05 09:59</t>
+
+Play Phase: <t class="t_lc" contenteditable="false">2026/11/05 10:00</t> – <t class="t_lc" contenteditable="false">2026/12/15 03:59</t>
+
+Showcase Phase: <t class="t_lc" contenteditable="false">2026/12/15 04:00</t> – End of Version 7.2
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Season Details〓
+
+● Each season consists of three phases: The Preparation Phase, Play Phase, and Showcase Phase.
+
+● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
+
+※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
+
+● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores cannot be earned.
+
+● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
+
+-----
+
+# [Take Part in "Raiment Collection: Radiance Ablaze" to Obtain an "Tinker's Treasures" Manekin Cosmetic Set of Your Choice](archive/21991.md)
+## Raiment Collection: Radiance Ablaze
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/ec56ac469ab2a28ca06108b4cf121dc8_5198805140344510161_transformed.jpg)
+
+〓Event Duration〓
+
+After Version 7.2 Update – <t class="t_lc" contenteditable="false">2026/12/16 05:59</t>
+
+〓Event Rewards〓
+
+An "Tinker's Treasures" Manekin Cosmetic Set of your choice and Geodes of Replication
+
+〓Eligibility〓
+
+After awakening your Miliastra Wonderland Manekin
+
+〓Event Details〓
+
+● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
+
+● During the event, once your total accumulated "Treasured Insights" reaches the required amount, you can claim the Manekin Cosmetics Set "Tinker's Treasures."
+
+● Before claiming your first component of the "Tinker's Treasures" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
+
+※ The Manekin Cosmetic Set "Tinker's Treasures" will be available for a limited time in the Miliastra Shop after Version 7.2 ends. Please visit the Miliastra Shop for more details.
+
+-----
+
+# ["Wonderland Treasures: Frosty Court" – New Manekin Cosmetics Now Available](archive/21990.md)
+## Wonderland Treasures: Frosty Court
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/a48d1fa02e0b52e1ba0e36c4bcd80464_9072444056486820371_transformed.jpg)
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
+--- | --- | ---
+After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/15 14:59</t> | "Frosty Plume" | "Winter's Warmth"
+^ | ^ | "Wildpeak Echoes"
+^ | ^ | "Healing Heart"
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Frosty Plume" and Elite (4-Star) Cosmetics "Winter's Warmth," "Wildpeak Echoes," and "Healing Heart" will be available in the Manekin Cosmetic Event Ode 2!
+
+● During the event, upon obtaining the limited Legendary (5-Star) Cosmetic "Frosty Plume" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the shop, or received as a gift), you will unlock its Ascension "Frosty Plume: Shadowed Verse."
+
+※ Event Ode 2 for this event follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+-----
+
+# ["Wonderland Treasures: Polyphonic Harmony": New Manekin Cosmetics Now Available](archive/21989.md)
+## Wonderland Treasures: Polyphonic Harmony
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/00f293903ce1f15f522e633f8eab1de5_6604583643147968203_transformed.jpg)
+
+During the event, Travelers can obtain desired Manekin Cosmetics via the "Polyphonic Harmony" Event Ode, Chronicle of Polyphony, or the Miliastra Shop!
+
+Play Popular Miliastra Wonderland stages with your new Sets or Try-On Capes equipped to obtain a Primogems ×60 reward!
+
+〓Event Ode Details〓
+
+Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
+--- | --- | ---
+After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/15 14:59</t> | Polyphonic Variations | Dreamkeeper Plush
+^ | ^ | Tea-Time Enchantment
+^ | ^ | A Study in Bloom
+
+● During the event, the limited Legendary (5-Star) Cosmetic "Polyphonic Variations" and Elite (4-Star) Cosmetics "Dreamkeeper Plush," "Tea-Time Enchantment," and "A Study in Bloom" will be available in the Manekin Cosmetic Event Ode!
+
+● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Polyphonic Variations" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Polyphonic Variations: Verdant Reverie."
+
+※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
+
+※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
+
+〓Miliastra Shop〓
+
+Cosmetic Availability Period | Cosmetic Availability Period
+--- | ---
+After the Version 7.2 update Available for 3 consecutive versions | After the Version 7.2 update Available for 3 consecutive versions
+Limited-Time Discount Period | Limited-Time Discount Period
+After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/14 03:59</t> | After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/14 03:59</t>
+Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
+Manekin Cosmetic "Pixel Motion" Manekina Cosmetic "Pixel Motion" | Manekin Cosmetic "Masquerade" Manekina Cosmetic "Masquerade"
+Manekin Cosmetic "Afternoon Nectar" Manekina Cosmetic "Afternoon Nectar" | Manekin Cosmetic "Fish on the Run" Manekina Cosmetic "Fish on the Run"
+Manekin Cosmetic "Prelude to Spring" Manekina Cosmetic "Prelude to Spring" | ^
+
+● After the Version 7.2 update, a total of 6 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
+
+● New Cosmetic Sets for Version 7.2! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Masquerade" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Fish on the Run" Cosmetic Set is available for Chronal Nexus ×240 during the discount period and will revert toChronal Nexus ×300 once the offer ends.
+
+● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Masquerade" is priced at Chronal Nexus ×240.  In addition, the "Fish on the Run" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
+
+● After the Version 7.2 update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
+
+● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
+
+〓Chronicle of Polyphony〓
+
+● Event Duration: After the Version 7.2 update – <t class="t_lc" contenteditable="false">2026/12/14 03:59</t>
+
+● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Harmonic Insight"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Nocturne Theater: Melodious Echoes."
+
+※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
+
+※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until 2026/12/14 02:59. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
+
+● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
+
+● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
+
+〓New Standard Ode Set Catalog〓
+
+After the Version 7.2 update, a new Elite (4-Star) Set Catalog "Drifting with the Waves" will be added to the Standard Ode "Encounter Echoes."
+
+※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
+
+-----
+
 # [New Content Overview](archive/22011.md)
 ## Version 7.2 Now Available
 
@@ -677,154 +825,6 @@ After the Version 7.2 update — <t class="t_lc" contenteditable="false">2026/11
 ※ The "Test Run" trial event will be open during this event wish. Travelers may use fixed lineups containing the selected trial characters to enter specific stages and test them out. Travelers who complete the challenges will receive the corresponding rewards!
 
 ※ For more information, go to the Wish screen and select Details in the bottom-left corner.
-
------
-
-# ["Polyphonic Season" Season Opening Announcement](archive/21993.md)
-## Polyphonic Season
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/fc8e12c95e7b2d400c80f04aaf7d749e_5129367042064515496_transformed.jpg)
-
-〓Season Duration〓
-
-Preparation Phase: After the Version 7.2 update – <t class="t_lc" contenteditable="false">2026/11/05 09:59</t>
-
-Play Phase: <t class="t_lc" contenteditable="false">2026/11/05 10:00</t> – <t class="t_lc" contenteditable="false">2026/12/15 03:59</t>
-
-Showcase Phase: <t class="t_lc" contenteditable="false">2026/12/15 04:00</t> – End of Version 7.2
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Season Details〓
-
-● Each season consists of three phases: The Preparation Phase, Play Phase, and Showcase Phase.
-
-● During the Play Phase, Travelers can earn points or leaderboard scores by participating in Wonderlands that feature ranks or leaderboards.
-
-※ In some Wonderlands, points and leaderboard scores cannot be earned through Room Mode. For specific details, please refer to the Craftsperson's configuration for each Wonderland.
-
-● During the Preparation and Showcase Phases, Travelers can still participate in Wonderlands, though points and leaderboard scores cannot be earned.
-
-● After each season ends, ranked Wonderlands may or may not carry over their corresponding stage points to the next season, and those with leaderboards may reset their rankings. For specific details on point retention and leaderboard resets, please refer to the configuration set by each Craftsperson for their Wonderland.
-
------
-
-# [Take Part in "Raiment Collection: Radiance Ablaze" to Obtain an "Tinker's Treasures" Manekin Cosmetic Set of Your Choice](archive/21991.md)
-## Raiment Collection: Radiance Ablaze
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/ec56ac469ab2a28ca06108b4cf121dc8_5198805140344510161_transformed.jpg)
-
-〓Event Duration〓
-
-After Version 7.2 Update – <t class="t_lc" contenteditable="false">2026/12/16 05:59</t>
-
-〓Event Rewards〓
-
-An "Tinker's Treasures" Manekin Cosmetic Set of your choice and Geodes of Replication
-
-〓Eligibility〓
-
-After awakening your Miliastra Wonderland Manekin
-
-〓Event Details〓
-
-● During the event, Travelers can obtain corresponding "Treasured Insights" and Geodes of Replication by completing Treasured Quests. Rewards from these quests are subject to a weekly limit.
-
-● During the event, once your total accumulated "Treasured Insights" reaches the required amount, you can claim the Manekin Cosmetics Set "Tinker's Treasures."
-
-● Before claiming your first component of the "Tinker's Treasures" Manekin Cosmetic Set, you may freely switch between available set rewards. Once you've claimed any component of the set, your choice will be locked and cannot be changed.
-
-※ The Manekin Cosmetic Set "Tinker's Treasures" will be available for a limited time in the Miliastra Shop after Version 7.2 ends. Please visit the Miliastra Shop for more details.
-
------
-
-# ["Wonderland Treasures: Frosty Court" – New Manekin Cosmetics Now Available](archive/21990.md)
-## Wonderland Treasures: Frosty Court
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/a48d1fa02e0b52e1ba0e36c4bcd80464_9072444056486820371_transformed.jpg)
-
-〓Event Ode Details〓
-
-Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
---- | --- | ---
-After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/15 14:59</t> | "Frosty Plume" | "Winter's Warmth"
-^ | ^ | "Wildpeak Echoes"
-^ | ^ | "Healing Heart"
-
-● During the event, the limited Legendary (5-Star) Cosmetic "Frosty Plume" and Elite (4-Star) Cosmetics "Winter's Warmth," "Wildpeak Echoes," and "Healing Heart" will be available in the Manekin Cosmetic Event Ode 2!
-
-● During the event, upon obtaining the limited Legendary (5-Star) Cosmetic "Frosty Plume" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the shop, or received as a gift), you will unlock its Ascension "Frosty Plume: Shadowed Verse."
-
-※ Event Ode 2 for this event follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
-
-※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
-
------
-
-# ["Wonderland Treasures: Polyphonic Harmony": New Manekin Cosmetics Now Available](archive/21989.md)
-## Wonderland Treasures: Polyphonic Harmony
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/00f293903ce1f15f522e633f8eab1de5_6604583643147968203_transformed.jpg)
-
-During the event, Travelers can obtain desired Manekin Cosmetics via the "Polyphonic Harmony" Event Ode, Chronicle of Polyphony, or the Miliastra Shop!
-
-Play Popular Miliastra Wonderland stages with your new Sets or Try-On Capes equipped to obtain a Primogems ×60 reward!
-
-〓Event Ode Details〓
-
-Event Ode Duration | Limited Legendary (5-Star) Cosmetic | Elite (4-Star) Cosmetics
---- | --- | ---
-After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/15 14:59</t> | Polyphonic Variations | Dreamkeeper Plush
-^ | ^ | Tea-Time Enchantment
-^ | ^ | A Study in Bloom
-
-● During the event, the limited Legendary (5-Star) Cosmetic "Polyphonic Variations" and Elite (4-Star) Cosmetics "Dreamkeeper Plush," "Tea-Time Enchantment," and "A Study in Bloom" will be available in the Manekin Cosmetic Event Ode!
-
-● During the event, upon obtaining the event-exclusive Legendary (5-Star) Cosmetic "Polyphonic Variations" for the same Manekin/Manekina a second time (whether obtained in an Ode, redeemed at the Shop, or received as a gift), you will unlock its Ascension "Polyphonic Variations: Verdant Reverie."
-
-※ The current Event Ode follows the same rules as previous events. For more information on Event Odes, go to the Event Ode screen and select Details in the bottom-left corner.
-
-※ Manekin cosmetics and actions are for reference only. Please refer to the actual in-game appearance.
-
-〓Miliastra Shop〓
-
-Cosmetic Availability Period | Cosmetic Availability Period
---- | ---
-After the Version 7.2 update Available for 3 consecutive versions | After the Version 7.2 update Available for 3 consecutive versions
-Limited-Time Discount Period | Limited-Time Discount Period
-After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/14 03:59</t> | After the Version 7.2 update  —  <t class="t_lc" contenteditable="false">2026/12/14 03:59</t>
-Elite (4-Star) Cosmetics | Exceptional (3-Star) Cosmetics
-Manekin Cosmetic "Pixel Motion" Manekina Cosmetic "Pixel Motion" | Manekin Cosmetic "Masquerade" Manekina Cosmetic "Masquerade"
-Manekin Cosmetic "Afternoon Nectar" Manekina Cosmetic "Afternoon Nectar" | Manekin Cosmetic "Fish on the Run" Manekina Cosmetic "Fish on the Run"
-Manekin Cosmetic "Prelude to Spring" Manekina Cosmetic "Prelude to Spring" | ^
-
-● After the Version 7.2 update, a total of 6 Elite (4-Star) Cosmetics and 4 Exceptional (3-Star) Cosmetics will be available in the Miliastra Shop for a limited time. Each Cosmetic can be purchased once during its availability period.
-
-● New Cosmetic Sets for Version 7.2! The featured Elite (4-Star) Cosmetic Sets in the current event are available for Chronal Nexus ×960 during the discount period and will revert to Chronal Nexus ×1,200 once the offer ends. The featured Exceptional (3-Star) Cosmetic Set "Masquerade" in the current event is available for Chronal Nexus ×160 during the discount period and will revert to Chronal Nexus ×200 once the offer ends. The "Fish on the Run" Cosmetic Set is available for Chronal Nexus ×240 during the discount period and will revert toChronal Nexus ×300 once the offer ends.
-
-● New themed Cosmetic Sets can be purchased as bundles that include both the Manekin and Manekina versions. For the current event, the featured Elite (4-Star) Cosmetic Bundle is priced at Chronal Nexus ×1,440 while the featured Exceptional (3-Star) Cosmetic Bundle "Masquerade" is priced at Chronal Nexus ×240.  In addition, the "Fish on the Run" Set Bundle is priced at Chronal Nexus ×360. These bundles are only available during the limited-time discount period for the corresponding Cosmetic Sets. For more details about Cosmetic Bundles, please visit the Miliastra Shop.
-
-● After the Version 7.2 update, more information on the available Facial Makeup will be provided in the Miliastra Shop.
-
-● You can view your purchased Manekin Cosmetics via Paimon Menu > Cosmetic Plans.
-
-〓Chronicle of Polyphony〓
-
-● Event Duration: After the Version 7.2 update – <t class="t_lc" contenteditable="false">2026/12/14 03:59</t>
-
-● During the event, Travelers can earn an abundance of rewards through the Miliastra Pass. By unlocking "Chronicles of the Realms" or "Epic of the Realms," you'll obtain the limited (4-Star) Cosmetic "Harmonic Insight"! Those who purchase Epic of the Realms directly will also receive the Miliastra Pass-exclusive lobby "Nocturne Theater: Melodious Echoes."
-
-※ Travelers who have already unlocked Chronicles of the Realms need only exchange the remaining difference in cost through purchasing Chronicle Recompilation in order to unlock Epic of the Realms.
-
-※ The purchase of Chronicles of the Realms, Epic of the Realms, and Chronicle Recompilation for this Miliastra Pass period will be available until 2026/12/14 02:59. After the purchase period ends, you can still complete Chronicle Missions and claim rewards. Traveler, please take note of the purchase period and event duration of the Miliastra Pass.
-
-● After unlocking Chronicles of the Realms or Epic of the Realms, you will unlock the "Battle Pass Boon" effect, granting a discount when purchasing the corresponding Battle Pass in Teyvat. Likewise, unlocking Gnostic Hymn or Gnostic Chorus will grant the "Chronicle Boon" effect, offering a discount when purchasing the corresponding Miliastra Pass in Miliastra Wonderland. You can check the Boon button on the Miliastra Pass or Battle Pass purchase screen for more details. The Boon effect can only be activated once during the current event period.
-
-● The Miliastra Pass and Battle Pass share the same start and end dates each period. Please be sure to check the time and claim your rewards promptly.
-
-〓New Standard Ode Set Catalog〓
-
-After the Version 7.2 update, a new Elite (4-Star) Set Catalog "Drifting with the Waves" will be added to the Standard Ode "Encounter Echoes."
-
-※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
 
 -----
 
