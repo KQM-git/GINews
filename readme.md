@@ -798,6 +798,20 @@ Fixes an issue whereby the Talent Card "Elk With Fanged Antlers" cannot be playe
 
 -----
 
+# [Version Details - What's New ](archive/22031.md)
+## Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/announcement/2020/11/11/0c4d0c742dde8334be30352fa3f5fb5b_4067277611421326976.jpg)
+
+Dear Travelers:
+
+To ensure that all Travelers have the best-possible Genshin Impact experience, our developers continually make optimizations and bug fixes to the game based on Travelers' feedback.
+
+〓<t class="t_gl" contenteditable="false">2026/11/04 14:40</t> Update Details〓
+
+Fixes an issue whereby, under certain circumstances, teleporting or starting challenges would be prevented in the event "The Grand Defense: Defy the Unjust Judgment."
+
+-----
+
 # [Event Wish "Myriad Patterns Unfold" - Boosted drop rate for "Rules Set at Naught" Mitya (Electro)!](archive/21997.md)
 ## Event Wish "Myriad Patterns Unfold"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/29/3cd76fed0001990a4f53fc06ad510ccd_794691239659394631_transformed.png)
