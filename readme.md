@@ -808,7 +808,9 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-Currently, the scarf effects of the character "Mitya" can be displayed abnormally (primarily affecting C6 Mitya). This issue will be fixed in a future update.
+- After the Version 7.2 update, the collision volume of the character "Sandrone" would be abnormal when entering high-speed hover mode after using her Elemental Skill. Additionally, Fagio would clip through the environment when performing a Charged Attack under certain circumstances. These issues will be fixed in a future update.
+
+- Currently, the scarf effects of the character "Mitya" can be displayed abnormally (primarily affecting C6 Mitya). This issue will be fixed in a future update.
 
 〓<t class="t_gl" contenteditable="false">2026/11/06 11:15</t> Update Details〓
 
