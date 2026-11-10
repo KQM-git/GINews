@@ -1,3 +1,15 @@
+# [New Content Overview](archive/22011.md)
+## Version 7.2 Now Available
+
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/b1bac72df4f40970af63cf05a89a2ff4_79568859335269460.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/195e7ffb08127b8fb50ac8b82894bf23_7131154814382550869.jpg)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/3ca59a6168c92a52f4a7c064b648c9d0_3668195159635493936.jpg)
+
+-----
+
 # ["Polyphonic Season" Season Opening Announcement](archive/21993.md)
 ## Polyphonic Season
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/fc8e12c95e7b2d400c80f04aaf7d749e_5129367042064515496_transformed.jpg)
@@ -143,18 +155,6 @@ Manekin Cosmetic "Prelude to Spring" Manekina Cosmetic "Prelude to Spring" | ^
 After the Version 7.2 update, a new Elite (4-Star) Set Catalog "Drifting with the Waves" will be added to the Standard Ode "Encounter Echoes."
 
 ※ For more information, go to the Standard Ode screen and select Details in the bottom-left corner.
-
------
-
-# [New Content Overview](archive/22011.md)
-## Version 7.2 Now Available
-
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/b1bac72df4f40970af63cf05a89a2ff4_79568859335269460.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/195e7ffb08127b8fb50ac8b82894bf23_7131154814382550869.jpg)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/11/03/3ca59a6168c92a52f4a7c064b648c9d0_3668195159635493936.jpg)
 
 -----
 
