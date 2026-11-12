@@ -808,19 +808,19 @@ To ensure that all Travelers have the best-possible Genshin Impact experience, o
 
 〓Known Issues〓
 
-- After the Version 7.2 update, the following issues exist with the character Mitya. These issues will be addressed after the Version 7.3 update:
+- After the Version 7.2 update, the following issues exist with the character "Mitya." These issues will be fixed after the Version 7.3 update:
 
-a. When Mitya performs a Special Charged Attack, there is a chance that it may fail to deal DMG to enemies that only move in the vertical direction.
+a. When the character performs a special Charged Attack, there is a chance that it will fail to deal DMG to enemies that only move in the vertical direction.
 
-b. In Trounce Domains, after an enemy enters a new combat phase, the Gradient Beacons carried by characters may fail to transform the nearby area into a Polestar Field.
+b. In Trounce Domains, after an enemy enters a new combat phase, there is a chance that Gradient Beacons carried by the character will fail to transform the nearby area into a Polestar Field.
 
-c. At certain camera angles, the "Detection Core: Steady State" created by Mitya's Elemental Skill may fail to clear some destructible rocks.
+c. At certain camera angles, there is a chance that the "Detection Core: Steady State" created by Mitya's Elemental Skill will fail to clear some destructible rocks.
 
-d. The character's appearance may display incorrectly in certain scenes.
+d. The character's appearance will display incorrectly in certain scenes.
 
-Additionally, while performing a special Charged Attack, the attack may hit enemies behind the character when adjusting its direction automatically.
+Additionally, while the character performs special Charged Attacks consecutively, there is a chance that the attacks will hit enemies behind the character when adjusting the attacking direction automatically.
 
-The development team will continue to monitor this issue. If there's any update on the matter, we will share them with Travelers as soon as possible via official notice.
+The development team will continue to monitor this issue. Should there be any further updates, we will inform Travelers as soon as possible through official announcements.
 
 - Currently, in the open-world Time Trial Challenge "Pass through 25 Ice Rings in 90 seconds" in the "Hallowed Plain" area of " Wingspan Peak," there is a chance that the snowball will break abnormally.
 
