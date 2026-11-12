@@ -828,7 +828,27 @@ Travelers who encounter this issue can temporarily resolve it by entering the se
 
 - After the Version 7.2 update, the collision volume of the character "Sandrone" would be abnormal when entering high-speed hover mode after using her Elemental Skill. Additionally, Fagio would clip through the environment when performing a Charged Attack under certain circumstances. These issues will be fixed in a future update.
 
-- Currently, the scarf effects of the character "Mitya" can be displayed abnormally (primarily affecting C6 Mitya). This issue will be fixed in a future update.
+〓<t class="t_gl" contenteditable="false">2026/11/12 16:20</t> Update Details〓
+
+- Fixes an issue whereby, after the Version 7.2 update, players were occasionally unable to complete the "Meet up with the others" objective in Clorinde's Story Quest "Buried Honor," preventing further quest progress.
+
+- Fixes an issue whereby the Calamity Crystals in the quest cutscene did not fade away as intended after players completed the "Destroy the black crystal core" objective in the World Quest "Penumbral Escape."
+
+- Fixes an issue whereby the effects of Mitya's scarf would display abnormally (this issue mainly affected characters with Constellation Lv. 6 activated).
+
+- Fixes an issue whereby the acquisition descriptions were incorrect for "Construct Appearance: Snowman" for the "Prime Ice Construct: Storage Device" and "Construct Appearance: Snowflake" for the "Prime Ice Construct: Sign."
+
+- Fixes an issue whereby guidance icons would appear incorrectly when characters approached locations where certain firearm attachments had already been collected.
+
+- Adds compatibility support for iPad mini (A20 Pro) series devices.
+
+- Fixes an issue whereby enemies near a chest in the northeastern part of the Kresnik Kristall Mines in Wingspan Peak would sometimes disappear unexpectedly, preventing players from unlocking the chest.
+
+- Fixes a Japanese-language localization text error in the World Quest "Hatred, and the Throne of Those Who Hate."
+
+- Fixes an issue whereby the Japanese voice-over line "More About Vesna: IV" for Vesna under the Character > Profile > Voice-Over page was not updated to the latest version in Version 7.2, and selecting "More About Vesna: I" would play the audio of "More About Vesna: IV" instead.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
 
 〓<t class="t_gl" contenteditable="false">2026/11/06 11:15</t> Update Details〓
 
