@@ -978,11 +978,15 @@ Additionally, while the character performs special Charged Attacks consecutively
 
 The development team will continue to monitor this issue. Should there be any further updates, we will inform Travelers as soon as possible through official announcements.
 
-- Currently, in the open-world Time Trial Challenge "Pass through 25 Ice Rings in 90 seconds" in the "Hallowed Plain" area of " Wingspan Peak," there is a chance that the snowball will break abnormally.
-
-Travelers who encounter this issue can temporarily resolve it by entering the second special tunnel in the challenge through either of its side edges. This issue will be fixed in a future update.
-
 - After the Version 7.2 update, the collision volume of the character "Sandrone" would be abnormal when entering high-speed hover mode after using her Elemental Skill. Additionally, Fagio would clip through the environment when performing a Charged Attack under certain circumstances. These issues will be fixed in a future update.
+
+〓<t class="t_gl" contenteditable="false">2026/11/19 16:20</t> Update Details〓
+
+- Updates resources related to subsequent events.
+
+- Fixes an issue in the Open World Time Trial Challenge "Pass through 25 Ice Rings in 90 seconds" in the "Hallowed Plain" area of "Wingspan Peak" where the snowball could unexpectedly break apart.
+
+Travelers affected by the above issues can log out via the Paimon Menu by selecting "Exit to Login Interface" and close the game, then log in again to resolve the issues.
 
 〓<t class="t_gl" contenteditable="false">2026/11/12 16:20</t> Update Details〓
 
